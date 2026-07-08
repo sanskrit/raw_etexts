@@ -1,16 +1,15 @@
 +++
 title = "श्रीमन्महाभारतम् (अनुशासनपर्वणि द्वितीयो भागः)"
-publisher = "वि. रामस्वामि शास्त्रुलु एण्ड् सन्स्"
+publisher = "वि. रामस्वामिशास्त्रुलु-एण्ड्-सन्स्"
 "publish year" = "1936"
 domain = "इतिहासः"
 sub-domain = "महाभारतम्"
 pages = "870"
 language = "संस्कृतम्"
-editor = "पि.पि.सुब्रह्मण्यशास्त्री"
-printer = "वाविळ्ळ मुद्रणालयम् चेन्नपुरी"
+editor = "पि. पि. सुब्रह्मण्यशास्त्री"
+printer = "वाविळ्ळ-मुद्रणालयं चेन्नपुरी"
 "serial no." = "Ebharati-6120"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MjI2MzAwNzk0Nzg1&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[श्रीमन्महाभारतम् (अनुशासनपर्वणि द्वितीयो भागः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MjI2MzAwNzk0Nzg1&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -23,21 +22,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MjI2MzAwNzk
    The Anus'**ā**sana Parvan is issued in two volumes. The first volume deals with chapters 1—78, while the second volume completes the Anus'**ā**sana Parvan.  
    In the preparation of this volume for the Press, the following manuscripts fully representative of the Southern Recension, were utilised.
 
-**  अ—**represents the Principal Text printed. The Manuscript belongs to Brahma Sri Krishna Sastrigal, Palace Pauranikar, Trivandrum. Its description is as follows:—Substance— palm-leaf; Size—<MISSING_FIG href="../books_images/U-IMG-1707202027Untitled.png"/> inches; Leaves— 284; Lines—10-12 to a page; Script -Grantha; Anus'**ā**sana Parvan Complete.
+** अ—**represents the Principal Text printed. The Manuscript belongs to Brahma Sri Krishna Sastrigal, Palace Pauranikar, Trivandrum. Its description is as follows:—Substance— palm-leaf; Size—<MISSING_FIG href="../books_images/U-IMG-1707202027Untitled.png"/> inches; Leaves— 284; Lines—10-12 to a page; Script -Grantha; Anus'**ā**sana Parvan Complete.
 
 ** क—**is used for additional readings, etc. The Manuscript belongs to His Highness the Maharaja of Travancore and was made available to us through the kindness of Sir C. P. Ramaswami Aiyer, K. C. I. E., Legal and Constitutional Adviser to the
 
-INTRODUCTION
+**INTRODUCTION**
 
 State. Its description is as follows:—  
-  Substance— palm-leaf; Size—<MISSING_FIG href="../books_images/U-IMG-1707202388Untitled.png"/>inches;Leaves:— 382; Lines 10-11 to a page; Script - Malayalam; Anusāsana Parvan complete: Date of Transcription-1791 A. D.
+  Substance— palm-leaf; Size—<MISSING_FIG href="../books_images/U-IMG-1707202388Untitled.png"/> inches;Leaves:— 382; Lines 10-11 to a page; Script - Malayalam; Anusāsana Parvan complete: Date of Transcription-1791 A. D.
 
   ख— is used for additional readings, etc. The Manuscript belongs to the Adyar Library Madras. Its description is as follows:—Substance— palm - leaf ; Size—<MISSING_FIG href="../books_images/U-IMG-1707202288Untitled.png"/> inches ; Lines— 10-12 to a page ; Leaves 102; Script–Telugu; Anus'**ā**sana Parvan complete. Date of Transcription–23rd February 1558 A. D.
 
   घ— is used for additional readings etc. The Manuscript was procured for us by Mr. K. K. Lakshminarayana Iyer of Kadayam village in the Tinnevelly District from Mr. Natesa Iyer. Its description is as follows:—  
-Substance— palm-leaf; Size—<MISSING_FIG href="../books_images/U-IMG-1707202216Untitled.png"/>inches; Leaves—410; Lines—9-10 to a page; Script-Grantha; Anus'**ā**sana Parvan complete. Date of Transcription—1842 A. D.
+Substance— palm-leaf; Size— <MISSING_FIG href="../books_images/U-IMG-1707202216Untitled.png"/> inches; Leaves—410; Lines—9-10 to a page; Script-Grantha; Anus'**ā**sana Parvan complete. Date of Transcription—1842 A. D.
 
-II
+**II**
 
   From the Parvasa**ṅ**graha-parvan to the Ādi Parvan, it will be observed that the Anusāsana Parvan should consist of 146 chapters and 8,000 stanzas only according to the Northern Recension and 156 chapters and 12,000 stanzas according to the Southern Recension. However, we find that the Poona Edition with Bhãvadipa divides the Anus'**ā**sana Parvan into 168 chapters and that the Kumbakonam Edition divides it into 274 chapters while the majority of the manuscripts representative of the Southern Recension divide it into 252 chapters. In printing the Principal Text for the Southern Recénsion we have divided the Anus**'ā**sana Parvan into 156 chapters indicating in the Concordance and in appropriate places in the body of the Text the deviations of the several manuscripts wherever they occur.
 
@@ -45,15 +44,15 @@ II
 
    All the Manuscripts and Printed Editions representative of the Northern Recension agree in naming the Ānus'āsanika Parvan as the Dānadharma Parvan.
 
-V
+**V**
 
   With regard to the Anusasana Parvan it is possible to mark a Text clearly as Southern or Northern according as it has or omits particular chapters and incidents, characteristic of each Recension. A few of the more important distinctive features of the Southern Recension of the Anus'asana Parvan are noticed below.
 
-**  I.** The Indra - matangasamvāda which appears as chapter 3 in the very beginning of the Anusāsana Parvan according to the Southern Recension is narrated at a later stage as chapters 27, 28 and 29 in the Northern [Recension[^774]. Nannaya favours the mention of this Samvada in the context in which it occurs in the Southern Recension while Vădirāja refers to it in the context in which it appears in the Northern Recension.
+** I.** The Indra - matangasamvāda which appears as chapter 3 in the very beginning of the Anusāsana Parvan according to the Southern Recension is narrated at a later stage as chapters 27, 28 and 29 in the Northern [Recension[^1]. Nannaya favours the mention of this Samvada in the context in which it occurs in the Southern Recension while Vădirāja refers to it in the context in which it appears in the Northern Recension.
 
-[^774]: # "The representative edition of the Northern Recension is the edition published by the Chitrasala Press, Poona."
+[^1]: # "The representative edition of the Northern Recension is the edition published by the Chitrasala Press, Poona."
 
-**  II.** The Garudopākhyāna narrated in chapter 12 of the Southern Recension is completely omitted in in the Northern Recension. Vadiraja culls pratikas from this context.
+** II.** The Garudopākhyāna narrated in chapter 12 of the Southern Recension is completely omitted in in the Northern Recension. Vadiraja culls pratikas from this context.
 
   Nannaya also has epitomised this episode in his work.
 
@@ -62,59 +61,55 @@ Vādirāja does not refer to this context at all. But, Nannaya has epitomised th
 
 ** IV**. The Nārada-markandeya samvāda narrated in chapter 27 of the Southern Recension is completely omitted in the Northern Recension. Vadiraja culls pratikas from this chapter.
 
-**  V.** The incidents narrated in chapters 67 to 71 of the Southern Rec-ension, to wit, the Phenapopākhyāna, Vyāsa-suka-samvāda, etc, are completely omitted in the Northern Recension. Vadiraja makes references to these chapters. Nannaya also epitomises the contents of these chapters.
+** V.** The incidents narrated in chapters 67 to 71 of the Southern Rec-ension, to wit, the Phenapopākhyāna, Vyāsa-suka-samvāda, etc, are completely omitted in the Northern Recension. Vadiraja makes references to these chapters. Nannaya also epitomises the contents of these chapters.
 
-**  VI.** The expounding of Dharma according to Vṛddha Parāsara, narrated in chapter 84 of the Southern Recension is completely
+** VI.** The expounding of Dharma according to Vṛddha Parāsara, narrated in chapter 84 of the Southern Recension is completely
 
 omitted in the Northern Recension. Vādirāja makes references to these chapters. Nannaya also epitomises the contents of these chapters.
 
-**  VII.** The contents of chapter 98 of the Southern Indent Recension are conspicuous by their complete omission in the Northern Recension. Vādirāja does not make any reference to the context. But Nannaya epitomises the contents of this chapter.
+** VII.** The contents of chapter 98 of the Southern Indent Recension are conspicuous by their complete omission in the Northern Recension. Vādirāja does not make any reference to the context. But Nannaya epitomises the contents of this chapter.
 
-**  VIII.** Chapters 111 to 137 of the Southern Recension appear as chapters 139 to 146 in the Northern Recension (Poona Edition with Bhāvadipa) in a highly epitomised and disconnected form, whereas the Kumbakonam Edition and the Mss. of the Southern Recension give the same in extenso in as many as 49 chapters (202-250 of Kumbakonam Edition). Vādirāja makes references to these chapters in their unabridged form and Nannaya also would seem to favour the Text in its extended form.
+** VIII.** Chapters 111 to 137 of the Southern Recension appear as chapters 139 to 146 in the Northern Recension (Poona Edition with Bhāvadipa) in a highly epitomised and disconnected form, whereas the Kumbakonam Edition and the Mss. of the Southern Recension give the same in extenso in as many as 49 chapters (202-250 of Kumbakonam Edition). Vādirāja makes references to these chapters in their unabridged form and Nannaya also would seem to favour the Text in its extended form.
 
-————
+**————**
 
-VI
+**VI**
 
    A few of the more important and distinctive features of the Northern Recension of the Anusāsana Parvan which call for careful scrutiny and re-examination are noticed below :
 
-**  I.** The Southern Recension Recension omits chapter 32 of the Northern Recension wherein the S'yenakapotopākhyāna is narrated. Vādirāja refers to this context as the sixtieth chapter of his Text. But Nannaya does not seem to be familiar with this episode.
+** I.** The Southern Recension Recension omits chapter 32 of the Northern Recension wherein the S'yenakapotopākhyāna is narrated. Vādirāja refers to this context as the sixtieth chapter of his Text. But Nannaya does not seem to be familiar with this episode.
 
 ** II.** The Southern Recension omits chapter 58 of the Northern Recension (Chitrasala Press Edition) wherein the fruits accruing from the construction of tanks, etc., are narrated. Vādirāja refers to this context as the eighty-fifth chapter of his Text. But Nannaya does not seem to be familiar with the contents of this chapter.
 
-**  III.** The Southern Recension omits chapters 109 and 110 of the Northern Recension (Chitrasala Press Edition) wherein the merits
+** III.** The Southern Recension omits chapters 109 and 110 of the Northern Recension (Chitrasala Press Edition) wherein the merits
 
 attached to the worship of the Lord on the twelfth day of each of the months from Mārgaśirṣa to Kārtika and the efficacy of the Cāndravrata in accomplishing bodily beauty are narrated. Vādirāja would seem to be familiar with the contents of chapter 109 at least, to which he refers as chapter 159 of his Text. But Nannaya does not seem to be familiar with the contents of either of these chapters.
 
-**  IV.** The Southern Recension omits chapters 125 to 138 of the Northern Recension wherein the elaboration of Dharma according to Viṣṇu, Baladeva, Surya, Gārgya, Vāyu, Lomas'a, Arundhati, Yama, etc,, are narrated. Vālirāja makes definite references to the contents of these chapters and culls pratikas, therefrom. But Nannaya does not seem to be familiar with the contents of these chapters.
+** IV.** The Southern Recension omits chapters 125 to 138 of the Northern Recension wherein the elaboration of Dharma according to Viṣṇu, Baladeva, Surya, Gārgya, Vāyu, Lomas'a, Arundhati, Yama, etc,, are narrated. Vālirāja makes definite references to the contents of these chapters and culls pratikas, therefrom. But Nannaya does not seem to be familiar with the contents of these chapters.
 
-**  V.** The Southern Recension omits chapters 147 and 148 of the Northern Recension wherein the greatness of Kṛṣṇa is narrated Vādirāja makes definite references to the
+** V.** The Southern Recension omits chapters 147 and 148 of the Northern Recension wherein the greatness of Kṛṣṇa is narrated Vādirāja makes definite references to the
 
 contents of these chapters. But Nannaya. does not exhibit any familiarity with the contents of these chapters.
 
-**  VI.** The Southern Recension omits chapter 150 of the Northern Recension wherein the merit that accrues from the enumaration of the names of the eleven Rudras, the twelve Adity s, sages like Vasiṣṭa, etc., is narrated. Vādināja has a definite reference to this context which forms chapter 248 of his Text. But Nannaya does not appear to be familiar with the contents of this chapter.
+** VI.** The Southern Recension omits chapter 150 of the Northern Recension wherein the merit that accrues from the enumaration of the names of the eleven Rudras, the twelve Adity s, sages like Vasiṣṭa, etc., is narrated. Vādināja has a definite reference to this context which forms chapter 248 of his Text. But Nannaya does not appear to be familiar with the contents of this chapter.
 
-————
+**————**
 
-VII
+**VII**
 
   The Śānti and the Anuśāsana Parvans represent the most popular of the several Parvans of the Mahābhārata and as such have suffered in their Text tradition to the great st exien. Vādirāja, the earliest among the Mahābhārata commentators so far known to us, was one of our sure and safe guides in fixing the Text of the Southern Recension. But with reference to the Śānti and the Anuśasana Parvans, he seems distinctly to favour a mixed Recension than either the Southern or the Northern Recension alone. A reference to the facts mentioned under sections V and VI of this Introduction will show that, while he includes in his Text those chapters which are characteristic of the Southern Recension and which are conspicuously omitted by the Northern Recension, he includes also those chapters which are a characteristic feature of the Northern Recension and which are omitted by the Southern Recension. Irresistable therefore is the conclusion that, by his time, the Text of these two Parvans had undergone a good deal of change from what it must have been
 
 as a true and unmixed representative of the Southern Recension. To facilitate a critical study of this problem we have printed as Appendix to this Volume those chapters which are characteristic of the Northern Recension and which are commented on by Vādirāja but which are omitted by manuscripts of the Southern Recension. It is necessary to add that Nannaya who flourished at least two centuries. earlier to Vādināja, does not exhibit any familiarity with the contents of these chapters.
 
-————
+**————**
 
-VIII
+**VIII**
 
-  In Pp 6-7 of this Introduction, we have stated that the Anuśāsana Parvan according to the Southern Recension should consist of 156 chapters and 12,000 stanzas. According to the Principal Text printed, it will be found that though the Text has been edited in 156 chapters, the total number of stanzas in the Anuśāsana Parvan comes only to 10249½ exclusive of 40 prose passages. The deficiency is probably due to the omission of several chapters forming part of the Southern Recension, but which are not available to us in our extant manuscript-material. A careful study of Vādirāja's commentary reveals to us the fact that several chapters referred to and named by him as part of the Anuśāsana Parvan are not traceable in the manuscripts and printed editions of this Parvan so far available, of both Recensions. Chapters 216 to 220 and 225 to 239 of the Laksālankara of Vādirāja are instancesto the point.
+  In Pp 6-7 of this Introduction, we have stated that the Anuśāsana Parvan according to the Southern Recension should consist of 156 chapters and 12,000 stanzas. According to the Principal Text printed, it will be found that though the Text has been edited in 156 chapters, the total number of stanzas in the Anuśāsana Parvan comes only to 10249½ exclusive of 40 prose passages. The deficiency is probably due to the omission of several chapters forming part of the Southern Recension, but which are not available to us in our extant manuscript-material. A careful study of Vādirāja's commentary reveals to us the fact that several chapters referred to and named by him as part of the Anuśāsana Parvan are not traceable in the manuscripts and printed editions of this Parvan so far available, of both Recensions. Chapters 216 to 220 and 225 to 239 of the Laksālankara of Vādirāja are instances to the point.
 
-IX
+**IX**
 
-  While Nannaya is familiar with the Śānti and the Anuśāsana Parvans as two distinct major Parvans of the Mahābhārata, it is interesting to observe that Vādirāja speaks of these two as one single major Parvan the Śānti Parvan and has colophons as
-
-**" इति श्रीमन्महभरते शतसाहस्रिकायां संहितायां वैयासिक्यां शान्तिपर्वणि अनुशासनिके भीष्मस्वर्गारोहणम् नाम षट्षष्टिद्विशततमोऽध्यायः॥ इति शान्तिपर्वं समाप्तम् ॥"**
-
-Was there any time when these two major Parvans were really treated as one Parvan and if so when did they get separated and recognised as two distinct major Parvans? These are indeed highly interesting questions. Our detailed remarks on these problems will be found in our Introduction to Vol XV which completes theŚānti Parvan and which will be the final volume issued by us to complete the Text of the Southern Recension, the other volumes having appeared already.
+  While Nannaya is familiar with the Śānti and the Anuśāsana Parvans as two distinct major Parvans of the Mahābhārata, it is interesting to observe that Vādirāja speaks of these two as one single major Parvan the Śānti Parvan and has colophons as **" इति श्रीमन्महभरते शतसाहस्रिकायां संहितायां वैयासिक्यां शान्तिपर्वणि अनुशासनिके भीष्मस्वर्गारोहणं नाम षट्षष्टिद्विशततमोऽध्यायः॥ इति शान्तिपर्वं समाप्तम् ॥"** Was there any time when these two major Parvans were really treated as one Parvan and if so when did they get separated and recognised as two distinct major Parvans? These are indeed highly interesting questions. Our detailed remarks on these problems will be found in our Introduction to Vol XV which completes theŚānti Parvan and which will be the final volume issued by us to complete the Text of the Southern Recension, the other volumes having appeared already.
 
 P. P. S. SASTRI,  
 Editor.
@@ -125,573 +120,601 @@ The Presidency College,
 
 **॥ श्रीरस्तु ॥  
 महाभारतस्यानुशासनपर्वणि द्वितीयो भागः**  
-
 **तत्र**  
-
 **॥ विषयानुक्रमणिका ॥**
 
-आनुशासनिकपर्व  
+**आनुशासनिकपर्व  
+द्वितीयसम्पुटम्**
 
-द्वितीयसम्पुटम्
-
-|                                                                   |
-|:-----------------------------------------------------------------:|
-|                              अध्यायः                              |
+| |
+|:------------------------------------------------------:|
+| **अध्यायः** |
 | ७९ अतिनिमिसंवादेन श्राद्धे वर्जनीयानां धान्यशाकादीनां प्रतिपादनम् |
-|                 निमिनाऽमावास्यायां श्राद्धविधानम्                 |
-|                   अस्त्रिणा श्राद्धविधिनिरूपणम्                   |
-|              श्राद्धे भागार्हाणां विस्तरेण नामकथनम्               |
-|                श्राद्धानर्हधान्यशाकादिनामनिर्देशः                 |
-|     निमिना यथाविधि श्राद्धविधानेन पितॄणां तृतिप्रकार वर्णनम्      |
-|  अग्निना श्राद्धे पितॄणामजीर्णस्य जीर्णीकरणेन प्रथमभाग स्वीकरणम्  |
-|              श्राद्धस्य निवापरूपत्वे तद्विधिनिरूपणम्              |
-|                    ८० उपवासलक्षणफलादिनिरूपणम्                     |
-|                       ब्रह्मचर्यलक्षणकथनम्                        |
-|           भगवद्भागवतेभ्यो निवेदितशेषस्याशनविधि निरूपणम्           |
+| निमिनाऽमावास्यायां श्राद्धविधानम् |
+| अस्त्रिणा श्राद्धविधिनिरूपणम् |
+| श्राद्धे भागार्हाणां विस्तरेण नामकथनम् |
+| श्राद्धानर्हधान्यशाकादिनामनिर्देशः |
+| निमिना यथाविधि श्राद्धविधानेन पितॄणां तृतिप्रकार वर्णनम् |
+| अग्निना श्राद्धे पितॄणामजीर्णस्य जीर्णीकरणेन प्रथमभाग स्वीकरणम् |
+| श्राद्धस्य निवापरूपत्वे तद्विधिनिरूपणम् |
+| ८० उपवासलक्षणफलादिनिरूपणम् |
+| ब्रह्मचर्यलक्षणकथनम् |
+| भगवद्भागवतेभ्यो निवेदितशेषस्याशनविधि निरूपणम् |
 
-|                                                                                               |
-|:---------------------------------------------------------------------------------------------:|
-|                                            अध्यायः                                            |
-|                  ८१ सप्तर्षिवृषादर्विसंवादेनासत्प्रतिग्रहस्य निन्द्यत्वकथनम्                  |
-|                  वृषादर्विणा सप्तर्षीन् प्रति स्वस्मात् प्रतिग्रहप्रार्थनम्                   |
-|                 सप्तर्षिभिः वृषादर्विसकाशात् प्रतिग्रहस्यानङ्गीकारहेतु कथनम्                  |
-|                         वृषादर्विणा सप्तर्षीणां हननाय कृत्योत्पादनम्                          |
-|                                 कृत्यया सप्तर्षिहननाय वनगमनम्                                 |
-|                            सप्तर्षीणां भिक्षुरूपिणेन्द्रेण समागमः                             |
-|                      सप्तर्षिभिररुन्धतीं प्रतीन्द्रस्य पीवरत्वकारणकथनम्                       |
+
+
+| |
+|:------------------------------------------------------------------------:|
+| **अध्यायः** |
+| ८१ सप्तर्षिवृषादर्विसंवादेनासत्प्रतिग्रहस्य निन्द्यत्वकथनम् |
+| वृषादर्विणा सप्तर्षीन् प्रति स्वस्मात् प्रतिग्रहप्रार्थनम् |
+| सप्तर्षिभिः वृषादर्विसकाशात् प्रतिग्रहस्यानङ्गीकारहेतु कथनम् |
+| वृषादर्विणा सप्तर्षीणां हननाय कृत्योत्पादनम् |
+| कृत्यया सप्तर्षिहननाय वनगमनम् |
+| सप्तर्षीणां भिक्षुरूपिणेन्द्रेण समागमः |
+| सप्तर्षिभिररुन्धतीं प्रतीन्द्रस्य पीवरत्वकारणकथनम् |
 | सप्तर्षिभिः बिसग्रहणाय पद्मिनीरक्षिण्यै कृत्यायै स्वस्वनामनिर्देशपूर्वकं पद्मिनीं प्रति गमनम् |
-|                      सप्तर्षिभिः पद्मिन्यां कृत्यां प्रति स्वस्वनामकथनम्                      |
-|       कृत्यया च निर्दिष्टनाम्नस्सप्तर्षीन् प्रति प्रत्येकशः पद्मिन्यामवतरणाभ्यनुज्ञानम्       |
-|                कृत्यया सप्तर्षीन् प्रति सहेतूपपादनं स्वस्यारुन्धतीत्व निरूपणम्                |
-|                           इन्द्रेणारुन्धत्यास्त्रिभिर्दण्डैः हननम्                            |
-|                  सप्तर्षिभिः बिसस्तैन्ये स्वेष्वपराधनिवृत्तये नानाशपथ करणम्                   |
-|                         इन्द्रेण स्वस्यैव बिसस्तैन्यकृत्वप्रतिपादनम्                          |
-|             सप्तर्षिभिरगस्त्यं प्रति स्वेषु शपथपूर्वकं पद्मस्तैन्यशङ्का निवारणम्              |
-|                      इन्द्रेणागस्त्यं प्रति पद्मापहारस्य प्रयोजनोपपादनेन                      |
-|                                प्रसादनपूर्वकं पद्मप्रतिपादनम्                                 |
-|                           ८२ जमदग्निना रेणुकानीतबाणैः क्रीडाविधानम्                           |
-|                 जमदग्निना रेणुकायांसूर्योपतापश्रवणेन भूमौ सूर्यपातनोद्यमनम्                  |
+| सप्तर्षिभिः पद्मिन्यां कृत्यां प्रति स्वस्वनामकथनम् |
+| कृत्यया च निर्दिष्टनाम्नस्सप्तर्षीन् प्रति प्रत्येकशः पद्मिन्यामवतरणाभ्यनुज्ञानम् |
+| कृत्यया सप्तर्षीन् प्रति सहेतूपपादनं स्वस्यारुन्धतीत्व निरूपणम् |
+| इन्द्रेणारुन्धत्यास्त्रिभिर्दण्डैः हननम् |
+| सप्तर्षिभिः बिसस्तैन्ये स्वेष्वपराधनिवृत्तये नानाशपथ करणम् |
+| इन्द्रेण स्वस्यैव बिसस्तैन्यकृत्वप्रतिपादनम् |
+| सप्तर्षिभिरगस्त्यं प्रति स्वेषु शपथपूर्वकं पद्मस्तैन्यशङ्का निवारणम् |
+| इन्द्रेणागस्त्यं प्रति पद्मापहारस्य प्रयोजनोपपादनेन |
+| प्रसादनपूर्वकं पद्मप्रतिपादनम् |
+| ८२ जमदग्निना रेणुकानीतबाणैः क्रीडाविधानम् |
+| जमदग्निना रेणुकायां सूर्योपतापश्रवणेन भूमौ सूर्यपातनोद्यमनम् |
 
-|                                                                       |
-|:---------------------------------------------------------------------:|
-|                                अध्यायः                                |
-|                      ८२ सूर्येण जमदग्निप्रसादनम्                      |
-|                  ८३ सूर्येण जमदग्नये शरणागतिविधानम्                   |
-| जमदग्निना सूर्यंप्रति शरणागतहनने दोषभूयस्त्वनिवेदन पूर्वकमभयप्रदानम् |
-|                सूर्येण जमदग्निं प्रति छत्रोपानप्रदानम्                |
-|                    छत्रोपानत्प्रदानस्य फलनिरूपणम्                     |
-|                 ८४ पराशरोक्तशूद्रधर्मादीनां निरूपणम्                  |
-|           शूद्रैःविध्यतिक्रमणे निकृष्टनानाजातिषु समुद्भवः            |
-|     ब्राह्मणादिधर्मनिरूपणपूर्वकं शूद्रस्य यतिशुश्रूषाप्रकार कथनम्     |
-|                            यतिधर्मनिरूपणम्                            |
-|                       यतीनां शौचप्रकारनिरूपणम्                        |
-|                            महाशौचनिरूपणम्                             |
-|               कालदेशाद्यानुगुण्येन शौचस्य गौरवलाववकथनम्               |
-|                   शौचानन्तरं क्षालनाचमनादिनिरूपणम्                    |
-|                 आचमनमार्जनादिभिः ऋग्वेदादिप्रीतिकथनम्                 |
-|                     ब्राह्मणादीनां वृत्तिनिरूपणम्                     |
-|                    शूद्रस्य यतिशुश्रूषाप्रकारकथनम्                    |
-|                  शूद्रस्य यतिविषये स्थितिप्रकारकथनम्                  |
-|                     शूद्रस्य धर्माद्यनधिकारकथनम्                      |
-|             शूद्रस्य परस्त्रीसङ्गमदोषे प्रायश्चित्तकथनम्              |
-|                       अरिष्टप्राप्तिलक्षणकथनम्                        |
-|             पुरुषस्य सुकृतविशेषेण स्वर्गादिप्राप्तिकथनम्              |
-|                स्वर्गतस्य पुरुषस्य पुनर्भूमौ जननकथनम्                 |
-|           स्वर्गात् पुनर्भूमो जातस्य पुरुषस्योपनयनादिकथनम्            |
 
-|                                                                 |
-|:---------------------------------------------------------------:|
-|                             अध्यायः                             |
-|       ८४ सुकृतविशेषेण पुनः पुनः स्वर्लोकादिप्राप्तौ जात-        |
-| वैराग्यस्य पुरुषस्यापुनरावृत्तिलक्षणमोक्षप्राप्तावभिलाषादिकथनम् |
-|              शुभाशुभकर्मभिः शुभाशुभफलप्राप्तिकथनम्              |
-|       ८५ इन्द्रमातलिसंवादेन नमस्कारप्रयोजकगुणप्रतिपादनम्        |
-|            नमस्कारप्रयोजकगुणवन्महात्मनां लक्षणकथनम्             |
-|                    ८६ तटाकनिर्माणफलनिरूपणम्                     |
-|                      वृक्षारोपणफलतिरूपणम्                       |
-|         ८७ भूदेवीश्रीभगवत्संवादेन गृहस्थधर्मप्रतिपादनम्         |
-|                     गृहस्थधर्माणां निरूपणम्                     |
-|             अतिथिशब्दनिर्वचनपूर्वकमातिथ्यकरणविधानम्             |
-|                    वैश्वदेवशब्दार्थनिरूपणम्                     |
-|   ८८ सुवर्णनामकमुनिना मनुं प्रति गन्धपुष्पधूपदीपदानफलप्रश्नः    |
-|            बलिशुक्रसंवादेन गन्धपुष्पधूपदीपदानफलकथनम्            |
-|                        धूपप्रदानफलकथनम्                         |
-|                        दीपप्रदानफलकथनम्                         |
-|            देवतातिथिबालकादीनामग्रतो भोक्तृत्वनियमनम्            |
-|                   बलिभेदेन पूजार्हभेदनिरूपणम्                   |
-|                 ८९ नहुषचरितकथनेन बलिदीपप्रदानम्                 |
-| नहुषेण स्वर्लोकस्थित्यहङ्कारेण सप्तर्षीन् प्रति स्वयानवहनचोदनम् |
-|         भृगुणाऽगस्त्यं प्रति नहुषस्याधःपातनप्रतिज्ञानम्         |
-|            ९० नहुषेण स्वर्लोके बल्यादिकर्मसु च्युति             |
-|           नहुषेणागस्त्यं प्रति स्ववाहनवहनाय नियोजनम्            |
-|             भृगुणा नहुपशापकरणायागस्त्यजटान्तर्भवनम्             |
 
-|                                                                      |     |
-|:--------------------------------------------------------------------:|:---:|
-|                               अध्यायः                                |    |
-|               ९० नहुषेण वामपादेनागस्त्यस्य शिरस्ताडनम्               |    |
-|            भृगुणा नहुषं प्रति सर्परूपावस्थानरूपशापविधानम्            |    |
-|           नहुषेण भृगुं प्रति स्वशापविमोक्षणोपायप्रार्थनम्            |    |
-|      भृगुणा अगस्त्यवचनेन नहुषस्य युधिष्ठिरद्वारा शापमोक्षकथनम्       |    |
-|                  देवैः इन्द्रस्य देवराज्येऽभिषेचनम्                  |    |
-|                       दीपदानस्य फलप्रतिपादनम्                        |    |
-|         ९१ नृपचण्डालसंवादेन ब्रह्मस्वहरणस्थानर्थहेतुत्वकथनम्         |    |
-|              चण्डालेन ब्रह्मस्वहरणेनानर्थोत्पत्तिकथनम्               |    |
-|        चण्डालेन राजानं प्रति चण्डालत्वनिवृत्युपाय प्रार्थनम्         |    |
-|           राज्ञा चण्डालं प्रति चण्डालत्वनिवृत्त्युपायकथनम्           |    |
-|              ९२ इन्द्गौतमसंवादेन पुण्यपापकर्मफलभेदकथनम्              |    |
-|             इन्द्रेण धृतराष्ट्ररूपेण गौतमवर्धितगजग्रहणम्             |    |
-|         गौतमेनेन्द्रं प्रति गजहरणनिषेधेऽपि तेन तदनङ्गीकरणम्          |    |
-|            गजहरणनिमित्तं वैवस्वतलोकप्राप्ताविन्द्रगौतमयोः            |    |
-|                   पुण्यपापफलनिरूपणे विशेषतस्संवादः                   |    |
-|                      पापकर्मणां तारतम्यनिरूपणम्                      |    |
-|                     पुण्यकर्मणां तारतम्यनिरूपणम्                     |    |
-| इन्द्रेण सगजं गौतमं प्रति सादरसभाजनं पुण्यलोकाननुशास्य स्वस्थानगमनम् |    |
-|           ९३ ब्रह्मणा भगीरथं प्रति स्वलोकागमनप्रकारप्रश्नः           |    |
-|          भगीरथेनान्नादिदानेनापि स्वस्य परलोकागमनासम्भवकथनम्          |    |
-|               भगीरथेन ब्राह्मणेभ्यो गवादिदानप्रशंसनम्                |    |
-
-|                                                           |
-|:---------------------------------------------------------:|
-|                          अध्यायः                          |
-| ९३ भगीरथेन ब्राह्मणवचनेनैव स्वस्य ब्रह्मलोकप्राप्तिकथनम् |
-|     अनशनव्रतस्य ब्राह्मणवचनस्य च श्रेयस्साधनत्व कथनम्     |
-|            ९४ सदाचारस्यायुर्वृद्धिकारणत्वकथनम्            |
-|              दुराचारस्यायुर्हासकारणत्वकथनम्               |
-|                 धर्मस्याचारलक्षणत्वकथनम्                  |
-|      प्रातस्सन्ध्यायाः ब्राह्ममुहूर्तकर्तव्यत्वकथनम्      |
-|  ऋषीणां दीर्घायुष्यं प्रति दीर्घसन्ध्यायाः कारणत्व कथनम्  |
-|                      परदारगमननिषेधः                       |
-| स्नानादीनां पूजनान्तानां पूर्वाह्न एवं कर्तव्यत्व नियमनम् |
-|           स्थानविशेषेषु मूत्रपुरीपोत्सर्गनिषेधः           |
-|                  भोजनादिपु दिङ्नियमकथनम्                  |
-|                 भोजनावसरेऽवस्थाननियमकथनम्                 |
-|     उच्छिष्टममये स्वाध्यायाद्यध्ययननिषेधेयमगाथा कथनम्     |
-|         आदित्याभिमुखमेहनस्याल्पायुष्यकारणत्वकथनम्         |
-|     ब्राह्मणक्षत्रियसर्पाणांकदाऽप्यनवमन्तव्यत्वकथनम्     |
-|              गुरुनिन्दाया अनर्थहेतुत्वकथनम्               |
-|             अज्ञातैस्सह कालविशेषेषु गमननिषेधः             |
-|             कालविशेषेषु ब्रह्मचर्याचरणनियमनम्             |
-|           पण्डितेन परेषु कटिनोक्त्यादिविसर्जनम्           |
-|                     सदाचारादिनिरूपणम्                     |
-|              स्वापादिकं प्रति दिङ्नियमकथनम्               |
-
-|                                                                                                  |
-|:------------------------------------------------------------------------------------------------:|
-|                                             अध्यायः                                              |
-|                                     ९४ धार्यवस्त्रनियमकथनम्                                      |
-|                                     अभक्ष्यापेयादिवस्तुकथनम्                                     |
-| ब्राह्मदैवपैतृकतीर्थानामङ्गुष्टादिस्थानविशेषेण विसर्जनकथनपूर्वकं भोजनानन्तरं कर्तव्यविधिनिरूपणम् |
-|                                       दिवा मैथुननिषेधकथनम्                                       |
-|                                    अनृतुस्नातस्त्रीगमननिषेधः                                     |
-|                             गृहेषु मङ्गलार्थं स्थाप्यवस्तूनां कथनम्                              |
-|                         गृहेषु दुर्जन्तूनां समावेशे शान्तिहोमाचरणनियमनम्                         |
-|                                  सन्ध्यायां वर्जनीयक्रमनिरूपणम्                                  |
-|                                     उद्वाह्यकन्यालक्षणकथनम्                                      |
-|                                 तैलाभ्यञ्जनेनिषिद्धतिथ्यादिकथनम्                                 |
-|                                   अनुद्वाह्यकन्यालक्षणादिकथनम्                                   |
-|                                     अनायुष्यकारणदुराचारकथनम्                                     |
-|                                पितृवाक्यपरिपालनस्यावश्यकत्वकथनम्                                 |
-|                                 अध्येतव्यशास्त्राणां विभागकथनम्                                  |
-|                             गोब्राह्मणार्थे प्राणपरित्यागस्य नियमनम्                             |
-|                 समविषमदिनक्रमेणर्तुस्नातस्त्रयभिगमने पुत्रपुत्रीप्रादुर्भावकथनम्                 |
-|                                    आचारस्य सर्वश्रेष्ठ्यकथनम्                                    |
-|              ९५ ज्येष्टस्य गरीयस्त्वेऽपि वैरूप्ये राजशासनीयत्वेन विभागानर्हत्वकथनम्              |
-|                                सर्वापेक्षया मातुर्गरीयस्त्वकथनम्                                 |
-|                              कनिष्ठेन ज्येष्टविषयेऽवस्थानक्रमकथनम्                               |
-|                               ९६ अङ्गिरोवचनेन पक्षमासोपवासफलकथनम्                                |
-|                                  तिथिविशेषोपवासेन फलविशेषकथनम्                                   |
-
-|                                                                                            |
-|:------------------------------------------------------------------------------------------:|
-|                                          अध्यायः                                           |
-|                              ९६ द्वादशमासोपवासेन फलविशेषकथनम्                              |
-|                       विश्वामित्रेण ब्राह्मण्यप्राप्तौकारणनिरूपणम्                        |
-|            ९७ युधिष्टिरेण दरिद्रैः यज्ञानां दुष्करतया तत्प्रतिनिधि कथनप्रार्थना            |
-|                         उपवासबाहुल्येन विस्तरेण यज्ञफलसिद्धिकथनम्                          |
-|                              उपवासफलानां विस्तरेण भेदनिरूपणम्                              |
-|                          शमदमादीनां गुणानां सद्गतिहेतुत्वनिरूपणम्                          |
-|                          परस्त्रीगमनाभावस्य सद्गतिप्रापकत्वकथनम्                           |
-|                      ९८ रुद्रसनत्कुमारसंवादेनाध्यात्मशास्त्रविवेचनम्                       |
-|                          अध्यात्मशास्त्रवेद्यतत्त्वप्रकारप्रश्नः                           |
-|                             कर्मबन्धविमोक्षस्य त्रैविध्यकथनम्                              |
-|             मनुजैः परमात्मप्राप्त्यभावेन पौनः पुन्येन भ्वादिलोकेषु परिवर्तनम्              |
-|                               मतभेदेन तत्त्वसङ्ख्याभेदकथनम्                                |
-|                              प्राकृततत्वोत्पत्तिक्रमनिरूपणम्                               |
-|                               तत्त्वानां वैकारिकत्वनिरूपणम्                                |
-|                                 आध्यात्मिकादित्रयनिरूपणम्                                  |
-|                               तत्त्वज्ञानोपदेशपात्रनिरूपणम्                                |
-|                                 तत्त्वानांलयक्रमनिरूपणम्                                  |
-|                              आध्यात्मिकाधिदैविकतत्त्वनिरूपणम्                              |
-|                   आध्यात्मिकाधिभौतिकाधिदैविकानामाब्रह्मकीटवृत्तित्वकथनम्                   |
-| श्रीभगवतो नारायणस्यैव सकलदुःखविनिर्मोकपूर्वक निरतिशयानन्दमोक्षसाम्राज्य-प्रदानहेतुत्वकथनम् |
-|                 देवर्ष्यादिभिः श्रीभगवतो नारायणस्यैव सकलदुःखनिवारकत्वकथनम्                 |
-
-|                                                         |
+| |
 |:-------------------------------------------------------:|
-|                         अध्यायः                         |
-|              ९८ देहाश्रितदैवताना नामकथनम्               |
-|                आत्मयाजिनो लक्षणादिकथनम्                 |
-|    जीवस्य देहान्निष्क्रमणवेलायां सङ्क्रमणस्थानकथनम्     |
-|          प्राकृतपुरुषस्य कारणभेदेन संज्ञाभेदः           |
-|                    योगकृत्यनिरूपणम्                     |
-|                     योगनियमादिकथनम्                     |
-|      पुरुषेण श्रीभगवद्विषयकज्ञानाभावेन संसाराधिगमः      |
-|                 योगाङ्गगुणाष्टकनिरूपणम्                 |
-|                  साङ्ख्यज्ञाननिरूपणम्                   |
-|           चतुर्विंशतितत्त्वस्वरूपादिनिरूपणम्            |
-|         त्रय्यन्तविद्याया अज्ञाननिवर्तकत्वकथनम्         |
-|            बुद्धशास्त्रस्याज्ञानहेतुत्वकथनम्            |
-|            अरिष्टनिरूपणपूर्वकं तत्फलनिरूपणम्            |
-|        अरिष्टविशेषदर्शनस्यानर्थविशेषहेतुत्वकथनम्        |
-|               अरिष्टविमोक्षलक्षणादिकथनम्                |
-|                आध्यात्मिकविषयपरामर्शनम्                 |
-|              बन्धविमोक्षयोः त्रैविध्यकथनम्              |
-|                ९९ मानसतीर्थंशोचनिरूपणम्                 |
-|          श्रीभगवति भक्तेरेवोत्तमतीर्थत्वकथनम्           |
-|        आत्मगुणानामेव परिशुद्धतीर्थतुल्यत्वकथनम्         |
-| शारीरपार्थिवभेदेन भिन्नस्य तीर्थस्य सिद्धिहेतुत्व कथनम् |
-|        १०० जीवात्मनामुत्पत्त्यादिप्रकारनिरूपणम्         |
-| धर्मस्यैव जीवात्मना मातापित्राद्याधिक्येन सहायत्वकथनम्  |
-|          धर्मस्यैव जीवानां प्राणात्मकत्वकथनम्           |
+| **अध्यायः** |
+| ८२ सूर्येण जमदग्निप्रसादनम् |
+| ८३ सूर्येण जमदग्नये शरणागतिविधानम् |
+| जमदग्निना सूर्यं प्रति शरणागतहनने दोषभूयस्त्वनिवेदन पूर्वकमभयप्रदानम् |
+| सूर्येण जमदग्निं प्रति छत्रोपानप्रदानम् |
+| छत्रोपानत्प्रदानस्य फलनिरूपणम् |
+| ८४ पराशरोक्तशूद्रधर्मादीनां निरूपणम् |
+| शूद्रैः विध्यतिक्रमणे निकृष्टनानाजातिषु समुद्भवः |
+| ब्राह्मणादिधर्मनिरूपणपूर्वकं शूद्रस्य यतिशुश्रूषाप्रकार कथनम् |
+| यतिधर्मनिरूपणम् |
+| यतीनां शौचप्रकारनिरूपणम् |
+| महाशौचनिरूपणम् |
+| कालदेशाद्यानुगुण्येन शौचस्य गौरवलाववकथनम् |
+| शौचानन्तरं क्षालनाचमनादिनिरूपणम् |
+| आचमनमार्जनादिभिः ऋग्वेदादिप्रीतिकथनम् |
+| ब्राह्मणादीनां वृत्तिनिरूपणम् |
+| शूद्रस्य यतिशुश्रूषाप्रकारकथनम् |
+| शूद्रस्य यतिविषये स्थितिप्रकारकथनम् |
+| शूद्रस्य धर्माद्यनधिकारकथनम् |
+| शूद्रस्य परस्त्रीसङ्गमदोषे प्रायश्चित्तकथनम् |
+| अरिष्टप्राप्तिलक्षणकथनम् |
+| पुरुषस्य सुकृतविशेषेण स्वर्गादिप्राप्तिकथनम् |
+| स्वर्गतस्य पुरुषस्य पुनर्भूमौ जननकथनम् |
+| स्वर्गात् पुनर्भूमो जातस्य पुरुषस्योपनयनादिकथनम् |
 
-|                                                           |
-|:---------------------------------------------------------:|
-|                          अध्यायः                          |
-|           १०० जीवानां रेतस्सम्पत्तिप्रकारकथनम्            |
-|    जीवानां गर्भादुत्पत्तिमात्रेण स्थित्यादिप्रकारकथनम्    |
-|  जीवानां त्रिविधवश्यत्वानुसारेण तत्तत्कर्मफलानुभव कथनम्   |
-|      जीवानां दुष्कर्मभिः तिर्यगादियोन्युत्पत्तिकथनम्      |
-|             जीवानां यातनावशगत्वेन तत्फलकथनम्              |
-|            जीवानां संसृतौपरिवृत्तिप्रकारकथनम्            |
-|             १०१ पापकर्मणामनुतापेन विनाशकथनम्              |
-|          अन्नदानस्य सर्वपापविनिर्मोकहेतुत्वकथनम्          |
-|                 पापनिवर्तकोपायप्रतिपादनम्                 |
-| चतुर्णां वर्णानां दातृत्वदानपात्रत्वाभ्यां दानतत्फल कथनम् |
-|                १०२ अहिंसाधर्मस्य प्रशंसनम्                |
-|               १०३ अहिंसायाः धर्म्यत्वकथनम्                |
-|  मांसभक्षणस्य दोषत्वकथनपूर्वकं दोषाणां चातुर्विध्य कथनम्  |
-|  १०४ अहिंसायाः धर्म्यत्वकथनपूर्वकं मांसभक्षणनिषेध कथनम्   |
-|                    अभयदानस्य प्रशंसनम्                    |
-|         देवानां मांसभक्षणाभावादेवाकुतोभयत्वकथनम्          |
-|              अमांसभक्षणस्य श्रेयस्करत्वकथनम्              |
-|         अमांसभक्षणस्य सर्वदानापेक्षयोत्कर्षकथनम्          |
-|            कर्मविशेषेषु हिंसायाः वैदिकत्वकथनम्            |
-|             मांसपरित्यागिनां राज्ञां नामकथनम्             |
-|        मधुमांसवर्जनस्य सर्वापद्विमोक्षहेतुत्वकथनम्        |
-|                   १०५ मांसगतगुणदोषकथनम्                   |
-|                    दयागुणस्य प्रशंसनम्                    |
-
-|                                                           |
-|:---------------------------------------------------------:|
-|                          अध्यायः                          |
-|                  १०५ अहिंसायाः प्रशंसनम्                  |
-|                   १०६ कीटोपाख्यानकथनम्                    |
-|                      व्यासकीटसंवादः                       |
-|               कीटेन स्वपूर्ववृत्तान्तकथनम्                |
-|             व्यासेन कीटं प्रत्यनुग्रहप्रदानम्             |
-|         कीटेन व्यासं प्रति तत्कृतानुग्रहश्लाघनम्          |
-|          व्यासेन कीटं प्रति ब्राह्मण्यवरप्रदानम्          |
-|          १०७ व्यासमैत्रेयसवादेन दानस्य प्रशंसनम्          |
-|                    व्यासमैत्रेयसंवादः                     |
-|                   विद्यातपसोः प्रशंसनम्                   |
-|     १०८ शाण्डिल्यसुमनासंवादेन पतिव्रताधर्मप्रतिपादनम्     |
-|               सुमनया स्वचरितधर्मप्रतिपादनम्               |
-|                  १०९ नारदपुण्डरीकसंवादेन                  |
-|         श्रीमन्नारायणस्यैव वेद्यत्वोपास्यत्वकथनम्         |
-|                श्रीमन्नारायणमहिमानुवर्णनम्                |
-|          श्रीभगवदाराधनस्यैव सद्गतिप्रापकत्वकथनम्          |
-| ११० रक्षोब्राह्मणसंवादेन साम्न एत्र सकलवशीकरणोपायत्वकथनम् |
-|                    रक्षोब्राह्मणसंवादः                    |
-|              १११ युधिष्ठिरेण धर्मादिप्रश्नः               |
-|              श्रीभगवता पुत्रार्थं तपश्चरणम्               |
-|              ऋषिभिः श्रीभगवतः स्तुतिविधानम्               |
-|              श्रीभगवता पुत्रोत्पादनकारणकथनम्              |
-|       श्रीभगवता हिमवतः भरमीकरणपूर्वकं पुनरुज्जीवनम्       |
-|            ऋषिभिः नारदं प्रत्याश्चर्यकथनचोदनम्            |
-|            ११२ नारदेन हिमवद्गिर्याश्चर्यकथनम्             |
-
-|                                                                           |
-|:-------------------------------------------------------------------------:|
-|                                  अध्यायः                                  |
-|                    ११२ हिमवद्विरौ श्रीपरमेश्वरवर्णनम्                     |
-| पार्वत्या श्रीपरमेश्वरनयनपिधानेन तस्य तृतीयलोचनोत्पत्या हिमवद्गिरेर्दहनम् |
-|               ११३ श्रीपरमेश्वरेण हिमवद्गिरेःपुनरुज्जीवनम्                |
-|                   पार्वत्या तृतीयलोचनसृष्टिकारणप्रश्नः                    |
-|                  श्रीपरमेश्वरेण तृतीयलोचनसृष्टिकारणकथनम्                  |
-|                श्रीपरमेश्वरेण स्वस्य चतुर्मुखत्वकारणकथनम्                 |
-|                 श्रीपरमेश्वरेण स्वस्य नीलकण्टत्वकारणकथनम्                 |
-|             श्रीपरमेश्वरेण स्वस्य पिनाकाख्यधनुरागमप्रकारकथनम्             |
-|                श्रीपरमेश्वरेण स्वस्य वृषभवाहनत्वकारणकथनम्                 |
-|               ११४ श्रीपरमेश्वरेण स्वस्य श्मशानवासकारणकथनम्                |
-|                श्रीपरमेश्वरेण स्वस्य विरूपाक्षत्वकारणकथनम्                |
-|                   श्रीपरमेश्वरेण चन्द्रकलाधारणकारणकथनम्                   |
-|                     ऋषिभिः श्रीपरमेश्वरस्तोत्रविधानम्                     |
-|                          ११५ वर्णाश्रमधर्मकथनम्                           |
-|                             ११३ ऋषिधर्मकथनम्                              |
-|                           पार्वतीपरमेश्वरसंवादः                           |
-|                          ११७ निवृत्तिधर्मफलकथनम्                          |
-|                        गृहस्थधर्मतत्फलयोश्च कथनम्                         |
-|                             उमामहेश्वरसंवादः                              |
-|                         ११८ विस्तरेण राजधर्मकथनम्                         |
-|        ११९ पुरुषस्यास्थानेषु रेतोविसर्गनिषेधः अहिंसाधर्मप्रशंसनं च        |
-|                         हिंसायाः दुस्त्यजत्वकथनम्                         |
-|                          इन्द्रियनिग्रहप्रशंसनम्                          |
-|                 निवृत्तिधर्मस्योत्तमोत्तमसुखहेतुत्वकथनम्                  |
-
-|                                                 |
-|:-----------------------------------------------:|
-|                     अध्यायः                     |
-|      ११९ जायमानजीवराशेः मृत्युवश्यत्वकथनम्      |
-|          १२० विधेः दुर्लङ्घ्यत्वकथनम्           |
-|               राजयोधादिधर्मकथनम्                |
-|        १२१ राज्ञां मृगयायाः धर्मत्वकथनम्        |
-|        ब्राह्मणानामत्यन्तादरणीयत्वकथनम्         |
-|          ब्राह्मणकोपस्यावन्ध्यत्वकथनम्          |
-|                  राजधर्मकथनम्                   |
-|              १२२ त्रिवर्गनिरूपणम्               |
-|      मानुषाणां सामान्येन वृत्यादिनिरूपणम्       |
-|   १२३ ब्राह्मण्यादीनां कर्माधीनत्वप्रतिपादनम्   |
-| तत्तज्जातीयधर्मादिव्यत्यये दुर्गतिप्राप्तिकथनम् |
-|         कालदेशाद्यनुगुणकर्माचरणनियमनम्          |
-|          तत्तत्कर्मानुसारेण फलभेदकथनम्          |
-|                उमामहेश्वरसंवादः                 |
-|       १२४ अन्धत्वादिकारणकर्मविपाकनिरूपणम्       |
-|            अक्षिरोगकारणकर्मनिरूपणम्             |
-|             कर्णरोगकारणप्रतिपादनम्              |
-|               उदरबाधाकारणनिरूपणम्               |
-|               मेहनदोषकारणविवेचनम्               |
-|              शोषव्याधिकारणनिरूपणम्              |
-|              कुष्टरोगनिदाननिरूपणम्              |
-|               अङ्गवैकल्यकारणकथनम्               |
-|             ग्रन्थ्यादिदोषकारणकथनम्             |
-|                 पादरोगकारणकथनम्                 |
-|             वातपित्तादिदोषकारणकथनम्             |
-
-|                                                                                    |
-|:----------------------------------------------------------------------------------:|
-|                                      अध्यायः                                       |
-|                            १२४ कुब्जत्वादिदोषकारणकथनम्                             |
-|                           पिशाचादिरूपेणावस्थानकारणकथनम्                            |
-|                                 अनपत्यत्वकारणकथनम्                                 |
-|                                 ऋणवृद्धिकारणकथनम्                                  |
-|                         जीवानामस्थानजन्मप्राप्तिकारणकथनम्                          |
-|                                क्लीबत्वादिकारणकथनम्                                |
-|                   १२५ स्त्रीणां पुंश्चलीत्वादिहेतुदुष्कर्मकथनम्                    |
-|                                  उमामहेश्वरसंवादः                                  |
-|                            प्राणिनां नीचवृत्तिकारणकथनम्                            |
-|                          प्राणिनां दास्यहेतुकर्मनिरूपणम्                           |
-|                          चण्डालत्वप्रयोजकदुष्कर्मनिरूपणम्                          |
-|                         प्राणिनामाकिञ्चन्यहेतुकर्मनिरूपणम्                         |
-|                        प्राणिनां सर्वस्वव्यपगमकारणनिरूपणम्                         |
-|                      प्राणिनां नानाविधववप्राप्तिहेतुनिरूपणम्                       |
-|                           प्राणिनां दण्डहेतुकर्मनिरूपणम्                           |
-| मानुषाणामेव वृत्तवर्तमानकर्मफलानुभवः देवर्षीणां तु वर्तमानमालकर्मफलानुभव इति कथनम् |
-|                      प्राणिनामिह दण्डनेन यमलोक दण्डाभावकथनम्                       |
-|                       प्राणिनां शिक्षणेन पापनिवृत्तिप्रश्नः                        |
-|                          प्रायश्चित्तादिना पापापनोदनकथनम्                          |
-|                   प्राणिनां कारणाकारणाभ्यां मरणोद्भवहेतुनिरूपणम्                   |
-|                                   कर्मफलनिरूपणम्                                   |
-|                           कर्मगतेः नवग्रहाधीनत्वनिरूपणम्                           |
-|                           प्राणिनां देहत्यागहेतुनिरूपणम्                           |
-|                        बालवृद्धानां मरणव्यत्यासहेतुनिरूपणम्                        |
-
-|                                                   |
+| |
 |:-------------------------------------------------:|
-|                      अध्यायः                      |
-| १२५ प्राणिनां चिरजीवित्वाल्पायुष्ट्वकारणनिरूपणम्  |
+| **अध्यायः** |
+| ८४ सुकृतविशेषेण पुनः पुनः स्वर्लोकादिप्राप्तौ जात- |
+| वैराग्यस्य पुरुषस्यापुनरावृत्तिलक्षणमोक्षप्राप्तावभिलाषादिकथनम् |
+| शुभाशुभकर्मभिः शुभाशुभफलप्राप्तिकथनम् |
+| ८५ इन्द्रमातलिसंवादेन नमस्कारप्रयोजकगुणप्रतिपादनम् |
+| नमस्कारप्रयोजकगुणवन्महात्मनां लक्षणकथनम् |
+| ८६ तटाकनिर्माणफलनिरूपणम् |
+| वृक्षारोपणफलतिरूपणम् |
+| ८७ भूदेवीश्रीभगवत्संवादेन गृहस्थधर्मप्रतिपादनम् |
+| गृहस्थधर्माणां निरूपणम् |
+| अतिथिशब्दनिर्वचनपूर्वकमातिथ्यकरणविधानम् |
+| वैश्वदेवशब्दार्थनिरूपणम् |
+| ८८ सुवर्णनामकमुनिना मनुं प्रति गन्धपुष्पधूपदीपदानफलप्रश्नः |
+| बलिशुक्रसंवादेन गन्धपुष्पधूपदीपदानफलकथनम् |
+| धूपप्रदानफलकथनम् |
+| दीपप्रदानफलकथनम् |
+| देवतातिथिबालकादीनामग्रतो भोक्तृत्वनियमनम् |
+| बलिभेदेन पूजार्हभेदनिरूपणम् |
+| ८९ नहुषचरितकथनेन बलिदीपप्रदानम् |
+| नहुषेण स्वर्लोकस्थित्यहङ्कारेण सप्तर्षीन् प्रति स्वयानवहनचोदनम् |
+| भृगुणाऽगस्त्यं प्रति नहुषस्याधःपातनप्रतिज्ञानम् |
+| ९० नहुषेण स्वर्लोके बल्यादिकर्मसु च्युति |
+| नहुषेणागस्त्यं प्रति स्ववाहनवहनाय नियोजनम् |
+| भृगुणा नहुपशापकरणायागस्त्यजटान्तर्भवनम् |
+
+
+
+| | |
+|:------------------------------------------------------:|:---:|
+| **अध्यायः** | |
+| ९० नहुषेण वामपादेनागस्त्यस्य शिरस्ताडनम् | |
+| भृगुणा नहुषं प्रति सर्परूपावस्थानरूपशापविधानम् | |
+| नहुषेण भृगुं प्रति स्वशापविमोक्षणोपायप्रार्थनम् | |
+| भृगुणा अगस्त्यवचनेन नहुषस्य युधिष्ठिरद्वारा शापमोक्षकथनम् | |
+| देवैः इन्द्रस्य देवराज्येऽभिषेचनम् | |
+| दीपदानस्य फलप्रतिपादनम् | |
+| ९१ नृपचण्डालसंवादेन ब्रह्मस्वहरणस्थानर्थहेतुत्वकथनम् | |
+| चण्डालेन ब्रह्मस्वहरणेनानर्थोत्पत्तिकथनम् | |
+| चण्डालेन राजानं प्रति चण्डालत्वनिवृत्युपाय प्रार्थनम् | |
+| राज्ञा चण्डालं प्रति चण्डालत्वनिवृत्त्युपायकथनम् | |
+| ९२ इन्द्गौतमसंवादेन पुण्यपापकर्मफलभेदकथनम् | |
+| इन्द्रेण धृतराष्ट्ररूपेण गौतमवर्धितगजग्रहणम् | |
+| गौतमेनेन्द्रं प्रति गजहरणनिषेधेऽपि तेन तदनङ्गीकरणम् | |
+| गजहरणनिमित्तं वैवस्वतलोकप्राप्ताविन्द्रगौतमयोः | |
+| पुण्यपापफलनिरूपणे विशेषतस्संवादः | |
+| पापकर्मणां तारतम्यनिरूपणम् | |
+| पुण्यकर्मणां तारतम्यनिरूपणम् | |
+| इन्द्रेण सगजं गौतमं प्रति सादरसभाजनं पुण्यलोकाननुशास्य स्वस्थानगमनम् | |
+| ९३ ब्रह्मणा भगीरथं प्रति स्वलोकागमनप्रकारप्रश्नः | |
+| भगीरथेनान्नादिदानेनापि स्वस्य परलोकागमनासम्भवकथनम् | |
+| भगीरथेन ब्राह्मणेभ्यो गवादिदानप्रशंसनम् | |
+
+| |
+|:---------------------------------------------:|
+| **अध्यायः** |
+| ९३ भगीरथेन ब्राह्मणवचनेनैव स्वस्य ब्रह्मलोकप्राप्ति कथनम् |
+| अनशनव्रतस्य ब्राह्मणवचनस्य च श्रेयस्साधनत्व कथनम् |
+| ९४ सदाचारस्यायुर्वृद्धिकारणत्वकथनम् |
+| दुराचारस्यायुर्हासकारणत्वकथनम् |
+| धर्मस्याचारलक्षणत्वकथनम् |
+| प्रातस्सन्ध्यायाः ब्राह्ममुहूर्तकर्तव्यत्वकथनम् |
+| ऋषीणां दीर्घायुष्यं प्रति दीर्घसन्ध्यायाः कारणत्व कथनम् |
+| परदारगमननिषेधः |
+| स्नानादीनां पूजनान्तानां पूर्वाह्न एवं कर्तव्यत्व नियमनम् |
+| स्थानविशेषेषु मूत्रपुरीपोत्सर्गनिषेधः |
+| भोजनादिपु दिङ्नियमकथनम् |
+| भोजनावसरेऽवस्थाननियमकथनम् |
+| उच्छिष्टममये स्वाध्यायाद्यध्ययननिषेधेयमगाथा कथनम् |
+| आदित्याभिमुखमेहनस्याल्पायुष्यकारणत्वकथनम् |
+| ब्राह्मणक्षत्रियसर्पाणां कदाऽप्यनवमन्तव्यत्वकथनम् |
+| गुरुनिन्दाया अनर्थहेतुत्वकथनम् |
+| अज्ञातैस्सह कालविशेषेषु गमननिषेधः |
+| कालविशेषेषु ब्रह्मचर्याचरणनियमनम् |
+| पण्डितेन परेषु कटिनोक्त्यादिविसर्जनम् |
+| सदाचारादिनिरूपणम् |
+| स्वापादिकं प्रति दिङ्नियमकथनम् |
+
+| |
+|:--:|
+| **अध्यायः** |
+| ९४ धार्यवस्त्रनियमकथनम् |
+| अभक्ष्यापेयादिवस्तुकथनम् |
+| ब्राह्मदैवपैतृकतीर्थानामङ्गुष्टादिस्थानविशेषेण विसर्जनकथनपूर्वकं भोजनानन्तरं कर्तव्यविधिनिरूपणम् |
+| दिवा मैथुननिषेधकथनम् |
+| अनृतुस्नातस्त्रीगमननिषेधः |
+| गृहेषु मङ्गलार्थं स्थाप्यवस्तूनां कथनम् |
+| गृहेषु दुर्जन्तूनां समावेशे शान्तिहोमाचरणनियमनम् |
+| सन्ध्यायां वर्जनीयक्रमनिरूपणम् |
+| उद्वाह्यकन्यालक्षणकथनम् |
+| तैलाभ्यञ्जनेनिषिद्धतिथ्यादिकथनम् |
+| अनुद्वाह्यकन्यालक्षणादिकथनम् |
+| अनायुष्यकारणदुराचारकथनम् |
+| पितृवाक्यपरिपालनस्यावश्यकत्वकथनम् |
+| अध्येतव्यशास्त्राणां विभागकथनम् |
+| गोब्राह्मणार्थे प्राणपरित्यागस्य नियमनम् |
+| समविषमदिनक्रमेणर्तुस्नातस्त्रयभिगमने पुत्रपुत्रीप्रादुर्भावकथनम् |
+| आचारस्य सर्वश्रेष्ठ्यकथनम् |
+| ९५ ज्येष्टस्य गरीयस्त्वेऽपि वैरूप्ये राजशासनीयत्वेन विभागानर्हत्वकथनम् |
+| सर्वापेक्षया मातुर्गरीयस्त्वकथनम् |
+| कनिष्ठेन ज्येष्टविषयेऽवस्थानक्रमकथनम् |
+| ९६ अङ्गिरोवचनेन पक्षमासोपवासफलकथनम् |
+| तिथिविशेषोपवासेन फलविशेषकथनम् |
+
+| |
+|:--:|
+| **अध्यायः** |
+| ९६ द्वादशमासोपवासेन फलविशेषकथनम् |
+| विश्वामित्रेण ब्राह्मण्यप्राप्तौ कारणनिरूपणम् |
+| ९७ युधिष्टिरेण दरिद्रैः यज्ञानां दुष्करतया तत्प्रतिनिधि कथनप्रार्थना |
+| उपवासबाहुल्येन विस्तरेण यज्ञफलसिद्धिकथनम् |
+| उपवासफलानां विस्तरेण भेदनिरूपणम् |
+| शमदमादीनां गुणानां सद्गतिहेतुत्वनिरूपणम् |
+| परस्त्रीगमनाभावस्य सद्गतिप्रापकत्वकथनम् |
+| ९८ रुद्रसनत्कुमारसंवादेनाध्यात्मशास्त्रविवेचनम् |
+| अध्यात्मशास्त्रवेद्यतत्त्वप्रकारप्रश्नः |
+| कर्मबन्धविमोक्षस्य त्रैविध्यकथनम् |
+| मनुजैः परमात्मप्राप्त्यभावेन पौनः पुन्येन भ्वादिलोकेषु परिवर्तनम् |
+| मतभेदेन तत्त्वसङ्ख्याभेदकथनम् |
+| प्राकृततत्वोत्पत्तिक्रमनिरूपणम् |
+| तत्त्वानां वैकारिकत्वनिरूपणम् |
+| आध्यात्मिकादित्रयनिरूपणम् |
+| तत्त्वज्ञानोपदेशपात्रनिरूपणम् |
+| तत्त्वानां लयक्रमनिरूपणम् |
+| आध्यात्मिकाधिदैविकतत्त्वनिरूपणम् |
+| आध्यात्मिकाधिभौतिकाधिदैविकानामाब्रह्मकीटवृत्तित्वकथनम् |
+| श्रीभगवतो नारायणस्यैव सकलदुःखविनिर्मोकपूर्वक निरतिशयानन्दमोक्षसाम्राज्य-प्रदानहेतुत्वकथनम् |
+| देवर्ष्यादिभिः श्रीभगवतो नारायणस्यैव सकलदुःखनिवारकत्वकथनम् |
+
+| |
+|:--------------------------------------------:|
+| **अध्यायः** |
+| ९८ देहाश्रितदैवताना नामकथनम् |
+| आत्मयाजिनो लक्षणादिकथनम् |
+| जीवस्य देहान्निष्क्रमणवेलायां सङ्क्रमणस्थानकथनम् |
+| प्राकृतपुरुषस्य कारणभेदेन सञ्ज्ञाभेदः |
+| योगकृत्यनिरूपणम् |
+| योगनियमादिकथनम् |
+| पुरुषेण श्रीभगवद्विषयकज्ञानाभावेन संसाराधिगमः |
+| योगाङ्गगुणाष्टकनिरूपणम् |
+| साङ्ख्यज्ञाननिरूपणम् |
+| चतुर्विंशतितत्त्वस्वरूपादिनिरूपणम् |
+| त्रय्यन्तविद्याया अज्ञाननिवर्तकत्वकथनम् |
+| बुद्धशास्त्रस्याज्ञानहेतुत्वकथनम् |
+| अरिष्टनिरूपणपूर्वकं तत्फलनिरूपणम् |
+| अरिष्टविशेषदर्शनस्यानर्थविशेषहेतुत्वकथनम् |
+| अरिष्टविमोक्षलक्षणादिकथनम् |
+| आध्यात्मिकविषयपरामर्शनम् |
+| बन्धविमोक्षयोः त्रैविध्यकथनम् |
+| ९९ मानसतीर्थंशोचनिरूपणम् |
+| श्रीभगवति भक्तेरेवोत्तमतीर्थत्वकथनम् |
+| आत्मगुणानामेव परिशुद्धतीर्थतुल्यत्वकथनम् |
+| शारीरपार्थिवभेदेन भिन्नस्य तीर्थस्य सिद्धिहेतुत्व कथनम् |
+| १०० जीवात्मनामुत्पत्त्यादिप्रकारनिरूपणम् |
+| धर्मस्यैव जीवात्मना मातापित्राद्याधिक्येन सहायत्वकथनम् |
+| धर्मस्यैव जीवानां प्राणात्मकत्वकथनम् |
+
+| |
+|:--------------------------------------------:|
+| **अध्यायः** |
+| १०० जीवानां रेतस्सम्पत्तिप्रकारकथनम् |
+| जीवानां गर्भादुत्पत्तिमात्रेण स्थित्यादिप्रकारकथनम् |
+| जीवानां त्रिविधवश्यत्वानुसारेण तत्तत्कर्मफलानुभव कथनम् |
+| जीवानां दुष्कर्मभिः तिर्यगादियोन्युत्पत्तिकथनम् |
+| जीवानां यातनावशगत्वेन तत्फलकथनम् |
+| जीवानां संसृतौ परिवृत्तिप्रकारकथनम् |
+| १०१ पापकर्मणामनुतापेन विनाशकथनम् |
+| अन्नदानस्य सर्वपापविनिर्मोकहेतुत्वकथनम् |
+| पापनिवर्तकोपायप्रतिपादनम् |
+| चतुर्णां वर्णानां दातृत्वदानपात्रत्वाभ्यां दानतत्फल कथनम् |
+| १०२ अहिंसाधर्मस्य प्रशंसनम् |
+| १०३ अहिंसायाः धर्म्यत्वकथनम् |
+| मांसभक्षणस्य दोषत्वकथनपूर्वकं दोषाणां चातुर्विध्य कथनम् |
+| १०४ अहिंसायाः धर्म्यत्वकथनपूर्वकं मांसभक्षणनिषेध कथनम् |
+| अभयदानस्य प्रशंसनम् |
+| देवानां मांसभक्षणाभावादेवाकुतोभयत्वकथनम् |
+| अमांसभक्षणस्य श्रेयस्करत्वकथनम् |
+| अमांसभक्षणस्य सर्वदानापेक्षयोत्कर्षकथनम् |
+| कर्मविशेषेषु हिंसायाः वैदिकत्वकथनम् |
+| मांसपरित्यागिनां राज्ञां नामकथनम् |
+| मधुमांसवर्जनस्य सर्वापद्विमोक्षहेतुत्वकथनम् |
+| १०५ मांसगतगुणदोषकथनम् |
+| दयागुणस्य प्रशंसनम् |
+
+| |
+|:------------------------------------------------:|
+| **अध्यायः** |
+| १०५ अहिंसायाः प्रशंसनम् |
+| १०६ कीटोपाख्यानकथनम् |
+| व्यासकीटसंवादः |
+| कीटेन स्वपूर्ववृत्तान्तकथनम् |
+| व्यासेन कीटं प्रत्यनुग्रहप्रदानम् |
+| कीटेन व्यासं प्रति तत्कृतानुग्रहश्लाघनम् |
+| व्यासेन कीटं प्रति ब्राह्मण्यवरप्रदानम् |
+| १०७ व्यासमैत्रेयसवादेन दानस्य प्रशंसनम् |
+| व्यासमैत्रेयसंवादः |
+| विद्यातपसोः प्रशंसनम् |
+| १०८ शाण्डिल्यसुमनासंवादेन पतिव्रताधर्मप्रतिपादनम् |
+| सुमनया स्वचरितधर्मप्रतिपादनम् |
+| १०९ नारदपुण्डरीकसंवादेन |
+| श्रीमन्नारायणस्यैव वेद्यत्वोपास्यत्वकथनम् |
+| श्रीमन्नारायणमहिमानुवर्णनम् |
+| श्रीभगवदाराधनस्यैव सद्गतिप्रापकत्वकथनम् |
+| ११० रक्षोब्राह्मणसंवादेन साम्न एत्र सकलवशीकरणोपायत्वकथनम् |
+| रक्षोब्राह्मणसंवादः |
+| १११ युधिष्ठिरेण धर्मादिप्रश्नः |
+| श्रीभगवता पुत्रार्थं तपश्चरणम् |
+| ऋषिभिः श्रीभगवतः स्तुतिविधानम् |
+| श्रीभगवता पुत्रोत्पादनकारणकथनम् |
+| श्रीभगवता हिमवतः भरमीकरणपूर्वकं पुनरुज्जीवनम् |
+| ऋषिभिः नारदं प्रत्याश्चर्यकथनचोदनम् |
+| ११२ नारदेन हिमवद्गिर्याश्चर्यकथनम् |
+
+| |
+|:-----------------------------------------------------------:|
+| **अध्यायः** |
+| ११२ हिमवद्विरौ श्रीपरमेश्वरवर्णनम् |
+| पार्वत्या श्रीपरमेश्वरनयनपिधानेन तस्य तृतीयलोचनोत्पत्या हिमवद्गिरेर्दहनम् |
+| ११३ श्रीपरमेश्वरेण हिमवद्गिरेः पुनरुज्जीवनम् |
+| पार्वत्या तृतीयलोचनसृष्टिकारणप्रश्नः |
+| श्रीपरमेश्वरेण तृतीयलोचनसृष्टिकारणकथनम् |
+| श्रीपरमेश्वरेण स्वस्य चतुर्मुखत्वकारणकथनम् |
+| श्रीपरमेश्वरेण स्वस्य नीलकण्टत्वकारणकथनम् |
+| श्रीपरमेश्वरेण स्वस्य पिनाकाख्यधनुरागमप्रकारकथनम् |
+| श्रीपरमेश्वरेण स्वस्य वृषभवाहनत्वकारणकथनम् |
+| ११४ श्रीपरमेश्वरेण स्वस्य श्मशानवासकारणकथनम् |
+| श्रीपरमेश्वरेण स्वस्य विरूपाक्षत्वकारणकथनम् |
+| श्रीपरमेश्वरेण चन्द्रकलाधारणकारणकथनम् |
+| ऋषिभिः श्रीपरमेश्वरस्तोत्रविधानम् |
+| ११५ वर्णाश्रमधर्मकथनम् |
+| ११३ ऋषिधर्मकथनम् |
+| पार्वतीपरमेश्वरसंवादः |
+| ११७ निवृत्तिधर्मफलकथनम् |
+| गृहस्थधर्मतत्फलयोश्च कथनम् |
+| उमामहेश्वरसंवादः |
+| ११८ विस्तरेण राजधर्मकथनम् |
+| ११९ पुरुषस्यास्थानेषु रेतोविसर्गनिषेधः अहिंसाधर्मप्रशंसनं च |
+| हिंसायाः दुस्त्यजत्वकथनम् |
+| इन्द्रियनिग्रहप्रशंसनम् |
+| निवृत्तिधर्मस्योत्तमोत्तमसुखहेतुत्वकथनम् |
+
+| |
+|:------------------------------------:|
+| **अध्यायः** |
+| ११९ जायमानजीवराशेः मृत्युवश्यत्वकथनम् |
+| १२० विधेः दुर्लङ्घ्यत्वकथनम् |
+| राजयोधादिधर्मकथनम् |
+| १२१ राज्ञां मृगयायाः धर्मत्वकथनम् |
+| ब्राह्मणानामत्यन्तादरणीयत्वकथनम् |
+| ब्राह्मणकोपस्यावन्ध्यत्वकथनम् |
+| राजधर्मकथनम् |
+| १२२ त्रिवर्गनिरूपणम् |
+| मानुषाणां सामान्येन वृत्यादिनिरूपणम् |
+| १२३ ब्राह्मण्यादीनां कर्माधीनत्वप्रतिपादनम् |
+| तत्तज्जातीयधर्मादिव्यत्यये दुर्गतिप्राप्तिकथनम् |
+| कालदेशाद्यनुगुणकर्माचरणनियमनम् |
+| तत्तत्कर्मानुसारेण फलभेदकथनम् |
+| उमामहेश्वरसंवादः |
+| १२४ अन्धत्वादिकारणकर्मविपाकनिरूपणम् |
+| अक्षिरोगकारणकर्मनिरूपणम् |
+| कर्णरोगकारणप्रतिपादनम् |
+| उदरबाधाकारणनिरूपणम् |
+| मेहनदोषकारणविवेचनम् |
+| शोषव्याधिकारणनिरूपणम् |
+| कुष्टरोगनिदाननिरूपणम् |
+| अङ्गवैकल्यकारणकथनम् |
+| ग्रन्थ्यादिदोषकारणकथनम् |
+| पादरोगकारणकथनम् |
+| वातपित्तादिदोषकारणकथनम् |
+
+| |
+|:-------------------------------------------------------------------:|
+| **अध्यायः** |
+| १२४ कुब्जत्वादिदोषकारणकथनम् |
+| पिशाचादिरूपेणावस्थानकारणकथनम् |
+| अनपत्यत्वकारणकथनम् |
+| ऋणवृद्धिकारणकथनम् |
+| जीवानामस्थानजन्मप्राप्तिकारणकथनम् |
+| क्लीबत्वादिकारणकथनम् |
+| १२५ स्त्रीणां पुंश्चलीत्वादिहेतुदुष्कर्मकथनम् |
+| उमामहेश्वरसंवादः |
+| प्राणिनां नीचवृत्तिकारणकथनम् |
+| प्राणिनां दास्यहेतुकर्मनिरूपणम् |
+| चण्डालत्वप्रयोजकदुष्कर्मनिरूपणम् |
+| प्राणिनामाकिञ्चन्यहेतुकर्मनिरूपणम् |
+| प्राणिनां सर्वस्वव्यपगमकारणनिरूपणम् |
+| प्राणिनां नानाविधववप्राप्तिहेतुनिरूपणम् |
+| प्राणिनां दण्डहेतुकर्मनिरूपणम् |
+| मानुषाणामेव वृत्तवर्तमानकर्मफलानुभवः देवर्षीणां तु वर्तमानमालकर्मफलानुभव इति कथनम् |
+| प्राणिनामिह दण्डनेन यमलोक दण्डाभावकथनम् |
+| प्राणिनां शिक्षणेन पापनिवृत्तिप्रश्नः |
+| प्रायश्चित्तादिना पापापनोदनकथनम् |
+| प्राणिनां कारणाकारणाभ्यां मरणोद्भवहेतुनिरूपणम् |
+| कर्मफलनिरूपणम् |
+| कर्मगतेः नवग्रहाधीनत्वनिरूपणम् |
+| प्राणिनां देहत्यागहेतुनिरूपणम् |
+| बालवृद्धानां मरणव्यत्यासहेतुनिरूपणम् |
+
+| |
+|:---------------------------------------:|
+| **अध्यायः** |
+| १२५ प्राणिनां चिरजीवित्वाल्पायुष्ट्वकारणनिरूपणम् |
 | प्राणिनां स्त्रीत्वपुंस्त्वभेदप्रयोजककर्मनिरूपणम् |
-|    १२६ विधिचोदितहिंसायाः सद्गतिप्रापकत्वकथनम्     |
-|  उद्भिज्जादिरूपेण प्राणिनां चतुर्विधत्वनिरूपणम्   |
-|          ज्ञानस्य श्रेयस्साधकत्वनिरूपणम्          |
-|        कर्मणामेव पुनर्जन्मादिकारणत्वकथनम्         |
-|              दैवमानुपकर्मभेदनिरूपणम्              |
-|          जीवस्य गर्भानुप्रवेशप्रकारकथनम्          |
-|         दैवसम्पदः पुरुषकारपूर्वकत्वकथनम्          |
-|          जीवात्मनां जननमरणप्रकारनिरूपणम्          |
-|    जीवात्मनां मतभेदेन कर्मफलानुभवादिगोचरविचारः    |
-|          १२७ यमनगरतन्मार्गादिप्रतिपादनम्          |
-|               यातनानुभवप्रकारकथनम्                |
-|               रौरवादिनरकप्रतिपादनम्               |
-|               पापतारतम्येन फलानुभवः               |
-|     पापकर्माणां जीवानां नीचयोनिषु जन्मसम्भवः      |
-|        १२८ कर्मणां मानसिकत्वादिभेदनिरूपणम्        |
-|    समयविशेषे पापकर्मणोऽपि धर्मत्वाभ्यनुज्ञानम्    |
-|                 मद्यपाननिषेधकथनम्                 |
-|                मद्यपानजन्यदोषकथनम्                |
-|              सुकृतस्य त्रैविध्यकथनम्              |
-|          जीवानां शुभप्राप्तिप्रकारकथनम्           |
-|               शौचविधिप्रकारनिरूपणम्               |
-|                   आहारनियमकथनम्                   |
-|                मांसभक्षणनिषेधकधनम्                |
+| १२६ विधिचोदितहिंसायाः सद्गतिप्रापकत्वकथनम् |
+| उद्भिज्जादिरूपेण प्राणिनां चतुर्विधत्वनिरूपणम् |
+| ज्ञानस्य श्रेयस्साधकत्वनिरूपणम् |
+| कर्मणामेव पुनर्जन्मादिकारणत्वकथनम् |
+| दैवमानुपकर्मभेदनिरूपणम् |
+| जीवस्य गर्भानुप्रवेशप्रकारकथनम् |
+| दैवसम्पदः पुरुषकारपूर्वकत्वकथनम् |
+| जीवात्मनां जननमरणप्रकारनिरूपणम् |
+| जीवात्मनां मतभेदेन कर्मफलानुभवादिगोचरविचारः |
+| १२७ यमनगरतन्मार्गादिप्रतिपादनम् |
+| यातनानुभवप्रकारकथनम् |
+| रौरवादिनरकप्रतिपादनम् |
+| पापतारतम्येन फलानुभवः |
+| पापकर्माणां जीवानां नीचयोनिषु जन्मसम्भवः |
+| १२८ कर्मणां मानसिकत्वादिभेदनिरूपणम् |
+| समयविशेषे पापकर्मणोऽपि धर्मत्वाभ्यनुज्ञानम् |
+| मद्यपाननिषेधकथनम् |
+| मद्यपानजन्यदोषकथनम् |
+| सुकृतस्य त्रैविध्यकथनम् |
+| जीवानां शुभप्राप्तिप्रकारकथनम् |
+| शौचविधिप्रकारनिरूपणम् |
+| आहारनियमकथनम् |
+| मांसभक्षणनिषेधकधनम् |
 
-[TABLE]
+| |
+|:------------------------------:|
+| **अध्यायः** |
+| १२८ गुरुपूजादिफलकथनम् |
+| उपवासादिफलकथनम् |
+| ब्रह्मचर्यप्रशंसनम् |
+| तीर्थस्नानविधिफलनिरूपणम् |
+| दानविधितत्फलनिरूपणम् |
+| दानयोग्यकालक्षेत्रादिनिरूपणम् |
+| अन्नादिदेयवस्तुविशेषाणां दानप्रशंसनम |
+| भूगवादिदानप्रशंसनम् |
+| कन्यादानप्रशंसनम् |
+| तिलदानप्रशंसनम् |
+| जलदानप्रशंसनम् |
+| सेतुकूपतटाकनिर्माणफलनिरूपणम् |
+| दानस्य षाड्गुण्यकथनम् |
+| यज्ञप्रशंसनस् |
+| देवपूजायाः फलप्रतिपादनम् |
+| देवानां मानुषचेष्टितज्ञानकथनम् |
+| १२९ पितृमेधप्रकारकथनम् |
+| श्राद्धविधानकथनम् |
+| श्राद्धनिमन्त्रणार्हविवेचनम् |
+| श्राद्वार्हपदार्थनिरूपणम् |
+| हव्यकव्यकर्मणोरवश्यकर्तव्यत्वकारणकथनम् |
+| दानतत्फलप्रतिपादनम् |
+| नानाधर्मतत्फलप्रतिपादनम् |
+| सुकृतिगभ्यपुण्यलोकानां विवेचनम् |
 
-|                                                          |
-|:--------------------------------------------------------:|
-|                         अध्यायः                          |
+| |
+|:-------------------------------------------:|
+| **अध्यायः** |
 | १३० प्राणिनां द्वैविध्यकथनपूर्वकं शुभाशुभकर्मफलनि रूपणम् |
-|               नराणां स्वर्गगमनहेतुनिरूपणम्               |
-|              दैवासुरकर्मणोः शुभाशुभत्वकथनम्              |
-|   मरणस्य स्वभावप्रयत्नान्यतरसाध्यत्वेन द्वैविध्यकथनम्    |
-|              यत्नजमरणस्यापि द्वैविध्यकथनम्               |
-|              आत्मत्यागस्य चातुर्विध्यकथनम्               |
-|               महाप्रस्थानविधानप्रकारकथनम्                |
-|                मृतजीवेकर्तव्यप्रकारकथनम्                |
-|               १३१ नानाधर्मतत्फलेषु प्रश्नः               |
-|      नानाधर्मापेक्षया मोक्षधर्मस्य श्रेष्टत्वकथनम्       |
-|                ज्ञानस्य मोक्षोपायत्वकथनम्                |
-|             मोक्षार्थज्ञानप्राप्त्युपायकथनम्             |
-|                    मुमुक्षुधर्मकथनम्                     |
-|           मुमुक्षोः सांसारिकविषयवैतृष्ण्यकथनम्           |
-|                 अर्थस्यानर्थहेतुत्वकथनम्                 |
-|                तृष्णायाः दुःखहेतुत्वकथनम्                |
-|            इन्द्रियनिग्रहस्य सुखहेतुत्वकथनम्             |
-|            जरामरणयोः मोक्षैकनिवर्त्यत्वकथनम्             |
-|        ऐश्वर्यादीनां जरामृत्युतरणहेतुत्वाभावकथनम्        |
-|            सर्वेषां जन्तूनांकालवश्यत्वकथनम्             |
-|            वैराग्यस्य शान्त्यादिकारणत्वकथनम्             |
-|               १३२ साङ्ख्यज्ञानप्रतिपादनम्                |
-|            चतुर्विंशतितत्त्वानामुत्पत्तिकथनम्            |
+| नराणां स्वर्गगमनहेतुनिरूपणम् |
+| दैवासुरकर्मणोः शुभाशुभत्वकथनम् |
+| मरणस्य स्वभावप्रयत्नान्यतरसाध्यत्वेन द्वैविध्यकथनम् |
+| यत्नजमरणस्यापि द्वैविध्यकथनम् |
+| आत्मत्यागस्य चातुर्विध्यकथनम् |
+| महाप्रस्थानविधानप्रकारकथनम् |
+| मृतजीवे कर्तव्यप्रकारकथनम् |
+| १३१ नानाधर्मतत्फलेषु प्रश्नः |
+| नानाधर्मापेक्षया मोक्षधर्मस्य श्रेष्टत्वकथनम् |
+| ज्ञानस्य मोक्षोपायत्वकथनम् |
+| मोक्षार्थज्ञानप्राप्त्युपायकथनम् |
+| मुमुक्षुधर्मकथनम् |
+| मुमुक्षोः सांसारिकविषयवैतृष्ण्यकथनम् |
+| अर्थस्यानर्थहेतुत्वकथनम् |
+| तृष्णायाः दुःखहेतुत्वकथनम् |
+| इन्द्रियनिग्रहस्य सुखहेतुत्वकथनम् |
+| जरामरणयोः मोक्षैकनिवर्त्यत्वकथनम् |
+| ऐश्वर्यादीनां जरामृत्युतरणहेतुत्वाभावकथनम् |
+| सर्वेषां जन्तूनां कालवश्यत्वकथनम् |
+| वैराग्यस्य शान्त्यादिकारणत्वकथनम् |
+| १३२ साङ्ख्यज्ञानप्रतिपादनम् |
+| चतुर्विंशतितत्त्वानामुत्पत्तिकथनम् |
 
-|                                                            |
-|:----------------------------------------------------------:|
-|                          अध्यायः                           |
-|               १३२ सत्त्वादिगुणकार्यनिरूपणम्                |
-|                  महदादीनां लक्षणादिकथनम्                   |
-|                    कर्मेन्द्रियनिरूपणम्                    |
-|     परमात्मनः दुर्दर्शत्वकथनपूर्वकं सर्वव्यापित्वकथनम्     |
-|          प्रकृतिपुरुपयोः स्वरूपस्वभावादिनिरूपणम्           |
-|                      १३३ योगनिरूपणम्                       |
-|                     योगिकृत्यनिरूपणम्                      |
-|                 प्राणादिवायुकृत्यनिरूपणम्                  |
-|            प्राणादिरोधस्य मनःप्रसादहेतुत्वकथनम्            |
-|                       योगफलनिरूपणम्                        |
-|             १३४ परमेश्वरसायुज्यादिप्रभावकथनम्              |
-|                 परमेश्वरप्राप्त्युपायकथनम्                 |
-|            परमेश्वरार्चनस्य दीक्षाहेतुकत्वकथनम्            |
-|                    परमेश्वरार्चनफलकथनम्                    |
-|        १३५ स्त्रीधर्मकथनपूर्वकं स्त्रीणां नामकथनम्         |
-|                     गङ्गापार्वतीसंवादः                     |
+| |
+|:--------------------------------------------:|
+| **अध्यायः** |
+| १३२ सत्त्वादिगुणकार्यनिरूपणम् |
+| महदादीनां लक्षणादिकथनम् |
+| कर्मेन्द्रियनिरूपणम् |
+| परमात्मनः दुर्दर्शत्वकथनपूर्वकं सर्वव्यापित्वकथनम् |
+| प्रकृतिपुरुपयोः स्वरूपस्वभावादिनिरूपणम् |
+| १३३ योगनिरूपणम् |
+| योगिकृत्यनिरूपणम् |
+| प्राणादिवायुकृत्यनिरूपणम् |
+| प्राणादिरोधस्य मनःप्रसादहेतुत्वकथनम् |
+| योगफलनिरूपणम् |
+| १३४ परमेश्वरसायुज्यादिप्रभावकथनम् |
+| परमेश्वरप्राप्त्युपायकथनम् |
+| परमेश्वरार्चनस्य दीक्षाहेतुकत्वकथनम् |
+| परमेश्वरार्चनफलकथनम् |
+| १३५ स्त्रीधर्मकथनपूर्वकं स्त्रीणां नामकथनम् |
+| गङ्गापार्वतीसंवादः |
 | १३६ पार्वत्या देवगन्धर्वादिस्त्रीणां मध्ये स्त्रीधर्मकथनम् |
-|               स्त्रीणां पातिव्रत्यनियमकथनम्                |
-|      पतिपरित्यागपूर्वकं देवव्रतया स्त्रिया यमसम्भाषणम      |
-|                    १३७ स्त्रीधर्मकथनम्                     |
-|       आसुरीपैशाचीराक्षसीनां स्त्रीणां वृत्तादिकथनम्        |
-|                  १३८ विप्रकन्योपाख्यानम्                   |
-|                परमात्मप्राप्तावुपायनिरूपणम्                |
-|                   जपस्य चातुर्विध्यकथनम्                   |
-|             विद्वद्वक्षणस्य महाफलहेतुत्वकथनम्              |
-|       १३९ देवादीनां नामकीर्तनपूर्वकं तत्प्रभावकथनम्        |
+| स्त्रीणां पातिव्रत्यनियमकथनम् |
+| पतिपरित्यागपूर्वकं देवव्रतया स्त्रिया यमसम्भाषणम |
+| १३७ स्त्रीधर्मकथनम् |
+| आसुरीपैशाचीराक्षसीनां स्त्रीणां वृत्तादिकथनम् |
+| १३८ विप्रकन्योपाख्यानम् |
+| परमात्मप्राप्तावुपायनिरूपणम् |
+| जपस्य चातुर्विध्यकथनम् |
+| विद्वद्वक्षणस्य महाफलहेतुत्वकथनम् |
+| १३९ देवादीनां नामकीर्तनपूर्वकं तत्प्रभावकथनम् |
 
-|                                                                   |
-|:-----------------------------------------------------------------:|
-|                              अध्यायः                              |
-|                १४० श्रीविष्णुसहस्रनामस्तोत्रकथनम्                 |
-|                    १४१ ब्राह्मणमहिमानुवर्णनम्                     |
-|                   ब्राह्मणानां पूज्यत्वादिकथनम्                   |
-|               ब्राह्मणतिरस्कारस्यानर्थहेतुत्वकथनम्                |
+| |
+|:----------------------------------------------------:|
+| **अध्यायः** |
+| १४० श्रीविष्णुसहस्रनामस्तोत्रकथनम् |
+| १४१ ब्राह्मणमहिमानुवर्णनम् |
+| ब्राह्मणानां पूज्यत्वादिकथनम् |
+| ब्राह्मणतिरस्कारस्यानर्थहेतुत्वकथनम् |
 | १४२ ब्राह्मणमहिमानुवर्णने दृष्टान्ततया कार्तवीर्यार्जुन कथा कथनम् |
-|                 अशरीरिण्या वाचा ब्राह्मणप्रशंसनम्                 |
-|                 कार्तवीर्यार्जुनेन स्ववीर्यकथनम्                  |
-|    वायुना कार्तवीर्यार्जुनं प्रति ब्राह्मणप्रणिपातविधानचोदनम्     |
-|                         वाय्वर्जुनसंवादः                          |
-|     १४३ अङ्गिरःप्रभृतिब्राह्मणचरित्रवर्णनेन ब्राह्मणप्रशंसनम्     |
-|                       १४४ काश्यपचरित्रकथनम्                       |
-|                        उचथ्योपाख्यानकथनम्                         |
-|          सोमेनोचथ्यं प्रति भद्राभिधकन्यायाः प्रतिपादनम्           |
-|                      वरुणेन भद्राया अपहरणम्                       |
-|                       उचथ्येन समुद्रशोषणम्                        |
-|             वरुणेनोचथ्यं प्रति भद्रायाः प्रत्यर्पणम्              |
-|                   १४५ अगस्त्यवसिष्टचरित्रकथनम्                    |
-|            १४६ देवासुरयुद्धे राहुणा चन्द्रसूर्यपराभवः             |
-|                   अत्रिणा चन्द्रीभूय तमोनिरसनम्                   |
-|              च्यवनेनाश्विनोः सोमपानदापनप्रतिज्ञानम्               |
-|                   च्यवनेन सवज्रेन्द्रस्तम्भनम्                    |
-|                १४७ देवैः ब्रह्माणं प्रति शरणवरणम्                 |
-|           देवप्रार्थितैः ब्राह्मणैरग्निसर्जनेन कपहननम्            |
+| अशरीरिण्या वाचा ब्राह्मणप्रशंसनम् |
+| कार्तवीर्यार्जुनेन स्ववीर्यकथनम् |
+| वायुना कार्तवीर्यार्जुनं प्रति ब्राह्मणप्रणिपातविधानचोदनम् |
+| वाय्वर्जुनसंवादः |
+| १४३ अङ्गिरःप्रभृतिब्राह्मणचरित्रवर्णनेन ब्राह्मणप्रशंसनम् |
+| १४४ काश्यपचरित्रकथनम् |
+| उचथ्योपाख्यानकथनम् |
+| सोमेनोचथ्यं प्रति भद्राभिधकन्यायाः प्रतिपादनम् |
+| वरुणेन भद्राया अपहरणम् |
+| उचथ्येन समुद्रशोषणम् |
+| वरुणेनोचथ्यं प्रति भद्रायाः प्रत्यर्पणम् |
+| १४५ अगस्त्यवसिष्टचरित्रकथनम् |
+| १४६ देवासुरयुद्धे राहुणा चन्द्रसूर्यपराभवः |
+| अत्रिणा चन्द्रीभूय तमोनिरसनम् |
+| च्यवनेनाश्विनोः सोमपानदापनप्रतिज्ञानम् |
+| च्यवनेन सवज्रेन्द्रस्तम्भनम् |
+| १४७ देवैः ब्रह्माणं प्रति शरणवरणम् |
+| देवप्रार्थितैः ब्राह्मणैरग्निसर्जनेन कपहननम् |
 
-|                                                                |
-|:--------------------------------------------------------------:|
-|                            अध्यायः                             |
+| |
+|:---------------------------------------------------:|
+| **अध्यायः** |
 | १४८ भीष्मेण स्वस्याशक्तेः ब्राह्मणमहिम्नः श्रीभगतोऽवगमननियमनम् |
-|     श्रीभगवतः श्रीमन्नारायणत्वकथनपूर्वकं तन्महिमानुवर्णनम्     |
-|   १४९ श्रीभगवता दुर्वासश्चरित्रकथनेन ब्राह्मणमहिमानुवर्णनम्    |
-|                      ब्राह्मणप्रभावकथनम्                       |
-|                   श्रीभगवद्दुर्वाससोस्संवादः                   |
-|                 १५० श्रीभगवता रुद्रचरित्रकथनम्                 |
-|                  रुद्रेण दक्षयज्ञप्रध्वंसनम्                   |
-|                     रुद्रेण त्रिपुरसंहारः                      |
-|                १५१ श्रीभगवता शिवमहिमानुवर्णनम्                 |
-|                 १५२ धर्मनिश्चायकप्रमाणनिरूपणम्                 |
-|                       धर्माधर्मनिरूपणम्                        |
-|                    धर्मस्य कारणत्रयनिरूपणम्                    |
-|                  धर्मविचारस्य त्रैविध्यकथनम्                   |
-|                     धर्माधर्मफलप्रतिपादनम्                     |
-|               गुरोर्वचनस्यावश्यकर्तव्यत्वनियमनम्               |
-|                         सदाचारनिरूपणम्                         |
-|              पापानां प्रायश्चित्तापनोद्यत्वकथनम्               |
-|      १५३ युधिष्टिरेण जनानां विषये सुखदुःखप्राप्तौप्रश्नः      |
-|          पुण्यपापरूपकर्मानुसारेण सुखदुःखोत्पत्तिकथनम्          |
-|               १५४ धर्माणां विवेचनेन तत्प्रशंसनम्               |
-|               भीष्मेण श्रीभगवद्ध्यानाय वागुपरमः                |
-|   व्यासेन भीष्मं प्रति युधिष्टिरस्य नगरगमनाभ्यनुज्ञानचोदनम्    |
+| श्रीभगवतः श्रीमन्नारायणत्वकथनपूर्वकं तन्महिमानुवर्णनम् |
+| १४९ श्रीभगवता दुर्वासश्चरित्रकथनेन ब्राह्मणमहिमानुवर्णनम् |
+| ब्राह्मणप्रभावकथनम् |
+| श्रीभगवद्दुर्वाससोस्संवादः |
+| १५० श्रीभगवता रुद्रचरित्रकथनम् |
+| रुद्रेण दक्षयज्ञप्रध्वंसनम् |
+| रुद्रेण त्रिपुरसंहारः |
+| १५१ श्रीभगवता शिवमहिमानुवर्णनम् |
+| १५२ धर्मनिश्चायकप्रमाणनिरूपणम् |
+| धर्माधर्मनिरूपणम् |
+| धर्मस्य कारणत्रयनिरूपणम् |
+| धर्मविचारस्य त्रैविध्यकथनम् |
+| धर्माधर्मफलप्रतिपादनम् |
+| गुरोर्वचनस्यावश्यकर्तव्यत्वनियमनम् |
+| सदाचारनिरूपणम् |
+| पापानां प्रायश्चित्तापनोद्यत्वकथनम् |
+| १५३ युधिष्टिरेण जनानां विषये सुखदुःखप्राप्तौ प्रश्नः |
+| पुण्यपापरूपकर्मानुसारेण सुखदुःखोत्पत्तिकथनम् |
+| १५४ धर्माणां विवेचनेन तत्प्रशंसनम् |
+| भीष्मेण श्रीभगवद्ध्यानाय वागुपरमः |
+| व्यासेन भीष्मं प्रति युधिष्टिरस्य नगरगमनाभ्यनुज्ञानचोदनम् |
 
-|                                                                   |
-|:-----------------------------------------------------------------:|
-|                            **अध्यायः**                            |
-|              १५४ भीष्मेण युधिष्ठिरं प्रत्याशीर्वचनम्              |
-|           युधिष्टिरेण सपरिवारं स्वपुरं प्रति प्रस्थानम्           |
-|                       भीष्मस्वर्गारोहणपर्व                        |
-|            १५५ युधिष्टिरेणाभिषेकपूर्वकं राज्यपरिपालनम्            |
-|              युधिष्टिरेण सपरिवारं भीष्मसमीपोपसर्पणम्              |
-|          युधिष्टिरेण भीष्मंप्रति सपरिवारस्वागमननिवेदनम्          |
-|              भीष्मेण युधिष्टिरं प्रति अनुग्रहोक्तिः               |
-|                 भीष्मेण धृतराष्ट्रं प्रत्युक्तिः                  |
-|           भीष्मेण श्रीभगवन्तं प्रति स्तुतिविधानपूर्वकं            |
-|                    पाण्डवाद्यनुग्रहप्रार्थनम्                     |
-|         श्रभगवता भीष्मं प्रति वसुषु सङ्गत्यनुग्रहविधानम्          |
-|          भीष्मेण निर्याणदशार्या पाण्डवादीन् प्रत्युक्तिः          |
+| |
+|:-------------------------------------------------:|
+| **अध्यायः** |
+| १५४ भीष्मेण युधिष्ठिरं प्रत्याशीर्वचनम् |
+| युधिष्टिरेण सपरिवारं स्वपुरं प्रति प्रस्थानम् |
+| **भीष्मस्वर्गारोहणपर्व** |
+| १५५ युधिष्टिरेणाभिषेकपूर्वकं राज्यपरिपालनम् |
+| युधिष्टिरेण सपरिवारं भीष्मसमीपोपसर्पणम् |
+| युधिष्टिरेण भीष्मं प्रति सपरिवारस्वागमननिवेदनम् |
+| भीष्मेण युधिष्टिरं प्रति अनुग्रहोक्तिः |
+| भीष्मेण धृतराष्ट्रं प्रत्युक्तिः |
+| भीष्मेण श्रीभगवन्तं प्रति स्तुतिविधानपूर्वकं |
+| पाण्डवाद्यनुग्रहप्रार्थनम् |
+| श्रभगवता भीष्मं प्रति वसुषु सङ्गत्यनुग्रहविधानम् |
+| भीष्मेण निर्याणदशार्या पाण्डवादीन् प्रत्युक्तिः |
 | १५६ भीष्मेण स्वमूर्धमध्यभागभेदनपूर्वकं सर्वसमक्षं च स्वर्गारोहणम् |
-|      धृतराष्ट्रादिभिः भीष्मस्य विधिवत् पैतृककर्मनिर्वर्तनम्       |
-|    गङ्गादेव्या स्वपुत्रभीष्मस्वर्गारोहणेन जलादुद्गम्य प्रलापः     |
-|                श्रीभगवता गङ्गादेव्यास्समाश्वासनम्                 |
-|              गङ्गादेव्या समाश्वाशनपूर्वकं जलावतारणम्              |
+| धृतराष्ट्रादिभिः भीष्मस्य विधिवत् पैतृककर्मनिर्वर्तनम् |
+| गङ्गादेव्या स्वपुत्रभीष्मस्वर्गारोहणेन जलादुद्गम्य प्रलापः |
+| श्रीभगवता गङ्गादेव्यास्समाश्वासनम् |
+| गङ्गादेव्या समाश्वाशनपूर्वकं जलावतारणम् |
 
 **॥ एकोनाशीतितमोऽध्यायः ॥**  
-
 **——**
 
 (आनुशासनिकपर्व )
 
    भीष्मेण युधिष्टिरं प्रति श्राद्धे वर्जनीयधान्यशाकादिप्रतिपादकात्रिनिमिसंवादानुवादः ॥ १ ॥ तथा निमिकृतश्राद्धप्रकारानुवादेन श्राद्धविधिकथनम् ॥ २ ॥
 
-                                   
-   **  —————**
+                                                                      
+   ** —————**
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 केन सङ्कल्पितं श्राद्धं कस्मिन् काले किमात्मकम् ।  
 येन सङ्कल्पितं चैव तन्मे ब्रूहि पितामह ॥१॥  
-भृग्वाङ्गिरसके[^775] काले मुनिना कतरेण वा ।  
+भृग्वाङ्गिरसके[^2] काले मुनिना कतरेण वा ।  
 कानि श्राद्धेषु वर्ज्यानि कानि मूलफलानि च ॥२॥  
-धान्य जात्यश्च[^1] का वर्ज्यास् तन्मे ब्रूहि पितामह ॥
+धान्य जात्यश्च[^3] का वर्ज्यास् तन्मे ब्रूहि पितामह ॥
 
-[^1]: "2. क-घ-जातिषु"
+[^2]: # "1. अ-क -घ-नास्तीदमर्धम्"
 
-[^775]: ॑॑॑॑॑॑# "1. अ-क -घ-नास्तीदमर्धम्"
+[^3]: # "2. क-घ-जातिषु"
 
-भीष्मः–
+**भीष्मः–**
 
 स्वायम्भुवोऽत्रिः कौरव्य परमर्षिः प्रतापवान् ।  
 तस्य वंशे महाराज दत्तात्रेय इति स्मृतः ॥३॥  
 दत्तात्रेयस्य पुत्रोऽभून्निमिर्नाम तपोधनः ।  
 निमेश्चाप्यभवत् पुत्रश् श्रीमान्नाम श्रिया वृतः ॥४॥
 
-पूर्णेवर्षसहस्रान्ते स कृत्वा दुष्करं तपः ।  
-कालधर्मनिपातात्मा निधनं[^776] समुपागतः ॥५॥
+पूर्णे वर्षसहस्रान्ते स कृत्वा दुष्करं तपः ।  
+कालधर्मनिपातात्मा निधनं[^4] समुपागतः ॥५॥
 
-[^776]: # "1. क घ–नियमं"
+[^4]: # "1. क घ–नियमं"
 
 निमिस्तु कृत्वा श्राद्धानि विधिदृष्टेन कर्मणा ।  
 सन्तापमगमत् तीव्रं पुत्रशोकपरायणः ॥६॥
@@ -708,7 +731,7 @@ The Presidency College,
 उक्तानि यानि चान्यानि यानि चेष्टानि तस्य हि ।  
 तानि सर्वाणि मनसा विनिश्चित्य तपोधनः ॥१०॥
 
-अमावास्यां महाराज विप्रानानाय्यपूजितान् ।  
+अमावास्यां महाराज विप्रानानाय्य पूजितान् ।  
 दक्षिणावर्तिकास्सर्वा बृसीस्स्वयमथाकरोत् ॥११॥
 
 सप्त विप्रांस्तस्य भोज्यान् युगपत् समुपानयत् ।  
@@ -718,25 +741,25 @@ The Presidency College,
 पादयोश्चैव विप्राणां ये त्वन्नमुपभुञ्जते ॥१३॥
 
 कृत्वा च दक्षिणाग्रान् वै दर्भान् सुप्रयतश्शुचिः ।  
-प्रददौ[^777] श्रीमते पिण्डान् नामगोत्रमुदाहरन् ॥१४॥
+प्रददौ[^5] श्रीमते पिण्डान् नामगोत्रमुदाहरन् ॥१४॥
 
-[^777]: # "1. क व–अर्धत्रयं नास्ति"
+[^5]: # "1. क व–अर्धत्रयं नास्ति"
 
 तत् कृत्वा स मुनिश्रेष्ठो धर्मसङ्करमात्मनः ।  
-बुद्ध्वाऽत्रिंमनसा दध्यौ भगवन्तं समाहितः ॥१५॥
+बुद्ध्वाऽत्रिं मनसा दध्यौ भगवन्तं समाहितः ॥१५॥
 
 ध्यातमात्रस्तथा चात्रिर् आजगाम तपोधनः ॥ १६॥
 
 अथात्रिस्तं तदा दृष्ट्वा पुत्रशोकेन कर्शितम् ।  
 भृशमाश्वासयामास वाग्भिरिष्टाभिरव्ययः ॥ १७ ॥
 
-अत्रिः–
+**अत्रिः–**
 
 निमे सङ्कल्पितस्तेऽयं पितृयज्ञस्तपोधन ।  
 ततो मे पूर्वधर्मोऽत्र दृष्टोऽयं ब्रह्मणा स्वयम् ॥१८॥
 
 सोऽयं स्वयम्भुविहितो धर्मस्सङ्कल्पितस्त्वया ।  
-ऋते स्वयम्भुवं कोऽन्यश् श्राद्धेसंविधिमाहरेत्॥१९॥
+ऋते स्वयम्भुवं कोऽन्यश् श्राद्धे संविधिमाहरेत्॥१९॥
 
 आख्यास्यामि च ते भूयश् श्राद्धीयं विधिमुत्तमम् ।  
 स्वयम्भुविहितं पुत्र तत् कुरुष्व निबोध मे ॥२०॥
@@ -748,17 +771,17 @@ The Presidency College,
 तेभ्यस्सङ्कल्पितो भागस् स्वयमेव स्वयम्भुवा॥२२॥
 
 स्तोतव्या चैव पृथिवी लोकस्यैव च धारिणी ।  
-वैष्णवी[^778] काश्यपी चेति तथैवेहाक्षयेति च ॥२३॥
+वैष्णवी[^6] काश्यपी चेति तथैवेहाक्षयेति च ॥२३॥
 
-[^778]: # "1. क–व –अर्धचतुष्टयं नास्ति"
+[^6]: # "1. क–व –अर्धचतुष्टयं नास्ति"
 
 उद्गायतने चैव स्तोतव्यो वरुणो विभुः ।  
-ततोऽग्निश्चैव सोमश्च आराध्याविह तेऽनघ॥२४॥
+ततोऽग्निश्चैव सोमश्च आराध्याविह तेऽनघ ॥२४॥
 
 देवास्तु पितरो नाम निर्मिता वै स्वयम्भुवा ।  
-ऊष्मपा[^2] ये महाभागास् तेषां भागः प्रकल्पितः ॥२५॥
+ऊष्मपा[^7] ये महाभागास् तेषां भागः प्रकल्पितः ॥२५॥
 
-[^2]: "2. अ–अर्धत्रयं नास्ति"
+[^7]: # "2. अ–अर्धत्रयं नास्ति"
 
 ते श्राद्धैरमाना वै विमुच्यन्ते ह किल्बिषात् ।  
 सप्तकाः पितृवंशास्तु पूर्वदृष्टास्स्वयम्भुवा ॥२६॥
@@ -772,28 +795,28 @@ The Presidency College,
 विवस्वान् वीर्यवाञ् श्रीमान् कीर्तिमान् कृत एव च ।  
 विपूर्वस्सोमपूर्वश्च सूर्यश्रीश्चेति नामतः ॥२९॥
 
-सोमस्सूर्यश्च सावित्रो दान्तात्मा[^3] पुष्करीयकः ।  
+सोमस्सूर्यश्च सावित्रो दान्तात्मा[^8] पुष्करीयकः ।  
 उष्णानाभो नभोदश्च विश्वायुर्दीप्तिरेव च ॥३०॥
 
-[^3]: "3.क–घ –दानात्मा पुष्करीयकः"
+[^8]: # "3. क–घ –दानात्मा पुष्करीयकः"
 
-शतद्रुहा[^4]सुवेश्मश्च व्योमारिश्शङ्करो भवः ।
+शतद्रुहा[^9] सुवेश्मश्च व्योमारिश्शङ्करो भवः ।
 
-[^4]: "4. क–घ –शत्रुद्रुहा सुवेपश्च ख–समूहरस्सुवेषश्च"
+[^9]: # "4. क–घ –शत्रुद्रुहा सुवेपश्च ख–समूहरस्सुवेषश्च"
 
-ईशः[^779] कर्ता कृतिर्दक्षो भवनो विश्वकर्मकृत् ॥३१॥
+ईशः[^10] कर्ता कृतिर्दक्षो भवनो विश्वकर्मकृत् ॥३१॥
 
-[^779]: # "1.घ–शङ्ककर्ता"
+[^10]: # "1.घ–शङ्ककर्ता"
 
 गणितः पञ्चवीर्यश्च आदित्यो रश्मिमांस्तथा ।  
 सप्तकृत् सोमपर्वश्च विश्वकः कविरेव च ॥३२॥
 
-अनुगोप्ता[^5] सुगोप्ता च नीराजश्चर[^780] एव च ।  
+अनुगोप्ता[^11] सुगोप्ता च नीराजश्चर[^12] एव च ।  
 जितात्मा मुनिवीर्यश्च दीप्तरोमा प्रभाकरः ॥३३॥
 
-[^5]: "2. क–घ–इदमर्धं नास्ति"
+[^11]: # "2. क–घ–इदमर्धं नास्ति"
 
-[^780]: # "3. ख–सप्तजश्वर एव च"
+[^12]: # "3. ख–सप्तजश्वर एव च"
 
 अग्निकर्मा प्रतीतश्च प्रदातांशुमतिस्तथा ।  
 शैलाभः परमः क्रोधी धारोष्णी भूपतिस्तथा ॥३४॥
@@ -802,9 +825,9 @@ The Presidency College,
 कीर्तितास्ते महाभागाः कालस्य गतिगोचराः ॥३५॥
 
 अश्राद्धेयानि धान्यानि कोद्रवाः पुलकास्तथा ।  
-हिङ्गु[^781] द्रवेषु शाकेषु मूलानां लशुनं तथा ॥३६॥
+हिङ्गु[^13] द्रवेषु शाकेषु मूलानां लशुनं तथा ॥३६॥
 
-[^781]: # "4. घ–हिङ्गुद्रवेषु धान्येषु"
+[^13]: # "4. घ–हिङ्गुद्रवेषु धान्येषु"
 
 पलाण्डुस्सौभाञ्जनकस् तथा गृञ्जनकादयः ।  
 कूश्माण्डकान्यलाबूनि कृष्णं लवणमेव च ॥३७॥
@@ -812,9 +835,9 @@ The Presidency College,
 ग्राम्यवाराहमांसं च यच्चैवाप्रोक्षितं भवेत् ।  
 कृष्णाजं जीरकं चैव शीतपाकी तथैव च ॥३८
 
-कुङ्कुमाद्यास्तथा[^782] वर्ज्या इह शृङ्गाटकानि च ॥३८॥
+कुङ्कुमाद्यास्तथा[^14] वर्ज्या इह शृङ्गाटकानि च ॥३८॥
 
-[^782]: # "5. ख–अङ्कुराद्या"
+[^14]: # "5. ख–अङ्कुराद्या"
 
 वर्जयेल्लवणं सर्वं तथा जम्बूफलानि च ।  
 अवक्षुतावरुदितं तथा श्राद्धेषु वर्जयेत् ॥३९॥
@@ -822,18 +845,18 @@ The Presidency College,
 निवापे हव्यकव्ये च गर्हितं च श्वदर्शनम् ।  
 पितरश्चैव देवाश्च नाभिनन्दन्ति तद्धविः ॥४०॥
 
-चण्डालश्वपचौ वर्ज्यौनिवापे समुपस्थिते ।  
+चण्डालश्वपचौ वर्ज्यौ निवापे समुपस्थिते ।  
 काषायवासी कुष्ठी वा पतितो ब्रह्महाऽपि वा ॥४१॥
 
 सङ्कीर्णयोनिर्विप्रश्च सम्बन्धी पतितस्तथा ।  
 वर्जनीया बुधैरेते निवापे समुपस्थिते ॥४२॥
 
-भीष्मः–
+**भीष्मः–**
 
-इत्येवमुक्त्वाभगवान् स्ववंशजमृषिः पुरा ।  
-पितामहसभां दिव्यां जगामात्रिस्तपोधनः[^6] ॥४३॥
+इत्येवमुक्त्वा भगवान् स्ववंशजमृषिः पुरा ।  
+पितामहसभां दिव्यां जगामात्रिस्तपोधनः[^15] ॥४३॥
 
-[^6]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
+[^15]: # "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
 
 तथा विधौ प्रवृत्ते तु सर्व एव महर्षयः ।  
 पितृयज्ञानकुर्वन्त विधिदृष्टेन कर्मणा ॥४४॥
@@ -842,9 +865,9 @@ The Presidency College,
 तर्पणं चाप्यकुर्वन्त तीर्थाम्भसि यतव्रताः ॥४५॥
 
 निवापैर्दीयमानैश्च चातुर्वर्ण्येन भारत ॥  
-तर्पिताः पितरो देवा नेहान्नं जरयन्ति[^7] वै ॥४६॥
+तर्पिताः पितरो देवा नेहान्नं जरयन्ति[^16] वै ॥४६॥
 
-[^7]: "ख–ञ्जयन्ति वै"
+[^16]: # "ख–ञ्जयन्ति वै"
 
 अजीर्णेनापि हन्यन्त देवताः पितृभिस्सह ॥  
 सोममेवान्वपद्यन्त तेनाज्यान्नाभिपूजिताः ॥४७॥
@@ -855,53 +878,54 @@ The Presidency College,
 तान् सोमः प्रत्युवाचाथ श्रेयश्चेदीप्सितं परम् ।  
 स्वयम्भूसदनं यात स वश्श्रेयो विधास्यति ॥४९॥
 
-ते सोमवचनाद्देवाः पितृभिस्सह भारत।  
+ते सोमवचनाद्देवाः पितृभिस्सह भारत ।  
 मेरुशृङ्गे समासीनं पितामहमुपागमन् ॥५०॥
 
-पितरः–
+**पितरः–**
 
 निवापान्नेन भगवन् भृशं पीड्यामहे वयम् ।  
 प्रसादं कुरु नो देव श्रेयो नस्संविधीयताम् ॥५१॥
 
-भीष्मः–
+**भीष्मः–**
 
 इति तेषां वचश्श्रुत्वा स्वयम्भूरिदमब्रवीत् ॥५२
 
-ब्रह्मा–
+**ब्रह्मा–**
 
-एषमे पार्श्वतो वह्निर्युष्मच्छ्रेयो विधास्यति ॥५२॥
+एष मे पार्श्वतो वह्निर् युष्मच्छ्रेयो विधास्यति ॥५२॥
 
-अग्निः–
+**अग्निः–**
 
 सहितास्तस्य भोक्ष्यामो निवापे समुपस्थिते ।  
 जरयिष्यथ चाप्यन्नं मया सार्धं न संशयः ॥५३॥
 
-भीष्मः–
+**भीष्मः–**
 
 एतच्छ्रुत्वा तु पितरस् ततस्ते विज्वरा भवन् ।  
 
-एतस्मात् कारणादग्नेःप्राग्भागो दीयते नृप ॥५४॥
+
+एतस्मात् कारणादग्नेः प्राग्भागो दीयते नृप ॥५४॥
 
 निवापे चाग्निपूर्वे वै निवृत्ते पुरुषर्षभ ।  
-न ब्रह्मराक्षसास्तं वै निवापं धर्षयन्त्युत[^8] ॥५५॥
+न ब्रह्मराक्षसास्तं वै निवापं धर्षयन्त्युत[^17] ॥५५॥
 
-[^8]: "1. अ–भक्षयन्त्युत"
+[^17]: # "1. अ–भक्षयन्त्युत"
 
 रक्षांसि नाभिवर्धन्ते स्थिते देवे विभावसौ ॥५६
 
 ततः पूर्वं पितुर्दद्यात् पश्चाद् दद्यात् पितामहे ।  
 प्रपितामहाय च ततस् तावच्छ्राद्धविधिस्स्मृतः ॥५७
 
-ब्रूयाच्छ्राद्धे च सावित्रींपिण्डे[^9] पिण्डे समाहितः ॥ ५७॥
+ब्रूयाच्छ्राद्धे च सावित्रीं पिण्डे[^18] पिण्डे समाहितः ॥ ५७॥
 
-[^9]: "2. घ–पिण्डं"
+[^18]: # "2. घ–पिण्डं"
 
 सोमायेति च वक्तव्यं तथा पितृगतेति च ॥५८॥
 
 रजस्वला च या नारी व्यङ्गिता कर्णयोश्च या ।  
-निवापे नोपतिष्ठेते[^10]ग्राह्या प्यस्य वंशजाः ॥५९॥
+निवापे नोपतिष्ठेते[^19] ग्राह्या प्यस्य वंशजाः ॥५९॥
 
-[^10]: "3. ख–तिष्ठन्ते न ग्राह्यश्चाप्यवंशजाः"
+[^19]: # "3. ख–तिष्ठन्ते न ग्राह्यश्चाप्यवंशजाः"
 
 जलं प्रतरमाणश्च कीर्तयेत पितामहान् ।  
 नदीमासाद्य कुर्वीत पितणां पितृतर्पणम् ॥६०॥
@@ -923,15 +947,15 @@ The Presidency College,
 
 एते कुरुकुलश्रेष्ठ महायोगेश्वरास्स्मृताः ॥६५
 
-एते च पितरो राजन्नेष श्राद्धविधिः परः[^783] ।  
+एते च पितरो राजन्नेष श्राद्धविधिः परः[^20] ।  
 प्रेतास्तु पिण्डसम्बन्धान्मुच्यन्ते तेन कर्मणा ॥६६
 
-[^783]: # "1. क–ख–घ–पुरा"
+[^20]: # "1. क–ख–घ–पुरा"
 
 इति ते पुरुषव्याघ्र श्राद्धोत्पत्तिर्यथाक्रमम् ।  
 ख्यापिता पूर्वनिर्दिष्टा किं ते वक्ष्याम्यतः परम् ॥६७
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकोनाशीतितमोऽध्यायः ॥ ७९ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि एकोनाशीतितमोऽध्यायः ॥ ७९ ॥  
 \[ अस्मिन्नध्याये ६७ श्लोकाः\]**  
@@ -941,30 +965,31 @@ The Presidency College,
 
    भीष्मेण युधिष्टिरं प्रत्युपवासब्रह्मचर्यादीनां लक्षणकथनम् ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 द्विजातयो व्रतोपेता हविस्ते यदि भुञ्जते ।  
 अन्नं ब्राह्मणकामाय कथमेतत् पितामह ॥१॥
 
-भीष्मः–
+**भीष्मः–**
 
 अवेदोक्तव्रताश्चैव भुञ्जानाः कार्यकारणैः ।  
-वेदोक्तेषुतु भुञ्जाना व्रतयुक्ता[^784] युधिष्ठिर ॥२॥
+वेदोक्तेषु तु भुञ्जाना व्रतयुक्ता[^21] युधिष्ठिर ॥२॥
 
-[^784]: # "1. अ–क–घ– लुप्ता"
+[^21]: # "1. अ–क–घ– लुप्ता"
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
-यदिदं तप इत्याहुर् उपवासं पृथग्जनाः।  
+यदिदं तप इत्याहुर् उपवासं पृथग्जनाः ।  
 तपस्स्यादेतदिह वै तपोऽन्यद्वाऽपि किं भवेत् ॥३॥
 
-भीष्मः –
+**भीष्मः –**
 
 मासार्धमासौ नोपवसेद् यत्तपो मन्यते जनः ।  
 आत्मतन्त्रोपघाती स न तपस्वी न धर्मवित् ॥४॥  
 त्यागस्य चापि सम्पत्तिश् शिष्यते तप उत्तमम् ।  
 सदोपवासी च भवेद् ब्रह्मचारी तथैव च ॥५॥  
 मुनिश्च स्यात् सदा विप्रो देवांश्चैव सदा यजेत् ।  
+
 
 कुटुम्बिको धर्मकामस् सदाऽस्वप्नश्च भारत ॥६॥
 
@@ -979,32 +1004,32 @@ The Presidency College,
 कथं सदोपवासी स्याद् ब्रह्मचारी च पार्थिव ।  
 विघसाशी कथं च स्यात् तथा चैवातिथिप्रियः ॥९॥
 
-भीष्मः–
+**भीष्मः–**
 
 अन्तरा सायमाशश्च प्रातराशस्तथैव च ।  
-सदोपवासी भवति यो न भुङ्क्तेऽन्तरा पुनः॥१०॥
+सदोपवासी भवति यो न भुङ्क्तेऽन्तरा पुनः ॥१०॥
 
 भार्या गच्छन् ब्रह्मचारी सदा चैव भवेन्नरः ।  
-ऋतवादी[^11] सदैव स्याद् दानशीलश्च मानवः ॥११॥
+ऋतवादी[^22] सदैव स्याद् दानशीलश्च मानवः ॥११॥
 
-[^11]: "1. अ–अर्धत्रयं नास्ति"
+[^22]: # "1. अ–अर्धत्रयं नास्ति"
 
-अभक्षयन् वृथा मांसं अमांसाशी भवत्युत ।  
+अभक्षयन् वृथा मांसम् अमांसाशी भवत्युत ।  
 दानं ददत् पवित्री स्याद् अस्वप्नश्च दिवाऽस्वपन् ॥१२॥
 
 भृत्यातिथिषु यो भुङ्क्ते भुक्तवत्सु नरस्सदा ।  
-अमृतं सकलं भुङ्क्ते इति[^12] विद्धि युधिष्ठिर ॥१३॥
+अमृतं सकलं भुङ्क्ते इति[^23] विद्धि युधिष्ठिर ॥१३॥
 
-[^12]: "2. क-घ–अष्टौपादा न सन्ति"
+[^23]: # "2. क-घ–अष्टौ पादा न सन्ति"
 
-अभुक्तवत्सु नाश्नाति ब्राह्मणेषुतु यो नरः ।
+अभुक्तवत्सु नाश्नाति ब्राह्मणेषु तु यो नरः ।
 
 अभोजनेन तेनास्य जितस्स्वर्गो भवत्युत ॥१४॥
 
-देवेभ्यश्च पितृभ्यश्च भूतेभ्यो[^13]ऽतिथिभिस्सह।  
+देवेभ्यश्च पितृभ्यश्च भूतेभ्यो[^24]ऽतिथिभिस्सह ।  
 अवशिष्टानि यो भुङ्क्ते तमाहुर्विघसाशिनम् ॥१५॥
 
-[^13]: "1 ख–भृत्येभ्यो"
+[^24]: # "1 ख–भृत्येभ्यो"
 
 तेषां लोका ह्यपर्यन्तास् सदने ब्रह्मणस्स्मृताः ॥  
 उपस्थिता ह्यप्सरोभिर् गन्धर्वैश्च जनाधिप ॥१६॥
@@ -1012,55 +1037,54 @@ The Presidency College,
 देवतातिथिभिस्सार्धं पितृभिश्चोपभुञ्जते ।  
 रमन्ते पुत्रपौत्रैश्च तेषां गतिरनुत्तमा ॥१७॥
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि अशीतितमोऽध्यायः ॥ ८२ ॥  
-॥८९॥आनुशासनिकपर्वणि अशीतितमोऽध्यायः ॥ ८० ॥  
+॥ ८९॥ आनुशासनिकपर्वणि अशीतितमोऽध्यायः ॥ ८० ॥  
 \[ अस्मिन्नध्याये १७ श्लोकाः \]**  
-
 **\_\_\_\_\_**
 
 **॥ एकाशीतितमोऽध्यायः ॥**
 
-  भीष्मेण युधिष्टिरं प्रत्यसाधुभ्यः प्रतिग्रहस्य निन्द्यत्वे प्रमाणतया सप्तर्षिवृषादर्विसंवादानुवादः ॥ १ ॥ वृषादर्विणा राज्ञा काश्यपादिसप्तर्षिभिस्वस्मात् प्रतिग्रहनिराकरणे तज्जिघांसया कृत्योत्पादनम् ॥ २ ॥ तन्नामार्थपरिज्ञानेन तद्वधं चोदितया कृत्यया वने तत्समीपं प्रति गमनम् ॥ ३ ॥ वने विचरतां सप्तर्षीणां परिव्राड्रूपधारिणेन्द्रेण समागमः ॥ ४ ॥ अरुन्धत्या तस्यातिपीनाङ्गत्वे कारणं पृष्टैस्तैस्तत्कथनम् ॥ ५ ॥ तथा कामपि पद्मिनीमवलोकितवद्भिस्तैर्विसग्रहणाय तत्समीपगमनम् ॥ ६ ॥ तत्रतद्रक्षिण्या वृषादर्विनिर्मितकृत्यया स्वस्वनामनिर्वचनेन सरःप्रवेशं चोदितैस्तां प्रति तन्निर्वचनम् ॥ ७ ॥ भिक्षुरूपिणेन्द्रेण सकृत्स्वनामनिर्वचनेऽपि पुनः पृच्छन्त्याः कृत्याया दण्डेन मारणपूर्वकपीन् प्रति स्वस्वरूपप्रकटनम् ॥८॥ सम्भूय तीर्थयात्रांकुर्वद्भिर्द्विजर्षिभी राजर्षिभिश्च क्रमेण ब्रह्मसरः प्रति गमनम् ॥ ९ ॥ तत्रागस्त्येन ह्रदात् समुद्धृतपद्मस्य धर्मशुश्रूषुणेन्द्रेण गूढमपहारेऋषिभी राजभिश्चस्वेषु पुष्करस्तेयं शङ्कमानमगस्त्यं प्रति प्रत्येकशो नानाशपथकरणम् ॥ १० ॥ पश्चादिन्द्रेण स्वस्वरूपप्रकाशनपूर्वकं स्वेनपुष्करापहारस्य प्रयोजननिवेदनेन तत्प्रसादनम् ॥ ११ ॥
+  भीष्मेण युधिष्टिरं प्रत्यसाधुभ्यः प्रतिग्रहस्य निन्द्यत्वे प्रमाणतया सप्तर्षिवृषादर्विसंवादानुवादः ॥ १ ॥ वृषादर्विणा राज्ञा काश्यपादिसप्तर्षिभिस्वस्मात् प्रतिग्रहनिराकरणे तज्जिघांसया कृत्योत्पादनम् ॥ २ ॥ तन्नामार्थपरिज्ञानेन तद्वधं चोदितया कृत्यया वने तत्समीपं प्रति गमनम् ॥ ३ ॥ वने विचरतां सप्तर्षीणां परिव्राड्रूपधारिणेन्द्रेण समागमः ॥ ४ ॥ अरुन्धत्या तस्यातिपीनाङ्गत्वे कारणं पृष्टैस्तैस्तत्कथनम् ॥ ५ ॥ तथा कामपि पद्मिनीमवलोकितवद्भिस्तैर्विसग्रहणाय तत्समीपगमनम् ॥ ६ ॥ तत्र तद्रक्षिण्या वृषादर्विनिर्मितकृत्यया स्वस्वनामनिर्वचनेन सरःप्रवेशं चोदितैस्तां प्रति तन्निर्वचनम् ॥ ७ ॥ भिक्षुरूपिणेन्द्रेण सकृत्स्वनामनिर्वचनेऽपि पुनः पृच्छन्त्याः कृत्याया दण्डेन मारणपूर्वकपीन् प्रति स्वस्वरूपप्रकटनम् ॥८॥ सम्भूय तीर्थयात्रां कुर्वद्भिर्द्विजर्षिभी राजर्षिभिश्च क्रमेण ब्रह्मसरः प्रति गमनम् ॥ ९ ॥ तत्रागस्त्येन ह्रदात् समुद्धृतपद्मस्य धर्मशुश्रूषुणेन्द्रेण गूढमपहारेऋषिभी राजभिश्च स्वेषु पुष्करस्तेयं शङ्कमानमगस्त्यं प्रति प्रत्येकशो नानाशपथकरणम् ॥ १० ॥ पश्चादिन्द्रेण स्वस्वरूपप्रकाशनपूर्वकं स्वेनपुष्करापहारस्य प्रयोजननिवेदनेन तत्प्रसादनम् ॥ ११ ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 ब्राह्मणेभ्यः प्रयच्छन्ति दानानि विविधानि च ।  
 दातृप्रतिग्रहीत्रोर्वा को विशेषः पितामह ॥१
 
-भीष्मः–
+**भीष्मः–**
 
 साधोर्यः प्रतिगृह्णीयात् तथैवासाधुतो द्विजः ।
 
 गुणवत्यल्पदोषस्स्यान्निर्गुणे तु निमज्जति ॥२॥
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
-वृषादर्वेश्च[^14] संवाद सप्तर्षीणां च सुव्रत ॥३॥
+वृषादर्वेश्च[^25] संवाद सप्तर्षीणां च सुव्रत ॥३॥
 
-[^14]: "1. घ–र्भे"
+[^25]: # "1. घ–र्भे"
 
-काश्यपोऽत्रिर्वसिष्ठश्च[^15] भारद्वाजोऽथ गौतमः ।  
+काश्यपोऽत्रिर्वसिष्ठश्च[^26] भारद्वाजोऽथ गौतमः ।  
 विश्वामित्रो जामदग्निस् साध्वी चैवाप्यरुन्धती ॥४॥
 
-[^15]: "2. ख–त्रिर्भरद्वाजो विश्वामित्रोऽथ गौतमः जमदग्निर्वसिष्ठश्च"
+[^26]: # "2. ख–त्रिर्भरद्वाजो विश्वामित्रोऽथ गौतमः जमदग्निर्वसिष्ठश्च"
 
-सर्वेषामथ तेषां तु चण्डाऽभूत्[^16] परिचारिका ।  
+सर्वेषामथ तेषां तु चण्डाऽभूत्[^27] परिचारिका ।  
 शूद्रः पशुसखश्चैव तस्या भर्ता बभूव ह ॥५॥
 
-[^16]: "3. घ–गण्डोऽभूत् परिचारकौ"
+[^27]: # "3. घ–गण्डोऽभूत् परिचारकौ"
 
 ते वै सर्वे तपस्यन्तः पुरा चेरुर्महीमिमाम् ।  
 समाधिना प्रतीक्षन्तो ब्रह्मलोकं सनातनम् ॥६॥
 
-तदाऽभव[^17]दनावृष्टिर् महती कुरुनन्दन ।  
+तदाऽभव[^28]दनावृष्टिर् महती कुरुनन्दन ।  
 कृच्छ्रप्राणोऽभवत् तत्र लोकोऽयं वै क्षुधाऽन्वितः ॥७॥
 
-[^17]: "4. ख–अथाभवघ–अङ्गाभव"
+[^28]: # "4. ख–अथाभव घ–अङ्गाभव"
 
 कस्मिंश्चिद्यः पुरा यज्ञे याज्येन शिबिसूनुना ।  
-दक्षिणार्थे च ऋत्विग्भ्यो दत्तः पुत्रोऽनलः[^18] किल ॥८॥
+दक्षिणार्थे च ऋत्विग्भ्यो दत्तः पुत्रोऽनलः[^29] किल ॥८॥
 
-[^18]: "5. ख–नवः किल घ–ऽतिलः किल"
+[^29]: # "5. ख–नवः किल घ–ऽतिलः किल"
 
 तस्मिन् काले तु सोऽल्पायुर् दिष्टान्तमगमत् प्रभो ।  
 ते तं क्षुधाऽभिसन्तप्ताः परिवार्योपतस्थिरे॥९॥
@@ -1072,60 +1096,60 @@ The Presidency College,
 कृच्छ्रामापेदिरे वृत्तिम् अन्नहेतोस्तपस्विनः ॥ ११ ॥
 
 अटमानोऽथ तान् मार्गे पचमानान् महीपतिः ।  
-राजा शैब्यो वृषादर्विः[^19] क्लिश्यमानान् ददर्श ह ॥ १२ ॥
+राजा शैब्यो वृषादर्विः[^30] क्लिश्यमानान् ददर्श ह ॥ १२ ॥
 
-[^19]: "1. घ–र्भिः"
+[^30]: # "1. घ–र्भिः"
 
-वृषादर्विः–
+**वृषादर्विः–**
 
 प्रतिग्रहस्तारयति पुष्टिर्वै प्रतिगृह्णताम् ।  
 मयि यद्विद्यते वित्तं तद्वॄणुध्वं तपोधनाः ॥ १३ ॥
 
-प्रतिग्रहो[^20] ब्राह्मणानां सृष्टा वृत्तिरनिन्दिता ।  
+प्रतिग्रहो[^31] ब्राह्मणानां सृष्टा वृत्तिरनिन्दिता ।  
 तस्माद् ददामि वो वित्तं तद् गृह्णीध्वं तपोधनाः ॥ १४ ॥
 
-[^20]: "2. अ –क– घ–अर्धद्वयं नास्ति"
+[^31]: # "2. अ –क– घ–अर्धद्वयं नास्ति"
 
 प्रिया हि मे ब्राह्मणा याचमाना  
 ददाम्यहं वोऽश्वतरीसहस्रम् ।  
-धेनूर्ददाम्ययुतं[^21] वै समग्रम्  
+धेनूर्ददाम्ययुतं[^32] वै समग्रम्  
 एकैकशस्सवृषास्सम्प्रसूताः ॥ १५ ॥
 
-[^21]: "3. क–घ– अयं पादो नास्ति"
+[^32]: # "3. क–घ– अयं पादो नास्ति"
 
-अश्वांस्तथा[^22][ पाठान्तरम् ]") शीघ्रगाञ् श्वेतरूपान्  
-मनोजवान्[^23] प्रददान्यर्बुदानि ।
+अश्वांस्तथा[^33] [ पाठान्तरम् ]") शीघ्रगाञ् श्वेतरूपान्  
+मनोजवान्[^34] प्रददान्यर्बुदानि ।
 
-[^22]: "4. क –घ– तेषां सर्वे शीघ्रगाश्वरूपाः (?
+[^33]: # "4. क –घ– तेषां सर्वे शीघ्रगाश्वरूपाः (?
 
-[^23]: "5. क– घ– अयं पादो नास्ति"
+[^34]: # "5. क– घ– अयं पादो नास्ति"
 
 कुलम्भराननडुहश्शतं शतान्  
 धुर्याञ् शुभान् सर्वशोऽहं ददामि ॥ १६ ॥  
 हृष्टो वाहान् पीवराणां च तावद्  
 अग्र्या गृष्टीर्धेनवस्सुव्रताश्च ॥१६॥
 
-वरान्[^785]ग्रामान् व्रीहियवान् रसांश्च  
+वरान्[^35] ग्रामान् व्रीहियवान् रसांश्च  
 रत्नं चान्यद्दुर्लभं किं ददामि।  
 मा स्माभोज्ये भावमेवं कुरुध्वं  
 पुष्ट्यर्थं वै किं प्रयच्छाम्यहं वः ॥१७॥
 
-[^785]: # "1. ख–पुरान्"
+[^35]: # "1. ख–पुरान्"
 
-ऋषयः–
+**ऋषयः–**
 
 राजन् प्रतिग्रहो राज्ञो मध्वास्वादो विषोपमः ।  
 तज्जानमानः कस्मात्त्वं कुरुपे नः प्रलोभनम् ॥१८॥
 
-दशसूनासमश्चक्री[^24] दशचक्रिसमो ध्वजी ।  
+दशसूनासमश्चक्री[^36] दशचक्रिसमो ध्वजी ।  
 दशध्वजिसमा वेश्या दशवेश्यासमो नृपः ॥१९॥
 
-[^24]: "2. क-घ–अर्धचतुष्टयं नास्ति"
+[^36]: # "2. क-घ–अर्धचतुष्टयं नास्ति"
 
-दशसूना[^25]सहस्राणि यो वाहयति सौनिकः ।  
+दशसूना[^37]सहस्राणि यो वाहयति सौनिकः ।  
 तेन तुल्यो भवेद्राजा घोरस्तस्य प्रतिग्रहः ॥२०॥
 
-[^25]: "3. ख–अर्धद्वयं नास्ति"
+[^37]: # "3. ख–अर्धद्वयं नास्ति"
 
 क्षत्रं हि दैवतमिव ब्राह्मणं समुपाश्रितम् ।  
 अमलो ह्येष तपसा प्रीतः प्रीणाति देवताः ॥२१॥
@@ -1135,54 +1159,56 @@ The Presidency College,
 तद्दाव इव निर्दह्यात् प्राप्तो राजप्रतिग्रहः ॥२२॥  
 कुशलं सह दानेन राजन्नस्तु सदा तव ।
 
-अर्थिभ्यो दिशतां[^26] सर्वाम् इत्युक्त्वातेऽन्यतो ययुः ॥ २३॥
+अर्थिभ्यो दिशतां[^38] सर्वाम् इत्युक्त्वा तेऽन्यतो ययुः ॥ २३॥
 
-[^26]: "1. क घ–दीयतां सर्वम्"
+[^38]: # "1. क घ–दीयतां सर्वम्"
 
-भीष्मः–
+**भीष्मः–**
 
 अपक्वमेव तन्मांसम् अभूत्तेपां च धीमताम् ।  
 अथ हित्वा ययुस्सर्वे वनमाहारकाङ्क्षिणः ॥२४॥
 
 ततः प्रचोदिता राज्ञा वनं गत्वाऽस्य मन्त्रिणः ।  
-प्रचीयोदुम्बराणि[^27] स्म दानं दातुं प्रचक्रमुः ॥२५॥
+प्रचीयोदुम्बराणि[^39] स्म दानं दातुं प्रचक्रमुः ॥२५॥
 
-[^27]: "2. घ–प्रवरोदुम्बराणि स्म दानं दातुं प्रचक्रमुः ।[ पाठान्तरम् ]"
+[^39]: # "2. घ–प्रवरोदुम्बराणि स्म दानं दातुं प्रचक्रमुः । [ पाठान्तरम् ]"
 
 दृष्ट्वा फलानि मुनयस् ते ग्रहीतुमुपाद्रवन् ॥२६॥
 
 गुरुणीति विदित्वाऽथ न ग्राह्याण्यत्रिरब्रवीत् ।  
-नास्महे[^28] मूढविज्ञाना नास्म मानुषबुद्धयः ॥२७॥
+नास्महे[^40] मूढविज्ञाना नास्म मानुषबुद्धयः ॥२७॥
 
-[^28]: "3. क–नारम्भे ख–नमेहेघ–नास्तम्भे"
+[^40]: # "3. क–नारम्भे ख–नमेहे घ–नास्तम्भे"
 
-अत्रिः–
+**अत्रिः–**
 
-हैमानीमानि जानीमः प्रतिबुद्धास्स्मजागृमः ।  
+हैमानीमानि जानीमः प्रतिबुद्धास्स्म जागृमः ।  
 इह ह्येतदुपावृत्तं प्रेत्य स्यात् कटुकोदयम् ॥२८
 
-अप्रतिग्राह्यमेतद्वैप्रेत्येहच सुखेप्सुना ॥२८॥
+अप्रतिग्राह्यमेतद्वै प्रेत्येह च सुखेप्सुना ॥२८॥
 
-वसिष्ठः–
+**वसिष्ठः–**
 
 शतेन निष्कगुणितं सहस्रेण च सम्मितम् ।  
 तथा बहु प्रतीच्छन् वै पापिष्ठां लभते गतिम् ॥२९॥  
 
+
+
 **काश्यपः –**
 
 यत् पृथिव्यां व्रीहियवं हिरण्यं पशवस्त्रियः ।  
-सर्वं तन्नालमेकस्य तस्माद्विद्वाञ् शमं व्रजेत्[^786] ॥३०॥
+सर्वं तन्नालमेकस्य तस्माद्विद्वाञ् शमं व्रजेत्[^41] ॥३०॥
 
-[^786]: # "1. क-घ–लभेत्"
+[^41]: # "1. क-घ–लभेत्"
 
-भारद्वाजः–
+**भारद्वाजः–**
 
-उत्पन्नस्य रुरोश्शृङ्गं[^787] वर्धमानस्य वर्धते ।  
+उत्पन्नस्य रुरोश्शृङ्गं[^42] वर्धमानस्य वर्धते ।  
 प्रार्थना पुरुषस्येह तस्य मात्रा न विद्यते ॥३१॥
 
-[^787]: # "2. क-घ –तु गोः"
+[^42]: # "2. क-घ –तु गोः"
 
-गौतमः–
+**गौतमः–**
 
 न तल्लोके द्रव्यमस्ति यल्लोभं प्रतिपूरयेत् ।  
 समुद्रकल्पः पुरुषो न कदाचन पूर्यते ॥३२॥
@@ -1190,145 +1216,146 @@ The Presidency College,
 **विश्वामित्रः–**
 
 कामं कामयमानस्य यदा कामस्समृध्यते ।  
-अथैनमपरः[^29] कामस् त्विष्टो विध्यति बाणवत् ॥३३॥
+अथैनमपरः[^43] कामस् त्विष्टो विध्यति बाणवत् ॥३३॥
 
-[^29]: "3. क-घ–अर्धत्रयं नास्ति"
+[^43]: # "3. क-घ –अर्धत्रयं नास्ति"
 
-अत्रिः–
+**अत्रिः–**
 
 न जातु कामः कामानाम् उपभोगेन शाम्यति ।  
 हविषा कृष्णवर्त्मेव भूय एवाभिवर्धते ॥३४॥
 
-जमदग्निः–
+**जमदग्निः–**
 
-प्रतिग्रहेसंयमो वै तपो धारयते ध्रुवम् ।  
+प्रतिग्रहे संयमो वै तपो धारयते ध्रुवम् ।  
 तद्धनं ब्राह्मणस्येह लुभ्यमानस्य विस्रवेत् ॥३५॥
 
-अरुन्धती–
 
-धर्मार्थं सञ्चयो यो वै द्रव्याणां क्षयसंज्ञकः ।  
+
+**अरुन्धती–**
+
+धर्मार्थं सञ्चयो यो वै द्रव्याणां क्षयसञ्ज्ञकः ।  
 तपस्सञ्चय एवेह विशिष्टो द्रव्यसञ्चयात् ॥३६॥
 
-चण्डा–
+**चण्डा–**
 
 उग्रादितो भयात्तस्माद् बिभ्यतीमे महेश्वराः ।  
 बलीयसो दुर्बलवद् बिभेम्यहमतः परम् ॥३७॥
 
-पशुसखः–
+**पशुसखः–**
 
-यद्वै[^788] धर्मात् परं नास्ति ब्राह्मणास्तादृशं विदुः ।  
+यद्वै[^44] धर्मात् परं नास्ति ब्राह्मणास्तादृशं विदुः ।  
 विनयात् साधु विद्वांस उपासेयं यथातथम् ॥३८॥
 
-[^788]: # "ख– यथा चरन्ति विद्वांसस् तथा धर्मपरायणाः । तदिदं विदुषा कार्यम् आत्मनो हितमिच्छता ॥                  [ पाठान्तरम् ]"
+[^44]: # "ख– यथा चरन्ति विद्वांसस् तथा धर्मपरायणाः । तदिदं विदुषा कार्यम् आत्मनो हितमिच्छता ॥ [ पाठान्तरम् ]"
 
-ऋषयः–
+**ऋषयः–**
 
-कुशलं[^30] धर्मदानाय तस्मै यस्य प्रजा इमाः ।  
+कुशलं[^45] धर्मदानाय तस्मै यस्य प्रजा इमाः ।  
 फलान्युपधियुक्तानि यत्र वः प्रतियच्छति ॥३९॥
 
-[^30]: "ख –अर्धद्वयं नास्ति"
+[^45]: # "ख –अर्धद्वयं नास्ति"
 
-भीष्मः–
+**भीष्मः–**
 
 इत्युक्त्वा हेमगर्भाणि हित्वा तानि फलानि ते ।  
 ऋषयो जग्मुरन्यत्र सर्व एव दृढव्रताः ॥४०॥
 
-अथ[^31] ते मन्त्रिणस्सर्वे राजानमिदमब्रुवन् ॥
+अथ[^46] ते मन्त्रिणस्सर्वे राजानमिदमब्रुवन् ॥४१
 
-[^31]: " क- ख- घ - इदमर्धं नास्ति"
+[^46]: # " क- ख- घ - इदमर्धं नास्ति"
 
-४१
-
-मन्त्रिणः–
+**मन्त्रिणः–**
 
 उपधिं शङ्कमानास्तु हित्वेमानि फलानि वै ।  
 ततोऽन्येनैव गच्छन्ति विदितं तेऽस्तु पार्थिव ॥४२॥
 
-भीष्मः–
+**भीष्मः–**
 
-इत्युक्तस्स तु भृत्यैस्तु वृषादर्वि[^32]श्चुकोप ह ।  
+इत्युक्तस्स तु भृत्यैस्तु वृषादर्वि[^47]श्चुकोप ह ।  
 तेषां सम्प्रतिकर्तुं च सर्वेषामगमद्गृहान् ॥४३॥
 
-[^32]: "घ-र्भि"
+[^47]: # "घ-र्भि"
 
 सः गत्वाऽऽहवनीयाग्नौ तीव्रं नियममास्थितः ।  
 जुहाव संस्कृतां मन्त्रैर् एकैकामाहुतिं नृपः ॥४४॥
 
 तस्मादग्नेस्समुत्तस्थौ कृत्या लोकभयङ्करी ।  
-तस्या नाम वृषादर्विर्[^33] यातुधानीत्यथाकरोत् ॥४५॥
+तस्या नाम वृषादर्विर्[^48] यातुधानीत्यथाकरोत् ॥४५॥
 
-[^33]: "क- घ–र्भि"
+[^48]: # "क- घ–र्भि"
 
 सा कृत्या कालरात्रीव कृताञ्जलिरुपस्थिता ।  
-वृषादर्विं[^789] नरपतिं किं करोमीति चाब्रवीत् ॥४६॥
+वृषादर्विं[^49] नरपतिं किं करोमीति चाब्रवीत् ॥४६॥
 
-[^789]: # "क-घ–र्भि"
+[^49]: # "क-घ–र्भि"
 
-वृषादर्विः–
+**वृषादर्विः–**
 
 ऋषीणां गच्छ सप्तानाम् अरुन्धत्यास्तथैव च ।  
 दासीभर्तुश्च दास्याश्च मनसा नाम धारय ॥४७॥
 
-ज्ञात्वा नामानि वै तेषांसर्वानेतान् विनाशय ।  
+ज्ञात्वा नामानि वै तेषां सर्वानेतान् विनाशय ।  
 विनष्टेषु यथा स्वैरं गच्छ यत्रेप्सितं तव ॥४८॥
 
-भीष्मः–
+**भीष्मः–**
 
 सा तथेति प्रतिश्रुत्य यातुधानी स्वरूपिणी ।
 
-जगाम तद्वनं यत्र विचेरुस्ते महर्षयः[^6] ॥४९॥  
+जगाम तद्वनं यत्र विचेरुस्ते महर्षयः[^15] ॥४९॥  
 अथात्रिप्रमुखा राजन् वने तस्मिन् महर्षयः ।
 
-व्यचरन् भक्षयन्तो वै मूलानि[^35] च फलानि च ॥५०॥  
+व्यचरन् भक्षयन्तो वै मूलानि[^51] च फलानि च ॥५०॥  
 अथापश्यन् सुपीनांसपाणिपादशिरोमुखम् ।
 
-[^35]: "1. ख–अष्टौ पादा न सन्ति"
+[^51]: # "1. ख–अष्टौ पादा न सन्ति"
 
 पथि व्रजन्तं स्थूलाङ्गं परिव्राजं शुनस्सखम् ॥५१॥  
 अरुन्धती तु तं दृष्ट्वा सर्वाङ्गोपचितं शुभम् ।
 
 भवितारो भवन्तो वै नैवमित्यत्रवीदृषीन् ॥५२॥
 
-वसिष्ठः–
+**वसिष्ठः–**
 
 नैतस्येह यथाऽस्माकम् अग्निहोत्रमनिर्हुतम् ।  
 सायं प्रातस्तु होतव्यं तेन पीवाञ् शुनस्सखः ॥५३॥
 
-अत्रिः–
+**अत्रिः–**
 
-नैतस्येह[^36] यथाऽस्माकं क्षुधया वीर्यमाहतम् ।  
+नैतस्येह[^52] यथाऽस्माकं क्षुधया वीर्यमाहतम् ।  
 कृच्छ्राधीतं प्रनष्टं च तेन पीवाञ् छुनस्सखः ॥५४॥
 
-[^36]: "अ– अर्धचतुष्टयं नास्ति ख- अर्धद्वयं नास्ति"
+[^52]: # "अ– अर्धचतुष्टयं नास्ति ख- अर्धद्वयं नास्ति"
 
-विश्वामित्रः–
+**विश्वामित्रः–**
 
 नैतस्येह यथाऽस्माकं शश्वच्छास्त्रकृतो ज्वरः ।  
 अलसः क्षुत्परो मूर्खस् तेन पीवाञ् शुनस्सखः ॥५५॥  
 
-जमदग्निः–
 
-नैतस्येह[^37] यथाऽस्माकं भक्तमिन्धनमेव च ।  
+**जमदग्निः–**
+
+नैतस्येह[^53] यथाऽस्माकं भक्तमिन्धनमेव च ।  
 सञ्चिन्त्य वार्षिकं किञ्चित् तेन पीवाञ् शुनस्सखः ॥५६॥
 
-[^37]: " क-घ– अर्धद्वयं नास्ति"
+[^53]: # " क-घ – अर्धद्वयं नास्ति"
 
-गौतमः–
+**गौतमः–**
 
-नैतस्येह[^38] यथाऽस्माकं त्रिकौशेयं हि राङ्कवम् ।  
+नैतस्येह[^54] यथाऽस्माकं त्रिकौशेयं हि राङ्कवम् ।  
 एकैकं वै त्रिवार्षीकं तेन पीवाञ् शुनस्सखः ॥५७॥
 
-[^38]: "ख– अर्धद्वयं नास्ति"
+[^54]: # "ख– अर्धद्वयं नास्ति"
 
-भीष्मः–
+**भीष्मः–**
 
 अथ दृष्ट्वा परिव्राट् स तान् महर्षीञ् शुनस्सखः ।  
 अभिवाद्य यथान्यायं पाणिस्पर्शमथाचरत् ॥५८॥
 
-परिचर्य[^39] वने तांस्तु क्षुत्प्रतीकारकाङ्क्षिणः ।  
+परिचर्य[^55] वने तांस्तु क्षुत्प्रतीकारकाङ्क्षिणः ।  
 अन्योन्येन निवेद्याथ प्रातिष्ठन्त सहैव ते ॥५९॥
 
-[^39]: "क- ख – परिवार्य"
+[^55]: # "क- ख – परिवार्य"
 
 एकनिश्चयकार्याश्च व्यचरन्त वनानि ते ।  
 आददानास्समुद्धृत्य मूलानि च फलानि च ॥६०॥
@@ -1337,19 +1364,19 @@ The Presidency College,
 शुचिपूर्णप्रसन्नोदां ददृशुः पद्मिनीं शुभाम् ॥६१॥
 
 बालादित्यवपुःप्रख्यैः पुष्करैरुपशोभिताम् ।  
-वैडूर्यवर्णरुचिरैः[^40] पद्मपत्रैरथावृताम् ॥६२॥
+वैडूर्यवर्णरुचिरैः[^56] पद्मपत्रैरथावृताम् ॥६२॥
 
-[^40]: "क- ख- घ– रचितैः"
+[^56]: # "क- ख- घ– रचितैः"
 
-नानाविधैश्च विहगैर् जलप्रवरसेविभिः[^41]  
+नानाविधैश्च विहगैर् जलप्रवरसेविभिः[^57]  
 एकद्वारामनादेयां सूपतीर्थामकर्दमाम् ॥६३॥
 
-[^41]: "ख–जलजन्तुभिरावृताम्"
+[^57]: # "ख–जलजन्तुभिरावृताम्"
 
 वृषादर्विप्रयुक्ता तु कृत्या विकृतदर्शना ।  
-यातुधानीति[^42] विख्याता पद्मिनीं तामरक्षत ॥६४॥
+यातुधानीति[^58] विख्याता पद्मिनीं तामरक्षत ॥६४॥
 
-[^42]: "क घ–अर्धचतुष्टयं नास्ति"
+[^58]: # "क घ–अर्धचतुष्टयं नास्ति"
 
 शुनस्सखसहायास्तु विसार्थं ते महर्षयः ।  
 पद्मिनीमभिजग्मुस्ते सर्वे कृत्याभिरक्षिताम् ॥६५॥
@@ -1357,182 +1384,182 @@ The Presidency College,
 ततस्ते यातुधानीं तां दृष्ट्वा विकृतदर्शनाम् ।  
 स्थितां कमलिनीतीरे कृत्यामूचुर्महर्षयः ॥६६॥
 
-ऋषयः–
+**ऋषयः–**
 
 कथं तिष्ठसि का नु त्वं कस्यार्थे किं प्रयोजनम् ।  
 पद्मिनीतीरमाश्रित्य ब्रूहि त्वं किं चिकीर्षसि ॥६७॥
 
-यातुधानी–
+**यातुधानी–**
 
 याऽस्मि काऽस्म्यनुयोगो मे न कर्तव्यः कथञ्चन ।  
 आरक्षिकां मां पद्मिन्या वित्त सर्वे तपोधनाः ॥६८॥
 
-ऋषयः–
+**ऋषयः–**
 
 सर्व एव क्षुधार्तास्स्म चान्यत् किञ्चिदस्ति नः ।  
-भवत्यास्सम्मतास्सर्वे गृह्णीमहिबिसान्युत ॥६९॥  
+भवत्यास्सम्मतास्सर्वे गृह्णीमहि बिसान्युत ॥६९॥  
 
-यातुधानी–
+
+**यातुधानी–**
 
 समयेन बिसानीतो गृह्णीध्वं कामकारतः \।  
 एकैको नाम मे प्रोक्त्वा ततो गृह्णीत मा चिरम् ॥७०॥
 
-भीष्मः–
+**भीष्मः–**
 
 विज्ञाय यातुधानीं तां कृत्यामृषिवधैषिणीम् ।  
 अत्रिः क्षुधा परीतात्मा ततो वचनमब्रवीत् ॥७१॥
 
-अत्रिः–
+**अत्रिः–**
 
-अरात्त्रिरत्रेस्सा रात्रिर् या नाधीते त्रिरद्य वै।  
+अरात्त्रिरत्रेस्सा रात्रिर् या नाधीते त्रिरद्य वै ।  
 अरात्रिरत्रिरित्येव नाम मे विद्धि शोभने ॥७२॥
 
-यातुधानी–
+**यातुधानी–**
 
-यथोदाहृतमेतत्ते[^43]
-त्वया[^44] नाम महामुने ।  
+यथोदाहृतमेतत्ते[^59] त्वया[^60] नाम महामुने ।  
 दुर्धार्यमेतन्मनसा गच्छावतर पद्मिनीम् ॥७३॥
 
-[^43]: "ख– नामनैरुक्तमेतत्ते मयि नाम"
+[^59]: # "ख– नामनैरुक्तमेतत्ते मयि नाम"
 
-[^44]: "क-घ–मम नाम"
+[^60]: # "क-घ–मम नाम"
 
-वसिष्ठः–
+**वसिष्ठः–**
 
 वसिष्ठोऽस्मि वरिष्ठोऽस्मि वसे वासं गृहेष्वपि ।  
-वरिष्ठत्वाञ्चवासाञ्च वसिष्ठ इति विद्धि माम् ॥७४॥
+वरिष्ठत्वाञ्च वासाञ्च वसिष्ठ इति विद्धि माम् ॥७४॥
 
-यातुधानी–
+**यातुधानी–**
 
 नामनैरुक्तमेतत्ते दुःखव्याभापिताक्षरम् ।  
 नैतद्धारयितुं शक्यं गच्छावतर पद्मिनीम् ॥७५॥
 
 **काश्यपः–**
 
-कुलं[^790] कुलं च कुशलं[^45] कुपयः काश्यपो द्विजः ।  
-काश्यपः काशिनीकाश[^46] एतन्मे नाम धारय ॥७६॥
+कुलं[^61] कुलं च कुशलं[^62] कुपयः काश्यपो द्विजः ।  
+काश्यपः काशिनीकाश[^63] एतन्मे नाम धारय ॥७६॥
 
-[^45]: "क–कुलशं कुपथः ख–कुलपः कुशयः"
+[^61]: # "घ– द्वादशार्धानि न सन्ति "
 
-[^46]: "ख– काश्यपाच्छश्वदेतन्मे"
+[^62]: # "क–कुलशं कुपथः ख–कुलपः कुशयः"
 
-[^790]: # "घ– द्वादशार्धानि न सन्ति"
+[^63]: # "ख– काश्यपाच्छश्वदेतन्मे"
 
-यातुधानी–
+**यातुधानी–**
 
-यथोदाहृतमेतत्ते[^47] मयि नाम महामुने ।  
+यथोदाहृतमेतत्ते[^64] मयि नाम महामुने ।  
 दुर्घार्यमेतन्मनसा गच्छावतर पद्मिनीम् ॥७७॥
 
-[^47]: "क–अर्धचतुष्टयं नास्ति"
+[^64]: # "क–अर्धचतुष्टयं नास्ति"
 
 **भारद्वाजः–**
 
 भरे सुतान् भरे पोष्यान् भरे देवान् भरे द्विजान् ।  
 भरे भार्यामहं व्याजाद् भरद्वाजोऽस्मि शोभने ॥७८॥
 
-यातुधानी–
+**यातुधानी–**
 
-नामनैरुक्तमेतत्ते[^791] दुःखव्याभाषिताक्षरम् ।  
+नामनैरुक्तमेतत्ते[^65] दुःखव्याभाषिताक्षरम् ।  
 नैतद्धारयितुं शक्यं गच्छावतर पद्मिनीम् ॥७९॥
 
-[^791]: # "अ–यथोदाहृतमेतत्ते त्वयानाम महामुने । दुधीर्यमेतन्मनसा गच्छावतर पद्मिनीम् ॥[ पाठान्तरम् ]"
+[^65]: # "अ–यथोदाहृतमेतत्ते त्वया नाम महामुने । दुधीर्यमेतन्मनसा गच्छावतर पद्मिनीम् ॥ [ पाठान्तरम् ]"
 
-गौतमः–
+**गौतमः–**
 
-गौतमो[^48] मम गोधूमो धूमो दुर्दर्शनश्च ते ।  
+गौतमो[^66] मम गोधूमो धूमो दुर्दर्शनश्च ते ।  
 विद्धि मां गौतमं कृत्ये यातुधानि निबोध मे ॥८०॥
 
-[^48]: "क–अर्धचतुष्टयं नास्ति ख–गोदमो दमगोधूमो दमारो दुर्दमश्च ते ।"
+[^66]: # "क–अर्धचतुष्टयं नास्ति ख–गोदमो दमगोधूमो दमारो दुर्दमश्च ते ।"
 
-यातुधानो–
+**यातुधानो–**
 
 यथोदाहृतमेतत्ते मयि नाम महामुने ।  
 नैतद्धारयितुं शक्यं गच्छावतर पद्मिनीम् ॥८१॥
 
-विश्वामित्रः–
+**विश्वामित्रः–**
 
-विश्वे देवाश्च मे मित्रं मित्रमस्मिगवां तथा ।  
-विश्वामित्र इति ख्यातंयातुधानि निबोध मे ॥८२॥
+विश्वे देवाश्च मे मित्रं मित्रमस्मि गवां तथा ।  
+विश्वामित्र इति ख्यातं यातुधानि निबोध मे ॥८२॥
 
-यातुधानी–
+**यातुधानी–**
 
 नामनैरुक्तमेतत्ते दुःखव्याभाषिताक्षरम् ।  
 नैतद्धारयितुं शक्यं गच्छावतर पद्मिनीम् ॥८३॥
 
-जमदग्निः–
+**जमदग्निः–**
 
-जजामाद्यं[^792] जजामायं जजामाहं जजायुषी \।  
+जजामाद्यं[^67] जजामायं जजामाहं जजायुषी \।  
 जमदग्निरिति ख्यातम् अतो मां विद्धि शोभने ॥८४॥
 
-[^792]: # "क-घ—अर्धचतुष्टयं नास्ति"
+[^67]: # "क-घ—अर्धचतुष्टयं नास्ति"
 
-यातुधानी–
+**यातुधानी–**
 
 यथोदाहृतमेतत्ते मयि नाम महामुने ।  
 नैतद्धारयितुं शक्यं गच्छावतर पद्मिनीम् ॥८५॥
 
-अरुन्धती–
+**अरुन्धती–**
 
-सारं धरित्रीं वसुधां इच्छे[^49] भर्तुरनन्तरम् ।  
-मनो रुन्धति मां[^50] भर्तुर् इति मां विद्ध्यरुन्धतीम् ॥ ८६ ॥
+सारं धरित्रीं वसुधां इच्छे[^68] भर्तुरनन्तरम् ।  
+मनो रुन्धति मां[^69] भर्तुर् इति मां विद्ध्यरुन्धतीम् ॥ ८६ ॥
 
-[^49]: "ख—नेच्छे"
+[^68]: # "ख—नेच्छे"
 
-[^50]: "क-घ—मे"
+[^69]: # "क-घ—मे"
 
-यातुधानी–
+**यातुधानी–**
 
 नामनैरुक्तमेतत्ते दुःखव्याभाषिताक्षरम् ।  
 नैतद्धारयितुं शक्यं गच्छावतर पद्मिनीम् ॥८७॥
 
-चण्डा–
+**चण्डा–**
 
-चण्डं[^51] गतवती चण्डा चण्डा चण्डेति संज्ञिता ।  
+चण्डं[^70] गतवती चण्डा चण्डा चण्डेति सञ्ज्ञिता ।  
 चण्डचण्डेति चण्डेति विद्धि माऽनलसम्भवे ॥८८॥
 
-[^51]: "क- घ–गण्डं गण्डवती गण्डा गण्डागण्डेति संज्ञिता । गण्डं गण्डेति गण्डेति विद्धि मा नयसम्भवे ॥ [पाठान्तरम् ]"
+[^70]: # "क- घ–गण्डं गण्डवती गण्डा गण्डागण्डेति सञ्ज्ञिता । गण्डं गण्डेति गण्डेति विद्धि मा नयसम्भवे ॥ [पाठान्तरम् ]"
 
-यातुधानी–
+**यातुधानी–**
 
-नामनैरुक्तमेतत्ते[^52] दुःखव्याभाषिताक्षरम् ।  
+नामनैरुक्तमेतत्ते[^71] दुःखव्याभाषिताक्षरम् ।  
 नैतद्धारयितुं शक्यं गच्छावतर पद्मिनीम् ॥८९॥
 
-[^52]: "अ–अर्धद्वयं नास्ति"
+[^71]: # "अ–अर्धद्वयं नास्ति"
 
-पशुसखः–
+**पशुसखः–**
 
-सखे[^53] सखायस्सख्ये यः पशूनां च तथा सखा ।  
-गौण्यो[^793] पशुसखेत्येव विद्धि मामग्निसम्भवे ॥९०॥
+सखे[^72] सखायस्सख्ये यः पशूनां च तथा सखा ।  
+गौण्यो[^73] पशुसखेत्येव विद्धि मामग्निसम्भवे ॥९०॥
 
-[^53]: "क-घ–अर्धचतुष्टयं नास्ति"
+[^72]: # "क-घ–अर्धचतुष्टयं नास्ति"
 
-[^793]: # "ख–तथा गौण्यं पशुसखम्"
+[^73]: # "ख–तथा गौण्यं पशुसखम्"
 
-यातुधानी–
+**यातुधानी–**
 
 नामनैरुक्तमेतत्ते दुःखव्याभाषिताक्षरम् ।  
 नैतद्धारयितुं शक्यं गच्छावतर पद्मिनीम् ॥९१॥
 
-शुनस्सखः–
+**शुनस्सखः–**
 
 एभिरुक्तं यथा नाम नाहं वक्तुमिहोत्सहे ।
 
 शुनां सदा सहायं मां यातुधान्युपधारय ॥९२॥
 
-यातुधानी–
+**यातुधानी–**
 
 नाम न व्यक्तमुक्तं वै वाक्यं सन्दिग्धया गिरा ।  
 तस्मात् सकृदिदानीं त्वं ब्रूहि यन्नाम ते द्विज ॥९३॥
 
-शुनस्सखः–
+**शुनस्सखः–**
 
 सकृदुक्तं मया नाम न गृहीतं यदि त्वया ।  
 तस्मात् त्रिदण्डाभिहता गच्छ भस्मेति मा चिरम् ॥९४॥
 
-भीष्मः–
+**भीष्मः–**
 
 सा ब्रह्मदण्डकल्पेन तेन मूर्ध्नि हता तदा ।  
-कृत्या पपात मेदिन्यां भस्मसाञ्चजगाम ह ॥९५॥
+कृत्या पपात मेदिन्यां भस्मसाञ्च जगाम ह ॥९५॥
 
 शुनस्सखश्च हत्वा तां यातुधानी महाबलाम ।  
 भुवि त्रिदण्डं विष्टभ्य शाद्वले समुपाविशत् ॥९६॥
@@ -1546,13 +1573,13 @@ The Presidency College,
 अथोत्थाय जलात् तस्मात् सर्वे ते वै समागमन् ।  
 नापश्यंश्चापि ते तानि बिसानि भरतर्षभ ॥९९॥
 
-ऋषयः–
+**ऋषयः–**
 
 केन क्षुधाभिभूतानाम् अस्माकं पापकर्मणा ।
 
 नृशंसेनापनीतानि बिसान्याहारकाङ्क्षिणाम् ॥१००॥
 
-भीष्मः–
+**भीष्मः–**
 
 ते शङ्कमानास्त्वन्योन्यं पप्रच्छुर्द्विजसत्तमाः ।  
 त ऊचुश्शपथं सर्वे कुर्म इत्यरिकर्शन ॥१०१॥
@@ -1560,22 +1587,22 @@ The Presidency College,
 त उक्त्वा बाढमित्येव सर्व एव शुनस्सखम् ।  
 क्षुधार्तास्सुपरिश्रान्ताश् शपथायोपचक्रमुः ॥१०२॥
 
-अत्रिः–
+**अत्रिः–**
 
 स गां स्पृशतु पादेन सूर्यं च प्रतिमेहतु ।  
 अनध्यायेष्वधीयीत बिसस्तैन्यं करोति यः ॥१०३॥
 
-वसिष्ठः–
+**वसिष्ठः–**
 
 अनध्यायपरो लोके शुनस्स परिकर्षतु ।  
 परिव्राट् कामवृत्तिस्तु विसस्तैन्यं करोति यः ॥१०४॥
 
-शरणागतं[^794] हन्तु मित्रं स्वसुतां चोपजीवतु ।  
+शरणागतं[^74] हन्तु मित्रं स्वसुतां चोपजीवतु ।  
 आशां काङ्क्षतु कीनाशाद् बिसस्तैन्यं करोति यः ॥ १०५॥
 
-[^794]: # "अ–इदमर्धद्वयं नास्ति"
+[^74]: # "अ–इदमर्धद्वयं नास्ति"
 
-काश्यपः–
+**काश्यपः–**
 
 सर्वत्र सर्वं पणतु न्यासलोभं करोतु च ।  
 कूटसाक्षित्वमभ्येतु बिसस्तैन्यं करोति यः ॥१०६॥
@@ -1583,68 +1610,68 @@ The Presidency College,
 वृथा मांसानि चाश्नातु वृथा दानं करोतु च ।  
 यातु स्त्रियं दिवा चैव बिसस्तैन्यं करोति यः ॥१०७॥
 
-भारद्वाजः–
+**भारद्वाजः–**
 
-नृशंसस्त्यक्त[^795]धर्माऽस्तु स्त्रीषुज्ञातिषुगोषु च ।  
-ब्राह्मणं[^54] चापि जयतां बिसस्तैन्यं करोति यः ॥१०८॥
+नृशंसस्त्यक्त[^75]धर्माऽस्तु स्त्रीषु ज्ञातिषु गोषु च ।  
+ब्राह्मणं[^76] चापि जयतां बिसस्तैन्यं करोति यः ॥१०८॥
 
-[^54]: "ख–ब्राह्मणं निन्दतु सदा"
+[^75]: # "1. अ– अर्धचतुष्टयं नास्ति"
 
-[^795]: # "1. अ–अर्धचतुष्टयं नास्ति"
+[^76]: # "ख– ब्राह्मणं निन्दतु सदा"
 
 उपाध्यायमधः कृत्वा ऋचोऽध्येतु यजूंषि च ।  
-जुहोतु च स कक्षाग्नौबिसस्तैन्यं करोति यः[^55]॥१०९॥
+जुहोतु च स कक्षाग्नौ बिसस्तैन्यं करोति यः[^77]॥१०९॥
 
-[^55]: "ख– जमदग्निः–पुरीषमुत्सृजत्वप्सु हन्तु गां चापि दुस्तनीम् । अनृतौमैथुनं यातु बिसस्तैन्यं करोति यः ॥ [ अधिकः पाठः ]अ– ख– द्वेष्यभार्योपजीवी स्याद् दूरबन्धुश्च वैरवान् । अन्योन्यस्यातिथिस्सोऽस्तु बिसस्तैन्यं करोति यः ॥ [ अधिकः पाठः ]अ– ख– द्वेष्यभार्योपजीवी स्याद् दूरबन्धुश्च वैरवान् । अन्योन्यस्यातिथिस्सोऽस्तु बिसस्तैन्यं करोति यः ॥ [ अधिकः पाठः ] 3.अ– ख– द्वेष्यभार्योपजीवी स्याद् दूरबन्धुश्च वैरवान् । अन्योन्यस्यातिथिस्सोऽस्तु बिसस्तैन्यं करोति यः ॥ [ अधिकः पाठः ]"
+[^77]: # "ख– जमदग्निः– पुरीषमुत्सृजत्वप्सु हन्तु गां चापि दुस्तनीम् । अनृतौ मैथुनं यातु बिसस्तैन्यं करोति यः ॥ [ अधिकः पाठः ]अ– ख– द्वेष्यभार्योपजीवी स्याद् दूरबन्धुश्च वैरवान् । अन्योन्यस्यातिथिस्सोऽस्तु बिसस्तैन्यं करोति यः ॥ [ अधिकः पाठः ]अ– ख– द्वेष्यभार्योपजीवी स्याद् दूरबन्धुश्च वैरवान् । अन्योन्यस्यातिथिस्सोऽस्तु बिसस्तैन्यं करोति यः ॥ [ अधिकः पाठः ] 3.अ– ख– द्वेष्यभार्योपजीवी स्याद् दूरबन्धुश्च वैरवान् । अन्योन्यस्यातिथिस्सोऽस्तु बिसस्तैन्यं करोति यः ॥ [ अधिकः पाठः ]"
 
-गौतमः–
+**गौतमः–**
 
 अधीत्य वेदांस्त्यजतु त्रीनग्नीनपविध्यतु ।  
 विक्रीणातु तथा सोमं बिसस्तैन्यं करोति यः ॥११०॥  
-उदपानोदके[^796] ग्रामे ब्राह्मणो वृषलीपतिः ।  
+उदपानोदके[^78] ग्रामे ब्राह्मणो वृषलीपतिः ।  
 तस्य सालोक्यतां यातु बिसस्तैन्यं करोति यः ॥ १११ ॥
 
-[^796]: # "ख– उदपानप्लवे ग्रामे"
+[^78]: # "ख– उदपानप्लवे ग्रामे"
 
-विश्वामित्रः–
+**विश्वामित्रः–**
 
 विगुणान् बिभृयाद् भृत्यान् भरन्त्वस्यापरे जनाः ।  
 दरिद्रो बहुपुत्रोऽस्तु बिसस्तैन्यं करोति यः ॥११२॥
 
-अशुचिर्ब्रह्मकूटोऽस्तु मिथ्या चैवाप्यहंकृतः ।  
+अशुचिर्ब्रह्मकूटोऽस्तु मिथ्या चैवाप्यहङ्कृतः ।  
 कर्षको मत्सरी चास्तु बिसस्तैन्यं करोति यः ॥११३
 
-जमदग्निः–
+**जमदग्निः–**
 
 हर्षं करोतु भृतके राज्ञस्स्यात् स पुरोहितः ।  
 अयाज्यस्य भवेदृत्विक् बिसस्तैन्यं करोति यः ॥११४
 
-अरुन्धती–
+**अरुन्धती–**
 
-नित्यं[^797] परिभवेच्छ्वश्रूंभर्तुर्भवतु दुर्मनाः ।  
+नित्यं[^79] परिभवेच्छ्वश्रूं भर्तुर्भवतु दुर्मनाः ।  
 एका स्वादूनि चाश्नातु बिसस्तैन्यं करोति या ॥११५
 
-[^797]: # "ख–अर्धद्वयं नास्ति"
+[^79]: # "ख–अर्धद्वयं नास्ति"
 
 ज्ञातीनां गृहमध्यस्था सक्तूनां भुवि भक्षणे ।  
 अभाग्या वीरसूरस्तु बिसस्तैन्यं करोति या ॥११६
 
-चण्डा–
+**चण्डा–**
 
 अनृतं भाषतु सदा साधुभिश्च विरुध्यतु ।  
 ददातु कन्यां शुल्केन बिसस्तैन्यं करोति या ॥११७
 
-सा[^56] याचित्वा स्वयं प्राशेद् आस्ये दिश्येत् तथैव सा ।  
+सा[^80] याचित्वा स्वयं प्राशेद् आस्ये दिश्येत् तथैव सा ।  
 विकर्मणा प्रमीयेत बिसस्तैन्यं करोति या ॥११८
 
-[^56]: "ख-घ– साधयित्वा"
+[^80]: # "ख-घ– साधयित्वा"
 
-पशुसखः–
+**पशुसखः–**
 
 दास्यभावं प्रजनयेत् सोऽप्रसूतिरकिञ्चनः ।  
 दैवतेष्वनमस्कारो बिसस्तैन्यं करोति यः ॥११९
 
-शुनस्सखः–
+**शुनस्सखः–**
 
 अध्वर्यवे दुहितरं ददातु
 
@@ -1654,12 +1681,12 @@ The Presidency College,
 
 स्नायीत यो वै हरते बिसानि ॥१२०
 
-ऋषयः–
+**ऋषयः–**
 
 इष्टमेतद्द्विजातीनां योऽयं ते शपथः कृतः ।  
 त्वया कृतमिदं स्तैन्यं सर्वेषां नश्शुनस्सख ॥१२१
 
-शुनस्सखः–
+**शुनस्सखः–**
 
 अन्नमेतदपश्यद्भिर् यदुक्तं कृतकर्मभिः ।  
 सत्यमेतन्न मिथ्यैतद् बिसस्तैन्यं कृतं मया ॥१२२
@@ -1676,11 +1703,11 @@ The Presidency College,
 तस्मादभ्यागतं विप्रा वासवं मां निबोधत ।  
 अलोभादक्षया लोकाः प्राप्ता वस्सार्वकामिकाः ॥१२६
 
-उत्तिष्ठध्वमितः[^798] क्षिप्रं तानवाप्नुत वै द्विजाः॥१२६॥
+उत्तिष्ठध्वमितः[^81] क्षिप्रं तानवाप्नुत वै द्विजाः॥१२६॥
 
-[^798]: # "1. घ-उपतिष्ठामि वै क्षिप्रम्"
+[^81]: # "1. घ-उपतिष्ठामि वै क्षिप्रम्"
 
-भीष्मः–
+**भीष्मः–**
 
 ततो महर्षयः प्रीतास् तथेत्युक्त्वा पुरन्दरम् ।  
 सहैव त्रिदशेन्द्रेण सर्वे जग्मुस्त्रिविष्टपम् ॥१२७॥
@@ -1697,12 +1724,12 @@ The Presidency College,
 सुखभागी च भवति न च दुर्गाण्यवाप्नुते ॥१३१॥  
 प्रीयन्ते पितरश्चास्य देवता ऋषयस्तथा ।
 
-यशोधर्मार्थ[^57]भागी च भवति प्रेत्य मानवः[^58] ॥१३२॥  
+यशोधर्मार्थ[^82]भागी च भवति प्रेत्य मानवः[^83] ॥१३२॥  
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।
 
-[^57]: "2. क-घ– यशोधनार्थ"
+[^82]: # "2. क-घ– यशोधनार्थ"
 
-[^58]: "सर्वेषु कोषेशु अत्रैवाध्ययसमाप्तिर्दृश्यते"
+[^83]: # "सर्वेषु कोषेशु अत्रैवाध्ययसमाप्तिर्दृश्यते"
 
 यद्वृत्तं तीर्थयात्रायां शपथं प्रति तच्छृणु ॥१३३॥  
 पुष्करार्थं कृते स्तैन्ये पुरा भरतसत्तम ।
@@ -1714,12 +1741,12 @@ The Presidency College,
 अथर्ववेदं समधीत्य विप्रास्  
 स्नायीत यो वै हरते बिसानि ॥१२०॥
 
-ऋषयः–
+**ऋषयः–**
 
 इष्टमेतद्द्विजातीनां योऽयं ते शपथः कृतः ।  
 त्वया कृतमिदं स्तैन्यं सर्वेषां नश्शुनस्सख ॥१२१॥
 
-शुनस्सखः–
+**शुनस्सखः–**
 
 अन्नमेतदपश्यद्भिर् यदुक्तं कृतकर्मभिः ।  
 सत्यमेतन्न मिथ्यैतद् बिसस्तैन्यं कृतं मया ॥१२२॥
@@ -1728,19 +1755,19 @@ The Presidency College,
 परीक्षार्थं भगवतां कृतमेवं मयाऽनघाः ॥१२३॥
 
 रक्षणार्थं हि सर्वेषां भवतामहमागतः ।  
-यातुधानी ह्यपि क्रुद्धा कृत्यैषावो वधैषिणी ॥१२४॥
+यातुधानी ह्यपि क्रुद्धा कृत्यैषा वो वधैषिणी ॥१२४॥
 
-वृषादर्विप्रयुक्तैषानिहता मे तपोधनाः ।  
+वृषादर्विप्रयुक्तैषा निहता मे तपोधनाः ।  
 दुष्टा हिंस्यादियं पापा युष्मान् प्रत्यग्निसम्भवा ॥१२५॥
 
 तस्मादभ्यागतं विप्रा वासवं मां निबोधत ।  
 अलोभादक्षया लोकाः प्राप्ता वस्सार्वकामिकाः ॥१२६॥
 
-उत्तिष्ठध्वमितः[^59] क्षिप्रं तानवाप्नुत वै द्विजाः ॥१२६
+उत्तिष्ठध्वमितः[^84] क्षिप्रं तानवाप्नुत वै द्विजाः ॥१२६
 
-[^59]: "घ–उपतिष्ठामि वै क्षिप्रम्"
+[^84]: # "घ–उपतिष्ठामि वै क्षिप्रम्"
 
-भीष्मः–
+**भीष्मः–**
 
 ततो महर्षयः प्रीतास् तथेत्युक्त्वा पुरन्दरम् ।  
 सहैव त्रिदशेन्द्रेण सर्वे जग्मुस्त्रिविष्टपम् ॥१२७॥
@@ -1758,27 +1785,28 @@ The Presidency College,
 सुखभागी च भवति न च दुर्गाण्यवाप्नुते॥१३१॥
 
 प्रीयन्ते पितरश्चास्य देवता ऋषयस्तथा ।  
-यशोधर्मार्थ[^60]भागी च भवति प्रेत्य मानवः[^6] ॥१३२॥
+यशोधर्मार्थ[^85]भागी च भवति प्रेत्य मानवः[^15] ॥१३२॥
 
-[^60]: "क-घ–यशोधनार्थ"
+[^85]: # "क-घ–यशोधनार्थ"
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
 यद्वृत्तं तीर्थयात्रायां शपथं प्रति तच्छृणु ॥१३३॥
 
 पुष्करार्थं कृते स्तैन्ये पुरा भरतसत्तम ।  
 
+
 राजर्षिभिर्महाराज तथैव च द्विजर्षिभिः ॥१३४॥
 
-पुरा प्रभासे ऋषय[^62]स्समागतास्  
+पुरा प्रभासे ऋषय[^87]स्समागतास्  
 समेता वै मन्त्रममन्त्रयन्त \।  
 चराम सर्वे पृथिवीं पुण्यतीर्थां  
-तन्नः कार्यं हन्त[^63] गच्छाम सर्वे ॥१३५॥
+तन्नः कार्यं हन्त[^88] गच्छाम सर्वे ॥१३५॥
 
-[^62]: "क-घ– समेता एवं मन्त्रं मन्त्रयन्ति स्म सर्वे"
+[^87]: # "क-घ– समेता एवं मन्त्रं मन्त्रयन्ति स्म सर्वे"
 
-[^63]: "क-घ– इतोऽर्धत्रयं नास्ति"
+[^88]: # "क-घ– इतोऽर्धत्रयं नास्ति"
 
-शुक्रोऽङ्गिराश्चैव कविश्चविद्वांस्  
+शुक्रोऽङ्गिराश्चैव कविश्च विद्वांस्  
 तथा ह्यगस्त्यो नारदः पर्वतश्च ।  
 भृगुर्वसिष्ठः काश्यपो गौतमश्च  
 विश्वामित्रो जमदग्निश्च राजन् ॥१३६॥
@@ -1789,11 +1817,12 @@ The Presidency College,
 राजा ययातिर्धुन्धुमारोऽथ पूरुः ॥१३७॥
 
 जग्मुः पुरस्कृत्य महानुभावाश्  
-शतक्रतुं वृत्रहणं नरेन्द्राः[^64]।  
+शतक्रतुं वृत्रहणं नरेन्द्राः[^89]।  
 तीर्थानि सर्वाणि परिक्रमन्तस्  
-तां प्रत्युदीयुः कौशिकींपुण्यतीर्थाम् ॥१३८॥  
+तां प्रत्युदीयुः कौशिकीं पुण्यतीर्थाम् ॥१३८॥  
 
-[^64]: "क-ख–सुरेन्द्रम्"
+
+[^89]: # "क-ख–सुरेन्द्रम्"
 
 सर्वेषु तीर्थेषु विधूतपापा  
 जग्मुस्ततो वै ब्रह्मसरस्सुपुण्यम् ।  
@@ -1802,10 +1831,10 @@ The Presidency College,
 
 केचिद्विसान्यवनंस्तत्र राज-  
 न्नन्ये मृणालान्यखनन्त विप्राः ।  
-अथापश्यन् पुष्करं ते हृतं[^65] तं  
+अथापश्यन् पुष्करं ते हृतं[^90] तं  
 तदा ह्यगस्त्येन समुद्धृतं वै ॥१४०॥
 
-[^65]: "क–ह्रियन्तं दास्येन समुद्धृतं वै भवस्य ख–हियन्तं हृदे ह्यगस्यो बिसमुद्धृतं वै ख–द्वियन्तं अदास्येन समुद्धृतं वै भवस्य"
+[^90]: # "क–ह्रियन्तं दास्येन समुद्धृतं वै भवस्य ख–हियन्तं हृदे ह्यगस्यो बिसमुद्धृतं वै ख–द्वियन्तम् अदास्येन समुद्धृतं वै भवस्य"
 
 तानाह सर्वानृषिमुख्यानगस्त्यः  
 केनाहृतं वै पुष्करं मे सुजातम् ।  
@@ -1813,20 +1842,20 @@ The Presidency College,
 न वै भवन्तो हर्तुमर्हन्ति पद्मम् ॥१४१॥
 
 शृणोमि कालो हिंसते धर्मवीर्यं  
-सेयं प्राप्तावर्धते[^66] धर्मपीडा ।  
-पुराऽधर्मोवर्धते नेह तावद्  
+सेयं प्राप्ता वर्धते[^91] धर्मपीडा ।  
+पुराऽधर्मो वर्धते नेह तावद्  
 यावद्गच्छामि परलोकं चिराय ॥१४२॥
 
-[^66]: "2. ख–वर्तते"
+[^91]: # "2. ख–वर्तते"
 
 पुरा वेदान् ब्राह्मणा ग्राममध्ये  
-घुष्टस्वरान्[^799] वृषलान् श्रावयन्ति ।  
+घुष्टस्वरान्[^92] वृषलान् श्रावयन्ति ।  
 पुरा राजा व्यवहारानधर्मान्  
 पश्यत्यहं परलोकं व्रजामि ॥१४३
 
-[^799]: # "क-घ–पुष्ट ;ख- भ्रष्टस्वरान् पुष्कलान्"
+[^92]: # "क-घ–पुष्ट ; ख- भ्रष्टस्वरान् पुष्कलान्"
 
-पुरा राजा प्रत्यवरान्गरीयसो  
+पुरा राजा प्रत्यवरान् गरीयसो  
 मंस्यत्यथैनमनुयास्यन्ति सर्वे ।  
 धर्मोत्तरं यावदिदं न वर्तते  
 तावद्व्रजामि परलोकं चिराय ॥१४४
@@ -1836,171 +1865,173 @@ The Presidency College,
 तस्माद्यास्यामि परलोकं विराय  
 न ह्युत्सहे द्रष्टुमीदृङ् नृलोके ॥१४५
 
-तमाहुरार्ता[^67] ऋषयो महर्षे  
+तमाहुरार्ता[^93] ऋषयो महर्षे  
 न ते वयं पुष्करं चोरयामः ।  
 मिथ्याभिशंसा भवता न कार्या  
 शपाम तीक्ष्णाञ् शपथान् महर्षे ॥१४६
 
-[^67]: "क- घ–अर्धत्रयं नास्ति"
+[^93]: # "क- घ–अर्धत्रयं नास्ति"
 
 ते निश्चितास्तत्र महर्षयस्तु  
 सम्मानयन्तो धर्ममेवं नरेन्द्र ।  
 
-ततोऽकुर्वञ् शपथान् पर्ययेण[^68]  
+
+ततोऽकुर्वञ् शपथान् पर्ययेण[^94]  
 सहैव तैः पार्थिव पुत्रपौत्रैः ॥१४७॥
 
-[^68]: "घ – प्रत्ययेन"
+[^94]: # "घ – प्रत्ययेन"
 
 **भृगुः–**
 
 प्रत्याक्रोशेदिहाक्रुष्टस् ताडितः प्रतिताडयेत् ।  
 खादेच्च पृष्ठमांसानि यस्ते हरति पुष्करम्॥१४८॥
 
-गौतमः–
+**गौतमः–**
 
-अस्वाध्यायपरो[^69] लोके श्वानं च परिकर्षतु ।  
+अस्वाध्यायपरो[^95] लोके श्वानं च परिकर्षतु ।  
 पुरे च भिक्षुर्भवतु यस्ते हरति पुष्करम्॥१४९॥
 
-[^69]: "क– दशार्धानि न सन्ति"
+[^95]: # "क– दशार्धानि न सन्ति"
 
-काश्यपः–
+**काश्यपः–**
 
-सर्वत्र सर्वं[^70] पणतु न्यासे लोभं करोतु च ।  
-कूटसाक्षित्वमप्येतुयस्ते हरति पुष्करम् ॥१५०॥
+सर्वत्र सर्वं[^96] पणतु न्यासे लोभं करोतु च ।  
+कूटसाक्षित्वमप्येतु यस्ते हरति पुष्करम् ॥१५०॥
 
-[^70]: "ख– सर्वमश्नातु न्यासे लोपं"
+[^96]: # "ख– सर्वमश्नातु न्यासे लोपं"
 
-वसिष्ठः–
+**वसिष्ठः–**
 
-जीवत्वहङ्कृतो[^71] बुद्ध्या कृपणत्वं समेतु सः ।  
+जीवत्वहङ्कृतो[^97] बुद्ध्या कृपणत्वं समेतु सः ।  
 कर्षको मत्सरी वाऽस्तु यस्ते हरति पुष्करम् ॥१५१॥
 
-[^71]: "अ–अर्धचतुष्टयं नास्ति"
+[^97]: # "अ–अर्धचतुष्टयं नास्ति"
 
-अङ्गिराः–
+**अङ्गिराः–**
 
 अशुचिर्ब्रह्मकूटस्तु श्वानं च परिकर्षतु ।  
 ब्रह्महा निकृतश्चास्तु यस्ते हरति पुष्करम् ॥१५२॥
 
 **धुन्धुमारः–**
 
-अकृतज्ञोऽस्तु[^72] मित्राणां शूद्रायां च प्रजायताम् ।  
+अकृतज्ञोऽस्तु[^98] मित्राणां शूद्रायां च प्रजायताम् ।  
 एकरसम्पन्नमश्नातु यस्ते हरति पुष्करम् ॥
 
-[^72]: "घ– अर्धद्वयं नास्ति"
+[^98]: # "घ– अर्धद्वयं नास्ति"
 
-पूरुः–
+**पूरुः–**
 
-चोरकार्यं[^73] प्रचरतु भार्यां वाचैव दुष्यतु ।  
+चोरकार्यं[^99] प्रचरतु भार्यां वाचैव दुष्यतु ।  
 श्वशुरात्तस्य वृत्तिस्स्याद् यस्ते हरति पुष्करम् ॥
 
-[^73]: "ख– चोरिकां स प्रचरतु भार्यां स्वां चैव दूष्यतु ।"
+[^99]: # "ख– चोरिकां स प्रचरतु भार्यां स्वां चैव दूष्यतु ।"
 
-दिलीपः–
+**दिलीपः–**
 
-उदपानप्लवे[^74] ग्रामे ब्राह्मणो वृषलीपतिः ।  
+उदपानप्लवे[^100] ग्रामे ब्राह्मणो वृषलीपतिः ।  
 तस्य लोकान् स व्रजतु यस्ते हरति पुष्करम् ॥
 
-[^74]: "क-ख-घ– अर्धचतुष्टयं नास्ति"
+[^100]: # "क-ख-घ– अर्धचतुष्टयं नास्ति"
 
-शुक्रः–
+**शुक्रः–**
 
 पृष्ठमांसानि चाश्नातु यतिर्गच्छतु मैथुनम् ।  
 प्रेष्यो भवतु राज्ञश्च यस्ते हरति पुष्करम् ॥
 
-जमदग्निः–
+**जमदग्निः–**
 
-अनध्यायेष्वधीयीत[^52] मित्रं श्राद्धे च भोजयेत् ।  
+अनध्यायेष्वधीयीत[^71] मित्रं श्राद्धे च भोजयेत् ।  
 श्राद्धे शूद्रस्य चाश्नियाद् यस्ते हरति पुष्करम् ॥
 
-शिबिः–
+**शिबिः–**
 
-अनाहिता[^76]ग्निर्म्रियतु यज्ञविघ्नं करोतु च ।  
+अनाहिता[^102]ग्निर्म्रियतु यज्ञविघ्नं करोतु च ।  
 
-[^76]: "अ-क-घ– अर्धद्वयं नास्ति"
+
+[^102]: # "अ-क-घ– अर्धद्वयं नास्ति"
 
 तपस्विभिर्विरुध्येत यस्ते हरति पुष्करम् ॥१५८॥
 
-नहुषः–
+**नहुषः–**
 
 अतिथिं गृहस्थो नुदतु कामवृत्तोऽस्तु दीक्षितः ।  
 विद्यां प्रयच्छतु भृतो यस्ते हरति पुष्करम् ॥१५९॥
 
-ययातिः[^77]–
+**ययातिः[^103]–**
 
-[^77]: "ख– भारद्वाजः[ पाठान्तरम् ]"
+[^103]: # "ख– भारद्वाजः [ पाठान्तरम् ]"
 
 अनृतौ जटी व्रतिन्यां वै भार्यायां सम्प्रजायतु ।  
 निराकरोतु वेदांश्च यस्ते हरति पुष्करम् ॥१६०॥
 
-अम्बरीषः–
+**अम्बरीषः–**
 
-नृशंसंस्त्यक्तकर्माऽस्तु स्त्रीषुज्ञातिषु गोषु च ।  
-ब्राह्मणं चापि जहतु यस्ते हरति पुष्करम्[^78] ॥१६१॥
+नृशंसंस्त्यक्तकर्माऽस्तु स्त्रीषु ज्ञातिषु गोषु च ।  
+ब्राह्मणं चापि जहतु यस्ते हरति पुष्करम्[^104] ॥१६१॥
 
-[^78]: "ख– दिलीपः- उदपानप्लवे ग्रामे ब्राह्मणो वृषलीपतिः । तस्य लोकान् स व्रजतु यस्ते हरति पुष्करम् ॥ [ अधिकः पाठः ]"
+[^104]: # "ख– दिलीपः- उदपानप्लवे ग्रामे ब्राह्मणो वृषलीपतिः । तस्य लोकान् स व्रजतु यस्ते हरति पुष्करम् ॥ [ अधिकः पाठः ]"
 
-नारदः–
+**नारदः–**
 
 गूढो ज्ञातिवहिश्शास्त्रं पठतां विस्वरं पदम् ।  
 गरीयसोऽवजानातु यस्ते हरति पुष्करम् ॥१६२॥
 
-गाधिः[^79]–
+**गाधिः[^105]–**
 
-[^79]: "ख– विश्वामित्रः [पाठान्तरम् ]"
+[^105]: # "ख– विश्वामित्रः [ पाठान्तरम् ]"
 
 अनृतं भाषतु सदा सद्भिश्चैव विरुध्यतु ।  
 शुल्केन कन्यां ददतु यस्ते हरति पुष्करम् ॥१६३॥
 
-कविः–
+**कविः–**
 
 पदा च गां स्पृशतु ससूर्यं च प्रति मेहतु ।  
 शरणागतं च त्यजतु यस्ते हरति पुष्करम् ॥१६४॥
 
-अष्टकः[^80]–
+**अष्टकः[^106]–**
 
-[^80]: "क–अष्टावक्रः–"
+[^106]: # "क–अष्टावक्रः–"
 
 स राजाऽस्त्वकृतप्रज्ञः कामवृत्तोऽथ पापकृत् ।  
 अधर्मेणानुशास्तूर्वीं यस्ते हरति पुष्करम् ॥१६५॥
 
-शुकः–
+**शुकः–**
 
-शूद्रयोनौ[^800] द्विजातिस्तु रेतो मुञ्चतु कामतः ।  
+शूद्रयोनौ[^107] द्विजातिस्तु रेतो मुञ्चतु कामतः ।  
 सन्यासी मैथुनं गच्छेद् यस्ते हरति पुष्करम् ॥१६६॥
 
-[^800]: # "अ-क-ख– अर्धचतुष्टयं नास्ति"
+[^107]: # "अ-क-ख– अर्धचतुष्टयं नास्ति"
 
-यमः–
+**यमः–**
 
 औपासनविहीनस्तु देवब्राह्मणनिन्दकः ।  
 देवसत्राधिकार्यस्तु यस्ते हरति पुष्करम् ॥१६७॥
 
-अरुन्धती–
+**अरुन्धती–**
 
-श्वश्व्राऽपवादं[^801] वदतु भर्तुर्भवतु दुर्मनाः ।  
+श्वश्व्राऽपवादं[^108] वदतु भर्तुर्भवतु दुर्मनाः ।  
 एका स्वादु समश्नातु या ते हरति पुष्करम् ॥१६८॥
 
-[^801]: "घ-विवादं"
+[^108]: "घ-विवादं"
 
-भारद्वाजः–
+**भारद्वाजः–**
 
-सदा[^81] वसतु सन्यासी ग्रामे वा नगरेऽपि वा ।  
-बन्धुभिस्सहवासोऽस्तु यस्ते हरति पुष्करम् ॥१६९॥
+सदा[^109] वसतु सन्यासी ग्रामे वा नगरेऽपि वा ।  
+बन्धुभिस्सहवासोऽस्तु यस्ते हरति पुष्करम् ॥ १६९॥
 
-[^81]: "अ-क-घ–अर्धद्वयं नास्ति"
+[^109]: # "अ-क-घ–अर्धद्वयं नास्ति"
 
 **वालखिल्यः–**
 
 एकपादेन वृत्त्यर्थं ग्रामद्वारेषु तिष्ठतु।  
 धर्मज्ञस्त्यक्तधर्मोऽस्तु यस्ते हरति पुष्करम् ॥१७०॥
 
-पशुसखः–
+**पशुसखः–**
 
 अग्निहोत्रमनादृत्य स सुखं स्वपतु द्विजः ।  
-परिव्राट्कामवृत्तोऽस्तु यस्ते हरति पुष्करम् ॥१७१॥
+परिव्राट् कामवृत्तोऽस्तु यस्ते हरति पुष्करम् ॥१७१॥
 
-भीष्मः–
+**भीष्मः–**
 
 ततस्तु तैश्शपथैश्शप्यमानैर्  
 नानाविधैर्बहुभिः कौरवेन्द्र ।  
@@ -2012,25 +2043,25 @@ The Presidency College,
 ब्रह्मर्षिदेवर्षिराजर्षिमध्ये  
 यं तं निबोधेह समेत्य राजन् ॥१५३॥
 
-शतक्रतुः–
+**शतक्रतुः–**
 
 अध्वर्यवे दुहितरं ददातु  
 छन्दोगे वाऽऽचरितब्रह्मचर्ये ।
 
 अथर्वणं वेदमधीत्य विप्रस्  
-स्नायीत यः[^82] पुष्करमाददाति ॥१७४॥
+स्नायीत यः[^110] पुष्करमाददाति ॥१७४॥
 
-[^82]: "क-घ-यस्ते"
+[^110]: # "क-घ-यस्ते"
 
 सर्वान् वेदानधीयीत पुण्यशीलोऽस्तु धार्मिकः ।  
 ब्रह्मणस्सदनं यातु यस्ते हरति पुष्करम् ॥१७५॥
 
-अगस्त्यः–
+**अगस्त्यः–**
 
 आशीर्वादस्त्वया प्रोक्तश् शपथो बलसूदन ।  
 दीयतां पुष्करं मह्यम् एष धर्मस्सनातनः ॥१७६॥
 
-इन्द्रः–
+**इन्द्रः–**
 
 न मया भगवँलोभाद् धृतं पुष्करमद्य वै ।  
 धर्मं तु श्रोतुकामेन हृतं न क्रोद्धुमर्हसि ॥१७७॥
@@ -2041,26 +2072,27 @@ The Presidency College,
 तदिदं गृह्यतां विद्वन् पुष्करं मुनिसत्तम ।  
 अतिक्रमं मे भगवन् क्षन्तुमर्हस्यनिन्दित ॥१७९॥
 
-भीष्मः–
+**भीष्मः–**
 
 इत्युक्तस्स महेन्द्रेण तपस्वी कोपनो भृशम् ।  
-जग्राह पुष्करं धीमान्प्रसन्नश्चाभवत् पुनः ॥१८०॥
+जग्राह पुष्करं धीमान् प्रसन्नश्चाभवत् पुनः ॥१८०॥
 
 प्रययुस्ते ततो भूयस् तीर्थानि वनगोचराः ।  
 पुण्यतीर्थेषु च तदा गात्राण्याप्लावयन्ति ते ॥१८१॥  
 
+
 आख्यानं य इदं युक्तः पठेत् पर्वणि पर्वणि ।  
 न मूर्खं जनयेत् पुत्रं न भवेच्च निराकृतिः ॥१८२
 
-न[^83] तमापत् स्पृशेत् काचिन्न ज्वरो नाप्यहङ्कृतिः ।  
+न[^111] तमापत् स्पृशेत् काचिन्न ज्वरो नाप्यहङ्कृतिः ।  
 विरजाश्श्रेयसा युक्तः प्रेत्य सद्गतिमाप्नुयात्॥१८३
 
-[^83]: "अ– इदमर्धं नास्ति"
+[^111]: # "अ– इदमर्धं नास्ति"
 
 यश्च शास्त्रमनुध्यायेद् ऋषिभिः परिपालितम् ।  
 स गच्छेद्ब्राह्मणो लोकम् अव्ययं च नरोत्तम ॥१८४
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकाशीतितमोऽध्यायः ॥ ८१ ॥  
 ॥ ८९ ॥आनुशासनिकपर्वणि एकाशीतितमोऽध्यायः ॥ ८१ ॥  
 \[ अस्मिन्नध्याये १८४ श्लोकाः \]**
@@ -2071,17 +2103,17 @@ The Presidency College,
 
  भीष्मेण युधिष्टिरं प्रति छत्रोपानत्प्रवृत्तिप्रदाननिदानकथनाय सूर्यजमदग्निसंवादानुवादः ॥ १ ॥ जमदग्निना रेणुकायाः स्वधनुर्निस्तृतशराणां पुनः पुनरादाने नियोजनेन बाणक्रीडारम्भः ॥ २ ॥ रेणुकया सूर्यतेजः प्रतप्तशिरःपादतया तरुच्छायाश्रयणेन शरानयनविलम्बने रुष्टेन मुनिना तत्कारणप्रश्नः ॥ ३ ॥ रेणुकया तन्निवेदने मुनिना कोपाच्छस्त्रेण भूमौ सूर्यनिपातनोद्यमनम् ॥ ४ ॥ भयात्सूर्येण विप्ररूपधारणेन भुवमेत्य तत्प्रसादनम् ॥ ५ ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 यदिदं श्राद्धधर्मेषु दीयते पुरुषर्षभ ।  
 छत्रं चैतत् समुत्पन्नं कथञ्चैतत् प्रदीयते ॥१
 
-केवलं श्राद्धधर्मेषु पुण्यं[^84] केष्वभिधीयते ॥१॥  
+केवलं श्राद्धधर्मेषु पुण्यं[^112] केष्वभिधीयते ॥१॥  
 एतद् विस्तरतो राजञ् श्रोतुमिच्छामि तत्त्वतः ॥२
 
-[^84]: "ख– अयं पादोऽनन्तरश्च न स्तः"
+[^112]: # "ख– अयं पादोऽनन्तरश्च न स्तः"
 
-भीष्मः–
+**भीष्मः–**
 
 शृणु राजन्नवहितश् छत्रोपानहविस्तरम् ।  
 यथैतत् प्रथितं लोके येन चैव प्रकीर्तितम् ॥३॥
@@ -2089,10 +2121,11 @@ The Presidency College,
 यथा चाक्षय्यतां प्राप्तं पुण्यतां च यथा गतम् ।  
 सर्वमेतदशेषेण प्रवक्ष्यामि जनाधिप ॥४॥  
 
-इतिहास[^85]ं पुरावृत्तम् इदं शृणु नराधिप ।  
+
+इतिहास[^113]ं पुरावृत्तम् इदं शृणु नराधिप ।  
 जमदग्नेस्तु संवादं सूर्यस्य च महात्मनः ॥५
 
-[^85]: "घ– इदमर्धं नास्ति"
+[^113]: # "घ– इदमर्धं नास्ति"
 
 पुरा स भगवान् साक्षाद् धनुषा क्रीडति प्रभो ।  
 सन्धाय सन्धाय शरांश् चिक्षेप किल भार्गवः ॥६
@@ -2103,23 +2136,23 @@ The Presidency College,
 अथ तेन स शब्देन ज्यातलस्य शरस्य च ।  
 प्रहृष्टस्सम्प्रचिक्षेप सा च प्रत्याजहार तान् ॥८
 
-ततो[^802] मध्याह्नमारूढे ज्येष्ठामूलं दिवाकरे ।  
-स सायकान् द्विजो विद्ध्वारेणुकामिदमब्रवीत् ॥९
+ततो[^114] मध्याह्नमारूढे ज्येष्ठामूलं दिवाकरे ।  
+स सायकान् द्विजो विद्ध्वा रेणुकामिदमब्रवीत् ॥९
 
-[^802]: # "क-घ–अर्धत्रयं नास्ति"
+[^114]: # "क-घ–अर्धत्रयं नास्ति"
 
 गच्छानय विशालाक्षि शरानेतान् धनुश्च्युतान् ।  
-यावदेतान्[^86]सुखात् सुभ्रु क्षिपामीति जनाधिप ॥१०
+यावदेतान्[^115] सुखात् सुभ्रु क्षिपामीति जनाधिप ॥१०
 
-[^86]: "क– तच्च्युतान् ;ख– तान् सुखं घ–यावदेवतच्च्युतान् सुभ्रु"
+[^115]: # "क– तच्च्युतान् ; ख– तान् सुखं घ–यावदेवतच्च्युतान् सुभ्रु"
 
 सा गच्छन्त्यन्तरा छायावृक्षमाश्रित्य भामिनी ।  
 तस्थौ तस्या हि सन्तप्तं शिरः पादौ तथैव च ॥११
 
 स्थिता सा तु मुहूर्तं तु भर्तुश्शापभयाच्छुभा ।  
-ययावानयितुं भूयस् सायकानायतेक्षणा[^87] ॥१२
+ययावानयितुं भूयस् सायकानायतेक्षणा[^116] ॥१२
 
-[^87]: "ख– नसिते"
+[^116]: # "ख– नसिते"
 
 प्रत्याजगाम च शरांस् तानादाय यशस्विनी ॥१२॥
 
@@ -2129,7 +2162,7 @@ The Presidency College,
 स तामृषिस्ततः क्रुद्धो वाक्यमाह शुभाननाम् ।  
 रेणुके किं चिरेण त्वम् आगतेति पुनः पुनः ॥१४॥
 
-रेणुका–
+**रेणुका–**
 
 शिरस्तप्तं प्रदीप्तौ मे पादौ चैव तपोधन \।  
 सूर्यतेजोनिरुद्धाऽहं वृक्षच्छायामुपाश्रिता ॥१५॥
@@ -2137,12 +2170,12 @@ The Presidency College,
 एतस्मात् कारणाद् ब्रह्मंश् चिरमेतत् कृतं मया ।  
 एतज्ज्ञात्वा मम विभो मा क्रुधस्त्वं तपोधन ॥१६॥
 
-जमदग्निः–
+**जमदग्निः–**
 
 अद्यैनं दीप्तकिरणं रेणुके तव दुःखदम् ।  
 शरैर्निपातयिष्यामि सूर्यमस्त्राग्नितेजसा ॥१७॥
 
-भीष्मः–
+**भीष्मः–**
 
 स विष्फार्य धनुर्दिव्यं गृहीत्वा च बहून् शरान् ।  
 अतिष्ठत् सूर्यमभितो यतो याति ततोमुखः ॥१८॥
@@ -2165,20 +2198,20 @@ The Presidency College,
 जातकर्माणि सर्वाणि व्रतोपनयनानि च ।  
 गोदानानि विवाहाश्च तपो यज्ञसमृद्धयः ॥२४ ॥
 
-सत्राणि[^803] दानानि तथा संयोगा वित्तसञ्चयाः।  
+सत्राणि[^117] दानानि तथा संयोगा वित्तसञ्चयाः ।  
 अन्नतस्सम्प्रवर्तन्ते तथा तद् वेत्थ भार्गव ॥२५॥
 
-[^803]: # "क- घ– सर्वाणि"
+[^117]: # "क- घ– सर्वाणि"
 
 रमणीयानि यावन्ति यावदारम्भकाणि च ।  
 सर्वमन्नात् प्रभवति विदितं कीर्तयामि ते ॥२६॥
 
-सर्वाणि[^88] वेत्थ वै विप्र यदेतत् कथितं मया ।  
+सर्वाणि[^118] वेत्थ वै विप्र यदेतत् कथितं मया ।  
 प्रसादये त्वां विप्रर्षे किं ते सूर्यो निपात्यते ॥२७॥
 
-[^88]: "क- घ–सर्वं हि वेत्थ वै विप्र"
+[^118]: # "क- घ–सर्वं हि वेत्थ वै विप्र"
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि द्व्यशीतितमोऽध्यायः ॥ ८२ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि द्व्यशीतितमोऽध्यायः ॥ ८२ ॥  
 \[ अस्मिन्नध्याये २७॥ श्लोकाः \]**  
@@ -2193,7 +2226,7 @@ The Presidency College,
 एवं तथा प्रयाचन्तं भास्करं मुनिसत्तमः \।  
 जमदग्निर्महातेजाः किं कार्यं प्रत्यपद्यत ॥१
 
-भीष्मः–
+**भीष्मः–**
 
 तथा प्रयाचमानस्य मुनिरग्निसमप्रभः ।  
 जमदग्निश्शमं नैव जगाम कुरुनन्दन ॥२
@@ -2201,41 +2234,41 @@ The Presidency College,
 ततस्सूर्यो मधुरया वाचा तमिदमब्रवीत् ।  
 कृताञ्जलिर्विप्ररूपी प्रणम्यैनं विशां पते ॥३
 
-सूर्यः–
+**सूर्यः–**
 
-चलं[^804] निमित्तं ब्रह्मर्षे सदा सूर्यस्य गच्छतः ।  
+चलं[^119] निमित्तं ब्रह्मर्षे सदा सूर्यस्य गच्छतः ।  
 कथं चलं वेत्स्यसि तं सदा यान्तं दिवाकरम् ॥४
 
-[^804]: # "ख–जगन्निमित्तं ब्रह्मर्षे सदा सूर्योऽपि गच्छति । [ पाठान्तरम् ]"
+[^119]: # "ख–जगन्निमित्तं ब्रह्मर्षे सदा सूर्योऽपि गच्छति । [ पाठान्तरम् ]"
 
-जमदग्निः–
+**जमदग्निः–**
 
 स्थिरं वाऽपि चलं वाऽपि जाने त्वां ज्ञानचक्षुषा ।  
 अवश्यं विनयाधानं कार्यमद्य तवानघ ॥५
 
-अपराह्नेवै निमेषार्धं तिष्ठसि त्वं दिवाकर ।  
+अपराह्ने वै निमेषार्धं तिष्ठसि त्वं दिवाकर ।  
 तत्र वेत्स्यामि सूर्य त्वां न मेऽस्त्यत्र विचारणा॥६॥
 
-सूर्यः–
+**सूर्यः–**
 
 असंशयं मां ब्रह्मर्षे वेत्स्यसे धन्विनां वर ।  
 अपकारिणं तु मां विद्धि भगवञ् शरणागतम् ॥७॥
 
-भीष्मः–
+**भीष्मः–**
 
 ततः प्रहस्य भगवाञ् जमदग्निरुवाच तम् ॥७॥
 
-जमदग्निः–
+**जमदग्निः–**
 
 न भीस्सूर्य त्वया कार्या प्रणिपातं गतो ह्यसि ॥८॥
 
 ब्राह्मणेष्वपि यज्ज्ञानं धैर्यं च धरणीतले ।  
 सौम्यतां चैव सोमस्य गाम्भीर्यं वरुणस्य च ॥९॥
 
-दीप्तिमग्नेः प्रभां मेरोः प्रतापं[^89] तपनस्य च ।  
+दीप्तिमग्नेः प्रभां मेरोः प्रतापं[^120] तपनस्य च ।  
 एतान्यतिक्रमेद्यो वै स हन्याच्छरणागतम् ॥१०॥
 
-[^89]: "अ-क-घ–प्रतापं धनदस्य च"
+[^120]: # "अ-क-घ–प्रतापं धनदस्य च"
 
 भवेत् स गुरुतल्पी च ब्रह्महा च तथा भवेत् ।  
 सुरापानं च कुर्यात् स यो हन्याच्छरणागतम्॥११॥
@@ -2243,13 +2276,14 @@ The Presidency College,
 एतस्य त्वपनीतस्य समाधिं त्वनुचिन्तय ।  
 यथा सुखगमः पन्था भवेत्त्वद्रश्मितापितः ॥१२॥
 
-भीष्मः–
+**भीष्मः–**
 
-एतावदुक्त्वाभगवांस् तूष्णीमासीद्भृगूत्तमः ।  
+एतावदुक्त्वा भगवांस् तूष्णीमासीद्भृगूत्तमः ।  
+
 
 अथ सूर्योऽददात्तस्मै छत्रोपानहमाशु वै ॥१३
 
-सूर्यः–
+**सूर्यः–**
 
 महर्षे सशिरस्त्राणं छत्रं मद्रश्मिवारणम् ।  
 प्रतिगृह्णीव पद्भ्यां च त्राणार्थं चर्मपादुके ॥१४
@@ -2257,7 +2291,7 @@ The Presidency College,
 अद्यप्रभृति चैवैतल्लोके सम्प्रचरिष्यति ।  
 पुण्यदानेषु सर्वेषु परमक्षय्यमेव च ॥१५
 
-भीष्मः–
+**भीष्मः–**
 
 उपानहौ च च्छत्रं च सूर्येणैव प्रकीर्तितम् ।  
 पुण्यमेतदर्भिख्यातं त्रिषु लोकेषु भारत ॥१६
@@ -2275,12 +2309,12 @@ The Presidency College,
 स्नातकाय महाबाहो संश्रिताय द्विजातये ॥२०
 
 सोऽपि लोकानवाप्नोति दैवतैरभिपूजितः ।  
-गोलोकेषुमुदा युक्तोवसति प्रेत्यं भारत ॥२१
+गोलोकेषु मुदा युक्तो वसति प्रेत्यं भारत ॥२१
 
 एतत्ते भरतश्रेष्ठ मया कार्त्स्न्येन कीर्तितम् ।  
 छत्रोपानहधर्मस्य फलं भरतसत्तम ॥२२॥
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयसिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयसिक्याम्  
 अनुशासनपर्वणि त्र्यशीतितमोऽध्यायः ॥ ८३ \।\।  
 ॥ ८९ ॥ आनुशासनिकपर्वणि त्र्यशीतितमोऽध्यायः ॥ ८३ ॥  
 \[ अस्मिन्नध्याये २२ श्लोकाः \]**
@@ -2289,19 +2323,19 @@ The Presidency College,
 
 **॥ चतुरशीतितमोऽध्यायः ॥**
 
-  भीष्मेण युधिष्ठिरं प्रति पराशरोक्तानां शूद्रधर्माणां मृत्तिकाशौचादीनां चनिरूपणम् ॥ १ ॥ ब्राह्मणादिधर्मनिरुपणपूर्वकं शूद्रस्य यतिशुश्रूषाप्रकारनिरूपणम् ॥ २ ॥ यतिशुश्रूषाप्रशंसनम् ॥ ३ ॥ यतिशुश्रूषादि नानाधर्मकथनम् ॥ ४ ॥ पुरुषस्य मृतिसूचकलिङ्गैः स्वमरणनिश्चयेन भगवत्स्मरणादिपूर्वकं देहत्यागे स्वर्गभोगप्रकारस्यसुकृतशेषेण पुनर्भूलोके जननादिप्रकारादेश्चकथनम् ॥ ५ ॥ पुरुषस्य पुण्यविशेषेण पुनः पुनः स्वर्गभूम्यादिपरिवर्तनेन जातवैराग्यस्य ब्रह्मज्ञानेनापुनरावृत्तिशाश्वतपदप्राप्त्यादिप्रकारप्रतिपादनम् ॥ ६ ॥ चातुर्वर्ण्यस्य श्रेयस्साधनोपायप्रतिपादकपराशरवचनानुवादः ॥ ७ ॥
+  भीष्मेण युधिष्ठिरं प्रति पराशरोक्तानां शूद्रधर्माणां मृत्तिकाशौचादीनां च निरूपणम् ॥ १ ॥ ब्राह्मणादिधर्मनिरुपणपूर्वकं शूद्रस्य यतिशुश्रूषाप्रकारनिरूपणम् ॥ २ ॥ यतिशुश्रूषाप्रशंसनम् ॥ ३ ॥ यतिशुश्रूषादि नानाधर्मकथनम् ॥ ४ ॥ पुरुषस्य मृतिसूचकलिङ्गैः स्वमरणनिश्चयेन भगवत्स्मरणादिपूर्वकं देहत्यागे स्वर्गभोगप्रकारस्य सुकृतशेषेण पुनर्भूलोके जननादिप्रकारादेश्च कथनम् ॥ ५ ॥ पुरुषस्य पुण्यविशेषेण पुनः पुनः स्वर्गभूम्यादिपरिवर्तनेन जातवैराग्यस्य ब्रह्मज्ञानेनापुनरावृत्तिशाश्वतपदप्राप्त्यादिप्रकारप्रतिपादनम् ॥ ६ ॥ चातुर्वर्ण्यस्य श्रेयस्साधनोपायप्रतिपादकपराशरवचनानुवादः ॥ ७ ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 शूद्राणामिह शुश्रूषा नित्यमेवानुवर्णिता ।  
 कैः कारणैः कतिविधा शुश्रूषा समुदाहृता ॥१॥
 
 के च शुश्रूषया लोका विहिता भरतर्षभ ।  
-शूद्राणां[^90] भरतश्रेष्ठ ब्रूहि मे धर्मलक्षणम् ॥२॥
+शूद्राणां[^121] भरतश्रेष्ठ ब्रूहि मे धर्मलक्षणम् ॥२॥
 
-[^90]: "अ-क-घ–शुश्रूषां"
+[^121]: # "अ-क-घ–शुश्रूषां"
 
-भीष्मः–
+**भीष्मः–**
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
 शूद्राणामनुकम्पार्थं यदुक्तं ब्रह्मवादिना ॥३॥
@@ -2312,31 +2346,31 @@ The Presidency College,
 धर्मोपदेशमखिलं यथावदनुपूर्वशः ।  
 शिष्यानध्यापयामास शास्त्रमर्थवदर्थवित् ॥५॥
 
-पराशरः–
+**पराशरः–**
 
-क्षान्तेन्द्रियेण दान्तेन[^91] शुचिनाऽचापलेन वै ।  
+क्षान्तेन्द्रियेण दान्तेन[^122] शुचिनाऽचापलेन वै ।  
 अबलेन च धीरेण नोत्तरोत्तरवादिना ॥६॥
 
-[^91]: "अ-क-घ–दानेन"
+[^122]: # "अ-क-घ–दानेन"
 
-अलुब्धेनानृशंसेन[^92] ऋजुना ब्रह्मवादिना ।  
+अलुब्धेनानृशंसेन[^123] ऋजुना ब्रह्मवादिना ।  
 चारित्रतत्परेणैव सर्वभूतहितात्मना ॥७॥
 
-[^92]: "ख–अदुर्बलेन धीरेण शाम्तेनोत्तरवादिना । क- घ –दुर्बलेन च धीरेण उत्तरोत्तविधायिना । [ पाठान्तरम् ]।"
+[^123]: # "ख–अदुर्बलेन धीरेण शाम्तेनोत्तरवादिना । क- घ –दुर्बलेन च धीरेण उत्तरोत्तविधायिना । [ पाठान्तरम् ]।"
 
 अरयप्षड्विजेतव्या नित्यं स्वं देहमाश्रिताः ।  
 कामक्रोधौ च लोभश्च मानमोहौ मदस्तथा ॥८॥
 
 विधिना धृतिमास्थाय शुश्रूषुरनहङ्कृतः ।  
-वर्णत्रयस्यानुमतो यथाशक्ति यथाबलम्॥९॥
+वर्णत्रयस्यानुमतो यथाशक्ति यथाबलम् ॥९॥
 
 कर्मणा मनसा वाचा चक्षुषा च चतुर्विधम् ।  
 आस्थाय नियमं धीमाञ् शान्तो दान्तो जितेन्द्रियः ॥१०॥
 
-रक्षोयक्षजनद्वेषी[^93] शेषान्नकृतभोजनः ।  
+रक्षोयक्षजनद्वेषी[^124] शेषान्नकृतभोजनः ।  
 वर्णत्रयान्मधु यथा भ्रमरो धर्ममाचरन् ॥११
 
-[^93]: "ख–नित्यं दक्षजनान्वेषी"
+[^124]: # "ख–नित्यं दक्षजनान्वेषी"
 
 यदि शूद्रस्तपः कुर्याद् वेददृष्टेन कर्मणा ।  
 इह चास्य परिक्लेशः प्रेत्य चास्याशुभा गतिः ॥१२॥
@@ -2347,34 +2381,34 @@ The Presidency College,
 अन्यथा वर्तमानो हि न शूद्रो धर्ममर्हति ।  
 अमार्गेण प्रयातानां प्रत्यक्षादुपलभ्यते ॥१४
 
-चातुर्वर्ण्यव्यपेतानां जातिमूर्तिपरिग्रहः[^94] ॥१४॥
+चातुर्वर्ण्यव्यपेतानां जातिमूर्तिपरिग्रहः[^125] ॥१४॥
 
-[^94]: "क-घ–जात; ख–जातिमुक्त"
+[^125]: # "क-घ–जात; ख–जातिमुक्त"
 
 तथा ते हि शकाश्चीनाः काम्भोजाः पारदास्तथा ।  
 शबराः पप्लवाश्चैव तुषारयवनास्तथा ॥१५॥
 
 दार्वाश्च दरदाश्चैव उज्जिहानास्तथेतराः ।
 
-वेणाश्च[^95] कङ्कणाश्चैव सिंहला मद्रकास्तथा ॥१६॥
+वेणाश्च[^126] कङ्कणाश्चैव सिंहला मद्रकास्तथा ॥१६॥
 
-[^95]: "ख–वेताश्च"
+[^126]: # "ख–वेताश्च"
 
-किष्किन्धकाः पुलिन्दाश्च काह्वाश्चान्ध्रास्सनीरगाः[^96] ।  
-गन्धिका[^97] द्रमिडाश्चैव बर्बराश्चूचुकास्तथा ॥१७॥
+किष्किन्धकाः पुलिन्दाश्च काह्वाश्चान्ध्रास्सनीरगाः[^127] ।  
+गन्धिका[^128] द्रमिडाश्चैव बर्बराश्चूचुकास्तथा ॥१७॥
 
-[^96]: "ख–सदिद्धराः; अ–सुनीतगाः"
+[^127]: # "ख–सदिद्धराः; अ–सुनीतगाः"
 
-[^97]: "क-घ–गण्डका; ख–गविका"
+[^128]: # "क-घ–गण्डका; ख–गविका"
 
-किराताः[^98] पार्वतेयाश्च कोलाश्चोषास्सखाषकाः[^805] ।  
-आरुकाश्चैव[^99] दोहाश्च याश्चान्या म्लेच्छजातयः ॥१८॥
+किराताः[^129] पार्वतेयाश्च कोलाश्चोषास्सखाषकाः[^130] ।  
+आरुकाश्चैव[^131] दोहाश्च याश्चान्या म्लेच्छजातयः ॥१८॥
 
-[^98]: "ख–पार्वतीयाश्च काशाश्च किराताश्चोलकाश्शकाः ।"
+[^129]: # "ख–पार्वतीयाश्च काशाश्च किराताश्चोलकाश्शकाः ।"
 
-[^99]: "क–आरूहाश्च विदे; ख– कुकुराश्च विदे"
+[^130]: # "घ–लाः"
 
-[^805]: # "घ–लाः"
+[^131]: # "क–आरूहाश्च विदे; ख– कुकुराश्च विदे"
 
 विकृता विकृताचारा दृश्यन्ते क्रूरबुद्धयः ।  
 अमार्गेणाश्रिता धर्मं ततो जात्यन्तरं गताः ॥१९॥
@@ -2382,19 +2416,19 @@ The Presidency College,
 अमार्गोपार्जितस्यैतत् तपसो विदितं फलम् ।  
 न नश्यति कृतं कर्म शुभं वा यदि वाऽशुभम् ॥२०॥
 
-अत्राप्येते वसु प्राप्य विकर्म[^100] तपसाऽर्जितम् ।  
+अत्राप्येते वसु प्राप्य विकर्म[^132] तपसाऽर्जितम् ।  
 पाषण्डानर्चयिष्यन्ति धर्मकामा वृथाश्रमाः ॥२१॥
 
-[^100]: "क-घ–विक्रमं"
+[^132]: # "क-घ–विक्रमं"
 
 एवं चतुर्णां वर्णानाम् आश्रमाणां च पार्थिव ।  
 विपरीतं वर्तमाना म्लेच्छा जायन्त्यबुद्धयः ॥२२॥
 
 स्वाध्यायधनिनो विप्राः क्षत्रियाणां बलं धनम् ।
 
-वणिक्कृषिश्च[^806] वैश्यानां शूद्राणां परिचारिका ॥२३॥
+वणिक्कृषिश्च[^133] वैश्यानां शूद्राणां परिचारिका ॥२३॥
 
-[^806]: ॑# "ख–इदमर्धं नास्ति"
+[^133]: # "ख–इदमर्धं नास्ति"
 
 व्युच्छेदात्तस्य धर्मस्य निरयायोपपद्यते ॥२४
 
@@ -2407,21 +2441,21 @@ The Presidency College,
 सर्वभूतदयावन्तो दैवतद्विजपूजकाः ।  
 शास्त्रदृष्टेन विधिना श्रद्धया जितमन्यवः ॥२७
 
-तेषांविधिं[^101] प्रवक्ष्यामि यथावदनुपूर्वशः ॥२७॥
+तेषां विधिं[^134] प्रवक्ष्यामि यथावदनुपूर्वशः ॥२७॥
 
-[^101]: "ख– सिद्धिं"
+[^134]: # "ख– सिद्धिं"
 
-उपादानविधिं[^102] कृत्स्नं शुश्रूषाधिगमं तथा ।  
+उपादानविधिं[^135] कृत्स्नं शुश्रूषाधिगमं तथा ।  
 शिष्टोपनयनं चैव मन्त्राणि विविधानि च ॥२८॥
 
-[^102]: "अ–अर्धचतुष्टयं नास्ति  घ–उपयानविधिं"
+[^135]: # "अ–अर्धचतुष्टयं नास्ति घ–उपयानविधिं"
 
 तथा शिष्यपरीक्षां च शास्त्रप्रामाण्यदर्शनात् ।  
 प्रवक्ष्यामि यथातत्त्वं यथावदनुपूर्वशः ॥२९॥
 
-शौचकृत्यस्य शौचार्थान्[^103] सर्वानेव विशेषतः ॥३०
+शौचकृत्यस्य शौचार्थान्[^136] सर्वानेव विशेषतः ॥३०
 
-[^103]: "ख–पूर्वार्थान्"
+[^136]: # "ख–पूर्वार्थान्"
 
 महाशौचप्रभृतयो दृष्टास्तत्वार्थदर्शिभिः ।
 
@@ -2440,12 +2474,12 @@ The Presidency College,
 कामं दत्वा गुदे दद्यात् तिस्रः पद्भ्यां तथैव च ।  
 हस्तशौचं प्रकर्तव्यं मूत्रशौचविधेस्तथा ॥५१॥
 
-मूत्रशौचे तथा हस्तौ[^104] पादाभ्यां चानुपूर्वशः ।  
-नैष्ठिके[^105] स्थानशौचे तु महाशौचं विधीयते ॥५२॥
+मूत्रशौचे तथा हस्तौ[^137] पादाभ्यां चानुपूर्वशः ।  
+नैष्ठिके[^138] स्थानशौचे तु महाशौचं विधीयते ॥५२॥
 
-[^104]: "क-ख-घ–ह्यष्टौ पा"
+[^137]: # "क-ख-घ–ह्यष्टौ पा"
 
-[^105]: "क-घ-अर्धचतुष्टयं नास्ति; ख–नैष्टिके स्नान"
+[^138]: # "क-घ-अर्धचतुष्टयं नास्ति; ख–नैष्टिके स्नान"
 
 क्षारौषराभ्यां वस्त्रस्य कुर्याच्छौचं मृदा सह ।  
 लेपगन्धापनयनम् अमेध्यस्य विधीयते ॥५३॥
@@ -2459,7 +2493,7 @@ The Presidency College,
 
 विधिनाऽनेन शौचं तु नित्यं कुर्यादतन्द्रितः ॥५६
 
-अविप्रेक्षन्नसम्भ्रान्तः पादौ प्रक्षाल्यतत्परः ।  
+अविप्रेक्षन्नसम्भ्रान्तः पादौ प्रक्षाल्य तत्परः ।  
 सुप्रक्षालितपादस्तु पाणिमामणिबन्धनात् ॥५७
 
 अधस्तादुपरिष्टाच्च ततः पाणिमुपस्पृशेत् ॥५७॥
@@ -2470,51 +2504,51 @@ The Presidency College,
 ऋग्वेदं तेन प्रीणाति प्रथमं यः पिबेदपः ।  
 द्वितीयं च यजुर्वेदं तृतीयं साम एव च ॥५९॥
 
-मृज्यते[^106] प्रथमं तेन अथर्वा प्रीतिमाप्नुयात् ।  
+मृज्यते[^139] प्रथमं तेन अथर्वा प्रीतिमाप्नुयात् ।  
 द्वितीयेनेतिहासं च पुराणस्मृतिदेवताः ॥६०॥
 
-[^106]: "ख– स्पृश्यते"
+[^139]: # "ख– स्पृश्यते"
 
 यच्चक्षुषि समाधत्ते तेनादित्यं तु प्रीणयेत् ।  
-प्रीणाति वा[^107]युं घ्राणं च दिशश्चाप्यथ श्रोत्रयोः ॥ ६१॥
+प्रीणाति वा[^140]युं घ्राणं च दिशश्चाप्यथ श्रोत्रयोः ॥ ६१॥
 
-[^107]: "ख– वायुं ध्राणे तु"
+[^140]: # "ख– वायुं ध्राणे तु"
 
-ब्रह्माणं तेन प्रीणाति यन्मूर्धनि समालभेत्[^108] ।  
-समुत्क्षिपति[^109] चापोर्ध्वम् आकाशं तेन प्रीणयेत् ॥६२॥
+ब्रह्माणं तेन प्रीणाति यन्मूर्धनि समालभेत्[^141] ।  
+समुत्क्षिपति[^142] चापोर्ध्वम् आकाशं तेन प्रीणयेत् ॥६२॥
 
-[^108]: "अ-क-घ– पयेत्"
+[^141]: # "अ-क-घ– पयेत्"
 
-[^109]: "ख– यदुपक्षिपति चाप्यूर्ध्वम्"
+[^142]: # "ख– यदुपक्षिपति चाप्यूर्ध्वम्"
 
 प्रीणाति विष्णुः पद्भ्यां तु सलिलं वै समादधत् ॥६३
 
 प्राङ्मुखोदङ्मुखो वाऽपि अन्तर्जानुरुपस्पृशेत् ।  
 सर्वत्र विधिरित्येष भोजनादिषु नित्यशः ॥६४॥
 
-दन्तेषु[^110] दन्तलग्नेषु उच्छिष्टः पुनराचमेत् ।  
+दन्तेषु[^143] दन्तलग्नेषु उच्छिष्टः पुनराचमेत् ।  
 विधिरेष समुद्दिष्टश् शौचे चाभ्युक्षणं स्मृतम् ॥६५
 
-[^110]: "ख–दन्तवद्दन्त"
+[^143]: # "ख–दन्तवद्दन्त "
 
-शूद्रस्यैष विधिर्दृष्टो गृहान्निष्क्रमतस्सतः।  
+शूद्रस्यैष विधिर्दृष्टो गृहान्निष्क्रमतस्सतः ।  
 नित्यं चालुप्तशौचेन वर्तितव्यं कृतात्मना ॥६६
 
-यशस्कामेन भिक्षुभ्यश् शूद्रेणात्महितार्थिना[^111] ॥६६॥
+यशस्कामेन भिक्षुभ्यश् शूद्रेणात्महितार्थिना[^144] ॥६६॥
 
-[^111]: "सर्वेषु कोशेषु अवैवाध्यायसमाप्तिर्दृश्यते"
+[^144]: # "सर्वेषु कोशेषु अवैवाध्यायसमाप्तिर्दृश्यते"
 
-क्षत्रा[^112] आरम्भयज्ञास्तु हविर्यज्ञा विशस्स्मृताः ।  
+क्षत्रा[^145] आरम्भयज्ञास्तु हविर्यज्ञा विशस्स्मृताः ।  
 शूद्राः परिचारयज्ञा जपयज्ञास्तु ब्राह्मणाः ॥६७॥
 
-[^112]: "ख–क्षत्रस्यारम्भयज्ञस्तु हविर्यज्ञो विशां स्मृतः ।"
+[^145]: # "ख–क्षत्रस्यारम्भयज्ञस्तु हविर्यज्ञो विशां स्मृतः ।"
 
 शुश्रूषाजीविनश्शूद्रा वैश्या विपणजीविनः ।  
-अनिष्टनिग्रहाः[^113] क्षत्रा विप्रास्स्वाध्यायजीविनः ॥६८ ॥
+अनिष्टनिग्रहाः[^146] क्षत्रा विप्रास्स्वाध्यायजीविनः ॥६८ ॥
 
-[^113]: "क-घ–इदमर्धं नास्ति"
+[^146]: # "क-घ–इदमर्धं नास्ति"
 
-तपसा शोभते विप्रो राजन्यः पालनांदिभिः ।  
+तपसा शोभते विप्रो राजन्यः पालनान्दिभिः ।  
 आतिथ्येन तथा वैश्यश् शूद्रो दास्येन शोभते ॥ ६९॥
 
 यतात्मना तु शूद्रेण शुश्रूषा नित्यमेव तु ।  
@@ -2534,10 +2568,10 @@ The Presidency College,
 अतोऽन्यथा तु कुर्वाणश् श्रेयो नाप्नोति मानवः ।  
 तस्माद्भिक्षुपु शूद्रेण कार्यमात्महितं सदा ॥७५
 
-इह यत् कुरुते श्रेयस् तत् प्रेत्य समुपाश्नुते[^114] ।  
+इह यत् कुरुते श्रेयस् तत् प्रेत्य समुपाश्नुते[^147] ।  
 तच्चानसूयता कार्यं कर्तव्यं यद्धि मन्यते ॥७६
 
-[^114]: "क- घ–सुखमाप्नुते"
+[^147]: # "क- घ–सुखमाप्नुते"
 
 असूयता कृतस्येह फलं दुःखावाप्यते ॥७६॥
 
@@ -2549,6 +2583,7 @@ The Presidency College,
 अयं मे परमो धर्मस् त्वनेनेदं सुदुस्तरम् ।  
 संसारसागरं घोरं तरिष्यामि न संशयः ॥७९  
 
+
 निर्भयो देहमुत्सृज्य यास्यामि परमां गतिम् ।  
 नातः परं ममास्त्यन्य एष धर्मस्सनातनः ॥८०
 
@@ -2558,12 +2593,12 @@ The Presidency College,
 शुश्रूषानियमेनेह भाव्यं शिष्टाशिना सदा ।  
 शमान्वितेन दान्तेन कार्याकार्यविदा सदा ॥८२
 
-सर्वकार्येषु कृत्यानि कृतान्येव च दर्शयेत्।  
+सर्वकार्येषु कृत्यानि कृतान्येव च दर्शयेत् ।  
 यथा प्रीतो भवेद्भिक्षुस् तथा कार्यं प्रसाधयेत् ॥८३
 
-यदकल्यं[^115] भवेद्भिक्षोर् न तत् कार्यं समाचरेत् ॥८३ ॥
+यदकल्यं[^148] भवेद्भिक्षोर् न तत् कार्यं समाचरेत् ॥८३ ॥
 
-[^115]: "ख– यदकार्यं"
+[^148]: # "ख– यदकार्यं"
 
 यदाश्रमस्याविरुद्धं धर्ममात्राभिसंहितम् ।  
 तत् कार्यमविचारेण नित्यमेव शुभार्थिना ॥८४॥
@@ -2577,7 +2612,7 @@ The Presidency College,
 उद्वर्तनादींश्च तथा कुर्यादप्रतिचोदितः ॥८७
 
 नैशकार्याणि कृत्वा तु नित्यं चैवानुचोदितः ।  
-यथाविधिरुपस्पृश्य संन्यस्य जलभाजनम् ॥८८
+यथाविधिरुपस्पृश्य सन्न्यस्य जलभाजनम् ॥८८
 
 भिक्षूणां निलयं गत्वा प्रणम्य विधिपूर्वकम् ।  
 ब्रह्मपूर्वान् गुरूंस्तत्र प्रणम्य नियतेन्द्रियः ॥८९
@@ -2589,7 +2624,7 @@ The Presidency College,
 यो भवेत् पूर्वसंसिद्धस् तुल्यधर्मा भवेत् सदा ।  
 तस्मै प्रणामः कर्तव्यो नेतरेषां कदाचन ॥९१
 
-अनुक्त्वा तेषुचोत्थाय नित्यमेव यतव्रतः ।  
+अनुक्त्वा तेषु चोत्थाय नित्यमेव यतव्रतः ।  
 सम्मार्जनमथो कृत्वा कृत्वा चाप्युपलेपनम् ॥९२
 
 ततः पुष्पबलिं दद्यात् पुष्पाण्यादाय धर्मतः ।  
@@ -2601,19 +2636,20 @@ The Presidency College,
 तथाऽऽत्मा प्रणिधातव्यो यथा ते प्रीतिमाप्नुयुः \।\। ९४ ॥
 
 परिचारकोऽहं वर्णानां त्रयाणां धर्मतस्स्मृतः ।  
-किमुताश्रमवृद्धानां[^116] यथालब्धोपजीविनाम् ॥९५॥
+किमुताश्रमवृद्धानां[^149] यथालब्धोपजीविनाम् ॥९५॥
 
-[^116]: "क–घ युक्तानां"
+[^149]: # "क–घ युक्तानां"
 
-भिक्षूणां गतरागाणां[^117] केवलं ज्ञानदर्शिनाम् ।  
-विशेषेण मया कार्या शुश्रुषानियतात्मना ॥९६॥  
+भिक्षूणां गतरागाणां[^150] केवलं ज्ञानदर्शिनाम् ।  
+विशेषेण मया कार्या शुश्रुषा नियतात्मना ॥९६॥  
 
-[^117]: "क-घ–गतपौराणां; ख–गतपापानां"
+
+[^150]: # "क-घ–गतपौराणां; ख–गतपापानां"
 
 तेषां प्रसादात्तपसा प्राप्स्यामीष्टां शुभां गतिम् ॥९७
 
 एवमेतद्विनिश्चित्य यदि सेवेत भिक्षुकान् ।  
-विधिना यथोपदिष्टेन प्राप्नोति परमां गतिम्[^6] ॥९८
+विधिना यथोपदिष्टेन प्राप्नोति परमां गतिम्[^15] ॥९८
 
 न तथा सम्प्रदानेन नोपवासादिभिस्तथा ।  
 इष्टां गतिमवाप्नोति यथा शुश्रूषकर्मणा ॥९९
@@ -2630,29 +2666,30 @@ The Presidency College,
 अध्वना कर्शितानां च व्याधितानां तथैव च ।  
 शुश्रूषां नियतः कुर्यात् तेषामापदि यत्नतः ॥१०३
 
-दर्भाजिनान्यवेक्षेत[^119] भैक्षभाजनमेव च ।  
-यथाकामं[^120] च कार्याणि सर्वाण्येवोपसाधयेत् ॥१०४
+दर्भाजिनान्यवेक्षेत[^152] भैक्षभाजनमेव च ।  
+यथाकामं[^153] च कार्याणि सर्वाण्येवोपसाधयेत् ॥१०४
 
-[^119]: "ख–उदभाजना"
+[^152]: # "ख–उदभाजना"
 
-[^120]: "ख– यथाकालं"
+[^153]: # "ख– यथाकालं"
 
 प्रायश्चित्तं यथा न स्यात् तथा सर्वं समाचरेत् ॥१०४॥  
+
 
 व्याधितानां तु प्रयतः चेलप्रक्षालनादिभिः ।  
 प्रतिकर्मक्रिया कार्या भेषजानयनैस्तथा ॥१०५॥
 
 पिंषणालेपनं चूर्णं कषायमथ साधनम् ।  
-तान्यस्य[^121] प्रतिचारेषुसुखार्थमुपपादयेत् ॥१०६॥
+तान्यस्य[^154] प्रतिचारेषु सुखार्थमुपपादयेत् ॥१०६॥
 
-[^121]: "ख–नान्य"
+[^154]: # "ख–नान्य"
 
-भिक्षाटनोऽभि[^122]गच्छेत भिषजश्च विपश्चितः ।  
-ततो विनिष्क्रियार्थानि[^123] द्रव्याणि समुपार्जयेत् ॥१०७ ॥
+भिक्षाटनोऽभि[^155]गच्छेत भिषजश्च विपश्चितः ।  
+ततो विनिष्क्रियार्थानि[^156] द्रव्याणि समुपार्जयेत् ॥१०७ ॥
 
-[^122]: "ख घ–भिक्षादानोपि"
+[^155]: # "ख घ–भिक्षादानोपि"
 
-[^123]: "क- घ–मयार्थानि"
+[^156]: # "क- घ–मयार्थानि"
 
 यश्च प्रीतमना दद्याद् आद्याद्भेषजं नरः ।  
 अश्रद्धया हि दत्तानि तान्यभोज्याणि भिक्षुभिः ॥१०८॥
@@ -2664,12 +2701,12 @@ The Presidency College,
 न त्वेव धर्ममुत्सृज्य कुर्यात्तेषां प्रतिक्रियाम् ॥११०॥
 
 स्वभावतो हि द्वन्द्वानि विप्रयान्त्युपयान्ति च ।  
-स्वभावतस्सर्वभावा[^83] भवन्ति न भवन्ति च ॥१११॥
+स्वभावतस्सर्वभावा[^111] भवन्ति न भवन्ति च ॥१११॥
 
 सागरस्योर्मिसदृशा विज्ञातव्या गुणात्मकाः ॥११२
 
 विद्यादेवं हि यो धीमांस् तत्ववित्तत्वदर्शनः ।  
-न स लिप्येत पापेन पद्मपत्रमिवाम्भसा[^6]
+न स लिप्येत पापेन पद्मपत्रमिवाम्भसा[^15]
 ॥११३
 
 एवं प्रयतितव्यं हि शुश्रूषार्थमतन्द्रितैः ।  
@@ -2678,18 +2715,18 @@ The Presidency College,
 नापराध्येत भिक्षोस्तु न चैवमवधीरयेत् ।  
 उत्तरं च न सन्दद्यात् क्रुद्धं चैव प्रसादयेत् ॥११५
 
-श्रेय एवाभिधातव्यं कर्तव्यं[^126] च प्रहृष्टवत् ।  
+श्रेय एवाभिधातव्यं कर्तव्यं[^159] च प्रहृष्टवत् ।  
 तूष्णीम्भावेन वै तत्र न क्रुद्धमभिसंवदेत् ॥११६
 
-[^126]: "ख–वक्तव्यं"
+[^159]: # "ख–वक्तव्यं"
 
-नाददीत[^127] परस्वानि न गृह्णीयादयाचितम् ।  
+नाददीत[^160] परस्वानि न गृह्णीयादयाचितम् ।  
 लब्धालब्धेन जीवेत तथैव परिपोषयेत् ॥११७
 
-[^127]: "अ– इदमर्धद्वयं नास्ति"
+[^160]: # "अ– इदमर्धद्वयं नास्ति"
 
 कोपिनं तु न याचेत ज्ञानविद्वेषकारितः ।  
-स्थावरेषुदयां कुर्याज् जङ्गमेषु च प्राणिषु॥११८
+स्थावरेषु दयां कुर्याज् जङ्गमेषु च प्राणिषु ॥११८
 
 यथाऽऽत्मनि तथाऽन्येषु समां दृष्टिं निपातयेत् ॥ ११८॥
 
@@ -2710,7 +2747,7 @@ The Presidency College,
 
 तथोपदिष्टं गुरुणा शिष्यस्य चरतो विधिम् ॥१२४
 
-न हि लोभः प्रभवति हिंसा वाऽपि तदात्मिका।  
+न हि लोभः प्रभवति हिंसा वाऽपि तदात्मिका ।  
 शास्त्रदर्शनमेतद्धि विहितं विश्वयोनिना ॥१२५
 
 यद्येतदेवं मन्येत शूद्रो ह्यपि च बुद्धिमान् ।  
@@ -2743,7 +2780,7 @@ The Presidency College,
 अनेन विधिना वाऽपि स्थावरेषु न संशयः ।  
 कायेन पद्भ्यां हस्ताभ्याम् अपराधात्तु मुच्यते ॥१३४॥
 
-अदुष्टंक्षपयेद्यस्तु सर्ववर्णेषु वाचयेत् ।  
+अदुष्टं क्षपयेद्यस्तु सर्ववर्णेषु वाचयेत् ।  
 तस्याप्यष्टगुणं विद्यात् प्रायश्चित्तं तदेव तु ॥१३५॥
 
 चतुर्गुणं कर्मकृते द्विगुणं वाक्प्रदूषिते ।  
@@ -2760,10 +2797,11 @@ The Presidency College,
 
 एवं प्रवर्तमानस्तु विनीतः प्रयतात्मवान् ।  
 
-निर्णयं पुण्यपापाभ्याम् अचिरेणोपगच्छति[^128] ॥१४०  
+
+निर्णयं पुण्यपापाभ्याम् अचिरेणोपगच्छति[^161] ॥१४०  
 शुश्रूषानिरतो नित्यम् अरिष्टान्युपलक्षयेत् ।
 
-[^128]: "सर्वेषु कोशेषु अत्रैबाध्यायसमाप्तिर्दृश्यते"
+[^161]: # "सर्वेषु कोशेषु अत्रैबाध्यायसमाप्तिर्दृश्यते"
 
 त्रैवार्षिकं द्विवार्षिकं वा वार्षिकं वा समुत्थितम् ॥ १४१॥
 
@@ -2771,9 +2809,9 @@ The Presidency College,
 सर्वांस्तदर्थान् वा विद्यात् तेषां चिह्नानि लक्षयेत् ॥ १४२ ॥
 
 पुरुषं हिरण्मयं यस्तु तिष्ठन्तं दक्षिणामुखम् ।  
-लक्षयेदुत्तरेणैव मृत्युस्त्रैवार्षिको भवेत्॥१४३॥
+लक्षयेदुत्तरेणैव मृत्युस्त्रैवार्षिको भवेत् ॥१४३॥
 
-शुद्धमण्डलमादित्यम् अरश्मिंसम्प्रपश्यतः ।  
+शुद्धमण्डलमादित्यम् अरश्मिं सम्प्रपश्यतः ।  
 संवत्सरद्वयेनैव तस्य मृत्युं समादिशेत्॥१४४॥
 
 ज्योत्स्नायामात्मनश्छायां छिद्रां यो हि प्रपश्यति ।  
@@ -2782,24 +2820,23 @@ The Presidency College,
 विशिरस्कां यदा च्छायां पश्येत् पुरुष आत्मनः ।  
 जानीयादात्मनो मृत्युं षाण्मसेनेह बुद्धिमान् ॥१४६॥
 
-कर्णौ[^129]पिधाय हस्ताभ्यां शब्दं न शृणुते यदि ।  
+कर्णौ[^79] पिधाय हस्ताभ्यां शब्दं न शृणुते यदि ।  
 जानीयादात्मनो मृत्युं मासेनैव विचक्षणः ॥१४७॥
 
-[^129]: "ख–अर्धद्वयं नास्ति"
-
 शवगन्धमुपाघ्राति अन्यद्वा सुरभिं नरः ।  
+
 
 देवतायतनस्थो वै सप्तरात्रेण मृत्युभाक्॥१४८॥
 
 कर्णनासापनयनं दन्तदृष्टिरिवागता ।  
-लुप्तसंज्ञं[^807] हि करणं सद्यो मृत्युं समादिशेत् ॥१४९॥
+लुप्तसञ्ज्ञं[^163] हि करणं सद्यो मृत्युं समादिशेत् ॥१४९॥
 
-[^807]: ॑# "ख– संज्ञानि पुष्पाणि सद्यो"
+[^163]: # "ख– सञ्ज्ञानि पुष्पाणि सद्यो"
 
 एवमेषामरिष्टानां पश्येदन्यतमं यदि ।  
-न[^130] तं कालं परीक्षेत यथाऽरिष्टंप्रकल्पितम् ॥१५०॥
+न[^164] तं कालं परीक्षेत यथाऽरिष्टं प्रकल्पितम् ॥१५०॥
 
-[^130]: "ख– ततः कालं परीक्षेत यथाकालं"
+[^164]: # "ख– ततः कालं परीक्षेत यथाकालं"
 
 अभ्यासेन तु कालस्य गच्छेत पुलिनं शुचिः ।  
 तत्र प्राणान् प्रमुञ्चेत तं हरिं मनसा स्मरन् ॥१५१॥
@@ -2816,8 +2853,9 @@ The Presidency College,
 मोदतेऽमरतुल्यात्मा सदाऽमरगणैस्सह ।  
 पतितश्च क्षये काले क्षणेन विमलद्युतिः ॥१५५॥
 
-वैश्यस्य बहुवित्तस्य कुलेऽग्य्रेबहुगोधने ।  
+वैश्यस्य बहुवित्तस्य कुलेऽग्य्रे बहुगोधने ।  
 अवाप्य तत्र वै जन्म स पूतो दैवकर्मणा ॥१५६॥  
+
 
 छन्दसा जागतेनैव प्राप्तोपनयनं ततः ।  
 क्षौमवस्त्रोपकरणं द्विजत्वं समवाप्य तु ॥१५७॥
@@ -2849,9 +2887,9 @@ The Presidency College,
 अवितृप्तविहारार्थो दिव्यान् भोगान् विहाय तु ॥१६६
 
 सञ्जायते नृपकुले गजाश्वरथसङ्कुले ।  
-पार्थिवीं श्रियमापन्नश् श्रीमान् धर्मपतिर्यथा[^131] ॥१६७
+पार्थिवीं श्रियमापन्नश् श्रीमान् धर्मपतिर्यथा[^165] ॥१६७
 
-[^131]: "ख-घ–धनपति"
+[^165]: # "ख-घ–धनपति"
 
 जन्मप्रभृति संस्कारं चौलोपनयनानि च ।  
 प्राप्य राजकुले तत्र यथावद्विधिपूर्वकम् ॥१६८
@@ -2886,11 +2924,11 @@ The Presidency College,
 सर्वांल्लोकाननुचरन् महर्द्धिरवभासयन् ॥१७७
 
 अथ पुण्यक्षयात्तस्मात् स्थाप्यते भुवि भारत ।  
-जायते च द्विजकुले वेदवेदाङ्गपारगे[^132]॥१७८
+जायते च द्विजकुले वेदवेदाङ्गपारगे[^166] ॥१७८
 
-[^132]: "सर्वेषु कोशेषु अस्तैवाध्यायसमाप्तिर्दृश्यते"
+[^166]: # "सर्वेषु कोशेषु अस्तैवाध्यायसमाप्तिर्दृश्यते"
 
-ततश्श्रुतिसमापन्नस् संस्कृतश्चयथाविधि ।  
+ततश्श्रुतिसमापन्नस् संस्कृतश्च यथाविधि ।  
 चौलोपनयनं तस्य यथावत् क्रियते द्विजैः ॥१७९
 
 ततोऽष्टमे स वर्षे तु व्रतोपनयनादिभिः ।  
@@ -2907,9 +2945,9 @@ The Presidency College,
 
 यजते विविधैर्यज्ञैर् जपयज्ञैस्तथैव च ।
 
-न्यायागतधनान्वेषी[^133] न्यायवृत्तस्तपोधनः ॥१८४
+न्यायागतधनान्वेषी[^167] न्यायवृत्तस्तपोधनः ॥१८४
 
-[^133]: "ख– नाजीवी"
+[^167]: # "ख– नाजीवी"
 
 सर्वभूतहितश्चैव सर्वशास्त्रविशारदः ।  
 स्वदारपरितुष्टात्मा ऋतुगामी जितेन्द्रियः ॥१८५
@@ -2918,11 +2956,11 @@ The Presidency College,
 स कालपरिणामात्तु संयुक्तः कालधर्मणा ॥१८६
 
 संस्कृतश्चाग्निहोत्रेण यथावद्विधिपूर्वकम् ।  
-सोमलोकमवाप्नोति देहन्यासान्न[^134] संशयः ॥१८७
+सोमलोकमवाप्नोति देहन्यासान्न[^168] संशयः ॥१८७
 
-[^134]: "क-घ–सेन"
+[^168]: # "क-घ–सेन"
 
-तत्र सोमप्रभैर्देवैर्अग्निष्वात्तैश्च भास्वरैः ।  
+तत्र सोमप्रभैर्देवैर् अग्निष्वात्तैश्च भास्वरैः ।  
 तथा वर्हिषदैश्चैव देवैराङ्गिरसैरपि ॥१८८
 
 विश्वेभिश्चैव देवेभिस् तथा ब्रह्मर्षिभिः पुनः ।  
@@ -2934,15 +2972,16 @@ The Presidency College,
 देवगन्धर्वसङ्कीर्णं विमानमधिरोहति ॥१९०॥
 
 सौम्यरूपा मनःकान्तास् तप्तकाञ्चनभूषणाः।  
-सोमकन्या विमानस्थं रमयन्ति मुदाऽन्विताः ॥१९१॥
+सोमकन्या विमानस्थं रमयन्ति मुदाऽन्विताः ॥ १९१॥
 
 स तत्र रमते प्रीतस् सह देवैस्सहर्षिभिः ।  
 लोकान् सर्वाननुचरन् दीप्ततेजा मनोजवः ॥१९२॥  
 
-सभां कामजवीं चापि नित्यमेवाभिगच्छति ।  
-सर्वलोकेश्वरमृषिं नमस्कृत्य[^135] पितामहम्॥१९३॥
 
-[^135]: "क- ख- घ–स्कर्तुं"
+सभां कामजवीं चापि नित्यमेवाभिगच्छति ।  
+सर्वलोकेश्वरमृषिं नमस्कृत्य[^169] पितामहम्॥१९३॥
+
+[^169]: # "क- ख- घ–स्कर्तुं"
 
 परमेष्ठिरनन्तश्रीर् लोकानां प्रभवाप्ययः।  
 यतस्सर्वाः प्रवर्तन्ते सुर्गप्रलयविक्रियाः ॥१९४॥
@@ -2969,20 +3008,19 @@ The Presidency College,
 
 यतिधर्ममुपाश्रित्य गुरुशुश्रूषणे रतः ।  
 
+
 अचिरेणैव कालेन श्रेयस्समधिगच्छति ॥२०२
 
 योगशास्त्रं च साङ्ख्यं च विदित्वा सोऽर्थतत्वतः ।  
 अनुज्ञातश्च गुरुणा यथाशास्त्रमवस्थितः ॥२०३
 
 पुण्यतीर्थानुसेवी च नदीनां पुलिनाश्रयः ।  
-शून्यागार[^808]निकेतश्च वनवृक्षगुहाशयः ॥२०४
-
-[^808]: # "ख–इदमर्धं नास्ति"
+शून्यागार[^133]निकेतश्च वनवृक्षगुहाशयः ॥२०४
 
 अरण्यानुचरो नित्यं वेदारण्यनिकेतनः ।  
 एकरात्रं द्विरात्रं वा न क्वचित् सज्जते द्विजः ॥२०५
 
-शीर्णपर्णपुटेवाऽपि वन्ये चरति भिक्षुकः ।  
+शीर्णपर्णपुटे वाऽपि वन्ये चरति भिक्षुकः ।  
 न भोगार्थमनुप्रेत्य यात्रामात्रं समश्नुते ॥२०६
 
 धर्मलब्धं समश्नाति न कामात् किञ्चिदश्नुते ।  
@@ -3004,17 +3042,15 @@ The Presidency College,
 स विसृज्य स्वकं देहं प्रविशेद्ब्रह्म शाश्वतम् ।  
 निरामयमनाद्यन्तं गुणसौम्यमचेतनम् ॥२१२
 
-निरक्षरमबीजं च निरिन्द्रियमजं तथा।  
+निरक्षरमबीजं च निरिन्द्रियमजं तथा ।  
 अजय्यमक्षरं यत्तद् अभेद्यं सूक्ष्ममेव च ॥२१३
 
 निर्गुणं च प्रकृतिमन्निर्विकारं च सर्वशः ।  
 भूतभव्यभविष्यस्य कालस्य परमेश्वरम् ॥२१४
 
-अव्यक्तं पुरुषं क्षेत्रम् आनन्त्याय प्रपद्यते[^809]॥२१४॥
+अव्यक्तं पुरुषं क्षेत्रम् आनन्त्याय प्रपद्यते[^15] ॥२१४॥
 
-[^809]: # "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-एवं स भिक्षुर्निर्वाणं प्राप्नुयादग्धकिल्बिषः।  
+एवं स भिक्षुर्निर्वाणं प्राप्नुयादग्धकिल्बिषः ।  
 इहस्थो देहमुत्सृज्य नीडं शकुनिवद्यथा ॥२१५॥
 
 सत्पथालम्बनादेव शूद्रः प्रोति सद्गतिम् ।  
@@ -3024,7 +3060,7 @@ The Presidency College,
 अनिर्वेदात्ततस्स्थानम् ईप्सितं प्रतिपद्यते ॥२१७॥
 
 सैषा गतिरनाद्यन्ता सर्वैरप्युपधारिता ।  
-तस्मांच्छूद्रैरनिर्वेदाच् छ्रद्दधानैस्तु नित्यदा ॥२१८॥
+तस्माञ्च्छूद्रैरनिर्वेदाच् छ्रद्दधानैस्तु नित्यदा ॥२१८॥
 
 वर्तितव्यं यथाशक्त्या यथा प्रोक्तं मनीपिभिः ॥२१९
 
@@ -3034,10 +3070,10 @@ The Presidency College,
 शुभकर्मसमाचारश् शुभमेवाप्नुते फलम् ।  
 तथाऽशुभसमाचारो ह्यशुभं समवाप्नुते ॥२२१
 
-तथा[^136] शुभसमाचारो ह्यशुभानि विवर्जयेत् \।  
+तथा[^172] शुभसमाचारो ह्यशुभानि विवर्जयेत् \।  
 शुभान्येव समादद्याद् य इच्छेद्भूतिमात्मनः ॥२२२
 
-[^136]: "अ-ख–नास्तीदमर्धम्"
+[^172]: # "अ-ख–नास्तीदमर्धम्"
 
 भूतिश्च नान्यतश्शक्या शूद्राणामिति निश्चयः ।  
 ऋते यतीनां शुश्रूषाम् इति सन्तो व्यवस्थिताः ॥२२३
@@ -3045,7 +3081,7 @@ The Presidency College,
 तस्मादागमसम्पन्नो भवेत् सुनियतेन्द्रियः ।  
 शक्यते ह्यागमादेव गतिं प्राप्तुमनामयाम् ॥२२४
 
-परा चैषागतिर्दृष्टा यामन्वेषन्ति साधवः ।  
+परा चैषा गतिर्दृष्टा यामन्वेषन्ति साधवः ।  
 यत्रामृतत्वं लभते त्यक्त्वा दुःखमनन्तकम् ॥२२५
 
 इमं हि धर्ममास्थाय येऽपि स्युः पापयोनयः ।  
@@ -3058,7 +3094,8 @@ The Presidency College,
 
 उपलभ्य तु विज्ञानं ज्ञानं वाऽप्यनसूयकः ।  
 
-तथैव वर्तेद्गुरुषुभूयांसं वा समाहितः ॥२२८॥
+
+तथैव वर्तेद्गुरुषु भूयांसं वा समाहितः ॥२२८॥
 
 यथावमन्येत गुरुं तथा तेषु प्रवर्तते ।  
 व्यर्थमस्य श्रुतं भवति ज्ञानमज्ञानतां ब्रजेत् ॥२२९॥
@@ -3073,17 +3110,17 @@ The Presidency College,
 फलं ज्ञानस्य हि शमः प्रशमाय यतेत् सदा ॥२३२॥
 
 उपशान्तेन दान्तेन क्षमायुक्तेन सर्वदा ।  
-शुश्रूषा प्रतिपत्तव्या[^810] नित्यमेवानसूयता ॥२३३॥
+शुश्रूषा प्रतिपत्तव्या[^173] नित्यमेवानसूयता ॥२३३॥
 
-[^810]: ॑॑# "ख– कर्तव्या"
+[^173]: # "ख– कर्तव्या"
 
-धृत्या शिश्नोदरं रक्षेत् पाणिपादं च चक्षुषा।  
+धृत्या शिश्नोदरं रक्षेत् पाणिपादं च चक्षुषा ।  
 इन्द्रियार्थांश्च मनसा मनो बुद्धौ समाधेत् ॥२३४॥
 
-धृत्याऽऽसीत ततो गत्वा शुद्धदेशं सुसंवृतम्।  
-लब्ध्वाऽऽसनं[^137] यथा दृष्टं विधिपूर्वं समाचरेत् ॥२३५॥
+धृत्याऽऽसीत ततो गत्वा शुद्धदेशं सुसंवृतम् ।  
+लब्ध्वाऽऽसनं[^174] यथा दृष्टं विधिपूर्वं समाचरेत् ॥२३५॥
 
-[^137]: "ख– बध्वाऽऽसनम"
+[^174]: # "ख– बध्वाऽऽसनम"
 
 ज्ञानयुक्तस्तथा देवं हृदिस्थमुपलक्षयेत् ।  
 आदीप्यमानं वपुषा विधूममनलं यथा ॥२३६॥
@@ -3093,7 +3130,7 @@ The Presidency College,
 संस्थितं हृदये पश्येद् ईशं शाश्वतमव्ययम् ॥२३७॥
 
 न चायुक्तेन शक्योऽयं द्रष्टुं देहे महेश्वरः ।  
-युक्तस्तु पश्यते बुद्ध्यासंनिवेश्य मनो हृदि ॥ २३८॥
+युक्तस्तु पश्यते बुद्ध्या सन्निवेश्य मनो हृदि ॥ २३८॥
 
 अथ त्वेवं न शक्नोति कर्तुं हृदयधारणम् ।  
 यथासाङ्ख्यमुपासीत यथावद्योगमास्थितः ॥२३९॥
@@ -3102,14 +3139,14 @@ The Presidency College,
 पञ्च भूतविशेषाञ्च मनश्चैव तु षोडश ॥२४०॥
 
 तन्मात्राण्यपि पञ्चैव मनोऽहङ्कार एव च ।  
-अष्टमं चाप्यथाव्यक्तम् एताः प्रकृतिसंज्ञिताः ॥२४१॥
+अष्टमं चाप्यथाव्यक्तम् एताः प्रकृतिसञ्ज्ञिताः ॥२४१॥
 
-एताः प्रकृतयश्चाष्टौविकाराश्चापि षोडश ॥२४२
+एताः प्रकृतयश्चाष्टौ विकाराश्चापि षोडश ॥२४२
 
-एवमेतदिहस्थेन[^138] विज्ञेयं तत्त्वबुद्धिना ।  
-एवं[^38] वर्ष्मसमुत्तीर्य तीर्णोभवति नान्यथा ॥२४३
+एवमेतदिहस्थेन[^175] विज्ञेयं तत्त्वबुद्धिना ।  
+एवं[^54] वर्ष्म समुत्तीर्य तीर्णो भवति नान्यथा ॥२४३
 
-[^138]: "ख– सर्वमे"
+[^175]: # "ख– सर्वमे"
 
 परिसङ्क्यानमेवैतन्मन्तव्यं ज्ञानबुद्धिना ॥२४३॥
 
@@ -3118,40 +3155,41 @@ The Presidency College,
 
 निष्कलं केवलं भवति शुद्धतत्त्वार्थतत्त्ववित् ॥२४५  
 
+
 भिक्षुकाश्रममास्थाय शुश्रूषारितो बुधः ।  
 शूद्रो निर्मुच्यते सत्त्वसंसर्गादेव नान्यथा ॥२४६
 
 सत्सन्निकर्षे परिवर्तितव्यं  
 विद्याधिकाश्चापि निषेवितव्याः ।  
 सवर्णतां गच्छति सन्निकर्षा-  
-न्नीलःखगो मेरुमिवाश्रयन् वै ॥२४७
+न्नीलः खगो मेरुमिवाश्रयन् वै ॥२४७
 
-भीष्मः–
+**भीष्मः–**
 
 इत्येवमाख्याय महामुनिस्तदा  
-चतुर्षुवर्णेषु विधानमर्थवित् ।  
+चतुर्षु वर्णेषु विधानमर्थवित् ।  
 शुश्रूषया वृत्तगतिं समाधिना  
 समाधियुक्तः प्रययौ स्वमाश्रमम् ॥२४८
 
-**इति श्रीमहाभारते शतसहस्रिकायांसंहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चतुरशीतितमोऽध्यायः ॥ ८४ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि चतुरशीतितमोऽध्यायः ॥ ८४ ॥  
 \[ अस्मिन्नध्याये २४८ श्लोकाः \]**
 
 **—————**
 
-॥ पञ्चाशीतितमोऽध्यायः ॥
+**॥ पञ्चाशीतितमोऽध्यायः ॥**
 
   भीष्मेण युधिष्ठिरं प्रति सकलसेव्यताप्रयोजकगुणप्रतिपादकेन्द्रमातलिसंवादानुवादः ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 केषां देवा महाभागास् सन्नमन्ते महात्मनाम् ।  
-लोकेऽस्मिस्तानृषीन् सर्वाञ् श्रोतुमिच्छामितत्त्वतः[^140]॥१
+लोकेऽस्मिस्तानृषीन् सर्वाञ् श्रोतुमिच्छामि तत्त्वतः[^177]॥१
 
-[^140]: "क-घ–सत्तम"
+[^177]: # "क-घ–सत्तम"
 
-भीष्मः–
+**भीष्मः–**
 
 इतिहासमिमं विप्राः कीर्तयन्ति पुराविदः ।  
 अस्मिन्नर्थे महाप्राज्ञास् तं निबोध युधिष्ठिर ॥२
@@ -3162,60 +3200,60 @@ The Presidency College,
 श्रिया परमया युक्तं रथस्थं हरिवाहनम् ।  
 मातलिः प्राञ्जलिर्भूत्वा देवमिन्द्रमुवाच ह ॥४
 
-मातलिः–
+**मातलिः–**
 
 नमस्कृतानां सर्वेषां भगवंस्त्वं पुरस्कृतः ।  
 येषां लोके नमस्कुर्यात् तान् ब्रवीतु भवान् मम ॥५
 
-भीष्मः–
+**भीष्मः–**
 
 तस्य तद्वचनं श्रुत्वा देवराजश्शचीपतिः ।
 
 यन्तारं परिपृच्छन्तं तमिन्द्रः प्रत्युवाच ह ॥६
 
-इन्द्रः–
+**इन्द्रः–**
 
 धर्मं चार्थं च कामं च येषां चिन्तयतां मतिः ।  
 नाधर्मे वर्तते नित्यं तान् नमस्यामि मातले ॥७
 
 ये रूपगुणसम्पन्नाः प्रमदाहृदयङ्गमाः ।  
-निवृत्ताः कामभोगेषु तान् नमस्यामि मातले।८
+निवृत्ताः कामभोगेषु तान् नमस्यामि मातले ।८
 
-स्वेषुभोगेषु सन्तुष्टास् सुवाचो वचनक्षमाः ।  
-अमानका[^141]माश्चार्घार्हास् तान् नमस्यामि मातले ॥९
+स्वेषु भोगेषु सन्तुष्टास् सुवाचो वचनक्षमाः ।  
+अमानका[^178]माश्चार्घार्हास् तान् नमस्यामि मातले ॥९
 
-[^141]: "क-घ–अजातका"
+[^178]: # "क-घ–अजातका"
 
 धनं विद्यास्तथैश्वर्यं येषां न चलयेन्मतिम् ।  
 चलितां ये निगृह्णन्ति तान् नित्यं पूजयाम्यहम् ॥१०
 
-इष्टैर्दारैरुपेतानां[^142] शुचीनामाग्निहोत्रिणाम् ।  
+इष्टैर्दारैरुपेतानां[^179] शुचीनामाग्निहोत्रिणाम् ।  
 चतुष्पादकुटुम्बानां मातले प्रणमाम्यहम् ॥११
 
-[^142]: "ख–र्दानैरुपेतानां"
+[^179]: # "ख–र्दानैरुपेतानां"
 
 महतस्तपसः प्राप्तौ धनस्य विपुलस्य च ।  
 त्यागस्तस्य न वै कार्यो योऽऽत्मानं नावबुध्यते ॥१२
 
 येषामर्थस्तथा कामो धर्ममूलविवर्धितः ।  
-धर्मार्थौयस्य नियतौ तान् नमस्यामि मातले ॥१३
+धर्मार्थौ यस्य नियतौ तान् नमस्यामि मातले ॥१३
 
-धर्ममूलार्थ[^143]कामानां ब्राह्मणानां गवामपि ।
+धर्ममूलार्थ[^180]कामानां ब्राह्मणानां गवामपि ।
 
-[^143]: "ख–अर्धत्रयं नास्ति"
+[^180]: # "ख–अर्धत्रयं नास्ति"
 
 पतिव्रतानां नारीणां प्रणामं प्रकरोम्यहम् ॥१४
 
 ये भुक्त्वा मानुषान् भोगान् पूर्वे वयसि मातले ।  
-तपसा स्वर्गमायान्ति शश्वत् तान् पूजयाम्यहम्॥१५
+तपसा स्वर्गमायान्ति शश्वत् तान् पूजयाम्यहम् ॥१५
 
 असम्भोगान्नचासक्तान् धर्मनित्याञ्जितेन्द्रियान् ।  
-संन्यस्तानचलप्रख्यान् मनसा पूजयामि तान्॥१६
+सन्न्यस्तानचलप्रख्यान् मनसा पूजयामि तान् ॥१६
 
 ज्ञानप्रसन्नविद्यानां निरूढं धर्ममिच्छताम् ।  
 परैः कीर्तितशौचानां मातले तान् नमाम्यहम् ॥१७
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चाशीतितमोऽध्यायः ॥ ८५ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि पञ्चाशीतितमोऽध्यायः ॥ ८५ ॥  
 \[ अस्मिन्नध्याये १७ श्लोकाः \]**
@@ -3226,20 +3264,20 @@ The Presidency College,
 
   भीष्मेण युधिष्ठिरं प्रति तटाकनिर्माणफलकथनम् ॥ १ ॥ तथा वृक्षरोपणफलकथनम् ॥ २ ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 संस्कृतानां तटाकानां यत् फलं कुरुपुङ्गव ।  
 तदहं श्रोतुमिच्छामि त्वत्तोऽद्य भरतर्षभ ॥१
 
-भीष्मः–
+**भीष्मः–**
 
-सुप्रदर्शोधनपतिश् चित्रधातुविभूषितः ।  
+सुप्रदर्शो धनपतिश् चित्रधातुविभूषितः ।  
 त्रिषु लोकेषु सर्वत्र पूजितो यस्तटाकवान् ॥२
 
 इह चामुत्र सदनं पुत्रीयं वित्तवर्धनम् ।  
-कीर्तिसञ्जननं[^144] श्रेष्ठं तटाकानां निवेशनम् ॥३
+कीर्तिसञ्जननं[^181] श्रेष्ठं तटाकानां निवेशनम् ॥३
 
-[^144]: "अ-क-घ–नास्तीदमर्धम्"
+[^181]: # "अ-क-घ–नास्तीदमर्धम्"
 
 धर्मस्यार्थस्य कामस्य फलमाहुर्मनीषिणः ।  
 तटाकं सुकृतं देशे क्षेत्रे देशसमाश्रयम् ॥४
@@ -3250,28 +3288,29 @@ The Presidency College,
 देवा मनुष्या गन्धर्वाः पितरोरगराक्षसाः ।  
 स्थावराणि च भूतानि संश्रयन्ति जलाशयम् ॥६  
 
+
 तस्मात्तांस्ते प्रवक्ष्यामि तटाके ये गुणास्स्मृताः ।  
-या च तत्र फलप्राप्ती ऋषिभिस्समुदाहृता॥७
+या च तत्र फलप्राप्ती ऋषिभिस्समुदाहृता ॥७
 
 वर्षमात्रं तटाके तु सलिलं यत्र तिष्ठति ।  
-अग्निहोत्रफलं तस्य फलमाहुर्मनीषिणः[^145] ॥८
+अग्निहोत्रफलं तस्य फलमाहुर्मनीषिणः[^182] ॥८
 
-[^145]: "अ क घ–इतश्चत्वारः पादा न सन्ति"
+[^182]: # "अ क घ–इतश्चत्वारः पादा न सन्ति"
 
 निदाघकाले सलिलं तटाके यस्य तिष्ठति ।  
 वाजपेयफलं तस्य फलं वै ऋषयोऽब्रुवन् ॥९
 
 सकुलं तारयेद्वंशं यस्य खाते जलाशये ।  
-गावः पिबन्ति पानीयं साधवश्च नरास्सदा॥१०
+गावः पिबन्ति पानीयं साधवश्च नरास्सदा ॥१०
 
 तटाके यस्य गावस्तु पिबन्ति तृषिता जलम् ।  
-मृगपक्षिमनुष्याश्च सोऽश्वमेधफलं लभेत्॥११
+मृगपक्षिमनुष्याश्च सोऽश्वमेधफलं लभेत् ॥११
 
 यत् पिबन्ति जलं तत्र स्त्रायन्ते विश्रमन्ति च ।  
-तटाककर्तुस्तत् सर्वं प्रेत्यानन्ताय कल्पते॥१२
+तटाककर्तुस्तत् सर्वं प्रेत्यानन्ताय कल्पते ॥१२
 
 दुर्लभं सलिलं तात विशेषेण परन्तप ।  
-पानीयस्य प्रदानेन सिद्धिर्भवति शाश्वती॥१३
+पानीयस्य प्रदानेन सिद्धिर्भवति शाश्वती ॥१३
 
 तिलान् ददति पानीयं दीपमन्नं प्रतिश्रयम् ।  
 बान्धवैस्सह मोदध्वम् एतत् प्रेतेषु दुर्लभम् ॥१४
@@ -3279,21 +3318,23 @@ The Presidency College,
 सर्वदानैर्गुरुतरं सर्वदानैर्विशिष्यते ।  
 पानीयं नरशार्दूल तस्माद्दातव्यमेव हि ॥१५
 
-एवमेतत् तटाकेषुकीर्तितं फलमुत्तमम् ।  
-अत्रऊर्ध्वं प्रवक्ष्यामि वृक्षाणामपि रोपणे ॥१६
+
+
+एवमेतत् तटाकेषु कीर्तितं फलमुत्तमम् ।  
+अत्र ऊर्ध्वं प्रवक्ष्यामि वृक्षाणामपि रोपणे ॥१६
 
 स्थावराणां तु भूतानां जातयः षट्प्रकीर्तिताः ।  
-वृक्षगुल्मलतावल्लयस् त्वक्सारतृणवीरुधः[^146] ॥१७
+वृक्षगुल्मलतावल्लयस् त्वक्सारतृणवीरुधः[^183] ॥१७
 
-[^146]: "ख–जातयः"
+[^183]: # "ख–जातयः"
 
 एता जात्यस्तु वृक्षाणाम् एषां रोपगुणास्त्विमे ।  
 पनसाम्रादयो वृक्षा गुल्मा मन्दारपूर्वकाः ॥१८
 
-नागिकामलियावल्ल्यो[^147] मालतीत्यादिकालताः ।  
-वेणुक्रमुकत्वक्सारास् सस्यानि तृणजातयः॥१९
+नागिकामलियावल्ल्यो[^184] मालतीत्यादिकालताः ।  
+वेणुक्रमुकत्वक्सारास् सस्यानि तृणजातयः ॥१९
 
-[^147]: "ख–नागकामरिचावल्लयो"
+[^184]: # "ख–नागकामरिचावल्लयो"
 
 कीर्तिश्च मानुषे लोके प्रेत्य चैव शुभं फलम् ।  
 लभ्यते नाकपृष्ठे च पितृभिश्च महीयते ॥२०
@@ -3307,9 +3348,11 @@ The Presidency College,
 परलोकगतस्स्वर्गे लोकांश्चाप्नोति सोऽव्ययान् ॥२२॥
 
 पुष्पैस्सुरगणान् वृक्षाः फलैश्चापि तथा पितॄन् ।  
-छायया चातिर्थीस्तात पूजयन्ति महीरुहाः॥२३॥
+छायया चातिर्थीस्तात पूजयन्ति महीरुहाः ॥२३॥
 
 किन्नरोरगरक्षांसि देवगन्धर्वमानवाः ।  
+
+
 
 तथा ऋषिगणाश्चैव संश्रयन्ते महीरुहान् ॥२४ ॥
 
@@ -3323,12 +3366,12 @@ The Presidency College,
 तटाककृद्वृक्षरोपी इष्टयज्ञश्च यो द्विजः ।  
 एते स्वर्गे महीयन्ते ये चान्ये सत्यवादिनः ॥२७॥
 
-तस्मात् तटाकं कुर्वीत आरामांश्चापि योजयेत्[^811] ।  
+तस्मात् तटाकं कुर्वीत आरामांश्चापि योजयेत्[^185] ।  
 यजेच्च विविधैर्यज्ञैस् सत्यं च विधिवद्वदेत् ॥२८॥
 
-[^811]: # "ख–रोपयेत्"
+[^185]: # "ख–रोपयेत्"
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि षडशीतितमोऽध्यायः ॥ ८६ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि षडशीतितमोऽध्यायः ॥ ८६ ॥  
 \[ अस्मिन्नध्याये २८॥ श्लोकाः \]**
@@ -3339,12 +3382,12 @@ The Presidency College,
 
   भीष्मेण युधिष्ठिरं प्रति गृहस्थधर्मप्रतिपादकपृथिवीवासुदेवसंवादानुवादः ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 गार्हस्थ्यं धर्ममखिलं प्रब्रूहि भरतर्षभ ।  
 वृद्धिमाप्नोति किं कृत्वा मनुष्य इह पार्थिव ॥१
 
-भीष्मः–
+**भीष्मः–**
 
 अत्र ते वर्तयिष्यामि पुरावृत्तं जनाधिप ।  
 वासुदेवस्य संवादं पृथिव्याश्चैव भारत ॥२
@@ -3352,58 +3395,58 @@ The Presidency College,
 संस्तूय पृथिवीं देवीं वासुदेवः प्रतापवान् ।  
 पप्रच्छ भरतश्रेष्ठ यदेतत् पृच्छसेऽद्य माम् ॥३
 
-श्रीभगवान्–
+**श्रीभगवान्–**
 
 गार्हस्थ्यं धर्ममाश्रित्य मया वा मद्विधेन वा ।  
 किमवश्यं धरे कार्यं किं कृत्वा वा सुखं भवेत् ॥४
 
-पृथिवी–
+**पृथिवी–**
 
 ऋषयः पितरो देवा मनुष्याश्चैव माधव ।  
-पूज्याश्चैवा[^148]र्चनीयाश्च यथा वैतन्निबोध मे ॥५
+पूज्याश्चैवा[^186]र्चनीयाश्च यथा वैतन्निबोध मे ॥५
 
-[^148]: "ख– पूज्या गृहस्थाश्रमिणा यथा"
+[^186]: # "ख– पूज्या गृहस्थाश्रमिणा यथा"
 
 सदा यज्ञेन देवांश्च आतिथ्येन मानवान् ।
 
-छन्दतस्तर्पणेनापि पितॄन्युञ्जन्ति नित्यशः ॥६
+छन्दतस्तर्पणेनापि पितॄन् युञ्जन्ति नित्यशः ॥६
 
 तेन ह्यृषिगणाः प्रीता ब्रह्मचर्येण चानघ ।  
-नित्यमग्निंपरिचरेद् अभुक्त्वा बलिकर्म च ॥७
+नित्यमग्निं परिचरेद् अभुक्त्वा बलिकर्म च ॥७
 
 कुर्यात्तथैव देवान् वै प्रियं मे मधुसूदन ।  
 कुर्यादहरहश्श्राद्धम् अन्नाद्येनोदकेन वा ॥८
 
 पयोमूलफलैर्वाऽपि पितॄणां प्रीतिमावहेत् ।  
-सिद्धस्य वैश्वदेवस्य कुर्यादग्नौयथाविधि ॥९
+सिद्धस्य वैश्वदेवस्य कुर्यादग्नौ यथाविधि ॥९
 
-आग्नीषोमं[^149] वैश्वदेवं धान्वन्तर्यञ्च यद्धविः ।  
+आग्नीषोमं[^187] वैश्वदेवं धान्वन्तर्यञ्च यद्धविः ।  
 प्रजानां पतये चैव पृथग्धोमो विधीयते ॥१०
 
-[^149]: "ख–अग्निष्टोमं + धन्वन्तरमनन्तरम्"
+[^187]: # "ख–अग्निष्टोमं + धन्वन्तरमनन्तरम्"
 
 तथैव चानुपूर्व्येण बलिकर्म प्रयोजयेत् ।  
 दक्षिणायां यमायेह प्रतीच्यां वरुणाय च ॥११
 
 सोमाय चाप्युदीच्यां वै वास्तुमध्ये द्विजातये ।  
-धन्वन्तरेः प्रागुदीच्यां प्राच्यां[^150] शक्राय माधव ॥१२
+धन्वन्तरेः प्रागुदीच्यां प्राच्यां[^188] शक्राय माधव ॥१२
 
-[^150]: "ख–इतः पादद्वयं नास्ति"
+[^188]: # "ख–इतः पादद्वयं नास्ति"
 
-मनुद्भ्यइति च प्राहुर् बलि द्वारे गृहस्य वै ।  
-मरुद्भ्यो[^151] दैवतेभ्यश्च बलिमन्तर्गृहे हरेत् ॥१३
+मनुद्भ्य इति च प्राहुर् बलि द्वारे गृहस्य वै ।  
+मरुद्भ्यो[^189] दैवतेभ्यश्च बलिमन्तर्गृहे हरेत् ॥१३
 
-[^151]: "क-ख-घ– ग्रहेभ्यो देवताभ्यश्च"
+[^189]: # "क-ख-घ– ग्रहेभ्यो देवताभ्यश्च"
 
 तथैव विश्वेदेवेभ्यो बलिमाकाशतो हरेत् ।  
 निशाचरेभ्यो भूतेभ्यो बलिं नक्तं तथा हरेत् ॥१४
 
-एवं कृत्वा बलिं सम्यग् दद्याद्भिक्षाद्वयं[^152] तथा ।  
-अलाभे ब्राह्मणस्याग्नावग्र्यमन्नं[^153] समुत्क्षिपेत् ॥१५
+एवं कृत्वा बलिं सम्यग् दद्याद्भिक्षाद्वयं[^190] तथा ।  
+अलाभे ब्राह्मणस्याग्नावग्र्यमन्नं[^191] समुत्क्षिपेत् ॥१५
 
-[^152]: "अ-क-घ– दद्याद्भिक्षाद्वयं तथा"
+[^190]: # "अ-क-घ– दद्याद्भिक्षाद्वयं तथा"
 
-[^153]: "क- घ–ग्नौबलिमन्न समुत्क्षिपेत्"
+[^191]: # "क- घ–ग्नौ बलिमन्न समुत्क्षिपेत्"
 
 यदा श्राद्धं पितृभ्यश्च दातुमिच्छेत मानवः ।  
 तदा पश्चात् प्रकुर्वीत निवृत्ते श्राद्धकर्मणि ॥१६
@@ -3417,12 +3460,12 @@ The Presidency College,
 अनित्यं हि स्थितो यस्मात् तस्मादतिथिरुच्यते ॥१८॥
 
 आचार्यस्य पितुश्चैव सख्युराप्तस्य चातिथेः ।  
-इदमस्ति[^154] गृहे नित्यम् इति मेध्यं निवेदयेत् ॥१९॥
+इदमस्ति[^192] गृहे नित्यम् इति मेध्यं निवेदयेत् ॥१९॥
 
-[^154]: "ख–इदमस्मिन् गृहे द्रव्यमिति नित्यं घ– इदमस्ति गृहे मह्यमिति नित्यं"
+[^192]: # "ख–इदमस्मिन् गृहे द्रव्यमिति नित्यं घ– इदमस्ति गृहे मह्यमिति नित्यं"
 
 ते यद्वदेयुस्तत् कुर्याद् इति धर्मो विधीयते ।  
-गृहस्थः पुरुषःकृष्ण शिष्टाशी च सदा भवेत् ॥२०॥
+गृहस्थः पुरुषः कृष्ण शिष्टाशी च सदा भवेत् ॥२०॥
 
 राजर्त्विजौ स्नातकं च गुरुं श्वशुरमेव च ।  
 अर्चयेन्मधुपर्केण परिसंवत्सरोपितान् ॥२१ ॥
@@ -3432,13 +3475,13 @@ The Presidency College,
 वैश्वदेवं हि नामैतत् सायं प्रातर्विधीयते ॥२२॥
 
 एतांस्तु धर्मान् गार्हस्थ्ये यः कुर्यादनसूयकः ।  
-स[^155] इहार्द्धिंपरां प्राप्य स्वर्गलोके[^156] महीयते ॥२३॥
+स[^193] इहार्द्धिं परां प्राप्य स्वर्गलोके[^194] महीयते ॥२३॥
 
-[^155]: "ख–इहार्थान् पुरुषः प्राप्य ब्रह्मलोके"
+[^193]: # "ख–इहार्थान् पुरुषः प्राप्य ब्रह्मलोके"
 
-[^156]: "क-घ–इतः अर्धचतुष्टयं नास्ति"
+[^194]: # "क-घ–इतः अर्धचतुष्टयं नास्ति"
 
-भीष्मः–
+**भीष्मः–**
 
 इति भूमेर्वचश्श्रुत्वा वासुदेवः प्रतापवान् ।  
 तथा चकार सततं त्वमप्येवं समाचर ॥२४॥
@@ -3446,7 +3489,7 @@ The Presidency College,
 एतद् गृहस्थधर्मं तु चिन्तयानो जनाधिप ।  
 इह लोके यशः प्राप्य प्रेत्य स्वर्गमवाप्स्यसि ॥२५॥
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि सप्ताशीतितमोऽध्यायः ॥ ८७ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि सप्ताशीतितमोऽध्यायः ॥ ८७ ॥  
 \[ अस्मिन्नध्याये २५ ॥ श्लोकाः \]**
@@ -3457,53 +3500,53 @@ The Presidency College,
 
   भीष्मेण युधिष्ठिरं प्रति । पुष्पधूपदीपदानादिप्रशंसापरबलिशुक्रसंवादानुवादः ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 आलोकदानं नामैतत् कीदृशं भरतर्षभ ।  
 कथमेतत् समुत्पन्नं फलं चात्र ब्रवीहि मे ॥१
 
-भीष्मः–
+**भीष्मः–**
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
 मनोः प्रजापतेर्वादं सुवर्णस्य च भारत ॥२
 
 तपस्वी कश्चिदभवत् सुवर्णो नाम नामतः ।  
-वर्णतो हेमवर्णस्स सुवर्ण इति विश्रुतः[^157] ॥३
+वर्णतो हेमवर्णस्स सुवर्ण इति विश्रुतः[^195] ॥३
 
-[^157]: "ख–तं विदुः"
+[^195]: # "ख–तं विदुः"
 
-वृत्तशीलगुणोपेतस्[^158] स्वाध्यायोपरमं गतः ।  
+वृत्तशीलगुणोपेतस्[^196] स्वाध्यायोपरमं गतः ।  
 बहून् स्ववंशप्रभवान् समतीतस्स्वकैर्गुणैः ॥४
 
-[^158]: "क- घ– गुणशील + यपरमङ्गतः ख – कुल + येपरमं"
+[^196]: # "क- घ– गुणशील + यपरमङ्गतः ख – कुल + येपरमं"
 
 स कदाचिन्मनुं विप्रो ददर्शोपससर्प च ।  
 कुशलप्रश्नमन्योन्यं तौ च तत्र प्रचक्रतुः ॥५
 
 ततस्तौ सिद्धसङ्कल्पौ मेरौ काञ्चनपर्वते ।
 
-देवर्षिभिस्सदा जुष्टे सहितौ संन्यषीदताम् ॥६
+देवर्षिभिस्सदा जुष्टे सहितौ सन्न्यषीदताम् ॥६
 
 कथयामासतुस्तत्र कथां नानाविधाश्रयाम् ।  
 ब्रह्मदेवर्षिदैत्यानां पुराणानां महात्मनाम् ॥७
 
 सुवर्णस्त्वत्रवीद्वाक्यं मनुं स्वायम्भुवं प्रभुम् ॥७॥
 
-सुवर्णः–
+**सुवर्णः–**
 
-हितार्थं सर्वभूतानां प्रश्नं[^159] मे वक्तुमर्हसि ॥८
+हितार्थं सर्वभूतानां प्रश्नं[^197] मे वक्तुमर्हसि ॥८
 
-[^159]: "घ–धम"
+[^197]: # "घ–धम"
 
-सुमनोगन्धधूपाद्यैर्[^160] इज्यन्ते दैवतानि च ।  
+सुमनोगन्धधूपाद्यैर्[^198] इज्यन्ते दैवतानि च ।  
 किमेतत् फलमुत्पन्नं फलं योगं च शंस मे ॥९
 
-[^160]: "घ–धूमदीपा + नियत्"
+[^198]: # "घ–धूमदीपा + नियत्"
 
-मनुः–
+**मनुः–**
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
-शुक्रस्य च बलेश्चैव संवादं वै समागमे॥१०
+शुक्रस्य च बलेश्चैव संवादं वै समागमे ॥१०
 
 बलेर्वैरोचनस्येह त्रैलोक्यमनुशासतः ।  
 समीपमाजगामाशु शुक्रो भृगुकुलोद्वहः ॥११
@@ -3516,12 +3559,13 @@ The Presidency College,
 
 ततः पप्रच्छ दैत्येन्द्रः कवीन्द्रं प्रश्नमुत्तमम् ॥१३॥  
 
-बलिः–
+
+**बलिः–**
 
 सुमनोधूपदीपानां किं फलं ब्रह्मवित्तम ।  
 प्रदानस्य द्विजश्रेष्ठ तद्भवान् वक्तुमर्हति ॥१४॥
 
-शुक्रः–
+**शुक्रः–**
 
 अग्नीषोमादिसृष्टौ तु विष्णोस्सर्वात्मनः प्रभोः ।  
 तपः पूर्वं समुत्पन्नं धर्मस्तस्मादनन्तरम् ॥१५॥
@@ -3532,12 +3576,12 @@ The Presidency College,
 अमृतं च विषं चैव याश्चान्यास्तुल्यजातयः ॥१७
 
 अमृतं मनसः प्रीतिं रक्षां पुष्टिं तथैव च ।  
-मनो ग्लपयते तीव्रं विषं गन्धेन सर्वशः॥१८
+मनो ग्लपयते तीव्रं विषं गन्धेन सर्वशः ॥१८
 
 अमृतं मङ्गलं विद्धि महद्विषममङ्गलम् ।  
-ओषध्यो ह्यमृतं सर्वं विषंतेजोग्निसम्भवम्[^161] ॥१९
+ओषध्यो ह्यमृतं सर्वं विषंतेजोग्निसम्भवम्[^199] ॥१९
 
-[^161]: "घ -ख–तोयाग्नि"
+[^199]: # "घ -ख–तोयाग्नि"
 
 अमृतं मनो ह्लादयति श्रियं चैव ददाति च ।  
 तस्मात् सुमनसः प्रोक्ता नरैस्सुकृतकर्मभिः ॥२०
@@ -3553,14 +3597,14 @@ The Presidency College,
 ओषध्यो बहुवीर्याश्च बहुरूपास्तथैव च ॥२३
 
 याज्ञियानां च वृक्षाणां याज्ञीयाः कुसुमोच्चयाः ।  
-आसुराणि[^162] च माल्यानि दैवतेभ्यो हितानि च ॥२४
+आसुराणि[^200] च माल्यानि दैवतेभ्यो हितानि च ॥२४
 
-[^162]: "ख–अर्धचतुष्टयं नास्ति"
+[^200]: # "ख–अर्धचतुष्टयं नास्ति"
 
 राक्षसानां सुराणां च यक्षाणां च तथा प्रियाः ।  
-पितॄणां मानुषानां च कान्ता[^163] यास्त्वनुपूर्वशः ॥२५
+पितॄणां मानुषानां च कान्ता[^201] यास्त्वनुपूर्वशः ॥२५
 
-[^163]: "क -घ–प्रब्रूमस्त्वनु"
+[^201]: # "क -घ–प्रब्रूमस्त्वनु"
 
 वन्या ग्राम्याश्च हि तथा कृष्टोप्ताः पर्वताश्रयाः ।  
 अकण्टकाः कण्टकिन्यो गन्धरूपरसान्विताः ॥२६
@@ -3576,14 +3620,15 @@ The Presidency College,
 
 गन्धर्वनागयक्षेभ्यस् तानि दद्याद्विचक्षणः ॥२९॥
 
-ओषध्यो रक्तपुष्पास्तु कर्कशाः[^164]कण्टकाङ्किताः ।  
+ओषध्यो रक्तपुष्पास्तु कर्कशाः[^202] कण्टकाङ्किताः ।  
 
-[^164]: "क- घ–कटुकाः ख– करकाः कण्टकान्विताः"
 
-शत्रूणामभिचारार्थम् अथर्वसु निदर्शिताः॥३०॥
+[^202]: # "क- घ–कटुकाः ख– करकाः कण्टकान्विताः"
+
+शत्रूणामभिचारार्थम् अथर्वसु निदर्शिताः॥ ३०॥
 
 तीक्ष्णवीर्यास्तु भूतानां दुरालम्भास्सकण्टकाः ।  
-रक्तभूयिष्ठवर्णाश्च कृष्णरक्षोगणेष्विह॥३१॥
+रक्तभूयिष्ठवर्णाश्च कृष्णरक्षोगणेष्विह ॥३१॥
 
 मनोहृदयनन्दिन्यो विमर्दे मधुराश्च याः ।  
 चारुरूपास्सुमनसो मनुष्याणां स्मृता विभो ॥३२॥
@@ -3598,14 +3643,14 @@ The Presidency College,
 नागास्समुपभोगेन त्रिभिरेतैस्तु मानुषाः ॥३५॥
 
 सद्यः प्रीणाति देवान् वै ते प्रीत्या भावयन्त्युत ।  
-सङ्कल्पसिद्धिर्मर्त्यानाम्[^165] ईप्तिाश्च मनोरथाः॥३६॥
+सङ्कल्पसिद्धिर्मर्त्यानाम्[^203] ईप्तिाश्च मनोरथाः॥३६॥
 
-[^165]: "ख – र्भूतानां पुष्पैर्लभ्या सुरैः कृता"
+[^203]: # "ख – र्भूतानां पुष्पैर्लभ्या सुरैः कृता"
 
-देवाः[^166]प्रीणन्ति सततं मानिता मानयन्ति च ।  
+देवाः[^204] प्रीणन्ति सततं मानिता मानयन्ति च ।  
 अवज्ञातावधूताश्च निर्दहन्त्यधमान् नरान् ॥३७॥
 
-[^166]: "ख –प्रीताः प्रीणन्ति पितरो मानिता"
+[^204]: # "ख –प्रीताः प्रीणन्ति पितरो मानिता"
 
 अत ऊर्ध्वं प्रवक्ष्यामि धूपदानविधौ फलम् ।  
 धूपांश्च विविधान् साधून् असाधूंश्च निबोध मे ॥ ३८ ॥
@@ -3634,9 +3679,10 @@ The Presidency College,
 ज्योतिस्तेजः प्रकाशश्चाऽप्यूर्ध्वगं चापि वर्धते ।  
 प्रदानं तेजसां तस्मात् प्रभावन्तः प्रकाशकाः ॥४६॥
 
-तमसां[^167] नाशकश्चेति तस्माद्दीपः प्रदीयते ॥४७  
+तमसां[^205] नाशकश्चेति तस्माद्दीपः प्रदीयते ॥४७  
 
-[^167]: " क-ख - घ–तामसा राक्षसाश्चेति"
+
+[^205]: # " क-ख - घ–तामसा राक्षसाश्चेति"
 
 आलोकदानाच्चक्षुष्मान् प्रभायुक्तो भवेन्नरः ।  
 तं ततो नोपहिंसेत न हरेन्नापि नाशयेत् ॥४८
@@ -3645,12 +3691,12 @@ The Presidency College,
 दीपप्रदस्स्वर्गलोके दीपमाली विराजते ॥४९
 
 हविषा प्रथमः कल्पो द्वितीयस्तौषधीरसैः ।  
-मैदोवसास्थिनिर्यासैर् नकार्यः पुष्टिमिच्छता ॥५०
+मैदोवसास्थिनिर्यासैर् न कार्यः पुष्टिमिच्छता ॥५०
 
-देवालये सभायां च गिरौ चैत्येचतुष्पथे ।  
-गोब्राह्मणालये दुर्गे दीपो भूतिप्रदश्शुचिः[^168] ॥५१
+देवालये सभायां च गिरौ चैत्ये चतुष्पथे ।  
+गोब्राह्मणालये दुर्गे दीपो भूतिप्रदश्शुचिः[^206] ॥५१
 
-[^168]: "घ–भूमि"
+[^206]: # "घ –भूमि"
 
 दीपदाता भवेन्नित्यं य इच्छेद्भूतिमात्मनः ॥५१॥
 
@@ -3663,46 +3709,48 @@ The Presidency College,
 येषां नाग्रभुजो देवा न विप्रातिथिबालकाः  
 राक्षसानेव तान् विद्धि निर्वपट्कारमङ्गलान् ॥५४ ॥
 
-तस्मादग्रंप्रयच्छेत देवेभ्यः प्रतिपूजितम् ।  
+तस्मादग्रं प्रयच्छेत देवेभ्यः प्रतिपूजितम् ।  
 शिरसा प्रणतश्चापि हरेद्बलिमतन्द्रितः ॥५५॥
 
-गृहाधिदेवता नित्यं निवसन्ति गृहे बलिम्।  
+गृहाधिदेवता नित्यं निवसन्ति गृहे बलिम् ।  
 बाह्यावागन्तवो ये च यक्षराक्षसपन्नगाः ॥५६॥
 
 तत्र दत्तेन जीवन्ति देवताः पितरस्तथा ।  
-ते प्रीताः प्रीणयन्त्येनान् आयुषा यशसाधनैः[^812] ॥ ५७॥
+ते प्रीताः प्रीणयन्त्येनान् आयुषा यशसा धनैः[^207] ॥ ५७॥
 
-[^812]: # "क- ख- घ– श्रिया"
+[^207]: # "क- ख- घ – श्रिया"
 
 बलयस्सह पुष्पैस्तु देवानामुपहारयेत् ।  
-दधिद्रप्समयाः पुण्यास् सुगन्धाःप्रियदर्शनाः ॥५८॥
+दधिद्रप्समयाः पुण्यास् सुगन्धाः प्रियदर्शनाः ॥५८॥
 
-कार्या रुधिरमांसाढ्याबलयो यक्षरक्षसाम् ।  
+कार्या रुधिरमांसाढ्या बलयो यक्षरक्षसाम् ।  
 सुरासवपुरस्कारा लाजैर्लोहितभूषिताः ॥५९॥
 
 नागानां दयिता नित्यं पद्मोत्पलविभूषिताः ।  
 तिलपिष्टं सु सम्पन्नं भूतानामुपहारयेत् ॥६०॥
 
 अग्रदाताऽग्रभोगी स्याद् बलवर्णसमन्वितः ।  
-तस्मादग्रंप्रयच्छेत देवादिभ्यस्सुपूजितम् ॥६१॥
+तस्मादग्रं प्रयच्छेत देवादिभ्यस्सुपूजितम् ॥६१॥
 
 ज्वलन्त्यहरहो वेश्म यत्र स्युर्गृहदेवताः ।  
 ताः पूज्या भूतिकामेन प्रसृताग्रप्रदायिना ॥६२॥
 
-भीष्मः–
+**भीष्मः–**
 
 इत्येतदसुरेन्द्राय काव्यः प्रोवाच भार्गवः ।  
-सुवर्णाय मनुः प्राह सुवर्णो[^169] नारदाय च ॥६३॥
+सुवर्णाय मनुः प्राह सुवर्णो[^208] नारदाय च ॥६३॥
 
-[^169]: "अ–अयं पादोऽनन्तरश्च नस्तः"
+[^208]: # "अ–अयं पादोऽनन्तरश्च नस्तः"
 
-नारदोऽपि मयि प्राह गुणानेतान् महामते।  
+
+
+नारदोऽपि मयि प्राह गुणानेतान् महामते ।  
 त्वमप्येतद्विदित्वैव सर्वमाचर पुत्रक ॥६४॥
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि अष्टाशीतितमोऽध्यायः ॥ ८८ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि अष्टाशीतितमोऽध्यायः ॥ ८८ ॥  
-\[ अस्मिन्नध्याये ६४ ॥श्लोकाः \]**
+\[ अस्मिन्नध्याये ६४ ॥ श्लोकाः \]**
 
 **————**
 
@@ -3711,9 +3759,9 @@ The Presidency College,
   भीष्मेण युधिष्ठिरं प्रति बलिदीपप्रदानकथनोपयोगितया नहुषचरितकथनारम्भः ॥ १ ॥ देवैर्वरदानपूर्वकमिन्द्रपदं प्रापितेन नहुषेण दर्पात्सप्तर्ष्यादिभिः पर्यायेण स्ववानवाहनम् ॥ २ ॥ अगस्त्यस्य तद्यानवहनपर्याये भृगुणाऽगस्त्यं प्रति स्वेन नहुषस्याधःपातनप्रतिज्ञानम् ॥ ३ ॥
 
                                  ** 
-————**
+———— **
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 श्रुतं मे भरतश्रेष्ठ पुष्पदीपप्रदायिनाम् ।  
 फलं बलिप्रदाने च तद्भूयो वक्तुमर्हसि ॥१
@@ -3722,45 +3770,47 @@ The Presidency College,
 
 बलयश्च किमर्थं वै क्षिप्यन्ते गृहमेधिभिः ॥२
 
-भीष्मः–
+**भीष्मः–**
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
 
-नहुषं प्रति संवादम् अगस्त्यस्य भृगोस्तथा॥३
+
+नहुषं प्रति संवादम् अगस्त्यस्य भृगोस्तथा ॥३
 
 नहुषस्तु महाराज राजर्षिरसुसमाहितः ।  
-देवराज्यमनुप्राप्तस् सुकृतेनेह कर्मणा॥४
+देवराज्यमनुप्राप्तस् सुकृतेनेह कर्मणा ॥४
 
 तत्रापि प्रयतो राजन् नहुषस्त्रिदिवे वसन् ।  
-मानुषाश्चैव दिव्याञ्च कुर्वाणो विविधाः क्रियाः॥५
+मानुषाश्चैव दिव्याञ्च कुर्वाणो विविधाः क्रियाः ॥५
 
 मानुषास्तत्र सर्वास्स्म क्रियास्तस्य महात्मनः ।  
 जपयज्ञं मनोयज्ञं त्रिदिवेऽपि चकार सः ॥६
 
 देवता ह्यर्चयंश्चापि विधिवत् स सुरेश्वरः ।  
-सर्वाण्येव यथान्यायं यथापूर्वमरिन्दम॥७
+सर्वाण्येव यथान्यायं यथापूर्वमरिन्दम ॥७
 
 अथेन्द्रस्य भविष्यत्वाद् अहङ्कारस्तमाविशत् ।  
-सर्वाश्चैव क्रियास्तस्य पर्यहीयन्त भूपते॥८
+सर्वाश्चैव क्रियास्तस्य पर्यहीयन्त भूपते ॥८
 
-सप्तर्षीन्वाहयामास वरदानसमन्वितः ।  
-परिहीनक्रियश्चापि दुर्बलत्वमुपेयिवान्॥९
+सप्तर्षीन् वाहयामास वरदानसमन्वितः ।  
+परिहीनक्रियश्चापि दुर्बलत्वमुपेयिवान् ॥९
 
 तस्य वाहयतः कालो मुनिमुख्यांस्तपोधनान् ।  
 अहङ्काराभिभूतस्य सुमहानत्यवर्तत ॥१०
 
-अथ पर्यायत ऋषीन्वाहनाय प्रचक्रमे ।  
+अथ पर्यायत ऋषीन् वाहनाय प्रचक्रमे ।  
 पर्यायश्चाप्यगस्त्यस्य समपद्यत भारत ॥११
 
 अथागम्य महातेजा भृगुर्ब्रह्मविदां वरः ।  
 अगस्त्यमाश्रमस्थं वै समुपेत्यैवमब्रवीत् ॥१२  
 
-भृगुः–
+
+**भृगुः–**
 
 एवं वयमसत्कारं देवेन्द्रस्य सुदुर्मतेः ।  
 नहुषस्य किमर्थं वै मर्षयामो महामुने ॥१३
 
-अगस्त्यः–
+**अगस्त्यः–**
 
 कथमेष मया शक्यश् शप्तुमद्य महामुने ।  
 वरदेन वरो दत्तो भवता विदितश्च सः ॥१४
@@ -3769,14 +3819,14 @@ The Presidency College,
 इत्यनेन वरो देवाद् याचितो गच्छता दिवम् ॥१५
 
 एवं न दग्धस्स मया भवता च न संशयः ।  
-अन्येनाप्यृषिमुख्येन न शप्तो[^170] विनिपातितः ॥१६
+अन्येनाप्यृषिमुख्येन न शप्तो[^209] विनिपातितः ॥१६
 
-[^170]: "क-घ–शक्यो विनिपातितुम्"
+[^209]: # "क-घ–शक्यो विनिपातितुम्"
 
 अमृतं चैव पानाय दत्तमस्मै पुरा प्रभो ।  
 महात्मने तदर्थं च नास्माभिर्निपात्यते ॥१७
 
-भृगुः–
+**भृगुः–**
 
 सम्प्रायच्छद् वरं देवः प्रजानां दुःखकारकम् ।  
 द्विजेष्वधर्मयुक्तानि स करोति द्विजोत्तमः ॥१८
@@ -3794,7 +3844,7 @@ The Presidency College,
 प्रतिकर्तुं वलवति नहुषे दर्पमास्थिते ॥२०
 
 अद्य हि त्वां सुदुर्बुद्धी रथे योक्ष्यति देवराट् ।  
-अद्यैनमहमुद्वृत्तं शपिष्येपापमोहितम् ॥२१
+अद्यैनमहमुद्वृत्तं शपिष्ये पापमोहितम् ॥२१
 
 अद्येन्द्रं स्थापयिष्यामि पश्यतस्ते शतक्रतुम् ।  
 प्रचाल्य पापकर्माणम् इन्द्रस्थानात् सुदुर्मतिम् ॥२२
@@ -3811,30 +3861,30 @@ The Presidency College,
 नहुषं पापकर्माणम् ऐश्वर्यबलमोहितम् ।  
 यथा रोचयते तुभ्यं तथा कर्ता ह्यहं मुने ॥२६
 
-भीष्मः–
+**भीष्मः–**
 
 एवमुक्तस्तु भृगुणा मैत्रावरुणिरव्ययः ।  
 अगस्त्यः परमप्रीतो बभूव विगतज्वरः ॥२७
 
 तथा चकार तत् सर्वं पपात नहुषो यथा ॥२७॥
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकोननवतितमोऽध्यायः ॥ ८९ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि एकोननवतितमोऽध्यायः ॥ ८९ ॥  
-\[ अस्मिन्नध्याये २७॥श्लोकाः \]
+\[ अस्मिन्नध्याये २७॥ श्लोकाः \]**
 
-————
+**————**
 
 **॥ नवतितमोऽध्यायः ॥।**
 
  नहुषेणागस्त्यस्य स्वयाने योजनम् ॥ १ ॥ तथा तेन सह श्रुतिप्रामाण्यविवादे स्वविरुद्धभाषिणोऽगस्त्यस्य मस्तके स्वपादेन ताडनम् ॥ २ ॥तदा तज्जटान्तर्निगूढेन भृगुणा शापदानेन तस्याधः पातनम् ॥ ३ ॥ ततो देवैरिन्द्रस्य स्वपदेऽभिषेचनम् ॥ ४ ॥ नहुषस्य स्वकृतपूर्वबलिदीपदानादिजसुकृतमहिम्ना पुनः स्वर्गप्राप्तिः ॥ ५ ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 कथं वै स विपन्नश्च कथं वा पातितो भुवि ।  
 कथं देवेन्द्रतां प्राप्तस् तद्भवान् वक्तुमर्हति ॥१
 
-भीष्मः–
+**भीष्मः–**
 
 एवं तयोस्संवदतोः क्रियास्तस्य महात्मनः ।  
 सर्वा एवाऽभ्यवर्तन्त या दिव्या याश्च मानुषाः ॥२
@@ -3845,10 +3895,10 @@ The Presidency College,
 सर्वास्तस्य समुत्पन्ना देवराज्ञो महात्मनः ।  
 देवलोके नृलोके च सदाचारपुरस्कृताः ॥
 
-ताश्चोद्भवन्ति राजेन्द्र समृद्ध्यैगृहमेधिनः ।  
+ताश्चोद्भवन्ति राजेन्द्र समृद्ध्यै गृहमेधिनः ।  
 धूपप्रदानैर्दीपैश्च नमस्कारैस्तथैव च ॥५
 
-यथा सिद्धस्य चान्नस्य गृह्य चाग्र्यंप्रदीयते ।
+यथा सिद्धस्य चान्नस्य गृह्य चाग्र्यं प्रदीयते ।
 
 बलयश्च गृहोद्देशे ततः प्रीणन्ति देवताः ॥६
 
@@ -3876,23 +3926,24 @@ The Presidency College,
 अथागस्त्यमृषिश्रेष्ठं वाहनायाजुहाव सः ॥१३॥
 
 पूतं सरस्वतीतीरे स्मयन्निव महाबलः ।  
-ततो[^47] भृगुर्महातेजा मैत्रावरुणिमब्रवीत् ॥१४॥  
+ततो[^64] भृगुर्महातेजा मैत्रावरुणिमब्रवीत् ॥१४॥  
+
 
 निमीलयस्व नयने जटां यावद्विशाम्यहम् ।  
-सुरेन्द्रपतनायेति स च नेत्रे न्यमीलयत्॥१५॥
+सुरेन्द्रपतनायेति स च नेत्रे न्यमीलयत् ॥१५॥
 
 ततोऽगस्त्यस्याथ जटां दृष्ट्वा प्राविशदच्युतः ।  
 भृगुस्स सुमहातेजाः पातनाय नृपस्य च ॥१६॥
 
-ततस्स देवराट् प्राप्तस् तमृषिंवाहनाय वै ।  
+ततस्स देवराट् प्राप्तस् तमृषिं वाहनाय वै ।  
 ततोऽगस्त्यरसुरपतिं वाक्यमाह विशां पते ॥१७॥
 
-अगस्त्यः–
+**अगस्त्यः–**
 
 योजयस्वेन्द्र मां क्षिप्रं कं च देशमुपानये ।  
 यत्र वक्ष्यसि तत्र त्वां नयिष्यामि सुराधिप ॥१८॥
 
-भीष्मः–
+**भीष्मः–**
 
 इत्युक्तो नहुषस्तेन योजयामास तं मुनिम् ॥१९  
 भृगुस्तस्य जटासंस्थो बभूव हृपितो भृशम् ।
@@ -3901,76 +3952,76 @@ The Presidency College,
 वरदानप्रभावज्ञो नहुषस्य महात्मनः ॥२०॥
 
 न चुकोप तदाऽगस्त्यो नहुषायाल्पदर्शिने ।  
-तं तु राजा प्रपादेन[^172] चालयामास भारत ॥२१॥
+तं तु राजा प्रपादेन[^211] चालयामास भारत ॥२१॥
 
-[^172]: "ख– प्रतोदेन ताडयामास"
+[^211]: # "ख– प्रतोदेन ताडयामास"
 
-श्रुतिस्स्मृतिः प्रमाणं वा नेतिवातेस[^150] देवराट् ॥२२
+श्रुतिस्स्मृतिः प्रमाणं वा नेतिवातेस[^188] देवराट् ॥२२
 
 न चुकोप स धर्मात्मा ततः पादेन देवराट् ।
 
 अगस्त्यस्य तदा क्रुद्धो वामेनाभ्यहनच्छिरः ॥२३
 
-तस्मिञ् शिरस्यभिहते तज्जटान्तर्गतो मुनिः[^813] ।  
-शशाप बलवत्[^174] क्रुद्धो नहुषं पापचेतसम् ॥२४
+तस्मिञ् शिरस्यभिहते तज्जटान्तर्गतो मुनिः[^213] ।  
+शशाप बलवत्[^214] क्रुद्धो नहुषं पापचेतसम् ॥२४
 
-[^174]: "क- घ– बलवान्,ख–भगवान्"
+[^213]: # "अ–भृगुः"
 
-[^813]: # "अ–भृगुः"
+[^214]: # "क- घ– बलवान्,ख–भगवान्"
 
-भृगुः–
+**भृगुः–**
 
 यस्मात् पदाऽवधीः क्रोधाच् छिरसीमं महामुनिम् ।  
 तस्मादाशु महीं गच्छ सर्पो भूत्वा तमोधिकः ॥२५
 
-भीष्मः–
+**भीष्मः–**
 
 स तदा तेन शप्तोऽथ सर्पो भूत्वा महामते ।  
 अदृष्टेनाथ भृगुणा भूतले स पपात ह ॥२६
 
-भृगुं हि यदि सोऽद्राक्षीन्नहुषःपृथिवीपते ।  
+भृगुं हि यदि सोऽद्राक्षीन्नहुषः पृथिवीपते ।  
 स शक्तो नाभविष्यद्वै पातने तस्य तेजसा ।२७
 
-स तु तैस्तैःप्रदानैस्तु[^175] तपोभिर्नियमैस्तथा ।  
+स तु तैस्तैः प्रदानैस्तु[^215] तपोभिर्नियमैस्तथा ।  
 पतितोऽपि महाराज भूतले स्मृतिमानभूत् ॥२८
 
-[^175]: "क– प्रदातव्यैः"
+[^215]: # "क– प्रदातव्यैः"
 
 प्रसादयामास भृगुं शापान्तो मे भवेदिति ।  
-ततोऽगस्त्यः कृपाविष्टः प्रसादयति तं भृगुम्[^176] ॥२९
+ततोऽगस्त्यः कृपाविष्टः प्रसादयति तं भृगुम्[^216] ॥२९
 
-[^176]: "ख– भृशम्"
+[^216]: # "ख– भृशम्"
 
 शापान्तार्थं महाराज वरं प्रादात् कृपान्वितः ॥२९॥
 
 राजा युधिष्ठिरो नाम भविष्यति कुरूद्वहः ।  
 स त्वां मोक्षयिता शापाद् इत्युक्त्वाऽन्तरधीयत ॥३०॥
 
-अगस्त्योऽपि महातेजाः पूज्यमानो द्विजातिभिः[^177] ।  
+अगस्त्योऽपि महातेजाः पूज्यमानो द्विजातिभिः[^217] ।  
 स्वमाश्रमपदं प्रायात् कृत्वा कार्यं शतक्रतोः ॥३१॥
 
-[^177]: " ख– महर्षिभिः"
+[^217]: # " ख– महर्षिभिः"
 
 नहुषोऽपि त्वया राजंस् तस्माच्छापात् समुद्धृतः ।  
-जगाम ब्रह्मभवनं[^178] तेन पुण्येन कर्मणा ॥३२॥
+जगाम ब्रह्मभवनं[^218] तेन पुण्येन कर्मणा ॥३२॥
 
-[^178]: "क घ–सदने;ख-सदनं स्वेन पुण्येन"
+[^218]: # "क घ–सदने; ख-सदनं स्वेन पुण्येन"
 
 तदा तु पातयित्वा तं नहुपं भूतले भृगुः ।  
 जगाम ब्रह्मसदनं ब्रह्मणे च न्यवेदयत् ॥३३॥
 
 ततश्शक्रं समानाय्य देवानाह पितामहः ॥३४
 
-ब्रह्मा–
+**ब्रह्मा–**
 
 वरदानान्मम सुरा नहुषो राज्यमाप्तवान् ॥३४॥
 
 स चागस्त्येन क्रुद्धेन भ्रंशितो भूतलं गतः ॥३५
 
 न च शक्यं विना राज्ञा सुखं वर्तयितुं क्वचित् ।  
-तस्मादयं पुनश्शक्रोदेवराज्येऽभिषिच्यताम् ॥३६
+तस्मादयं पुनश्शक्रो देवराज्येऽभिषिच्यताम् ॥३६
 
-भीष्मः–
+**भीष्मः–**
 
 एवं सम्भाषमाणे तु देवाः पार्थ पितामहे ।  
 एवमस्त्विति संहृष्टाः प्रत्यूचुस्ते पितामहम् ॥३७
@@ -3989,28 +4040,28 @@ The Presidency College,
 यावदक्षिनिमेषाणि ज्वलन्ते तावतीस्समाः ।  
 रूपवान् धर्मवांश्चापि नरो भवति दीपदः ॥४१॥
 
-य[^179] इदं शृणुयाच्चपि पठते यो द्विजोत्तमः ।  
+य[^219] इदं शृणुयाच्चपि पठते यो द्विजोत्तमः ।  
 ब्रह्मलोकमवाप्नोति स च वै नात्र संशयः ॥४२॥
 
-[^179]: "क- ख- घ– इदमधंद्वयं नास्ति"
+[^219]: # "क- ख- घ– इदमधन्द्वयं नास्ति"
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि नवतितमोऽध्यायः ॥ १० ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि नवतितमोऽध्यायः ॥ १० ॥  
-\[ अस्मिन्नध्याये ४२॥श्लोकाः \]**
+\[ अस्मिन्नध्याये ४२॥ श्लोकाः \]**
 
 **————**
 
-॥ एकनवतितमोऽध्यायः ॥
+**॥ एकनवतितमोऽध्यायः ॥**
 
    भीष्मेण युधिष्ठिरं प्रति ब्रह्मास्वापहारस्यानर्थहेतुताया प्रमाणतयानृपचण्डाल संवादानुवादः ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 ब्राह्मणस्वं हि ये मन्दा हरन्ति भरतर्षभ ।  
 नृशंसकारिणो योनिं कां ते गच्छन्ति मानवाः ॥१
 
-भीष्मः–
+**भीष्मः–**
 
 पातकानां परं ह्येतद् ब्रह्मस्वहरणं बलात् ।  
 सान्वयास्ते विनश्यन्ति चण्डालाः प्रेत्य चेह च ॥।२
@@ -4018,7 +4069,7 @@ The Presidency College,
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
 चण्डालस्य च संवादं क्षत्रबन्धोश्च भारत ॥३
 
-राजा–
+**राजा–**
 
 वृद्धरूपोऽसि चण्डाल बालवत् त्वं विचेष्टसे ।  
 श्वखराणां रजस्सेवी कस्मादुद्विजसे गवाम् ॥४
@@ -4026,21 +4077,22 @@ The Presidency College,
 साधुभिर्गर्हितं कर्म चण्डालस्य विधीयते ।  
 कस्माद्गोरजसा ध्वस्तम् अङ्गं तोयेन सिञ्चसि॥५
 
-चण्डालः–
+**चण्डालः–**
 
 ब्राह्मणस्य गवां राजन् प्रयान्तीनां रजः पुरा ।  
 
+
 सोममुद्ध्वंसयामास तं सोममपिबन् द्विजाः ॥६
 
-भृत्यानामपि[^180] राज्ञां तु रजसा ध्वंसितं मखे ।  
+भृत्यानामपि[^220] राज्ञां तु रजसा ध्वंसितं मखे ।  
 तत्पानाच्च द्विजास्सर्वे क्षिप्रं नरकमाविशन् ॥७
 
-[^180]: "ख–नामपराधात्तु"
+[^220]: # "ख–नामपराधात्तु"
 
-दीक्षितश्च[^181] स राजाऽपि क्षिप्रं नरकमाविशत् ।  
-सह तैर्याजकैस्सर्वैर्ब्रह्मस्वमुपजीव्य तत् ॥८
+दीक्षितश्च[^221] स राजाऽपि क्षिप्रं नरकमाविशत् ।  
+सह तैर्याजकैस्सर्वैर् ब्रह्मस्वमुपजीव्य तत् ॥८
 
-[^181]: "क–घ- अर्धचतुष्टयं नास्ति"
+[^221]: # "क–घ- अर्धचतुष्टयं नास्ति"
 
 येऽपि तत्रापिबन् क्षीरं घृतं दधि च मानवाः ।  
 ब्राह्मणास्सहराजन्यास् सर्वे नरकमाविशन् ॥९
@@ -4049,9 +4101,9 @@ The Presidency College,
 पशूनवेक्षमाणानां साधुवृत्तेन दम्पती॥१०
 
 अहं तत्रावसं राजन् ब्रह्मचारी जितेन्द्रियः ।  
-तासां मे रजसा ध्वस्तं भैक्षमासीन्नराधिप[^182] ॥११
+तासां मे रजसा ध्वस्तं भैक्षमासीन्नराधिप[^222] ॥११
 
-[^182]: "ख– इतः दश पादा न सन्ति"
+[^222]: # "ख– इतः दश पादा न सन्ति"
 
 चण्डालो हि ततो राजन् भुक्त्वा तदभवं मृतः ।  
 ब्रह्मस्वहारी च नृपस् सोऽप्रतिष्ठां गतिं ययौ ॥१२
@@ -4065,15 +4117,15 @@ The Presidency College,
 एतद्धि धनमुत्कृष्टं द्विजानामविशेषतः ।  
 विक्रयं हीह सोमस्य गर्हयन्ति मनीषिणः ॥१५
 
-ये चैनं क्रीणते राजन् ये च विक्रीणते जनाः[^183] ।  
+ये चैनं क्रीणते राजन् ये च विक्रीणते जनाः[^223] ।  
 इतो वैवस्वतं प्राप्य रौरवं यान्ति सर्वशः ॥१६
 
-[^183]: "क-घ–द्विजाः"
+[^223]: # "क-घ–द्विजाः"
 
 सोमं तु रजसा ध्वस्तं विक्रीणन् बुद्धिपूर्वकम् ।  
-श्रोत्रियो वार्धुषिर्भूत्वा चिररात्राय[^184] गच्छति ॥१७
+श्रोत्रियो वार्धुषिर्भूत्वा चिररात्राय[^224] गच्छति ॥१७
 
-[^184]: "ख– रौरवं स विगच्छति"
+[^224]: # "ख– रौरवं स विगच्छति"
 
 अकीर्तिमिह सम्प्राप्य श्वविष्ठामुपजीवति ।  
 ब्रह्मस्वहारी नरकान् यातनाश्चानुभूय तु ॥१८
@@ -4083,10 +4135,10 @@ The Presidency College,
 श्वचर्यामतिमानं च स्वस्वदारेषु विप्लवम् ।  
 तुलयाऽधारयद्धर्मो ह्यतिमानोऽतिरिच्यते ॥१९॥
 
-म्लानं[^185] मां विकलं पश्य विवर्णं हरिणं कृशम् ।  
+म्लानं[^225] मां विकलं पश्य विवर्णं हरिणं कृशम् ।  
 अतिमानेन मां पश्य पापां गतिमुपागतम् ॥२०॥
 
-[^185]: "क–घ ग्लानं"
+[^225]: # "क–घ ग्लानं"
 
 अहं वै विपुले जातः कुले धनसमन्विते ।  
 पौराणे जन्मनि विभो ज्ञानविज्ञानपारगः ॥२१॥
@@ -4094,15 +4146,16 @@ The Presidency College,
 अभजं जानमानो हि दोषानेतानहं सदा ।  
 संरब्ध एव भूतानां पृष्ठमांसान्यभक्षयम् ॥२२॥  
 
+
 सोऽहं वो विदितस्सर्वैर् दूरगो मलिनो वने ।  
 साधूनां परिभावेप्सुर् विप्राणां गर्वितो धनैः ॥२३॥
 
 इमामवस्थां सम्प्राप्तः पश्य कालस्य पर्ययम् ॥२४
 
-आदीपितमिवालातं[^186] भ्रमरैरिव चार्दितम् ।  
+आदीपितमिवालातं[^226] भ्रमरैरिव चार्दितम् ।  
 धावमानं सुसंरब्धं पश्य मां रजसाऽन्वितम् ॥२५
 
-[^186]: "ख–अदीप्तमिव तैलाक्तं"
+[^226]: # "ख–अदीप्तमिव तैलाक्तं"
 
 स्वाध्यायैस्तु महात्मानस् तरन्ति गृहमेधिनः ।  
 दानैः पृथग्विधैश्चैव विप्रजात्यां मनीषिणः ॥२६
@@ -4119,45 +4172,45 @@ The Presidency College,
 त्वं ममेह प्रपन्नस्य संशयं ब्रूहि पृच्छतः ।  
 चण्डालत्वात् कथमहं मुच्येयमिति सत्तम ॥३०
 
-राजा–
+**राजा–**
 
 चण्डालवृत्तात्तप्तस्त्वं येन मोक्षमवाप्स्यसि ।  
-दत्त्वा शरीरं क्रव्याद्भ्योरणाग्नौ द्विजहेतुके ॥३
+दत्त्वा शरीरं क्रव्याद्भ्यो रणाग्नौ द्विजहेतुके ॥३
 
 हित्वा प्राणान् प्रमोक्षस्ते नान्यथा मोक्षमर्हसि ॥३१॥
 
-भीष्मः–
+**भीष्मः–**
 
 इत्युक्तस्स तदा राजन् ब्रह्मस्वार्थे परन्तप ।  
 हित्वा रणमुखे प्राणान् गतिमिष्टामवाप्तवान् ॥३२॥
 
 तस्माद्रक्ष्यं त्वया पुत्र ब्रह्मस्वं भरतर्षभ ।  
-यदीच्छसि[^187] महाबाहो शाश्वतीं गतिमुत्तमाम् ॥३३॥
+यदीच्छसि[^227] महाबाहो शाश्वतीं गतिमुत्तमाम् ॥३३॥
 
-[^187]: "1. घ–इदमर्धं नास्ति"
+[^227]: # "1. घ–इदमर्धं नास्ति"
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकनवतितमोऽध्यायः ॥ ९१ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि एकनवतितमोऽध्यायः ॥ ११ ॥  
-\[ अस्मिन्नध्याये ३३ ॥श्लोकाः \]
+\[ अस्मिन्नध्याये ३३ ॥ श्लोकाः \]**
 
-———
+**———**
 
-**॥द्विनवतितमोऽध्यायः ॥**
+**॥ द्विनवतितमोऽध्यायः ॥**
 
   भीष्मेण युधिष्टिरं प्रति पुण्यपापकर्मफलभेदस्य पुण्यकर्मणां च तरतमभावस्य च बोधनाय तादृशकर्मविशेषसाध्यफलविशेषप्रतिपादकशक्रगौतम संवादानुवादः ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 एको लोकस्सुकृतिनां स्वर्गे लोके पितामह ।  
-उत तत्रापि नानात्वं सर्वं ब्रूहि कुरूद्वह[^188] ॥१
+उत तत्रापि नानात्वं सर्वं ब्रूहि कुरूद्वह[^228] ॥१
 
-[^188]: "ख-घ–पितामह"
+[^228]: # "ख-घ–पितामह"
 
-भीष्मः–
+**भीष्मः–**
 
 कर्मभिः पार्थ नानात्वं लोकानां यान्ति मानवाः ।  
-पुण्यान् पुण्यकृतौयान्ति पापान् पापकृतो जनाः ॥૨
+पुण्यान् पुण्यकृतौ यान्ति पापान् पापकृतो जनाः ॥૨
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
 गौतमस्य मुनेस्तात संवादं वै शतक्रतोः ॥३
@@ -4169,19 +4222,19 @@ The Presidency College,
 सोऽथ दीर्घेण कालेन बभूवातिबलो महान् ॥५
 
 तं प्रभिन्नं महादीर्घं प्रसूतं सर्वतो मदम् ।  
-धृतराष्ट्रस्वरूपेण शक्रोजग्राह हस्तिनम् ॥६
+धृतराष्ट्रस्वरूपेण शक्रो जग्राह हस्तिनम् ॥६
 
 ह्रियमाणं तु तं दृष्ट्वा गौतमस्संशितव्रतः ।  
 अभ्यभाषत राजानं धृतराष्ट्रं महातपाः ॥७
 
-गौतमः–
+**गौतमः–**
 
-मा[^189] मा हार्षीर्हस्तिनं पुत्रमेनं  
+मा[^229] मा हार्षीर्हस्तिनं पुत्रमेनं  
 दुःखात् पुष्टुं धृतराष्ट्रः कृतज्ञः ।  
 मैत्रं सतां सप्तपदं वदन्ति  
 मित्रद्रोहो नेह राजन् स्पृशेत् त्वाम् ॥८
 
-[^189]: "क– महर्षिर्हस्तिनं पुत्रंधृतराष्ट्रकृताज्ञया [पाठान्तरम्] घ–त्वं मा हर्षिर्हस्तिनं पुत्र मेनं ..................धृतराष्ट्रकृताज्ञया । मित्रंसदा हस्तिकृतं वदन्ति मित्रद्रोहो नैव राजन् स्पृशेत्त्वाम॥ [ पाठान्तरम् ]"
+[^229]: # "क– महर्षिर्हस्तिनं पुत्रं धृतराष्ट्रकृताज्ञया [पाठान्तरम्] घ–त्वं मा हर्षिर्हस्तिनं पुत्र मेनं ..................धृतराष्ट्रकृताज्ञया । मित्रं सदा हस्तिकृतं वदन्ति मित्रद्रोहो नैव राजन् स्पृशेत्त्वाम॥ [ पाठान्तरम् ]"
 
 इध्मोदकप्रदातारं शून्यपालकमाश्रमे ।  
 विनीतमाचार्यकुले सुयुक्तं गुरुकर्मणि ॥९
@@ -4189,83 +4242,85 @@ The Presidency College,
 शिष्टं दान्तं कृतज्ञं च प्रियं च सततं मम ।  
 त्वं मे विक्रोशतो राजन् हर्तुं नार्हसि कुञ्जरम् ॥१०
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 गवां सहस्रं भवतो ददानि  
 शतानि निष्कस्य ददानि पञ्च ।
 
-अन्यच्च वित्तं विधिवन्महर्षे[^190]  
+अन्यच्च वित्तं विधिवन्महर्षे[^230]  
 किं ब्राह्मणस्येह गजेन कृत्यम् ॥११
 
-[^190]: "ख–भवतो ददामि न ब्रा"
+[^230]: # "ख–भवतो ददामि न ब्रा"
 
-गौतमः–
+**गौतमः–**
 
-त्वामेव[^191] गावो विविधा भजन्तु  
+त्वामेव[^231] गावो विविधा भजन्तु  
 दास्यश्च निष्का विविधं च रत्नम् ।  
 अन्यच्च वित्तं विविधं नरेन्द्र  
 न ब्राह्मणस्येह धनेन कृत्यम् ॥१२
 
-[^191]: "घ–अर्धद्वयं नास्ति"
+[^231]: # "घ–अर्धद्वयं नास्ति"
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 ब्राह्मणानां हस्तिनां नास्ति कृत्यं  
 राजन्यानां हस्तिकुलानि विप्र ।  
 स्ववाहनं नयतो नास्त्यधर्मो  
 नागश्रेष्ठाद् गौतमास्मान्निवर्त ॥१३
 
-गौतमः–
+**गौतमः–**
 
 यत्र प्रेतो नन्दति पुण्यकर्मा  
 यत्र प्रेतश्शोचति पापकर्मा ।  
 वैवस्वतस्य सदने महात्मनस्  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये॥१४
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 ये नास्तिका निष्क्रियाश्श्रद्दधानाः  
 पापात्मानश्चेन्द्रियार्थे निसृष्टाः ।  
 यमस्य ते यातनां प्राप्नुवन्ति  
 परं गन्ता धृतराष्ट्रो न तत्र ॥१५
 
-गौतमः–
+**गौतमः–**
 
-वैवस्वती[^162] संयमनं च नाम  
+वैवस्वती[^200] संयमनं च नाम  
 यत्रानृतं प्रोच्यते यत्र सत्यम् ।  
 यत्राबलान् बलिनो घातयन्ति  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥१६
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 ज्येष्ठां स्वसारं पितरं मातरं च  
 गुरून् यथाऽमानयन्तश्चरन्ति ।  
 तथाविधानामेष लोको महर्षे  
 परं गन्ता धृतराष्ट्रो न तत्र ॥१७
 
-गौतमः–
+**गौतमः–**
 
 मन्दाकिनी वैश्रवणस्य राज्ञो  
 महाभोगा भोगिनश्च प्रवेश्या ।
 
+
+
 गन्धर्वयक्षैरप्सरोभिश्च जुष्टा  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥१८
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 अतिथिव्रतास्सुव्रता ये जना वै  
 प्रतिश्रयं ये ददति द्विजेभ्यः ।  
 शिष्टाशिनस्संविभज्याश्रितेभ्यो  
 मन्दाकिनीं तेऽपि हि भूषयन्ति ॥१९
 
-गौतमः–
+**गौतमः–**
 
 मेरौ नगे यद्वनं चातिरम्यं  
 सुपुष्पितं किन्नरीगीतजुष्टम् ।  
 सुदर्शना यत्र जम्बूर्विशाला  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥२०
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 ये ब्राह्मणा मृदवस्सत्यशीला  
 बहुश्रुतास्सर्वभूताभिरामाः ।  
@@ -4275,26 +4330,27 @@ The Presidency College,
 तथाविधानामेष लोको महर्षे  
 परं गन्ता धृतराष्ट्रो न तत्र ।  
 
+
 यदन्यत्ते विविधं स्थानमस्ति  
-तद्ब्रूहि त्वं त्वरितो ह्येष यामि॥२२
+तद्ब्रूहि त्वं त्वरितो ह्येष यामि ॥२२
 
 **गौतमः–**
 
-सुपुष्पितं किन्नरराजजुष्टं।  
-प्रियं वनं[^193] नन्दनं नारदस्य।  
+सुपुष्पितं किन्नरराजजुष्टम् ।  
+प्रियं वनं[^233] नन्दनं नारदस्य ।  
 गन्धर्वाणामप्सरसां च सद्म  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥२३
 
-[^193]: "क-घ-पदं"
+[^233]: # "क-घ-पदं"
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 ये नृत्यगीते कुशला जनास्सदा  
 देवात्मनां प्रियकामाश्चरन्ति ।  
 तथाविधानामेष लोको महर्षे  
 परं गन्ता धृतराष्ट्रो न तत्र ॥२४
 
-गौतमः–
+**गौतमः–**
 
 यत्रोत्तराः कुरवो यान्ति रम्या  
 देवैस्सार्धं मोदमाना नरेन्द्र ।  
@@ -4304,10 +4360,11 @@ The Presidency College,
 यतश्शक्रो वर्षति सर्वकामान्  
 यत्र स्थिताः कामचाराश्चरन्ति ।  
 
+
 यत्र चेर्ष्या नास्ति नारीनराणां  
 तत्र त्वाऽहं हस्तिनं याचयिष्यते ॥२६
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 ये सर्वभूतेषु निवृत्तकामा  
 ह्यमांसादा न्यस्तदण्डाश्चरन्ति ।  
@@ -4319,19 +4376,20 @@ The Presidency College,
 तथाविधानामेष लोको महर्षे  
 परं गन्ता धृतराष्ट्रो न तत्र ॥२८
 
-गौतमः–
+**गौतमः–**
 
-ततः[^814] परं भान्ति लोकास्सनातनास्  
+ततः[^234] परं भान्ति लोकास्सनातनास्  
 सुपुण्यगन्धा निर्मला वीतशोकाः ।  
 सोमस्य राज्ञस्सदने महात्मनस्  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥२९
 
-[^814]: # "अ - श्लोकत्रयं नास्ति"
+[^234]: # "अ - श्लोकत्रयं नास्ति"
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 ये दानशीला न प्रतिगृह्णन्ति नित्यं  
 न चाप्यर्थानाहरन्ते परेषाम् ।  
+
 
 येषामदेयमर्हते नास्ति किञ्चित्  
 सर्वातिथ्यास्सुप्रजाता जनास्ते ॥३०
@@ -4341,14 +4399,14 @@ The Presidency College,
 तथाविधानामेष लोको महर्षे  
 परं गन्ता धृतराष्ट्रो न तत्र ॥३१
 
-गौतमः–
+**गौतमः–**
 
 ततः परं भान्ति लोकास्सनातना  
 विरजस्का वितमस्का विशोकाः ।  
 आदित्यस्य सुराणामर्हयन्तो हि राजंस्  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥३२
 
-धृतराष्ट्र–
+**धृतराष्ट्र–**
 
 स्वाध्यायशीला गुरुशुश्रूषकाश्च  
 तपस्विनस्सत्यसन्धा नरा ये।  
@@ -4360,14 +4418,15 @@ The Presidency College,
 सत्ये स्थितानां वेदविदां महात्मनां  
 परं गन्ता धृतराष्ट्रो न तत्र ॥३४  
 
-गौतमः–
+
+**गौतमः–**
 
 ततः परं भान्ति लोकास्सनातनास्  
 सुपुण्यगन्धा ह्यरजसो वीतशोकाः ।  
 वरुणस्य राज्ञस्सदने महात्मनस्  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥३५
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 चातुर्मास्यैर्ये यजन्ते जनास्सदा  
 तथेष्टीनां दशशतं प्राप्नुवन्ति ।  
@@ -4384,58 +4443,58 @@ The Presidency College,
 इन्द्रस्य लोका अमरा वीतशोका  
 दुरत्ययाः काङ्क्षिता मानवानाम् ।  
 तत्राहं ते भवतो भूरितेजसा  
-राजन्निमं[^194] हस्तिनं याचयिष्ये ॥३८
+राजन्निमं[^235] हस्तिनं याचयिष्ये ॥३८
 
-[^194]: "ख-इतः षट्पादा न सन्ति"
+[^235]: # "ख-इतः षट्पादा न सन्ति"
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 शतवर्षजीवी यश्च शूरो मनुष्यो  
 वेदाध्यायी यश्च यज्वाऽप्रमत्तः ।  
 एते सर्वे शत्रलोकं भजन्ति  
 परं गन्ता धृतराष्ट्रो न तत्र ॥३९
 
-गौतमः–
+**गौतमः–**
 
 प्राजापत्यास्सन्ति लोका महान्तो  
 नाकस्य पृष्ठे पुष्कला वीतशोकाः ।  
 मनीषिणां सर्वलोकाभयानां  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥४०
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 ये राजानो राजसूयेऽभिषिक्ता  
 धर्मात्मानो रक्षितारः प्रजानाम् ।  
 ये चाश्वमेधावभृथाप्लुताङ्गास्  
 तेषां लोका धृतराष्ट्रो न तत्र॥४१
 
-गौतमः–
+**गौतमः–**
 
 ततः परं सन्ति लोकास्सनातनास्  
 सुपुण्यगन्धा विरजश्शोकमोहाः ।  
 तस्मिन्नहं दुर्लभे त्वप्रधृष्ये  
 गवां लोके हस्तिनं याचयिष्ये ॥४२
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
 यो गोसहस्त्री शतदो महात्मा  
 यो गोशती दश दद्याच्च शक्त्या।  
 तथा दशभ्यो यश्च दद्यादिहैकां  
-पञ्चभ्यो[^195] वा दानशीलस्तथैकाम् ॥४३
+पञ्चभ्यो[^236] वा दानशीलस्तथैकाम् ॥४३
 
-[^195]: "क-घ–अयं पादो नास्ति"
+[^236]: # "क-घ–अयं पादो नास्ति"
 
 ये जीर्यन्ते ब्रह्मचर्येण विप्राः  
 ब्राह्मीं वाचं परिरक्षन्ति चैव ।  
 मनस्विनस्तीर्थयात्रापरा ये  
-ते[^196] तत्र मोदन्ति ततो विमानैः ॥४४
+ते[^237] तत्र मोदन्ति ततो विमानैः ॥४४
 
-[^196]: "घ–अयं पादो नास्ति"
+[^237]: # "घ–अयं पादो नास्ति"
 
 प्रभासं मानसं पुण्यं पुष्कराणि महत् सरः ।  
-पुण्यं च नैमिशं तीर्थं बाहुदां[^197] करतोयिनीम् ॥४५
+पुण्यं च नैमिशं तीर्थं बाहुदां[^238] करतोयिनीम् ॥४५
 
-[^197]: "क-घ–इतः अष्टौ पादा न सन्ति"
+[^238]: # "क-घ– इतः अष्टौ पादा न सन्ति"
 
 गयां हयशिरश्चैव विपाशां स्थलवालुकाम् ।  
 कृष्णां गङ्गां वृद्धगङ्गां महाह्रदमथापि च ॥४६
@@ -4446,7 +4505,7 @@ The Presidency College,
 तत्र ते दिव्यसंस्थाना दिव्यमाल्यधराश्शिवाः ।  
 प्रयान्ति पुण्यगन्धाढ्या धृतराष्ट्रो न तत्र वै ॥४८
 
-गौतमः–
+**गौतमः–**
 
 यत्र शीतभयं नास्ति न चोष्णभयमण्वपि ।  
 क्षुत्पिपासे न च ग्लानिर् न दुःखं न सुखं तथा ॥४९
@@ -4457,66 +4516,65 @@ The Presidency College,
 तस्मिन् विरजसि स्फीते प्राज्ञसत्त्वव्यवस्थिते ।  
 स्वयम्भुभवने पुण्ये हस्तिनं याचयिष्यति ॥५१
 
-धृतराष्ट्रः–
+**धृतराष्ट्रः–**
 
-विमुक्तास्सर्वसङ्गेषु[^198] कृतात्मानो यतव्रताः ।  
-अध्यात्मयोगयुक्ता[^199] ये युक्तास्स्वर्गगतिं गताः॥५२
+विमुक्तास्सर्वसङ्गेषु[^239] कृतात्मानो यतव्रताः ।  
+अध्यात्मयोगयुक्ता[^240] ये युक्तास्स्वर्गगतिं गताः ॥५२
 
-[^198]: "ख– अर्धषट्कं नास्ति"
+[^239]: # "ख– अर्धषट्कं नास्ति"
 
-[^199]: "क-घ–संस्थाये युक्तास्सर्व"
+[^240]: # "क-घ– संस्थाये युक्तास्सर्व"
 
 ते ब्रह्मभवनं पुण्यं प्राप्नुवन्ति हि सात्त्विकाः  
-न तत्र धृतराष्ट्रस्ते शक्यो द्रष्टुं महामुने॥५३
+न तत्र धृतराष्ट्रस्ते शक्यो द्रष्टुं महामुने ॥५३
 
-गौतमः–
+**गौतमः–**
 
 रथन्तरं यच्च बृहच्च गीयते  
 यत्र वेदिः पुण्यजनैर्वृता च ।  
 यत्रोपयाति हरिभिस्सोमपीथी  
 तत्र त्वाऽहं हस्तिनं याचयिष्ये ॥५४
 
-बुध्यामि त्वां वृत्रहणमभिष्टुतं[^200]  
+बुध्यामि त्वां वृत्रहणमभिष्टुतं[^241]  
 व्यतिक्रमन्तं भुवनानि विश्वा ।  
 कच्चिन्न वाचा वृजिनं कदाचिद्  
 अकारिषं मनसोऽभिषङ्गात् ॥५५
 
-[^200]: "क-घ–न्त्वभि ख–मृषिष्टुतं"
+[^241]: # "क-घ–न्त्वभि ख–मृषिष्टुतं"
 
-शक्रः–
+**शक्रः–**
 
 यस्मादिमं लोकपथं प्रजानाम्  
 अन्वागमं पदवादे गजस्य ।  
 तस्माद्भवान् प्रणतं माऽनुशास्तु  
 ब्रवीषि यत् करवाणीह सर्वम् ॥५६
 
-गौतमः–
+**गौतमः–**
 
 श्वेतं करेणुं मम पुत्रं तु नागं  
-
 प्रियं तु मे षष्टिवर्षं च बालम् ।  
 यो मे वने वसतोऽभूद्द्वितीयस्  
 तमेव मे देहि सुरेन्द्र नागम् ॥५७
 
 **शक्रः–**
 
-अयं सुतस्ते द्विजमुख्यनागश्[^201]  
+अयं सुतस्ते द्विजमुख्यनागश्[^242]  
 चाघ्रायते त्वामभिवीक्षमाणः ।  
 पादौ च ते नासिकयोपजिघ्रते  
 श्रेयो मम ध्याहि नमश्च तेऽस्तु ॥५८
 
-[^201]: "क-घ–गः पलायते"
+[^242]: # "क-घ–गः पलायते"
 
-गौतमः–
+**गौतमः–**
 
 शिवं सदैवेह सुरेन्द्र तुभ्यं  
 ध्यायामि पूजां च सदा प्रयुञ्जे ।  
-ममापि त्वं शक्रशिवं[^815] ददस्व  
+ममापि त्वं शक्र शिवं[^243] ददस्व  
 त्वया दत्तं प्रतिगृह्णामि नागम् ॥५९
 
-[^815]: # "स–गजं ददस्व K II - 9"
+[^243]: # "स–गजं ददस्व K II - 9"
 
-शक्रः–
+**शक्रः–**
 
 येषां वेदा निहिता वै गुहायां  
 मनीषिणां सत्त्ववतां महात्मनाम् ।  
@@ -4524,24 +4582,24 @@ The Presidency College,
 बुद्धस्तस्मात् प्रीतिमांस्तेऽहमद्य ॥६०
 
 हन्तैहि ब्राह्मण क्षिप्रं सह पुत्रेण हस्तिना ।  
-प्राप्नुहि त्वं शुभाल्ँलोकान् अह्नाय च चिराय च ॥६१
+प्राप्नुहि त्वं शुभाल्ँ लोकान् अह्नाय च चिराय च ॥६१
 
-भीष्मः–
+**भीष्मः–**
 
 स गौतमं पुरस्कृत्य सह पुत्रेण हस्तिना ।  
-दिवमाचक्रमे वज्री सद्भिस्सहदुरासदम् ॥६२
+दिवमाचक्रमे वज्री सद्भिस्सह दुरासदम् ॥६२
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि द्विनवतितमोऽध्यायः ॥ १२ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि द्विनवतितमोऽध्यायः ॥ १२ ॥  
-\[ अस्मिन्नध्याये ६२ श्लोकाः\]**  
+\[ अस्मिन्नध्याये ६२ श्लोकाः \]**  
 **————**
 
 **॥ त्रिनवतितमोऽध्यायः ॥**
 
   भीष्मेण युधिष्टिरं प्रति विप्रवचनस्यैहिकपारत्रिकश्रेयस्साधनत्वकथनम् ॥ १ ॥ तथाऽनशनस्य महातपस्त्वकथनम् ॥ २ ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 दानं बहुविधाकारं शान्तिस्सत्यमहिंसता ।  
 स्वदारतुष्टिश्चोक्ता ते फलं दानस्य चापि यत् ॥१
@@ -4549,7 +4607,7 @@ The Presidency College,
 पितामहस्य विदितं किमन्यत्र तपोबलात् ।  
 तपसो यत् परं त्वद्य तन्मे व्याख्यातुमर्हसि ॥२
 
-भीष्मः–
+**भीष्मः–**
 
 तपसः प्रक्षयो यावत् तावल्लोको युधिष्ठिर ।  
 मतं मम तु कौन्तेय तपो नानशनात् परम् ॥३
@@ -4562,21 +4620,21 @@ The Presidency College,
 
 तं दृष्ट्वा तु वचः प्राह ब्रह्मा राजन् भगीरथम् ॥५॥
 
-ब्रह्माः–
+**ब्रह्माः–**
 
 कथं भगीरथाऽऽगास्त्वम् इमं देशं दुरासदम् ।
 
-न हि देवा न गन्धर्वा न मनुष्या भगीरथ॥ ६॥  
+न हि देवा न गन्धर्वा न मनुष्या भगीरथ ॥ ६॥  
 आयान्त्यतप्ततपसः कथं वै त्वमिहागतः ॥७॥
 
-भगीरथः–
+**भगीरथः–**
 
 निश्शङ्कमन्नमददां ब्राह्मणेभ्यश्  
 शतं सहस्राणि सदैवतानाम् ।  
-ब्रह्मन्[^202] व्रतं नित्यमास्थाय विद्धि  
+ब्रह्मन्[^244] व्रतं नित्यमास्थाय विद्धि  
 न त्वेवाहं तस्य फलादिहागतः ॥८
 
-[^202]: "क–देवादहं तस्य; घ–दैवादहंतस्य"
+[^244]: # "क–देवादहं तस्य; घ–दैवादहन्तस्य"
 
 दशैकरात्रान् दशपञ्चरात्रान्  
 एकादशैकादशकांस्तथैव ।  
@@ -4600,9 +4658,9 @@ The Presidency College,
 दशार्बुदान्यददं गोसबेज्यास्  
 त्वेकैकशो गा दश लोकनाथ ।  
 समानवत्साः पयसा समन्वितास्  
-सुवर्णकांस्योपदुहा[^203] न तेन ॥१३
+सुवर्णकांस्योपदुहा[^245] न तेन ॥१३
 
-[^203]: "क-घ–सुवर्णवर्णाः कामदुधा न तेन"
+[^245]: # "क-घ–सुवर्णवर्णाः कामदुधा न तेन"
 
 अप्तोर्यामेषु सततम् एकैकस्मिन् दशाददम् ।  
 गृष्टीनां क्षीरदोग्ध्रीणां रोहिणीनां शतानि च ॥१४।
@@ -4611,28 +4669,28 @@ The Presidency College,
 प्रादां दशगुणं ब्रह्मन् न च तेनाहमागतः ॥१५
 
 वाजिनां बाह्लिजातानाम् अयुतानामदां दश ।  
-पीतानां[^204] हेममालानां न च तेनाहमागतः ॥१६
+पीतानां[^246] हेममालानां न च तेनाहमागतः ॥१६
 
-[^204]: "क-घ–सितानां"
+[^246]: # "क-घ–सितानां"
 
 कोटीश्च गाश्चतस्त्रोऽष्टौ प्रादां ब्रह्मन् दशत्वहम् ।  
 एकैकस्मिन् क्रतौ तेन फलेनापि न चागतः ॥१७
 
 वाजिनां श्यामवर्णानां हरितानां पितामह ।  
-प्रादां हमेस्रजां ब्रह्मन् कोटीर्दश च सप्त[^205] च ॥१८
+प्रादां हमेस्रजां ब्रह्मन् कोटीर्दश च सप्त[^247] च ॥१८
 
-[^205]: "क-ख–सत्तम"
+[^247]: # "क-ख–सत्तम"
 
 ईषादन्तान् महाकायान् काञ्चनस्रग्विभूषितान् ।
 
-पद्मिनां[^206] वै सहस्राणि प्रायच्छं दश सप्त च ॥१९
+पद्मिनां[^248] वै सहस्राणि प्रायच्छं दश सप्त च ॥१९
 
-[^206]: "क-घ–पद्मानि; ख–दन्तिनां वै"
+[^248]: # "क-घ–पद्मानि; ख–दन्तिनां वै"
 
 अलङ्कृतानां देवेश दिव्यैः कनकभूषणैः ।  
-रथानां काञ्चनाङ्गानां सहस्राण्यददं[^207] दश ॥२०
+रथानां काञ्चनाङ्गानां सहस्राण्यददं[^249] दश ॥२०
 
-[^207]: "क–ण्ययुतं दश;ख–णामयुतं दश"
+[^249]: # "क–ण्ययुतं दश; ख–णामयुतं दश"
 
 सप्त चान्यानि युक्तानि वाजिभिस्समलङ्कृतैः ।  
 दक्षिणावयवाः केचिद् वेदैर्ये सम्प्रकीर्तिताः ॥२१
@@ -4654,17 +4712,17 @@ The Presidency College,
 तपस्वी नियताहारश् शममास्थाय वाग्यतः ।  
 दीर्घकालं हिमवति गङ्गार्थमचरं तपः ॥२६॥
 
-मूर्ध्नी[^208]हरं महादेवं प्रणम्याभ्यर्चयन्नृपः ।  
+मूर्ध्नी[^250] हरं महादेवं प्रणम्याभ्यर्चयन्नृपः ।  
 न तेनाप्यहमागच्छं फलेनेह पितामह ॥२७॥
 
-[^208]: "क-घ– मृगनाभं महादेवं शिरसा यद्दधार सः । न तेनाप्यहमुद्गच्छं फलेनेह पितामह ॥[ पाठान्तरम् ]"
+[^250]: # "क-घ– मृगनाभं महादेवं शिरसा यद्दधार सः । न तेनाप्यहमुद्गच्छं फलेनेह पितामह ॥ [ पाठान्तरम् ]"
 
-शम्याक्षेपैरयजं[^209] यच्च देवाञ्  
+शम्याक्षेपैरयजं[^251] यच्च देवाञ्  
 शतैः क्रतूनामयुतैश्चापि यच्च ।  
 त्रयोदशद्वादशाहैश्च देव  
 सपौण्डरीकैर्न च तेषां फलेन॥२८॥
 
-[^209]: "ख– पञ्च पादा न सन्ति"
+[^251]: # "ख– पञ्च पादा न सन्ति"
 
 अष्टौ सहस्राणि ककुद्मिनामहं  
 शुक्लर्षभाणामददं ब्राह्मणेभ्यः ।  
@@ -4681,19 +4739,19 @@ The Presidency College,
 द्वाशाहैरश्वमेधैश्च देवान् ।
 
 गवां धनैष्षोडशभिश्च ब्रह्मंस्  
-तेषां फलेनेह न चागतोऽस्मि॥३२॥
+तेषां फलेनेह न चागतोऽस्मि ॥३२॥
 
 निष्कैककण्ठीमददां गां जनाय  
 तथा विस्तीर्णं काञ्चनपादपानाम् ।  
 वनं चूतानां रत्नविभूषितानां  
 न चैव तेषामागतोऽहं फलेन ॥३३॥
 
-तुरायणं[^210] तु व्रतमप्यधृष्यम्  
+तुरायणं[^252] तु व्रतमप्यधृष्यम्  
 अक्रोधनोऽकरवं त्रिंशदब्दान् ।  
 शतं गवामष्टशतानि चैव  
 दिने दिने ह्यददं ब्राह्मणेभ्यः ॥३४॥
 
-[^210]: "ख-चान्द्रायणं तु; घ-तुरायणानु"
+[^252]: # "ख-चान्द्रायणं तु; घ-तुरायणानु"
 
 पयस्विनीनामथ रोहिणीनां  
 तथैव चाप्यनडुहां लोकनाथ ।  
@@ -4706,10 +4764,11 @@ The Presidency College,
 अष्टभिस्सर्वमेधैश्च नृमेधैर्द्विगुणैस्तथा ।  
 दशभिश्चाश्वमेधैश्च स्तोभैरष्टादशोत्तरैः ॥३७॥  
 
-न चैव तेषां देवेश फलेनाहमिहागतः॥३८
 
-सरय्वां बाहुदायां च गङ्गायामथ नैमिशे।  
-गवां शतानामयुतम् अददं न च तेन वै॥३९
+न चैव तेषां देवेश फलेनाहमिहागतः ॥३८
+
+सरय्वां बाहुदायां च गङ्गायामथ नैमिशे ।  
+गवां शतानामयुतम् अददं न च तेन वै ॥३९
 
 इन्द्रेण गुह्यं निहितं गुहायां  
 यद्भवता तपसा न ह्यविन्दत ।  
@@ -4725,37 +4784,38 @@ The Presidency College,
 उक्तस्तैरस्मि गच्छ त्वं ब्रह्मलोकमिति प्रभो ॥४२
 
 प्रीतेनोक्तस्सहस्रेण ब्राह्मणानामहं प्रभो ।  
-इमं लोकमनुप्राप्तो मा भूत् तत्र विचारणा॥४३॥
+इमं लोकमनुप्राप्तो मा भूत् तत्र विचारणा ॥४३॥
 
 कामं यथावद्विहितं विधात्रा  
 पृष्टेन वाच्यं तु मया यथावत् ।  
 तपो नान्यच्चानशनान्मतं मे  
 नमोस्तु ते देववर प्रसीद ॥४४॥  
 
-भीष्मः–
+
+**भीष्मः–**
 
 इत्युक्तवन्तं तं ब्रह्मा राजानं स्म भगीरथम् ।  
-पूजयामास पूजार्हंविधिदृष्टेन कर्मणा ॥४५॥
+पूजयामास पूजार्हं विधिदृष्टेन कर्मणा ॥४५॥
 
 तस्मादनशनैर्युक्तो विप्रान्, पूजय नित्यदा ।  
 विप्राणां वचनात् सर्वं परत्रेह च सिध्यति ॥४६॥
 
 वासोभिरन्नैर्गोभिश्च शुभैनैवेशिकैरपि ।  
-शुभैस्सुरक्षणैश्चापि तोष्याएव द्विजास्त्वया ॥४७॥
+शुभैस्सुरक्षणैश्चापि तोष्या एव द्विजास्त्वया ॥४७॥
 
 एतदेव परं गुह्यम् अलोभेन समाचर ॥४८
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि त्रिनवतितमोऽध्यायः ॥ ९३ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि त्रिनवतितमोऽध्यायः ॥ ९३ ॥  
-\[ अस्मिन्नध्याये ४८ श्लोकाः \]  
+\[ अस्मिन्नध्याये ४८ श्लोकाः \]**  
 **————**
 
 **॥ चतुर्णवतितमोऽध्यायः ॥**
 
   भीष्मेण युधिष्टिरं प्रत्यायुष्यानायुष्यकारणशुभाशुभकर्मप्रतिपादनम् ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 शतायुरुक्तः पुरुषश् शतवीर्यश्च वैदिके ।  
 कस्मान्म्रियन्ते पुरुषा वाला अपि पितामह ॥१
@@ -4766,7 +4826,7 @@ The Presidency College,
 तपसा ब्रह्मचर्येण जपैर्होमैस्तथा परैः ।  
 जन्मना यदि वाऽचारात् तन्मे ब्रूहि पितामह ॥३
 
-भीष्मः–
+**भीष्मः–**
 
 अत्र तेऽहं प्रवक्ष्यामि यन्मां त्वं परिपृच्छसि ।  
 अल्पायुर्येन भवति दीर्घायुर्येन मानवः ॥४
@@ -4786,13 +4846,13 @@ The Presidency College,
 आचारलक्षणो धर्मस् सन्तश्चाचारलक्षणाः ।  
 साधूनां च यथावृत्तम् एतदाचारलक्षणम् ॥९
 
-अप्यदृष्टं श्रुतं वाऽपि पुरुषंधर्मचारिणम् ।  
+अप्यदृष्टं श्रुतं वाऽपि पुरुषं धर्मचारिणम् ।  
 स्वानि कर्माणि कुर्वाणं तं जनाः कुर्वते प्रियम् ॥१०
 
 ये नास्तिका निष्क्रियाश्च गुरुशास्त्रातिलङ्घिनः ।  
-अधर्मज्ञा दुराचारास् ते भवन्ति गतायुषः॥११
+अधर्मज्ञा दुराचारास् ते भवन्ति गतायुषः ॥११
 
-दुश्शीला[^129] भिन्नमर्यादा नित्यं सङ्कीर्णमैथुनाः ।  
+दुश्शीला[^79] भिन्नमर्यादा नित्यं सङ्कीर्णमैथुनाः ।  
 अल्पायुषो भवन्तीह नरा निरयगामिनः ॥१२
 
 सर्वलक्षणहीनोऽपि समुदाचारवान् नरः ।  
@@ -4804,60 +4864,60 @@ The Presidency College,
 लोष्ठमर्दी तृणच्छेदी नखखादी च यो नरः ।  
 नित्योच्छिष्टस्सूचकश्च नेहायुर्विन्दते महत् ॥१५
 
-ब्राह्मेमुहूर्ते बुध्येत धर्मार्थावनुचिन्तयेत् ।  
-उत्थाय चोपतिष्ठेत पूर्वांसन्ध्यां कृताञ्जलिः ॥१६
+ब्राह्मे मुहूर्ते बुध्येत धर्मार्थावनुचिन्तयेत् ।  
+उत्थाय चोपतिष्ठेत पूर्वां सन्ध्यां कृताञ्जलिः ॥१६
 
 एवमेव परां सन्ध्यां समुपासीत वाग्यतः ।  
-नेक्षेतोद्यन्तमादित्यं[^53] नास्तं यान्तं कदाचन ॥१७
+नेक्षेतोद्यन्तमादित्यं[^72] नास्तं यान्तं कदाचन ॥१७
 
-ऋषयो दीर्घसन्ध्यत्वाद् दीर्घमायुरवाप्नुवन्॥१७॥
+ऋषयो दीर्घसन्ध्यत्वाद् दीर्घमायुरवाप्नुवन् ॥१७॥
 
 सदर्भपाणिस्तत्कुर्वन् वाग्यतस्तन्मनाश्शुचिः ।  
 तस्मात्तिष्ठेत् सदा पूर्वां पश्चिमां चैव वाग्यतः ॥१८॥
 
 ये न पूर्वामुपासन्ते द्विजास्सन्ध्यां न पश्चिमाम् ।  
-सर्वांस्तान् धार्मिको राजा शूद्रकर्माणि कारयेत्॥१९॥
+सर्वांस्तान् धार्मिको राजा शूद्रकर्माणि कारयेत् ॥१९॥
 
 परदारा न गन्तव्यास् सर्ववर्णेषु कर्हिचित् ।  
-नहीदृशमनायुष्यं लोके किञ्चन विद्यते॥२०॥
+नहीदृशमनायुष्यं लोके किञ्चन विद्यते ॥२०॥
 
 यादृशं पुरुषस्येह परदारोपसेवनम् ।  
-तादृशं[^213] पुरुषस्येह धनायुष्यहरं नृणाम्॥२१॥
+तादृशं[^255] पुरुषस्येह धनायुष्यहरं नृणाम् ॥२१॥
 
-[^213]: "क–इदमर्धं नास्ति"
+[^255]: # "क–इदमर्धं नास्ति"
 
-मैत्रं प्रसाधनं[^214] स्नानम् अञ्जनं दन्तधावनम् ।  
-पूर्वाह्णएव कुर्वीत देवतानां च पूजनम्॥२२॥
+मैत्रं प्रसाधनं[^256] स्नानम् अञ्जनं दन्तधावनम् ।  
+पूर्वाह्ण एव कुर्वीत देवतानां च पूजनम् ॥२२॥
 
-[^214]: "ख–प्रसादनं"
+[^256]: # "ख– प्रसादनं"
 
 पुरीषमूत्रे नोदीक्षेन्नाधितिष्ठेत् कथञ्चन ।  
 उदक्यया च सम्भाषां न कुर्वीत कदाचन ॥२३॥
 
 नोत्सृजेत पुरीषं च क्षेत्रे मार्गस्य चान्तिके ।  
-उभे मूत्रपुरीषेतु नाप्सु[^215] कुर्याद्विचक्षणः ॥२४॥
+उभे मूत्रपुरीषे तु नाप्सु[^257] कुर्याद्विचक्षणः ॥२४॥
 
-[^215]: "क-घ–अयं पादोऽनन्तरश्च नस्तः"
+[^257]: # "क-घ–अयं पादोऽनन्तरश्च नस्तः"
 
 देवालयेऽथ गोबृन्दे चैत्ये सस्येषु विश्रमे ॥२५
 
-भक्ष्यान्[^216] भुक्त्वा क्षुतेऽध्वानं गत्वा मूत्रपरीषयोः ।  
+भक्ष्यान्[^258] भुक्त्वा क्षुतेऽध्वानं गत्वा मूत्रपरीषयोः ।  
 द्विराचामेद्यथान्यायं हृद्गतं तु पिबन्नपः ॥२६
 
-[^216]: "क-घ–भोज्यान्; ख–भोक्ष्यन्"
+[^258]: # "क-घ–भोज्यान्; ख–भोक्ष्यन्"
 
-प्राङ्मुखोनित्यमश्नीयाद्वाग्यतोऽन्नमकुत्सयन् ।  
+प्राङ्मुखो नित्यमश्नीयाद् वाग्यतोऽन्नमकुत्सयन् ।  
 प्रस्कन्दयेच्च मनसा भुक्त्वा चाग्निमुपस्पृशेत् ॥२७
 
 आयुष्यं प्राङ्मुखो भुङ्क्ते यशस्यं दक्षिणामुखः ।  
-धन्यं पश्चान्मुखो भुङ्क्ते मदं[^217] भुङ्क्त उदङ्मुखः ॥२८
+धन्यं पश्चान्मुखो भुङ्क्ते मदं[^259] भुङ्क्त उदङ्मुखः ॥२८
 
-[^217]: "ख-घ–ऋतं"
+[^259]: # "ख-घ–ऋतं"
 
 अग्रासनो जितक्रोधी बालपूर्वस्त्वलङ्कृतः ।  
-घृताहुति विशुद्धान्नंहुताग्निश्[^218]च क्षिपन् ग्रसेत् ॥२९
+घृताहुति विशुद्धान्नं हुताग्निश्[^260]च क्षिपन् ग्रसेत् ॥२९
 
-[^218]: "ख–श्चाक्षि"
+[^260]: # "ख–श्चाक्षि"
 
 नाधितिष्ठेत्तुषाञ् जातु केशभस्मकपालकान् ।  
 अन्यस्य चाप्युपस्थानं दूरतः परिवर्जयेत् ॥३०
@@ -4881,12 +4941,12 @@ The Presidency College,
 अभिवादयेच्च वृद्धानाम् आसनं चैव दापयेत् ।  
 कृताञ्जलिरुपासीत गच्छतः पृष्ठतोऽन्वियात् ॥३६
 
-न[^219] चासीतासने भिन्नेभिन्नकांस्यं च वर्जयेत् ।  
-नैकवस्त्रेण[^220] भोक्तव्यं न नग्नस्स्त्रातुमर्हति ॥३७
+न[^261] चासीतासने भिन्ने भिन्नकांस्यं च वर्जयेत् ।  
+नैकवस्त्रेण[^262] भोक्तव्यं न नग्नस्स्त्रातुमर्हति ॥३७
 
-[^219]: "ख–नचाश्रीता"
+[^261]: # "ख–नचाश्रीता"
 
-[^220]: "क-घ– अर्धचतुष्टयं नास्ति"
+[^262]: # "क-घ– अर्धचतुष्टयं नास्ति"
 
 स्वप्तव्यं नैव नग्नेन न चोच्छिष्टोऽपि संविशेत् ।  
 उच्छिष्टो न स्पृशेच्छीर्षं सर्वे प्राणास्तदाश्रयाः ॥३८
@@ -4894,9 +4954,9 @@ The Presidency College,
 केशग्रहान् प्रहारांश्च शिरस्येतान् विवर्जयेत् ।  
 न पाणिभ्यामुभाभ्यां च कण्डूयेज्जातु वै शिरः ॥३९
 
-न चाभीक्ष्णं शिरस्स्नायाद् आयुस्तस्य न रिष्यते[^221] ॥ ३९॥
+न चाभीक्ष्णं शिरस्स्नायाद् आयुस्तस्य न रिष्यते[^263] ॥ ३९॥
 
-[^221]: "क-घ–जीर्यते"
+[^263]: # "क-घ–जीर्यते"
 
 शिरोभ्यक्तेन तैलेन नाङ्गं किञ्चिद् उपस्पृशेत् ।  
 तिलपिष्टं न चाश्नियाद् गतसर्वरसं तथा ॥४०॥
@@ -4907,21 +4967,21 @@ The Presidency College,
 
 अत्र गाथा यमोद्गीताः कीर्तयन्ति पुराविदः ॥४२
 
-यमः–
+**यमः–**
 
 आयुरस्य निकृन्तामि प्रज्ञामस्याददेऽथ वा ।  
 य उच्छिष्टः प्रवदति स्वाध्यायं वाऽधिगच्छति ॥४३
 
 यश्चानध्यायकालेऽपि मोहादभ्यस्यति द्विजः ॥४३॥
 
-भीष्मः–
+**भीष्मः–**
 
 तस्माद्युक्तोऽप्यनध्याये नाधीयीत कदाचन ॥४४
 
-प्रत्यादित्यं प्रत्यनिलं[^222] प्रतिगां प्रति च द्विजान् ।  
+प्रत्यादित्यं प्रत्यनिलं[^264] प्रतिगां प्रति च द्विजान् ।  
 मेहयन्ति च पन्थानं ते भवन्ति गतायुषः ॥४५
 
-[^222]: "व–प्रत्यनलं"
+[^264]: # "व–प्रत्यनलं"
 
 उभे मूत्रपुरीषे वै दिवा कुर्यादुदङ्मुखः ।  
 दक्षिणाभिमुखो रात्रौ तदाऽस्यायुर्नरिष्यति ॥४६
@@ -4929,18 +4989,19 @@ The Presidency College,
 त्रीन् सदा नावजानीयाद् दीर्घमायुर्जिजीविपुः ।  
 ब्राह्मणं क्षत्रियं सर्पं सर्वे ह्याशीविषास्त्रयः ॥४७
 
-दहत्याशीविषःक्रुद्धो यावत् स्पृशति[^223] चक्षुषा ।  
+दहत्याशीविषः क्रुद्धो यावत् स्पृशति[^265] चक्षुषा ।  
 क्षत्रियोऽपि दहेत् क्रुद्धो यावत् स्पृशति तेजसा ॥४८
 
-[^223]: "घ–दहति"
+[^265]: # "घ–दहति"
 
 ब्राह्मणस्तु कुलं हन्याद् ध्यानेनावेक्षणेन च ।  
-तस्मादेतत् त्रयंनित्यं नावमन्येत पण्डितः ॥४९  
+तस्मादेतत् त्रयं नित्यं नावमन्येत पण्डितः ॥४९  
+
 
 गुरुणा वैरनिर्बन्धो न कर्तव्यः कथञ्चन ।  
 अनुमान्यः प्रसाद्यश्च गुरुः क्रुद्धो युधिष्ठिर ॥५०
 
-सम्यङ्मिथ्याप्रवृत्तेऽपि वर्तितव्यं गुराविह।  
+सम्यङ्मिथ्याप्रवृत्तेऽपि वर्तितव्यं गुराविह ।  
 गुरुनिन्दा दहत्यायुर् मनुष्याणां न संशयः ॥५१
 
 दूरादावसथान्मूत्रं दूरात् पादावसेचनम् ।  
@@ -4958,10 +5019,10 @@ The Presidency College,
 मध्यन्दिने निशाकाले मध्यरात्रे च सर्वदा ।  
 चतुष्पथान् न सेवेत उभे सन्ध्ये तथैव च ॥५६
 
-उपानहौ[^816] च छत्रं च धृतमन्यैर्न धारयेत् ।  
+उपानहौ[^266] च छत्रं च धृतमन्यैर्न धारयेत् ।  
 ब्रह्मचारी च नित्यं स्यात् पादं पादेन नाक्रमेत् ॥५७
 
-[^816]: # "क-घ–अर्धपञ्चकं नास्ति"
+[^266]: # "क-घ–अर्धपञ्चकं नास्ति"
 
 अमायां पौर्णमास्यां च चतुर्दश्यां च जन्मनि ।  
 अष्टम्यामथ द्वादश्यां ब्रह्मचारी सदा भवेत् ॥५८
@@ -4970,23 +5031,23 @@ The Presidency College,
 आक्रोशं परिवादं च पैशुन्यं च विवर्जयेत् ॥५९
 
 नारुन्तुदरस्यान्न नृशंसवादी  
-न[^224] हीनतो धनमभ्याददीत ।  
+न[^267] हीनतो धनमभ्याददीत ।  
 ययाऽस्य वाचा पर उद्विजेत  
-न तां वदेद्रुशततींपापलोक्याम् ॥६०
+न तां वदेद्रुशततीं पापलोक्याम् ॥६०
 
-[^224]: "क-घ–न दोनतोवर ख–न हीनतो वाऽऽवारमभ्यादीत"
+[^267]: # "क-घ–न दोनतो वर ख–न हीनतो वाऽऽवारमभ्यादीत"
 
 अतिवादबाणा मुखतो निरसरन्ति  
 यैराहतश्शोचति रात्र्यहानि ।  
 परस्य वा मर्मसु ये पतन्ति  
 तान् पण्डितो नावसृजेत् परेषु ॥६१
 
-संरोहत्यग्निना दुग्धं वनं परशुना क्षतम्[^817] ।  
+संरोहत्यग्निना दुग्धं वनं परशुना क्षतम्[^268] ।  
 वाचा दुरुक्तं बीभत्सं न संरोहति वाक्क्षतम् ॥६२
 
-[^817]: # "घ-हृतम्"
+[^268]: # "घ-हृतम्"
 
-हीनाङ्गानतिरिक्ताङ्गान् विद्याहीनान्क्योधिकान् ।  
+हीनाङ्गानतिरिक्ताङ्गान् विद्याहीनान् क्योधिकान् ।  
 रूपद्रविणहीनांश्च जातिहीनांश्च नाक्षिपेत् ॥६३
 
 नास्तिक्यं वेदनिन्दां च परनिन्दां च कुत्सनम् ।  
@@ -5004,23 +5065,23 @@ The Presidency College,
 
 गायत्रीमननं नित्यं कुर्यात् सन्ध्यां समाहितः ॥६७॥
 
-कृत्वा मूत्रपुरीषे तु रथ्यामाक्रम्य[^225] वा पुनः ।  
+कृत्वा मूत्रपुरीषे तु रथ्यामाक्रम्य[^269] वा पुनः ।  
 पादप्रक्षालनं कुर्यात् स्वाध्याये भोजने तथा ॥६८॥
 
-[^225]: "ख–मावृत्य"
+[^269]: # "ख–मावृत्य"
 
 त्रीणि देवाः पवित्राणि ब्राह्मणानामकल्पयन् ।  
-अदृष्टमद्भिर्निर्णिक्तं[^226] यच्च वाचा प्रशस्यते ॥६९॥
+अदृष्टमद्भिर्निर्णिक्तं[^270] यच्च वाचा प्रशस्यते ॥६९॥
 
-[^226]: "अ–अर्धत्रयं नास्ति"
+[^270]: # "अ–अर्धत्रयं नास्ति"
 
 यावकं कुसरं मांस शकुलीं पायसं तथा ।  
 आत्मार्थं न प्रकर्तव्यं देवतार्थं प्रकल्पयेत् ॥७०॥
 
-नित्यमग्निं परिचरेद्भिक्षां दद्याच्चभिक्षितः[^227] ।  
+नित्यमग्निं परिचरेद् भिक्षां दद्याच्च भिक्षितः[^271] ।  
 दन्तकाष्ठे च सन्ध्यायां मलोत्सर्गे च मौनगः ॥७१॥
 
-[^227]: "क–घ भक्तितः; ख–शक्तितः"
+[^271]: # "क–घ भक्तितः; ख–शक्तितः"
 
 न सन्ध्यायां स्वपेन्नित्यं स्नायाच्छुद्धस्सदा भवेत् ।  
 प्रातः पितरमुत्थाय पूर्वमेवाभिवादयेत् ॥७२॥
@@ -5058,22 +5119,22 @@ The Presidency College,
 रक्तं शिरसि धार्यं तु तथा नाघ्रेयमित्यपि ।  
 काञ्चनी चाऽपि माला या न सा दुष्यति कर्हिचित् ॥ ८३
 
-स्नाने निर्माल्यकं वर्जेत् स्नात्वा नाङ्गानि[^228] मार्जयेत् ।  
+स्नाने निर्माल्यकं वर्जेत् स्नात्वा नाङ्गानि[^272] मार्जयेत् ।  
 न चानुलिम्पेदस्नात्वा वासश्चापि न निर्धुनेत् ॥८४
 
-[^228]: "क-घ– चाङ्गानि"
+[^272]: # "क-घ– चाङ्गानि"
 
 आर्द्र एव तु वासांसि नित्यं सेवेत मानवः ।  
 स्रजश्च नापकर्पेत न वहिर्धारयेत च ॥८५
 
-स्त्रातस्तु वर्णकं नित्यम् आर्द्रं[^229] दद्याद्विशां पते ॥८५॥
+स्त्रातस्तु वर्णकं नित्यम् आर्द्रं[^273] दद्याद्विशां पते ॥८५॥
 
-[^229]: "क–मालां"
+[^273]: # "क–मालां"
 
-विपर्ययं[^230] न कुर्वीत वाससो बुद्धिमान् नरः ।  
+विपर्ययं[^274] न कुर्वीत वाससो बुद्धिमान् नरः ।  
 तथा नान्यधृतं ग्राह्यं न चातिविकृतं तथा ॥८६॥
 
-[^230]: "क–अर्धपञ्चकं नास्ति"
+[^274]: # "क–अर्धपञ्चकं नास्ति"
 
 अन्यदेव भवेद्वासश् शयनीये नरोत्तम ।  
 अन्यद्रथ्यासु देवानाम् अर्चायामन्यदेव तु ॥८७
@@ -5087,22 +5148,22 @@ The Presidency College,
 नावलीढमवज्ञातम् आघ्रातं भक्षयेदपि ।  
 तथा नोद्धृतसाराणि प्रेक्षतामप्रदाय च ॥९०॥
 
-नासन्निविष्टो[^818] मेधावी नाशुचिर्न च सत्सु च ।  
-प्रतिषिद्धं न धर्मेषु भक्ष्यं भुञ्जीत पर्वतः[^231] ॥९१॥
+नासन्निविष्टो[^275] मेधावी नाशुचिर्न च सत्सु च ।  
+प्रतिषिद्धं न धर्मेषु भक्ष्यं भुञ्जीत पर्वतः[^276] ॥९१॥
 
-[^231]: "क-घ–पृष्ठतः"
+[^275]: # "घ–अर्धत्रयं नास्ति"
 
-[^818]: # "घ–अर्धत्रयं नास्ति"
+[^276]: # "क-घ–पृष्ठतः"
 
 पिप्पलं च वटं चैव शणशाकं तथैव च ।  
-उदुम्बरं न खादेच्च भव्यार्थी[^232] पुरुषो नृप ॥९२॥
+उदुम्बरं न खादेच्च भव्यार्थी[^277] पुरुषो नृप ॥९२॥
 
-[^232]: "ख–भावार्थी; घ–पापार्थी"
+[^277]: # "ख–भावार्थी; घ–पापार्थी"
 
 आजं गव्यं च यन्मांसं मायूरं चैव वर्जयेत् ।  
 वर्जयेच्छुष्कमांसानि तथा पर्युषितं च यत् ॥९३॥
 
-न पाणौ लवणं विद्वान् प्राश्नीयान्न च रात्रिषु।  
+न पाणौ लवणं विद्वान् प्राश्नीयान्न च रात्रिषु ।  
 दधिसक्तु न दोषायां पिबेन्मधु च नित्यशः ॥९४ ॥
 
 बालेन न तु भुञ्जीत द्विपदन्नं च सर्वशः ।  
@@ -5114,7 +5175,7 @@ The Presidency College,
 तोयपूर्वं प्रदायान्नम् अतिथिभ्यो विशां पते ।  
 पश्चाद्भुञ्जीत मेधावी न चाप्यन्यमना नरः ॥९७॥
 
-समानमेकपङ्क्त्यांतु भुज्यमानं नरेश्वर ।  
+समानमेकपङ्क्त्यां तु भुज्यमानं नरेश्वर ।  
 विषं हालहलं भुङ्क्ते योऽप्रदाय सुहृज्जने ॥९८॥
 
 पानीयं पायसं सर्पिः दधि सक्तुमधून्यपि ।
@@ -5127,7 +5188,7 @@ The Presidency College,
 आचम्य चैकहस्तेन परिस्राव्य तथोदकम् ।  
 अङ्गुष्ठं चरणस्याथ दक्षिणस्यावसेचयेत् ॥१०१॥
 
-पाणिंमूर्ध्ना समानाय्य स्पृष्ट्वा चाग्निं समाहितः ।  
+पाणिं मूर्ध्ना समानाय्य स्पृष्ट्वा चाग्निं समाहितः ।  
 ज्ञातिश्रैष्ठ्यमवाप्नोति प्रयोगकुशलो नरः ॥१०२॥
 
 अद्भिः प्राणान् समालभ्य नाभिं पाणितलेन च ।  
@@ -5136,7 +5197,7 @@ The Presidency College,
 अङ्गुष्ठमूलस्य तले ब्राह्मं तीर्थं प्रचक्षते ।  
 कनिष्ठिकायाः पश्चात्तु दैवतीर्थमिहोच्यते ॥१०४॥
 
-अङ्गुष्टस्य च यन्मध्यं प्रदेशिन्याश्चभारत ।  
+अङ्गुष्टस्य च यन्मध्यं प्रदेशिन्याश्च भारत ।  
 तेन पित्र्याणि कुर्वीत स्पृष्ट्वाऽऽपो न्यायतस्स्तथा । १०५॥
 
 परापवादं न ब्रूयान्नाप्रियं च कदाचन ।  
@@ -5155,16 +5216,16 @@ The Presidency College,
 इन्द्रियाणि सकृत् स्पृश्य त्रिरभ्युक्ष्य च मानवः ।  
 कुर्वीत पितृदैवं च वेददृष्टेन कर्मणा ॥११०॥
 
-ब्राह्मणार्थेच यच्छौचं तच्च मे शृणु कौरव।  
+ब्राह्मणार्थे च यच्छौचं तच्च मे शृणु कौरव ।  
 प्रवृत्तं चाहितं चोक्त्वा बहुभोजनवत्तदा ॥१११॥
 
 सर्वशौचेन ब्राह्मण तीर्थेन समुपस्पृशेत् ।  
 निष्टीव्य तु तथा क्षुत्वा स्पृश्यापो हि शुचिर्भवेत् ॥ ११२ ॥
 
-निष्ठीवने मैथुने च क्षुते कक्ष्याविमोचने[^233] ।  
+निष्ठीवने मैथुने च क्षुते कक्ष्याविमोचने[^278] ।  
 उदक्यादर्शने तद्वन्नग्नस्याचमनं स्मृतम् ॥११३॥
 
-[^233]: "क-घ–वियोजने"
+[^278]: # "क-घ–वियोजने"
 
 स्पृशेत् कर्णं सप्रणवं सूर्यमीक्षेत् सदा तदा ॥११४
 
@@ -5179,56 +5240,54 @@ The Presidency College,
 शुद्धं जलं सुवर्णं च रजतं गृहमङ्गलम्॥११७
 
 गृहेषु च तथा पापा निविष्टास्तैलपायिकाः ।  
-उपदीकाश्च[^819]गृध्राश्च कपोता भ्रमरास्तथा ॥११८
+उपदीकाश्च[^279] गृध्राश्च कपोता भ्रमरास्तथा ॥११८
 
-[^819]: # "घ–इदमर्धं नास्ति"
+[^279]: # "घ–इदमर्धं नास्ति"
 
 निविशेयुर्यदा तत्र शान्तिहोमं समाचरेत् ॥११८॥
 
 अमङ्गल्यस्सतां शापस् तथाऽऽक्रोशो महात्मनाम् ।  
 महात्मनां च गुह्यानि न वक्तव्यानि कर्हिचित् ॥११९॥
 
-अगम्याश्च[^234] न गच्छेत राजपत्नीस्सखीस्तथा ॥१२०
-
-[^234]: "क-घ–अर्धत्रयं नास्ति"
+अगम्याश्च[^114] न गच्छेत राजपत्नीस्सखीस्तथा ॥१२०
 
 वैद्यानां बालवृद्धानां भृत्यानां च युधिष्ठिर ।  
 बन्धूनां ब्राह्मणानां च तथा नागरिकस्य च ॥१२१
 
 सम्बन्धिनां च राजेन्द्र तथाऽऽयुर्विन्दते महत् ॥ १२१॥
 
-ब्राह्मणस्थपतिभ्यां[^53] च निर्मितं यन्निवेशनम् ।  
+ब्राह्मणस्थपतिभ्यां[^72] च निर्मितं यन्निवेशनम् ।  
 समावसेत् सदा प्राज्ञो भवार्थी मनुजेश्वर ॥१२२॥
 
 सन्ध्यायां न स्वपेद्राजन् विद्यां च न समाचरेत् ।  
 न भुञ्जीत च मेधावी तथाऽऽयुर्विन्दते महत् ॥१२३॥
 
 नक्तं न कुर्यात् पित्र्याणि नक्तं चैव प्रसाधनम् ।  
-पानीयस्य क्रियां नक्तं न कुर्याद् भूतिमिच्छता[^236]॥१२४ ॥
+पानीयस्य क्रियां नक्तं न कुर्याद् भूतिमिच्छता[^282] ॥ १२४ ॥
 
-[^236]: "ख–गति"
+[^282]: # "ख–गति"
 
 वर्जनीयाश्च ते नित्यं सक्तवो निशि भारत ।  
 शेषाणि चावदातानि पानीयं चैव भोजने ॥१२५॥
 
 सौहित्यं न च कर्तव्यं रात्रौ नैव समाचरेत् ।  
-न[^237] भुक्त्वा मैथुनं गच्छेन्न धावेन्नातिहासकम् ॥१२६॥
+न[^283] भुक्त्वा मैथुनं गच्छेन्न धावेन्नातिहासकम् ॥१२६॥
 
-[^237]: "क-इदमर्धद्वयं नास्ति; ख-नाभुक्त्वा+ न्नधावेन्नाति"
+[^283]: # "क-इदमर्धद्वयं नास्ति; ख-नाभुक्त्वा + न्नधावेन्नाति"
 
-द्विजोच्छेदं[^238] न कर्तव्यं भुक्त्वा सह[^820] समाचरेत् ॥१२७
+द्विजोच्छेदं[^284] न कर्तव्यं भुक्त्वा सह[^285] समाचरेत् ॥१२७
 
-[^238]: " ख–द्विजाच्छेदं न कुर्वीत भुक्त्वाद्रोहः समाचरेत् । [पाठान्तरम्]"
+[^284]: # " ख–द्विजाच्छेदं न कुर्वीत भुक्त्वा द्रोहः समाचरेत् । [पाठान्तरम्]"
 
-[^820]: # "क-घ–न च"
+[^285]: # "क-घ–न च"
 
 महाकुलप्रसूतां च [समस्तैर्लक्षणैर्युताम्](http://# "क-घ–प्रशस्तै") ।  
 वयसाऽवरां सुनक्षत्रां कन्यामुद्वोढुमर्हति ॥१२८
 
 अपत्यमुत्पाद्य ततः प्रतिष्ठितकुलस्तथा ।  
-पुत्राः प्रदेया ज्ञानेषु[^239] कुलधर्मेषु भारत ॥१२९
+पुत्राः प्रदेया ज्ञानेषु[^286] कुलधर्मेषु भारत ॥१२९
 
-[^239]: "ख–जातेषु ; घ–ज्ञातेषु"
+[^286]: # "ख–जातेषु ; घ–ज्ञातेषु"
 
 कन्याश्चोत्पाद्य दातव्याः कुलपुत्राय धीमते ।  
 पुत्रा निवेश्यास्स्वकुले भृत्या लभ्याश्च भारत ॥१३०
@@ -5246,7 +5305,7 @@ The Presidency College,
 प्राङ्मुखश्श्मश्रुकर्माणि कारयेत समाहितः ।  
 उदङ्मुखो वा राजेन्द्र तथाऽऽयुर्विन्दते महत् ॥१३४
 
-सामुद्रेणाम्भसा[^802] स्नानं क्षौरं श्राद्धेषु भोजनम् ।  
+सामुद्रेणाम्भसा[^114] स्नानं क्षौरं श्राद्धेषु भोजनम् ।  
 अन्तर्वत्नीपतिः कुर्वन्न पुत्रफलमश्नुते ॥१३५
 
 सतां गुरूणां वृद्धानां कुलस्त्रीणां विशेषतः ।  
@@ -5255,45 +5314,43 @@ The Presidency College,
 परिवादो न धर्माय प्रोच्यते भरतर्षभ ॥१३६॥
 
 वर्जयेद्व्यङ्गिनीं नारीं तथा कन्यां नरोत्तम ।  
-सामर्षां[^240]व्यङ्गिकां चैव मातुस्स्वकुलजां तथा ॥१३७॥
+सामर्षां[^288] व्यङ्गिकां चैव मातुस्स्वकुलजां तथा ॥१३७॥
 
-[^240]: "अ–समार्षं"
+[^288]: # "अ–समार्षं"
 
 वृद्धां प्रव्रजितां चैव तथैव च पतिव्रताम् ।  
 तथातिकृष्णवर्णां च वर्णोत्कृष्टां च वर्जयेत् ॥१३८॥
 
-अयोनिं[^822]च वियोनिं च न गच्छेत विचक्षणः ।  
-पिङ्गलां कुष्टिकां[^241] नारींन तामुद्वोढुमर्हति ॥१३९॥
+अयोनिं[^180] च वियोनिं च न गच्छेत विचक्षणः ।  
+पिङ्गलां कुष्टिकां[^290] नारीं न तामुद्वोढुमर्हति ॥१३९॥
 
-[^241]: "क–घ कुत्सिनीं"
+[^290]: # "क–घ कुत्सिनीं"
 
-[^822]: # "ख–अर्धत्रयं नास्ति"
-
-अपस्मारकुले[^52] जातां निहीनां चापि वर्जयेत् ।  
+अपस्मारकुले[^71] जातां निहीनां चापि वर्जयेत् ।  
 श्वित्र्याणां च कुले जातां त्रयाणां मनुजेश्वर ॥१४०॥
 
-लक्षणैरन्विता[^52] या च प्रशस्ता या च लक्षणैः ।
+लक्षणैरन्विता[^71] या च प्रशस्ता या च लक्षणैः ।
 
 मनोज्ञा दर्शनीया च स तां वोद्वोढुमर्हति ॥१४१॥
 
 महाकुले निवेष्टव्यं सदृशे वा युधिष्ठिर ।  
-अवरा पतिना[^244] चैव न ग्राह्या भूतिमिच्छता ॥१४२॥
+अवरा पतिना[^293] चैव न ग्राह्या भूतिमिच्छता ॥१४२॥
 
-[^244]: "घ–पतिता"
+[^293]: # "घ–पतिता"
 
 अग्नीनुत्पाद्य यत्नेन क्रियास्सुविहिताश्च याः ।  
-वेदेषु ब्राह्मणैः प्रोक्तास् ताश्च सर्वाश्च सङ्ग्रहेत्॥१४३॥
+वेदेषु ब्राह्मणैः प्रोक्तास् ताश्च सर्वाश्च सङ्ग्रहेत् ॥१४३॥
 
-न चेर्ष्या स्त्रीषुकर्तव्या दारा रक्ष्याश्च सर्वशः ।  
-अनायुष्या भवेदीर्ष्यातस्मादीर्ष्याविवर्जयेत् ॥१४४॥
+न चेर्ष्या स्त्रीषु कर्तव्या दारा रक्ष्याश्च सर्वशः ।  
+अनायुष्या भवेदीर्ष्या तस्मादीर्ष्या विवर्जयेत् ॥१४४॥
 
-अनायुष्यो[^818] दिवा स्वप्नस् तथाऽभ्युदितशयिता ।  
+अनायुष्यो[^275] दिवा स्वप्नस् तथाऽभ्युदितशयिता ।  
 प्रातर्निशायां च तथा ये चोच्छिष्टा भवन्ति च ॥१४५॥
 
-पारदार्यमनायुष्यं अपि चोच्छिष्टता तथा ।  
+पारदार्यमनायुष्यम् अपि चोच्छिष्टता तथा ।  
 यत्नतो नैव कर्तव्यम् अत्याशश्चैव भारत ॥१४६॥
 
-सन्ध्यां न भुञ्ज्यान्न स्नायान्न पुरीषंसमुत्सृजेत् ।  
+सन्ध्यां न भुञ्ज्यान्न स्नायान्न पुरीषं समुत्सृजेत् ।  
 प्रयतस्तु भवेत्तासु न किञ्चित् समुदाचरेत् ॥१४७॥
 
 ब्राह्मणान् पूजयेद्गच्छेत् तथा स्नात्वा नराधिप ।  
@@ -5304,9 +5361,9 @@ The Presidency College,
 
 न चैकेन पथि व्राज्यं न चैकेन पथा निशि ।
 
-नानापदि[^245] परस्यान्नम् अनिमन्त्रितमाहरेत् ॥१५०॥
+नानापदि[^295] परस्यान्नम् अनिमन्त्रितमाहरेत् ॥१५०॥
 
-[^245]: "क-घ–न पापान् प्रणमेत् स्नात्वा गुरूंश्चाप्यभिवादयेत् ।[ अधिकः पाठः ]                      2. क-घ–न चादद्यात्"
+[^295]: # "क-घ–न पापान् प्रणमेत् स्नात्वा गुरूंश्चाप्यभिवादयेत् । [ अधिकः पाठः ] 2. क-घ–न चादद्यात्"
 
 एकोद्दिष्टं न भुञ्जीत प्रथमं तु विशेषतः ।  
 मपिण्डीकरणं वर्ज्यं सविधानं च मासिकम् ॥१५१॥
@@ -5317,27 +5374,27 @@ The Presidency College,
 हितं चाप्यहितं चापि न विचार्यं नरेश्वर ॥१५३
 
 क्षत्रियस्तु विशेषेण धनुर्वेदं समभ्यसेत् ।  
-धनुर्वेदे च वेदे च यत्नः[^246] कार्यो नरेश्वर ॥१५४
+धनुर्वेदे च वेदे च यत्नः[^296] कार्यो नरेश्वर ॥१५४
 
-[^246]: "क-घ–गुरुः का"
+[^296]: # "क-घ–गुरुः का"
 
-हस्तिपृष्ठेऽश्वपृष्ठे च रथचर्यासु चैव ह।  
+हस्तिपृष्ठेऽश्वपृष्ठे च रथचर्यासु चैव ह ।  
 यत्नवान्भव राजेन्द्र यत्नवान्सुखमेधते ॥१५५
 
 अप्रधृष्यश्च शत्रूणां भृत्यानां स्वजनस्य च ।  
 प्रजापालनयुक्तश्च नारतिं लभते क्वचित् ॥१५६
 
-युक्तिशास्त्रं[^247] च ते ज्ञेयं शब्दशास्त्रं च भारत ।  
+युक्तिशास्त्रं[^297] च ते ज्ञेयं शब्दशास्त्रं च भारत ।  
 गान्धर्वशास्त्रं च कलाः परिज्ञेया नराधिप ॥१५७
 
-[^247]: "क-घ–अर्थं"
+[^297]: # "क-घ–अर्थं"
 
-पुराणमितिहासञ्चतथाऽऽख्यानानि यानि च ।  
-महात्मनां[^248] च चरितं श्रोतव्यं नित्यमेव ते ॥१५८
+पुराणमितिहासञ्च तथाऽऽख्यानानि यानि च ।  
+महात्मनां[^298] च चरितं श्रोतव्यं नित्यमेव ते ॥१५८
 
-[^248]: "क-घ–धर्मात्मनां"
+[^298]: # "क-घ–धर्मात्मनां"
 
-मान्यानां[^816] माननं कुर्यान्निन्द्यानां निन्दनं तथा ।  
+मान्यानां[^266] माननं कुर्यान्निन्द्यानां निन्दनं तथा ।  
 गोब्राह्मणार्थे युध्येत प्राणानपि परित्यजेत् ॥१५९
 
 न स्त्रीषु सज्जेद्द्रष्टव्यं शक्त्या दानरुचिर्भवेत् ।  
@@ -5370,23 +5427,21 @@ The Presidency College,
 एतद्यस्यमायुष्यं स्वर्ग्यं स्वस्त्ययनं महत् ।  
 अनुकम्पा सर्ववर्णे ब्रह्मणा समुदाहृता ॥१६८॥
 
-य[^825] श्मं शृणुयान्नित्यं यश्चापि परिकीर्तयेत् ।  
+य[^109] श्मं शृणुयान्नित्यं यश्चापि परिकीर्तयेत् ।  
 स शुभान् प्राप्नुते लोकान् सदाचारव्रतान् नृप ॥१६९॥
 
-[^825]: # "अ-क-घ–अर्धद्वयं नास्ति"
-
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चतुर्णवतितमोऽध्यायः ॥ ९४ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि चतुर्णवतितमोऽध्यायः ॥ ९४ ॥  
 \[ अस्मिन्नध्याये १६९ ॥ श्लोकाः \]**
 
 **————**
 
-॥ पञ्चनवतितमोऽध्यायः ॥
+****॥ पञ्चनवतितमोऽध्यायः ॥****
 
   भीष्मेण युधिष्ठिरं प्रति ज्येष्ठकनिष्टयोः परस्परस्मिन्वर्तनप्रकारादिकथनम् ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 कथं ज्येष्ठः कनिष्ठेषु वर्तते भरतर्षभ ।  
 कनिष्ठाश्च यथा ज्येष्ठे वर्तन्ते तद्ब्रवीहि मे ॥१
@@ -5401,7 +5456,7 @@ The Presidency College,
 गुरौ हि सदृशी वृत्तिर् यथा शिष्यस्य भारत ॥३
 
 अन्धस्स्यादन्धवेलायां जडस्स्यादपि वा बुधः ।  
-परिहारेण तद्ब्रूयाद्यस्तेषां स्याद्व्यतिक्रमः ॥४
+परिहारेण तद्ब्रूयाद् यस्तेषां स्याद्व्यतिक्रमः ॥४
 
 प्रत्यक्षं भवतामेतद् भेदयेयुर्यथाऽहिताः ।  
 श्रियाऽभितप्तास्तद्भेदान् न भिन्नास्स्युस्समाहिताः ॥५
@@ -5426,31 +5481,31 @@ The Presidency College,
 नाप्रदाय कनिष्ठेभ्यो ज्येष्ठः कुर्वीत वेतनम् ॥११
 
 अनुजस्य पितुर्दायो जङ्घाश्रयफलोऽध्वगः ।  
-स्वयमीहेत[^826] लब्धं च नाकामो दातुमर्हति ॥१२
+स्वयमीहेत[^301] लब्धं च नाकामो दातुमर्हति ॥१२
 
-[^826]: # "क-घ –अर्धत्रयं नास्ति"
+[^301]: # "क-घ –अर्धत्रयं नास्ति"
 
 भ्रातॄणामविभक्तानाम् उत्थानमपि चेत् सह ।  
 न पुत्रभागं विषमं विभजेद्वा कथञ्चन ॥१३
 
-तज्ज्येष्ठो[^249] नावमन्तव्यो दुष्कृतस्सुकृतोऽपि वा ।  
+तज्ज्येष्ठो[^302] नावमन्तव्यो दुष्कृतस्सुकृतोऽपि वा ।  
 गुरूणामपराधो हि शक्यः क्षन्तव्य एव च ॥१४
 
-[^249]: "ख-न ज्येष्ठानवमन्यन्ते"
+[^302]: # "ख-न ज्येष्ठानवमन्यन्ते"
 
 यदि स्त्री यद्यवरजश् श्रेयः पश्येत्तदाचरेत् ।  
 धर्मार्थी श्रेय इत्याहुस् तयोर्ज्ञाता विधायकः ॥१५
 
 समे तु ज्येष्ठतन्त्रास्स्युः किञ्चिदूनेऽपि नित्यशः ।  
-उपाध्यायाद् दशाचार्यं आचार्यात्तु पिता दश ॥१६
+उपाध्यायाद् दशाचार्यम् आचार्यात्तु पिता दश ॥१६
 
 दश चैव पितुर्माता सर्वां च पृथिवीमपि ।  
 गौरवेणाभिभवति नास्ति मातृसमो गुरुः ॥१७
 
-माता गरीयसी यच तेनैतां[^250] मन्यते गुरुम् ।  
+माता गरीयसी यच तेनैतां[^303] मन्यते गुरुम् ।  
 ज्येष्ठो भ्राता पितृसमो मृते पितरि भारत ॥१८
 
-[^250]: "क-घ –स्तन्यैस्तां"
+[^303]: # "क-घ –स्तन्यैस्तां"
 
 स चैषां वृत्तिदाता स्यात् स चैतान् परिपालयेत् ।  
 कनिष्ठास्तं नमस्येरन् सर्वे छन्दानुवर्तिनः ॥१९
@@ -5463,18 +5518,18 @@ The Presidency College,
 
 भ्रातृभार्या च तद्वत् स्याद् यस्या बाल्ये स्तनं पिबेत् ॥ २१ ॥।
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चनवतितमोऽध्यायः ॥ ९५ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि पञ्चनवतितमोऽध्यायः ॥ ९५ ॥  
 \[ अस्मिन्नध्याये २१ ॥ श्लोकाः \]**
 
-————
+**————**
 
 **॥ षण्णवतितमोऽध्यायः ॥**
 
   भीष्मेण युधिष्टिरं प्रति पक्षमासोपवासफलप्रतिपादकाङ्गिरोवचनानुवादः ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 सर्वेषामेव वर्णानां म्लेच्छानां च पितामह ।  
 उपवासे मतिरियं कारणं च न विद्महे ॥१
@@ -5495,12 +5550,12 @@ The Presidency College,
 उपोप्य वाऽपि किं तेन प्रयोज्यं स्यान्नराधिप ।  
 धर्मेण च सुखानर्थाल्ँलभेद्येन ब्रवीहि मे ॥६
 
-वैशम्पायनः–
+**वैशम्पायनः–**
 
 एवं ब्रुवाणं कौन्तेयं धर्मज्ञं धर्मतत्त्ववित् ।  
 धर्मपुत्रमिदं वाक्यं भीष्मश्शान्तनवोऽब्रवीत् ॥७
 
-भीष्मः–
+**भीष्मः–**
 
 इदं खलु महाराज श्रुतमासीत् पुरातनम् ।  
 उपवासविधौ श्रेष्ठा ये गुणा भरतर्षभ ॥८
@@ -5509,16 +5564,16 @@ The Presidency College,
 यथा मां त्वं तथैवाहं पृष्टवांस्तं तपोधनम् ॥९
 
 प्रश्नमेनं पुरा पृष्टो भगवानग्निसम्भवः ।  
-उपवासविधिं पुण्यम् आचष्ट[^827] भरतर्षभ ॥१०
+उपवासविधिं पुण्यम् आचष्ट[^304] भरतर्षभ ॥१०
 
-[^827]: # "क-घ -–उवाच भर"
+[^304]: # "क-घ -–उवाच भर"
 
 **अङ्गिराः–**
 
 ब्रह्मक्षत्रे त्रिरात्रं तु विहितं कुरुनन्दन ।  
-द्विस्त्रिरात्रं[^251] तथा तत्र निर्दिष्टं नान्यवर्णगम् ॥११
+द्विस्त्रिरात्रं[^305] तथा तत्र निर्दिष्टं नान्यवर्णगम् ॥११
 
-[^251]: "क-ख–द्विरात्रंच"
+[^305]: # "क-ख–द्विरात्रं च"
 
 वैश्याश्शूद्राश्च ये मोहाद् उपवासं प्रकुर्वते ।  
 त्रिरात्रं वा द्विरात्रं वा तयोर्व्युष्टिर्न विद्यते ॥१२
@@ -5526,68 +5581,68 @@ The Presidency College,
 चतुर्थभक्तक्षपणं वैश्ये शूद्रे विधीयते ।  
 त्रिरात्रं न तु धर्मज्ञैर् विहितं ब्रह्मवादिभिः ॥१३
 
-पञ्चम्यां चैव षष्ठ्यांच पौर्णमास्यां च भारत ।  
-उपोष्यएकभक्तेन नियतात्मा जितेन्द्रियः ॥१४
+पञ्चम्यां चैव षष्ठ्यां च पौर्णमास्यां च भारत ।  
+उपोष्य एकभक्तेन नियतात्मा जितेन्द्रियः ॥१४
 
 क्षमावान् रूपसम्पन्नस् सुरभिश्चैव जायते ॥१४॥
 
 नानपत्यो भवेद्राजन् न दरिद्रः कदाचन ॥१५
 
-यजिष्णुः पश्चमींषष्ठीं क्षिपेद्यो भोजयेद्द्विजान् ।  
-अष्टमीमपि कौन्तेय कृष्णपक्षचतुर्दशीम्[^252] ॥१६
+यजिष्णुः पश्चमीं षष्ठीं क्षिपेद्यो भोजयेद्द्विजान् ।  
+अष्टमीमपि कौन्तेय कृष्णपक्षचतुर्दशीम्[^306] ॥१६
 
-[^252]: "क–शुक्लपक्ष"
+[^306]: # "क–शुक्लपक्ष"
 
-उपोष्यव्याधिरहितो वीर्यवानभिजायते ॥१६॥
+उपोष्य व्याधिरहितो वीर्यवानभिजायते ॥१६॥
 
 मार्गशीर्षं तु वै मासम् एकभक्तेन यः क्षिपेत् ।  
-भोजयेच्च[^71] द्विजाञ् शक्त्या[^828]स मुच्येद्व्याधिकिल्बिषैः ॥ १७ ॥
+भोजयेच्च[^97] द्विजाञ् शक्त्या[^308] स मुच्येद्व्याधिकिल्बिषैः ॥ १७ ॥
 
-[^828]: # "ख –भक्त्या"
+[^308]: # "ख –भक्त्या"
 
 सर्वकल्याणसम्पूर्णस् सर्वौषधिसमन्वितः ।
 
-कृषिभागी बहुधनो बहुधान्यश्च[^829] जायते ॥
+कृषिभागी बहुधनो बहुधान्यश्च[^309] जायते ॥
 
-[^829]: # "ख घ– पुत्रश्च"
+[^309]: # "ख घ– पुत्रश्च"
 
-पौषमासं[^254] तु कौन्तेय भक्तेनैकेन यः क्षिपेत् ।  
-सुभगो[^162] दर्शनीयश्च यशोभागी च जायते ॥१९॥
+पौषमासं[^310] तु कौन्तेय भक्तेनैकेन यः क्षिपेत् ।  
+सुभगो[^200] दर्शनीयश्च यशोभागी च जायते ॥१९॥
 
-[^254]: "ख घ–पुष्य"
+[^310]: # "ख घ–पुष्य"
 
 पितृभक्तो माघमासं यः क्षिपेदेकभोजनः ।  
-श्रीमत्कुले ज्ञातिमध्ये सुभगत्वं[^256] प्रपद्यते ॥२०॥
+श्रीमत्कुले ज्ञातिमध्ये सुभगत्वं[^312] प्रपद्यते ॥२०॥
 
-[^256]: "क- घ–सुमहत्त्वं"
+[^312]: # "क- घ–सुमहत्त्वं"
 
 भगदैवं तु यो मासम् एकभक्तेन च क्षिपेत् ।  
-स्त्रीषुवल्लभतां याति वश्याश्चास्य भवन्ति ताः ॥२१॥
+स्त्रीषु वल्लभतां याति वश्याश्चास्य भवन्ति ताः ॥ २१॥
 
 चैत्रं तु नियतो मासम् एकभक्तेन यः क्षिपेत् ।  
 सुवर्णमणिमुक्ताढ्ये कुले महति जायते ॥२२॥
 
 निस्तरेदेकभक्तेन वैशाखं वै जितेन्द्रियः ।  
-नरो[^257] वा यदि वा नारी ज्ञातीनां श्रेष्ठतां व्रजेत् ॥ २३॥
+नरो[^313] वा यदि वा नारी ज्ञातीनां श्रेष्ठतां व्रजेत् ॥ २३॥
 
-[^257]: "क-घ–अर्धसप्तकं नास्ति;॥ख–नरो वाऽपि दिवारात्रं"
+[^313]: # "क-घ–अर्धसप्तकं नास्ति;॥ ख–नरो वाऽपि दिवारात्रं"
 
 ज्येष्ठामूलं तु वै मासम् एकभक्तेन यः क्षिपेत् ।  
-ऐश्वर्यमतुलं चैव पुमान्स्त्री वाऽभिपद्यते ॥२४॥
+ऐश्वर्यमतुलं चैव पुमान् स्त्री वाऽभिपद्यते ॥२४॥
 
 आषाढमेकभक्तेन स्थित्वा मासमतन्द्रितः ।  
 बहुधान्यो बहुधनो बहुपुत्रश्च जायते ॥२५॥
 
-श्रावणं मासमेकेन भक्तेन तु नरः क्षिपेत्।
+श्रावणं मासमेकेन भक्तेन तु नरः क्षिपेत् ।
 
 रूपद्रविणसम्पन्नस् सुखी भवति नित्यशः ॥२६॥
 
 बहुभार्यो बहुधनो बहुपुत्रश्च जायते ॥२७
 
-प्रौष्ठपादं तु यो मासम् एकाहारो[^830] जितेन्द्रियः।  
-धनाढ्यंस्फीतमतुलम् ऐश्वर्यं प्रतिपद्यते ॥२८
+प्रौष्ठपादं तु यो मासम् एकाहारो[^314] जितेन्द्रियः।  
+धनाढ्यं स्फीतमतुलम् ऐश्वर्यं प्रतिपद्यते ॥२८
 
-[^830]: # "क-घ–एकभक्तो"
+[^314]: # "क-घ–एकभक्तो"
 
 तथैवाश्वयुजं मासम् एकभक्तेन यः क्षिपेत् ।  
 सुवर्णमणिमुक्ताढ्ये कुले महति जायते ॥२९
@@ -5596,12 +5651,12 @@ The Presidency College,
 शूरश्च बहुभार्यश्च कीर्तिमांश्चैव जायते ॥३०
 
 इति मासे नरव्याघ्र क्षपास्ते परिकीर्तिताः ।  
-तिथीनां[^258] नियमा ये तु शृणु तानपि पार्थिव ॥३१
+तिथीनां[^315] नियमा ये तु शृणु तानपि पार्थिव ॥३१
 
-[^258]: "क-घ –कथिता"
+[^315]: # "क-घ –कथिता"
 
 पक्षे पक्षे गते यस्तु भक्तमश्नाति भारत ।  
-गवाढ्योबहुपुत्रस्तु दीर्घायुर्वै स जायते ॥३२
+गवाढ्यो बहुपुत्रस्तु दीर्घायुर्वै स जायते ॥३२
 
 मासि मासि त्रिरात्राणि कृत्वा वर्षाणि द्वादश ।  
 गणाधिपत्यं प्राप्नोति निरसपत्नमनाविलम् ॥३३
@@ -5622,18 +5677,16 @@ The Presidency College,
 पूर्णं वर्षसहस्रं तु ब्रह्मलोके महीयते ।  
 तत्क्षयादिह वाऽऽगत्य माहात्म्यं प्रतिपद्यते ॥३८
 
-यस्तु[^259] संवत्सरं पूर्णम् एकाहारो भवेन्नरः ।  
+यस्तु[^316] संवत्सरं पूर्णम् एकाहारो भवेन्नरः ।  
 अतिरात्रस्य यज्ञस्य स फलं प्राप्नुयान्नरः ॥३९
 
-[^259]: "अ–अर्धवयं नास्ति"
+[^316]: # "अ–अर्धवयं नास्ति"
 
 त्रिंशद्वर्षसहस्राणि स्वर्गे च स महीयते ।  
-तत्क्षयादिह[^144] चागम्य माहात्म्यं प्रतिपद्यते ॥४०
+तत्क्षयादिह[^181] चागम्य माहात्म्यं प्रतिपद्यते ॥४०
 
-यस्तु[^831] संवत्सरं पूर्णं चतुर्थं भक्तमश्नुते ।  
+यस्तु[^72] संवत्सरं पूर्णं चतुर्थं भक्तमश्नुते ।  
 अहिंसानिरतो नित्यं सत्यवाङ्नियतेन्द्रियः ॥४१
-
-[^831]: # "क-घ–अर्धचतुष्टयं नास्ति"
 
 वाजपेयस्य यज्ञस्य फलं वै समुपाश्नुते ।  
 त्रिंशद्वर्षसहस्राणि स्वर्गे चैव महीयते ॥४२
@@ -5641,10 +5694,10 @@ The Presidency College,
 षष्ठे काले तु कौन्तेय नरस्संवत्सरं क्षिपेत् ।  
 अश्वमेधस्य यज्ञस्य फलं प्राप्नोति मानवः ॥
 
-चक्रवाकप्रयुक्तेन[^261] विमानेन स गच्छति ।  
+चक्रवाकप्रयुक्तेन[^319] विमानेन स गच्छति ।  
 चत्वारिंशत् सहस्राणि वर्षाणि दिवि मोदते ॥४४
 
-[^261]: "ख–हंसयुक्तेन यानेन स्वर्गलोकं स गच्छति । पञ्चाशतं सहस्राणां वर्षाणां दिवि मोदते ॥ [ पाठान्तरम् ]"
+[^319]: # "ख–हंसयुक्तेन यानेन स्वर्गलोकं स गच्छति । पञ्चाशतं सहस्राणां वर्षाणां दिवि मोदते ॥ [ पाठान्तरम् ]"
 
 पक्षे पक्षे गतेराजन् योऽश्रीयाद्वर्षभेव तु ।  
 षण्मासानशनं तस्य भगवानङ्गिरा ब्रवीत् ॥४५
@@ -5652,7 +5705,7 @@ The Presidency College,
 षष्टिं वर्षसहस्राणि दिवमावसते च सः ॥४५॥
 
 वीणानां वल्लकीनां च वेणूनां च विशां पते ।  
-सुघोषैर्मधुरैश्शब्दैस् सुप्तस्सप्रतिबध्यते ॥४६॥
+सुघोषैर्मधुरैश्शब्दैस् सुप्तस्स प्रतिबध्यते ॥४६॥
 
 संवत्सरमिहैकं तु मासि मासि क्षिपेत यः ।  
 फलं विश्वजितस्तात प्राप्नोति स नरो नृप ॥४७॥
@@ -5667,7 +5720,7 @@ The Presidency College,
 पदे पदे यज्ञफलं स प्राप्नोति न संशयः ॥५०॥
 
 त्रिदिवं हंसयुक्तेन विमानेन स गच्छति ।  
-शतं चाप्सरसः कन्या रमयन्त्यपि तं नरम्॥५१॥
+शतं चाप्सरसः कन्या रमयन्त्यपि तं नरम् ॥५१॥
 
 आर्तो वा व्याधितो वाऽपि गच्छेदनशनं तु यः ।  
 शतं वर्षसहस्राणां मोदते दिवि स प्रभो ॥५२॥
@@ -5681,30 +5734,30 @@ The Presidency College,
 व्याधितस्यौषधं पथ्यं क्रुद्धस्यैव प्रसादनम् ॥५५
 
 दुःखितस्यार्तपूर्वस्य द्रव्याणां प्रतिपादनम् ।  
-न चैतद्रोचते तेषां ये धनैस्सुखमेधिनः[^832] ॥५६
+न चैतद्रोचते तेषां ये धनैस्सुखमेधिनः[^320] ॥५६
 
-[^832]: # "क-घ–र्गृहमेधिनः"
+[^320]: # "क-घ–र्गृहमेधिनः"
 
 अतस्सत्कारसंयुक्ते विमाने हेमसन्निभे ।  
 रमते स्त्रीशताकीर्णे पुरुषोऽलङ्कृतश्शुभः ॥५७
 
 स्वस्थस्सफलसङ्कल्पस् सुखी विगतकल्मषः ।  
-अग्नौ[^262] च देहमुत्सृज्य फलं प्राप्नोति मानवः ॥५८
+अग्नौ[^321] च देहमुत्सृज्य फलं प्राप्नोति मानवः ॥५८
 
-[^262]: "ख –अनिष्टदेह; घ–नानन्न"
+[^321]: # "ख –अनिष्टदेह; घ–नानन्न"
 
 बालसूर्यप्रतीकाशे विमाने सोमवर्चसि ।  
 वैदूर्यमुक्तोपचिते वीणामुरवनादिते ॥५९
 
 पताकादीपिकाकीर्णे दिव्यघण्टानिनादिते ।  
-स्त्रीसहस्त्रानुचरिते[^263] स नरस्सुखमेधते ॥६०
+स्त्रीसहस्त्रानुचरिते[^322] स नरस्सुखमेधते ॥६०
 
-[^263]: "घ –नास्तीदमर्धम्"
+[^322]: # "घ –नास्तीदमर्धम्"
 
 यावन्ति रोमकूपाणि तस्य गात्रेषु पाण्डव ।  
-तावन्त्येव सहस्राणि वर्षाणि[^833] दिवि मोदते ॥६१
+तावन्त्येव सहस्राणि वर्षाणि[^323] दिवि मोदते ॥६१
 
-[^833]: # "क-घ–स नरो"
+[^323]: # "क-घ–स नरो"
 
 नास्ति वेदात् परं शास्त्रं नास्ति मातृसमो गुरुः ।  
 न धर्मात् परमो लाभो न तपोऽनशनात् परम् ॥६२
@@ -5721,7 +5774,7 @@ The Presidency College,
 च्यवनो जमदग्निश्च वसिष्ठो गौतमो भृगुः ।  
 एते सर्वे दिवं प्राप्ताः क्षमावन्तो महर्षयः ॥
 
-भीष्मः–
+**भीष्मः–**
 
 इदमङ्गिरसा पूर्वं महर्षिभ्यः प्रदर्शितम् ।  
 यः प्रदर्शयते नित्यं न स दुःखमवाप्नुते ॥६७
@@ -5729,28 +5782,30 @@ The Presidency College,
 इमं तु कौन्तेय यथाक्रमं विधिं  
 प्रवर्तितं ह्यङ्गिरसा महर्षिणा ।
 
+
+
 पठेत वै यश्श्रृणुयाच्च नित्यदा  
 न विद्यते तस्य नरस्य किल्बिषम् ॥६८
 
 विमुच्यते वाऽपि हि सर्वसङ्करैर्  
 न चाप्यधर्मैरभिभूयते मनः ।  
-वियोनिजानां च विजानतेरुतं[^834]  
+वियोनिजानां च विजानतेरुतं[^324]  
 ध्रुवां च कीर्तिं लभते नरोत्तमः ॥६९
 
-[^834]: # "ख-श्रुतं ; घ-कृतं"
+[^324]: # "ख-श्रुतं ; घ-कृतं"
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि षण्णवतितमोऽध्यायः ॥ ९६ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि षण्णवतितमोऽध्यायः ॥ ९६ ॥  
 \[ अस्मिन्नध्याये ६९ श्लोकाः \]**
 
-————
+**————**
 
 **॥ सप्तनवतितमोऽध्यायः ॥**
 
- युधिष्टिरेण भीष्मं प्रति दरिद्राणां यज्ञस्य बहुद्रव्यसाध्यत्वेन दुष्करतया तत्फलप्राप्त्यैतत्प्रतिनिधिकथनप्रार्थना ॥ १ ॥ भीष्मेण युधिष्ठिरं प्रति एकैक दिनवृद्ध्या मासावध्युपवासस्य यज्ञप्रतिनिधित्वकथनम् ॥ २ ॥
+ युधिष्टिरेण भीष्मं प्रति दरिद्राणां यज्ञस्य बहुद्रव्यसाध्यत्वेन दुष्करतया तत्फलप्राप्त्यै तत्प्रतिनिधिकथनप्रार्थना ॥ १ ॥ भीष्मेण युधिष्ठिरं प्रति एकैक दिनवृद्ध्या मासावध्युपवासस्य यज्ञप्रतिनिधित्वकथनम् ॥ २ ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 पितामहेन विधिवद् यज्ञाः प्रोक्ता महात्मना ।  
 गुणांश्चैषां यथातत्त्वं प्रेत्य चेह च सर्वशः॥१
@@ -5764,7 +5819,7 @@ The Presidency College,
 यो दरिद्रैरपि विधिश् शक्यः प्राप्तुं सदा भवेत् ।  
 तुल्यो यज्ञफलैरेतैस् तन्मे ब्रूहि पितामह ॥४
 
-भीष्मः–
+**भीष्मः–**
 
 इदमङ्गिरसा प्रोक्तम् उपवासफलात्मकम् ।  
 विधिं यज्ञफलैस्तुल्यं तन्निबोध युधिष्ठिर ॥५
@@ -5772,22 +5827,22 @@ The Presidency College,
 यस्तु कल्यं तथा सायं भुञ्जानो नान्तरा पिबेत् ।  
 अहिंसानिरतो राजञ् जुह्वानो जातवेदसम् ॥६
 
-षड्भिरेव[^835] स वर्षैस्तु सिध्यते नात्र संशयः ॥६॥
+षड्भिरेव[^325] स वर्षैस्तु सिध्यते नात्र संशयः ॥६॥
 
-[^835]: # "अ–अतिरात्रस्य यज्ञस्य फलं प्राप्नोति मानवः । मयूरहंससंयुक्तं विमानं लभते नरः ॥ सप्तर्षीणां तदा लोके सोऽप्सरोभिर्वसेत् सह ।[ अधिकः पाठः ]   2.अ–अर्धषट्कं नास्ति"
+[^325]: # "अ–अतिरात्रस्य यज्ञस्य फलं प्राप्नोति मानवः । मयूरहंससंयुक्तं विमानं लभते नरः ॥ सप्तर्षीणां तदा लोके सोऽप्सरोभिर्वसेत् सह ।[ अधिकः पाठः ] 2.अ–अर्धषट्कं नास्ति"
 
 तप्तकाञ्चनवर्णं च विमानं लभते नरः ॥७
 
 देवस्त्रीगणसंवासे नृत्तगीतनिनादिते ।  
 प्राजापत्ये वसेत् सद्मन्यग्निनवर्णनिभे शुभे ॥८
 
-त्रीणि वर्षाणि यः प्राशेनत्सततं त्वेकभोजनम् ।  
+त्रीणि वर्षाणि यः प्राशेनत् सततं त्वेकभोजनम् ।  
 धर्मपत्नीरतो नित्यम् अग्निष्टोमफलं लभेत् ॥
 
-तृतीये[^264] दिवसे यस्तु प्राश्नीयादेकभोजनम् ।  
+तृतीये[^326] दिवसे यस्तु प्राश्नीयादेकभोजनम् ।  
 राजन् द्वादशमासास्तु जुह्वानो जातवेदसम् ॥१०
 
-[^264]: " अ-क-घ–अर्धपञ्चकं नास्ति"
+[^326]: # " अ-क-घ–अर्धपञ्चकं नास्ति"
 
 अतिरात्रस्य यज्ञस्य फलं प्राप्नोति मानवः ॥१०॥
 
@@ -5807,20 +5862,20 @@ The Presidency College,
 दिवसे यश्चतुर्थे तु प्राश्नीयादेकभोजनम् ।  
 सदा द्वादशमासान् वै जुह्वानो जातवेदसम् ॥१५॥
 
-अलुब्धस्संविभागी[^265] च ब्रह्मण्यश्चापि वाग्यतः ।  
-अनसूयुरवैक्लब्योद्वादशाहफलं लभेत् ॥१६॥
+अलुब्धस्संविभागी[^327] च ब्रह्मण्यश्चापि वाग्यतः ।  
+अनसूयुरवैक्लब्यो द्वादशाहफलं लभेत् ॥१६॥
 
-[^265]: "अ–इतश्चतुस्त्रिंशदर्धानि न सन्ति"
+[^327]: # "अ–इतश्चतुस्त्रिंशदर्धानि न सन्ति"
 
 जाम्बूनदमयं दिव्यं विमानं हंसलक्षणम् ।  
-सूर्यभासा समाभासम् आरोहेत् पाण्डुरं[^836] गृहम् ॥१७॥
+सूर्यभासा समाभासम् आरोहेत् पाण्डुरं[^328] गृहम् ॥१७॥
 
-[^836]: # "ख–मण्डपं; घ–मण्डलं"
+[^328]: # "ख–मण्डपं; घ–मण्डलं"
 
 आवर्तनानि चत्वारि पद्मानि निवसेन्नरः ।  
 शराग्निपरिमाणं च तत्रासौ लभते सुखम् ॥१८॥
 
-दिवसे यस्तु षष्ठेवै मुनिः प्राशेत भोजनम् ।  
+दिवसे यस्तु षष्ठे वै मुनिः प्राशेत भोजनम् ।  
 सदा द्वादशमासान् वै जुह्वानो जातवेदसम् ॥१९॥
 
 सदा त्रिषवणस्नायी ब्रह्मचार्यनसूयकः ।  
@@ -5829,7 +5884,7 @@ The Presidency College,
 अग्निज्वालासमाभासं हंसवर्हिणसेवितम् ।  
 शातकुम्भसुनिर्यूहं साधयेद्यानमुत्तमम् ॥२१॥
 
-तासामप्सरसामङ्केप्रसुप्तः प्रतिबुध्यते  
+तासामप्सरसामङ्के प्रसुप्तः प्रतिबुध्यते  
 नूपुराणां निनादेन मेखलानां च निस्स्वनैः ॥२२॥
 
 तथा कोटिसहस्राणां दशकोटिशतानि च ।  
@@ -5841,7 +5896,7 @@ The Presidency College,
 दिवसे सप्तमे यस्तु प्राश्नीयादेकभोजनम् ।  
 सदा द्वादशमासान् वै जुह्वानो जातवेदसम् ॥२५॥
 
-सरस्वतीं गोपयानो ब्रह्मचर्यंसमाचरन् ।  
+सरस्वतीं गोपयानो ब्रह्मचर्यं समाचरन् ।  
 सुमनोवर्णकं चैव मधु मांसं च वर्जयन् ॥२६॥
 
 पुरुषो मरुतां लोकम् इन्द्रलोकं च गच्छति ॥२७
@@ -5875,10 +5930,10 @@ The Presidency College,
 
 कोटीशतसहस्रं च तेषु सर्वेषु मोदते ॥३५॥
 
-यस्तु संवत्सरं भुङ्क्ते दशाहे[^266] वै गते गते ।  
+यस्तु संवत्सरं भुङ्क्ते दशाहे[^329] वै गते गते ।  
 सदा द्वादशमासान् वै जुह्वानो जातवेदसम् ॥३६॥
 
-[^266]: "क-ख-घ–नवाहे"
+[^329]: # "क-ख-घ–नवाहे"
 
 ब्रह्मकन्यानिवेशे च सर्वभूतमनोहरे ।  
 अश्वमेधसहस्रस्य फलं प्राप्नोति मानवः ॥३७॥
@@ -5886,16 +5941,16 @@ The Presidency College,
 रूपवत्यश्च ताः कन्या रमयन्ति सदा नरम् ॥३८
 
 नीलोत्पलविनिर्भिन्नै रक्तोत्पलसुगन्धिभिः ।  
-विमानं मण्डलावर्तम् आवर्तनशतैर्वृतम्[^267]॥३९
+विमानं मण्डलावर्तम् आवर्तनशतैर्वृतम्[^330]॥३९
 
-[^267]: "क–गहनै ;ख-वृत्तमावृत्तगहनैघ–गहने बहुभिर्वृतः"
+[^330]: # "क–गहनै ; ख-वृत्तमावृत्तगहनै घ–गहने बहुभिर्वृतः"
 
 सागरोर्मिप्रतीकाशं साधयेद्यानमुत्तमम् ॥३९॥
 
-विचित्रमणिमालाभिर् नादितं शङ्खपुष्पकैः[^837] ।  
+विचित्रमणिमालाभिर् नादितं शङ्खपुष्पकैः[^331] ।  
 स्फाटिकैर्वज्रसारैस्तु स्तम्भैश्च कृतवेदिकम् ॥४०॥
 
-[^837]: # "क-घ–पुष्करैः"
+[^331]: # "क-घ–पुष्करैः"
 
 आरोहति महद्यानं हंससारसवाहनम् ॥४१
 
@@ -5920,10 +5975,10 @@ The Presidency College,
 दिवसे द्वादशे यस्तु प्राप्ते वै प्राशते हविः ।  
 सदा द्वादश मासान् वै जुह्वानो जातवेदसम् ॥४८
 
-नियमेन[^268] समायुक्तस् सर्वमेधफलं लभेत् ।  
+नियमेन[^332] समायुक्तस् सर्वमेधफलं लभेत् ।  
 आदित्यैर्द्वादशैस्तस्य विमानं संविधीयते ॥४९
 
-[^268]: "1. अ– अर्धंदशकं नास्ति  2.क-घ– वज्रमुक्ताप्रवालैश्च महार्ह्रै रुपशोभितम् । पदैर्महद्भिस्संयुक्तं ब्रह्मलोके प्रतिष्ठितम् ॥ नित्यमासेवते राजन् नरनारीसमावृतम् । ऋषिरेव महाभागस् त्वङ्गिरा मुनिरब्रवीत् ॥ यस्तु त्रयोदशाहे वै सम्प्राप्ते प्राशते हविः । सदा द्वादशमासान् वै जुह्वानो जातवेदसम् ॥ [ पाठान्तरम् ]"
+[^332]: # "1. अ– अर्धन्दशकं नास्ति 2.क-घ– वज्रमुक्ताप्रवालैश्च महार्ह्रै रुपशोभितम् । पदैर्महद्भिस्संयुक्तं ब्रह्मलोके प्रतिष्ठितम् ॥ नित्यमासेवते राजन् नरनारीसमावृतम् । ऋषिरेव महाभागस् त्वङ्गिरा मुनिरब्रवीत् ॥ यस्तु त्रयोदशाहे वै सम्प्राप्ते प्राशते हविः । सदा द्वादशमासान् वै जुह्वानो जातवेदसम् ॥ [ पाठान्तरम् ]"
 
 मणिमुक्ताप्रवालैश्च महार्हैरुपशोभितम् ।
 
@@ -5942,20 +5997,20 @@ The Presidency College,
 रक्तपद्मोदयं नाम विमानं साधयेन्नरः ।  
 जातरूपसुरक्तं च रत्नसञ्चयभूषितम् ॥५४
 
-देवकन्याभिराकीर्णं[^838] दिव्यभूषणभूषितम् ।  
+देवकन्याभिराकीर्णं[^333] दिव्यभूषणभूषितम् ।  
 पुण्यगन्धोदयं दिव्यं वादित्रैरुपशोभितम् ॥५५
 
-[^838]: # "घ–इदमधं नास्ति"
+[^333]: # "घ–इदमधं नास्ति"
 
 तत्र शङ्कपताकं च युगान्ते कल्पमेव च ।  
-अयुतं च तथा पद्मं समुद्रं च तथावसेत्[^269] ॥५६
+अयुतं च तथा पद्मं समुद्रं च तथावसेत्[^334] ॥५६
 
-[^269]: "क-घ–भवेत्ख-लभेत्"
+[^334]: # "क-घ–भवेत् ख-लभेत्"
 
 गीतगन्धर्वघोषैश्च भेरीपटहनिरस्वनैः ।  
-सदा[^839] प्रमुदितस्ताभिर् देवकन्याभिरीड्यते ॥५७
+सदा[^335] प्रमुदितस्ताभिर् देवकन्याभिरीड्यते ॥५७
 
-[^839]: ॑# " घ–बोधितोऽपररात्रेषु"
+[^335]: # " घ–बोधितोऽपररात्रेषु"
 
 चतुर्दशे तु दिवसे यः पूर्णे प्राशते हविः ।
 
@@ -5970,34 +6025,34 @@ The Presidency College,
 देवकन्यानिवासे च तस्मिन् वसति मानवः ।  
 जाह्नवीवालुकाकीर्णे ब्रह्मलोके महीयते ॥६१
 
-यस्तु पक्षे गते भुङ्क्ते एकभक्तो[^270] जितेन्द्रियः ।  
+यस्तु पक्षे गते भुङ्क्ते एकभक्तो[^336] जितेन्द्रियः ।  
 सदा द्वादशमासान् वै जुह्वानो जातवेदसम् ॥६२
 
-[^270]: "घ -क्षान्तात्मा विजितेन्द्रियः"
+[^336]: # "घ -क्षान्तात्मा विजितेन्द्रियः"
 
 राजसूयसहस्रस्य फलं प्राप्नोत्यनुत्तमम् ।  
 यानमारोहते नित्यं हंसबर्हिणलक्षणम् ॥६३
 
-मणिमङ्गलकैश्चित्रं जातरूपसमाचितम्[^840] ।  
+मणिमङ्गलकैश्चित्रं जातरूपसमाचितम्[^337] ।  
 दिव्याभरणशोभाभिर् वरस्त्रीभिरलङ्कृतम् ॥६४
 
-[^840]: # " घ -जातवेदसमौजसम्"
+[^337]: # " घ -जातवेदसमौजसम्"
 
 एकस्तम्भं चतुर्द्वारं सप्तभौमं सुमङ्गलम् ।  
 वैजयन्तीसहस्रैश्च शोभितं गीत निस्स्वनैः ॥६५
 
 दिव्यं दिव्यगुणोपेतं विमानमधिरोहति ।
 
-मणिमुक्ताप्रवालैश्च भूषितं[^841] वैद्युतप्रभम् ॥६६
+मणिमुक्ताप्रवालैश्च भूषितं[^338] वैद्युतप्रभम् ॥६६
 
-[^841]: # "घ –महार्हैरुपशोभितम्"
+[^338]: # "घ –महार्हैरुपशोभितम्"
 
 वसेद्युगसहस्रं च खङ्गकुञ्जरवाहनः ॥६६॥
 
 षोडशे दिवसे यस्तु सम्प्राप्ते प्राशते हविः ।  
 सदा द्वादशमासान् वै सोमयज्ञफलं लभेत् ॥६७॥
 
-सोमकन्यानिवासेपषुसौम्यो वसति नित्यदा ।  
+सोमकन्यानिवासेपषु सौम्यो वसति नित्यदा ।  
 सौम्यगन्धानुलिप्तश्च कामचारगतिर्भवेत् ॥६८॥
 
 सुदर्शनाभिर्नारीभिर् मधुराभिस्तथैव च ।  
@@ -6012,19 +6067,17 @@ The Presidency College,
 स्थानं सवारुणञ्चैन्द्रं रौद्रं चैवाधिगच्छति ।  
 मारुतं शयनं चै व ब्रह्मलोकं स गच्छति ॥७२॥
 
-तत्र[^271] दैवतकन्याभिर् आसनेनोपचर्यते ।  
-भूर्भुवस्स्वश्चदेवर्षिर् विश्वरूपमवेक्षते ॥७३॥
-
-[^271]: "घ–इदमर्धं नास्ति"
+तत्र[^279] दैवतकन्याभिर् आसनेनोपचर्यते ।  
+भूर्भुवस्स्वश्च देवर्षिर् विश्वरूपमवेक्षते ॥७३॥
 
 तत्र देवाधिदेवस्य कुमार्यो रमयन्ति तम् ।
 
 मनोज्ञरूपधारिण्यो मधुरास्समलङ्कृताः ॥७४॥
 
-चन्द्रादित्यावुभौ यावद्[^272] गगने चरतः प्रभो ।  
+चन्द्रादित्यावुभौ यावद्[^340] गगने चरतः प्रभो ।  
 तावच्चरत्यसौ वीरस् सुधामृतरसाशनः ॥७५॥
 
-[^272]: "घ–यावद्भर्भुवस्स्वस्तथैव च"
+[^340]: # "घ–यावद्भर्भुवस्स्वस्तथैव च"
 
 अष्टादशे तु दिवसे प्राश्नीयादेकभोजनम् ।  
 सदा द्वादशमासान् वै सप्त लोकान् स गच्छति ॥७६॥
@@ -6033,9 +6086,9 @@ The Presidency College,
 देवकन्याधिरूढैश्च भ्राजमानैरस्वलङ्कृतैः ॥७७॥
 
 व्याघ्रसिंहप्रयुक्तं च मेघस्वनविनादितम् ।  
-विमानमुत्तमं दिव्यं सुसुखं[^273] ह्यधिरोहति ॥७८॥
+विमानमुत्तमं दिव्यं सुसुखं[^341] ह्यधिरोहति ॥७८॥
 
-[^273]: "घ–सशङ्खं"
+[^341]: # "घ–सशङ्खं"
 
 तत्र कल्पसहस्रं स कान्ताभिस्सह मोदते ।  
 सुधारसं च भुञ्जीत ह्यमृतोपममुत्तमम् ॥७९ ॥
@@ -6050,7 +6103,7 @@ The Presidency College,
 दिव्याम्बरधरश्श्रीमान् अयुतानां शतं समाः ॥८२॥
 
 पूर्णेऽथ दिवसे विंशे यो भुङ्क्ते ह्येकभोजनम् ।  
-सदाद्वादशमासांस्तु सत्यवादी धृतव्रतः ॥८३॥
+सदा द्वादशमासांस्तु सत्यवादी धृतव्रतः ॥८३॥
 
 अमांसाशी ब्रह्मचारी सर्वभूतहिते रतः ।  
 स लोकान् विपुलान् दिव्यान् आदित्यानामुपाश्नुते ॥ ८४ ॥
@@ -6066,15 +6119,15 @@ The Presidency College,
 अश्विनोगतां चैव सुखेऽभिरमते नरः ।  
 अनभिज्ञश्च दुःखानां विमानवरमास्थितः ॥८८
 
-सेव्यमानो[^274] वरस्त्रीभिः क्रीडत्यमरवत् प्रभुः ॥८८॥
+सेव्यमानो[^342] वरस्त्रीभिः क्रीडत्यमरवत् प्रभुः ॥८८॥
 
-[^274]: "अ–अर्धषट्कं नास्ति"
+[^342]: # "अ–अर्धषट्कं नास्ति"
 
 द्वाविंशे दिवसे प्राप्ते यो भुङ्क्ते ह्योकभोजनम् ।  
 सदा द्वादशमासान् वै जुह्वानो जातवेदसम् ॥८९॥
 
 अहिंसानिरतो धीमान् सत्यवागनसूयकः ।  
-लोकान्वसूनामाप्नोति दिवाकरसमप्रभः ॥९०॥
+लोकान् वसूनामाप्नोति दिवाकरसमप्रभः ॥९०॥
 
 कामचारी सुधाहारो विमानवरमास्थितः ।  
 रमते देवकन्याभिर् दिव्याभरणभूषितः ॥९१॥
@@ -6085,14 +6138,14 @@ The Presidency College,
 वायोरुशनसश्चापि रुद्रलोकं स गच्छति ॥९३
 
 कामचारी कामगमः पूज्यमानोऽप्सरोगणैः ।  
-अनेकयुगपर्यन्तं[^819] विमानवरमास्थितः ॥९४
+अनेकयुगपर्यन्तं[^279] विमानवरमास्थितः ॥९४
 
 रमते देवकन्याभिर् दिव्याभरणभूषितः ॥९४॥
 
-चतुर्विंशे तु दिवसे यः[^275] कुर्यादेकभोजनम् ।  
+चतुर्विंशे तु दिवसे यः[^344] कुर्यादेकभोजनम् ।  
 सदा द्वादशमासन् वै जुह्वानो जातवेदसम् ॥९५॥
 
-[^275]: "क-घ–यः प्राशेदेक"
+[^344]: # "क-घ–यः प्राशेदेक"
 
 आदित्यानामधीवासे मोदमानो वसेच्चिरम् ॥९६
 
@@ -6116,14 +6169,12 @@ The Presidency College,
 सदा द्वादशमासांस्तु नियतो नियताशनः ॥१०२
 
 जितेन्द्रियो वीतरागो जुह्वानो जातवेदसम् ।  
-स प्राप्नोति महाभागः पूज्यमानोऽप्सरोगणैः॥१०३
+स प्राप्नोति महाभागः पूज्यमानोऽप्सरोगणैः ॥१०३
 
-सप्तानां[^843] मरुतां लोकान् वसूनां चापि सोऽश्नुते॥ १०३॥
-
-[^843]: # "अ–अर्धत्रयं नास्ति"
+सप्तानां[^270] मरुतां लोकान् वसूनां चापि सोऽश्नुते॥ १०३॥
 
 विमाने स्फाटिके दिव्ये सर्वरत्नैरलङ्कृते ।  
-गन्धर्वैरप्सरोभिश्च पूज्यमानः प्रमोदते॥॥१०४॥
+गन्धर्वैरप्सरोभिश्च पूज्यमानः प्रमोदते ॥॥१०४॥
 
 द्वेऽर्बुदानां सहस्रे तु दिव्ये दिव्येन तेजसा ॥१०५
 
@@ -6133,7 +6184,7 @@ The Presidency College,
 फलं प्राप्नोति विमलं देवलोके प्रपूज्यते ॥१०६॥  
 अमृताशी वसंस्तत्र स वितृप्तः प्रमोदते ॥१०७
 
-देवर्षिचरिताल्ँलोकान् राजर्षिभिरनुष्ठितान् ।  
+देवर्षिचरिताल्ँ लोकान् राजर्षिभिरनुष्ठितान् ।  
 अध्यावसति पुण्यात्मा विमानवरमास्थितः ॥१०८
 
 स्त्रीभिर्मनोभिरामाभी रममाणो मनोरमः ।  
@@ -6142,7 +6193,7 @@ The Presidency College,
 योऽष्टाविंशे तु दिवसे प्राश्रीयादेकभोजनम् ।  
 सदा द्वादशमासांस्तु विजितात्मा जितेन्द्रियः ॥११०
 
-स्वर्गान्देवर्षिचरितान् विपुलान् समुपाश्नुते॥११०॥
+स्वर्गान् देवर्षिचरितान् विपुलान् समुपाश्नुते॥११०॥
 
 भोगवांस्तेजसा भाति सहस्रांशुरिवामलः ॥१११
 
@@ -6165,13 +6216,13 @@ The Presidency College,
 तत्र चैनं शुभा नार्यो दिव्याभरणभूषिताः ।  
 मनोभिरामा मधुरा रमयन्ति मदोत्कटाः॥११७
 
-भोगवांस्तेजसा भाति वैश्वानरसमप्रभः।  
+भोगवांस्तेजसा भाति वैश्वानरसमप्रभः ।  
 दिव्यो दिव्येन वपुषा भ्राजमान इवामरः ॥११८
 
 वसूनां मरुतां चैव साध्यानामश्विनोस्तथा ।  
-रुद्राणां[^844] च तथा लोकान्ब्रह्मलोकं च गच्छति ॥ ११९
+रुद्राणां[^346] च तथा लोकान् ब्रह्मलोकं च गच्छति ॥ ११९
 
-[^844]: #
+[^346]: #
 
 यस्तु मासे गते भुङ्क्ते एकभक्तं समाहितः ।  
 सदा द्वादश मासान् वै ब्रह्मलोकगतिर्भवेत् ॥१२०
@@ -6190,22 +6241,22 @@ The Presidency College,
 
 वर्षासु वर्षतस्तावन्निवसत्यमरप्रभः ॥१२४ ॥
 
-वर्षोपवासैर्वर्षैस्तु[^845] तावद्भिस्स्वर्गमश्नुते ।  
+वर्षोपवासैर्वर्षैस्तु[^347] तावद्भिस्स्वर्गमश्नुते ।  
 महर्षित्वमिहासाद्य सशरीरगतिर्भवेत् ॥१२५॥
 
-[^845]: # "घ–मासोपवासी वर्षं तु"
+[^347]: # "घ–मासोपवासी वर्षं तु"
 
 मुनिर्दान्तो जितक्रोधो जितशिश्नोदरस्तथा ।  
 जुह्वन्नग्नींस्तु नियतस् सन्ध्योपासनसेविता ॥१२६॥
 
 बहुभिर्नियमैरेव मासादश्नाति यो नरः ॥१२७
 
-अत्युपवासशीलस्य तस्य वासो निरुच्यते॥१२७॥
+अत्युपवासशीलस्य तस्य वासो निरुच्यते ॥१२७॥
 
 दिवं गत्वा शरीरेण स्वेन राजन् यथाऽमरः ।  
 स्वर्गं पुण्यं यथाकामम् उपभुङ्क्ते यथाविधि ॥ १२८॥
 
-एषते भरतश्रेष्ठ यज्ञानां विधिरुत्तमः ।  
+एष ते भरतश्रेष्ठ यज्ञानां विधिरुत्तमः ।  
 व्याख्यातो ह्यानुपूर्व्येण उपवासफलात्मकः ॥१२९॥
 
 दरिद्रैर्मनुजैः पार्थ प्राप्यं यज्ञफलं यथा ।  
@@ -6214,31 +6265,31 @@ The Presidency College,
 देवद्विजातिपूजायां रक्तो भवति सन्ततम् ।  
 उपवासविधिस्त्वेष विस्तरेण प्रकीर्तितः ॥१३१॥
 
-नियतेवष्वप्रमत्तेषुशौचवत्सु महात्मसु ।  
-दम्भदोषनिवृत्तेषु कृतबुद्धिष्वनाशिषु॥१३२॥
+नियतेवष्वप्रमत्तेषु शौचवत्सु महात्मसु ।  
+दम्भदोषनिवृत्तेषु कृतबुद्धिष्वनाशिषु ॥१३२॥
 
 अचलेष्वविकम्प्येषु मा ते भूदत्र संशयः ॥ १३३
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि सप्तनवतितमोऽध्यायः ॥ १७ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि सप्तनवतितमोऽध्यायः ॥ ९७ ॥  
 \[ अस्मिन्नध्याये १३३ श्लोकाः \]**
 
-———
+**———**
 
-**॥अष्टनवतितमोऽध्यायः ॥**
+**॥ अष्टनवतितमोऽध्यायः ॥**
 
-   भीष्मेण युधिष्टिरं प्रति तत्त्वसृष्टिप्रतिपादकरुद्रसनत्कुमारसंवादानुवादः ॥ १ ॥ रुद्रं प्रति सनत्कुमारेण तत्त्वलयक्रमाध्यात्मादिप्रतिपादनम् ॥२ ॥ देहिदेहावयवाश्रितदेवताकथनपूर्वकं योगनिरूपणम् ॥ ३ ॥ अव्यक्तादितत्त्वानां तारतम्यकथनपूर्वकं तत्सृष्टिलयादिकथनम् ॥ ४ ॥ तथा एतज्ज्ञानस्य संसारतारकत्वोक्तिः ॥ ५ ॥ तथा प्राणिनां मरणसूचकदुर्निमित्तकथनपूर्वकं जिजीविषोस्तत्परिहारोपायकथनम् ॥ ६ ॥ तथाऽनिच्छोर्भगवद्ध्यानेन शरीरत्यागस्यपारसिकसुखसाधनत्वोक्तिः ॥ ७ ॥ तथा भगवज्ज्ञानशंसनपूर्वकं तदुपदेशपरम्पराकथनम् ॥ ८ ॥
+   भीष्मेण युधिष्टिरं प्रति तत्त्वसृष्टिप्रतिपादकरुद्रसनत्कुमारसंवादानुवादः ॥ १ ॥ रुद्रं प्रति सनत्कुमारेण तत्त्वलयक्रमाध्यात्मादिप्रतिपादनम् ॥ २ ॥ देहिदेहावयवाश्रितदेवताकथनपूर्वकं योगनिरूपणम् ॥ ३ ॥ अव्यक्तादितत्त्वानां तारतम्यकथनपूर्वकं तत्सृष्टिलयादिकथनम् ॥ ४ ॥ तथा एतज्ज्ञानस्य संसारतारकत्वोक्तिः ॥ ५ ॥ तथा प्राणिनां मरणसूचकदुर्निमित्तकथनपूर्वकं जिजीविषोस्तत्परिहारोपायकथनम् ॥ ६ ॥ तथाऽनिच्छोर्भगवद्ध्यानेन शरीरत्यागस्यपारसिकसुखसाधनत्वोक्तिः ॥ ७ ॥ तथा भगवज्ज्ञानशंसनपूर्वकं तदुपदेशपरम्पराकथनम् ॥ ८ ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 पितामहेन कथिता दानधर्माश्रिताः कथाः ।  
 मया श्रुता ऋषीणां तु सन्निधौ केशवस्य च ॥१
 
-पुनः कौतूहलमभूत् तामेवाध्यात्मिकींप्रति ।  
+पुनः कौतूहलमभूत् तामेवाध्यात्मिकीं प्रति ।  
 कथां कथय राजेन्द्र त्वदन्यः क उदाहरेत् ॥२
 
-एषयादवदायादस् तथाऽनुज्ञातुमर्हति ।  
+एष यादवदायादस् तथाऽनुज्ञातुमर्हति ।  
 ज्ञाते तु यस्मिञ् ज्ञातव्यं ज्ञातं भवति भारत ॥३
 
 पाश्चाच्छ्रोष्यामहे राज्ञां श्राव्यान् धर्मान् पितामह ।  
@@ -6247,31 +6298,31 @@ The Presidency College,
 **भीष्मः–**  
  अत ऊर्ध्वं महाराज साङ्ख्ययोगोभयशास्त्राधिगतयाथात्म्यदर्शनसम्पन्नयोराचार्ययोः संवादमनुव्याख्यास्यामः ॥ ५  
   तद्यथा– भगवन्तं सनत्कुमारमासीनमङ्गुष्ठपर्वमात्रं महति विमानवरे योजनसहस्रमण्डले तरुणभास्करप्रतीकाशे शयनीये महति बद्धासनमनुध्यायन्तममृतमनावर्तकरममूर्तमक्षयजमथोपविष्टमुपससर्प भगवन्तमाचार्यं भगवानाचार्यो रुद्रः ॥६  
-   तं प्रोवाच– स्वागतं महेश्वर ब्रह्मसुत एतदासनमासतांभगवान् ॥७  
-   इत्युक्ते चासीनो भगवाननन्तरूपो रुद्रस्तं प्रोवाच भगवानपि ध्यानमावर्तयति[^276] ॥८
+   तं प्रोवाच– स्वागतं महेश्वर ब्रह्मसुत एतदासनमासतां भगवान् ॥७  
+   इत्युक्ते चासीनो भगवाननन्तरूपो रुद्रस्तं प्रोवाच भगवानपि ध्यानमावर्तयति[^348] ॥८
 
-[^276]: "ख–किं ध्यान"
+[^348]: # "ख–किं ध्यान"
 
 इत्युक्ते चाह भगवान् सनत्कुमारस्तथेति ॥९
 
 तथेत्युक्तश्च प्रोवाच भगवाञ् शङ्करस्तदा ।  
 परावरज्ञं सर्वस्य त्रैलोक्यस्य महामुनिम् ॥१०
 
-शङ्करः–
+**शङ्करः–**
 
 किं वा ध्यानेन द्रष्टव्यं यद्भवाननुपश्यति ।  
 यच्च ध्यात्वा न शोचन्ति यतयस्तत्त्वदर्शिनः ॥११
 
 कथय त्वमिमं देवं देहिनां यतिसत्तम ।  
-यच्च तत् पुरुषंशुद्धम् इत्युक्तं योगसाङ्ख्ययोः ॥१२
+यच्च तत् पुरुषं शुद्धम् इत्युक्तं योगसाङ्ख्ययोः ॥१२
 
 किमध्यात्माधिभूतं च तथा वाऽप्यधिदैवतम् ।  
 कालसङ्ख्या च का देव द्रष्टव्या तस्य ब्रह्मणः ॥१३
 
-सङ्ख्यासङ्ख्यादनस्यैव[^277] या प्रोक्ता परमर्षिभिः ।  
+सङ्ख्यासङ्ख्यादनस्यैव[^349] या प्रोक्ता परमर्षिभिः ।  
 शास्त्रदृष्टेन मार्गेण यथावद्यतिसत्तम ॥१४
 
-[^277]: "ख–सङ्ख्येसंख्यादयश्चैव याः"
+[^349]: # "ख–सङ्ख्ये सङ्ख्यादयश्चैव याः"
 
 यच्च तत् पुरुषं शुद्धं प्रबुद्धमजरं ध्रुवम् ।  
 बुध्यमानप्रबुद्धाभ्यां विद्यावेद्यं तथैव च ॥१५
@@ -6284,18 +6335,18 @@ The Presidency College,
 अरिष्टानि च तत्वेन तथैवोत्क्रमणानि च ॥१७
 
 दैवतानि च सर्वाणि निखिलेनानुपूर्वशः ।  
-यान्याश्चितानिदेहेषु देहिनां यतिसत्तम॥१८
+यान्याश्चितानि देहेषु देहिनां यतिसत्तम॥१८
 
-सर्वमेतद्यथातत्त्वम्[^278] आख्याहि मुनिसत्तम ॥१८॥
+सर्वमेतद्यथातत्त्वम्[^350] आख्याहि मुनिसत्तम ॥१८॥
 
-[^278]: " ख– इदमर्धं नास्ति"
+[^350]: # " ख– इदमर्धं नास्ति"
 
 श्रेष्ठो भवान् हि सर्वेषां ब्रह्मज्ञानामनिन्दित ।  
 चतुर्थस्त्वं त्रयाणां तु ये गताः परमां गतिम् ॥१९॥
 
-ज्ञानेन च प्राकृतेन[^279] निर्मुक्तो मृत्युबन्धनात् ॥२०
+ज्ञानेन च प्राकृतेन[^351] निर्मुक्तो मृत्युबन्धनात् ॥२०
 
-[^279]: "क–घ– प्राक्तनेन"
+[^351]: # "क–घ– प्राक्तनेन"
 
 वयं तु वैकृतं मार्गम् आश्रिता वै क्षरं सदा ।  
 परमुत्सृज्य पन्थानम् अमृताक्षरमेव तु ॥२१
@@ -6306,24 +6357,24 @@ The Presidency College,
 न चैतत् सुखमत्यन्तं न्यूनमेतद्नन्तरम् ।  
 मूर्तिमत् परमेतत् स्यात्विदमेवं सुसत्तम॥२३
 
-पुनःपुनश्च पतनं मूर्तिमत्युपदिश्यते ।  
+पुनः पुनश्च पतनं मूर्तिमत्युपदिश्यते ।  
 न पुनर्मृत्युमित्यन्यन्निर्मुक्तानां तु मूर्तितः ॥२४
 
-मृत्युदोषास्त्वनन्ता वै ह्युत्पद्यन्ते कृतात्मनाम्।  
-मर्त्येषु नाकपृष्ठेषु निरयेषुमहामुने ॥२५
+मृत्युदोषास्त्वनन्ता वै ह्युत्पद्यन्ते कृतात्मनाम् ।  
+मर्त्येषु नाकपृष्ठेषु निरयेषु महामुने ॥२५
 
 तत्र मज्जन्ति पुरुषास् सुखदुःखेन वेष्टिताः ॥२५॥
 
 सुखदुःखव्यपेतं च यदाहुरमृतं पदम् ।  
 तदहं श्रोतुमिच्छामि यथावच्छ्रुतिदर्शनात् ॥२६॥
 
-सनत्कुमारः–
+**सनत्कुमारः–**
 
-यदुक्तं[^143] भवता वाक्यं तत्त्वसंज्ञेति देहिनाम् ।  
+यदुक्तं[^180] भवता वाक्यं तत्त्वसञ्ज्ञेति देहिनाम् ।  
 चतुर्विंशतिमेवात्र केचिदाहुर्मनीषिणः ॥२७॥
 
 केचिदाहुस्त्रयोविंशं यथाश्रुतिनिदर्शनम् ।  
-वयं तु पञ्चविंशं वै तदधिष्ठानसंज्ञितम् ॥२८
+वयं तु पञ्चविंशं वै तदधिष्ठानसञ्ज्ञितम् ॥२८
 
 तत्त्वं समधिमन्यामस् सर्वतन्त्रप्रलापनात् ॥२९
 
@@ -6342,32 +6393,32 @@ The Presidency College,
 अहङ्काराच्च भूतेषु चतुर्थं विद्धि वैकृतम् ॥३३॥
 
 अहङ्काराच्च जातानि युगपद्विबुधेश्वर ।  
-सविशेषाणि[^281] भूतानि पञ्च प्राहुर्मनीषिणः ॥३४॥
+सविशेषाणि[^353] भूतानि पञ्च प्राहुर्मनीषिणः ॥३४॥
 
-[^281]: "ख-अर्धचतुष्टयं नास्ति।"
+[^353]: # "ख-अर्धचतुष्टयं नास्ति।"
 
-चतुर्विंशात्तुवै प्रोक्तात् पञ्चविंशोऽधितिष्ठति ॥३५
+चतुर्विंशात्तु वै प्रोक्तात् पञ्चविंशोऽधितिष्ठति ॥३५
 
 एते सर्गा मया प्रोक्ताश् चत्वारः प्राकृतास्त्विह ।  
 अहङ्काराच्च जातानि युगपद्विविधेश्वर ॥३६
 
-अहङ्काराच्च भूतेषु विविधार्थोव्यजायत ॥३६॥
+अहङ्काराच्च भूतेषु विविधार्थो व्यजायत ॥३६॥
 
 इन्द्रियैर्युगपत् सर्वैस् सोऽनित्यश्च समीक्ष्यते ॥३
 
-मरुत्वं[^282] सत्त्वसर्गश्च तुष्टिस्सिद्धिस्तथैव च ॥३७॥
+मरुत्वं[^354] सत्त्वसर्गश्च तुष्टिस्सिद्धिस्तथैव च ॥३७॥
 
-[^282]: " क-घ-ममत्वं, ख- उरुत्वं"
+[^354]: # " क-घ-ममत्वं, ख- उरुत्वं"
 
 वैकृतानि प्रवक्ष्यामि शृणु तानि महामते ॥३८
 
-एषातत्त्वचतुर्विंशन्मया शास्त्रानुमानतः ।  
+एषा तत्त्वचतुर्विंशन्मया शास्त्रानुमानतः ।  
 वर्णिता तव देवेश पञ्चविंशत्समन्विता ॥३९
 
-पञ्चमोऽनुग्रहश्चैव नवैते प्राकृतैस्सह।  
+पञ्चमोऽनुग्रहश्चैव नवैते प्राकृतैस्सह ।  
 ऐन्द्रेऽऽप्यहमथाप्यन्यन्ममात्मनि च भास्वरम् ॥४०
 
-यच्च देहमयं किञ्चित् त्रिषुलोकेषु विद्यते ।  
+यच्च देहमयं किञ्चित् त्रिषु लोकेषु विद्यते ।  
 सर्वत्रैवाभिमन्तव्यं त्वया त्रिपुरसूदन ॥४१
 
 अन्यथा ये तु पश्यन्ति ते न पश्यन्ति ब्रह्मज ।  
@@ -6379,11 +6430,12 @@ The Presidency College,
 निस्तत्त्वाश्चैष देवेश बोद्धव्यं तु न बुद्ध्यते ।  
 यदि बुद्ध्येत् परं बुद्धं बुद्ध्यमानस्सुरर्षभ ॥४४
 
-प्रबुद्धो ह्यभिमन्येत योऽयं नाहमिति[^283] प्रभो[^6] ॥४४॥  
+प्रबुद्धो ह्यभिमन्येत योऽयं नाहमिति[^355] प्रभो[^15] ॥४४॥  
 
-[^283]: "क-घ-योहमिति"
 
-तत्त्वसङ्ख्या श्रुता चैषा येषां ब्रह्मविदां वर।  
+[^355]: # "क-घ-योहमिति"
+
+तत्त्वसङ्ख्या श्रुता चैषा येषां ब्रह्मविदां वर ।  
 सर्गसङ्ख्या मया प्रोक्ता नवानामनुपूर्वशः ॥४५॥
 
 प्रवक्ष्यामि च तेऽध्यात्मम् अधिभूताधिदैवतम् ॥४६
@@ -6409,7 +6461,7 @@ The Presidency College,
 स्वाध्याययुक्ताय गुणान्विताय  
 प्रदेयमेतन्नियतेन्द्रियाय ॥५०
 
-सङ्क्षेपं चाप्यथैतेषांतत्त्वानां वृषभध्वज ।  
+सङ्क्षेपं चाप्यथैतेषां तत्त्वानां वृषभध्वज ।  
 अनुलोमानुजातानां प्रतिलोमं प्रमीयताम् ॥५१
 
 प्रवक्ष्यामि तमध्यात्मं साविभूताधिदैवतम्॥५१॥
@@ -6417,7 +6469,7 @@ The Presidency College,
 यथांशुजालमर्कस्य तथैतत् प्रवदन्ति वै ॥५२
 
 सङ्क्षीणे ब्रह्मदिवसे जगज्जलधिमाविशेत्।  
-प्रलीयते जले भूमिर् जलमग्नौप्रलीयते ॥५३
+प्रलीयते जले भूमिर् जलमग्नौ प्रलीयते ॥५३
 
 लीयतेऽग्निस्तथा वायौ वायुराकाश एव तु ।  
 मनसि प्रलीयते खं तु मनोऽहङ्कार एव च ॥५४
@@ -6425,18 +6477,18 @@ The Presidency College,
 अहङ्कारस्तथा तस्मिन् महति प्रविलीयते ।  
 महानव्यक्त इत्याहुस् तदेकत्वं प्रचक्षते ॥५५
 
-अव्यक्तस्य महादेव प्रलयं विद्धि ब्रह्मणि।  
+अव्यक्तस्य महादेव प्रलयं विद्धि ब्रह्मणि ।  
 एवमस्यासकृत् क्रीडाम् आहुस्तत्त्वविदो जनाः ॥५६
 
 अध्यात्ममधिभूतं च तथैवाप्यधिदैवतम् ।  
-यथावदुदितं[^846] शास्त्रं योगे तु सुमहात्मभिः ॥५७
+यथावदुदितं[^357] शास्त्रं योगे तु सुमहात्मभिः ॥५७
 
-[^846]: # "ख- अर्धषट्कं नास्ति"
+[^357]: # "ख- अर्धषट्कं नास्ति"
 
 तथैव चेह साङ्ख्ये तु परिसङ्ख्यात्मचिन्तकैः ।  
 प्रपञ्चितार्थमेतावन्महादेव महात्मभिः ॥५८
 
-ब्रह्मेति विद्यादध्यात्मं पुरुषं चाधिदैवतम्।  
+ब्रह्मेति विद्यादध्यात्मं पुरुषं चाधिदैवतम् ।  
 प्रभवं सर्वभूतानां रक्षणं तत्र कर्म च ॥
 
 अध्यात्मं प्राणमित्याहुः क्रतुमप्यधिदैवतम् ।  
@@ -6446,11 +6498,11 @@ The Presidency College,
 दैवं च प्रभवश्चैव कर्म व्याहृतयस्तथा ॥६०
 
 विद्यात्तु श्रोत्रमध्यात्मम् आकाशमविदैवतम् ।  
-सर्वभावाभिधानार्थं[^285]शब्दः कर्म सदा स्मृतम् ॥६२
+सर्वभावाभिधानार्थं[^358] शब्दः कर्म सदा स्मृतम् ॥६२
 
-[^285]: "अ- अर्धचतुष्टयं नास्ति"
+[^358]: # "अ- अर्धचतुष्टयं नास्ति"
 
-त्वगध्यात्ममथोविद्याद् वायुरत्राधिदैवतम् ।  
+त्वगध्यात्ममथो विद्याद् वायुरत्राधिदैवतम् ।  
 सन्निपाताय विज्ञानं सर्वकर्म च तत्र ह ॥६३
 
 अध्यात्मं चक्षुरियाहुर् भास्करोऽत्राधिदैवतम् ।  
@@ -6460,9 +6512,9 @@ The Presidency College,
 पायुरध्यात्ममित्याहुर् यथावद्यतिसत्तमाः॥६५
 
 विसर्गमधिभूतं च मित्रं चाप्यधिदैवतम् ।  
-उपस्थोऽध्यात्ममित्याहुर[^286] देवदेव पिनाकधृक्॥६६
+उपस्थोऽध्यात्ममित्याहुर[^359] देवदेव पिनाकधृक् ॥६६
 
-[^286]: "क-घ-अर्ध चतुष्टयं नास्ति"
+[^359]: # "क-घ-अर्ध चतुष्टयं नास्ति"
 
 अनुभावोऽधिभूतं तु दैवतं च प्रजापतिः ॥६६॥
 
@@ -6473,24 +6525,24 @@ The Presidency College,
 
 वक्तव्यमधिभूतं तु वह्निस्तत्राधिदैवतम् ॥६८॥
 
-एतदध्यात्ममतुलं[^847] साधिभूताधिदैवतम् ।  
+एतदध्यात्ममतुलं[^360] साधिभूताधिदैवतम् ।  
 मया तु वर्णितं सम्यग् देहिनाममरर्षभ ॥६९॥
 
-[^847]: # "अ-ख - इदमर्धं नास्ति"
+[^360]: # "अ-ख - इदमर्धं नास्ति"
 
 एतत् कीटपतङ्गे च श्वपाके शुनि हस्तिनि ।  
 पुत्रिकादंशमशके ब्राह्मणे गवि पार्थिवे ॥॥७०॥
 
-सर्वमेव हि द्रष्टव्यम् अन्यथा मा विचिन्तय[^287] ॥७१
+सर्वमेव हि द्रष्टव्यम् अन्यथा मा विचिन्तय[^361] ॥७१
 
-[^287]: "ख-विचारय"
+[^361]: # "ख-विचारय"
 
-अतोऽन्यथा ये पश्यन्ति न सम्यक् तेषुदर्शनम् ॥ ७१॥
+अतोऽन्यथा ये पश्यन्ति न सम्यक् तेषु दर्शनम् ॥ ७१॥
 
 देवदानवगन्धर्वयक्षराक्षसकिन्नराः ।  
-यन्न जानन्ति को ह्येषकुतो वा[^288] भगवानिति ॥७२॥
+यन्न जानन्ति को ह्येष कुतो वा[^362] भगवानिति ॥७२॥
 
-[^288]: "क-घ- वाऽहं भवानिति"
+[^362]: # "क-घ- वाऽहं भवानिति"
 
 ओमित्येकाक्षरं ब्रह्म यत्तत् सदसतः परम् ।  
 अनादिमध्यपर्यन्तं कूटस्थमचलं ध्रुवम् ॥७३॥
@@ -6504,11 +6556,11 @@ The Presidency College,
 अनाद्यन्तं परं ब्रह्म न देवा ऋषयो विदुः ।  
 एकोऽयं वेद भगवांस् त्राता नारायणो हरिः ॥७६॥
 
-नारायणादृषिगणास् ततस्सिद्धा महोरगाः।  
+नारायणादृषिगणास् ततस्सिद्धा महोरगाः ।  
 देवा देवर्षयश्चैव यं विदुर्दुःखभेषजम् ॥७७॥
 
 यमाहुर्विजितक्लेशं यस्मिंश्च विहिताः प्रजाः ।  
-यस्मिल्ँलोकास्स्फुरन्तीमे जाले शकुनयो यथा ॥७८॥
+यस्मिल्ँ लोकास्स्फुरन्तीमे जाले शकुनयो यथा ॥७८॥
 
 सप्तर्षयो मनस्सप्त साङ्ख्यास्तु मुनिदर्शनात् ।  
 सप्तर्षयश्चेन्द्रियाणि पञ्च बुद्धीन्द्रियाणि च ॥७९॥
@@ -6516,17 +6568,17 @@ The Presidency College,
 श्रोत्रयोश्च दिशः प्राहुर् मनसि त्वथ चन्द्रमाः ॥८०
 
       मनष्षष्ठं बुद्धिस्सप्तमी ह्यात्मनि स्थापितानि शरीरेषु नात्मनि परमात्मनि तस्य हि कारणानि भवन्ति सर्वाण्यपि सर्वकर्मसु वा विषयेषु वा युञ्जन्ति यथात्मनि स्वानि कर्माणि प्रवृत्तानि सप्तस्वपि व्यापकानि ॥८१  
-  विषयाणां व्यापकानि तान्येव स्वपतो भूतग्रामस्याजमात्मानं देवलोकस्थानसम्मितं देहान्तरगामिनं मुमुक्षवोऽनु[^289]प्रविशन्ति सूक्ष्माणि प्रलीयन्ते वा ॥८२
+  विषयाणां व्यापकानि तान्येव स्वपतो भूतग्रामस्याजमात्मानं देवलोकस्थानसम्मितं देहान्तरगामिनं मुमुक्षवोऽनु[^363]प्रविशन्ति सूक्ष्माणि प्रलीयन्ते वा ॥८२
 
-[^289]: "ख– मुमुक्षुं वाऽनुप्र"
+[^363]: # "ख– मुमुक्षुं वाऽनुप्र"
 
 मोक्षकाले तमेकं न कश्चिद्वेत्ति स्वापरम् ॥८३
 
 एवं प्रविष्टेषु भूतेषु को जागर्तीत्युच्यते ॥८४
 
-निद्राप्रसुप्तेषु वाऽत्र[^848] जाग्रत्स्वप्नशीलोत्रसदनौ च देव
+निद्राप्रसुप्तेषु वाऽत्र[^364] जाग्रत्स्वप्नशीलोत्रसदनौ च देव
 
-[^848]: # "ख-वाऽमुत्र"
+[^364]: # "ख-वाऽमुत्र"
 
 द्योतनो भगवांश्चात्र क्षेत्रज्ञो बुद्धिर्वा ॥८५
 
@@ -6540,15 +6592,15 @@ The Presidency College,
 
 अविदुषो वाऽप्रतिबुध्यमानस्यान्नं पचतीत्यन्तेऽवतिष्ठते ॥ ९०
 
-एतदात्मानमधिकृत्यानुज्ञातमिति[^6] \।\।९१
+एतदात्मानमधिकृत्यानुज्ञातमिति[^15] \।\।९१
 
 प्रभवश्वाप्ययस्तात वर्णितस्तेऽनुपूर्वशः ।  
 तथाऽध्यात्माधिभूतं च तथैवात्राधिदैवतम् ॥९२
 
 निखिलेन तु वक्ष्यामि दैवतानीह देहिनाम् ।  
-यान्याश्रितेषु[^291]देहेषु यानि पृच्छसि शङ्कर ॥९३
+यान्याश्रितेषु[^366] देहेषु यानि पृच्छसि शङ्कर ॥९३
 
-[^291]: "ख-न्यायाश्रि"
+[^366]: # "ख-न्यायाश्रि"
 
 वाच्यग्निस्त्वथ जिह्वायां सोमः प्राणे तु मारुतः ।  
 रूपे चाप्यथ नक्षत्रं जिह्वायां चाप एव तु ॥९४
@@ -6563,32 +6615,33 @@ The Presidency College,
 समानेऽप्यथ चेशानस् त्वपाने रुद्र एव च ॥९७
 
 गन्धर्वाप्सरसो व्याने सत्ये मित्रस्य शङ्कर ।  
-प्रज्ञायां[^292] वरुणश्चैव चक्षुण्यादित्य एव च ॥९८
+प्रज्ञायां[^367] वरुणश्चैव चक्षुण्यादित्य एव च ॥९८
 
-[^292]: "ख-अर्धसप्तकं नास्ति"
+[^367]: # "ख-अर्धसप्तकं नास्ति"
 
 शरीरे पृथिवी चैव पायोर्विष्णुरेव च ।  
 पायौ मित्रस्तथोपस्थे प्रजापतिररिन्दम ॥९९
 
-मूर्ध्नि चैव दिशः प्राहुर बुद्धौ ब्रह्मा[^293] प्रतिष्ठितः ।  
+मूर्ध्नि चैव दिशः प्राहुर बुद्धौ ब्रह्मा[^368] प्रतिष्ठितः ।  
 बुध्यमानोऽऽत्मनिष्ठरस्याद् अधिष्ठाता तु शङ्कर ॥१००
 
-[^293]: "क-घ-धर्माः प्रतिष्ठिताः"
+[^368]: # "क-घ-धर्माः प्रतिष्ठिताः"
 
 अबुद्धश्चाभवत्तस्माद् बुध्यमानान्न संशयः ।  
-आभ्यामन्यः परो बुद्धो वेदवादेषु[^294] शङ्कर ॥१०१
+आभ्यामन्यः परो बुद्धो वेदवादेषु[^369] शङ्कर ॥१०१
 
-[^294]: "क-घ-देवदेवेषु"
+[^369]: # "क-घ-देवदेवेषु"
 
-यदाश्रितानि देहेषु दैवतानि पृथक् पृथक्।  
-योऽग्नये यजते[^295] नित्यम् आत्मयाजी समाहितः ॥१०२  
+यदाश्रितानि देहेषु दैवतानि पृथक् पृथक् ।  
+योऽग्नये यजते[^370] नित्यम् आत्मयाजी समाहितः ॥१०२  
 
-[^295]: "क-ख-घ-जायते"
 
-य[^296] एवमनुपश्येत दैवतानि समाहितः ।  
+[^370]: # "क-ख-घ-जायते"
+
+य[^371] एवमनुपश्येत दैवतानि समाहितः ।  
 सोऽत्र योगी भवत्येव य एवमनुपश्यति ॥१०३
 
-[^296]: "क-घ-इदमर्धं नास्ति"
+[^371]: # "क-घ-इदमर्धं नास्ति"
 
 स सर्वयज्ञयाजिभ्यो ह्यात्मयाजी विशिष्यते ॥१०३॥
 
@@ -6615,31 +6668,31 @@ The Presidency College,
 अव्यक्तात् परमं शुद्धम् अप्रमेयमनामयम् ।  
 तमाहुः परमं नित्यं यद्यदाप्नोति बुद्धिमान् ॥१११
 
-बुध्यमानाप्रबुद्धाभ्यां[^297] स बुद्ध इति पठ्यते ।  
+बुध्यमानाप्रबुद्धाभ्यां[^372] स बुद्ध इति पठ्यते ।  
 बुध्यमानमबुद्धश्च नित्यमेवानुपश्यति ॥११२
 
-[^297]: "घ– बुध्यमानप्रबुद्धाभ्यां"
+[^372]: # "घ– बुध्यमानप्रबुद्धाभ्यां"
 
 विकारपुरुषस्त्वेष बुध्यमान इति स्मृतः ।  
-पञ्चविंशतितत्त्वं तत् प्रोच्यते नात्र[^298] संशयः ॥११३
+पञ्चविंशतितत्त्वं तत् प्रोच्यते नात्र[^373] संशयः ॥११३
 
-[^298]: "ख– तस संश्रयात् ;घ- तत्रसंशयः"
+[^373]: # "ख– तस संश्रयात् ; घ- तत्र संशयः"
 
-स एषप्रकृतिस्थत्वात् तस्थुरित्युपदिश्यते ।  
+स एष प्रकृतिस्थत्वात् तस्थुरित्युपदिश्यते ।  
 महानात्मा महादेव महानत्राधितिष्ठति ॥११४
 
 अधिष्ठानादधिष्ठाता प्रोच्यते शास्त्रदर्शनात् ।  
-एषचेतयते[^299] देव मोहजालमबुद्धिमान् ॥११५
+एष चेतयते[^374] देव मोहजालमबुद्धिमान् ॥११५
 
-[^299]: "क-घ– वेदयते"
+[^374]: # "क-घ– वेदयते"
 
 अव्यक्तस्यैव साधर्म्यम् एतदाहुर्मनीषिणः।  
 सोऽहं सोऽहमतो नियाद् अज्ञानादिति मन्यते ॥११६
 
-यदि बुध्यति चैवायम् अन्योऽयमिति भास्वरः[^300] ।  
+यदि बुध्यति चैवायम् अन्योऽयमिति भास्वरः[^375] ।  
 न प्रबुद्धोऽनुवर्तेत पानीयं मत्स्यको यथा ॥११७
 
-[^300]: "ख– भारत"
+[^375]: # "ख– भारत"
 
 देवता निखिलेनैताः प्रोक्तास्त्रिभुवनेश्वर ।  
 योगकृत्यं तु तावन्मे त्वं निवोधानुपूर्वशः ॥११८
@@ -6648,7 +6701,7 @@ The Presidency College,
 विष्टम्भयित्वा त्रीन् दण्डान् अवाप्तोऽप्यथ योगवित् ॥ ११९
 
 प्राङ्मुखोदङ्मुखो वाऽपि तथा पञ्चान्मुखोऽपि वा ।  
-दक्षिणावदनो वाऽपि बद्ध्वाविधिवदासनम् ॥१२०
+दक्षिणावदनो वाऽपि बद्ध्वा विधिवदासनम् ॥१२०
 
 स्वस्तिकेनोपसंविष्टः कायमुन्नस्य भास्वरम् ।  
 यथोपदिष्टं गुरुणा तथा तद्ब्रह्म धारयेत् ॥१२१
@@ -6659,39 +6712,40 @@ The Presidency College,
 शेषकालं तु युञ्जीत मनसा सुसमाहितः ।  
 इन्द्रियाणीन्द्रियार्थेभ्यो मनसा विनिवर्तयेत् ॥१२३
 
-मनस्तथैव सङ्गृह्य बुद्ध्या बुद्धिमतां वर।  
+मनस्तथैव सङ्गृह्य बुद्ध्या बुद्धिमतां वर ।  
 विधावमानं धैर्येण विष्कुरन्तमितस्ततः ॥१२४
 
 निरुध्य सर्वसङ्कल्पांस् ततो वै स्थिरतां व्रजेत् ।  
 एकाग्रस्तद्विजानीयात् सर्वगुह्यतमं परम्॥१२५
 
 निवातस्थ इवालोलो यथा दीपोऽतिदीप्यते ।  
-ऊर्ध्वमेव न तिर्यक् च तथैवभ्राम्यते[^301] मनः ॥१२६
+ऊर्ध्वमेव न तिर्यक् च तथैवभ्राम्यते[^376] मनः ॥१२६
 
-[^301]: "क- ख- घ-भ्रान्ति"
+[^376]: # "क- ख- घ-भ्रान्ति"
 
 हृदिस्थतिष्ठते योऽसौ तथैवाभिमुखो यदा ।  
 मनो भवति देवेश पाषाणमिव निश्चलम् ॥१२७
 
-स निर्जने विनिर्घोषे सघोषेचावसज्जने ।  
+स निर्जने विनिर्घोषे सघोषे चावसज्जने ।  
 युक्तो यो न विकम्पेत योगी योगविधिश्श्रुतः ॥१२८  
+
 
 ततः पश्यति तद्ब्रह्म ज्वलदात्मनि संस्थितम् ।  
 विद्युदम्बुधरे यद्वत् तद्वदेकमनाश्रयम् ॥१२९
 
-तमस्यगावे तिष्ठन्तं निस्तमस्कमचेतनम्।  
-चेतयानमचेतं च दीप्यमानं स्वतेजसा॥१३०
+तमस्यगावे तिष्ठन्तं निस्तमस्कमचेतनम् ।  
+चेतयानमचेतं च दीप्यमानं स्वतेजसा ॥१३०
 
 अष्टपर्वमात्रं तन्नैश्रेयसमनिन्दितम् ।  
 महद्भूतमनन्तं च स्वतन्त्रं विगतज्वरम् ॥१३१
 
-ज्योतिषां ज्योतिषं देवं विष्णुमयन्तनिर्मलम्।  
+ज्योतिषां ज्योतिषं देवं विष्णुमयन्तनिर्मलम् ।  
 नारायणमणीयांसम् ईश्वराणासवीश्वरम्॥१३२
 
-विश्वतः परमं नित्यं विश्वं नारायणं प्रभुम्[^302] ।  
+विश्वतः परमं नित्यं विश्वं नारायणं प्रभुम्[^377] ।  
 अविज्ञाय निमज्जन्ति लोकास्संसारसागरे ॥१३३
 
-[^302]: "क-घ–हरिम्"
+[^377]: # "क-घ–हरिम्"
 
 यं दृष्ट्वा यतयस्तात न शोचन्ति गतज्वराः ।  
 जन्ममृत्युभयान्मुक्तास् तीर्णास्संसारसागरम् ॥१३४
@@ -6704,36 +6758,36 @@ The Presidency College,
 दृष्ट्वाऽऽत्मानं निरात्मानम् अप्रमेयं सनातनम् ।  
 ते विशन्ति शरीराणि योगेनानेन भास्वरम् ॥१३६॥
 
-दैत्यदेवमनुष्याणां[^303] बलेन बलवत्तम ॥१३७
+दैत्यदेवमनुष्याणां[^378] बलेन बलवत्तम ॥१३७
 
-[^303]: "ख–देवदैत्य + माः"
+[^378]: # "ख–देवदैत्य + माः"
 
 एतत् तत्त्वमनाद्यन्तं यद्भवाननुपृच्छति ।  
 नित्यं वयमुपास्यामो योगधर्मं सनातनम् ॥१३८
 
 योगधर्मान्न धर्मोऽस्ति गरीयान् सुरसत्तम ।  
-एतद्धर्मं हि धर्माणाम्[^304] अपुनर्भवसंस्कृतम् ॥१३९
+एतद्धर्मं हि धर्माणाम्[^379] अपुनर्भवसंस्कृतम् ॥१३९
 
-[^304]: "क-घ–णां प्रबभूव सुसंस्कृतः"
+[^379]: # "क-घ–णां प्रबभूव सुसंस्कृतः"
 
 तत्त्वतः परमस्तीति केचिदाहुर्मनीषिणः ।  
-केचिदाहुः परं नास्ति ये साङ्ख्यज्ञानमाश्रिताः[^305] ॥ १४०
+केचिदाहुः परं नास्ति ये साङ्ख्यज्ञानमाश्रिताः[^380] ॥ १४०
 
-[^305]: "क-ख-घ–ज्ञानफल"
+[^380]: # "क-ख-घ–ज्ञानफल"
 
 ज्ञानस्थः पुरुषस्त्वेष विकृतस्स्वेन वर्णितः ।  
 यं ध्यानेनानुपश्यन्ति नित्यं योगपरायणाः ॥१४१
 
-तमेव पुरुषंदेवं केचिदेव महेश्वर ।  
+तमेव पुरुषं देवं केचिदेव महेश्वर ।  
 नित्यमन्यतमाः प्राहुर ज्ञानं परमकं स्मृतम् ॥१४२
 
 ज्ञानमेव विनिर्मुक्तास् साङ्खाया गच्छन्ति केवलम् ।  
-चिन्ताध्यात्मनि[^306] चान्यत्र योगाः परमबुद्धयः ॥१४३
+चिन्ताध्यात्मनि[^381] चान्यत्र योगाः परमबुद्धयः ॥१४३
 
-[^306]: "क-घ–किञ्चाध्या"
+[^381]: # "क-घ–किञ्चाध्या"
 
 उक्तमेतावदेतत्ते योगदर्शनमुत्तमम् ।  
-साङ्ख्यज्ञानं प्रवक्ष्यामि परिसङ्ख्यानिदर्शनम्[^6] ॥१४४
+साङ्ख्यज्ञानं प्रवक्ष्यामि परिसङ्ख्यानिदर्शनम्[^15] ॥१४४
 
 इन्द्रियेभ्यो मनः पूर्वम् अहङ्कारस्ततः परम् ।  
 अहङ्कारात् परा बुद्धिर् बुद्धेः परतरं महत्॥१४५
@@ -6744,13 +6798,13 @@ The Presidency College,
 अव्यक्तं बुद्ध्यहङ्कारौ महाभूतानि पञ्च च ।  
 मनस्तथा विशेषं च दश चैवेन्द्रियाणि च ॥१४७
 
-एषातत्त्वचतुर्विंशन्महापुरुषसम्मिता॥१४७॥
+एषा तत्त्वचतुर्विंशन्महापुरुषसम्मिता ॥१४७॥
 
 बुद्धयमानेन देवेश चेतनेन महात्मना ।  
 संयोगमेतयोर्नित्यम् आहुरव्यक्तपुंसयोः ॥१४८॥
 
 एकत्वं च बहुत्वं च सर्गप्रलयकोटिशः ।  
-तमस्संज्ञितमेतद्धि प्रवदन्ति त्रिशूलधृक् ॥१४९॥
+तमस्सञ्ज्ञितमेतद्धि प्रवदन्ति त्रिशूलधृक् ॥१४९॥
 
 समुत्पाट्य यथाऽव्यक्ताज् जीवा यान्ति पुनः पुनः  
 आदिरेष महानात्मा गुणानामिति नः प्रभो ॥१५०॥
@@ -6759,9 +6813,7 @@ The Presidency College,
 एतेनाध्युषितो व्यक्तस् त्रिगुणं चेतयत्यथ ॥१५१॥
 
 अचेतनः प्रकृत्येषु न चान्यमनुबुध्यते ।  
-बुध्यमानो[^308] ह्यहङ्कारो नित्यं मानाप्रबोधनात् ॥१५२॥
-
-[^308]: "अ–अर्धचतुष्टयंनास्ति"
+बुध्यमानो[^97] ह्यहङ्कारो नित्यं मानाप्रबोधनात् ॥१५२॥
 
 विमलस्य विशुद्धस्य नीरुजस्य महात्मनः ।
 
@@ -6774,15 +6826,15 @@ The Presidency College,
 बुध्यमानो न बुध्येत बुद्धमेवं सनातनम् ॥१५५॥
 
 स एव बुद्धेव्यक्तस्वभावत्वादचेतनः ।  
-सोऽहमेव न मेऽन्योऽस्ति य[^309] एवमभिमन्यते ॥ १५६ ॥
+सोऽहमेव न मेऽन्योऽस्ति य[^384] एवमभिमन्यते ॥ १५६ ॥
 
-[^309]: "घ-अयमनन्तरश्च पादो न स्तः"
+[^384]: # "घ-अयमनन्तरश्च पादो न स्तः"
 
 न मन्यते ममान्योऽस्ति येन चेतोऽस्म्यचेतनः ।  
 एवमेवाभिमन्येत बुध्यमानोऽप्यनात्मवान् ॥१५७॥
 
 अहमेव न मेऽन्योऽस्ति न प्रबुद्धवशानुगः ।  
-अव्यक्तस्थो गुणानेषनित्यमेवाभिमन्यते॥१५८॥
+अव्यक्तस्थो गुणानेष नित्यमेवाभिमन्यते॥१५८॥
 
 तेनाधिष्ठिततत्त्वज्ञैर् महद्भिरभिधीयते ।  
 अहङ्कारेण संयुक्तस् ततस्तमभिमन्यते ॥१५९॥
@@ -6790,7 +6842,7 @@ The Presidency College,
 क्षेत्रं प्रविश्य दुर्बुद्धिर् बुद्ध्यमानो ह्यनात्मवान् ।  
 अहमेव सृजत्यन्यद् द्वितीयं लोकसारथिम् ॥१६०॥
 
-सर्वाभावैरहङ्कास् तृतीयं सर्गसंज्ञकम् ।  
+सर्वाभावैरहङ्कास् तृतीयं सर्गसञ्ज्ञकम् ।  
 ततो भूतान्यहङ्कारम् अहङ्कारो मनोऽसृजत् ॥१६१॥
 
 तस्य स्रोतस्यभिमुस्वं सम्प्रावतत बुद्धिमान् ॥१६२
@@ -6801,27 +6853,27 @@ The Presidency College,
 मनो वेद न चात्मानम् अहङ्कारं प्रजापतिः ।  
 न वेद वाऽप्यहङ्कारो बुद्धिं बुद्धिमतां वर ॥१६४
 
-एवमेते महाभाग नेतरे[^310] नयवादिनः॥१६४॥
+एवमेते महाभाग नेतरे[^385] नयवादिनः ॥१६४॥
 
-[^310]: "क-घ-नेतरेतरवेदिना"
+[^385]: # "क-घ-नेतरेतरवेदिना"
 
 अहङ्कारेण संयुक्तस् स्रोतस्यभिमुखस्तदा ॥१६५
 
-एवमेषविकारात्मा महापुरुषसंज्ञकः ।  
+एवमेष विकारात्मा महापुरुषसञ्ज्ञकः ।  
 प्रतनोति जगत् कृत्स्नं पुनराददते स तत् ॥१६६
 
 संसक्तत्वाज्जगत् कृत्स्नम् अव्यक्तस्य हृदि स्थितम् ।  
 संविशद्रजनीं कृत्स्त्रां निशान्ते दिवसागमे ॥१६७
 
 पुनरात्मा विजयते बहवो निर्गुणास्तथा ।  
-अज्ञानेन[^849] समायुक्तस् सोऽव्यक्तेन तमोत्मना॥१६८
+अज्ञानेन[^386] समायुक्तस् सोऽव्यक्तेन तमोत्मना ॥१६८
 
-[^849]: # "क–अर्धद्वयं नास्ति"
+[^386]: # "क–अर्धद्वयं नास्ति"
 
 यदि ह्येषोऽनुमन्येत ममास्ति परतो वरः ।  
-स पुनः पुनरात्मानं न कुर्यादाक्षिपेत च॥१६९
+स पुनः पुनरात्मानं न कुर्यादाक्षिपेत च ॥१६९
 
-एतमव्यक्तविषयं सूक्ष्मं मन्येत बुद्धिमान्।  
+एतमव्यक्तविषयं सूक्ष्मं मन्येत बुद्धिमान् ।  
 पञ्चविंशं महादेव महापुरुषवैकृतम् ॥१७०
 
 प्रबुद्धौ बुद्धवानेतत् सृजमानमबुद्धवान् ।
@@ -6831,45 +6883,45 @@ The Presidency College,
 अव्यक्तस्य वशीभूतस् सोऽज्ञानस्य तमोत्मनः ।  
 बुध्यमानो ह्यबुद्धस्य बुद्धस्तदनुभुज्यते ॥१७२
 
-उपेक्षकश्शुचिर्व्यग्रस् सोऽलिङ्गस्सोऽव्रणोऽमलः[^311] ।  
-षड्विंशो[^226] भगवानास्ते बुद्धश्शुद्धो निरामयः ॥१७३
+उपेक्षकश्शुचिर्व्यग्रस् सोऽलिङ्गस्सोऽव्रणोऽमलः[^387] ।  
+षड्विंशो[^270] भगवानास्ते बुद्धश्शुद्धो निरामयः ॥१७३
 
-[^311]: "क-घ–सोरुणो"
+[^387]: # "क-घ–सोरुणो"
 
 अव्यक्तादिविशेषान्तम् एतद्वैद्या वदन्त्युत ।  
 एतैरेव विहीनं तु केचिदाहुर्मनीषिणः ॥१७४
 
 निस्तत्वं बुध्यमानास्तु केचिदाहुर्महामते ।  
-केचिदाहुर्महात्मानस् तत्त्वसंज्ञितमेव तु ॥१७५
+केचिदाहुर्महात्मानस् तत्त्वसञ्ज्ञितमेव तु ॥१७५
 
-तत्त्वस्य[^313] श्रवणादेनं तत्त्वमेवं वदन्ति वै ।  
+तत्त्वस्य[^389] श्रवणादेनं तत्त्वमेवं वदन्ति वै ।  
 तत्त्वसंश्रयणाश्चैव सत्त्ववन्तं महेश्वर ॥१७६
 
-[^313]: "क– स्याश्रयणा"
+[^389]: # "क– स्याश्रयणा"
 
 एवमेव विकारात्मा बुध्यमानो महाभुज ।  
 अव्यक्तो भवते व्यक्तौ सत्त्वं सत्त्वं तथा गुणौ ॥ १७७
 
-विद्या च भवते विद्या भवते ग्रहसंज्ञितम् ॥१७७॥
+विद्या च भवते विद्या भवते ग्रहसञ्ज्ञितम् ॥१७७॥
 
 य एवमनुबुद्ध्यन्ते योगसाङ्ख्याश्च तत्त्वतः ।  
 तेऽव्यक्तं शङ्करागाढं मुञ्चन्ते शास्त्रबुद्धयः ॥१७८॥
 
-तेषामेवं तु वदतां शास्त्रार्थंसूक्ष्मदर्शिनाम् ।  
+तेषामेवं तु वदतां शास्त्रार्थं सूक्ष्मदर्शिनाम् ।  
 बुद्धिर्विस्तीर्यते सर्वं तैलबिन्दुरिवाम्भसि ॥१७९॥
 
 विद्या तु सर्वविद्यानाम् अवबोध इति स्मृतः ।  
 येन विद्यामविद्यां च विन्दन्ति यतिसत्तमाः ॥१८०॥
 
-सैषात्रयी परा विद्या चतुर्थ्यान्वीक्षिकी स्मृता ।  
+सैषा त्रयी परा विद्या चतुर्थ्यान्वीक्षिकी स्मृता ।  
 यां बुद्धयमानो बुद्ध्यत बुद्ध्यात्मनि समं गतः ॥ १८१॥
 
-अप्रबुद्धमथाव्यक्तम्[^850] अविद्यासंज्ञकं स्मृतम् ।  
+अप्रबुद्धमथाव्यक्तम्[^390] अविद्यासञ्ज्ञकं स्मृतम् ।  
 विमोहितं तु शोकेन केवलेन समन्वितम् ॥१८२॥
 
-[^850]: # "अ-अर्धचतुष्टयं नास्ति"
+[^390]: # "अ-अर्धचतुष्टयं नास्ति"
 
-एतद्भुद्ध्या भवेद्बुद्धःकिमन्यद्बुद्धलक्षणम् ॥१८३
+एतद्भुद्ध्या भवेद्बुद्धः किमन्यद्बुद्धलक्षणम् ॥१८३
 
 ये त्वेतन्नावबुद्ध्यन्ते ते बुद्धवशगानुगाः ।  
 ते पुनः पुनरव्यक्ताज् जनिष्यन्त्यबुधात्मनः ॥१८४
@@ -6881,21 +6933,21 @@ The Presidency College,
 स्वातन्त्र्यं प्रतिलप्स्यन्ते केवलत्वं च भास्वरम् ॥१८६
 
 अज्ञानबन्धनान्मुक्तास् तीर्णास्संसारबन्धनात् ।  
-अज्ञानसागरं घोरम् अगाधं तमसंज्ञकम् ॥१८७
+अज्ञानसागरं घोरम् अगाधं तमसञ्ज्ञकम् ॥१८७
 
 यत्र मज्जन्ति भूतानि पुनः पुनररिन्दम ॥१८७॥
 
-एषाविद्या तथाऽविद्या कथिता ते मयाऽर्थतः ।  
-यस्मिन[^53] देयं च नो ग्राह्यास् साङ्ख्यास्साङ्ख्यं तथैव च ॥
+एषा विद्या तथाऽविद्या कथिता ते मयाऽर्थतः ।  
+यस्मिन[^72] देयं च नो ग्राह्यास् साङ्ख्यास्साङ्ख्यं तथैव च ॥
 
 तथा चैकत्वनानात्वम् अक्षरं क्षरमेव च ।  
-निगदिष्यामि देवेश विमोक्षं त्रिविधं चते ॥१८९॥
+निगदिष्यामि देवेश विमोक्षं त्रिविधं च ते ॥१८९॥
 
 बुद्ध्यमानाप्रबुद्धाभ्याम् अबुद्धस्य प्रपञ्चनम् ।  
 भूय एव निबोध त्वं देवानां देवसत्तम ॥१९०॥
 
-यच्च किञ्चिच्छ्रुतं न स्याद् दृष्टंचैव न किञ्चन ।  
-तच्च ते सम्प्रवक्ष्यामि एकाग्रश्श्रुणुतत्परः[^6] ॥१९१॥
+यच्च किञ्चिच्छ्रुतं न स्याद् दृष्टं चैव न किञ्चन ।  
+तच्च ते सम्प्रवक्ष्यामि एकाग्रश्श्रुणु तत्परः[^15] ॥ १९१॥
 
 अरिष्टानि प्रवक्ष्यामि तत्त्वेन शृणु तद्भवान् ।  
 मध्य उत्तरतस्तात दक्षिणामुखनिष्ठितम् ॥१९२॥
@@ -6903,46 +6955,46 @@ The Presidency College,
 विद्युसंस्थानपुरूपं यदि पश्येत मानवः ।  
 वर्षत्रयेण जानीया देहन्यासमुपस्थितम् ॥१९३॥
 
-एतत्[^316] फलमरिष्टस्य शङ्कराहुर्मनीषिणः ॥१९४
+एतत्[^393] फलमरिष्टस्य शङ्कराहुर्मनीषिणः ॥१९४
 
-[^316]: "अ-अर्धत्रयं नास्ति"
+[^393]: # "अ-अर्धत्रयं नास्ति"
 
 शुद्धमण्डलमादित्यम् अरश्मिमथ पश्यतः ।  
 वर्षार्धकेन जानीयाद् देहन्यासमुपस्थितम् ॥१९५
 
-छिद्रां[^317] चन्द्रमसछायां पादावण्यनुपश्यतः ।
+छिद्रां[^394] चन्द्रमसछायां पादावण्यनुपश्यतः ।
 
-[^317]: "क-घ–शुभ्रां"
+[^394]: # "क-घ–शुभ्रां"
 
 संवत्सरेण जानीयाद् देहन्यासमुपस्थितम् ॥१९६
 
 कनीनिकायामशिरः पुरुषं यदि पश्यति ।  
 जानीयात् षट्सु मासेषु देहन्यासमुपस्थितम् ॥१९७
 
-कर्णौपिधाय हस्ताभ्यां शब्दं न शृणुयाद्यदि ।  
+कर्णौ पिधाय हस्ताभ्यां शब्दं न शृणुयाद्यदि ।  
 विजानीयात्तु मासेन देहन्यासमुपस्थितम् ॥१९८
 
-शवगन्धमुपाघ्राति[^851] सुरभिं प्राप्य भास्वरम्।  
+शवगन्धमुपाघ्राति[^395] सुरभिं प्राप्य भास्वरम् ।  
 देवतायतनस्थोऽपि सप्तरात्रेण मृत्युभाक् ॥१९९
 
-[^851]: # "ख-बिसग"
+[^395]: # "ख-बिसग"
 
 सर्वाङ्गधारणावस्थां धारयेत समाहितः ।  
 यथा स मृत्युं जयति नान्यथेह महेश्वर ॥२००
 
-यदि जीवितुमिच्छेत चिरकालं महानुने॥२००॥
+यदि जीवितुमिच्छेत चिरकालं महानुने ॥२००॥
 
-अथ नेच्छेचिरं कालंत्यजेदात्मानमात्मना ।  
+अथ नेच्छेचिरं कालं त्यजेदात्मानमात्मना ।  
 केवलं चिन्तयानस्तु निष्कलं स निरामयम् ॥२०१॥
 
-अथ तं निर्विकारं तु प्रकृतेः परमं शुचिम्।  
-पुरुषं तेन साधर्म्यं देहन्यासमुपाश्नुयात्॥२०२॥
+अथ तं निर्विकारं तु प्रकृतेः परमं शुचिम् ।  
+पुरुषं तेन साधर्म्यं देहन्यासमुपाश्नुयात् ॥२०२॥
 
 जाग्रतो हि मयोक्तानि तवारिष्टानि तत्त्वतः ।  
-धारणाच्चैव सर्वाङ्गेमृत्युं जीयात् सुरर्षभ॥२०३॥
+धारणाच्चैव सर्वाङ्गे मृत्युं जीयात् सुरर्षभ ॥२०३॥
 
 एकत्वदर्शनं भूयो नानात्वं च निबोध मे ।  
-अक्षरं च क्षरं चैव चतुष्टयविधानतः॥२०४॥
+अक्षरं च क्षरं चैव चतुष्टयविधानतः ॥२०४॥
 
 अव्यक्तादीनि तत्त्वानि सर्वाण्येव महाद्युते ।  
 आहुश्चतुर्विंशतितमं विकारं पुरुषान्वितम् ॥२०५॥
@@ -6951,33 +7003,33 @@ The Presidency College,
 पञ्चविंशतिवर्गस्स्याद् अपवर्गोऽजरामरः ॥२०६॥
 
 स निर्विकारपुरुषस् तत्त्वेनैवोपदिश्यते ।  
-स एव पञ्चविंशस्तु विकारः पुरुषस्स्मृतः॥२०७॥
+स एव पञ्चविंशस्तु विकारः पुरुषस्स्मृतः ॥२०७॥
 
-यद्येषनिर्विकारस्यात् तत्त्वं न तु भवेद्भव ।  
-विकारो विद्यमानस्तु तत्त्वसंज्ञक उच्यते ॥२०८॥
+यद्येष निर्विकारस्यात् तत्त्वं न तु भवेद्भव ।  
+विकारो विद्यमानस्तु तत्त्वसञ्ज्ञक उच्यते ॥२०८॥
 
 यद्येषोऽव्क्ततां नैति व्यतिरेकान्न संशयः ।  
-तथा भवति निस्तत्त्वस् तथासत्वस्तथागुणः॥२०९॥
+तथा भवति निस्तत्त्वस् तथासत्वस्तथागुणः ॥२०९॥
 
 विकारगुणसन्त्यागात् प्रकृत्यन्यत्वतश्शुचिः ।  
 तदा नानात्वतामेति सर्गहीनोऽपवर्गभाक् ॥२१०॥
 
 बोध्यमानः प्रबुध्येत समो भवति बुद्धिमान् ।  
-अक्षरश्च भवत्येषयथा वा च्युतवान् क्षणात् ॥२११॥
+अक्षरश्च भवत्येष यथा वा च्युतवान् क्षणात् ॥२११॥
 
 अव्यक्ताव्यक्तिरुक्ता स्यान्निर्गुणस्य गुणाकरात् ।  
-एतदेकत्वनानात्वम् अक्षरः क्षर एव च॥२१२॥
+एतदेकत्वनानात्वम् अक्षरः क्षर एव च ॥२१२॥
 
 व्याख्यातं तव शूलाङ्क तथाऽरिष्टानि चैव हि ।  
 विमोक्षलक्षणं शेषं तदपीह ब्रवीमि ते ॥२१३॥
 
 यं ज्ञात्वा यतयः प्राप्ताः केवलत्वमनामयम् \।  
-साङ्ख्याश्चाप्यथ योगाश्च दग्धपङ्का गतज्वराः॥२१४॥
+साङ्ख्याश्चाप्यथ योगाश्च दग्धपङ्का गतज्वराः ॥२१४॥
 
 अमूर्तित्वमनुप्राप्ता निर्गुणा निर्भया भव ।  
 विपाप्मानो महादेव मुक्तास्संसारसागरात् \।\।२१५॥
 
-सरणे प्रजनादाने गुणानां प्रकृतिस्सदा।  
+सरणे प्रजनादाने गुणानां प्रकृतिस्सदा ।  
 परा प्रमत्ता सततम् एतावत् कार्यकारणम् ॥२१६॥
 
 असञ्चैव तु सञ्चैव कुरुते स पुनः पुनः ।  
@@ -6992,16 +7044,16 @@ The Presidency College,
 विकारपुरुषेणैषा संयुक्ता सृजते जगत् ।  
 पुनराददते चैव गुणानामन्यथाऽऽत्मनि ॥२२०॥
 
-मत्स्योदकात् स संज्ञातः प्रकृतेरेव कर्मणः ।  
+मत्स्योदकात् स सञ्ज्ञातः प्रकृतेरेव कर्मणः ।  
 तद्वत् क्षेत्रसहस्राणि स एव प्रकरिष्यति॥२२१॥
 
 क्षेत्रप्रलयविज्ञस्तु क्षेत्रज्ञ इति चोच्यते ।  
-स योगो नित्य इत्याहुर्ये जनास्तत्त्वदर्शिनः ॥२२२॥
+स योगो नित्य इत्याहुर् ये जनास्तत्त्वदर्शिनः ॥२२२॥
 
 एवमेष ह्यसत् सच्च विकारपुरुषस्स्मृतः ।  
-विकारापद्यमानं तु विकृतिं[^318] प्रवदन्ति नः ॥२२३॥
+विकारापद्यमानं तु विकृतिं[^396] प्रवदन्ति नः ॥२२३॥
 
-[^318]: "क-घ–प्रकृतिं"
+[^396]: # "क-घ–प्रकृतिं"
 
 यदा त्वेष विकारांस्तु प्रकृतानिति मन्यते ।  
 तदा विकारतामेति विकारान्यत्वतां व्रजेत् ॥२२४॥
@@ -7009,26 +7061,26 @@ The Presidency College,
 प्रकृत्या च विकारैश्च व्यतिरिक्ता यदा भवेत् ।  
 शुचि यत् परमं शुद्धं प्रतिबुद्धं सनातनम् ॥२२५॥
 
-अयुक्तं[^319] निष्कलं युद्धम् अव्ययाजरमव्रणम् ॥२२६
+अयुक्तं[^397] निष्कलं युद्धम् अव्ययाजरमव्रणम् ॥२२६
 
-[^319]: "क-घ-युक्तं च"
+[^397]: # "क-घ-युक्तं च"
 
-समेत्य तेन शुद्धेन बुध्यमानस्सभास्वरः ।  
+समेत्य तेन शुद्धेन बुध्यमानस्स भास्वरः ।  
 विमोक्षं भजते व्यक्ताद् अप्रबुद्धादचेतनात् ॥२२७
 
 उदुम्बराद्वा मशकः प्रल्यान्निर्गतो यथा ।  
 तथाऽव्यक्तस्य सन्त्यागान्निर्ममः पञ्चविंशकः ॥२२८
 
-यथा[^320] पुष्करपर्णस्थो जलविन्दुर्न संश्लिपेत् ।  
+यथा[^398] पुष्करपर्णस्थो जलविन्दुर्न संश्लिपेत् ।  
 तथैवाव्यक्तविषये न लिप्येत् पञ्चविंशकः ॥२२९
 
-[^320]: "क-घ-अर्धचतुष्टयं नास्ति"
+[^398]: # "क-घ-अर्धचतुष्टयं नास्ति"
 
 आकाश इव निस्सङ्गस् तथाऽसङ्गस्तथा वरः ।  
 पञ्चविंशतिमो बुद्धो बुद्धेन समतां गतः ॥२३०
 
 एतद्धि प्राकृतं ज्ञानं तत्त्वतश्च समुत्थितम् ।  
-पूर्वजेभ्यस्तथोत्पन्नं ब्रह्मजेभ्यस्ततोऽनव॥२३१
+पूर्वजेभ्यस्तथोत्पन्नं ब्रह्मजेभ्यस्ततोऽनव ॥२३१
 
 आदिसर्गो महाबाहो तामसेनावृतं पदम् ।  
 प्रविष्टावयवं देवम् अभेद्यमजरामरम् ॥२३२
@@ -7036,7 +7088,7 @@ The Presidency College,
 सनकस्सनन्दनश्चैव तृतीयश्च सनातनः ।  
 ते विदुः परमं धर्मम् अव्ययं व्ययधर्पणम् ॥२३३
 
-अव्यक्तात् परमात् सूक्ष्माद् अव्रणान्मूर्तिसंज्ञकात् ।  
+अव्यक्तात् परमात् सूक्ष्माद् अव्रणान्मूर्तिसञ्ज्ञकात् ।  
 क्षेत्रज्ञो भगवानास्ते नारायणपरायणः ॥२३४
 
 अस्माकं सहजातानाम् उत्पन्नं ज्ञानमुत्तमम् ।  
@@ -7046,7 +7098,7 @@ The Presidency College,
 द्वन्द्वैर्विरज्यमानस्य ज्ञानमुत्पन्नमुत्तमम् ॥२३६
 
 कपिलान्मूल आचार्यात् तत्त्वबुद्धिविनिश्चयम् ।  
-योगसाङ्ख्यमवाप्तं मे कार्त्स्त्र्यैमुनिसत्तमात् ॥२३७
+योगसाङ्ख्यमवाप्तं मे कार्त्स्त्र्यै मुनिसत्तमात् ॥२३७
 
 तेन सम्बोधिताश्शिष्या बहवस्तत्वदर्शिनः ।  
 तद्बुध्या बहवश्शिष्या मयाऽप्येतन्निदर्शिताः॥२३८
@@ -7054,14 +7106,14 @@ The Presidency College,
 जन्ममृत्युहरं तथ्यं ज्ञानं ज्ञेयं सनातनम् ।  
 यज्ज्ञात्वा नानुशोचन्ति तत्त्वज्ञाना निरिन्द्रियाः ॥२३९
 
-शुद्धबीजामलाश्चैव विपङ्का[^852] वै निरक्षराः ।
+शुद्धबीजामलाश्चैव विपङ्का[^399] वै निरक्षराः ।
 
-[^852]: # "क-घ–इतः अष्टौ पादा न सन्ति"
+[^399]: # "क-घ–इतः अष्टौ पादा न सन्ति"
 
 स्वतन्त्रास्ते स्वतन्त्रेण सम्मता निष्कलास्स्मृताः ॥२४०
 
 शाश्वताश्चाव्ययाश्चैव तमोग्राह्याश्च भास्वराः ।  
-विपाप्मानस्तथा सर्वे सत्त्वस्थाश्चापिनिर्व्रणाः ॥२४१
+विपाप्मानस्तथा सर्वे सत्त्वस्थाश्चापि निर्व्रणाः ॥२४१
 
 विमुक्ताः केवलाश्चैव वीतमोहभयास्तथा ।  
 अमूर्तास्ते महाभाग सर्वे च विगतज्वराः ॥२४२
@@ -7075,10 +7127,10 @@ The Presidency College,
 एते चान्ये च बहवस् तत्त्वमेवोपदर्शिताः ।  
 केचिन्मुक्तास्स्थिताः केचिच् छन्दतश्चापरे मृताः ॥ २४५
 
-दर्शितास्त्रिविधं[^321] बन्धं त्रिमोक्षं त्रिविधं तथा ।  
+दर्शितास्त्रिविधं[^400] बन्धं त्रिमोक्षं त्रिविधं तथा ।  
 अज्ञानं चैव रागश्च संयोगं प्राकृतं ततः ॥२४६
 
-[^321]: "ख-इदमर्धं नास्ति"
+[^400]: # "ख-इदमर्धं नास्ति"
 
 एतेभ्यो बन्धनं प्रोक्तं विमोक्षमपि मे शृणु ।  
 परितस्तावता सम्यक् सम्बन्धो यावता कृतः ॥२४७
@@ -7086,19 +7138,17 @@ The Presidency College,
 कृत्स्नक्षयपरित्यागाद् विमोक्ष इति नश्श्रुतिः ।  
 निवृत्तस्स्वर्गसङ्गेभ्यः केवलः पुरुषोऽमलः ॥२४८
 
-भीष्मः–
+**भीष्मः–**
 
 इत्येवमुक्त्वा भगवान् ईश्वराय महात्मने ।  
 सनत्कुमारः प्रययावाकाशं समुपाश्रितः ॥१४९
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि अष्टनवतितमोऽध्यायः ॥ १८ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि अष्टनवतितमोऽध्यायः ॥ ९८ ॥  
 \[ अस्मिन्नध्याये २३३ लोकाः वाक्यानि १६ \]**
 
-**––**
-
-–––––
+**–––––––**
 
 **॥ एकोनशततमोऽध्यायः ॥**
 
@@ -7109,18 +7159,18 @@ The Presidency College,
 यद्वरं सर्वतीर्थानां तद्ब्रवीहि पितामह ।  
 यत्र वै परमं शौचं तन्मे व्याख्यातुमर्हसि ॥१
 
-भीष्मः–
+**भीष्मः–**
 
 सर्वाणि खलु तीर्थानि गुणवन्ति मनीषिणाम् ।  
 यत्र तीर्थं च शौचं च तन्मे शृणु समाहितः ॥२
 
-अगाधे विमले शुद्धे सत्यतीर्थेधृतिह्रदे ।  
+अगाधे विमले शुद्धे सत्यतीर्थे धृतिह्रदे ।  
 स्नातव्यं मानसे तीर्थे सत्त्वमालम्ब्य शाश्वतम् ॥३
 
 तीर्थं शौचं तपो ज्ञानं मार्दवं सत्यमार्जवम् ।  
 अहिंसा संविभागश्च आनृशंस्यं दमश्शमः ॥४
 
-निर्ममा निरहङ्कारा निर्द्वन्द्वानिष्परिग्रहाः \।  
+निर्ममा निरहङ्कारा निर्द्वन्द्वा निष्परिग्रहाः \।  
 योगिनतीर्थभूतास्ते तीर्थं परममुच्यते ॥५
 
 नारायणेऽथ रुद्रे वा भक्तिस्तीर्थं परं मताम् ।  
@@ -7135,12 +7185,12 @@ The Presidency College,
 नोदकक्लिन्नगात्रोऽथ स्नात इत्यभिधीयते ।  
 स स्नातो यो दमस्नातस् स बाह्याभ्यन्तरश्शुचिः ॥९
 
-अदृष्टेष्वनपेक्षा[^322] ये प्राप्तेष्वर्थेषु निर्ममाः ।  
+अदृष्टेष्वनपेक्षा[^401] ये प्राप्तेष्वर्थेषु निर्ममाः ।  
 शौचमेव परं तेषां येषां नोत्पद्यते स्पृहा ॥१०
 
-[^322]: "क-घ–अनिष्टेप्यनपेक्षा ये पापेष्वेतेषु"
+[^401]: # "क-घ–अनिष्टेप्यनपेक्षा ये पापेष्वेतेषु"
 
-प्रज्ञानं शौचमेवेह शरीरस्य[^197] विशेषतः ।  
+प्रज्ञानं शौचमेवेह शरीरस्य[^399] विशेषतः ।  
 यथा निष्किञ्चनत्वं च मनसश्च प्रयत्नतः ॥११
 
 वृत्तं शौचं महाशौचाद् वृत्तशौचं परं हितम् ।  
@@ -7159,7 +7209,7 @@ The Presidency College,
 तथा पृथिव्या भागास्तु पुण्यानि सलिलानि च ॥१६
 
 प्रार्थनाच्चापि तीर्थस्य स्नानाच्च पितृतर्पणात् ।  
-शोध्यंहि पातकं तीर्थे पूता यान्ति दिवंसुखम् ॥१७
+शोध्यं हि पातकं तीर्थे पूता यान्ति दिवं सुखम् ॥१७
 
 परिग्रहाच्च साधूनां पृथिव्याश्चैव तेजसा ।  
 अतीव पुण्यास्ते भागास् सलिलस्य च तेजसा ॥१८
@@ -7170,24 +7220,21 @@ The Presidency College,
 यथा फलं क्रियाहीनं क्रिया फलविवर्जिता ।  
 नेह साधयते कार्यं समायुक्तस्तु सिध्यति ॥२०  
 
+
 नित्यं शरीरशौचेन नित्यं शौचान्वितश्शुचिः ।  
-ततस्सिद्धिमवाप्नोति द्विविधं शौचमुत्तमम्
+ततस्सिद्धिमवाप्नोति द्विविधं शौचमुत्तमम् ॥ २१
 
-॥
-
-२१
-
-इति श्रीमहाभारते शतसहसिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहसिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकोनशततमोऽध्यायः ॥ ९९ ॥  
 \।\। ८९ \।\। आनुशासनिकपर्वणि एकोनशततमोऽध्यायः ॥ ९९ ॥  
-\[ अस्मिन्नभ्याये २१ श्लोकाः \]
+\[ अस्मिन्नभ्याये २१ श्लोकाः \]**
 
 **॥ शततमोऽध्यायः ॥**
 
    बृहस्पतिना युधिष्ठिरं प्रति देहिनां जननादिप्रकारनिरूपणम् ॥ १ ॥  
 तथा प्राणिनां दुष्कर्मविशेषफलतया तिर्यग्योनिविशेषेषु जननकथनम् ॥२॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 पितामह महाभाग सर्वशास्त्रविशारद ।  
 श्रोतुमिच्छामि मर्यानां संसारविधिमुत्तमम् ॥१
@@ -7198,28 +7245,31 @@ The Presidency College,
 मृतं शरीरमुत्सृज्य काष्ठलोष्टसमं जनाः ।  
 प्रयान्त्यमुं लोकमितः को वै ताननुगच्छति ॥३
 
-भीष्मः–
+
+
+**भीष्मः–**
 
 दूरादायाति भगवान् बृहस्पतिरुदारधीः ।  
 
-पृच्छेस्तं[^853] सुमहाभागम् एतद्गुह्यं सनातनम् ॥४
 
-[^853]: # "ख–पृच्छ तं; घ–पृच्छेस्त्वं"
+पृच्छेस्तं[^403] सुमहाभागम् एतद्गुह्यं सनातनम् ॥४
+
+[^403]: # "ख–पृच्छ तं; घ–पृच्छेस्त्वं"
 
 नैतदन्येन शक्यं हि वक्तुं केनचिदद्य वै ।  
 वक्ता बृहस्पतिसमो न ह्यन्यो विद्यते क्वचित् ॥५
 
-वैशम्पायनः–
+**वैशम्पायनः–**
 
 तयोरस्संवदतोरेवं पार्थगाङ्गेययोस्तदा ।  
 आजगाम विशुद्धात्मा भगवान् स बृहस्पतिः ॥६
 
-ततो[^324] राजा समुत्थाय धृतराष्ट्रपुरोगमः ।  
-पूजामनुपमां[^325] चक्रे सर्वे ते च सभासदः ॥७
+ततो[^404] राजा समुत्थाय धृतराष्ट्रपुरोगमः ।  
+पूजामनुपमां[^405] चक्रे सर्वे ते च सभासदः ॥७
 
-[^324]: "क-घ–ततो युधिष्टिरो राजा समुत्याय विशारदः । [ पाठान्तरम्]"
+[^404]: # "क-घ–ततो युधिष्टिरो राजा समुत्याय विशारदः । [ पाठान्तरम्]"
 
-[^325]: "क-घ–इदमर्धचतुष्टयं नास्ति"
+[^405]: # "क-घ–इदमर्धचतुष्टयं नास्ति"
 
 ततो धर्मसुतो राजा भगवन्तं बृहस्पतिम् ।  
 उपगम्य यथान्यायं प्रश्नं पप्रच्छ धर्मवित् ॥८
@@ -7232,20 +7282,20 @@ The Presidency College,
 मृतं शरीरमुत्सृज्य काष्ठलोष्टसमं जनाः ।  
 गच्छन्त्यमुं च लोकं हि क एताननुगच्छति ॥१०
 
-बृहस्पतिः–
+**बृहस्पतिः–**
 
 एकः प्रसूते राजेन्द्र जन्तुरेको विनश्यति ।
 
 एकस्तरति दुर्गाणि गच्छत्येकश्च दुर्गतिम् ॥११
 
-न सहायःपिता माता तथा भ्राता सुतो गुरुः ।  
+न सहायः पिता माता तथा भ्राता सुतो गुरुः ।  
 ज्ञातिसम्बन्धवर्गश्च मित्रवर्गस्तथैव च ॥१२
 
 मृतं शरीरमुत्सृज्य काष्ठलोष्टसमं जनाः ।  
-मुहूर्तमुपयुञ्ज्याथ ततो यान्ति पराङ्मुखाः॥१३
+मुहूर्तमुपयुञ्ज्याथ ततो यान्ति पराङ्मुखाः ॥१३
 
 तैस्तच्छरीरमुत्सृष्टं धर्म एकोऽनुगच्छति ।  
-तस्माद्धर्मस्सहायार्थेसेवितव्यस्सदा नृप॥१४
+तस्माद्धर्मस्सहायार्थे सेवितव्यस्सदा नृप ॥१४
 
 प्राणी धर्मसमायुक्तो गच्छते स्वर्गतिं पराम् ।  
 तथैवाधर्मसंयुक्तो नरकाोपपद्यते ॥१५
@@ -7259,7 +7309,7 @@ The Presidency College,
 धर्मश्चार्थश्च कामश्च त्रितयं जीविते फलम् ।  
 एतत् त्रयमवाप्तव्यम् अधर्मपरिवर्जितम् ॥१८
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 श्रुतं भगवतो वाक्यं धर्मयुक्तं परं हितम् ।  
 शरीरनिश्चयं ज्ञातुं बुद्धिश्च मम जायते ॥१९
@@ -7268,9 +7318,9 @@ The Presidency College,
 
 अचक्षुर्विषयं प्राप्तं कथं धर्मोऽनुगच्छति ॥२०
 
-बृहस्पतिः–
+**बृहस्पतिः–**
 
-पृथिवी[^320] वायुराकाशम् आपो ज्योतिरनन्तरम् ।  
+पृथिवी[^398] वायुराकाशम् आपो ज्योतिरनन्तरम् ।  
 बुद्धिरात्मा च सहिता धर्मं पश्यन्ति नित्यदा ॥२१
 
 प्राणिनामिह सर्वेषां साक्षिभूता दिवानिशम् ।  
@@ -7282,12 +7332,12 @@ The Presidency College,
 अतो धर्मसमायुक्तस् स जीवस्सुखमेधते ।  
 इह लोके परे चैव किं भूयः कथयामि ते ॥२४
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 प्रदर्शितं च भवता यथा धर्मोऽनुगच्छति ।  
 एतत्तु ज्ञातुमिच्छामि कथं रेतः प्रवर्तते ॥२५
 
-बृहस्पतिः–
+**बृहस्पतिः–**
 
 अन्नमश्नन्ति ते देवाश् शरीरस्था नरेश्वर ।  
 पृथिवी वायुराकाशम् आपो ज्योतिर्मनस्तथा ॥२६
@@ -7296,14 +7346,14 @@ The Presidency College,
 मनष्पष्ठेषु राजेन्द्र रेतस्सम्पद्यते महत् ॥२७
 
 ततो गर्भस्सम्भवति स्त्रीपुंसोः पार्थ सङ्गमे ।  
-एतत्ते सर्वमाख्यातं किं भूयः कथयामिते ॥२८
+एतत्ते सर्वमाख्यातं किं भूयः कथयामि ते ॥२८
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 आख्यातमेतद्भवता गर्भस्सञ्जायते यथा ।  
 यथा जातस्तु पुरुषः प्रतिपद्येत् तदुच्यताम् ॥२९
 
-बृहस्पतिः–
+**बृहस्पतिः–**
 
 आसन्नमात्रस्सततं तैर्भूतैरभिभूयते ।  
 विप्रमुक्तस्तु तैर्भूतैः पुनर्याति परां गतिम् ॥३०
@@ -7313,14 +7363,14 @@ The Presidency College,
 एतस्य कर्म पश्यन्ति शुभं वा यदि वाऽशुभम् ।  
 देवताः पञ्च भूतास्ताः किं भूयश्श्रोतुमिच्छसि ॥ ३१॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 त्वगस्थिमांसमुत्सृज्य तैश्च भूतैर्विवर्जितः ।  
-जीवस्सह[^327] वसन् कृत्स्नं सुखदुःखसहः प्रभो ॥३२॥
+जीवस्सह[^407] वसन् कृत्स्नं सुखदुःखसहः प्रभो ॥३२॥
 
-[^327]: "क-घ–जीवस्त्वभवदस्त्वेवं"
+[^407]: # " क-घ–जीवस्त्वभवदस्त्वेवं"
 
-बृहस्पतिः–
+**बृहस्पतिः–**
 
 भोगवश्यं कर्मवश्यं यातनावश्यमित्यपि \।  
 एतत्त्रयाणामासाद्य कर्मतस्सोऽश्नुते फलम् ॥३३॥
@@ -7341,9 +7391,9 @@ The Presidency College,
 सुखस्यानन्तरं दुःखं स जीवो ह्यधिगच्छति ॥३८॥
 
 अधर्मेण समायुक्तो यमस्य विषयं गतः ।  
-महद्दुःखमवाप्नोति तिर्यग्योनौ[^328] च जायते ॥३९॥
+महद्दुःखमवाप्नोति तिर्यग्योनौ[^408] च जायते ॥३९॥
 
-[^328]: "क- घ–इतोऽर्धचतुष्टयं नास्ति"
+[^408]: # "क- घ–इतोऽर्धचतुष्टयं नास्ति"
 
 कर्मणा येन येनेह् यस्यां योनौ प्रजायते ।  
 जीवो मोहसमायुक्तस् तन्मे निगद्तशृणु ॥४०॥
@@ -7386,7 +7436,7 @@ The Presidency College,
 अकारणात् कामकरस् सोऽपि हिंस्रः प्रजायते ॥५२॥
 
 पितरं मातरं वाऽपि यस्तु पुत्रोऽवमन्यते ।  
-सोऽपि राजन् मृतो जन्तुःपूर्वं जायेत गर्दभः ॥५३॥
+सोऽपि राजन् मृतो जन्तुः पूर्वं जायेत गर्दभः ॥५३॥
 
 खरो जीवति मासांस्तु दश श्वा तु चतुर्दश ।  
 बिडालस्सप्त मासांस्तु ततो जायेत मानवः ॥५४ ॥
@@ -7397,7 +7447,7 @@ The Presidency College,
 कच्छपो दश वर्षाणि त्रीणि वर्षाणि शल्यकः ।  
 व्यालो भूत्वा तु पण्मासांस् ततो जायति मानुषः ॥ ५६ ॥
 
-भर्तृपिण्डमुपाश्नन्[^53] यो राजद्विष्टानि सेवते ।  
+भर्तृपिण्डमुपाश्नन्[^72] यो राजद्विष्टानि सेवते ।  
 सोऽपि पापसमाविष्टो मृतो भवति वानरः ॥५७॥
 
 वानरो दश वर्षाणि पञ्च वर्षाणि सूकरः ।  
@@ -7407,23 +7457,23 @@ The Presidency College,
 विश्वस्तहन्ता च नरो मीनो जायति दुर्मतिः ॥५९॥
 
 भूत्वा मीनोऽप्रमासांस्तु मृगो जायति भारत ।  
-मृगस्तु[^330] चतुरो मासांस् ततश्छागः प्रजायते ॥६०॥
+मृगस्तु[^410] चतुरो मासांस् ततश्छागः प्रजायते ॥६०॥
 
-[^330]: "क-घ–एतदादि यथा मुद्रितं षड्विंशत्यर्धानि न सन्ति"
+[^410]: # "क-घ–एतदादि यथा मुद्रितं षड्विंशत्यर्धानि न सन्ति"
 
 छागस्तु निधनं प्राप्य पूर्णे संवत्सरे ततः ।  
-गौस्ससञ्जायते जन्तुस् ततो जायति मानवः ॥ ६१॥
+गौस्स सञ्जायते जन्तुस् ततो जायति मानवः ॥ ६१॥
 
 धान्यान् यवांस्तिलान् माषान् कुलुत्थान् सर्षपांश्चणान् ।  
-कलमानथ मुद्रांश्च गोधूमानतसीस्तधा॥६२॥
+कलमानथ मुद्रांश्च गोधूमानतसीस्तधा ॥६२॥
 
 यस्तु धान्यापहर्ता च मोहाज्जन्तुरचेतनः ।  
 स जायते महाराज मूषिको निरपत्रपः ॥६३॥
 
 ततः प्रेत्य महाराज पुनर्जायति सूकरः ।  
-सूकरो जातमात्रस्तु रोगेण म्रियते पुनः॥६४॥
+सूकरो जातमात्रस्तु रोगेण म्रियते पुनः ॥६४॥
 
-श्वाततो जायते मूढः कर्मणा तेन पार्थिव ।  
+श्वा ततो जायते मूढः कर्मणा तेन पार्थिव ।  
 श्वा भूत्वा पञ्च वर्षाणि ततो जायति मानवः ॥ ६५॥
 
 परदाराभिमर्शं तु कृत्वा जायति वै वृकः ।  
@@ -7432,31 +7482,31 @@ The Presidency College,
 भ्रातुर्जायां तु दुर्बुद्धिर् यो घर्षयति मोहितः ।  
 पुंस्कोकिलत्वमाप्नोति सोऽपि संवत्सरं नृप ॥६७॥
 
-सखिभार्यां गुरोर्भार्यांराजभार्यां तथैव च ।  
+सखिभार्यां गुरोर्भार्यां राजभार्यां तथैव च ।  
 प्रधर्षयित्वा कामाद्यस् ततो जायति सूकरः ॥६८॥
 
-सूकरः पञ्च वर्षाणि दश[^854] वर्षाणि श्वाऽपि च ।  
+सूकरः पञ्च वर्षाणि दश[^411] वर्षाणि श्वाऽपि च ।  
 बिडालः पञ्च वर्षाणि दश वर्षाणि कुक्कुटः ॥६९॥
 
-[^854]: #
+[^411]: #
 
 पिपीलिका तु मासांस्त्रीन् वानरो मासमेव तु ।  
-एतानासाद्य संसारान्क्रिमियोनौ प्रजायते ॥७०॥
+एतानासाद्य संसारान् क्रिमियोनौ प्रजायते ॥७०॥
 
-तत्र[^331] जीवति मासांस्तु क्रिमियोनौ त्रयोदश ।  
-तत्र[^332] धर्मक्षयं कृत्वा ततो जायति मानुषः ॥७१॥
+तत्र[^412] जीवति मासांस्तु क्रिमियोनौ त्रयोदश ।  
+तत्र[^413] धर्मक्षयं कृत्वा ततो जायति मानुषः ॥७१॥
 
-[^331]: "अ-क-घ-नास्तीदमर्धम्"
+[^412]: # "अ-क-घ-नास्तीदमर्धम्"
 
-[^332]: "अ-क-घ-अर्धचतुष्टयं नास्ति"
+[^413]: # "अ-क-घ-अर्धचतुष्टयं नास्ति"
 
 उपस्थिते विवाहे च दाने यज्ञेऽपि वा विभो ।  
 मोहाच्चरति यो विघ्नं स मृतो जायते क्रिमिः ॥७२॥
 
-क्रिमिर्जीवति वर्षाणि त्रयोदश युधिष्ठिर।  
-अधर्मस्य[^855] क्षयं कृत्वा ततो जायति मानवः ॥७३॥
+क्रिमिर्जीवति वर्षाणि त्रयोदश युधिष्ठिर ।  
+अधर्मस्य[^414] क्षयं कृत्वा ततो जायति मानवः ॥७३॥
 
-[^855]: #
+[^414]: #
 
 पूर्वं दत्त्वा तु यः कन्यां द्वितीये दातुमिच्छति ।  
 सोऽपि राजन् मृतो जन्तुः क्रिमियोनौ प्रजायते ॥ ७४ ॥
@@ -7464,38 +7514,36 @@ The Presidency College,
 तत्र जीवति वर्षाणि त्रयोदश युधिष्ठिर ।  
 अधर्मक्षयसंयुक्तस् ततो जायति मानवः ॥७५॥
 
-देवालयाधिपत्यं[^856] हि कुर्यात् तद्द्रव्यभक्षकः ।  
+देवालयाधिपत्यं[^413] हि कुर्यात् तद्द्रव्यभक्षकः ।  
 श्वा भूत्वा सप्त जन्मानि ततो जायति मानवः ॥ ७६॥
 
-[^856]: # "अ-क-घ-अर्धचतुष्टयं नास्ति"
-
 द्विजग्रामाधिपत्यं हि कृत्वा ब्रह्मस्वभक्षकः ।  
-श्वानयोनिशतं प्राप्य चण्डालःपुल्कसस्ततः ॥७७॥
+श्वानयोनिशतं प्राप्य चण्डालः पुल्कसस्ततः ॥७७॥
 
-देवकार्यं[^333] परावृत्य पितृकार्यं तथाऽपि च ।  
+देवकार्यं[^416] परावृत्य पितृकार्यं तथाऽपि च ।  
 अनिर्वृत्य समश्नीत ततो जायति वायसः ॥७८॥
 
-[^333]: "क-घ–मातृकार्यमथोऽकृत्वा पितृकार्यमथापि च । [ पाठान्तरम् ] ख-देवकार्यमपावृत्य"
+[^416]: # "क-घ–मातृकार्यमथोऽकृत्वा पितृकार्यमथापि च । [ पाठान्तरम् ] ख-देवकार्यमपावृत्य"
 
 वायसो दश वर्षाणि ततो जायति कुक्कुटः ।  
 जायते वालुकस्तस्मान्मासादेकात्तु मानुषः ॥७९॥
 
 ज्येष्ठं पितृसमं चापि भ्रातरं योऽवमन्यते ।  
-सोऽपि मृत्युमुपागम्य क्रौञ्चयोनौजायते॥८०॥
+सोऽपि मृत्युमुपागम्य क्रौञ्चयोनौ जायते॥८०॥
 
-क्रौञ्चोजीवति मासांस्तु दशद्वादश[^334] सप्त च ।  
+क्रौञ्चो जीवति मासांस्तु दशद्वादश[^417] सप्त च ।  
 ततो निधनमापन्नो मानुषत्वमुपाश्रुते ॥८१॥
 
-[^334]: "क-घ–द्वौपञ्च सप्त च"
+[^417]: # "क-घ–द्वौ पञ्च सप्त च"
 
 वृषलो ब्राह्मणीं गत्वा क्रिमियोनौ प्रजायते ।  
 तत्रापत्यं समुत्पाद्य ततो जायति मूषिकः ॥८२ ॥
 
 कृतघ्नस्तु मृतो राजन् यमस्य विषयं गतः ।  
-यमस्य[^53] पुरुषैः क्रुद्धैर् वधं प्राप्नोति दारुणम् ॥८३ ॥
+यमस्य[^72] पुरुषैः क्रुद्धैर् वधं प्राप्नोति दारुणम् ॥८३ ॥
 
 कण्टकं मुद्गरं शूलम् अग्निकुम्भं च दारुणम् ।  
-असिपत्रवनं घोरं वालुकं कूटशाल्मलीम् ॥८४॥
+असिपत्रवनं घोरं वालुकं कूटशाल्मलीम् ॥८४ ॥
 
 एताश्चान्याश्च वह्नीश्च यमस्य विषयं गतः ।
 
@@ -7506,9 +7554,9 @@ The Presidency College,
 ततो गर्भं समासाद्य तत्र वै म्रियते शिशुः ॥८७
 
 ततो गर्भशतैर्जन्तुर् बहुभिस्सम्प्रजायते ।  
-संसारांश्च बहून् गत्वा ततस्तिर्यक्[^857] प्रजायते ॥८८
+संसारांश्च बहून् गत्वा ततस्तिर्यक्[^419] प्रजायते ॥८८
 
-[^857]: ॑# "क-घ-ततस्सूना प्रजा"
+[^419]: # "क-घ-ततस्सूना प्रजा"
 
 मृतो दुःखमनुप्राप्य बहुवर्षगणानिह ।  
 स पुनर्भवसंयुक्तस् ततः कूर्मः प्रजायते ॥८९
@@ -7540,18 +7588,18 @@ The Presidency College,
 ततः पापक्षयं गत्वा मानुषत्वमवाप्नुते ।  
 भक्ष्यं हृत्वा तु पुरुषो जले पाशः प्रजायते ॥९८
 
-तैलं[^336] चोरयते यस्तु तैलपायी स जायते ॥९८॥
+तैलं[^420] चोरयते यस्तु तैलपायी स जायते ॥९८॥
 
-[^336]: "घ-षोडशार्धानि न सन्ति"
+[^420]: # "घ-षोडशार्धानि न सन्ति"
 
 तथा पिण्याकसम्मिश्रम् अशनं चोरयेन्नरः ।  
-स जायते श्वानधनो[^858] दारुणो मूषिको नरः ॥९९॥
+स जायते श्वानधनो[^421] दारुणो मूषिको नरः ॥९९॥
 
-[^858]: # " ख-भूमिधनो"
+[^421]: # " ख-भूमिधनो"
 
 चोरयित्वा तु दुर्बुद्धिर् मधुदंशः प्रजायते ॥१००
 
-फलानि वानरो हृत्वाऽपूपंहृत्वा पिपीलिका ।  
+फलानि वानरो हृत्वाऽपूपं हृत्वा पिपीलिका ।  
 पायसं चोरयित्वा तु तित्तिरित्वमवाप्नुते ॥१०१
 
 हृत्वा पिष्टमपूपं तु कुम्भोलूकः प्रजायते ।  
@@ -7583,7 +7631,7 @@ The Presidency College,
 नित्यं दुःखसमायुक्ता व्याधितास्ते भवन्त्युत ॥११०
 
 अपुमांसः प्रजायन्ते म्लेच्छ्रश्चापि न संशयः ।  
-नराःपापसमाचारा लोभमोहसमन्विताः ॥१११
+नराः पापसमाचारा लोभमोहसमन्विताः ॥१११
 
 वर्जयन्ति च पापानि जन्मप्रभृति ये नराः ।
 
@@ -7596,16 +7644,16 @@ The Presidency College,
 एतद्वै लेशमात्रेण कथितं ते मयाऽनघ ॥११४
 
 अपरस्मिन् कथायोगे भूयश्रोष्यसि भारत ।  
-एतन्मया[^337] महाराज ब्रह्मणो वदतः पुरा ॥११५
+एतन्मया[^422] महाराज ब्रह्मणो वदतः पुरा ॥११५
 
-[^337]: "घ-अर्धचतुष्टयं नास्ति"
+[^422]: # "घ-अर्धचतुष्टयं नास्ति"
 
 सुरर्षीणां श्रुतं मध्ये पृष्टेन च यथातथम् ।  
 मयाऽपि तव कार्येन यथावदनुवर्णितम् ॥११६
 
 एतच्छ्रुत्वा महाराज धर्मे कुरु मनस्सदा ॥११६॥
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि शततमोऽध्यायः ॥ १०० ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि शततमोऽध्यायः ॥ १०० ॥  
 \[ अस्मिन्नध्याये ११६ ॥ श्लोकाः\]**
@@ -7614,26 +7662,26 @@ The Presidency College,
 
   बृहस्पतिना युधिष्ठिरं प्रति पश्चात्तापादेर्ब्राह्मणेभ्योऽनदानस्य च पापः परिहारोपायत्वकथनम् ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
-अधर्मस्य गतिर्ब्रह्मन् कथिता[^338] वै ममानघ ।  
+अधर्मस्य गतिर्ब्रह्मन् कथिता[^423] वै ममानघ ।  
 धर्मस्य च गतिं श्रोतुम् इच्छामि वदतां वर ॥१
 
-[^338]: "क-घ-उदिता"
+[^423]: # "क-घ-उदिता"
 
 कृत्वा पापानि कर्माणि कथं यान्ति शुभां गतिम् ॥१॥
 
-बृहस्पतिः–
+**बृहस्पतिः–**
 
 कृत्वा पापानि कर्माणि अधर्मवशमागतः ।  
 मनसा विपरीतेन निरयं प्रतिपद्यते ॥२॥
 
-मोहादधर्मं[^339]यः कृत्वा पुनस्समनुतप्यते ।  
-मनस्समाधियुक्तो[^340] हि न स सेवेत दुष्कृतम् ॥३॥
+मोहादधर्मं[^424] यः कृत्वा पुनस्समनुतप्यते ।  
+मनस्समाधियुक्तो[^425] हि न स सेवेत दुष्कृतम् ॥३॥
 
-[^339]: " क-घ–दयमधं"
+[^424]: # " क-घ–दयमधं"
 
-[^340]: "ख-संयुक्तो"
+[^425]: # "ख-संयुक्तो"
 
 यथा यथा नरस्सम्यग् अधर्ममनुभाषते ।  
 समाहितेन मनसा विमुच्येत तथातथा ॥४॥
@@ -7647,9 +7695,9 @@ The Presidency College,
 नरः कृत्वाऽध्यकार्याणि तथा धर्मेण युज्यते ॥७
 
 सर्वेषामेव दानानाम अन्नं श्रेष्ठमुदाहृतम् ।  
-पूर्वमन्नं प्रदातव्यम् ऋजुना[^859] धर्ममिच्छता ॥८
+पूर्वमन्नं प्रदातव्यम् ऋजुना[^426] धर्ममिच्छता ॥८
 
-[^859]: # "अ-इतश्चत्वारः पादा न सन्ति"
+[^426]: # "अ-इतश्चत्वारः पादा न सन्ति"
 
 प्राणा ह्यन्नं मनुष्याणां तस्माजन्तुश्च जायते ।  
 अन्ने प्रतिष्ठितो लोकस् तस्मादन्नं प्रकाशते ॥९
@@ -7666,13 +7714,13 @@ The Presidency College,
 ब्राह्मणानां सहस्राणि दश भोज्य युधिष्ठिर  
 नरोऽधर्मात् प्रमुच्येत पापेष्वभिरतस्सदा ॥१३
 
-भैक्ष्येणापि समाहृत्य दद्यादन्नं द्विजेषुवै ।  
+भैक्ष्येणापि समाहृत्य दद्यादन्नं द्विजेषु वै ।  
 सुवर्णदानात् पापानि नश्यन्ति सुबहून्यपि ॥१४
 
 दत्वा वृत्तिकरीं भूमिं पातकेनापि मुच्यते ।  
-पारायणैः[^341] पुराणानां मुच्यते पातकैर्द्विजः ॥१५
+पारायणैः[^427] पुराणानां मुच्यते पातकैर्द्विजः ॥१५
 
-[^341]: "अ-क-घ-पारायणैश्च द्वात्रिंशत्"
+[^427]: # "अ-क-घ-पारायणैश्च द्वात्रिंशत्"
 
 गायत्र्याश्चैव लक्षेण गोसहस्रस्य तर्पणात् ।  
 वेदार्थं ज्ञापयित्वा तु युद्धान् विप्रान् यथार्थतः ॥१६
@@ -7683,10 +7731,10 @@ The Presidency College,
 अहिंसन् ब्राह्मणान् नित्यं न्यायेन परिपाल्य च ।  
 क्षत्रियस्तरसा प्राप्तमन्नं दद्याच्छुभार्जितम् ॥१८
 
-द्विजेभ्यो वेदवृद्धेभ्यः प्रयच्छंस्तु[^342] समाहितः ।  
+द्विजेभ्यो वेदवृद्धेभ्यः प्रयच्छंस्तु[^428] समाहितः ।  
 तेनापोहति धर्मात्मा दुष्कृतं कर्म पाण्डव ॥१९
 
-[^342]: "क-घ-स्तुष्टिमाश्रितः"
+[^428]: # "क-घ-स्तुष्टिमाश्रितः"
 
 षड्भागपरिशुद्धं च कृपेर्भागमुपार्जितम् ।  
 वैश्यो दद्याद् द्विजातिभ्यः पापेभ्यः परिमुच्यते ॥२०
@@ -7707,55 +7755,52 @@ The Presidency College,
 आपद्येव स्वदासानां भोक्तव्यं स्वयमुद्यतम् ॥२४ ॥
 
 सर्वावस्थं मनुष्येण न्यायेनान्नमुपार्जितम् ।  
-कार्यं पात्रगतं नित्यम् अन्नं हि परमा गतिः ॥
+कार्यं पात्रगतं नित्यम् अन्नं हि परमा गतिः ॥२५॥
 
-२५॥
-
-अन्नस्य हि प्रदानेन नरो दुर्गान् न[^343] सेवते ।  
+अन्नस्य हि प्रदानेन नरो दुर्गान् न[^429] सेवते ।  
 तस्मादन्नं प्रदातव्यम् अन्यायपरिवर्जितम् ॥२६॥
 
-[^343]: "क-घ-न यातिवै"
+[^429]: # "क-घ-न यातिवै"
 
-नियं ब्राह्मणपूर्वंतु भोक्तव्यं शक्तितो द्विजैः ।  
+नियं ब्राह्मणपूर्वन्तु भोक्तव्यं शक्तितो द्विजैः ।  
 अवन्ध्यं दिवसं कुर्याद् अन्नपानीयदानतः ॥२७॥
 
-भोजयित्वा दशशतम् इहवेदविदां नरः ।  
+भोजयित्वा दशशतम् इह वेदविदां नरः ।  
 न्यायधर्मार्थविदुपाम् इतिहासविदामपि ॥२८॥
 
 न याति नरकं घोरं न दरिद्रश्च जायते ।  
 सर्वकामसमायुक्तः प्रेत्य व प्रानुते फलम् ॥२९॥
 
-एवं सुखसमायुक्तो[^860] रमते विगतज्वरः ।  
+एवं सुखसमायुक्तो[^430] रमते विगतज्वरः ।  
 रूपवान् कीर्तिमांश्चैव प्रजावान् ज्ञानवान् भवेत् ॥ ३० ॥
 
-[^860]: # "क-घ- सत्सु समा"
+[^430]: # "क-घ- सत्सु समा"
 
 एतत्ते संर्वमाख्यातम् अन्नदानफलं महत् ।  
 मूलमेतद्धि धर्माणां प्रदानं चैव भारत ॥३१॥
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकाधिकशततमोऽध्यायः ॥ १०१ ॥॥ ८९ ॥ आनुशासनिकपर्वणि एकाधिकशततमोऽध्यायः ॥ १०१ ॥**  
-
 **\[ अरिमन्नध्याये ३१॥ श्लोकाः \]**
 
 **॥ द्वयधिकशततमोऽध्यायः ॥**
 
 बृहस्पतिना युधिष्ठिरं प्रत्यहिंसाप्रशंसनम्॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 अहिंसा वैदिकं कर्म ध्यानमिन्द्रियसंयमः ।  
 तपोऽथ गुरुशुश्रूषा किं श्रेयः पुरुषं प्रति ॥१
 
-बृहस्पतिः–
+**बृहस्पतिः–**
 
 सर्वाण्येतानि धर्मस्य पृथग्द्वाराणि नित्यशः ।  
 शृणु सङ्कीर्त्यमानानि षडेव भरतर्षभ ॥२
 
-हन्त[^344] निश्श्रेयसं जन्तोर् अहं वक्ष्याम्यनुत्तमम् ।  
+हन्त[^431] निश्श्रेयसं जन्तोर् अहं वक्ष्याम्यनुत्तमम् ।  
 अहिंसापाश्रयं धर्मं दान्तो विद्वान् समाचरेत् ॥३
 
-[^344]: "घ-तत्र"
+[^431]: # "घ-तत्र"
 
 त्रिदण्डं सर्वभूतेषु निधाय पुरुषश्शुचिः ।  
 कामक्रोधौ च संयम्य ततस्सिद्धिमवाप्नुते ॥४
@@ -7769,44 +7814,44 @@ The Presidency College,
 सर्वभूतात्मभूतस्य सर्वभूतानि पश्यतः ।  
 देवाऽपि मार्गे मुह्यन्ति ह्यपदस्य पदैषिणः ॥७
 
-न तत् परस्य सन्दध्यात्प्रतिकूलं यदात्मनः ।  
-एषसङ्ग्रहको धर्मः कामादन्यः प्रवर्तते॥८
+न तत् परस्य सन्दध्यात् प्रतिकूलं यदात्मनः ।  
+एष सङ्ग्रहको धर्मः कामादन्यः प्रवर्तते॥८
 
 प्रख्यापने च दाने च सुखदुःखे प्रियाप्रिये ।  
 आत्मौपम्येन पुरुषः प्रमाणमधिगच्छति ॥९
 
-यथा[^861] परः प्रक्रमते परेषु  
+यथा[^432] परः प्रक्रमते परेषु  
 तथा परः प्रक्रमते परस्मिन् ।  
 निषेवते स्वसमो जीवलोके  
 यथा धर्मो नैपुणेनोपदिष्टः ॥१०
 
-[^861]: # "अ- यथा परः प्रक्रमते परेषु च तथा परः[ पाठान्तरम् ] क-यथा परः प्रक्रमते परस्मिन् ।   निषेधते स्वस्वमार्ग जीवलोके[ पाठान्तरम् ] घ-यथा पुनः प्रक्रमते परेषु च   तथा परं प्रक्रमते परस्मिन् । निषेवते स्वस्वर्गमार्ग जीवलाके   यथा धर्मो नैपुणेनोपदिष्टः ।[पाठान्तरम् ]"
+[^432]: # "अ- यथा परः प्रक्रमते परेषु च तथा परः [ पाठान्तरम् ] क-यथा परः प्रक्रमते परस्मिन् । निषेधते स्वस्वमार्ग जीवलोके [ पाठान्तरम् ] घ-यथा पुनः प्रक्रमते परेषु च तथा परं प्रक्रमते परस्मिन् । निषेवते स्वस्वर्गमार्ग जीवलाके यथा धर्मो नैपुणेनोपदिष्टः । [पाठान्तरम् ]"
 
-वैशम्पायनः–
+**वैशम्पायनः–**
 
 इत्युक्त्वा तं सुरगुरुर् धर्मराजं युधिष्ठिरम् ।  
 दिवमाचक्रमे धीमान् पश्यतामेव नस्तदा ॥११
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि द्व्यधिकशततमोऽध्यायः ॥ १०२ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि द्व्यधिकशततमोऽध्यायः ॥ १०२ ॥  
-\[ अस्मिन्नध्याये ११ श्लोकाः \]
+\[ अस्मिन्नध्याये ११ श्लोकाः \]**
 
 **॥ त्र्यधिकशततमोऽध्यायः ॥**
 
   भीष्मेण युधिष्ठिरं प्रति हिंसाया मांसभक्षणस्य च गर्हणम् ॥
 
-युधिष्टिरः–
+**युधिष्टिरः–**
 
 ततो युधिष्ठिरो राजा शरतल्पे पितामहम् \।  
 पुनरेव महाराज पप्रच्छ वदतां वरः ॥१
 
-ऋषयो ब्राह्मणा देवाः प्रशंसन्ति पितामह[^345] ।  
+ऋषयो ब्राह्मणा देवाः प्रशंसन्ति पितामह[^433] ।  
 अहिंसालक्षणं धर्मं वेदप्रामाण्यदर्शनात् ॥२
 
-[^345]: " क- ख-महामते"
+[^433]: # " क- ख-महामते"
 
-भीष्मः–
+**भीष्मः–**
 
 कर्मणा न नरः कुर्वन् हिंसां पार्थिवसत्तम ।  
 वाचा च मनसा चैव ततो दुःखात् प्रमुच्यते ॥३
@@ -7827,10 +7872,10 @@ The Presidency College,
 पूर्वं तु मनसा त्यक्त्वा त्यजेद्वाचाऽथ कर्मणा ।  
 हिंसां तु नोपयुञ्जीत तथा हिंसा चतुर्विधा ॥८
 
-काये मनसि वाक्येऽपि दोषा ह्येते प्रकीर्तिताः[^346] ।  
+काये मनसि वाक्येऽपि दोषा ह्येते प्रकीर्तिताः[^434] ।  
 न भक्षयन्त्यतो मांसं तपोयुक्ता मनस्विनः ॥९
 
-[^346]: "घ-प्रतिष्ठिताः"
+[^434]: # "घ-प्रतिष्ठिताः"
 
 दोषांस्तु भक्षणे राजन् मांसस्येह निबोध मे ॥९॥
 
@@ -7840,10 +7885,10 @@ The Presidency College,
 रसश्च हृदि जिह्वायां ज्ञानं प्रज्ञायते यथा ।  
 तथा शास्त्रेषु नियतं रागो ह्यास्वादतां गतः ॥११॥
 
-संस्कृतासंस्कृतं पक्वंलवणालवणं तथा ।  
-प्रज्ञायते[^862] यथा भावो यथा पीतं निरुच्यते ॥१२॥
+संस्कृतासंस्कृतं पक्वं लवणालवणं तथा ।  
+प्रज्ञायते[^435] यथा भावो यथा पीतं निरुच्यते ॥१२॥
 
-[^862]: # "ख- प्रजायते यथा भावस् तथा चिन्ता निरुध्यते ।"
+[^435]: # "ख- प्रजायते यथा भावस् तथा चिन्ता निरुध्यते ।"
 
 भेरीं शङ्खमृदङ्गाद्यांस् तन्त्रीशब्दांश्च पुष्कलान् ।  
 निषेविष्यन्ति वै मन्दा मांसभक्षाः कथं नराः ॥ १३॥
@@ -7860,24 +7905,24 @@ The Presidency College,
 भस्म विष्ठा क्रिमिर्वाऽपि निष्ठा यस्येदृशी ध्रुवा ।  
 स कायः परपीडाभिः कथं धार्यो विपश्चिता ॥१७
 
-जीवितं हि परित्यक्त्वाबहवस्साधवो जनाः ।  
-स्वमांसैःपरमांसानि परिपाल्य दिवं गताः ॥१८
+जीवितं हि परित्यक्त्वा बहवस्साधवो जनाः ।  
+स्वमांसैः परमांसानि परिपाल्य दिवं गताः ॥१८
 
 एवमेषा महाभाग चतुर्भिः कारणैस्स्मृता ।  
 अहिंसातीव निर्दिष्टा सर्वधर्मार्थसंहिता ॥१९
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि त्र्यधिकशततमोऽध्यायः ॥ १०३ ॥  
-॥ ८९ ॥ आनुशासनिकपर्वणित्र्यधिकशततमोऽध्यायः ॥ १०३ ॥  
-\[ अस्मिन्नध्याये १९ श्लोकाः \]
+॥ ८९ ॥ आनुशासनिकपर्वणि त्र्यधिकशततमोऽध्यायः ॥ १०३ ॥  
+\[ अस्मिन्नध्याये १९ श्लोकाः \]**
 
-————
+**————**
 
 **॥ चतुरधिकशततमोऽध्यायः ॥**
 
   भीष्मेण युधिष्ठिरं प्रति मांसभक्षणाभक्षणयोः क्रमेण निन्दाप्रशंसने ॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 अहिंसा परमो धर्म इत्युक्तं बहुशस्त्वया ।  
 श्राद्धेषु च भवानाह पितॄणां मांसमीप्सितम् ॥१
@@ -7886,10 +7931,10 @@ The Presidency College,
 अहत्वा च कुतो मांसम् एवमेतद्विरुध्यते॥२
 
 जातो नरसंशयो धर्मे मांसस्य परिवर्जने ।  
-दोषोभक्षयतः कस्य कस्याभक्षयतो गुणः ॥३
+दोषो भक्षयतः कस्य कस्याभक्षयतो गुणः ॥३
 
 हत्वा भक्षयतो वाऽपि परेणापि हृतस्य वा ।  
-हन्याद्वा यः परस्यार्थेक्रीत्वा वा भक्षयेन्नरः॥४
+हन्याद्वा यः परस्यार्थे क्रीत्वा वा भक्षयेन्नरः॥४
 
 एतदिच्छामि तत्त्वेन कथ्यमानं त्वयाऽनघ ।  
 निश्चयेन चिकीर्षामि धर्ममेतं सनातनम्॥५
@@ -7897,31 +7942,31 @@ The Presidency College,
 कथमायुरवाप्रोति कथं भवति सत्त्ववान् ।  
 कथमव्यङ्गतामेति लक्षण्यो जायते कथम् ॥६
 
-भीष्मः–
+**भीष्मः–**
 
-मांसस्याभक्षणाद्राजन्[^347] यो धर्मः कुरुपुङ्गव ।
+मांसस्याभक्षणाद्राजन्[^436] यो धर्मः कुरुपुङ्गव ।
 
-[^347]: "क -ख - मांसस्य भ;घ-मांसस्य भक्षणे"
+[^436]: # "क -ख - मांसस्य भ; घ-मांसस्य भक्षणे"
 
 तं मे शृणु यथातत्त्वं यश्चास्य विधिरुत्तमः ॥७
 
-रूपमव्यङ्गतामायुर्[^348] बुद्धिं सत्त्वं बलं स्मृतिम् ।  
+रूपमव्यङ्गतामायुर्[^437] बुद्धिं सत्त्वं बलं स्मृतिम् ।  
 प्राप्तुकामैर्नरैर्हिंसा वर्जनीया कृतात्मभिः ॥८
 
-[^348]: "क-घ-मङ्गल्यता"
+[^437]: # "क-घ-मङ्गल्यता"
 
 ऋषीणां तत्र संवादो बहुशः कुरुपुङ्गव ।  
-बभूव तेषां तु मतं यत्तच्छृणुयुधिष्ठिर ॥९
+बभूव तेषां तु मतं यत्तच्छृणु युधिष्ठिर ॥९
 
-यो यजेदश्वमेधेन मासि मासि यतव्रतः[^863] ।  
+यो यजेदश्वमेधेन मासि मासि यतव्रतः[^438] ।  
 वर्जयेन्मधु मांसं च सममेतद्युधिष्ठिर ॥१०
 
-[^863]: # "अ-धृतव्रतः"
+[^438]: # "अ-धृतव्रतः"
 
 सप्तर्षयो वालखिल्यास् तथैव च मरीचिपाः ।  
-मांसस्याभक्षणं[^349] राजन् प्रशंसन्ति मनीषिणः ॥११
+मांसस्याभक्षणं[^439] राजन् प्रशंसन्ति मनीषिणः ॥११
 
-[^349]: "क-ख-घ-मांसस्य भक्षणं"
+[^439]: # "क-ख-घ-मांसस्य भक्षणं"
 
 न भक्षयति यो मांसं न च हन्यान्न घातयेत् ।  
 स मित्रं सर्वभूतानां मनुस्वायम्भुवोऽब्रवीत् ॥१२
@@ -7942,7 +7987,7 @@ The Presidency College,
 सदा यजति सत्रेण सदा दानं प्रयच्छति ।  
 सदा तपस्वी भवति मांसस्य परिवर्जनात् ॥१७
 
-सर्वे वेदा न तत्कुर्युस् सर्वे यज्ञाश्च भारत ।  
+सर्वे वेदा न तत् कुर्युस् सर्वे यज्ञाश्च भारत ।  
 यद् भक्षयित्वा मांसानि पश्चादपि निवर्तते ॥१८
 
 भक्षयित्वा निमित्तेऽपि दुष्करं कुरुते तपः ।  
@@ -7958,10 +8003,10 @@ The Presidency College,
 प्राणा यथाऽऽत्मनोऽभीष्टा भूतानामपि वै तथा ।  
 आत्मौपम्येन गन्तव्यं बुद्धिमद्भिर्महात्मभिः ॥२२
 
-विकीर्णकर्णकेनापि[^864] तृणप्रस्पन्दने भयम् ।  
+विकीर्णकर्णकेनापि[^440] तृणप्रस्पन्दने भयम् ।  
 किं पुनर्हन्यमानानां तरसा जीवितात्मनाम् ॥२३
 
-[^864]: # "ख–कण्टकेनापि"
+[^440]: # "ख–कण्टकेनापि"
 
 अरोगाणामपापानां पापैर्मांसोपजीविभिः ।  
 मृत्युतो भयमस्तीति शङ्कायां दुःखमुत्तरम् ॥२४
@@ -7972,9 +8017,9 @@ The Presidency College,
 अहिंसा परमं सत्यं ततो धर्मः प्रवर्तते ॥२५॥
 
 न हि मांसं तृणात् काष्ठाद् उपलाद्वाऽपि जायते ।  
-हत्वा जन्तुं तनोर्मांसं[^865] ततो दोषोऽस्ति भक्षणे ॥२६॥
+हत्वा जन्तुं तनोर्मांसं[^441] ततो दोषोऽस्ति भक्षणे ॥२६॥
 
-[^865]: # "क-ख-घ-ततो मांसं"
+[^441]: # "क-ख-घ-ततो मांसं"
 
 स्वाहास्वधामृतभुजो देवास्सत्यार्जवप्रियाः ।  
 राक्षसेन्द्रभयान्मुक्तास् सर्वभूतपरायणाः ॥२७॥
@@ -7984,10 +8029,10 @@ The Presidency College,
 
 अमांसभक्षणाद्राजन् न भयं तेषु विद्यते ॥२९
 
-शरण्यस्सर्वभूतानां[^866] विश्वास्यस्सर्वजन्तुषु ।  
+शरण्यस्सर्वभूतानां[^442] विश्वास्यस्सर्वजन्तुषु ।  
 अनुद्वेगकरो लोके न चाप्युद्विजते सदा ॥३०
 
-[^866]: # "क -ख- घ-अर्धद्वयं नास्ति"
+[^442]: # "क -ख- घ-अर्धद्वयं नास्ति"
 
 यदि चेत् खादको न स्यान्न तदा घातको भवेत् ।  
 खादकः खादनार्थाय तं घातयति वै नरः ॥३१
@@ -7999,15 +8044,15 @@ The Presidency College,
 यस्माद्धिंसति चैवायुर् हिंस्यादीनां महाद्युते ।  
 तस्मात्तु वर्जयेन्मांसं य इच्छेद्भूतिमातत्मनः ॥३३
 
-त्रातारं[^320] नाधिगच्छन्ति शूद्राः प्राणिविहिंसकाः ।  
+त्रातारं[^398] नाधिगच्छन्ति शूद्राः प्राणिविहिंसकाः ।  
 उद्वेजकास्तु भूतानां यथा व्याला मृगास्तथा ॥३४
 
-धनेन सान्तको[^351] हन्ति खादकश्चापि भोगतः ।  
-सूचको[^352] वधबन्धाच्चेत्येप हि त्रिविधो वधः ॥३५
+धनेन सान्तको[^444] हन्ति खादकश्चापि भोगतः ।  
+सूचको[^445] वधबन्धाच्चेत्येप हि त्रिविधो वधः ॥३५
 
-[^351]: "ख-क्रीणको हन्ति घातकश्चापि भागतः"
+[^444]: # "ख-क्रीणको हन्ति घातकश्चापि भागतः"
 
-[^352]: "ख–घातको वधबन्धार्थमित्येष"
+[^445]: # "ख–घातको वधबन्धार्थमित्येष"
 
 लोभाद्वा बुद्धिमोहाद्वा बलवीर्यार्थमेव च ।  
 संसर्गाद्वाऽथ पापानाम् अधर्मो रुचितो नृणाम् ॥३६
@@ -8015,7 +8060,7 @@ The Presidency College,
 स्वमांस परमांसेन यो वर्धयितुमिच्छति ।  
 उद्विग्नराष्ट्रे वसति यत्र यत्राभिजायते ॥३७
 
-धन्यं यशस्यमायुष्यं स्वर्ग्यंस्वस्त्ययनं महत् ।  
+धन्यं यशस्यमायुष्यं स्वर्ग्यं स्वस्त्ययनं महत् ।  
 मांसस्याभक्षणं प्राहुर् नियताः परमर्षयः ॥३८
 
 इदं तु खलु कौन्तेय श्रुतमासीत् पुरा मया ।  
@@ -8025,15 +8070,15 @@ The Presidency College,
 
 सदा भवति वै पापः प्राणिहन्ता तथैव सः ॥४०
 
-अखादनानुमोदी[^353] च नैव दुष्येत मानवः ।  
+अखादनानुमोदी[^446] च नैव दुष्येत मानवः ।  
 योऽनुमन्यति हन्यन्तं सोऽपि दोषेण लिप्यते ॥४१
 
-[^353]: "क-घ- इदमर्धं नास्ति"
+[^446]: # "क-घ- इदमर्धं नास्ति"
 
 अधृष्यस्सर्वभूतानाम् आयुष्मानरुजस्सुखी ।  
-भवेत्त्वभक्षयन्[^354] मांसंदयावान् प्राणिनामिह ॥४२
+भवेत्त्वभक्षयन्[^447] मांसं दयावान् प्राणिनामिह ॥४२
 
-[^354]: "क-अर्धचतुष्टयं नास्ति; व-अर्धपञ्चकं नास्ति"
+[^447]: # "क- अर्धचतुष्टयं नास्ति; व-अर्धपञ्चकं नास्ति"
 
 हिरण्यदानैर्गोदानैर् भूमिदानैश्च सर्वशः ।  
 मांसस्याभक्षणे धर्मो विशिष्टस्स्यादिति श्रुतम् ॥४३
@@ -8045,28 +8090,26 @@ The Presidency College,
 अल्पदोषमिति ज्ञेयं विपरीते तु विद्यते ॥४५
 
 खादकस्य कृते जन्तुं यो हन्यात् पुरुषाधमः ।  
-महादोषकरस्तत्र घातको[^355] न तु खादकः॥४६
+महादोषकरस्तत्र घातको[^448] न तु खादकः॥४६
 
-[^355]: "क-घ-खादतो ननु पातकम् ; ख- खादको नतु घातकः"
+[^448]: # "क-घ-खादतो ननु पातकम् ; ख- खादको नतु घातकः"
 
 इज्यायज्ञश्रुतिवृतैर् यो मार्गेरबुधोऽधमः ।  
-हन्यान्मांसस्य गृध्नीयस् स वै नरकभाजनः ॥४७
+हन्यान्मांसस्य गृध्नी यस् स वै नरकभाजनः ॥४७
 
 भक्षयित्वाऽपि यो मांसं पश्चादपि निवर्तते ।
 
-तस्यापि[^867] सुमहान् धर्मो यः पापाद्विनिवर्तते ॥४८
+तस्यापि[^400] सुमहान् धर्मो यः पापाद्विनिवर्तते ॥४८
 
-[^867]: # "ख-इदमर्धं नास्ति"
-
-आहर्ता चानुमन्ता च विशस्ता[^356] क्रयविक्रयी।  
+आहर्ता चानुमन्ता च विशस्ता[^450] क्रयविक्रयी ।  
 संस्कर्ता चोपभोक्ता च घातकास्सर्व एव ते ॥४९
 
-[^356]: "क-घ-हिंसिता"
+[^450]: # "क-घ-हिंसिता"
 
 इदमन्यत्तु वक्ष्यामि प्रमाणं विधिनिर्मितम् ।  
-पुराणमृषिभिर्जुष्टं[^357] वेदेषु परिनिश्चितम् ॥५०
+पुराणमृषिभिर्जुष्टं[^451] वेदेषु परिनिश्चितम् ॥५०
 
-[^357]: "क-ख-घ-प्रमाण"
+[^451]: # "क-ख-घ-प्रमाण"
 
 प्रवृत्तिलक्षणे धर्मे फलार्थिभिरभिद्रुते ।  
 यथोक्तं राजशार्दूल न तु तन्मोक्षकारणम् ॥५१
@@ -8103,16 +8146,16 @@ The Presidency College,
 यस्तु वर्षशतं पूर्णं तपस्तप्येत् सुदारुणम् \।  
 यश्चैव वर्जयेन्मांसं सममेतन्मतं मम ॥६१
 
-कौमुद्यास्तु विशेषेण शुक्लपक्षे[^868] नराधिप ।  
+कौमुद्यास्तु विशेषेण शुक्लपक्षे[^452] नराधिप ।  
 वर्जयेत् सर्वमांसानि धर्मो ह्यत्र विधीयते ॥६२
 
-[^868]: # "ख-इतः अष्टौ पादा न सन्ति।"
+[^452]: # "ख-इतः अष्टौ पादा न सन्ति।"
 
-मांसं तु कौमुदेपक्षे वर्जितं सर्वराजभिः ।  
+मांसं तु कौमुदे पक्षे वर्जितं सर्वराजभिः ।  
 सर्वभूतात्मभूतैस्तैर् विज्ञातार्थपरावरैः ॥६३
 
 नाभागेनाम्बरीषेण गयेन च महात्मना ।  
-आयुषाचानरण्येन दिलीपरवुसूनुभिः॥६४
+आयुषा चानरण्येन दिलीपरवुसूनुभिः॥६४
 
 कार्तवीर्यानिरुद्धाभ्यां नहुषेण ययातिना ।
 
@@ -8124,10 +8167,10 @@ The Presidency College,
 मनुना रन्तिदेवेन वसुना सृञ्जयेन च।  
 दुष्यन्तेन करूशेन रामालर्कनलैस्तथा॥६७
 
-विचकाश्वेन[^869] निमिना जनकेन च धीमता।  
+विचकाश्वेन[^453] निमिना जनकेन च धीमता।  
 सिलेन पृथुना चैव वीरसेनेन चैव ह॥६८
 
-[^869]: # "ख-पिचका; घ-व्यचक्राश्वेन"
+[^453]: # "ख-पिचका; घ-व्यचक्राश्वेन"
 
 इक्ष्वाकुणा युवाश्वेन श्वेतेन सगरेण च।  
 एतैश्चान्यैश्च राजेन्द्र पुरा मांस न भक्षितम्॥६९
@@ -8152,19 +8195,19 @@ The Presidency College,
 मुच्येत्तथाऽऽतुरो रोगाद् दुःखान्मुच्येत दुःखितः।  
 तिर्यग्योनिं न गच्छेत रूपवांश्च भवेन्नरः॥७५
 
-ऋद्धिमान्[^358] वै कुलश्रैष्ठ्यम् आप्नुयाच्च महद्यशः॥७५॥
+ऋद्धिमान्[^454] वै कुलश्रैष्ठ्यम् आप्नुयाच्च महद्यशः॥७५॥
 
-[^358]: " ख-बुद्धि"
+[^454]: # " ख-बुद्धि"
 
 एतत्ते सर्वमाख्यातं मांसस्य परिवर्जने।  
 प्रवृत्तौ च निवृत्तौ च विधानमृषिनिर्मितम्॥७६
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चतुरधिकशततमोऽध्यायः॥ १०४॥  
 \।\। ८९ \।\। आनुशासनिकपर्वणि चतुरधिकशततमोऽध्यायः॥ १०४॥  
-\[ अस्मिन्नध्याये ७६॥ श्लोकाः \]
+\[ अस्मिन्नध्याये ७६॥ श्लोकाः \]**
 
-———
+**———**
 
 **॥ पञ्चाधिकशततमोऽध्यायः॥**
 
@@ -8172,18 +8215,18 @@ The Presidency College,
 
   भीष्मेण युधिष्टिरं प्रति सांसगतगुणकथनपूर्वकं तद्भक्षणगर्हणम्॥ १॥ तथा दयाया अहिंसायाश्च प्रशंसनम्॥ २॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
-इमे वै मानुषा लोके भृशं मांसेषुगृद्धिनः।  
-विसृज्य भक्ष्यान् विविधान्यथा रक्षोगणास्तथा॥
+इमे वै मानुषा लोके भृशं मांसेषु गृद्धिनः।  
+विसृज्य भक्ष्यान् विविधान् यथा रक्षोगणास्तथा॥
 
-अपूपान् विविधाकाराञ्शाकानि विविधानि च।
+अपूपान् विविधाकाराञ् शाकानि विविधानि च।
 
 पादपान् रससंयुक्तान्, न चेच्छन्ति यथाऽऽमिषम्॥२
 
-न[^359] मन्ये रसतः किश्चिन्मांसतोऽस्तीह किञ्चन॥२॥
+न[^455] मन्ये रसतः किश्चिन्मांसतोऽस्तीह किञ्चन॥२॥
 
-[^359]: "क-घ-ममान्ये शंसतः किञ्चिन्मांसतोऽस्तीह किञ्चन ।[ पाठान्तरम् ]"
+[^455]: # "क-घ-ममान्ये शंसतः किञ्चिन्मांसतोऽस्तीह किञ्चन । [ पाठान्तरम् ]"
 
 तदिच्छामि गुणाञ् श्रोतुं मांसस्याभक्षणेऽपि वा।  
 भक्षणे चैव ये दोषास् तत्पापस्य च मोक्षणम्॥३॥
@@ -8200,9 +8243,9 @@ The Presidency College,
 अध्वना कर्शितानां च न मांसाद्विद्यते परम्॥६॥
 
 सद्यो वर्धयति प्राणान् पुष्टिमग्र्यां ददाति च।  
-नाशो भक्षणदोषस्य दानमेव सदा[^360] मतम्॥७॥
+नाशो भक्षणदोषस्य दानमेव सदा[^456] मतम्॥७॥
 
-[^360]: "क-घ-प्रसादकम् ; ख-सतां मतम्"
+[^456]: # "क-घ-प्रसादकम् ; ख-सतां मतम्"
 
 क्षुधितानां द्विजानां च सर्वेषां चापि जीवितम्।  
 दत्त्वा भवति पूतात्मा श्रद्धया लोभवर्जितः॥८॥
@@ -8210,9 +8253,9 @@ The Presidency College,
 शिक्षयन्ति न याचन्ते दर्शयन्ति स्वमूर्तिभिः।  
 अवस्थेयमदानस्य मा भूदेवं भवानिति॥९॥
 
-दानाद्यस्सुशुचिर्मासं[^361] पुनर्नैव च भक्षयेत्॥१०
+दानाद्यस्सुशुचिर्मासं[^457] पुनर्नैव च भक्षयेत्॥१०
 
-[^361]: "क-घ-दानाक्षम३शुचिर्मांसं पुनश्चैव न"
+[^457]: # "क-घ-दानाक्षम३शुचिर्मांसं पुनश्चैव न"
 
 न भक्ष्योऽभ्यधिकः कश्चिन्मांसादस्ति परन्तप।  
 विवर्जने तु बहवो गुणाः कौरवनन्दन॥११
@@ -8232,18 +8275,18 @@ The Presidency College,
 यदहिंस्रं भवेत् कर्म तत् कुर्यादात्मविन्नरः॥१५॥
 
 पितृदैवतयज्ञेषु प्रोक्षितं हविरुच्यते।  
-विधिना[^362] वेददृष्टेन तद्भुक्त्वेह न दुष्यते॥१६॥
+विधिना[^458] वेददृष्टेन तद्भुक्त्वेह न दुष्यते॥१६॥
 
-[^362]: "ख-अर्धत्रयं नास्ति"
+[^458]: # "ख-अर्धत्रयं नास्ति"
 
 यज्ञार्थे पशवस्सृष्टा इत्यपि श्रूयते श्रुतिः।  
 अतोऽन्यथा प्रवृत्तानां राक्षसो विधिरुच्यते॥१७॥
 
 क्षत्रियाणां तु यो दृष्टो विधिस्तमपि मे शृणु।
 
-स्ववीर्योपार्जितं[^870] मांसं यथा भुञ्जन् न दुष्यते॥१८॥
+स्ववीर्योपार्जितं[^459] मांसं यथा भुञ्जन् न दुष्यते॥१८॥
 
-[^870]: # "क-घ- इतः अर्धचतुष्टयं नास्ति"
+[^459]: # "क-घ- इतः अर्धचतुष्टयं नास्ति"
 
 आरण्यास्सर्वदैवत्याः प्रोक्षितास्सर्वशो मृगाः।  
 अगस्त्येन पुरा राजन् मृगयाऽनेन पूज्यते॥१९॥
@@ -8251,10 +8294,10 @@ The Presidency College,
 रक्षणार्थाय भूतानां हिंस्रान् हन्यान्मृगान् पुनः।  
 नात्मानमपरित्यज्य मृगया नाम विद्यते॥२०॥
 
-समतामुपसङ्गम्य[^363] रूपं हन्यान्न वा नृप।  
+समतामुपसङ्गम्य[^460] रूपं हन्यान्न वा नृप।  
 अतो राजर्षयस्सर्वे मृगयां यान्ति भारत॥२१॥
 
-[^363]: "क-घ-तपस्यामुप"
+[^460]: # "क-घ-तपस्यामुप"
 
 न हि लिप्यन्ति दोषेण न चैतत् पातकं भुवि॥२२
 
@@ -8286,9 +8329,9 @@ The Presidency College,
 मूत्रश्लेष्मपुरीषाणां स्पर्शैश्च भृशदारुणैः॥३१
 
 जाताश्चाप्यवशास्तत्र भिद्यमानाः पुनः पुनः।  
-हन्यमानाश्च[^871] दृश्यन्ते विवशा मांसगृद्धिनः॥३२
+हन्यमानाश्च[^461] दृश्यन्ते विवशा मांसगृद्धिनः॥३२
 
-[^871]: # "क ख-घ-अर्धतयं नास्ति"
+[^461]: # "क ख-घ-अर्धतयं नास्ति"
 
 कुम्भीपाके न पच्यन्ते तां तां योनिमुपागताः।  
 आक्रम्य मार्यमाणाश्च त्रस्यन्त्यन्ये पुनः पुनः॥३३
@@ -8320,10 +8363,10 @@ The Presidency College,
 अहिंसा परमं मित्रम् अहिंसा परमा मतिः।  
 अहिंसा परमं मन्त्रम् अहिंसा परमा श्रुतिः॥४२
 
-सर्वयज्ञेषु[^364] वा दानं सर्वतीर्थेषु चाप्लवः।  
+सर्वयज्ञेषु[^462] वा दानं सर्वतीर्थेषु चाप्लवः।  
 सर्वदानफलं वाऽपि नैव तुल्यमहिंसया॥४३
 
-[^364]: "क-घ-सर्वतीर्थे"
+[^462]: # "क-घ- सर्वतीर्थे"
 
 अहिंसा स्यात् तपोऽक्षय्यम् अहिंस्रो जायते सदा।  
 अहिंस्रस्सर्वभूतानां यथा माता यथा पिता॥४४
@@ -8331,10 +8374,10 @@ The Presidency College,
 एतत्फलमहिंसायां भूयश्च कुरुपुङ्गव।  
 न शक्या ये गुणा वक्तुम् इह वर्षशतैरपि॥४५
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चाधिकशततमोऽध्यायः॥ १०५॥  
 ॥ ८९॥ आनुशासनिकपर्वणि पञ्चाधिकशततमोऽध्यायः॥ १०५॥  
-\[अस्मिन्नध्याये ४५ श्लोकाः\]
+\[अस्मिन्नध्याये ४५ श्लोकाः\]**
 
 ———
 
@@ -8342,15 +8385,15 @@ The Presidency College,
 
   भीष्मेण युधिष्टिरं प्रति कीटोपाख्यानकथनम्॥ १॥ कीटेन व्यासं प्रति स्वपूर्वजन्मवृत्तान्तकथनम्॥ २॥ व्यासेन कीटाय राज्यदानम्॥ ३॥ कीटेन व्यासचोदनया राज्यपालनपूर्वकं जन्मान्तरे ब्राह्मण्यलाभेन तपश्वर्यादिना ब्रह्मलोकाधिगमः॥ ४॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 अकामाश्च सकामाश्च ये हता स्मिन् महाहवे।  
 कां योनिं प्रतिपन्नास्ते तन्मे ब्रूहि पितामह॥१
 
-दुःखं[^365] प्राणपरित्यागः पुरुषाणां महामृधे।  
+दुःखं[^463] प्राणपरित्यागः पुरुषाणां महामृधे।  
 जानामि चाहं धर्मज्ञ प्राणत्यागं सुदुष्करम्॥२
 
-[^365]: "क-घ-मुख्यः प्राण"
+[^463]: # "क-घ-मुख्यः प्राण"
 
 समृद्धे वाऽसमृद्धे वा शुभे वा यदि वाऽशुभे।
 
@@ -8361,30 +8404,30 @@ The Presidency College,
 **भीष्मः–**
 
 समृद्धे वाऽसमृद्धे वा शुभे वा यदि वाऽशुभे।  
-संसारेऽस्मिन् समे[^366] जाताःप्राणिनः पृथिवीपते॥४॥
+संसारेऽस्मिन् समे[^464] जाताः प्राणिनः पृथिवीपते॥४॥
 
-[^366]: "क-घ-परे"
+[^464]: # "क-घ-परे"
 
 निरता येन भावेन तत्र मे शृणु कारणम्।  
 सम्यक् त्वयमनुप्रश्नस् त्वद्युक्तश्च युधिष्ठिर॥५॥
 
 अत्र ते वर्तयिष्यामि पुरावृत्तमिदं नृप।  
-द्वैपायनस्य संवादंकीटस्य[^367] च युधिष्ठिर॥६॥
+द्वैपायनस्य संवादं कीटस्य[^465] च युधिष्ठिर॥६॥
 
-[^367]: "क-घ-अस्य चात्रेर्यु"
+[^465]: # "क-घ-अस्य चात्रेर्यु"
 
-ब्रह्मभूतश्चरन् विप्रः कृष्णद्वैपायनः पुरा।  
+ब्रह्मभूतश्चरन् विप्रः कृष्णद्वैपायनः पुरा ।  
 ददर्श कीटं धावन्तं शीघ्रं शकटवर्त्मनि॥७॥
 
 गतिज्ञस्सर्वभूतानां रुतज्ञश्च शरीरिणाम्।  
 सर्वज्ञस्त्वरितं दृष्ट्वा कीटं वचनमब्रवीत्॥८॥
 
-वैशम्पायनः–
+**वैशम्पायनः–**
 
 कीट त्वं त्रस्तरूपोऽसि त्वरितश्चैव लक्ष्यसे।  
 क्व च वासस्तदाचक्ष्व कुतस्ते भयमागतम्॥९॥
 
-कीटः–
+**कीटः–**
 
 शकटव्रजस्य महतो घोषं श्रुत्वा भयं महत्।
 
@@ -8396,13 +8439,13 @@ The Presidency College,
 वहतां सुमहाभारं सन्निकर्षे स्वनं प्रभो।  
 नृणां च संवाह्यतां श्रूयन्ते विविधास्स्वनाः॥१२॥
 
-वोढुमस्मद्विधैरेषन शक्यः कीटयोनिभिः।  
+वोढुमस्मद्विधैरेष न शक्यः कीटयोनिभिः।  
 तस्मादहमपाक्रामे भयात्तस्मात् सुदारुणात्॥१३॥
 
 दुःखं मृत्युर्हि भूतानां जीवितं च सुदुर्लभम्  
 अतो भीतः पलायामि गच्छेयं नापदं यथा॥१४॥
 
-भीष्मः–
+**भीष्मः–**
 
 इत्युक्तस्स च तं प्राह कुतः कीट सुखं तव।  
 मरणं ते सुखं मन्ये तिर्यग्योनौ हि वर्तसे॥१५॥
@@ -8410,9 +8453,9 @@ The Presidency College,
 शब्द स्पर्शं रसं गन्धं भोगांश्चोच्चावचान् बहून्।  
 नाभिजानासि कीट त्वं श्रेयो मरणमेव ते॥१६॥
 
-कीटः–
+**कीटः–**
 
-सर्वतो निरतो जीव इहापि च सुखं मम।  
+सर्वतो निरतो जीव इहापि च सुखं मम ।  
 चेतयामि महाप्राज्ञ तस्मादिच्छामि जीवितुम्॥१७॥
 
 इहापि विषयस्सर्वो यथादेहं प्रवर्तितः।  
@@ -8437,14 +8480,14 @@ The Presidency College,
 श्रियं दृष्ट्वा मनुष्याणाम् असूयामि निरर्थकम्॥२४॥
 
 श्रियः परं सुखं दृष्ट्वा यातनाया बुभूषकः।  
-त्रिवर्गहन्ता[^368] चान्येषाम् आत्मकामानुवर्तकः॥२५॥
+त्रिवर्गहन्ता[^466] चान्येषाम् आत्मकामानुवर्तकः॥२५॥
 
-[^368]: "घ–श्रीवत्सहन्ता"
+[^466]: # "घ–श्रीवत्सहन्ता"
 
 नृशंसगुणभूयिष्ठं पुरा कर्म कृतं मया।  
-मृत्वा[^369] तदनुतप्ये वै त्यक्त्वाप्रियमिवात्मजम्॥२६॥
+मृत्वा[^467] तदनुतप्ये वै त्यक्त्वा प्रियमिवात्मजम्॥२६॥
 
-[^369]: "घ–कृत्वा"
+[^467]: # "घ–कृत्वा"
 
 शुभानामपि जानामि कृतानां कर्मणां फलम्।  
 माता च पूजिता वृद्धा ब्राह्मणश्चार्चितो मया॥२७॥
@@ -8455,7 +8498,7 @@ The Presidency College,
 कर्मणामेव चैवाहं सुखाशामिव लक्षये।  
 तच्छ्रोतुमहमिच्छामि त्वत्तश्श्रेयस्तपोधन॥२९॥
 
-व्यासः–
+**व्यासः–**
 
 शुभेन कर्मणा यद्वै तिर्यग्योनौ न मुह्यसे।  
 तथैव कीट तत् कर्म येन त्वं न प्रमुह्यसे॥३०॥
@@ -8464,7 +8507,7 @@ The Presidency College,
 तपोबलं हि बलवद् बलमन्यन्न विद्यते॥३१॥
 
 जानामि पापैस्स्वकृतैर् गतं त्वां कीट कीटताम्।  
-अवाप्स्यसि परं धर्मं मानुष्येयदि मन्यसे॥३२॥
+अवाप्स्यसि परं धर्मं मानुष्ये यदि मन्यसे॥३२॥
 
 कर्मभूमिकृतं देवा भुञ्जते तिर्यगाश्च ते॥३३
 
@@ -8479,19 +8522,19 @@ The Presidency College,
 
 क्रमात्तेऽहं विनेष्यामि ब्रह्मत्वं यदि चेच्छसि॥३६॥
 
-भीष्मः–
+**भीष्मः–**
 
 स तथेति प्रतिश्रुत्य कीटसमवतिष्ठत॥
 
-तमृषिंद्रष्टुमगमत् सर्वास्वन्यासु योनिषु॥३७
+तमृषिं द्रष्टुमगमत् सर्वास्वन्यासु योनिषु॥३७
 
 श्वाविड्गोधावराहाणां तथैव मृगपक्षिणाम्।  
-श्वपाकवैश्यशूद्राणां क्षत्रियाणां च योनिषु॥३८॥
+श्वपाकवैश्यशूद्राणां क्षत्रियाणां च योनिषु ॥३८॥
 
 स कीटस्त्वेवमाख्यातम् ऋषिणा सत्यवादिना।  
 प्रतिस्मृत्याथ जग्राह पादौ मूर्ध्ना कृताञ्जलिः॥३९॥
 
-कीटः–
+**कीटः–**
 
 इदं तदतुलं स्थानम् ईप्सितं दशभिर्गुणैः।  
 यदहं प्राप्य कीटत्वम् आगतो राजपुत्रताम्॥४०॥
@@ -8514,49 +8557,45 @@ The Presidency College,
 
 ननु नाशोऽस्ति पापस्य यन्मयोपचितं पुरा॥४६
 
-व्यासः–
+**व्यासः–**
 
 शूद्रेणार्थप्रधानेन नृशंसेनाततायिना।  
 ममैतद्दर्शनं प्राप्तं तच्चैव सुकृतं पुरा॥४७
 
 तिर्यग्योनौ हि जातेन मम चाभ्यर्चितं तथा॥४७॥
 
-इतस्त्वं राजपुत्रत्वाद् ब्राह्मणत्वमवाप्स्यसि।  
+इतस्त्वं राजपुत्रत्वाद् ब्राह्मणत्वमवाप्स्यसि ।  
 गोब्राह्मणकृते प्राणान् हित्वाऽऽत्मीयान् रणाजिरे॥ ४८॥
 
-भीष्मः–
+**भीष्मः–**
 
 राजपुत्रस्सुखं प्राप्य ईजे चैवाप्तदक्षिणैः।  
 अथ चोद्दीप्यत स्वर्गे प्रभूतोऽध्यव्ययस्सुखी॥४९॥
 
 तिर्यग्योन्याश्शूद्रतामभ्युपैति  
 शूद्रो वैश्यत्वं क्षत्रियत्वं च वैश्यः।  
-व्रतश्लाघीक्षत्रियो ब्राह्मणत्वं  
-स्वर्गे पुण्यं ब्राह्मणस्साधुवृत्तः[^6]॥५०॥
+व्रतश्लाघी क्षत्रियो ब्राह्मणत्वं  
+स्वर्गे पुण्यं ब्राह्मणस्साधुवृत्तः[^15]॥५०॥
 
 क्षत्रधर्ममनुप्राप्तस् स्मरन्नेव स वीर्यवान्।  
 त्यक्त्वा हि कीटतां राजंश् चचार विपुलं तपः॥५१॥
 
-तस्य[^872] धर्मार्थविदुषो दृष्ट्वा तद्विपुलं तपः।
+तस्य[^371] धर्मार्थविदुषो दृष्ट्वा तद्विपुलं तपः।
 
-[^872]: # "क-घ-इदमर्धं नास्ति"
+आजगाम द्विजश्रेष्टः कृष्णद्वैपायनस्तदा॥५२॥
 
-आजगाम द्विजश्रेष्टःकृष्णद्वैपायनस्तदा॥५२॥
+**व्यासः–**
 
-व्यासः–
-
-क्षात्रादेव व्रतात् कीट भूतानां परिपालनम्।  
+क्षात्रादेव व्रतात् कीट भूतानां परिपालनम् ।  
 क्षात्रादेव व्रतात् त्वं हि ततो विप्रत्वमेष्यसि॥५३॥
 
-पाहि[^371] सर्वाःप्रजास्सम्यक् शुभाशुभविदात्मवान्।  
+पाहि[^390] सर्वाः प्रजास्सम्यक् शुभाशुभविदात्मवान्।  
 शुभैस्संविभाजन् कामैर् अशुभानां च भावनैः॥५४॥
-
-[^371]: "अ-अर्धचतुष्टयं नास्ति"
 
 आत्मवान् भव सुप्रीतस् स्वधर्माचरणे रतः।  
 क्षात्रीं तनुं समुत्सृज्य ततो विप्रत्वमेष्यसि॥५५॥
 
-भीष्मः–
+**भीष्मः–**
 
 सोऽथारण्यादिह प्रेत्य पुनरेव युधिष्ठिर।  
 महर्षेर्वचनं श्रुत्वा प्रजा धर्मेण पालयन्॥५६॥
@@ -8567,22 +8606,22 @@ The Presidency College,
 ततस्तु ब्राह्मणं द्रष्टुं पुनरेव महायशाः।  
 आजगाम महाप्राज्ञः कृष्णद्वैपायनस्तदा॥५८॥
 
-व्यासः–
+**व्यासः–**
 
 इह ब्रवीमि ते श्रेयो मा व्यथिष्ठाः कथञ्चन।  
-शुभकृच्छुभयोनीषुपापकृत् पापयोनिषु॥५९॥
+शुभकृच्छुभयोनीषु पापकृत् पापयोनिषु ॥५९॥
 
 उपपद्यस्व धर्मज्ञ यथाधर्मं यथाश्रुतम्।  
-तस्मान्मृत्युभयात्[^296] कीट मा व्यथिष्ठाः कथञ्चन॥६०॥
+तस्मान्मृत्युभयात्[^371] कीट मा व्यथिष्ठाः कथञ्चन॥६०॥
 
 धर्मलाभात् परं न स्यात् तस्माद्धर्मं चरोत्तमम्॥६१
 
-कीटः–
+**कीटः–**
 
 सुखात् सुखतरं प्राप्तो भगवंस्त्वत्कृतेऽद्य वै।  
 धर्ममूलं शुभं प्राप्य पापं नष्टमिहाद्य वै॥६२
 
-भीष्मः–
+**भीष्मः–**
 
 भगवद्वचनात् कीटो ब्राह्मण्यं प्राप्य दुर्लभम्।  
 अकरोत् पृथिवीं राजन् यज्ञयूपशताङ्किताम्॥६३
@@ -8595,10 +8634,10 @@ The Presidency College,
 कुरुक्षेत्रे युद्धहताः पुण्ये क्षत्रियपुङ्गवाः।  
 सम्प्राप्तास्ते गतिं पुण्यां तन्मा त्वं शोच पुत्रक॥६५॥
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पडधिकशततमोऽध्यायः॥१०६॥  
 ॥८९॥ आनुशासनिक पर्वणि पडधिकशततमोऽध्यायः॥१६॥  
-\[अस्मिन्नध्याये ६५॥ श्लोकाः\]
+\[अस्मिन्नध्याये ६५॥ श्लोकाः\]**
 
 **———**
 
@@ -8607,30 +8646,30 @@ The Presidency College,
 
  भीष्मेण युधिष्ठिरं प्रति विद्यातपोदानानां मध्ये दानप्रशंसनपरण्यासमैत्रेयसंवादानुवादः॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 विद्या तपश्च दानं च किमेतेषां विशिष्यते।  
 पृच्छामि त्वां सतां श्रेष्ठ तन्मे ब्रूहि पितामह॥१
 
-भीष्मः–
+**भीष्मः–**
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम्।  
-मैत्रेयस्य च संवादंकृष्णद्वैपायनस्य च॥२
+मैत्रेयस्य च संवादं कृष्णद्वैपायनस्य च॥२
 
 कृष्णद्वैपायनो राजन्नज्ञातचरितं चरन्।  
 वाराणस्यामुपातिष्ठन्मैत्रेयं स्वैरिणीकुले॥३
 
 तमुपच्छन्नमासीनं ज्ञात्वा स मुनिसत्तमः।  
-अर्चित्वा[^373] भोजयामास मैत्रेयो मुनिसत्तमम्॥
+अर्चित्वा[^472] भोजयामास मैत्रेयो मुनिसत्तमम्॥
 
-[^373]: "क-घ-इतोऽर्धचतुष्टयं नास्ति"
+[^472]: # "क-घ-इतोऽर्धचतुष्टयं नास्ति"
 
-भुक्त्वातदन्नममृतं गुणवत् सार्वकामिकम्।  
+भुक्त्वा तदन्नममृतं गुणवत् सार्वकामिकम्।  
 प्रतिष्ठमानोऽस्मयत प्रीतः कृष्णो महामनाः॥
 
 तमुत्स्मयन्तं सम्प्रेक्ष्य मैत्रेयः कृष्णमब्रवीत्॥
 
-मैत्रेयः–
+**मैत्रेयः–**
 
 कारणं ब्रूहि धर्मात्मन्नुत्स्मयिष्ठाः कुतश्च ते।  
 तपस्विनो धृतिमतः प्रमादस्समुपागतः॥६॥
@@ -8643,7 +8682,7 @@ The Presidency College,
 
 कल्पान्तरमहं मन्ये विशिष्टमपि यत्त्वया॥९
 
-व्यासः–
+**व्यासः–**
 
 अतिच्छेदातिवादाभ्यां स्मयो यन्मामुपागतः।  
 असत्यं वेदवचनं कस्माद्वेदोऽनृतं वदेत्॥१०
@@ -8695,33 +8734,33 @@ The Presidency College,
 नियं चाकृपणो भुङ्क्ते स्वजनैर्देहि याचतः।  
 भाग्यक्षयेण क्षीयन्ते नोपभोगेन सञ्चयाः॥२५
 
-रमस्वैधस्व मोदस्वदेहि दाने रमस्व च।  
+रमस्वैधस्व मोदस्व देहि दाने रमस्व च।  
 न त्वामतिगमिष्यन्ति वैद्या न च तपस्विनः॥२६
 
-भीष्मः–
+**भीष्मः–**
 
 एवमुक्तः प्रत्युवाच मैत्रेयः कर्मपूर्वकः।  
 अत्यन्तं श्रीमति कुले जातः प्राज्ञो बहुश्रुतः॥२७
 
-मैत्रेयः–
+**मैत्रेयः–**
 
 असंशयं महाप्राज्ञ यथैवात्थ तथैव तत्।  
 अनुज्ञातस्तु भवता किञ्चिद्ब्रूयामहं विभो॥२८
 
-व्यासः–
+**व्यासः–**
 
 यद्यदिच्छसि मैत्रेय यावद्यावत्तथा तथा।  
 ब्रूहि तत्त्वं महाप्राज्ञ शुश्रूषे वचनं तव॥२९
 
-मैत्रेयः–
+**मैत्रेयः–**
 
 निर्दोष निर्मलं चैव वचनं सत्यसंहितम्।  
 विद्यातपोभ्यां हि भवान् भावितात्मा न संशयः॥३०
 
-भवतो भावितात्मत्वा ल्लाभोऽयं[^374] सुमहान् मम।  
+भवतो भावितात्मत्वा ल्लाभोऽयं[^473] सुमहान् मम।  
 भूयो बुद्ध्याऽनुपश्यामि सुसंवृद्धतपा इव॥३१
 
-[^374]: "ख-द्वेवोऽयं सुमहान् मम"
+[^473]: # "ख-द्वेवोऽयं सुमहान् मम"
 
 अपि मे दर्शनादेव भवतोऽभ्युदयो महान्।  
 मन्ये तव प्रसादोऽयं बुद्धिकर्मस्वभावतः॥३२
@@ -8733,12 +8772,12 @@ The Presidency College,
 न हि श्रुतवतः किञ्चिद् अधिकं ब्राह्मणादृते॥३४
 
 असंस्कारात् क्षत्रवैश्यौ नश्येते ब्राह्मणादृते।  
-शूद्रो नश्यत्यशुश्रूषुर्आश्रमाणां यथार्हतः॥३५
+शूद्रो नश्यत्यशुश्रूषुर् आश्रमाणां यथार्हतः॥३५
 
-यथा हि सुकृते[^375] क्षेत्रे फलं विन्दति मानवः।  
+यथा हि सुकृते[^474] क्षेत्रे फलं विन्दति मानवः।  
 एवं दत्त्वा श्रुतवते फलं दाता समश्नुते॥३६
 
-[^375]: "क-घ-संस्कृ"
+[^474]: # "क-घ-संस्कृ"
 
 ब्राह्मणश्चेन्न विद्येत श्रुतवृत्तोपसंहितः।  
 प्रतिग्रहीता दानस्य वृथा स्याद्धनिनां धनम्॥३७
@@ -8746,14 +8785,14 @@ The Presidency College,
 अन्नं ह्यविद्वान् हन्त्येवम् अविद्वांसं च हन्ति तत्।  
 तच्चान्यं हन्ति यच्चान्यत् स भुक्त्वा हन्यतेऽबुधः॥ ३८
 
-प्रगृह्यान्नमदन्[^376] विद्वान् पुनर्जनयतीश्वरः।
+प्रगृह्यान्नमदन्[^475] विद्वान् पुनर्जनयतीश्वरः।
 
-[^376]: "ख-प्राहुर्ह्यन्यदविद्वांसः"
+[^475]: # "ख-प्राहुर्ह्यन्यदविद्वांसः"
 
 स दाता जायते तस्मात् सूक्ष्म एवं व्यतिक्रमः॥३९
 
 ब्राह्म ह्यनुपयोगी यो ददच्चान्नमसंशयम्।  
-यस्तारयति वै विद्वान् पितॄन्देवान् सदाऽमृतान्॥ ४०
+यस्तारयति वै विद्वान् पितॄन् देवान् सदाऽमृतान्॥ ४०
 
 यदेव ददतः पुण्यं तदेव प्रतिगृह्णतः।  
 न ह्येकचक्रं वर्तेत इत्येवमृषयो विदुः॥४१
@@ -8765,13 +8804,13 @@ The Presidency College,
 दानाध्ययनसम्पन्नास् ते नः पूज्यतमास्सदा॥४३
 
 तैर्हि सद्भिः कृतः पन्था देवयानो न मुह्यते।  
-ते हि स्वर्गस्य नेतारो यज्ञवाहास्सनातनाः[^6]॥४४
+ते हि स्वर्गस्य नेतारो यज्ञवाहास्सनातनाः[^15]॥४४
 
-भीष्मः–
+**भीष्मः–**
 
 एवमुक्तस्स भगवान् मैत्रेयं प्रत्यभाषत॥४४॥
 
-व्यासः–
+**व्यासः–**
 
 दिष्ट्यैतत् त्वं विजानासि दिष्ट्या ते बुद्धिरीदृशी।  
 लोको ह्ययं गुणानेव भूयिष्ठं सम्प्रशंसति॥४५॥
@@ -8793,15 +8832,15 @@ The Presidency College,
 यद्यद्धि किञ्चित् सन्धाय पुरुषस्तप्यते तपः।  
 सर्वमेतदवाप्नोति ब्राह्मणो वेदपारगः॥५१
 
-दुरन्वयं दुष्प्रधर्षंदुष्प्रापं[^873] दुरतिक्रमम्।  
+दुरन्वयं दुष्प्रधर्षं दुष्प्रापं[^477] दुरतिक्रमम्।  
 सर्वं वै तपसाऽभ्येति दिष्टं हि बलवत्तरम्॥५२
 
-[^873]: # "ख-घ- दुरापं"
+[^477]: # "ख-घ- दुरापं"
 
-सुरापस्स्वर्णहारी[^378] च भ्रूणहा गुरुतुल्पगः।  
+सुरापस्स्वर्णहारी[^478] च भ्रूणहा गुरुतुल्पगः।  
 तपसा तरते सर्वम् एनसश्च प्रमुच्यते॥५३
 
-[^378]: "क- घ- अर्धचतुष्टयं नास्ति"
+[^478]: # "क- घ- अर्धचतुष्टयं नास्ति"
 
 सर्वो वैद्यश्च चक्षुष्मान् अपि यादृक् च तादृशः।  
 तपस्विनस्तथैवाहुस् ताभ्यां कार्यं सतां गतम्॥५४
@@ -8824,7 +8863,7 @@ The Presidency College,
 कौमारदारो व्रतवान् मैत्रेय निरतो भव॥५९॥
 
 दानेन तपसा चैव विष्णोरभ्यर्चनेन च।  
-ब्राह्मणस्समहाभाग तरेत् संसारसागरात्॥६०॥
+ब्राह्मणस्स महाभाग तरेत् संसारसागरात्॥६०॥
 
 स्वकर्मशुद्धसत्त्वानां तपोभिर्निर्मलात्मनाम्।  
 विद्यया गतमोहानां तारणाय हरिस्स्मृतः॥६१॥
@@ -8835,45 +8874,45 @@ The Presidency College,
 प्रणवोपासनपरा परमार्थपरास्त्विह।  
 एतैः पावय चात्मानं सर्वपापमपोह्य च॥६३॥
 
-स्वस्ति प्राप्नुहि मैत्रेय गृहान्[^379] साधु व्रजाम्यहम्।
+स्वस्ति प्राप्नुहि मैत्रेय गृहान्[^479] साधु व्रजाम्यहम्।
 
-[^379]: "क-घ- गृह्ण साधु"
+[^479]: # "क-घ- गृह्ण साधु"
 
 एतन्मनसि कर्तव्यं श्रेय एव भविष्यति॥६४॥
 
-भीष्मः–
+**भीष्मः–**
 
 तं प्रणम्याथ मैत्रेयः कृत्वा चापि प्रदक्षिणम्।  
 स्वस्ति प्राप्नोमि भगवन्नित्युवाच कृताञ्जलिः॥६५॥
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि सप्ताधिकशततमोऽध्यायः॥१०७॥  
 ॥८९॥ आनुशासनिकपर्वणि सप्ताधिकशततमोऽध्यायः॥१०७॥  
 \[अरिमन्नध्याये ६५॥ श्लोकाः\]**
 
 **––––**
 
-॥अष्टाधिकशततमोऽध्यायः॥  
-<MISSING_FIG href="../books_images/U-IMG-1712140779Capture.JPG"/>
+**॥अष्टाधिकशततमोऽध्यायः॥  
+<MISSING_FIG href="../books_images/U-IMG-1712140779Capture.JPG"/>**
 
-   भीष्मेण युधिष्ठिरं प्रति पतिव्रताधर्मंप्रतिपादकशाण्डिल्यसुमनासंवादानुवादः॥
+   भीष्मेण युधिष्ठिरं प्रति पतिव्रताधर्मम्प्रतिपादकशाण्डिल्यसुमनासंवादानुवादः॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 स्त्रीणां हि समुदाचारं सर्वधर्मविदां वर।  
 श्रोतुमिच्छाम्यहं त्वत्तस् तन्मे ब्रूहि पितामह॥१
 
-भीष्मः–
+**भीष्मः–**
 
 सर्वज्ञां सर्वधर्मज्ञां देवलोके मनस्विनीम्।  
 कैकेयीं सुमनां नाम शाण्डिल्यः पर्यपृच्छत॥२॥
 
-शाण्डिल्यः–
+**शाण्डिल्यः–**
 
 केन वृत्तेन कल्याणि समाचारेण केन वा।  
 विधूय सर्वपापानि देवलोकं त्वमागता॥३
 
-सुमना–
+**सुमना–**
 
 अहितानि च वाक्यानि सर्वाणि परुषाणि च।  
 अप्रमत्ता च भर्तारं कदाचिन्नाहमब्रवम्॥४
@@ -8887,7 +8926,7 @@ The Presidency College,
 असद्वा हसितं किञ्चिद् अहितं पापकर्मणा।  
 परस्यैव रहस्ये वा न प्रवर्तामि सर्वथा॥७
 
-कार्यार्थेनिर्गतं चापि भर्तारं गृहमागतम्।  
+कार्यार्थे निर्गतं चापि भर्तारं गृहमागतम्।  
 आसनेनोपसङ्गम्य पूजयामि समाहिता॥८
 
 यद्यच्च नाभिजानाति यद्भोज्यं नाभिनन्दति।  
@@ -8903,9 +8942,9 @@ The Presidency College,
 बालानां वर्जये नियं शापं कोपं प्रतापनम्॥१२
 
 अविक्षिप्तानि धान्यानि नान्नविक्षेपणं गृहे।  
-रक्तवत्[^380] स्पृहये गेहे गावस्सयवसोदकाः॥१३
+रक्तवत्[^480] स्पृहये गेहे गावस्सयवसोदकाः॥१३
 
-[^380]: "क- घ- रत्नवत्"
+[^480]: # "क- घ- रत्नवत्"
 
 समुद्गम्य च युद्धाऽहं भिक्षां दद्यां द्विजातिषु॥१३॥
 
@@ -8915,22 +8954,22 @@ The Presidency College,
 अञ्जनं रोचनं चैव स्नानं माल्यानुलेपनम्।  
 प्रसाधनं च निष्क्रान्ते नाभिनन्दामि भर्तरि॥१५॥
 
-नोत्थापयामि भर्तारं सुखसुप्तमहं[^381] सदा।  
+नोत्थापयामि भर्तारं सुखसुप्तमहं[^481] सदा।  
 नोत्थापये सुखं सुप्तं ह्यातुरं पालये पतिम्॥१६॥
 
-[^381]: "ख -इतः षट् पादा न सन्ति"
+[^481]: # "ख -इतः षट् पादा न सन्ति"
 
 आतुरेष्वपि कार्येषु तेन तुष्यति मे मनः।  
 नायासयामि भर्तारं कुटुम्बार्थमहं सदा॥१७॥
 
-गुप्तगुह्या सदा[^382] चास्मि सुसम्मृष्टनिवेशना॥१८
+गुप्तगुह्या सदा[^482] चास्मि सुसम्मृष्टनिवेशना॥१८
 
-[^382]: "घ- सदाचारा"
+[^482]: # "घ- सदाचारा"
 
 इदं धर्मफलं नारी पालयन्ती समाहिता।  
-अरुन्धतीव नारी सास्वर्गलोके महीयते॥१९
+अरुन्धतीव नारी सा स्वर्गलोके महीयते॥१९
 
-भीष्मः–
+**भीष्मः–**
 
 एतमाख्याय सा देवी सुमना वै तपस्विनम्।  
 पतिधर्मं महाभागा जगामादर्शनं तदा॥२०
@@ -8938,7 +8977,8 @@ The Presidency College,
 यश्चेदं पाण्डवाख्यानं पठेत् पर्वणि पर्वणि।  
 स देवलोकं सम्प्राप्य नन्दने सुसुखी भवेत्॥२१  
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि अष्टाधिकशततमोऽध्यायः॥१०८॥  
 ॥८९॥ आनुशासनिकपर्वणि अष्टाधिकशततमोऽध्यायः॥ १०८॥  
 \[अस्मिन्नध्याये २१ श्लोकाः\]**
@@ -8950,28 +8990,28 @@ The Presidency College,
 
  युधिष्ठिरेणावश्यवेद्योपास्येषु परावधिं पृष्टेन भीष्मेण तं प्रति श्रीनारायणमहिमप्रतिपादकनारदपुण्डरीकसंवादानुवादपूर्वकं नारायणस्य सर्वोत्कृष्टत्वेन वेद्यत्वोपास्यत्वविधानम्॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 यज्ज्ञेयं परमं कृत्यम अनुष्ठेयं महात्मभिः।  
 सारं मे सर्वशास्त्राणां वक्तुमर्हस्यनुग्रहात्॥१
 
-भीष्मः–
+**भीष्मः–**
 
 श्रूयतामिदमत्यन्तं गूढं संसारमोचनम्।  
 श्रोतव्यं च त्वया सम्यग् ज्ञातव्यं च विशां पते॥२
 
-पुण्डरीकः पुरा विप्रः पुण्यतीर्थे जपान्वितः[^874]।
+पुण्डरीकः पुरा विप्रः पुण्यतीर्थे जपान्वितः[^483]।
 
-[^874]: # "क-घ -तपो"
+[^483]: # "क-घ -तपो"
 
-नारदं परिपप्रच्छ श्रेयो योगपरं[^383] मुनिम्॥३  
-नारदश्चाब्रवीदेनं ब्रह्मणोक्तं[^384] महात्मना॥३॥
+नारदं परिपप्रच्छ श्रेयो योगपरं[^484] मुनिम्॥३  
+नारदश्चाब्रवीदेनं ब्रह्मणोक्तं[^485] महात्मना॥३॥
 
-[^383]: "ख-योगिवरं; घ-योगिपरं मुनिः"
+[^484]: # "ख-योगिवरं; घ-योगिपरं मुनिः"
 
-[^384]: "क-ब्राह्मणं तं महामनाः ; घ-ब्राह्मणोक्तंमहामनाः"
+[^485]: # "क-ब्राह्मणं तं महामनाः ; घ-ब्राह्मणोक्तं महामनाः"
 
-नारदः–
+**नारदः–**
 
 शृणुष्वावहितस्तात ज्ञानयोगमनुत्तमम्।  
 अप्रभूतं प्रभूतार्थं वेदशास्त्रार्थसारकम्॥४॥
@@ -8983,13 +9023,13 @@ The Presidency College,
 तान्येव चायनं तस्य तेन नारायणरस्मृतः॥६॥
 
 नारायणाज्जगत् सर्वं सर्गकाले प्रजायते।  
-तस्मिन्नेव पुनस्तच्चप्रलये सम्प्रलीयते॥७॥
+तस्मिन्नेव पुनस्तच्च प्रलये सम्प्रलीयते॥७॥
 
 नारायणः परं ब्रह्म तत्त्वं नारायणः परः।  
 परादपि परश्चासौ तस्मान्नास्ति परात् परम्॥८॥
 
 वासुदेवं तथा विष्णुम् आत्मानं च तथा विदुः।  
-संज्ञाभेदैस्स एवैकस् सर्वशास्त्राभिसंस्कृतः॥९॥
+सञ्ज्ञाभेदैस्स एवैकस् सर्वशास्त्राभिसंस्कृतः॥९॥
 
 आलोड्य सर्वशास्त्राणि विचार्य च पुनः पुनः।  
 इदमेकं सुनिष्पन्नं ध्येयो नारायणस्सदा॥१०॥
@@ -9004,7 +9044,7 @@ The Presidency College,
 नमो नारायणायेति यो वेद ब्रह्म शाश्वतम्।  
 अन्तकाले जपन्नेति तद्विष्णोः परमं पदम्॥१३॥
 
-श्रवणान्मननाच्चैवगीतिस्तुत्यर्चनादिभिः।  
+श्रवणान्मननाच्चैव गीतिस्तुत्यर्चनादिभिः।  
 आराध्यं सर्वदा ब्रह्म पुरुषेण हितैषिणा॥१४॥
 
 लिप्यते न स पापेन नारायणपरायणः  
@@ -9016,18 +9056,18 @@ The Presidency College,
 जन्मान्तरसहस्रेषु दुर्लभा तद्गता मतिः।  
 तद् भक्तवत्सलं देवं समाराधय सुव्रत॥१७॥
 
-भीष्मः–
+**भीष्मः–**
 
 नारदेनैवमुक्तस्तु स विप्रोऽभ्यर्चयद्धरिम्।  
 स्वप्नेऽपि पुण्डरीकाक्षं शङ्खचक्रगदाधरम्॥१८॥
 
 किरीटकुण्डलधरं लसच्छ्रीवत्सकौस्तुभम्।  
-तं[^875] दृष्ट्वा देवदेवेशं प्राणमत् सम्भ्रमान्वितः॥१९॥
+तं[^486] दृष्ट्वा देवदेवेशं प्राणमत् सम्भ्रमान्वितः॥१९॥
 
-[^875]: # "घ– ततस्सम्पूजितस्सर्वेस् स योगनिलयो हरिः । [ अधिकः पाठः ]"
+[^486]: # "घ– ततस्सम्पूजितस्सर्वेस् स योगनिलयो हरिः । [ अधिकः पाठः ]"
 
 अथ कालेन महता तथा प्रत्यक्षतां गतः।  
-संस्तुतस्स्तुतिभिर्वेदैर्देवगन्धर्वकिन्नरैः॥२०॥
+संस्तुतस्स्तुतिभिर्वेदैर् देवगन्धर्वकिन्नरैः॥२०॥
 
 अथ तेनैव भगवान् आत्मलोकमधोक्षजः।  
 गतस्सम्पूजितस्सर्वेस् स योगनिलयो हरिः॥२१॥
@@ -9040,23 +9080,23 @@ The Presidency College,
 निरुपममुपमेयं योगिविज्ञानगम्यं  
 त्रिभुवनगुरुमीशं सम्प्रपद्यस्व विष्णुम्॥२३॥  
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि नवाधिकशततमोऽध्यायः॥१०२॥  
 ॥८९॥ आनुशासनिकपर्वणि नवाधिकशततमोऽध्यायः॥ १०९॥  
-\[अस्मिन्नध्याये २३॥श्लोकाः\]**
+\[अस्मिन्नध्याये २३॥ श्लोकाः\]**
 
 **———**
 
-॥दशाधिकशततमोऽध्यायः॥
+**॥दशाधिकशततमोऽध्यायः॥**
 
  भीष्मेण युधिष्ठिरं प्रति साम्नः सकलवशीकरणोपायत्वे दृष्टान्ततया रक्षोब्राह्मणसंवादानुवादः॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 साम्ना वाऽपि प्रदानेन ज्यायः किं भवतो मतम्।  
 प्रब्रूहि भरतश्रेष्ठ यदत्र व्यतिरिच्यते॥१
 
-भीष्मः–
+**भीष्मः–**
 
 साम्ना प्रसाद्यते कश्चिद् दानेन च तथाऽपरः।  
 पौरुषीं प्रकृतिं ज्ञात्वा तयोरेकतरं भजेत्॥२
@@ -9067,38 +9107,38 @@ The Presidency College,
 अत्राप्युदाहन्तीमम् इतिहासं पुरातनम्।  
 गृहीत्वा रक्षसा मुक्तो द्विजातिः कानने यथा॥४
 
-कश्चित्तुबुद्धिसम्पन्नो ब्राह्मणो विजने वने।  
-गृहीतः कृच्छ्रमापन्नो रक्षसा[^385] भक्षयिष्यता॥५
+कश्चित्तु बुद्धिसम्पन्नो ब्राह्मणो विजने वने।  
+गृहीतः कृच्छ्रमापन्नो रक्षसा[^487] भक्षयिष्यता॥५
 
-[^385]: "क-घ-अयं पादोऽनन्तरश्च न स्तः"
+[^487]: # "क-घ-अयं पादोऽनन्तरश्च न स्तः"
 
-सुबुद्धिश्श्रुतिसम्पन्नो दृष्ट्वा तमतिभीषणम्[^386]।
+सुबुद्धिश्श्रुतिसम्पन्नो दृष्ट्वा तमतिभीषणम्[^488]।
 
-[^386]: "क-घ -तमसि"
+[^488]: # "क-घ -तमसि"
 
-सामैवास्मै[^876] प्रयुञ्जानो न मुमोह न विव्यथे॥६
+सामैवास्मै[^489] प्रयुञ्जानो न मुमोह न विव्यथे॥६
 
-[^876]: # "क- घ-सान्त्वमेव ;ख-साम्नैवास्मै"
+[^489]: # "क- घ-सान्त्वमेव ; ख-साम्नैवास्मै"
 
 रक्षस्तु वाचा सम्पूज्य प्रश्नं पप्रच्छ तं द्विजम्॥६॥
 
-रक्षः–
+**रक्षः–**
 
 मोक्ष्यसे ब्रूहि मे प्रश्नं केनास्मि हरिणः कृशः॥
 
-भीष्मः–
+**भीष्मः–**
 
-मुहूर्तमथ[^387] सञ्चिन्त्य ब्राह्मणस्तं निरीक्ष्य सः।  
-अभीतवदथाव्यग्रः प्रश्नंप्रतिजगाद ह॥
+मुहूर्तमथ[^490] सञ्चिन्त्य ब्राह्मणस्तं निरीक्ष्य सः।  
+अभीतवदथाव्यग्रः प्रश्नं प्रतिजगाद ह॥
 
-[^387]: "क- ख- घ- अर्धचतुष्टयं नास्ति"
+[^490]: # "क- ख- घ- अर्धचतुष्टयं नास्ति"
 
-ब्राह्मणः–
+**ब्राह्मणः–**
 
 विदेशस्थो विलोकस्थो विना नूनं सुहृज्जनैः।  
 विषयानतुलान् भुङ्क्षे तेनासि हरिणः कृशः॥९
 
-एवं[^371] मित्राणि ते रक्षस् साधूनां चरितान्यपि।  
+एवं[^390] मित्राणि ते रक्षस् साधूनां चरितान्यपि।  
 स्वदोपात्तु परित्यज्य तेनासि हरिणः कृशः॥१०
 
 अवृत्त्या क्लिश्यमानो हि मृत्युप्रायान् विगर्हयन्।  
@@ -9107,18 +9147,18 @@ The Presidency College,
 परकार्याधिकारस्थास् सद्गुणैरधमा नराः।  
 अवजानन्ति नूनं त्वां तेनासि हरिणः कृशः॥१२
 
-गुणवन्निर्गुणानन्यान्[^389] नूनं पश्यसि सत्कृतान्।
+गुणवन्निर्गुणानन्यान्[^492] नूनं पश्यसि सत्कृतान्।
 
-[^389]: "ख-अर्धद्वयं नास्ति"
+[^492]: # "ख-अर्धद्वयं नास्ति"
 
-प्राज्ञैरप्यविनीतात्मा[^390] तेनासि हरिणः कृशः॥१३
+प्राज्ञैरप्यविनीतात्मा[^493] तेनासि हरिणः कृशः॥१३
 
-[^390]: "क-प्राज्ञैराराधितोह्यात्मा; घ- प्राज्ञैराविशते नात्मा"
+[^493]: # "क-प्राज्ञैराराधितो ह्यात्मा; घ- प्राज्ञैराविशते नात्मा"
 
-सम्पीड्यात्मा[^285]नमार्यत्वात् परिभूय ततो ह्यरिः।  
+सम्पीड्यात्मा[^358]नमार्यत्वात् परिभूय ततो ह्यरिः।  
 जितं त्वां मन्यते साधो तेनासि हरिणः कृशः॥१४
 
-क्लिश्यमानान् विमार्गेषुकामक्रोधधृतात्मनः।  
+क्लिश्यमानान् विमार्गेषु कामक्रोधधृतात्मनः।  
 मन्येऽनुध्यायसि जनांस् तेनासि हरिणः कृशः॥१५
 
 प्राज्ञैरपूजितो नूनं प्राज्ञैरप्यभिनिन्दितः।  
@@ -9128,15 +9168,15 @@ The Presidency College,
 न भाति कालेऽभिहितं तेनासि हरिणः कृशः॥१७
 
 श्रुतपूर्वान् दृष्टपूर्वान् कुपितान् हृदयप्रियान्।  
-अनुनेतुं न शक्नोषितेनासि हरिणः कृशः॥१८
+अनुनेतुं न शक्नोषि तेनासि हरिणः कृशः॥१८
 
 नूनमासञ्जयित्वा ते कृत्ये कस्मिंश्चिदीप्सिते।  
 कच्चित् स्पृहयमे व्यर्थं तेनासि हरिणः कृशः॥१९
 
-परोक्षवादिभिर्मियादोषस्ते[^877] सम्प्रदर्शितः।  
+परोक्षवादिभिर्मियादोषस्ते[^495] सम्प्रदर्शितः।  
 तज्ज्ञैर्न पूज्यसे व्यक्तं तेनासि हरिणः कृशः॥२०
 
-[^877]: # " क- अर्धचतुष्टयमेकश्च पादो नास्ति; घ- अर्धपञ्चकं नास्ति"
+[^495]: # " क- अर्धचतुष्टयमेकश्च पादो नास्ति; घ- अर्धपञ्चकं नास्ति"
 
 नूनं त्वां सद्गुणापेक्षं पूजयानं सुहृत्प्रजाः।
 
@@ -9145,10 +9185,10 @@ The Presidency College,
 अन्तर्गतमभिप्रायं न नूनं लज्जयेच्छसि।  
 विवक्तुं प्राप्तिशैथिल्यात् तेनासि हरिणः कृशः॥२२
 
-नानाबुद्धिरुचील्लोँके[^392] मानुषान्नूनमिच्छसि।  
+नानाबुद्धिरुचील्लोँके[^496] मानुषान् नूनमिच्छसि।  
 ग्रहीतुं स्वैर्गुणैस्सर्वांस् तेनासि हरिणः कृशः॥२३
 
-[^392]: "घ-अयं श्लोको नास्ति"
+[^496]: # "घ-अयं श्लोको नास्ति"
 
 असत्सु विनिविष्टेषु न गुणान् वदतस्स्वयम्।  
 गुणास्ते न विराजन्ते तेनासि हरिणः कृशः॥२४
@@ -9168,24 +9208,24 @@ The Presidency College,
 ब्राह्मणो वा हतो गौर्वा ब्रह्मस्वं वा हृतं पुरा।  
 देवस्वं वाऽधिकं काले तेनासि हरिणः कृशः॥२९
 
-हृतदारोऽथ[^393] वृद्धो वा लोके द्विष्टोऽथ वा नरैः।  
+हृतदारोऽथ[^497] वृद्धो वा लोके द्विष्टोऽथ वा नरैः।  
 अविज्ञानेन वा वृद्धस् तेनासि हरिणः कृशः॥३०
 
-[^393]: "अ- अर्धद्वयं नास्ति"
+[^497]: # "अ- अर्धद्वयं नास्ति"
 
-वार्धक्यार्थं[^394]धनं दृष्ट्वा स्वा श्रीर्वाऽपि परैर्हृता।  
-वृत्तिर्वा[^395] दुर्जनापेक्षा तेनासि हरिणः कृशः॥३१
+वार्धक्यार्थं[^498] धनं दृष्ट्वा स्वा श्रीर्वाऽपि परैर्हृता।  
+वृत्तिर्वा[^499] दुर्जनापेक्षा तेनासि हरिणः कृशः॥३१
 
-[^394]: "ख- वार्धक्याश्च ;घ- पार्थक्यार्थं"
+[^498]: # "ख- वार्धक्याश्च ; घ- पार्थक्यार्थं"
 
-[^395]: "ख- वृत्तिर्वाऽऽत्मजनापेक्षा"
+[^499]: # "ख- वृत्तिर्वाऽऽत्मजनापेक्षा"
 
-सम्पत्कालेन[^396] ते धर्मः क्षीणस्तात सुहृद्ब्रुवैः।  
-असंन्यासमतिस्तत्र तेनासि हरिणः कृशः॥३२
+सम्पत्कालेन[^500] ते धर्मः क्षीणस्तात सुहृद्ब्रुवैः।  
+असन्न्यासमतिस्तत्र तेनासि हरिणः कृशः॥३२
 
-[^396]: "ख- अर्धचतुष्टयं नास्ति"
+[^500]: # "ख- अर्धचतुष्टयं नास्ति"
 
-अविद्वद्भिरकार्यार्थैर्विद्याविक्रमदानजम्।  
+अविद्वद्भिरकार्यार्थैर् विद्याविक्रमदानजम्।  
 यशः प्रार्थयसे नित्यं तेनासि हरिणः कृशः॥३३
 
 चिराभिलपितं किञ्चित् फलमप्राप्तमेव च।  
@@ -9194,10 +9234,10 @@ The Presidency College,
 नूनमात्मकृतं दोषम् अपश्यन् किञ्चिदात्मनि।  
 अकारणेऽभिशस्तो हि तेनासि हरिणः कृशः॥३५
 
-सुहृदां[^397] सम्प्रमत्तानां तत्प्रामाण्यमजानताम्।  
+सुहृदां[^501] सम्प्रमत्तानां तत्प्रामाण्यमजानताम्।  
 आगस्कृत्तद्गुणैर्हीनस् तेनासि हरिणः कृशः॥३६
 
-[^397]: "क- घ- अर्धचतुष्टयं नास्ति;ख- अर्धद्वयं नास्ति"
+[^501]: # "क- घ- अर्धचतुष्टयं नास्ति; ख- अर्धद्वयं नास्ति"
 
 साधून् गृहस्थान् दृष्ट्वा च तथा साधून् वनेचरान्।
 
@@ -9206,18 +9246,18 @@ The Presidency College,
 धर्ममर्थं च कामं च देशे चाभिहितं वचः।  
 न प्रसिद्ध्यति ते नूनं तेनासि हरिणः कृशः॥३८
 
-दत्त्वा तेन कृशेनार्थम अमर्षीसञ्जिजीविषुः।  
+दत्त्वा तेन कृशेनार्थम अमर्षी सञ्जिजीविषुः।  
 प्राप्य वर्तयसे नूनं तेनासि हरिणः कृशः॥३९
 
 पापान् विवर्धितान् दृष्ट्वा कल्याणांश्चावसीदतः।  
 ध्रुवं मृगयसे नूनं तेनासि हरिणः कृशः॥४०
 
-भीष्मः–
+**भीष्मः–**
 
 एवं सम्पूजितो रक्षो विप्रं तं प्रत्यपूजयत्।  
 सहायमकरोच्चैनं सम्पूज्यामुं मुमोच ह॥४१
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि दशाधिकशततमोऽध्यायः॥११०॥  
 ॥८९॥ आनुशासनिकपर्वणि दशाधिकशततमोऽध्यायः॥११०॥  
 \[अरिमन्नध्याये ४१ श्लोकाः\]**
@@ -9228,24 +9268,24 @@ The Presidency College,
 
 **<MISSING_FIG href="../books_images/U-IMG-1712143398Capture.JPG"/>**
 
-  युधिष्टिरेण भीष्मं प्रति सप्रशंसनं पुनर्धर्मकथनप्रार्थना॥१॥ कृष्णेन पुत्रार्थंकैलासे तपश्चरणम्॥२॥ तव कृष्णदर्शनाथ नारदादीनामागमनम्॥३॥ कृष्णेन स्वमुखनिस्सृताग्निना तत्पर्वतस्य भस्मीकरणम्॥ ४॥ तथा पुनः प्रसन्नदृष्ट्या गिरेरुज्जीवनम्॥५॥ तथा नारदादीन् प्रति तत्कारणकथनम्॥६॥ कृष्णेनाश्चर्यकथनं प्रार्थितैर्मुनिगणैर्नारदं प्रति तञ्चोदना॥७॥
+  युधिष्टिरेण भीष्मं प्रति सप्रशंसनं पुनर्धर्मकथनप्रार्थना॥१॥ कृष्णेन पुत्रार्थं कैलासे तपश्चरणम्॥२॥ तव कृष्णदर्शनाथ नारदादीनामागमनम्॥३॥ कृष्णेन स्वमुखनिस्सृताग्निना तत्पर्वतस्य भस्मीकरणम्॥ ४॥ तथा पुनः प्रसन्नदृष्ट्या गिरेरुज्जीवनम्॥५॥ तथा नारदादीन् प्रति तत्कारणकथनम्॥६॥ कृष्णेनाश्चर्यकथनं प्रार्थितैर्मुनिगणैर्नारदं प्रति तञ्चोदना॥७॥
 
-वैशम्पायनः–
+**वैशम्पायनः–**
 
 अनुशास्य शुभैर्वाक्यैर् भीष्ममाह महामतिः।  
-प्रीत्या पुनस्स शुश्रूषुर्वचनं ययुधिष्ठिरः॥१
+प्रीत्या पुनस्स शुश्रूषुर् वचनं ययुधिष्ठिरः॥१
 
-जनमेजयः–
+**जनमेजयः–**
 
 पितामहो मे विप्रर्षे भीष्मं कालवशं गतम्।  
-किमपृच्छत् तदा राजा सर्वसामाजिकं[^398] हितम्॥२
+किमपृच्छत् तदा राजा सर्वसामाजिकं[^502] हितम्॥२
 
-[^398]: "ख-घ- इतः अर्धचतुष्टयं नास्ति"
+[^502]: # "ख-घ- इतः अर्धचतुष्टयं नास्ति"
 
 उभयोर्लोकयोर्युक्तं पुरुषार्थमनुत्तमम्।  
 तन्मे वद महाप्राज्ञ श्रोतुं कौतूहलं हि मे॥३
 
-वैशम्पायनः–
+**वैशम्पायनः–**
 
 भूय एव महाराज शृणु धर्मसमुच्चयम्।  
 यद्पृच्छत् तदा राजा कुन्तीपुत्रो युधिष्ठिरः॥४
@@ -9253,7 +9293,7 @@ The Presidency College,
 शरतल्पगतं भीष्मं सर्वपार्थिवसन्निधौ।  
 अजातशत्रुः प्रीतात्मा पुनरेवाभ्यभाषत॥
 
-युधिष्ठिरः–
+**युधिष्ठिरः–**
 
 पितामह महाप्राज्ञ सर्वशास्त्रविशारद।  
 श्रूयतां मे हि वचनम् अर्थित्वात् प्रब्रवीम्यहम्॥६
@@ -9265,9 +9305,9 @@ The Presidency College,
 भवता गुरुणा चैव धन्याश्चैव वयं प्रभो॥८
 
 अयं स कालस्सम्प्राप्तो दुर्लभो ज्ञातिबान्धवैः।  
-शास्ता[^878] तु नास्ति नः कश्चित् त्वदृते पुरुषर्षभ॥९
+शास्ता[^503] तु नास्ति नः कश्चित् त्वदृते पुरुषर्षभ॥९
 
-[^878]: # "अ- इदमर्धं नास्ति"
+[^503]: # "अ- इदमर्धं नास्ति"
 
 तस्माद्धर्मार्थसहितम् आयत्यां च हितोदयम्।  
 आश्चर्यं परमं वाक्यं श्रोतुमिच्छामि भारत॥१०
@@ -9282,42 +9322,42 @@ The Presidency College,
 
 मत्प्रियार्थं हि कौरव्य स्नेहाापितुमर्हसि॥१३
 
-वैशम्पायनः–
+**वैशम्पायनः–**
 
 तस्य तद्वचनं श्रुत्वा स्नेहादागतविक्लबः।  
 प्रपिबन्निव तं दृष्ट्वा भीष्मो वचनमब्रवीत्॥१४
 
-भीष्मः–
+**भीष्मः–**
 
 शृणु राजन् पुरावृत्तम् इतिहासं पुरातनम्॥१४॥
 
-वैशम्पायनः–
+**वैशम्पायनः–**
 
 एतावदुक्त्वा गाङ्गेयः प्रणम्य शिरसा हरिम्।  
-धर्मराजं समीक्ष्येदं पुनर्वक्तुं समारभत्[^809]॥१५॥
+धर्मराजं समीक्ष्येदं पुनर्वक्तुं समारभत्[^15]॥१५॥
 
-भीष्मः–
+**भीष्मः–**
 
 अयं नारायणश्श्रीमान् पुत्रार्थे व्रतकाङ्क्षया।  
 दीक्षितो हि महाबाहुः पुरा द्वादशवार्षिकम्॥१६॥
 
 दीक्षितं केशवं द्रष्टुम् अभिजग्मुर्महर्षयः।  
-सेवित्वा च महात्मानं[^399] प्रीयमाणं जनार्दनम्॥१७॥
+सेवित्वा च महात्मानं[^505] प्रीयमाणं जनार्दनम्॥१७॥
 
-[^399]: "क-घ-महात्मानः"
+[^505]: # "क-घ-महात्मानः"
 
 नारदः पर्वतश्चैव कृष्णद्वैपायनस्तथा।  
 देवलः काश्यपश्चैव हस्तिकाश्यप एव च॥१८॥
 
 जमदग्निश्च राजेन्द्र धौम्यो वाल्मीकिरेव च।  
-अपरेऽपि तपस्सिद्धास् सत्यव्रतपरायणाः॥१९॥
+अपरेऽपि तपस्सिद्धास् सत्यव्रतपरायणाः॥ १९॥
 
-शिष्यैरनुगतास्सर्वे ब्रह्मविद्भिरकल्मषैः॥२०
+शिष्यैरनुगतास्सर्वे ब्रह्मविद्भिरकल्मषैः ॥२०
 
 केशवस्तानभिगतान् प्रीत्या सम्परिगृह्य च  
 तेषामतिथिसत्कारं पूजनार्थं कुलोचितम्॥२१
 
-देवकीतनयो हृष्टोदेवतुल्यमकल्पयत्॥२१॥
+देवकीतनयो हृष्टो देवतुल्यमकल्पयत्॥२१॥
 
 उपविष्टेषु सर्वेषु विष्टरेषु तदाऽनघ।  
 विश्वस्तेष्वभितुष्टेषु केशवार्चनया पुनः॥२२॥
@@ -9330,11 +9370,11 @@ The Presidency College,
 यत्र गोवृषभाङ्कस्य प्रभावोऽभून्महात्मनः॥२४॥
 
 यत्र देवी महादेवम् अपृच्छत् संशयान् पुरा।  
-कथयामास देवेशो[^400] देव्याः प्रियचिकीर्षया॥२५॥
+कथयामास देवेशो[^506] देव्याः प्रियचिकीर्षया॥२५॥
 
-[^400]: "क-घ -सर्वान् स; ख- सर्वांस्तान्"
+[^506]: # "क-घ -सर्वान् स; ख- सर्वांस्तान्"
 
-उमापत्योश्चसंवाद शृणु तात मनोरमम्।  
+उमापत्योश्च संवाद शृणु तात मनोरमम्।  
 वर्णाश्रमाणां धर्मश्च तत्र तात समाहितः॥२६॥
 
 ऋषिधर्मश्च निखिलो राजधर्मश्च पुष्कलः।  
@@ -9357,20 +9397,20 @@ The Presidency College,
 पुष्टियोगमिदं दिव्यं कथ्यमानं मया श्रृणु॥३२॥
 
 इतिहासमिमं दिव्यं पवित्रं परमं शुभम्।  
-सायं प्रातस्सदा सम्यक् श्रोतव्यंच बुभूवता॥३३॥
+सायं प्रातस्सदा सम्यक् श्रोतव्यं च बुभूवता॥३३॥
 
 ततो नारायणो देवस् सङ्क्लिष्टो व्रतचर्यया।  
-वह्निर्विनिस्सृतो वक्रात् कृष्णस्याद्भुतदर्शनः[^401]॥३४॥
+वह्निर्विनिस्सृतो वक्रात् कृष्णस्याद्भुतदर्शनः[^507]॥३४॥
 
-[^401]: "क- ख -दर्शिनः"
+[^507]: # "क- ख -दर्शिनः"
 
 अग्निना तेन महता निस्सृतेन मुखाद्विभोः।  
-पश्यतामेव सर्वेषांदग्ध एव नगोत्तमः॥३५॥
+पश्यतामेव सर्वेषां दग्ध एव नगोत्तमः॥३५॥
 
 मृगपक्षिगणाकीर्णश् श्वापदैरपि सङ्कुलः।  
-वृक्षगुल्मलताकीर्णो मथितो दीनदर्शनः[^402]॥३६॥
+वृक्षगुल्मलताकीर्णो मथितो दीनदर्शनः[^508]॥३६॥
 
-[^402]: "क-घ-दीर्घं"
+[^508]: # "क-घ-दीर्घं"
 
 पुनस्स दृष्टमात्रेण हरिणा सौम्यचेतसा।  
 स बभूव गिरिः क्षिप्रं प्रफुल्लद्रुमकाननः॥३७॥
@@ -9379,28 +9419,28 @@ The Presidency College,
 
 मत्तवारणसंयुक्तो नानापक्षिगणैर्युतः॥३८॥
 
-तद्द्भुतमचिन्त्यंच सर्वेषामभवद्भृशम्॥३९  
+तद्द्भुतमचिन्त्यं च सर्वेषामभवद्भृशम्॥३९  
 
 तं दृष्ट्वा हृष्टरोमाणस् सर्वे मुनिगणास्तदा।  
 विस्मिताः परमायत्तास् साध्वसाकुललोचनाः॥४०
 
 न किञ्चिदब्रुवंस्तत्र शुभं वा यदि वेतरत्॥४०॥
 
-ततो नारायणो देवो मुनिसङ्घेतु विस्मिते।  
+ततो नारायणो देवो मुनिसङ्घे तु विस्मिते।  
 तान् समीक्ष्यैव मधुरं बभाषे पुष्करेक्षणः॥४१॥
 
-श्रीभगवान्–
+**श्रीभगवान्–**
 
 किमर्थं मुनिसङ्घस्य विस्मयोऽयमनुत्तमः।  
 एतं मे संशयं सर्वे याथातथ्येन नन्दिताः॥४२॥
 
 ऋषयो वक्तुमर्हन्ति निश्चयेनार्थकोविदाः॥४३
 
-भीष्मः–
+**भीष्मः–**
 
 केशवस्य वचश्श्रुत्वा तुष्टुर्बुर्मुनिपुङ्गवाः॥४३॥
 
-ऋषयः–
+**ऋषयः–**
 
 भवान् सृजति वै लोकान् भवान् संहरति प्रजाः॥४४
 
@@ -9408,7 +9448,8 @@ The Presidency College,
 भवानादिर्भवानन्तो भवतोऽन्यन्न विद्यते॥४५
 
 स्थावरं जङ्गमं सर्वं त्वमेव पुरुषोत्तम।  
-त्वंसर्वमिदं तात लोकचक्रं प्रवर्तते॥४६  
+त्वं सर्वमिदं तात लोकचक्रं प्रवर्तते॥४६  
+
 
 त्वमेवार्हसि तद्वक्तुं मुखादग्निविनिर्गमम्।  
 एतन्नो विस्मयकरं बभूव मधुसूदन॥४७
@@ -9416,7 +9457,7 @@ The Presidency College,
 ततो विगतसन्त्रासा भवाम पुरुषोत्तम।  
 यदिच्छेत्तत्र वक्तव्यं कुतोऽस्माकं नियोगतः॥४८
 
-श्रीभगवान्–
+**श्रीभगवान्–**
 
 नित्यं हितार्थं लोकानां भवद्भिः क्रियते तपः।  
 तस्माल्लोकहितं गुह्यं श्रूयतां कथयामि वः॥४९
@@ -9431,7 +9472,7 @@ The Presidency College,
 आत्मनस्सदृशं पुत्रम अहं जनयितुं व्रतैः॥५२
 
 एवं व्रतपरीतस्य तपस्तीव्रतया मम।  
-अथात्मा मम देहस्थम् सोऽग्निभूत्वा विनिस्सृतः॥५३
+अथात्मा मम देहस्थं सोऽग्निभूत्वा विनिस्सृतः॥५३
 
 विनिस्सृत्य गतो द्रष्टुं क्षणेन च पितामहम्।  
 ब्रह्मणा मन्मथोऽनङ्गः पुत्रत्वे मे प्रकल्पितः॥५४
@@ -9448,11 +9489,11 @@ The Presidency College,
 एतद्गुह्यं यथातथ्यं कथितं वस्समासतः।  
 भवन्तो व्यथिता येन विस्मिताश्च तपोधनाः॥५७॥
 
-भीष्मः–
+**भीष्मः–**
 
-ऋषीणामेवमुक्त्वा तु तान् पुनः प्रत्यभाषत[^6]॥५८
+ऋषीणामेवमुक्त्वा तु तान् पुनः प्रत्यभाषत[^15]॥५८
 
-श्रीभगवान्–
+**श्रीभगवान्–**
 
 भवतां दर्शनादेव प्रीतिरभ्यधिका मम।  
 भवन्तस्तु तपस्सिद्धा भवन्तो देवदर्शनाः॥५९
@@ -9479,12 +9520,12 @@ The Presidency College,
 तदन्ये वर्धयिष्यन्ति पूजयिष्यन्ति चापरे।  
 वात्सल्यविगताश्चान्ये प्रशंसन्ति पुरातनम्॥६६
 
-भीष्मः–
+**भीष्मः–**
 
 एवं ब्रुवति गोविन्दे श्रवणार्थं महर्षयः।  
 वाग्भिस्साञ्जलिमालाभिर् इदमूचुर्जनार्दनम्॥६७
 
-ऋषयः–
+**ऋषयः–**
 
 अयुक्तमस्मानेवं त्वं वाचा वरद भाषितुम्।  
 त्वच्छासनमुखास्सर्वे त्वदधीनपरिश्रमाः॥६८
@@ -9492,16 +9533,16 @@ The Presidency College,
 एवं पूजयितुं चास्मान् न चैवार्हसि केशव।  
 त्वत्तस्त्वन्यं न पश्यामो यल्लोके ते न विद्यते॥६९
 
-दिवि वा भुवि वा किञ्चित् तत् सर्वं हि त्वयाततम्[^880]।  
+दिवि वा भुवि वा किञ्चित् तत् सर्वं हि त्वया ततम्[^510]।  
 न विद्महे वयं देव कथ्यमानं तवान्तिके॥७०
 
-[^880]: # "क-धृतम्"
+[^510]: # "क-धृतम्"
 
-भीष्मः–
+**भीष्मः–**
 
 एवमुक्तो हृषीकेशस् सस्मितं चेदमब्रवीत्॥७०॥
 
-श्रीभगवान्–
+**श्रीभगवान्–**
 
 अहं मानुषयोनिस्थस् साम्प्रतं मुनिपुङ्गवाः।
 
@@ -9509,12 +9550,12 @@ The Presidency College,
 
 भवद्भिः कथ्यमानं च अपूर्वमिव तद्भवेत्॥७२
 
-भीष्मः–
+**भीष्मः–**
 
 एवं सञ्चोदितास्सर्वे केशवेन महात्मना ।  
 ऋषयश्चानुवर्तन्ते वासुदेवस्य शासनम्॥७३
 
-ततस्त्वृषिगणास्सर्वे[^321] नारदं देवदर्शनम् ।  
+ततस्त्वृषिगणास्सर्वे[^400] नारदं देवदर्शनम् ।  
 अमन्यन्त बुधा बुद्ध्या समर्थं तन्निबोधने ॥७४
 
 ऋषिरुग्रतपाश्चायं केशवस्य प्रियोऽधिकम् ।  
@@ -9522,15 +9563,15 @@ The Presidency College,
 
 सर्वे तदर्हणं कृत्वा नारदं वाक्यमब्रुवन् ॥७५॥
 
-ऋषयः–
+**ऋषयः–**
 
 भवता तीर्थयात्रार्थं चरता हिमवद्गिरौ ।  
 दृष्टं वै यत् तदाश्चर्यं श्रोतॄणां परमं प्रियम्॥७६॥
 
 अतस्त्वमविशेषेण हितार्थं सर्वमादितः ।  
-प्रियार्थंकेशवस्यास्य स भवान् वक्तुमर्हति ॥७७॥
+प्रियार्थं केशवस्यास्य स भवान् वक्तुमर्हति ॥७७॥
 
-भीष्मः–
+**भीष्मः–**
 
 तदा संयोजितस्सर्वैर् ऋषिभिर्नारदस्तदा ।  
 प्रणम्य शिरसा विष्णुं सर्वलोकहिते रतम् ॥७८॥
@@ -9540,69 +9581,71 @@ The Presidency College,
 ततो नारायणसुहृन्नारदो वदतां वरः।  
 शङ्करस्योमया सार्धं संवादमनुभाषत ॥८०
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकादशाधिकशततमोऽध्यायः ॥ ११ ॥  
 \।\। ८९ \।\। आनुशासनिकपर्वणि एकादशाधिकशततमोऽध्यायः ॥ ११ ॥  
 \[ अस्मिन्नध्याये ८० श्लोकाः \]**
 
 **————**
 
+
+
 **॥ द्वादशाधिकशततमोऽध्यायः ॥**
 
-  नारदेन कृष्णं प्रति उमामहेश्वरसंवादानुवादारम्भः ॥ १ ॥ नानामुनिगणाकीर्णहिमवत्तटमुपविष्टे महादेवे तत्पृष्टभागमुपागतया पार्वत्या क्रीडार्थं स्वपाणिभ्यां तदीयनयनद्वयपिधानम् ॥२॥ तदा जगत आन्ध्यप्राप्तौदेवेन स्वललाटे तृतीयनेत्रसर्जनम् ॥ ३ ॥ तत्तेजसा निर्दग्धे गिरौ देवीप्रार्थनया देवेन पुनर्गिरेरुज्जीवनम् ॥ ४ ॥
+  नारदेन कृष्णं प्रति उमामहेश्वरसंवादानुवादारम्भः ॥ १ ॥ नानामुनिगणाकीर्णहिमवत्तटमुपविष्टे महादेवे तत्पृष्टभागमुपागतया पार्वत्या क्रीडार्थं स्वपाणिभ्यां तदीयनयनद्वयपिधानम् ॥२॥ तदा जगत आन्ध्यप्राप्तौ देवेन स्वललाटे तृतीयनेत्रसर्जनम् ॥ ३ ॥ तत्तेजसा निर्दग्धे गिरौ देवीप्रार्थनया देवेन पुनर्गिरेरुज्जीवनम् ॥ ४ ॥
 
-नारदः–
+**नारदः–**
 
 भगवंस्तीर्थयात्रार्थं तथैव चरता मया।  
 दिव्यमद्भुतसङ्काशं दृष्टं हैमवतं वनम ॥१  
 
 नानावृक्षसमायुक्तं नानापक्षिगणैर्वृतम्।  
-नानारत्नगणाकीर्णंनानाभावसमन्वितम् ॥२
+नानारत्नगणाकीर्णं नानाभावसमन्वितम् ॥२
 
 दिव्यचन्दनसंयुक्तं दिव्यधूपेन धूपितम्।  
 दिव्यपुष्पसमाकीर्णं दिव्यगन्धेन चार्चितम् ॥३
 
 सिद्धचारणसङ्घातभूतसङ्घैर्निषेवितम्।  
-वरिष्ठाप्सरसाकीर्णं[^881] नागगन्धर्वसङ्कुलम् ॥४
+वरिष्ठाप्सरसाकीर्णं[^512] नागगन्धर्वसङ्कुलम् ॥४
 
-[^881]: # "अ-वरिष्टसारसा"
+[^512]: # "अ-वरिष्टसारसा"
 
 मृदङ्गमुरजोद्धुष्टं शङ्खवीणाभिनादितम्।  
-नृत्यद्भिर्भूतसङ्घैश्च सर्वतस्त्वभिशोभितम्[^882] ॥५
+नृत्यद्भिर्भूतसङ्घैश्च सर्वतस्त्वभिशोभितम्[^513] ॥५
 
-[^882]: # "क- घ- स्सत्त्व"
+[^513]: # "क- घ- स्सत्त्व"
 
 नानारूपैर्विरूपैश्च भीतरूपैर्भयानकैः।  
 सिंहव्याघ्रोगमुखैर् बिडालवदनैस्तथा ॥६
 
-खराष्ट्रद्वीपिवदनैर्गजवक्त्रैस्तथैव च।  
+खराष्ट्रद्वीपिवदनैर् गजवक्त्रैस्तथैव च।  
 उलूकश्येनवदनैः काकगृध्रमुखैस्तथा ॥७
 
-एवं बहुविधाकारैर्भूतसङ्घैर्भृशाकुलम्।  
+एवं बहुविधाकारैर् भूतसङ्घैर्भृशाकुलम्।  
 नानद्यमानं बहुधा हरपारिषदैर्भृशम् ॥८
 
 घोररूपं सुदुर्दर्शं रक्षोगणशतैर्वृतम्।  
-समाजं तद्वनेदृष्टुं मया भूतपतेः पुरा ॥९
+समाजं तद्वने दृष्टुं मया भूतपतेः पुरा ॥९
 
 प्रनृत्ताप्सरसं दिव्यं देवगन्धर्वनादितम्।  
 षट्पदैरुपगीतं च प्रथमे मासि माधवे ॥१०
 
-उत्क्रोशत्क्रौञ्चकुररैस्सारसैर्जीवजीवकैः।  
+उत्क्रोशत्क्रौञ्चकुररैस् सारसैर्जीवजीवकैः ।  
 मत्ताभिः परषुष्टाभिः कूजन्तीभिस्समाकुलम् ॥११
 
-उत्तमावाससङ्काशं भीमरूपं[^405] परन्तप ।  
+उत्तमावाससङ्काशं भीमरूपं[^514] परन्तप ।  
 द्रष्टुं भवति धर्मस्य धर्मभागिजनस्य च ॥१२
 
-[^405]: "ख–अभिरूपतरं ततः"
+[^514]: # "ख–अभिरूपतरं ततः"
 
 ये चोर्ध्वरेतसस्सिद्धास् तत्र तत्र समागताः ।  
 मार्ताण्डरश्मिसञ्चारा विश्वेदेवगणास्तथा ॥१३
 
 तथा दिव्यास्तथा नागा लोकपाला हुताशनाः ।  
-वाताश्चसर्वे चायान्ति दिव्यपुष्पसमाकुलाः ॥१४
+वाताश्च सर्वे चायान्ति दिव्यपुष्पसमाकुलाः ॥१४
 
 किरन्तरस्सर्वपुष्पाणि किरन्तोऽद्भुतदर्शनाः ।  
-ओषध्यःप्रज्वलन्त्यश्च द्योतयन्त्यो दिशो दश ॥१५
+ओषध्यः प्रज्वलन्त्यश्च द्योतयन्त्यो दिशो दश ॥१५
 
 विहगाश्च मुदा युक्ता नृत्यन्ति च नदन्ति च ।  
 ततस्समन्ततस्तत्र दिव्या दिव्यजनप्रियाः ॥१६
@@ -9617,9 +9660,7 @@ The Presidency College,
 भयहेतुरभक्तानां भक्तानामभयङ्करः ॥१९
 
 किन्नरैर्देवगन्धर्वैस् स्तूयमानस्ततस्ततः ।  
-ऋषिभिश्चाप्सरोभिश्च सर्वतश्चोपशोभितः ॥
-
-२०
+ऋषिभिश्चाप्सरोभिश्च सर्वतश्चोपशोभितः ॥२०
 
 तत्र भूतपतेरस्थानं देवदानवसङ्कुलम्।  
 सर्वतेजोमयं भूम्ना लोकपालनिषेवितम् ॥२१
@@ -9628,9 +9669,9 @@ The Presidency College,
 भीमरूपमनिर्देश्यम् अप्रधृष्यतमं विभोः॥२२
 
 तत्र भूतपतिं देवम् आसीनं शिखरोत्तमे।  
-ऋषयो भूतसङ्घाश्चप्रणम्य शिरसा हरम् ॥२३
+ऋषयो भूतसङ्घाश्च प्रणम्य शिरसा हरम् ॥२३
 
-गीर्भि[^321]ःपरमशुद्धाभिस् तुष्टुवुश्च मनोहरम् ॥२३॥
+गीर्भि[^400]ः परमशुद्धाभिस् तुष्टुवुश्च मनोहरम् ॥२३॥
 
 विमुक्ताश्चैव पापेभ्यो बभूवुर्विगतज्वराः।  
 ऋषयो वालखिल्याश्च तथा विप्रर्षयश्च ये ॥२४॥
@@ -9649,7 +9690,7 @@ The Presidency College,
 
 आगम्य तु गिरेः पुत्री देवदेवस्य चान्तिकम्।
 
-मनःप्रियं चिकीर्षन्ती क्रीडार्थंशङ्करान्तिके ॥२९॥
+मनःप्रियं चिकीर्षन्ती क्रीडार्थं शङ्करान्तिके ॥२९॥
 
 मनोहराभ्यां पाणिभ्यां हरनेत्रे पिधाय तु।  
 अवेक्ष्य हृष्टा स्वगणान् स्मयन्ती पृष्ठतस्स्थिता ॥३०॥
@@ -9671,14 +9712,14 @@ The Presidency College,
 अदह्यत गिरिस्सर्वो हिमवानग्रतस्थितः ॥३५॥
 
 दह्यमाने गिरौ तस्मिन् मृगपक्षिसमाकुले।  
-सविद्याधरगन्धर्वेदिव्यौषधसमाकुले ॥३६॥
+सविद्याधरगन्धर्वे दिव्यौषधसमाकुले ॥३६॥
 
-ततो गिरिस्तुवापि विस्मयोत्फुल्ललोचना।  
+ततो गिरिस्तु वापि विस्मयोत्फुल्ललोचना।  
 बभूव च जगत् सर्वं तथा विस्मयसंयुतम् ॥३७॥
 
 पश्यतामेव सर्वेषां देव दानवरक्षसाम्।
 
-नेत्रजेनाग्निना तेन दग्ध एव नगोत्तमः ॥३८॥
+नेत्रजेनाग्निना तेन दग्ध एव नगोत्तमः ॥ ३८॥
 
 तं दृष्ट्वा मथितं शैलं शैलपुत्री सविक्लबा।  
 पितुरसम्मानमिच्छन्ती पपात भुवि पादयोः॥३९॥
@@ -9700,12 +9741,12 @@ The Presidency College,
 
 देवदेवं महादेवं बभाषेदं वचोऽर्थवत् ॥४५
 
-उमा-
+**उमा-**
 
 भगवन् देवदेवेश शूलपाणे महाद्युते।  
-विस्मयो मे महाञ्जातस् तस्मिन्नेत्राग्निसम्भवे[^407] ॥४६
+विस्मयो मे महाञ्जातस् तस्मिन्नेत्राग्निसम्भवे[^516] ॥४६
 
-[^407]: "ख– तव नेत्राग्नि"
+[^516]: # "ख– तव नेत्राग्नि"
 
 किमर्थं देवदेवेश ललाटेऽस्मिन् प्रकाशितम्।
 
@@ -9717,11 +9758,11 @@ The Presidency College,
 एष मे संशयो देव हृदि मे सम्प्रवर्तते।  
 देवदेव नमस्तुभ्यं तन्मे शंसितुमर्हसि ॥४९
 
-नारदः–
+**नारदः–**
 
 एवमुक्तस्तथा देव्या प्रीयमाणोऽब्रवीद्भवः ॥४९॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 स्थाने संशयितुं देवि धर्मज्ञे प्रियभाषिणि ॥५०
 
@@ -9732,16 +9773,16 @@ The Presidency College,
 सर्वेषामेव लोकानां कूटस्थं विद्धि मां प्रिये ॥५२
 
 मदधीनास्त्रयो लोका यथा विष्णौ तथा मयि।  
-स्रष्टा विष्णुरहं गोप्ता इत्येतद्विद्धिभामिनि ॥५३
+स्रष्टा विष्णुरहं गोप्ता इत्येतद्विद्धि भामिनि ॥५३
 
 तस्माद्यदा मां स्पृशति शुभं वा यदि वेतरत्।  
 तथैवेदं जगत् सर्वं तत्तद्भवति शोभने ॥५४
 
 एतद्गुह्यमजानन्त्या त्वया बाल्यादनिन्दिते।
 
-मन्नेत्रे पिहिते देवि क्रीडनार्थं धृतव्रते[^883]॥५५
+मन्नेत्रे पिहिते देवि क्रीडनार्थं धृतव्रते[^517]॥५५
 
-[^883]: # "क-घ-दृढ"
+[^517]: # "क-घ-दृढ"
 
 तत्कृते नष्टचन्द्रार्कं जगदासीद्भयाकुलम् ॥५५॥
 
@@ -9750,7 +9791,7 @@ The Presidency College,
 
 कथितं संशयस्थानं निर्विशङ्का भव प्रिये ॥५७
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि द्वादशाधिकशततमोऽध्यायः ॥ ११२ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि द्वादशाधिकशततमोऽध्यायः ॥ ११२ ॥  
 \[ अस्मिन्नध्याये ५७ श्लोकाः \]**
@@ -9759,20 +9800,18 @@ The Presidency College,
 
 **॥ त्रयोदशाधिकशततमोऽध्यायः ॥**
 
-** **
+** ** ईश्वरेण पार्वतीं प्रति स्वस्य चतुर्मुखस्य नीलकण्ठतायाः पिनाककार्मुकतायाः वृषभवाहत्वस्य च कारणाभिधानम् ॥
 
-ईश्वरेण पार्वतीं प्रति स्वस्य चतुर्मुखस्य नीलकण्ठतायाः पिनाककार्मुकतायाःवृषभवाहत्वस्य च कारणाभिधानम् ॥
-
-नारदः–
+**नारदः–**
 
 क्षणज्ञा देवदेवस्य श्रोतुकामा प्रियं हितम् ।  
 उमा देवी महादेवम् अपृच्छत् पुनरेव तु॥१
 
-उमा–
+**उमा–**
 
-भगवन् देवदेवेश सर्वदेवनमस्कृत[^408] ।
+भगवन् देवदेवेश सर्वदेवनमस्कृत[^518] ।
 
-[^408]: "क–लोक"
+[^518]: # "क–लोक"
 
 चतुर्मुखो वै भगवान् अभवत् केन हेतुना ॥२
 
@@ -9781,12 +9820,12 @@ The Presidency College,
 
 दक्षिणं च मुखं रौद्रं केनोर्ध्वं जटिलावृतम् ॥३॥
 
-यथादिशं महाभाग[^409] श्रोतुमिच्छामि कारणम्।  
+यथादिशं महाभाग[^519] श्रोतुमिच्छामि कारणम्।  
 एष मे संशयो देव तन्मे शंसितुमर्हसि ॥४
 
-[^409]: "क- ख- घ–देव"
+[^519]: # "क- ख- घ–देव"
 
-श्रीमहादेवः–
+**श्रीमहादेवः–**
 
 तदहं ते प्रवक्ष्यामि यत्त्वमिच्छसि भामिनि ॥५
 
@@ -9801,13 +9840,13 @@ The Presidency College,
 तिलोत्तमेति विख्याता अप्सरा हि बभूव ह ॥८
 
 देवकार्यं करिष्यन्ती हासभावसमन्विता।  
-सा[^410] तपस्यन्तमागम्य रूपेणाप्रतिमा भुवि ॥९
+सा[^520] तपस्यन्तमागम्य रूपेणाप्रतिमा भुवि ॥९
 
-[^410]: " ख-साधु पर्यन्त; घ-सा तु पश्यन्त"
+[^520]: # " ख-साधु पर्यन्त; घ-सा तु पश्यन्त"
 
 मया बहुमता चेयं देवकार्यं करिष्यति ॥९॥
 
-इति मत्वा तदा चाहंकुर्वन्तीं मां प्रदक्षिणम्।  
+इति मत्वा तदा चाहं कुर्वन्तीं मां प्रदक्षिणम्।  
 तथैव तां दिदृक्षुश्च चतुर्वक्रोऽभवं प्रिये ॥१०॥
 
 ऐन्द्रं मुखमिदं पूर्वं तपश्चर्यापरं सदा।  
@@ -9818,14 +9857,14 @@ The Presidency College,
 
 एतत्ते सर्वमाख्यातं किं भूयश्श्रोतुमिच्छसि ॥१३
 
-उमा–
+**उमा–**
 
 भगवञ् श्रोतुमिच्छामि शूलपाणे वरप्रद।  
-किमर्थं नीलता कण्ठे तव[^884] भाति महेश्वर ॥१४
+किमर्थं नीलता कण्ठे तव[^521] भाति महेश्वर ॥१४
 
-[^884]: # "ख– भाति बर्हिनिभा तव; घ-भाति तत्त्वं महेश्वर"
+[^521]: # "ख– भाति बर्हिनिभा तव; घ-भाति तत्त्वं महेश्वर"
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 एतत्ते कथयिष्यामि शृणु देवि समाहिता ॥१४॥
 
@@ -9843,18 +9882,18 @@ The Presidency College,
 
 एतत्ते सर्वमाख्यातं किं भूयश्श्रोतुमिच्छसि॥१९
 
-उमा–
+**उमा–**
 
 नीलकण्ठ नमस्तेऽस्तु सर्वलोकसुखावह।  
 बहूनामायुधानां त्वं पिनाकं धर्तुमिच्छसि ॥२०
 
 किमर्थं देवदेवेश तन्मे शंसितुमर्हसि ॥२०॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
-शस्त्रागमं[^411] ते वक्ष्यामि शृणु धर्म्यं शुचिस्मिते ॥२१
+शस्त्रागमं[^522] ते वक्ष्यामि शृणु धर्म्यं शुचिस्मिते ॥२१
 
-[^411]: "अ- क- घ -नास्तीदमर्धम्"
+[^522]: # "अ- क- घ -नास्तीदमर्धम्"
 
 युगान्तरे महादेवि कण्वो नाम महामुनिः।  
 स हि दिव्यां तपश्चर्यां कर्तुमेवोपचक्रमे ॥२२
@@ -9872,44 +9911,44 @@ The Presidency College,
 
 चिन्तयित्वा तमादाय कार्मुकार्थे न्ययोजयत् ॥२६
 
-विष्णोर्मम च सामर्थ्यंज्ञात्वा लोकपितामहः।  
-धनुषीद्वे तदा प्रादाद् विष्णवे मम चैव तु ॥२७
+विष्णोर्मम च सामर्थ्यं ज्ञात्वा लोकपितामहः।  
+धनुषी द्वे तदा प्रादाद् विष्णवे मम चैव तु ॥२७
 
 पिनाकं नाम मे चापं शार्ङ्गं नाम हरेर्धनुः।  
 तृतीयमवशेषेण गाण्डीवमभवद्धनुः ॥२८
 
-तच्च सोमाय निर्दिश्य ब्रह्मा लोकं[^412] गतः पुनः।  
+तच्च सोमाय निर्दिश्य ब्रह्मा लोकं[^523] गतः पुनः।  
 एतत्ते सर्वमाख्यातं शस्त्रागममनिन्दिते ॥२९
 
-[^412]: "ख- लोकान्तरं गतः"
+[^523]: # "ख- लोकान्तरं गतः"
 
-उमा–
+**उमा–**
 
 भगवन् देवदेवेश पिनाकपरमप्रिय \।  
 वाहनेषु तथाऽन्येषु सत्सु भूतपते तव ॥३०
 
-अयं तु वृषभःकस्माद् वाहनं स यथाऽभवत्।  
-एष[^413] मे संशयो देव तन्मे शंसितुमर्हसि ॥३१
+अयं तु वृषभः कस्माद् वाहनं स यथाऽभवत्।  
+एष[^524] मे संशयो देव तन्मे शंसितुमर्हसि ॥३१
 
-[^413]: " ख- अर्धद्वयं नास्ति"
+[^524]: # " ख- अर्धद्वयं नास्ति"
 
-श्रीमहादेवः–
+**श्रीमहादेवः–**
 
 तदहं ते प्रवक्ष्यामि वाहनं स यथाऽभवत् ॥३१॥
 
-आदिसर्गेपुरा गावश् श्वेतवर्णाश्शुचिस्मिते।  
+आदिसर्गे पुरा गावश् श्वेतवर्णाश्शुचिस्मिते।  
 बलसंहनना गावो दर्पयुक्ताश्चरन्ति ताः ॥३२॥
 
 अहं तु तप आतिष्ठं तस्मिन् काले शुभानने।
 
-एकपादश्चोर्ध्वबाहुर्लोकार्थं हिमवद्गिरौ ॥३३॥
+एकपादश्चोर्ध्वबाहुर् लोकार्थं हिमवद्गिरौ ॥३३॥
 
 गावो मे पार्श्वमागम्य दर्पोत्सित्तास्समन्ततः।  
 स्थानभ्रंशं तदा देवि चक्रिरे बहुशस्तदा ॥३४॥
 
-अपचारेण वै तासां मनः क्षोभोऽभवन्मम[^414] ॥३५॥
+अपचारेण वै तासां मनः क्षोभोऽभवन्मम[^525] ॥३५॥
 
-[^414]: "क– क्रोधो; घ– कोपो"
+[^525]: # "क– क्रोधो; घ– कोपो "
 
 तस्माद्दग्धा यदा गावो रोषाविष्टेन चेतसा ॥३६
 
@@ -9917,16 +9956,16 @@ The Presidency College,
 अनेन वृषभेणाहं शमितरसम्प्रसादनैः ॥३६॥
 
 तदाप्रभृति शान्ताश्च वर्णभेदत्वमागताः।  
-श्वेतोऽयं वृषभो देवि सर्वसंस्कारसंयुतः[^885] ॥३७॥
+श्वेतोऽयं वृषभो देवि सर्वसंस्कारसंयुतः[^526] ॥३७॥
 
-[^885]: # "अ– वर्ण"
+[^526]: # "अ– वर्ण"
 
 वाहनत्वे ध्वजत्वे मे तदाप्रभृति योजितः ॥३८
 
 तस्मान्मे गोपतित्वं च देवैर्गोभिश्च कल्पितम्।  
 प्रसन्नश्चाभवं देवि तदा गोपतितां गतः ॥३९
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि त्रयोदशाधिकशततमोऽध्यायः ॥ ११३ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि त्रयोदशाधिकशततमोऽध्यायः ॥ ११३ ॥  
 \[ अस्मिन्नध्याये ३९ श्लोकाः \]**
@@ -9937,27 +9976,27 @@ The Presidency College,
 
   ईश्वरेण पार्वतीं प्रति स्वस्य श्मशानवासचन्द्रकलाधारणादेः कारणाभिधानम् ॥
 
-उमा-
+**उमा-**
 
 भगवन् सर्वदेवेश शूलपाणे वृषध्वज।  
 आवासेषु विचित्रेषु रम्येषु च शुभेषु च ॥१
 
-सत्सु चान्येषु देशेषु[^886] श्मशाने रमसे कथम्॥१॥
+सत्सु चान्येषु देशेषु[^527] श्मशाने रमसे कथम्॥१॥
 
-[^886]: # " क-ख-घ–भूतेषु"
+[^527]: # " क-ख-घ–भूतेषु"
 
 केशास्थिकलिले भीमे कपालशतसङ्कले।  
-सृगालगृध्रसम्पूर्णेशवधूमसमाकुले ॥२॥
+सृगालगृध्रसम्पूर्णे शवधूमसमाकुले ॥२॥
 
 चिताग्निविषमे घोरे गहने च भयानके।  
 एवं कलेबरक्षेत्रे दुर्दर्शे रमसे कथम् ॥३॥
 
-एषमे संशयो देव तन्मे शंसितुमर्हसि ॥४
+एष मे संशयो देव तन्मे शंसितुमर्हसि ॥४
 
-श्रीमहादेवः–
+**श्रीमहादेवः–**
 
 हन्त ते कथयिष्यामि शृणु देवि समाहिता।  
-आवासार्थं पुरा देवि शुद्धान्वेषीशुचिस्मिते॥५
+आवासार्थं पुरा देवि शुद्धान्वेषी शुचिस्मिते॥५
 
 नाध्यगच्छं चिरं कालं देशं शुचितमं शुभे।  
 एष मेऽभिनिवेशोऽभूत् तस्मिन् काले प्रजापतिः ॥६
@@ -9978,16 +10017,16 @@ The Presidency College,
 तच्च प्राणिहितार्थं तु मयाऽप्यनुमतं प्रिये।  
 तस्मात् संरक्षिता देवि भूतेभ्यः प्राणिनो भयात् ॥११
 
-अस्माच्छ्मशानान्मेध्यंतु नास्ति किञ्चिदनिन्दिते।  
+अस्माच्छ्मशानान्मेध्यं तु नास्ति किञ्चिदनिन्दिते।  
 निस्सम्पातान्मनुष्याणां तस्माच्छुचितमं स्मृतम् ॥१२
 
-भूतसृष्टिं च तां चाहं श्मशाने संन्यवेशयम्।  
+भूतसृष्टिं च तां चाहं श्मशाने सन्न्यवेशयम्।  
 तत्रस्थस्सर्वभूतानां विनिहन्मि प्रिये भयम् ॥१३
 
-न च भूतगणेनाहम् अपि[^887] नाशितुमुत्सहे।  
+न च भूतगणेनाहम् अपि[^528] नाशितुमुत्सहे।  
 तस्मान्मे सन्निवासाय श्मशाने रोचते मनः ॥१४
 
-[^887]: # "ख–विना वासितुमुत्सहे"
+[^528]: # "ख–विना वासितुमुत्सहे"
 
 मेध्यकामैर्द्विजैर्नित्यं मेध्यमित्यभिधीयते।  
 आचरद्भिर्व्रतं रौद्रं मोक्षकामैश्च सेव्यते ॥१५
@@ -10006,7 +10045,7 @@ The Presidency College,
 
 एतत्ते सर्वमाख्यातं किं भूयश्रोतुमिच्छसि ॥१९॥
 
-उमा–
+**उमा–**
 
 भगवन् देवदेवेश त्रिनेत्र वृषभध्वज ।  
 पिङ्गलं विकृतं भाति रूपं ते तु भयानकम् ॥२०॥
@@ -10017,7 +10056,7 @@ The Presidency College,
 रौद्रं भयानकं घोरं शूलपट्टससंयुतम् ।  
 किमर्थं त्वीदृशं रूपं तन्मे शंसितुमर्हसि ॥२२॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 तदहं कथयिष्यामि शृणु तत्त्वं समाहिता।  
 द्विविधो लौकिको भावश् शीतमुष्णमिति प्रिये ॥ २३॥
@@ -10036,14 +10075,14 @@ The Presidency College,
 तस्मान्मयेदं ध्रियते रूपं लोकहितैषिणा।  
 इति ते कथितं देवि किं भूयश्श्रोतुमिच्छसि ॥२८
 
-उमा-
+**उमा-**
 
 भगवन् देवदेवेश शूलपाणे वृषध्वज।  
 किमर्थं चन्द्रलेखा ते शिरोभागे विरोचते ॥२९
 
 श्रोतुमिच्छाम्यहं देव तन्मे शंसितुमर्हसि ॥२९॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 तदहं ते प्रवक्ष्यामि शृणु कल्याणि कारणम्।  
 पुराऽहं कारणाद्देवि कोपयुक्तश्शुचिस्मिते ॥३०॥
@@ -10054,9 +10093,9 @@ The Presidency College,
 देवा विभ्रंशितास्ते वै येषां भागः क्रतौ कृतः ॥३२
 
 सोमस्तत्र मया देवि कुपितेन भृशार्दितः।  
-पश्यंञ्चानपराधी सन् पादाङ्गुष्ठेन ताडितः ॥३३
+पश्यञ्ञ्चानपराधी सन् पादाङ्गुष्ठेन ताडितः ॥३३
 
-तथा विनिकृतेनाहं सामपूर्वंप्रसादितः।  
+तथा विनिकृतेनाहं सामपूर्वं प्रसादितः।  
 तन्मे चिन्तयतश्चासीत् पश्चात्तापः पुरा प्रिये ॥३४
 
 तदाप्रभृति सोमं हि शिरसा धारयाम्यहम्।  
@@ -10064,20 +10103,20 @@ The Presidency College,
 
 तदाप्रभृति वै सोमो मूर्ध्नि सन्दृश्यते सदा ॥३५॥
 
-नारदः–
+**नारदः–**
 
 एवं ब्रुवति देवेशे विस्मिताः परमर्षयः।  
 वाग्भिस्साञ्जलिमालाभिर् अभितुष्टुवुरीश्वरम् ॥३६॥
 
-ऋषयः–
+**ऋषयः–**
 
 नमश्शङ्कर सर्वेश नमस्सर्वजगद्गुरो।  
 नमो देवादिदेवाय नमश्शशिकलाधर॥३७॥
 
-नमो घोरतराद्धोर[^888] नमो रुद्राय शङ्कर।  
+नमो घोरतराद्धोर[^529] नमो रुद्राय शङ्कर।  
 नमश्शान्ततराच्छान्त नमश्चन्द्रस्य पालक॥३८॥
 
-[^888]: # "अ-घोराद् घोरतर"
+[^529]: # "अ-घोराद् घोरतर"
 
 नमस्सोमाय देवाय नमस्तुभ्यं चतुर्मुख।  
 नमो भूतपते शम्भो जह्नुकन्याम्बुशेखर॥३९॥
@@ -10091,12 +10130,12 @@ The Presidency College,
 
 एवं धर्मपरत्वं च देवदेवस्य चार्हति ॥४२
 
-नारदः–
+**नारदः–**
 
-एवं ब्रुवत्सु मुनिषुवचो देव्यब्रवीद्धरम्।  
+एवं ब्रुवत्सु मुनिषु वचो देव्यब्रवीद्धरम्।  
 सम्प्रीत्यर्थं मुनीनां सा क्षणज्ञा परमं हितम् ॥४३
 
-उमा–
+**उमा–**
 
 भगवन् देवदेवेश सर्वलोकनमस्कृत।  
 अस्य वै ऋषिसङ्घस्य मम च प्रियकाम्यया ॥४४
@@ -10109,18 +10148,18 @@ The Presidency College,
 
 याथातथ्येन तत् सर्वं वक्तुमर्हसि शङ्कर ॥४६॥
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चतुर्दशाधिकशततमोऽध्यायः ॥ ११४ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि चतुर्दशाधिकशततमोऽध्यायः ॥ ११४ ॥  
 \[ अस्मिन्नध्याये ४६ ॥ श्लोकाः \]**
 
-———
+**———**
 
 **॥ पञ्चदशाधिकशततमोऽध्यायः ॥**
 
   ईश्वरेण पार्वतीं प्रति वर्णाश्रमधर्मकथनम् ॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 एतत्ते कथयिष्यामि यत्ते देवि मनःप्रियम्।  
 शृणु तत् सर्वमखिलं धर्मं वर्णाश्रमाश्रितम्॥१
@@ -10145,15 +10184,15 @@ The Presidency College,
 ते कैश्चिन्नावमन्तव्या ब्राह्मणा हितमिच्छुभिः ॥७
 
 यदि ते ब्राह्मणा न स्युर् दानयोगवहास्सदा।  
-उभयोर्लोकयोर्देवि स्थितिर्न[^415] स्यात् समासतः ॥८
+उभयोर्लोकयोर्देवि स्थितिर्न[^530] स्यात् समासतः ॥८
 
-[^415]: "ख-भूतिर्न स्यात् समासतः"
+[^530]: # "ख- भूतिर्न स्यात् समासतः"
 
 लोकेषु दुर्लभं किन्तु ब्राह्मणत्वमिति स्मृतम्।  
 अबुधो वा दरिद्रो वा पूजनीयस्सदैव सः ॥९
 
 ब्राह्मणान् योऽवमन्येत निन्देच्च क्रोधयेच्च वा।  
-प्रहरेत हरेद्वाऽपिधनं तेषां नराधमः ॥१०
+प्रहरेत हरेद्वाऽपि धनं तेषां नराधमः ॥१०
 
 कारयेद्धीनकर्माणि कामलोभविमोहनात्।  
 स च मामवमन्येत मां क्रोधयति निन्दति ॥११
@@ -10169,10 +10208,10 @@ The Presidency College,
 विक्रयो रसधान्यानां ब्राह्मणस्य विगर्हितः।  
 अनापदि च शूद्रान्नं वृषलीसङ्ग्रहस्तथा ॥१४॥
 
-तप एव सदा धर्मोब्राह्मणस्य[^416] न संशयः।  
+तप एव सदा धर्मो ब्राह्मणस्य[^531] न संशयः।  
 स तु धर्मार्थमुत्पन्नः पूर्वं धात्रा तपोबलात्॥१५॥
 
-[^416]: "ख- इतः षट् पादा न सन्ति"
+[^531]: # "ख- इतः षट् पादा न सन्ति"
 
 तस्योपनयनं धर्मो नित्यं चोदकधारणम्।  
 शास्त्रस्य श्रवणं धर्मो वेदव्रतनिषेवणम् ॥१६॥
@@ -10234,12 +10273,12 @@ The Presidency College,
 शूद्राश्च यदि ते न स्युः कर्मकर्ता न विद्यते ॥३५
 
 त्रयः पूर्वे शूद्रमूलास् सर्वे कर्मकरास्स्मृताः।  
-ब्राह्मणादिषुशुश्रूषादासधर्म इति स्मृतः ॥३६
+ब्राह्मणादिषु शुश्रूषा दासधर्म इति स्मृतः ॥३६
 
 वार्ता च कारुकर्माणि शिल्पं नाट्यं तथैव च।  
 अहिंसकश्शुभाचारो दैवतद्विजवन्दकः॥३७
 
-शुद्रो धर्मफलैरिष्टैस्स्वधर्मेणोपयुज्यते।  
+शुद्रो धर्मफलैरिष्टैस् स्वधर्मेणोपयुज्यते।  
 एवमादि तथाऽन्यच्च शुद्रधधर्म इति स्मृतः ॥३८
 
 तेऽप्येवं विहिता लोके कर्मयोगाच्छुभानने।  
@@ -10250,24 +10289,24 @@ The Presidency College,
 एष वर्णाश्रयो धर्मः कर्म चैव तदर्पणम्।  
 कथितं श्रोतुकामायाः किं भूयश्श्रोतुमिच्छसि ॥४०॥
 
-उमा–
+**उमा–**
 
 भगवन् देवदेवेश नमस्ते वृषभध्वज।  
 श्रोतुमिच्छाम्यहं देव धर्ममाश्रमणां विभो ॥४१॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 तथाऽऽश्रमगतं धर्मं शृणु देवि समाहिता।  
 आश्रमाणां तु यो धर्मः क्रियते ब्रह्मवादिभिः ॥४२
 
-गृहस्थः प्रवरस्तेषांगार्हस्थ्यं धर्ममाश्रितः।  
-पञ्चयज्ञक्रियाशौचं दारतुष्टिरतन्द्रिता॥४३॥
+गृहस्थः प्रवरस्तेषां गार्हस्थ्यं धर्ममाश्रितः।  
+पञ्चयज्ञक्रियाशौचं दारतुष्टिरतन्द्रिता ॥४३॥
 
-ऋतुकालाभिगमनं दानयज्ञतपांसिच।  
+ऋतुकालाभिगमनं दानयज्ञतपांसि च।  
 अविप्रवासस्तस्येष्टस् स्वाध्यायश्चाग्निपूर्वकम् ॥४४॥  
 
-अतिथीनामाभिमुख्यं शक्त्त्याचेष्टनिमन्त्रणम्।  
-अनुग्रहश्च सर्वेषांमनोवाक्कायकर्मभिः ॥४५॥
+अतिथीनामाभिमुख्यं शक्त्त्या चेष्टनिमन्त्रणम्।  
+अनुग्रहश्च सर्वेषां मनोवाक्कायकर्मभिः ॥४५॥
 
 एवमादि शुभं चान्यत् कुर्यात्तद्वृत्तवान् गृही।  
 एवं सञ्चरतस्तस्य पुण्यलोका न संशयः ॥४६॥
@@ -10275,7 +10314,7 @@ The Presidency College,
 तथैव वानप्रस्थस्य धर्माः प्रोक्तारसनातनाः ॥४७
 
 गृहवासं समुत्सृज्य निश्चित्यैकमनाश्शुभैः।  
-वन्यैरेव सदाहारैर् वर्तयेदिति चस्थितिः ॥४८
+वन्यैरेव सदाहारैर् वर्तयेदिति च स्थितिः ॥४८
 
 भूमिशय्या जटा श्मश्रु चर्म वल्कलधारणम्।  
 देवतातिथिसत्कारो महाकृच्छ्राभिपूजनम् ॥४९
@@ -10285,20 +10324,20 @@ The Presidency College,
 
 एवं स विगते प्राणे देवलोके महीयते ॥५०॥
 
-यतिधर्मास्तथा देवि गृहांस्त्यक्त्वा[^417] यतस्ततः।  
+यतिधर्मास्तथा देवि गृहांस्त्यक्त्वा[^532] यतस्ततः।  
 आकिञ्चन्यमनारम्भस् सर्वतश्शौचमार्जवम् ॥५१॥
 
-[^417]: "ख–सङ्गांस्त्यक्त्वा यतिस्ततः"
+[^532]: # "ख–सङ्गांस्त्यक्त्वा यतिस्ततः"
 
 सर्वत्र भैक्षचर्या च सर्वत्रैव विवासनम् ।  
 सदा ध्यानपरत्वं च दोषशुद्धिः क्षमा दया ॥५२॥
 
 तत्त्वानुगतबुद्धित्वं तस्य धर्मविधिर्भवेत् ॥५३
 
-ब्रह्मचारी च यो देवि जन्मप्रभृति दीक्षितः[^418] ।  
+ब्रह्मचारी च यो देवि जन्मप्रभृति दीक्षितः[^533] ।  
 ब्रह्मचर्यपरो भूत्वा साधयेद्गुरुमात्मनः ॥५४
 
-[^418]: "अ -भिक्षितः"
+[^533]: # "अ -भिक्षितः"
 
 सर्वकालेषु सर्वत्र गुरुपूजां समाचरेत् ॥५४॥
 
@@ -10308,13 +10347,13 @@ The Presidency College,
 तस्य चेष्टा तु गुर्वर्थम् आप्राणान्तमिति स्थितिः ।  
 गुरोरभावे तत्पुत्रे गुरुबद्वृत्तिमाचरेत् ॥५६॥
 
-एवं सोऽप्यमलाल्ँलोकान् ब्राह्मणः प्रतिपद्यते ।  
+एवं सोऽप्यमलाल्ँ लोकान् ब्राह्मणः प्रतिपद्यते ।  
 एष मे कथितो देवि धर्मश्राश्रमवासिनाम् ॥५७॥
 
 चतुर्णामाश्रमोयुक्तो लोक इत्येव विद्यते ।  
 कथितं ते समासेन किं भूयश्रोतुमिच्छसि ॥५८॥
 
-**इति श्रीमहाभारते शतसहस्त्रिकायांसंहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चदशाधिकशततमोऽध्यायः ॥ ११५ ॥  
 ॥ ८९ \।\। आनुशासनिकपर्वणि पञ्चदशाधिकशततमोऽध्यायः ॥ ११५ ॥  
 \[ अस्मिन्नध्याये ५८ ॥ श्लोकाः \]**
@@ -10325,7 +10364,7 @@ The Presidency College,
 
   ईश्वरेण पार्वतीं प्रति ऋषिधर्मकथनम् ॥
 
-उमा–
+**उमा–**
 
 भगवन् देवदेवेश त्रिपुरान्तक शङ्कर ।  
 अयं त्वृषिगणो देव तपस्तप इति प्रभो ॥१
@@ -10335,28 +10374,28 @@ The Presidency College,
 
 एतदिच्छाम्यहं श्रोतुं तन्मे वद वरप्रद ॥२॥
 
-नारदः–
+**नारदः–**
 
 एवं ब्रुवन्त्यां रुद्राण्याम् ऋषयस्साधु साध्विति ।  
 अब्रुवन् हृष्टमनसस् सर्वे तद्गतमानसाः ॥२॥
 
 शृण्वन्तीसृषिधर्मांस्तु ऋषयश्चाभ्यपूजयन् ॥३॥
 
-ॠषयः–
+**ॠषयः–**
 
-त्वत्प्रसादाद्वयं[^143] देवि श्रोष्यामः परमं हितम् ।  
+त्वत्प्रसादाद्वयं[^180] देवि श्रोष्यामः परमं हितम् ।  
 धन्याः खलु वयं सर्वे पादमूलमुपाश्रिताः ॥४
 
-नारदः–
+**नारदः–**
 
 इति सर्वे तदा देवीं वाचा समभिपूजयन् ॥५॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 न्यायतस्त्वं महाभागे श्रोतुकामा मनस्विनि।  
 हन्त ते कथयिष्यामि मुनिधर्मं शुचिस्मिते ॥६॥
 
-वानप्रस्थं समाश्रित्य क्रियते बहुधानरैः।  
+वानप्रस्थं समाश्रित्य क्रियते बहुधा नरैः।  
 बहुशाखो बहुविधो ऋषिधर्मस्सनातनः ॥७॥
 
 प्रायशत्सर्वभोगार्थम् ऋषिभिः क्रियते तपः।  
@@ -10381,9 +10420,9 @@ The Presidency College,
 काले शौचं च कार्यं च जटावल्कलधारणम् ॥१४॥
 
 सततं वनचर्या च समित्कुसुमकारणात्।  
-नीवाराग्रयणं[^889] काले शाकमूलोपचायनम् ॥१५॥
+नीवाराग्रयणं[^535] काले शाकमूलोपचायनम् ॥१५॥
 
-[^889]: # "ख– निवाताश्रयणं"
+[^535]: # "ख– निवाताश्रयणं"
 
 सदायतनशौचं च तस्य धर्माय चेप्यते।  
 अतिथीनामाभिमुख्यं तत्परत्वं च सर्वदा ॥१६॥
@@ -10404,17 +10443,17 @@ The Presidency College,
 वदैव सोऽभिजयति स्वर्गलोकं शुचिस्मिते ॥२१ ॥
 
 तत्र संविदिता भोगास् स्वर्गस्त्रीभिरनिन्दिते।  
-परिभ्रष्टो यथा स्वर्गाद् विशिष्टस्तु भवेन्नृषु॥२२॥
+परिभ्रष्टो यथा स्वर्गाद् विशिष्टस्तु भवेन्नृषु ॥२२॥
 
 एवं धर्मस्तथा देवि सर्वेषां वनवासिनाम्।  
 एतत्ते कथितं सर्वं किं भूयश्रोतुमिच्छसि ॥२३॥
 
-उमा–
+**उमा–**
 
 भगवन् देवदेवेश ऋषीणां चरितं शुभम्।  
 विशेषधर्मानिच्छामि श्रोतुं कौतूहलं हि मे ॥२४॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 तदहं ते प्रवक्ष्यामि शृणु देवि समाहिता ॥२५
 
@@ -10443,12 +10482,12 @@ The Presidency College,
 भगवन् सर्वलोकेश तेषु ये दारसंयुताः ।  
 कीदृशं चरितं तेषां तन्मे शंसितुमर्हसि ॥३२॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
-य[^890] एकपत्नीधर्माणश् चरन्ति विपुलं तपः ।  
+य[^536] एकपत्नीधर्माणश् चरन्ति विपुलं तपः ।  
 विन्ध्यपादेषु ये केचिद् ये च नैमिशवासिनः ॥३३॥
 
-[^890]: # "ख– अर्धचतुष्टयं नास्ति"
+[^536]: # "ख– अर्धचतुष्टयं नास्ति"
 
 पुष्करेषु च ये चान्ये नदीवनसमाश्रिताः ।  
 सर्वे ते विधिदृष्टेन चरन्ति विपुलं तपः ॥३४॥
@@ -10463,34 +10502,32 @@ The Presidency College,
 तेषां परिच्छदारम्भाः कृतोपकरणानि च ॥३७॥
 
 गृहस्थवद्द्विधीयन्ते यथायोगं प्रमाणतः ।  
-पोषणार्थंस्वदाराणाम् अग्निकार्यार्थमेव च ॥३८॥
+पोषणार्थं स्वदाराणाम् अग्निकार्यार्थमेव च ॥३८॥
 
 गावश्च कर्षणं चैव सर्वमेतद्विधीयते ॥३९
 
 एवं वनगतैर्देवि कर्तव्यं दारसङ्ग्रहैः ।
 
-ते स्वदारैस्समायान्ति पुण्याल्ँलोकान् दृढव्रताः ॥४०
+ते स्वदारैस्समायान्ति पुण्याल्ँ लोकान् दृढव्रताः ॥४०
 
 पतिभिस्सह ये दाराश् चरन्ति विपुलं तपः  
-अव्यग्रभावादैकाग्र्यात् ताश्च गच्छन्ति वै दिवम्॥४१
+अव्यग्रभावादैकाग्र्यात् ताश्च गच्छन्ति वै दिवम् ॥४१
 
-एतत् ते कथितं देवि किं भूयश्श्रोतुमिच्छसि[^420]॥४१॥
+एतत् ते कथितं देवि किं भूयश्श्रोतुमिच्छसि[^15] ॥४१॥
 
-[^420]: "सर्वेषुकोशेषुअत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-उमा–
+**उमा–**
 
 भगवन् देवदेवेश तेषां कर्मफलं प्रभो।  
 श्रोतुमिच्छाम्यहं देव प्रसादात्ते वरप्रद ॥४२॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 वानप्रस्थगतं सर्वं फलपाकं शृणु प्रिये ॥४३
 
 अग्नियोगं व्रजन् ग्रीष्मे ततो द्वादशवार्षिकम्।  
-काष्ठवन्मौनमास्थाय[^421] नरो द्वादशवार्षिकम् ॥४४
+काष्ठवन्मौनमास्थाय[^538] नरो द्वादशवार्षिकम् ॥४४
 
-[^421]: "अ– अर्धद्वयं नास्ति"
+[^538]: # "अ– अर्धद्वयं नास्ति"
 
 मरुतां लोकमास्थाय तत्र भोगैश्च युज्यते ॥४४॥
 
@@ -10500,14 +10537,14 @@ The Presidency College,
 वर्षाणां भोगसंयुक्तो नरो द्वादशवर्षिकम्।  
 वीरासनगतो यस्तु कण्टकाफलकाश्रितः ॥४६॥
 
-गन्धर्वेष्वभिजायेत नरो[^422] द्वादशवार्षिकम् ॥४७
+गन्धर्वेष्वभिजायेत नरो[^539] द्वादशवार्षिकम् ॥४७
 
-[^422]: "ख–सहस्राणि चतुर्दश"
+[^539]: # "ख–सहस्राणि चतुर्दश"
 
-वीरस्थायी चोर्ध्वबाहुर्नरो द्वादशवार्षिकम्।  
+वीरस्थायी चोर्ध्वबाहुर् नरो द्वादशवार्षिकम्।  
 देवलोकेऽभिजायेत दिव्यभोगसमन्वितः ॥४८
 
-पादाङ्गुष्ठेनयस्तिष्ठेद् ऊर्ध्वबाहुर्जितेन्द्रियः।  
+पादाङ्गुष्ठेन यस्तिष्ठेद् ऊर्ध्वबाहुर्जितेन्द्रियः।  
 इन्द्रलोकेऽभिजायेत सहस्राणि चतुर्दश ॥४९
 
 आहारनियमं कृत्वा मुनिर्द्वादशवार्षिकम्।  
@@ -10521,19 +10558,19 @@ The Presidency College,
 
 एतत्ते कथितं देवि किं भूयश्रोतुमिच्छसि ॥५२॥
 
-उमा–
+**उमा–**
 
 एषां यायावराणां तु धर्ममिच्छामि मानद।  
 कृपया परयाऽऽविष्टस् तन्मे ब्रूहि महेश्वर ॥५३॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 धर्मं यायावराणां त्वं शृणु भामिनि तत्परा ॥५४
 
 व्रतोपवासशुद्धाङ्गास् तीर्थस्नानपरायणाः।  
-धृतिमन्तः[^423] क्षमायुक्तास् सत्यव्रतपरायणाः ॥५५
+धृतिमन्तः[^540] क्षमायुक्तास् सत्यव्रतपरायणाः ॥५५
 
-[^423]: "अ-क-घ- नास्तीदमर्धम्"
+[^540]: # "अ-क-घ- नास्तीदमर्धम्"
 
 पक्षमासोपवासैश्च कर्शिता धर्मदर्शिनः।  
 वर्षैश्शीतातषैरेव कुर्वन्तः परमं तपः॥५६
@@ -10546,11 +10583,11 @@ The Presidency College,
 
 एतत्ते कथितं देवि किं भूयश्रोतुमिच्छसि ॥५८॥
 
-उमा–
+**उमा–**
 
 तेषां चक्रचराणां च धर्ममिच्छामि वै प्रभो ॥५९
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 एतत्ते कथयिष्यामि शृणु शाकटिकं शुभे ॥५९॥
 
@@ -10565,11 +10602,11 @@ The Presidency College,
 
 एतत्ते कथितं देवि किं भूयश्श्रोतुमिच्छसि ॥
 
-उमा–
+**उमा–**
 
 वैखानसानां वै धर्मं श्रोतुमिच्छाम्यहं प्रभो ॥६३॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 ते वै वैखानसा नाम वानप्रस्थाश्शुभेक्षणे।  
 तीव्रेण तपसा युक्ता दीप्तिमन्तरस्वतेजसा ॥६४॥
@@ -10582,15 +10619,15 @@ The Presidency College,
 कपोतवृत्तयश्चान्ये कापोतीं वृत्तिमास्थिताः।  
 पशुप्रचारनिरताः फेनपाश्च तथा परे ॥६७
 
-मृगवन्मृगचर्यायां[^83] सञ्चरन्ति तथा परे।  
+मृगवन्मृगचर्यायां[^111] सञ्चरन्ति तथा परे।  
 अब्भक्षा वायुभक्षाश्च निराहारास्तथैव च ॥६८
 
 केचिच्चरन्ति सद्विष्णोः पादपूजनमुत्तमम्।  
 सञ्चरन्ति तपो घोरं व्याधिमृत्युविवर्जिताः ॥६९
 
-स्ववशादेव ते मृत्युं भीषयन्ति[^891] च नित्यशः ॥६९॥
+स्ववशादेव ते मृत्युं भीषयन्ति[^542] च नित्यशः ॥६९॥
 
-[^891]: # "ख– अभिकाङ्क्षन्ति नित्यशः"
+[^542]: # "ख– अभिकाङ्क्षन्ति नित्यशः"
 
 इन्द्रलोके तथा तेषां निर्मिता भोगसञ्चयाः।  
 अमरैस्समतां यान्ति देववद्भोगसंयुताः ॥७०॥
@@ -10598,19 +10635,19 @@ The Presidency College,
 वराप्सरोमिस्संयुक्ताश् चिरकालमनिन्दिते ।  
 एतत्ते कथितं देवि भूयश्श्रोतुं किमिच्छसि॥७१॥
 
-उमा–
+**उमा–**
 
 भगवञ् श्रोतुमिच्छामि वालखिल्यांस्तपोधनान् ॥७२
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
-धर्मचर्यांतथा देवि वालखिल्यगतां शृणु ॥७२॥
+धर्मचर्यां तथा देवि वालखिल्यगतां शृणु ॥७२॥
 
 मृगनिर्मोकवसना निर्द्वन्द्वास्ते तपोधनाः ।  
 अङ्गुष्टमात्रास्सुश्रोणि तेष्वेवाङ्गेषु संयुताः ॥७३॥
 
 उद्यन्तं सततं सूर्यं स्तुवन्तो विविधैरस्तवैः \।  
-भास्करस्येव किरणैस् सहसा यान्ति नित्यदा॥७४॥
+भास्करस्येव किरणैस् सहसा यान्ति नित्यदा ॥७४॥
 
 द्योतयन्तो दिशस्सर्वा धर्मज्ञास्सत्यवादिनः ॥७५
 
@@ -10628,15 +10665,15 @@ The Presidency College,
 
 एतत् सर्वं समासेन तपोयोगाद्विनिर्मितम् ॥
 
-तस्मादयंत्वृषिगणस् तपस्तप इति प्रिये ।  
+तस्मादयं त्वृषिगणस् तपस्तप इति प्रिये ।  
 प्रियार्थमृषिसङ्घस्य प्रजानां हितकाम्यया ॥८०॥
 
-नारदः–
+**नारदः–**
 
 एवं ब्रुवन्तं देवेशम् ऋषयश्चापि तुष्टुवुः ।  
 भूयः परतरं यत्तु तदाप्रभृति चक्रिरे ॥८१॥
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पोडशाधिकशततमोऽध्यायः ॥ ११६ ॥  
 \।\। ८९ ॥ आनुशासनिक पर्वणि पौडशाधिकशततमोऽध्यायः ॥ ११६ ॥  
 । अस्मिन्नध्याये ८१॥ लोकाः \]।**
@@ -10647,14 +10684,14 @@ The Presidency College,
 
   महेश्वरेण पार्वतीं प्रति निवृत्तिवर्मफलकथनम् ॥ १ ॥ तथा गार्हस्थ्यप्रशंसनपूर्वकं तद्धर्मफलादिकथनम् ॥ २ ॥
 
-उमा–
+**उमा–**
 
 उक्तस्त्वया त्रिवर्गस्य धर्मः परमकश्शुभः।  
 सर्वव्यापी तु यो धर्मो भगवंस्तं ब्रवीतु मे ॥१
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
-ब्रह्मणा[^47] लोकसंसारे सृष्टा धात्रा गुणार्थिना ।
+ब्रह्मणा[^64] लोकसंसारे सृष्टा धात्रा गुणार्थिना ।
 
 लोकांस्तारयितुं युक्ता मर्त्येषु क्षितिदेवताः॥२
 
@@ -10690,7 +10727,7 @@ The Presidency College,
 चक्षुश्श्रोत्रमनोजिह्वासिग्धवर्णप्रदस्तदा ।  
 अतिथ्यभ्यागतरतश् शेषान्नकृतभोजनः ॥१२॥
 
-पाद्यमर्घ्यंयथान्यायम् आसनं शयनं तथा ।  
+पाद्यमर्घ्यं यथान्यायम् आसनं शयनं तथा ।  
 दीपं प्रतिश्रयं चैव यो ददाति स धार्मिकः ॥१३॥
 
 प्रातरुत्थाय वै पश्चाद् भोजने तु निमन्त्रयेत् ।  
@@ -10718,12 +10755,12 @@ The Presidency College,
 यस्तं सम्भावयेत् तत्र व्यासोऽयं समुपस्थितः ॥२१
 
 तस्य पूजां यथाशक्त्या सौम्यचित्तः प्रयोजयेत्।  
-चित्तमूलो[^426]भवेद्धर्मो धर्ममूलं भवेद्यशः ॥२२
+चित्तमूलो[^544] भवेद्धर्मो धर्ममूलं भवेद्यशः ॥२२
 
-[^426]: "क- ख-घ–वित्त"
+[^544]: # "क- ख-घ–वित्त"
 
 तस्मात् सौम्येन चित्तेन दातव्यं देवि सर्वथा।  
-सौम्यचित्तस्तु यो दद्यात् तद्धि दानमनुत्तमम्॥२३
+सौम्यचित्तस्तु यो दद्यात् तद्धि दानमनुत्तमम् ॥२३
 
 यथाऽम्बुबिन्दुभिस्सूक्ष्मैः पतद्भिर्मेदिनीतले।  
 केदाराश्च तटाकानि सरांसि सरितस्तथा ॥२४
@@ -10731,10 +10768,10 @@ The Presidency College,
 तोयपूर्णानि दृश्यन्ते अप्रतर्क्याणि शोभने।  
 अल्पमल्पमपि ह्येकं दीयमानं विवर्धते ॥२५
 
-पीडयाऽपि च भृत्यानां[^427] दानमेव विशिष्यते।  
+पीडयाऽपि च भृत्यानां[^545] दानमेव विशिष्यते।  
 पुत्रदारधनं धान्यं न मृताननुगच्छति ॥२६
 
-[^427]: "ख–भूतानां"
+[^545]: # "ख–भूतानां"
 
 श्रेयो दानं च भोगश्च धनं प्राप्य यशस्विनि।  
 दानेन हि महाभागा भवन्ति मनुजाधिपाः ॥२७
@@ -10751,7 +10788,7 @@ The Presidency College,
 सम्यक्तपश्चरन्तीह श्रद्दधाना वनाश्रमे ।  
 गृहाश्रमस्य ते देवि कलां नार्हन्ति षोडशीम् ॥३०॥
 
-उमा–
+**उमा–**
 
 गृहाश्रमस्य या चर्या व्रतानि नियमाश्च ये ।  
 तथा च देवताः पूज्यास् सततं गृहमेधिना ॥३१॥
@@ -10759,7 +10796,7 @@ The Presidency College,
 यद्यच्च परिहर्तव्यं गृहिणा तिथिपर्वसु ।  
 तत् सर्वं श्रोतुमिच्छामि कथ्यमानं त्वया विभो ॥ ३२॥।
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 गृहाश्रमस्य यन्मूलं फलं धर्मोऽयमुत्तमः ।  
 पादैश्चतुर्भिस्सततं धर्मो यत्र प्रतिष्ठितः ॥३३॥
@@ -10773,12 +10810,12 @@ The Presidency College,
 तेषु तेषु च प्रीणन्ति देवा इन्द्रपुरोगमाः ।  
 पितरः पितृलोकस्थास् स्वधर्मेण स रज्यते ॥३६॥
 
-उमा–
+**उमा–**
 
 मातापितृवियुक्तानां का चर्या गृहमेधिनाम्।  
 विधवानां च नारीणां भवानेतद् ब्रवीतु मे ॥३७॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 देवतातिथिशुश्रूषा गुरुवृद्धाभिवादनम्।  
 अहिंसा सर्वभूतानाम् अलोभस्सत्यसन्धता ॥३८॥
@@ -10795,9 +10832,9 @@ The Presidency College,
 चतुर्दशे पञ्चदशे ब्रह्मचारी सदा भवेत् ॥४२
 
 श्मश्रुकर्म शिरोभ्यङ्गम् अञ्जनं दन्तधावनम्।  
-नैतेष्वहस्सु कुर्वीत तेषु[^428] लक्ष्मीःप्रतिष्ठिता ॥४३
+नैतेष्वहस्सु कुर्वीत तेषु[^546] लक्ष्मीः प्रतिष्ठिता ॥४३
 
-[^428]: "क-घ-तेष्वल"
+[^546]: # "क-घ-तेष्वल"
 
 व्रतोपवासनियमस् तपो दानं च शक्तितः।  
 भरणं भृत्यवर्गस्य दीनानामनुकम्पनम् ॥४४
@@ -10818,19 +10855,19 @@ The Presidency College,
 तथा गृहाश्रमं प्राप्य सर्वे जीवन्ति चाश्रमाः ॥४८॥
 
 राजानस्सर्वपाषण्डास् सर्वे रङ्गोपजीविनः।  
-व्यालग्रहाश्चडम्भाश्च चोरा राजभटास्तथा ॥४९॥
+व्यालग्रहाश्च डम्भाश्च चोरा राजभटास्तथा ॥४९॥
 
-सविद्यास्सर्वशीलज्ञास्[^429] सर्वे वै विचिकित्सकाः।  
-दूरध्वानं प्रपन्नाश्चक्षीणपथ्योदना नराः ॥५०॥
+सविद्यास्सर्वशीलज्ञास्[^547] सर्वे वै विचिकित्सकाः।  
+दूरध्वानं प्रपन्नाश्च क्षीणपथ्योदना नराः ॥५०॥
 
-[^429]: "ख–जीव"
+[^547]: # "ख–जीव"
 
 एते चान्ये च बहवस् तर्कयन्ति गृहाश्रमम् ॥५१
 
 मार्जारा मूषिकाश्श्वानस् सूकराश्च शुकास्तथा।  
-कपोतकाः[^430] कर्कटकास् सरीसृपनिषेवणाः ॥५२
+कपोतकाः[^548] कर्कटकास् सरीसृपनिषेवणाः ॥५२
 
-[^430]: "ख – कपोतकाकवटकाः"
+[^548]: # "ख – कपोतकाकवटकाः"
 
 अरण्यवासिनश्चान्ये सङ्घा ये मृगपक्षिणाम्।  
 एवं बहुविधा देवि लोकेऽस्मिन् सचराचराः ॥५३
@@ -10862,7 +10899,7 @@ The Presidency College,
 
 एष मोक्षविदां धर्मो वेदोक्तस्सत्पथे स्थितः ॥६१
 
-**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि सप्तदशाधिकशततमोऽध्यायः ॥ ११७ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि सप्तदशाधिकशततमोऽध्यायः ॥ ११७ ॥  
 \[ अस्मिन्नध्याये ६१ लोकाः\]**
@@ -10873,7 +10910,7 @@ The Presidency College,
 
   महेश्वरेण पार्वतीं प्रति विस्तरेण राजधर्मकथनम् ॥
 
-उमा–
+**उमा–**
 
 देवदेव नमस्तुभ्यं त्रियक्ष वृषभध्वज ।  
 श्रुतं मे भगवन् सर्वं त्वत्प्रसादान्महेश्वर ॥१
@@ -10889,7 +10926,7 @@ The Presidency College,
 
 राजवृत्तमहं तस्माच् छ्रोतुमिच्छामि मानद॥४॥
 
-श्रीमहेश्वरः–
+**श्रीमहेश्वरः–**
 
 तदहं ते प्रवक्ष्यामि राजधर्मं शुभानने ॥५
 
@@ -10899,10 +10936,10 @@ The Presidency College,
 तपोदानमयं राज्यं परं स्थानं विधीयते ।  
 तस्माद्राज्ञस्सदा मर्त्याः प्रणमन्ति यतस्ततः ॥७
 
-न्यायतस्त्वं महाभागे श्रोतुमिच्छसि[^431] भामिनि ।  
-तस्मात्तस्यैव चरितं जगत्पथ्यंशृणु प्रिये ॥८
+न्यायतस्त्वं महाभागे श्रोतुमिच्छसि[^549] भामिनि ।  
+तस्मात्तस्यैव चरितं जगत्पथ्यं शृणु प्रिये ॥८
 
-[^431]: "क-घ– कामाऽसि"
+[^549]: # "क- घ– कामाऽसि"
 
 अराजके पुरा त्वासीत् प्रजानां सङ्कलं महत् ।  
 तद्दृष्ट्वा सङ्कलं ब्रह्मा मनुं राज्ये न्यवेशयत् ॥९
@@ -10916,37 +10953,37 @@ The Presidency College,
 राज्यधर्ममनुष्टाय विधिवद्भोक्तुमर्हति ॥११ ॥
 
 आत्मानमेव प्रथमं विनयैरुपपादयेत् ।  
-अनु भृत्यान् प्रजाः पश्चाद्इत्येष विनयक्रमः ॥१२॥
+अनु भृत्यान् प्रजाः पश्चाद् इत्येष विनयक्रमः ॥१२॥
 
 स्वामिनं चोपमां कृत्वा प्रजास्तद्वृत्तकाङ्क्षया ।  
 स्वयं विनयसम्पन्ना भवन्तीह शुभेक्षणे ॥१३॥
 
 स्वस्मात् पूर्वतरं राजा विनयत्येव वै प्रजाः ।  
-अपहास्यो[^432] भवेत्तादृक् स्वदोषस्यानवेक्षणात्॥१४॥
+अपहास्यो[^550] भवेत्तादृक् स्वदोषस्यानवेक्षणात् ॥१४॥
 
-[^432]: "अ– अर्धत्रयं नास्ति"
+[^550]: # "अ– अर्धत्रयं नास्ति"
 
 विद्याभ्यासैर्वृद्धयोगैर् आत्मानं विनयं नयेत् ।  
-विद्या धर्मार्थफलिनी तद्विदो वृद्धसंज्ञिताः ॥१५॥
+विद्या धर्मार्थफलिनी तद्विदो वृद्धसञ्ज्ञिताः ॥१५॥
 
 इन्द्रियाणां जयो देवि अत ऊर्ध्वमुदाहृतः ।  
 अजये सुमहान् दोषो राजानं विनिपातयेत् ॥१६॥
 
-पञ्चैवस्ववशे कृत्वा तदर्थान् पञ्चशोषयेत् ।  
+पञ्चैव स्ववशे कृत्वा तदर्थान् पञ्च शोषयेत् ।  
 षडत्सृज्य यथायोगं ज्ञानेन विनयेन च ॥१७॥
 
 शास्त्रचक्षुर्नयपरो भूत्वा भृत्यान् समाहरेत् ॥१८
 
 वृत्तश्रुतकुलोपेतान् उपधाभिः परीक्षितान् ।  
-अमात्यानुपधातीतान् सापसर्पाञूजितेन्द्रियान् ॥१९
+अमात्यानुपधातीतान् सापसर्पाञू जितेन्द्रियान् ॥१९
 
-योजयेत यथायोगं यथार्हंस्वेषु कर्मसु ॥१९॥
+योजयेत यथायोगं यथार्हं स्वेषु कर्मसु ॥१९॥
 
 अमात्या बुद्धिसम्पन्ना राष्ट्रं बहुजनप्रियम् ।  
 दुराधर्षं पुरश्रेष्ठं कोशः कृच्छ्रसहस्स्मृतः ॥२०॥
 
 अनुरक्तं बलं साम्नाम् अद्वैधं मित्रमेव च ।  
-एताःप्रकृतयस्स्वेषु स्वामी विनयतत्त्ववित् ॥२१॥
+एताः प्रकृतयस्स्वेषु स्वामी विनयतत्त्ववित् ॥२१॥
 
 प्रजानां रक्षणार्थाय सर्वमेतद्विनिर्मितम् ।  
 आभिः करणभूताभिः कुर्याल्लोकहितं नृपः ॥२२॥
@@ -10960,10 +10997,10 @@ The Presidency College,
 स्वेभ्यश्चैव परेभ्यश्च शस्त्रादपि विषादपि ।  
 सततं पुत्रदारेभ्यो रक्षेदात्मानमात्मवान् ॥२५॥
 
-सर्वेभ्य[^433] एव स्थानेभ्यो रक्षेदात्मानमात्मवान् ।  
+सर्वेभ्य[^551] एव स्थानेभ्यो रक्षेदात्मानमात्मवान् ।  
 प्रजानां रक्षणार्थाय प्रजाहितकरो भवेत् ॥२६॥
 
-[^433]: "अ–इदमर्धं नास्ति"
+[^551]: # "अ–इदमर्धं नास्ति"
 
 प्रजाकार्यं तु तत्कार्यं प्रजासौख्यं तु तत्सुखम् ।  
 प्रजाप्रियं प्रियं तस्य स्वहितं तु प्रजाहितम् ॥२७॥
@@ -10973,17 +11010,17 @@ The Presidency College,
 प्रकृतीनां हि रक्षार्थं रागद्वेपौ व्युदस्य च ।  
 उभयोः पक्षयोर्वादं श्रुत्वा चैव यथातथम् ॥२९
 
-तमर्थं विमृशेद्बुद्ध्या स्वयमातत्त्वदर्शनात्॥२९॥
+तमर्थं विमृशेद्बुद्ध्या स्वयमातत्त्वदर्शनात् ॥२९॥
 
 तत्त्वविद्भिश्च बहुभिस् सहासीनो नरोत्तमैः ।  
-कर्तारमपराधं च देशकालो नयानयौ॥३०॥
+कर्तारमपराधं च देशकालो नयानयौ ॥३०॥
 
-ज्ञात्वा सम्यग्यथाशास्त्रं ततो दण्डं नयेन्नृषु॥३१
+ज्ञात्वा सम्यग्यथाशास्त्रं ततो दण्डं नयेन्नृषु ॥३१
 
-एवं कुर्वंल्लभेद्धर्मं पक्षपातविवर्जनात्॥३१॥
+एवं कुर्वंल्लभेद्धर्मं पक्षपातविवर्जनात् ॥३१॥
 
 प्रत्यक्षाप्तोपदेशाभ्याम् अनुमानेन वा पुनः ।  
-बोद्धव्यं सततं राज्ञा देशवृत्तं शुभाशुभम्॥३२॥
+बोद्धव्यं सततं राज्ञा देशवृत्तं शुभाशुभम् ॥३२॥
 
 चारैः कर्मप्रवृत्त्या च तद्विज्ञाय विचारयेत् ।  
 अशुभं निर्हरेत् सद्यो जोषयेच्छुभमात्मनः ॥३३॥
@@ -10994,32 +11031,32 @@ The Presidency College,
 पञ्चापेक्षं सदा मन्त्रं कुर्याद्बुद्धियुतैर्नरैः ।  
 कुलवृत्तश्रुतोपेतैर् नित्यं मन्त्रपरो भवेत् ॥३५॥
 
-कामकारेण[^85] वै मुख्यैर् नैव मन्त्रमना भवेत् ।  
+कामकारेण[^113] वै मुख्यैर् नैव मन्त्रमना भवेत् ।  
 राजा राष्ट्रहितापेक्षं सत्यधर्माणि कारयेत् ॥३६॥
 
-सर्वोद्योगं स्वयं कुर्याद् दुर्गादिषुसदा नृषु ।  
+सर्वोद्योगं स्वयं कुर्याद् दुर्गादिषु सदा नृषु ।  
 दशेवृद्धिकरान् भृत्यान् अप्रमादेन कारयेत् ॥३७॥
 
 देशक्षयकरान् सर्वान् अप्रियांश्च विसर्जयेत् ।  
 अहन्यहनि सम्पश्येद् अनुजीविगणं स्वयम् ॥३८ ॥
 
 सुमुखस्सुप्रियो दत्त्वा सम्यग्वृत्तं समाचरेत् ।  
-अधर्म्यं परुषंतीक्ष्णं वाक्यं वक्तुं न चार्हति ॥३९॥
+अधर्म्यं परुषं तीक्ष्णं वाक्यं वक्तुं न चार्हति ॥३९॥
 
 अविश्वास्यं हि वचनं वक्तुं सत्सु न चार्हति ।  
 नरे नरे गुणान् दोषान् सम्यग्वेदितुमर्हति॥४०॥
 
-स्वेङ्गितिं वृणुयाद्धैर्यान्न कुर्यात् क्षुद्रसंविदम्[^435] ।  
+स्वेङ्गितिं वृणुयाद्धैर्यान्न कुर्यात् क्षुद्रसंविदम्[^553] ।  
 परेङ्गितज्ञो लोकेषु भूत्वा संसर्गमाचरेत् ॥४१॥
 
-[^435]: "ख– क्षत्रियसंविदम्"
+[^553]: # "ख– क्षत्रियसंविदम्"
 
 स्वतश्च परतश्चैव परस्परभयादपि ।
 
 अमानुषभयेभ्यश्च स्वाः प्रजाः पालयेन्नृपः ॥४२॥
 
 लुब्धाः कठोराश्चाप्यस्य मानवा दस्युवृत्तयः ।  
-निग्राह्याएव ते राज्ञा सङ्गृहीत्वा यतस्ततः ॥४३॥
+निग्राह्या एव ते राज्ञा सङ्गृहीत्वा यतस्ततः ॥४३॥
 
 कुमारान् विनयैरेव जन्मप्रभृति योजयेत् ।  
 तेषामात्मगुणोपेतं यौवराज्योन योजयेत् ॥४४॥
@@ -11038,19 +11075,19 @@ The Presidency College,
 दुर्गाद्राष्ट्रात् समुद्राच्च वणिग्भ्यः पुरुषात्ययात् ।  
 परात्मगुणसाराभ्यां भृत्यपोषणमाचरेत् ॥४९
 
-वाहनानां विधायाग्रे[^436]पोषणं योधकर्मसु[^437] ।  
+वाहनानां विधायाग्रे[^554] पोषणं योधकर्मसु[^555] ।  
 सादरस्सततं भूत्वा अपेक्षाव्रतमाचरेत् ॥
 
-[^436]: "क- ख-घ–हा"
+[^554]: # "क- ख-घ–हा"
 
-[^437]: "ख–यानकर्मसु"
+[^555]: # "ख–यानकर्मसु"
 
 चदुर्धा विभजेत् कोशं धर्मभृत्यात्मकारणात् ।
 
 आपदर्थं च नीतिज्ञो देशकालवशेन तु ॥५१  
-अनाथान् व्याधितान्[^438] वृद्धान् स्वदेशे पोषयेन्नृपः ॥५१॥
+अनाथान् व्याधितान्[^556] वृद्धान् स्वदेशे पोषयेन्नृपः ॥५१॥
 
-[^438]: "ख–व्यथितान्"
+[^556]: # "ख–व्यथितान्"
 
 सन्धिं च विग्रहं चैव तद्विशेषांस्तथा परान्।  
 यथावत् संविमृश्यैव बुद्धिपूर्वं समाचरेत् ॥५२॥
@@ -11058,13 +11095,13 @@ The Presidency College,
 सर्वेषां सम्प्रियो भूत्वा मण्डलं सततं चरेत्।  
 शुभेष्वपि च कार्येषु न चैकान्तरसमाचरेत् ॥५३॥
 
-स्वतश्च परतश्चैव व्यसनानि[^439] विमृश्य सः।  
-परेण धार्मिकान् योगान्नातीयाद्द्वेषलोभतः ॥५४॥
+स्वतश्च परतश्चैव व्यसनानि[^557] विमृश्य सः।  
+परेण धार्मिकान् योगान् नातीयाद्द्वेषलोभतः ॥५४॥
 
-[^439]: "अ- इतोऽष्टौपादा न सन्ति"
+[^557]: # "अ- इतोऽष्टौ पादा न सन्ति"
 
 रक्ष्यत्वं वै प्रजाधर्मः क्षत्रधर्मस्तु रक्षणम्।  
-कुनृपैःपीडितास्तस्मान् प्रजास्सर्वत्र पालयेत् ॥५५॥
+कुनृपैः पीडितास्तस्मान् प्रजास्सर्वत्र पालयेत् ॥५५॥
 
 यात्राकालेऽनवेक्ष्यैव पश्चात् कोपफलोदयः।  
 तद्युक्ताश्चापदश्चैव प्राशनादिति चिन्तयेत्॥५६॥
@@ -11088,10 +11125,10 @@ The Presidency College,
 एवमुद्देशतः प्रोक्तम् अलोपत्वं यथा भवेत्।  
 एप देवि समासेन राजधर्मः प्रकीर्तितः ॥६२॥
 
-एवं संवर्तमानस्तु दण्डयन् भर्त्सयन्[^440]प्रजाः।  
+एवं संवर्तमानस्तु दण्डयन् भर्त्सयन्[^558] प्रजाः।  
 निष्कल्मपमवाप्नोति पद्मपत्रमिवाम्भसा ॥६३॥
 
-[^440]: "अ– रक्षयन्"
+[^558]: # "अ– रक्षयन्"
 
 एवं संवर्तमानस्य कालधर्मो यदा भवेत्।  
 स्वर्गलोके तदा राजा त्रिदशैस्सह तोष्यते ॥६४॥
@@ -11100,9 +11137,9 @@ The Presidency College,
 एवं न्यायानुगं वृत्तं कथितं ते शुभेक्षणे ॥६५॥
 
 राज्यं न्यायानुगं नाम बुद्धिशास्त्रानुगं भवेत्।  
-धर्म्यं पथ्यं यशस्यं च स्वर्ग्यंचैव तथा भवेत् ॥६६॥
+धर्म्यं पथ्यं यशस्यं च स्वर्ग्यं चैव तथा भवेत् ॥६६॥
 
-राज्यं[^71] भाग्यानुगं नाम अयथावत् प्रदृश्यते।  
+राज्यं[^97] भाग्यानुगं नाम अयथावत् प्रदृश्यते।  
 तत्तु शास्त्रविनिर्मुक्तं सतां कोपकरं भवेत् ॥६७॥
 
 अधर्म्यमयशस्यं च दुरन्तं च भवेद्ध्रुवम् ॥६८
@@ -11111,9 +11148,9 @@ The Presidency College,
 तत्र भाग्यवशाद्भृत्यान् लभते न विशेषतः ॥६९
 
 यत्र दण्ड्या न दण्ड्यन्ते पूज्यन्ते वा नराधमाः ।  
-यत्र सन्तो विहन्यन्ते[^442] तत्र भाग्यानुगं भवेत् ॥७०
+यत्र सन्तो विहन्यन्ते[^560] तत्र भाग्यानुगं भवेत् ॥७०
 
-[^442]: "ख -वसन्त्यत्र"
+[^560]: # "ख -वसन्त्यत्र"
 
 शुभाशुभं यथा यत्र विपरीतं प्रदृश्यते ।  
 राज्ञि चासुरपक्षे तु तत्र भाग्यानुगं भवेत् ॥७१
@@ -11124,17 +11161,17 @@ The Presidency College,
 परत्र सुमहाघोरं तमः प्राप्य दुरत्ययम् ।  
 तिष्ठन्ति नरके देवि प्रलयान्तादिति स्थितिः ॥७३
 
-मोक्षं तु[^443] सुकृतीनां च विद्यते कालपर्ययात् ।  
+मोक्षं तु[^561] सुकृतीनां च विद्यते कालपर्ययात् ।  
 नास्त्येव मोक्षणं देवि राज्ञां दुष्कृतकारिणाम् ॥७४
 
-[^443]: "ख- दुष्कृतिनां चापि"
+[^561]: # "ख- दुष्कृतिनां चापि"
 
 एतत् सर्वं समासेन राजवृत्तं शुभाशुभम् ।  
 कथितं ते महाभागे किं भूयश्श्रोतुमिच्छसि ॥७५
 
-**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि अष्टादशाधिकशततमोऽध्यायः ॥ ११८ ॥  
-॥ ८९ ॥आनुशासनिकपर्वणि अष्टादशाधिकशततमोऽध्यायः ॥ ११८ ॥  
+॥ ८९ ॥ आनुशासनिकपर्वणि अष्टादशाधिकशततमोऽध्यायः ॥ ११८ ॥  
 \[ अस्मिन्नध्याये ७५ श्लोकाः \]**
 
 **———**
@@ -11156,15 +11193,15 @@ The Presidency College,
 
 रहस्यं श्रूयतां देवि मानुषाणां सुखावहम् ॥ १ ॥
 
-नपुंसकेषुवन्ध्यासु वियोनौ पृथिवीतले ।  
+नपुंसकेषु वन्ध्यासु वियोनौ पृथिवीतले ।  
 उत्सर्गो रेतसस्तेषु न कार्यो धर्मकाङ्क्षिभिः ॥ २ ॥
 
 एतेषु बीजं प्रक्षिप्तं न च रोहति वै प्रिये ॥ ३
 
 यत्र वा तत्र वा बीजं धर्मार्थी नोत्सृजेत् पुनः ।  
-नरो बीजविनाशेन बाध्यते[^444] ब्रह्महत्यया॥ ४
+नरो बीजविनाशेन बाध्यते[^562] ब्रह्महत्यया॥ ४
 
-[^444]: "ख - लिप्यते"
+[^562]: # "ख - लिप्यते"
 
 अहिंसा परमो धर्मो ह्यहिंसा परमं सुखम् ।  
 अहिंसा धर्मशास्त्रेषु सर्वेषु परमं पदम् ॥ ५
@@ -11184,25 +11221,25 @@ The Presidency College,
 यज्ञेषु पशुबन्धेषु हन्यन्ते पशवो द्विजैः॥ ८ ॥
 
 कथं च भगवन् भूयो हिंसमाना नराधिपाः ।  
-स्वर्गं सुदुर्गमं यान्ति सदा स्म रिपुसूदन ॥[^445]९ ॥
+स्वर्गं सुदुर्गमं यान्ति सदा स्म रिपुसूदन ॥[^563]९ ॥
 
-[^445]: "क - स्मरनिषूदन; ख— ते कथं रिपुसूदन"
+[^563]: # "क - स्मरनिषूदन; ख— ते कथं रिपुसूदन"
 
 यस्यैव गोसहस्राणि विंशतिस्साधिकानि तु ।  
-अहन्यहनि हन्यन्ते द्विजानां मांसकारणात् ॥[^446] १०॥
+अहन्यहनि हन्यन्ते द्विजानां मांसकारणात् ॥[^564] १०॥
 
-[^446]: "ख - गोसवस्य तु कारणात्    [पाठान्तरं चास्ति ]"
+[^564]: # "ख - गोसवस्य तु कारणात् [पाठान्तरं चास्ति ]"
 
-समांसंतु स दत्त्वाऽन्नं रन्तिदेवो नराधिपः ।  
+समांसं तु स दत्त्वाऽन्नं रन्तिदेवो नराधिपः ।  
 कथं स्वर्गमनुप्राप्तः परं कौतूहलं हि मे ॥ ११॥
 
 किं नु धर्मं न शृण्वन्ति न श्रद्दधति वा श्रुतम् ।  
 मृगयां वै विनिर्गत्य मृगान् हन्ति नराधिपः ॥ १२ ॥
 
 एतत् सर्वं विशेषेण विस्तरेण वृषध्वज ।  
-श्रोतुमिच्छामि तत्[^447] सर्वं तत्त्वमद्य ममोच्यताम् ॥ १३ ॥
+श्रोतुमिच्छामि तत्[^565] सर्वं तत्त्वमद्य ममोच्यताम् ॥ १३ ॥
 
-[^447]: "ख—सर्वज्ञ"
+[^565]: # "ख—सर्वज्ञ"
 
 **ईश्वरः—**
 
@@ -11237,6 +11274,7 @@ The Presidency College,
 भूचराः खेचराश्चान्ये क्रव्यादा मांसगृद्धिनः ।  
 समृद्धाः परमांसैस्तु भक्ष्येरंस्तेऽपि चापरैः ॥ २३  
 
+
 सत्त्वैस्सत्त्वानि जीवन्ति शतशोऽथ सहस्रशः ।  
 अपीडयित्वा नैवान्यं जीवा जीवन्ति सुन्दरि ॥ २४
 
@@ -11246,7 +11284,7 @@ The Presidency College,
 तृप्यन्ते बहवो जीवाः क्रव्यादा मांसभोजनाः ॥ २५॥
 
 एको जीवसहस्राणि सदा खादति मानवः ।  
-अन्नाद्यस्योपभोगेन धान्यसंज्ञानि यानि तु ॥ २६ ॥
+अन्नाद्यस्योपभोगेन धान्यसञ्ज्ञानि यानि तु ॥ २६ ॥
 
 मांसधान्यैश्च बीजैश्च भोजनं परिवर्जयेत् ॥ २७
 
@@ -11265,6 +11303,7 @@ The Presidency College,
 नरस्सर्वमवाप्नोति मनसा यद्यदिच्छति ॥ ३१ ॥
 
 एवं मूलमहिंसाया उपवासः प्रकीर्तितः ॥ ३२  
+
 
 आहारं कुरुते यस्तु भूमिमाक्रमते च यः ।  
 सर्वे ते हिंसका देवि यथा धर्मेषु दृश्यते ॥ ३३
@@ -11293,6 +11332,7 @@ The Presidency College,
 निवृत्तिः परमो धर्मो निवृत्तिः परमं सुखम् ।  
 मनसा विनिवृत्तानां धर्मस्य निचयो महान् ॥ ४१  
 
+
 मनःपूर्वागमा धर्मा अधर्माश्च न संशयः ।  
 मनसा बध्यते चापि मुच्यते चापि मानवः ॥ ४२
 
@@ -11315,17 +11355,18 @@ The Presidency College,
 सुखं वा यदि वा दुःखं यथापूर्वं कृतं तु वा ॥ ४८
 
 प्राप्नुवन्ति नरा मृत्युं यदा यत्र च येन च ।  
-नातिक्रान्तुं हि शक्यस्स्यान्निर्देश[^448]: पूर्वकर्मणः ॥ ४९
+नातिक्रान्तुं हि शक्यस्स्यान्निर्देश[^566]: पूर्वकर्मणः ॥ ४९
 
-[^448]: " ख – न्निदेशः"
+[^566]: # " ख – न्निदेशः"
 
 अप्रमत्तः प्रमत्तेपु विधिर्जागर्ति जन्तुषु ।  
 न हि तस्य प्रियः कश्चिन्न द्वेष्यो न च मध्यमः ॥ ५०  
 
-सम[^449]स्सर्वेषु भूतेषु कालः कालं निरीक्षते ।  
+
+सम[^567]स्सर्वेषु भूतेषु कालः कालं निरीक्षते ।  
 गतायुषो ह्याक्षिपते जीवस्सर्वस्य देहिनः ॥ ५१
 
-[^449]: "ख--यमः"
+[^567]: # "ख--यमः"
 
 यथा येन च मर्तव्यं नान्यथा म्रियते हि सः ।  
 दृश्यते न च लोकेऽस्मिन् भूतो भव्यो द्विधा पुनः ॥ ५२
@@ -11335,7 +11376,7 @@ The Presidency College,
 
 एष तेऽभिहितो देवि जीवहिंसाविधिक्रमः ॥ ५३ ॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकोनविंशत्यधिकशततमोऽध्यायः ॥ ११९ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि एकोनविंशत्यधिकशततमोऽध्यायः ॥ ११९ ॥
 
@@ -11343,13 +11384,23 @@ The Presidency College,
 
 ——————
 
-\।\। विंशत्यधिकशततमोऽध्यायः ॥
+
+
+
+
+
+
+
+
+
+
+**\।\। विंशत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706282678Screenshot2023-12-16141159.png"/>
 
  महेश्वरेण पार्वतीं प्रति सदृष्टान्तप्रदर्शनं सर्वैर्विधेर्दुरतिक्रमत्वनिरूपणम् ॥१॥ तथा योधधर्मकथनपूर्वकं राज्ञां योधानां च प्राणप्रशंसनम् ॥ २ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 श्रूयतां कारणं देवि यथा हि दुरतिक्रमः ।  
 विधिस्सर्वेषु भूतेषु मर्तव्ये समुपस्थिते॥ १
@@ -11362,15 +11413,16 @@ The Presidency College,
 बहूनां मृगयूथानां नानावननिषेविणाम् ।  
 यस्तु कालं गतस्तेषां स वै पाशेन बध्यते ॥ ३ ॥
 
-सूनार्थं[^450] देवि बद्धानां क्षीणायुर्यो निबध्यते ।  
+सूनार्थं[^568] देवि बद्धानां क्षीणायुर्यो निबध्यते ।  
 अवशो घातकस्याथ हस्तं तद्हरेति सः ॥ ४ ॥
 
-[^450]: "ध – इदमर्धं नास्ति"
+[^568]: # "ध – इदमर्धं नास्ति"
 
 यथा पक्षिगणाः क्षिप्रं विस्तीर्णाकाशगामिनः ।  
 क्षीणायुषो निबध्यन्ते शक्ता अपि पलायितुम् ॥ ५ ॥
 
 यथा वारिचरा मीना बहवोऽम्बुजजातयः ।  
+
 
 जालं समधिरोहन्ति स्वयमेव विधेर्वशात् ॥ ६ ॥
 
@@ -11399,6 +11451,7 @@ The Presidency College,
 
 रन्तिदेवस्य गावो वै विधेर्हि वशमागताः ।  
 स्वयमायान्ति गावो वै हन्यन्ते यत्र सुन्दरि ॥ १५  
+
 
 गवां वै हन्यमानानां रुधिरप्रभवा नदी \।  
 चर्मण्वतीति विख्याता खुरशृङ्गास्थिदुर्गमा ॥ १६
@@ -11429,22 +11482,23 @@ The Presidency College,
 भोगानां संविभागेन वस्त्राभरणभूषणैः ।  
 सहभोजनसम्बन्धैस् सत्कारैर्विविधैरपि ॥ २४
 
-सहायकाले सम्प्राप्तेसङ्ग्रामे शस्त्रमुद्धरेत् ॥ २४ ॥  
+सहायकाले सम्प्राप्ते सङ्ग्रामे शस्त्रमुद्धरेत् ॥ २४ ॥  
 
-व्यूढानीके यथा शास्त्रं[^451] सेनयोरुभयोरपि ।  
+
+व्यूढानीके यथा शास्त्रं[^569] सेनयोरुभयोरपि ।  
 हस्त्यश्वरथसम्पूर्णे पदातिबलसङ्कुले ॥ २५ ॥
 
-[^451]: "क-शखं; घ-शास्त्री"
+[^569]: # "क-शखं; घ-शास्त्री"
 
 चामरच्छत्रशवले ध्वजचर्मायुधोज्ज्वले \।\। २६
 
 शक्तितोमरकुन्तासिशूलमुद्गरपाणिभिः ।  
 कूटमुद्गरचापेषु मुसुण्ठीजुष्टमुष्टिभिः ॥ २७
 
-भिण्डिपालगदाचक्रप्रासमुद्गरधारिभिः[^452] ।  
+भिण्डिपालगदाचक्रप्रासमुद्गरधारिभिः[^570] ।  
 नानाप्रहरणैर्योधैस् सेनयोरुभयोरपि ॥ २८
 
-[^452]: "क ख – कर्पण; घ-कर्पट"
+[^570]: # "क ख – कर्पण; घ-कर्पट"
 
 युद्धशौण्डैः प्रगर्जद्भिर् वृषेषु वृषभैरिव ।  
 शङ्खदुन्दुभिनादेन नानातूर्यरवेण च ॥ २९
@@ -11472,10 +11526,10 @@ The Presidency College,
 हन्यमानेष्वभिघ्नत्सु शूरेषु रणसङ्कटे ।  
 पृष्ठं दत्त्वा च ये तत्र नायकस्य नराधमाः ॥ ३६
 
-अनाहता निवर्तन्ते नायके चाप्यनीप्सति[^453] ।  
+अनाहता निवर्तन्ते नायके चाप्यनीप्सति[^571] ।  
 ते दुष्कृतं प्रपद्यन्ते नायकस्याखिलं नराः \।\। ३७
 
-[^453]: " ख – इतोऽष्टौ पादा न सन्ति"
+[^571]: # " ख – इतोऽष्टौ पादा न सन्ति"
 
 यच्चास्ति सुकृतं तेषां युज्यते तेन नायकः॥ ३७ ॥
 
@@ -11487,9 +11541,9 @@ The Presidency College,
 यस्तु प्राणान् परित्यज्य प्रविशेदुद्यतायुधः ।  
 सङ्ग्राममग्निप्रतिमं पतङ्ग इव निर्भयः ॥ ४०
 
-स्वर्गमाविशते ज्ञात्वा योधस्य[^454] गतिनिश्चयम् ॥४० ॥
+स्वर्गमाविशते ज्ञात्वा योधस्य[^572] गतिनिश्चयम् ॥ ४० ॥
 
-[^454]: " ख - यत्र ज्ञात्वा योधस्य निश्चयम्"
+[^572]: # " ख - यत्र ज्ञात्वा योधस्य निश्चयम्"
 
 आविष्टश्चैव सत्त्वेन सघृणो जायते नरः \।  
 प्रहारैर्नन्दयेद्देवि सत्त्वेनाधिष्ठितो हि सः ॥ ४१ ॥
@@ -11499,15 +11553,15 @@ The Presidency College,
 यस्तु स्वं नायकं रक्षेद् अतिघोरे रणाङ्कणे ।  
 तापयन्नरिसैन्यानि सिंहो मृगगणानिव॥ ४३
 
-आदित्य इव मध्याह्नेदुर्निरीक्ष्यो रणाजिरे ॥ ४३ ॥
+आदित्य इव मध्याह्ने दुर्निरीक्ष्यो रणाजिरे ॥ ४३ ॥
 
 निर्दयो यस्तु सङ्ग्रामे प्रहरन्नुद्यतायुधः ।  
 यजते स तु पूतात्मा सङ्ग्रामेण महाक्रतुम्॥ ४४ ॥
 
-वर्म[^455] कृष्णाजिनं तस्य दन्तकाष्ठं धनुस्मृतम् ।  
+वर्म[^573] कृष्णाजिनं तस्य दन्तकाष्ठं धनुस्मृतम् ।  
 रथो वेदिर्ध्वजो यूपः कुशाश्च रथरश्मयः ॥ ४५ ॥
 
-[^455]: "क ख घ - चर्म"
+[^573]: # "क ख घ - चर्म"
 
 मानो दर्पस्त्वहङ्कारस् त्रयस्त्रेताग्नयस्स्मृताः ।  
 प्रमोदश्च स्रुवस्तस्य उपाध्यायो हि सारथिः ॥ ४६ ॥
@@ -11525,8 +11579,9 @@ The Presidency College,
 
 भुञ्जते ते यथाकामं यथा यज्ञे किमिच्छताम् ॥ ५०॥  
 
+
 निहतानां तु योधानां वस्त्राभरणभूषणम् ।  
-हिरण्यं च सुवर्णंच यद्वै यज्ञस्य दक्षिणा ॥ ५१ ॥
+हिरण्यं च सुवर्णं च यद्वै यज्ञस्य दक्षिणा ॥ ५१ ॥
 
 यस्तत्र हन्यते देवि गजस्कन्धगतो नरः ।  
 ब्रह्मलोकमवाप्नोति रणेष्वभिमुखो हतः ॥ ५२ ॥
@@ -11542,9 +11597,9 @@ The Presidency College,
 निर्भयो यस्तु सङ्ग्रामे प्रहरेदुद्यतायुधः ॥ ५५ ॥
 
 यथा नदीसहस्राणि प्रविष्टानि महोदधिम् ।  
-तथा सर्वे न सन्देहो धर्मा धर्मभृतां वरम्[^456] ॥ ५६ ॥
+तथा सर्वे न सन्देहो धर्मा धर्मभृतां वरम्[^574] ॥ ५६ ॥
 
-[^456]: "ख – धर्मा धर्मभृतां वरे"
+[^574]: # "ख – धर्मा धर्मभृतां वरे"
 
 प्रविष्टा राजधर्मेण आचारविनयस्तथा ॥ ५७
 
@@ -11560,9 +11615,9 @@ The Presidency College,
 तस्माद्धर्मो न हन्तव्यः पार्थिवेन विशेषतः ॥ ६० ॥
 
 प्रजाः पालयते यत्र धर्मेण वसुधाधिपः ।  
-पट्कर्मनिरता विप्राः पूज्यन्ते पितृदेवतैः[^457] ॥ ६१ ॥
+पट्कर्मनिरता विप्राः पूज्यन्ते पितृदेवतैः[^575] ॥ ६१ ॥
 
-[^457]: "ख घ - पितृदेवताः"
+[^575]: # "ख घ - पितृदेवताः"
 
 नैव तस्मिन्ननावृष्टिर् न रोगा नाप्युपद्रवाः ।  
 धर्मशीलाः प्रजास्सर्वास् स्वधर्मनिरते नृपे ॥ ६२ ॥
@@ -11573,10 +11628,10 @@ The Presidency College,
 शूद्राः पृथिव्यां वहह्वो राज्ञां बहुविनाशकाः \।  
 तस्मात् प्रमादं सुश्रोणि न कुर्यात् पण्डितो नृपः ॥ ६४ ॥
 
-तेषुमित्रेषु त्यक्तेषुतथा मर्त्येषुहस्तिषु[^458]\।  
+तेषु मित्रेषु त्यक्तेषु तथा मर्त्येषु हस्तिषु [^576]\।  
 विस्रम्भो नोपगन्तव्यस् स्नानपानेषु नित्यशः ॥ ६५॥
 
-[^458]: "ख - ऽमात्येषु"
+[^576]: # "ख - ऽमात्येषु"
 
 राज्ञो वल्लभतामेति कुलं भावयते स्वकम् ।  
 यस्तु राष्ट्रहितार्थाय गोब्राह्मणकृते तथा ॥ ६६ ॥
@@ -11596,18 +11651,18 @@ The Presidency College,
 तस्मात् सर्वेषु यज्ञेषु प्राणयज्ञो विशिष्यते ।  
 एवं सङ्ग्रामयज्ञास्ते यथार्थं समुदाहृताः ॥ ७१
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि विंशत्यधिकशततमोऽध्यायः ॥ १२० ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि विंशत्यधिकशततमोऽध्यायः ॥ १२० ॥  
 \[ अस्मिन्नध्याये ७१ श्लोकाः \]
 
 ————
 
-\।\। एकविंशत्यधिकशततमोऽध्यायः ॥
+**\।\। एकविंशत्यधिकशततमोऽध्यायः ॥**
 
-<MISSING_FIG href="../books_images/U-IMG-1706286949Screenshot2023-12-31183638.png"/>
+**<MISSING_FIG href="../books_images/U-IMG-1706286949Screenshot2023-12-31183638.png"/>**
 
- ईश्वरेण पार्वतींप्रति राज्ञां मृगयायां मृगहिंसाया धर्मत्वप्रतिपादनम् ॥ १ ॥ तथा सदृष्टान्तप्रदर्शनं ब्राह्मणमहिमप्रशंसनपूर्वकं तेषामदण्ढ्यत्वकथनम् ॥ २ ॥ तथा सामान्येन राजधर्मकथनम् ॥ ३ ॥
+ ईश्वरेण पार्वतीं प्रति राज्ञां मृगयायां मृगहिंसाया धर्मत्वप्रतिपादनम् ॥ १ ॥ तथा सदृष्टान्तप्रदर्शनं ब्राह्मणमहिमप्रशंसनपूर्वकं तेषामदण्ढ्यत्वकथनम् ॥ २ ॥ तथा सामान्येन राजधर्मकथनम् ॥ ३ ॥
 
 —————
 
@@ -11620,7 +11675,7 @@ The Presidency College,
 
 भक्षयन्ति च सस्यानि शासितव्या नृपेण ते ॥ २
 
-दुष्टानां शासनं धर्मश्शिष्टानां परिपालनम् ।  
+दुष्टानां शासनं धर्मश् शिष्टानां परिपालनम् ।  
 कर्तव्यं भूमिपालेन नित्यं कार्येषु चार्जवम् ॥ ३
 
 स्वर्गं मृगाश्च गच्छन्ति स्वयं नृपतिना हताः ॥ ३ ॥
@@ -11634,7 +11689,7 @@ The Presidency College,
 तेषां चर्यां प्रवक्ष्यामि श्रूयतामनुपूर्वशः ॥ ६
 
 यथा प्रचरतां तेषां पार्थिवानां यशस्विनि ।  
-राष्ट्रंधर्मो धनं चैव यशः कीर्तिश्च वर्धते ॥ ७
+राष्ट्रं धर्मो धनं चैव यशः कीर्तिश्च वर्धते ॥ ७
 
 नृपाणां पूर्वमेवायं धर्मो धर्मभृतां वरे ॥७ ॥
 
@@ -11644,9 +11699,9 @@ The Presidency College,
 ब्राह्मणा नावमन्तव्वा भस्मच्छन्ना इवाग्नयः ।  
 कुलमुत्सादयेयुस्ते क्रोधाविष्टा द्विजातयः ॥ ९ ॥
 
-ध्मायमानो[^459] यथा ह्यग्निर् निर्देहेत् सर्वमिन्धनम् ।
+ध्मायमानो[^577] यथा ह्यग्निर् निर्देहेत् सर्वमिन्धनम् ।
 
-[^459]: ". ख - धार्यमाणो"
+[^577]: # ". ख - धार्यमाणो"
 
 तथा क्रोधाग्निना विप्रा दहेयुः पृथिवीमिमाम् ॥ १० ॥
 
@@ -11669,26 +11724,26 @@ The Presidency College,
 इन्द्रस्य वृपणौ भूत्वा क्षिप्रं वै श्लेषमागतौ ॥ १६
 
 एवं विप्रेषु क्रुद्धेषु देवराजश्शतक्रतुः ।  
-अशक्तश्शासितुं राज्यं किंपुनर्मानुषा भुवि ॥ १७
+अशक्तश्शासितुं राज्यं किम्पुनर्मानुषा भुवि ॥ १७
 
-क्रोधाविष्टो दहेद्विप्रश्शुष्केन्धनमिवानलः ।  
+क्रोधाविष्टो दहेद्विप्रश् शुष्केन्धनमिवानलः ।  
 भस्मीकृत्य जगत् सर्वं सृजेदन्यज्जगत् पुनः ॥ १८
 
 अदेवानपि देवान् स कुर्याद्देवानदेवताः ।  
 तस्मान्नोत्पादयेन्मन्युं मन्युप्रहरणा द्विजाः ॥ १९
 
-महत्स्वप्यपराधेषुशासनं नार्हति द्विजः ।  
+महत्स्वप्यपराधेषु शासनं नार्हति द्विजः ।  
 न च शस्त्रनिपातानि न च प्राणैर्वियोजनम् ॥ २०
 
-दृश्यते त्रिषु लोकेषु[^460] ब्राह्मणानामनिन्दिते ॥ २० ॥
+दृश्यते त्रिषु लोकेषु[^578] ब्राह्मणानामनिन्दिते ॥ २० ॥
 
-[^460]: ". अ – कालेषु"
+[^578]: # ". अ – कालेषु"
 
 क्रोधाश्च विपुला घोराः प्रसादाश्चप्यनुत्तमाः ।  
 तस्मान्नोत्पादयेत् क्रोधं नित्यं पूज्या द्विजातयः ॥ २१ ॥
 
 दृश्यते न स लोकेऽस्मिन् भूतो वाऽथ भविष्यति ।  
-क्रुद्धेषुयो वै विप्रेषु राज्यं भुङ्क्ते नराधिपः ॥ २२ ॥
+क्रुद्धेषु यो वै विप्रेषु राज्यं भुङ्क्ते नराधिपः ॥ २२ ॥
 
 न चैवापहसेद्विप्रान् न चैवोपालभेच्च तान् ।  
 कालमासाद्य कुप्येच्च काले कुर्यादनुग्रहम् ॥ २३ ॥
@@ -11699,7 +11754,7 @@ The Presidency College,
 भृत्यानां सम्प्रहासेन पार्थिवः परिभूयते ।  
 अयाच्यानि च याचन्ति अवक्तव्यं ब्रुवन्ति च ॥ २५॥
 
-पूर्वमप्युचितैर्लोभैःपरितोषं न यान्ति ते ।  
+पूर्वमप्युचितैर्लोभैः परितोषं न यान्ति ते ।  
 तस्माद्भृत्येषु नृपतिस् सम्प्रहासं विवर्जयेत् ॥ २६ ॥
 
 न विश्वसेदविश्वस्ते विश्वस्ते न च विश्वसेत् ।  
@@ -11718,7 +11773,7 @@ The Presidency College,
 अलुब्धो न्यायवादी च षड्भागमुपजीवति ॥ ३१
 
 कार्याकार्यविशेषज्ञस् सर्वं धर्मेण पश्यति ।  
-स्वराष्ट्रेषुदयां कुर्याद् अकार्यं न प्रवर्तते ॥ ३२
+स्वराष्ट्रेषु दयां कुर्याद् अकार्यं न प्रवर्तते ॥ ३२
 
 ये चैवैनं प्रशंसन्ति ये च निन्दन्ति मानवाः ।  
 शत्रुं च मित्रवत् पश्येद् अपराधविवर्जितम् ॥ ३३
@@ -11731,10 +11786,10 @@ The Presidency College,
 अशिष्टशासनं धर्मश् शिष्टानां परिपालनम् \।  
 वध्यांश्च घातयेद्यस्तु अवध्यान् परिरक्षति ॥ ३५ ॥
 
-अवध्या ब्राह्मणा गावो दूताश्चैव पिता तथा[^461] ।  
+अवध्या ब्राह्मणा गावो दूताश्चैव पिता तथा[^579] ।  
 विद्यां ग्राहयते यश्च ये च पूर्वोपकारिणः ॥ ३६ ॥
 
-[^461]: "क- माता चैव ; ख - दूताश्च पितरौ तथा"
+[^579]: # "क - माता चैव ; ख - दूताश्च पितरौ तथा"
 
 स्त्रियश्चैव न हन्तव्या यश्च सर्वातिथिर्नरः ॥ ३७
 
@@ -11767,6 +11822,7 @@ The Presidency College,
 
 यावन्तो रोमकूपारस्युस् तस्य गात्रेषु सुन्दरि ।  
 
+
 तावद्वर्षसहस्राणि शक्रलोके महीयते ॥ ४६॥
 
 यदि वै मानुषे लोके कदाचिदुपपद्यते ।  
@@ -11781,7 +11837,7 @@ The Presidency College,
 योधानां चैव सत्कारः कृते कर्मण्यमोघता ।  
 श्रेय एव नरेन्द्राणाम् इह चैव परत्र च ॥ ५० ॥
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकविंशत्यधिकशततमोऽध्यायः ॥ १२१ ॥  
 \।\। ८९ \।\। आनुशासनिकपर्वणि एकविंशत्यधिकशततमोऽध्यायः ॥ १२१ ॥  
 \[ अस्मिन्नध्याये ५० \।\। श्लोकाः \]
@@ -11819,9 +11875,10 @@ The Presidency College,
 भगवन् सर्वभूतेश शूलपाणे महाद्युते ।  
 श्रोतुमिच्छाम्यहं वृत्तं सर्वेषां गृहमेधिनाम् ॥ ६
 
-कीदृशं चरितं तेषां त्रिवर्गसहितं प्रभो[^462] ।  
+कीदृशं चरितं तेषां त्रिवर्गसहितं प्रभो[^580] ।  
 
-[^462]: "ख - अयं पादोऽनन्तरश्च न स्तः"
+
+[^580]: # "ख - अयं पादोऽनन्तरश्च न स्तः"
 
 प्रत्यायतिः कथं तेषां जीवनार्थमुदाहृतम् ॥ ७
 
@@ -11833,12 +11890,12 @@ The Presidency College,
 न्यायतस्त्वं महाभागे श्रोतुकामाऽसि भामिनि ।  
 प्रायशो लोकसद्वृत्तम् इष्यते गृहवासिनाम् ॥ ९
 
-तेषां संरक्षणार्थाय राजानः कृतलक्षणाः ।[^463]  
-सर्वेषामेव वर्णानां[^464] वृत्तिं सामान्यतश्शृणु ॥ १०
+तेषां संरक्षणार्थाय राजानः कृतलक्षणाः ।[^581]  
+सर्वेषामेव वर्णानां[^582] वृत्तिं सामान्यतश्शृणु ॥ १०
 
-[^463]: ". ख - संकृता भुवि"
+[^581]: # ". ख - सङ्कृता भुवि"
 
-[^464]: "क ख - घ - मथ मर्त्यानां"
+[^582]: # "क ख - घ - मथ मर्त्यानां"
 
 विद्या वार्ता च सेवा च कारुत्वं नाट्यता तथा ।  
 इत्येते जीवनार्थाय मर्त्यानां विहिताः प्रिये ॥ ११
@@ -11850,25 +11907,27 @@ The Presidency College,
 सर्वेषां प्राणिनां तस्मान्मानुष्ये वृत्तिरिष्यते॥ १३
 
 विद्यायोगस्तु सर्वेषां पूर्वमेव विधीयते ।  
-कार्याकार्यंविजानन्ति विद्यया देवि नान्यथा ॥ १४
+कार्याकार्यं विजानन्ति विद्यया देवि नान्यथा ॥ १४
 
 विद्यया स्फीयते ज्ञानं ज्ञानात्तत्त्वविदर्शनम् ।  
 
+
 दृष्टतत्त्वो विनीतात्मा सर्वार्थस्य च भाजनम् ॥ १५
 
-शक्यं[^465] विद्याविनीतेन लोके सञ्जीवनं शुभम् ॥ १५ ॥
+शक्यं[^583] विद्याविनीतेन लोके सञ्जीवनं शुभम् ॥ १५ ॥
 
-[^465]: "क - सत्य; ख— शुक्लं"
+[^583]: # "क - सत्य; ख— शुक्लं"
 
-आत्मानं[^466] विद्यया तस्मात् पूर्वं कृत्वा तु भाजनम् ।  
+आत्मानं[^584] विद्यया तस्मात् पूर्वं कृत्वा तु भाजनम् ।  
 वश्येन्द्रियो जितक्रोधो भूतात्मानं तु भावयेत् ॥ १६ ॥
 
-[^466]: "अ - अर्धत्रयं नास्ति"
+[^584]: # "अ - अर्धत्रयं नास्ति"
 
 भावयित्वा तदाऽऽत्मानं पूजनीयस्सतामपि ॥ १७
 
 कुलानुवृत्तं वृत्तं वा पूर्वमात्मा समाश्रयेत् ।  
 इत्येतत् कुलवासाय दानकर्म यथा पुरा ॥ १८  
+
 
 यदि चेद्विद्यया चैव वृत्ति काङ्क्षेदथात्मनः ॥ १८ ॥
 
@@ -11885,23 +11944,23 @@ The Presidency College,
 
 वाणिज्यं वा यथाकालं कुर्यात् तद्देशयोगतः ॥ २२ ॥
 
-मूल्यमर्थं प्रयासं च विचार्यैव व्ययोदयौ[^467] ।
+मूल्यमर्थं प्रयासं च विचार्यैव व्ययोदयौ[^585] ।
 
-[^467]: "ख - व्ययाव्ययौ"
+[^585]: # "ख - व्ययाव्ययौ"
 
-पशुसञ्जीवनं चैव देशगः[^468] पोषयेद्ध्रुवम् ॥ २३ ॥
+पशुसञ्जीवनं चैव देशगः[^586] पोषयेद्ध्रुवम् ॥ २३ ॥
 
-[^468]: " ख - देवि गाः; घ- देशगाः"
+[^586]: # " ख - देवि गाः; घ- देशगाः"
 
 बहुप्रकारा बहवः पशवस्तस्य साधकाः ॥ २४
 
 यः कश्चित् सेवया वृत्तिं काङ्क्षेत मतिमान् नरः ।  
 यतात्मा श्रवणीयानां भवेद्वै सम्प्रयोजकः ॥ २५
 
-बुद्ध्या[^469] वा कर्मयोगाद्वा बोधनाद्वा समाश्रयेत् ।  
+बुद्ध्या[^587] वा कर्मयोगाद्वा बोधनाद्वा समाश्रयेत् ।  
 मार्गतस्तु समाश्रित्य तदा तत् सम्प्रयोजयेत् ॥ २६
 
-[^469]: "अ -- अर्धद्वयं नास्ति"
+[^587]: # "अ -- अर्धद्वयं नास्ति"
 
 यथा यथा स तुष्येत तथा सन्तोषयेत्तु तम् ।  
 अनुजीविगुणोपेतः कुर्यादात्मार्थमाश्रितम् ॥ २७
@@ -11916,10 +11975,10 @@ The Presidency College,
 आर्जवेभ्योऽपि सर्वेभ्यस् स्वार्जवाद्वेतनं हरेत् ।  
 अनार्जवादाहरतस् तत्तु पापाय कल्पते ॥ ३०
 
-सर्वेषां[^470] पूर्वमारम्भांश् चिन्तयेन्नयपूर्वकम् ।  
+सर्वेषां[^588] पूर्वमारम्भांश् चिन्तयेन्नयपूर्वकम् ।  
 आत्मशक्तिमुपायांश्च देशकालौ च युक्तितः ॥ ३१
 
-[^470]: "ख- स तेषां"
+[^588]: # "ख- स तेषां"
 
 कारणानि प्रवासं च प्रक्षेपं च फलोदयम् ॥ ३१ ॥
 
@@ -11927,9 +11986,9 @@ The Presidency College,
 अतः परं समारम्भेद् यत्रात्महितमाहितम् ॥ ३२ ॥
 
 वृत्तिमेव समासाद्य तां सदा परिपालयेत् ।  
-दैवमानुषविघ्नेभ्यो न पुनर्भ्रश्यते[^471] यथा ॥ ३३ ॥
+दैवमानुषविघ्नेभ्यो न पुनर्भ्रश्यते[^589] यथा ॥ ३३ ॥
 
-[^471]: " क ख गृह्यते; घ-दृश्य ते"
+[^589]: # " क ख गृह्यते; घ-दृश्य ते"
 
 पालयन् वर्धयन् भुञ्जंस् तां प्राप्य न विनाशयेत् ।  
 क्षीयते गिरिसङ्काशम् अश्नतो ह्यनपेक्षया॥ ३४ ॥
@@ -11943,9 +12002,9 @@ The Presidency College,
 देवब्राह्मणपूजार्थं पितृपूजार्थमेव च ॥ ३७
 
 मूलार्थं सन्निवासार्थं क्रियानित्यैश्च धार्मिकैः ।  
-एवमादिषु चान्येषु धर्मार्थं[^472] सन्त्यजेद्धनम् ॥ ३८
+एवमादिषु चान्येषु धर्मार्थं[^590] सन्त्यजेद्धनम् ॥ ३८
 
-[^472]: "ख - अर्थार्थंविसृजेद्धनम"
+[^590]: # "ख - अर्थार्थं विसृजेद्धनम"
 
 धर्मकार्ये धनं दद्याद् अनवेक्ष्य फलोदयम् ।  
 ऐश्वर्यस्थानलाभार्थं राजवाल्लभ्यकारणात् ॥ ३९
@@ -11954,7 +12013,7 @@ The Presidency College,
 आवाहे च विवाहे च पूर्णानां वृत्तिकारणात्॥ ४०
 
 अर्थोदयसमावाप्तावनर्थस्य विघातने ।  
-एवमादिषु चान्येषुअर्थार्थंविसृजेद्धनम् ॥ ४१
+एवमादिषु चान्येषु अर्थार्थं विसृजेद्धनम् ॥ ४१
 
 अनुवन्धं हेतुयुक्तं दृष्ट्वा वित्तं परित्यजेत् ।  
 अनर्थं बाधते ह्यर्थो अर्थं चैव फलान्युत ॥ ४२
@@ -11974,10 +12033,10 @@ The Presidency College,
 राज्यभ्रंशविनाशार्थं दुर्भिक्षार्थं च शोभने ।  
 महाव्याधिविमोक्षार्थं वार्धक्यस्यैव कारणात् ॥ ४७
 
-शत्रूणां प्रतिकाराय[^473] साहसैश्चाप्यमर्पणात् ।  
+शत्रूणां प्रतिकाराय[^591] साहसैश्चाप्यमर्पणात् ।  
 प्रस्थाने चान्यदेशार्थम आपदां विप्रमोक्षणे ॥ ४८
 
-[^473]: "घ - घाताय"
+[^591]: # "घ - घाताय"
 
 एवमादि समुद्दिश्य सन्निदध्यात् स्वकं धनम् ॥ ४८ ॥
 
@@ -11985,7 +12044,7 @@ The Presidency College,
 
 यस्य नास्ति वनं किञ्चित् तस्य लोकद्वयं न च ॥ ४९॥
 
-अशनांदिन्द्रियाणीव सर्वमर्थात् प्रवर्तते ।  
+अशनान्दिन्द्रियाणीव सर्वमर्थात् प्रवर्तते ।  
 निधानमात्रं यस्तेषाम् अन्यथा विलयं व्रजेत् ॥ ५०॥
 
 एवं देवि मनुष्याणां लोकानां जीवनं प्रति ।  
@@ -12010,6 +12069,7 @@ The Presidency College,
 
 पुत्राणां विनयं कुर्यात् तत्तत्कार्यनियोजनम् ।  
 वर्जनं चाशुभार्थानां शुभानां जोषणं तथा ॥ ५८  
+
 
 कुलोचितानां धर्माणां यथावत् परिपालनम् ।  
 कुलसन्धारणं चैव पौरुषेणैव सर्वशः ॥ ५९
@@ -12045,21 +12105,21 @@ The Presidency College,
 आत्मसाक्षी भवेन्नित्यम् आत्मनस्तु शुभाशुभे ।  
 मनसा कर्मणा वाचा न च काङ्क्षेत पातकम्॥ ६९
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
-अनुशासनपर्वणि द्वाविंशत्यधिकशततमोऽध्यायः ॥ १२२ ॥
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
+अनुशासनपर्वणि द्वाविंशत्यधिकशततमोऽध्यायः ॥ १२२ ॥**
 
-॥ ८९ \।\। आनुशासनिकपर्वणि द्वाविंशत्यधिकशततमोऽध्यायः ॥ १२२॥  
-\[ अस्मिन्नध्याये ६९ श्लोकाः \]
+**॥ ८९ \।\। आनुशासनिकपर्वणि द्वाविंशत्यधिकशततमोऽध्यायः ॥ १२२॥  
+\[ अस्मिन्नध्याये ६९ श्लोकाः \]**
 
-—————
+**—————**
 
 **॥ त्रयोविंशत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706355220Screenshot2023-12-16141159.png"/>
 
- पार्वत्या ब्राह्मण्यादिकं किं स्वाभाविकंउत कर्माधीनमिति प्रश्ने ईश्वरेण तस्य कर्माधीनत्वप्रतिपादनम् ॥ १ ॥ तथा प्राणिनां भोगाभोगादेः स्वस्वकर्मायत्तत्वप्रतिपादनम् ॥ २ ॥
+ पार्वत्या ब्राह्मण्यादिकं किं स्वाभाविकम् उत कर्माधीनमिति प्रश्ने ईश्वरेण तस्य कर्माधीनत्वप्रतिपादनम् ॥ १ ॥ तथा प्राणिनां भोगाभोगादेः स्वस्वकर्मायत्तत्वप्रतिपादनम् ॥ २ ॥
 
-—————
+**—————**
 
 **उमा—**
 
@@ -12103,7 +12163,7 @@ The Presidency College,
 
 शूद्र एव भवेद्देवि ब्राह्मणोऽपि स्वकर्मणा ॥ १२
 
-तथैव शूद्रस्त्वपरश्शूद्रकर्माणि वर्जयन् ।  
+तथैव शूद्रस्त्वपरश् शूद्रकर्माणि वर्जयन् ।  
 सत्यार्जवपरो भूत्वा दानधर्मपरस्तथा ॥ १३
 
 मन्त्रब्राह्मणसत्कर्ता मनसा ब्राह्मणप्रियः ॥ १३ ॥
@@ -12126,13 +12186,14 @@ The Presidency College,
 
 इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि ॥ १९
 
-**उमा—**
+**उमा —**
 
 जन्मप्रभृति कैश्शुद्धो लभेज्जन्मफलं नरः।  
 
-शोभनाशोभनं सर्वम् अधिकारवशात् स्वकम्[^474] ॥ २०
 
-[^474]: " ख–द्वद"
+शोभनाशोभनं सर्वम् अधिकारवशात् स्वकम्[^592] ॥ २०
+
+[^592]: # " ख–द्वद"
 
 **श्रीमहेश्वरः -**
 
@@ -12142,9 +12203,9 @@ The Presidency College,
 शठेपु शठवत् कुर्याद् आर्येष्वृजुवदाचरेत् ।  
 आपत्सु नावसीदेच्च घोरान् सङ्ग्रामयेत् परान् ॥ २२
 
-समाने[^475] सर्वकार्याणि कर्तुं पूर्वं समारभेत्॥ २२ ॥
+समाने[^593] सर्वकार्याणि कर्तुं पूर्वं समारभेत्॥ २२ ॥
 
-[^475]: "ख - सामेन"
+[^593]: # "ख - सामेन"
 
 अनर्थाधर्मशोकांश्च यथा न प्राप्नुयात् स्वयम् ।  
 प्रयतेत तथा कर्तुम् एतद्वृत्तं समासतः ॥ २३ ॥
@@ -12162,7 +12223,7 @@ The Presidency College,
 सुरासुरपते देव वरद प्रीतिवर्धन ।  
 मानुषेष्वेव ये केचिद् आढ्याः क्लेशविवर्जिताः ॥ २७
 
-भुञ्जाना विधिधान्भोगान् दृश्यन्ते निरुपद्रवाः ॥ २७॥
+भुञ्जाना विधिधान् भोगान् दृश्यन्ते निरुपद्रवाः ॥ २७॥
 
 अपरे क्लेशसंयुक्ता दरिद्रा भोगवर्जिताः ॥ २८
 
@@ -12202,7 +12263,7 @@ The Presidency College,
 यादृशं कुरुते कर्म तादृशं फलमश्नुते ।  
 स्वकृतस्य फलं भुङ्क्ते नान्यस्तद्भोक्तुमर्हति ॥ ३७
 
-एवं सम्बोधितास्तेन कालकर्त्रास्वयम्भुवा ।  
+एवं सम्बोधितास्तेन कालकर्त्रा स्वयम्भुवा ।  
 पुनर्निवृत्य कर्माणि शुभान्येव प्रपेदिरे ॥ ३८
 
 एवं विज्ञाततत्त्वास्ते दानधर्मपरायणाः ।  
@@ -12228,9 +12289,10 @@ The Presidency College,
 **श्रीमहेश्वरः -**
 
 परैस्सञ्चोदिता धर्मं कुर्वते न स्वकामतः ।  
-धर्मश्रद्धां[^476] वहिष्कृत्य कुर्वन्ति च रुदन्ति च ॥ ४४ ॥  
+धर्मश्रद्धां[^594] वहिष्कृत्य कुर्वन्ति च रुदन्ति च ॥ ४४ ॥  
 
-[^476]: " ख- स्वयं"
+
+[^594]: # " ख- स्वयं"
 
 तादृशा मरणं प्राप्ताः पुनर्जन्मनि शोभने ।  
 फलानि तानि सम्प्राप्य भुञ्जते न कदाचन ॥ ४५ ॥
@@ -12254,7 +12316,7 @@ The Presidency College,
 एते धनविहीनाश्च भोगयुक्ता भवन्त्युत ॥ ५०
 
 धर्मदानोपदेशं वा कर्तव्यमिति निश्चयः ।  
-इति ते कथितं देवि किं भूयश्श्रोतुमिच्छसि[^111]॥ ५१
+इति ते कथितं देवि किं भूयश्श्रोतुमिच्छसि[^144]॥ ५१
 
 **उमा-**
 
@@ -12274,7 +12336,7 @@ The Presidency College,
 ये लोके मानुषा देवि दानधर्मपरायणाः ।  
 पात्राणि विधिवज्ज्ञात्वा दूरतोऽप्यनुमानतः ॥ ५५ ॥
 
-अभिगम्य[^285] स्वयं तत्र ग्राहयन्ति प्रसाद्य च ।  
+अभिगम्य[^358] स्वयं तत्र ग्राहयन्ति प्रसाद्य च ।  
 दानादि चेङ्गितैरेव तैरविज्ञातमेव वा ॥ ५६
 
 पुनर्जन्मनि ते देवि तादृशाश्शोभना नराः ।  
@@ -12289,6 +12351,7 @@ The Presidency College,
 यत्नतश्श्रमसंयुक्ताः पुनस्तान् प्राप्नुवन्ति च ॥ ६०
 
 याचिता अपि केचित्तु न ददत्येव किञ्चन ।  
+
 
 अभ्यसूयापरा मर्त्या लोभोपहतचेतसः ॥ ६१
 
@@ -12315,9 +12378,9 @@ The Presidency College,
 धर्मकार्यं चिरं कालं विस्मृत्य धनसंयुताः ।  
 प्राणान्तकाले सम्प्राप्ते व्याधिभिश्च निपीडिताः ॥ ६७
 
-आरभन्ते[^479] पुनर्धर्मान् दातुं दानानि वा नराः ॥ ६७ ॥
+आरभन्ते[^597] पुनर्धर्मान् दातुं दानानि वा नराः ॥ ६७ ॥
 
-[^479]: "अ – अर्धद्वयं नास्ति"
+[^597]: # "अ – अर्धद्वयं नास्ति"
 
 ते पुनर्जन्मनि शुभे भूत्वा दुःखपरिप्लुताः ।  
 अतीतयौवने काले स्थविरत्वमुपागताः ॥ ६८ ॥
@@ -12329,9 +12392,9 @@ The Presidency College,
 **उमा-**
 
 भोगयुक्ता महादेव केचिद्व्याधिपरिप्लुताः ।  
-असमर्थाश्च[^480] तान् भोक्तुं भवन्ति किल कारणम् ॥ ७० ॥
+असमर्थाश्च[^598] तान् भोक्तुं भवन्ति किल कारणम् ॥ ७० ॥
 
-[^480]: "ख – अर्धचतुष्टयं नास्ति"
+[^598]: # "ख – अर्धचतुष्टयं नास्ति"
 
 **श्रीमहेश्वरः -**
 
@@ -12389,7 +12452,7 @@ The Presidency College,
 
 रूपभोगविहीनाश्च दृश्यन्ते प्रमदाप्रियाः ॥ ८४
 
-केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥८४॥
+केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ८४॥
 
 **श्रीमहेश्वरः-**
 
@@ -12400,9 +12463,9 @@ The Presidency College,
 न तु प्रत्यादिशन्त्येव स्त्रीदोषान् गुणसंश्रितान् ॥ ८६ ॥
 
 अन्नपानीयदाः काले नृणां स्वादुप्रदाश्च ये ।  
-स्वदार व्रतिनश्चैव[^481] धृतिमन्तो निरत्ययाः ॥ ८७ ॥
+स्वदार व्रतिनश्चैव[^599] धृतिमन्तो निरत्ययाः ॥ ८७ ॥
 
-[^481]: "ख घ - वर्तिनश्चैव"
+[^599]: # "ख घ - वर्तिनश्चैव"
 
 एवं युक्तसमाचाराः पुनर्जन्मनि शोभने ।  
 मानुषास्ते भवन्त्येव सततं सुभगा भृशम् ॥ ८८ ॥
@@ -12428,7 +12491,7 @@ The Presidency College,
 एवं युक्तसमाचाराः पुनर्जन्मनि ते नराः ।  
 दुर्भगास्तु भवन्त्येव स्त्रीणां हृदयविप्रियाः ॥ ९३ ॥
 
-नास्ति तेषां रतिसुखं स्वदारेष्वपि किञ्चन[^6]॥ ९४
+नास्ति तेषां रतिसुखं स्वदारेष्वपि किञ्चन [^15]॥ ९४
 
 **उमा-**
 
@@ -12442,10 +12505,10 @@ The Presidency College,
 
 तदहं ते प्रवक्ष्यामि शृणु कल्याणि कारणम् ॥ ९६॥
 
-ये पुरा[^483] मनुजा देवि श्रुतवन्तोऽपि केवलम् ।  
+ये पुरा[^601] मनुजा देवि श्रुतवन्तोऽपि केवलम् ।  
 निराश्रया निरन्नाद्या भृशमात्मपरायणाः ॥ ९७ ॥
 
-[^483]: " ख - अर्धसप्तकं नास्ति"
+[^601]: # " ख - अर्धसप्तकं नास्ति"
 
 ते पुनर्जन्मनि शुभे ज्ञानबुद्धियुता अपि ।  
 निष्किञ्चना भवन्त्येव अनुप्तं हि न रोहति ॥ ९८ ॥
@@ -12501,10 +12564,10 @@ The Presidency College,
 ये पुरा मनुजा देवि ज्ञानदर्पसमन्विताः ।  
 श्लाघमानाश्च तत् प्राप्य ज्ञानाहङ्कारमोहिताः ॥ ११० ॥
 
-वदन्ति ये परान्[^484] नित्यं ज्ञानाधिक्येन दर्पिताः ।  
+वदन्ति ये परान्[^602] नित्यं ज्ञानाधिक्येन दर्पिताः ।  
 ज्ञानादसूयां कुर्वन्ति न सहन्ते हि चापरान् ॥ १११ ॥
 
-[^484]: ". क ख - घ - पुरा नि"
+[^602]: # ". क ख - घ - पुरा नि"
 
 तादृशा मरणं प्राप्ताः पुनर्जन्मनि शोभने ।  
 मानुष्यं सुचिरात् प्राप्य तत्र बोधविवर्जिताः ॥ ११२ ॥
@@ -12515,12 +12578,13 @@ The Presidency College,
 
 भगवन् मानुषाः केचित् सर्वकल्याणसंयुताः ।  
 
+
 पुत्रैर्दारैर्गुणयुतैर् दासीदासपरिच्छदैः ॥ ११४
 
-परस्परर्द्धिसंयुक्तास्[^485] स्थानैश्वर्यमनोहरैः ।  
+परस्परर्द्धिसंयुक्तास्[^603] स्थानैश्वर्यमनोहरैः ।  
 व्याधिहीना निराबाधा रूपारोग्यबलैर्युताः ॥ ११५
 
-[^485]: "अ क घ - अर्धत्रयं नास्ति"
+[^603]: # "अ क घ - अर्धत्रयं नास्ति"
 
 धनधान्येन सम्पन्नाः प्रासादैर्यानवाहनैः ।  
 सर्वोपभोगसंयुक्ता नानाचित्रैर्मनोहरैः ॥ ११६
@@ -12582,12 +12646,12 @@ The Presidency College,
 शुभाशुभं कृतं कर्म सुखदुःखफलोदयम् ।  
 इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि ॥ १३२
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि त्रयोविंशत्यधिकशततमोऽध्यायः ॥ १२३ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि त्रयोविंशत्यधिकशततमोऽध्यायः ॥ १२३ ॥  
-\[ अस्मिन्नभ्याये १३२ श्लोकाः \]
+\[ अस्मिन्नभ्याये १३२ श्लोकाः \]**
 
-——————
+**——————**
 
 **॥ चतुर्विंशत्यधिकशततमोऽध्यायः ॥**
 
@@ -12595,9 +12659,9 @@ The Presidency College,
 
  ईश्वरेणोमां प्रति अन्धत्वपङ्गुत्वादिनानादोषकारणीभूतानां दुष्कर्मणां विशिष्य कथनम् ॥
 
-——————
+**——————**
 
-उमा—
+**उमा—**
 
 भगवन् देवदेवेश मम प्रीतिविवर्धन \।  
 जात्यन्धाश्चैव दृश्यन्ते जाता वा नष्टचक्षुषः ॥ १
@@ -12606,9 +12670,9 @@ The Presidency College,
 
 **श्रीमहेश्वरः—**
 
-हन्त[^486] ते कथयिष्यामि शृणु कल्याणि कारणम् ॥ २
+हन्त[^604] ते कथयिष्यामि शृणु कल्याणि कारणम् ॥ २
 
-[^486]: "क- घ - तदह्वंते प्रवक्ष्यामि"
+[^604]: # "क- घ - तदह्वं ते प्रवक्ष्यामि"
 
 ये पुरा कामकारेण परवेश्मसु लोलुपाः ।
 
@@ -12628,9 +12692,9 @@ The Presidency College,
 **उमा-**
 
 मुखरोगयुताः केचिद् दृश्यन्ते सततं नराः ।  
-दन्तकण्ठकपोलस्थैर्[^487]व्यधिभिर्बहुपीडिताः ॥ ७ ॥
+दन्त कण्ठकपोलस्थैर्[^605] व्यधिभिर्बहुपीडिताः ॥ ७ ॥
 
-[^487]: " ख- व - कर्णं"
+[^605]: # " ख- व - कर्णं"
 
 आदिप्रभृति वै मर्त्या जाता वाऽप्यथ कारणात् ।  
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ८ ॥
@@ -12656,10 +12720,10 @@ The Presidency College,
 
 **उमा-**
 
-पीड्यन्ते[^488] सततं देव मानुषेष्वेव केचन ।  
+पीड्यन्ते[^606] सततं देव मानुषेष्वेव केचन ।  
 कुक्षिपक्षाश्रितैर्दोषैर् व्याधिभिश्चोदराश्रितैः ॥ १४
 
-[^488]: "ख - क्लिश्यन्ते"
+[^606]: # "ख - क्लिश्यन्ते"
 
 तीक्ष्णशूलैश्च पीड्यन्ते नरा दुःखपरिप्लुताः ।  
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ १५ ॥
@@ -12669,14 +12733,14 @@ The Presidency College,
 ये पुरा मनुजा देवि कामक्रोधवशा भृशम् ।  
 आत्मार्थमेव चाहारं भुञ्जन्ते निरपेक्षकाः॥ १६ ॥
 
-अभक्ष्याहारदानैश्च[^489] विश्वस्तानां विषप्रदाः \।  
+अभक्ष्याहारदानैश्च[^607] विश्वस्तानां विषप्रदाः \।  
 अभक्ष्यभक्षदाश्चैव शौचमङ्गलवर्जिताः ॥ १७ ॥
 
-[^489]: "घ - इदमर्धं नास्ति"
+[^607]: # "घ - इदमर्धं नास्ति"
 
-मांसयुक्तसमाचाराः[^490] पुनर्जन्मनि शोभने ।
+मांसयुक्तसमाचाराः[^608] पुनर्जन्मनि शोभने ।
 
-[^490]: " ख—एवंयुक्त"
+[^608]: # " ख— एवंयुक्त"
 
 कथञ्चित् प्राप्य मानुष्यं तत्र ते व्याधिपीडिताः ॥ १८॥
 
@@ -12733,9 +12797,9 @@ The Presidency College,
 इष्टनाशकरा ये तु अपथ्याहारदा नराः ।  
 चिकित्सका वा दुष्टाश्च द्वेषलोभसमन्विताः ॥ ३१ ॥
 
-निर्दयाः[^491] प्राणिहिंसायां मलदाश्चित्तनाशनाः ॥ ३२
+निर्दयाः[^609] प्राणिहिंसायां मलदाश्चित्तनाशनाः ॥ ३२
 
-[^491]: " ख - अर्धत्रयं नास्ति"
+[^609]: # " ख - अर्धत्रयं नास्ति"
 
 एवंयुक्तसमाचराः पुनर्जन्मनि शोभने ।  
 यदि वै मानुषं जन्म लभेरंस्तेषु दुःखिताः॥ ३३
@@ -12752,12 +12816,12 @@ The Presidency College,
 भगवन् मानुषाः केचिद् अङ्गहीनाश्च पङ्गवः \।  
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ३६
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
-ये पुरा मनुजा देवि लोभमोहसमावृताः ।[^492]  
+ये पुरा मनुजा देवि लोभमोहसमावृताः ।[^610]  
 प्राणिनां प्राणहिंसार्थम् अङ्गविघ्नं प्रकुर्वते ॥ ३७
 
-[^492]: "ख - इतः चत्वारः पादा न सन्ति"
+[^610]: # "ख - इतः चत्वारः पादा न सन्ति"
 
 शस्त्रेणोत्कृत्य वा देवि प्राणिनां चेष्टनाशकाः ॥ ३७ ॥
 
@@ -12771,7 +12835,8 @@ The Presidency College,
 भगवन् मानुषाः केचिद् ग्रन्थिभिः पिलकैस्तथा ।  
 क्लिश्यमानाः प्रदृश्यन्ते तन्मे शंसितुमर्हसि ॥ ४०  
 
-**श्रीमहेश्वरः—**
+
+**श्रीमहेश्वरः —**
 
 ये पुरा मनुजा देवि ग्रन्थिभेदकरा नृणाम् ।  
 मुष्टिप्रहारपरुषा नृशंसाः पापकारिणः ॥ ४१
@@ -12786,7 +12851,7 @@ The Presidency College,
 भगवन् मानुषाः केचित् पादरोगसमन्विताः ।  
 दृश्यन्ते सततं देव तन्मे शंसितुमर्हसि ॥ ४३ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 ये पुरा मनुजा देवि क्रोधलोभसमन्विताः ।  
 मनुजा देवतास्थानं स्वपादैर्भ्रंशयन्स्युत ॥ ४४ ॥
@@ -12803,11 +12868,12 @@ The Presidency College,
 
 रोगैर्वहुविधैर्देव क्लिश्यमानास्सुदुःखिताः ।  
 
+
 असमस्तैस्समस्तैश्च आढ्या वा दुर्गतास्तथा ॥ ४८
 
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ४८ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि शृणु कल्याणि कारणम् ॥ ४९
 
@@ -12822,15 +12888,15 @@ The Presidency College,
 
 तत्र ते बहुभिर्घोरैस् तप्यन्ते व्याधिभिः प्रिये ॥ ५२ ॥
 
-केचिच्च छर्दिसंयुक्ताः केचित्काससमन्विताः ।[^493]  
+केचिच्च छर्दिसंयुक्ताः केचित्काससमन्विताः ।[^611]  
 ज्वरातिसारतृष्णाभिः पीड्यमानास्तथा परे ॥ ५३ ॥
 
-[^493]: "क – केचिच्छीपदसं; ख– केचिच्छ्रपदसं घ- केचिच्छ्रथश्म"
+[^611]: # "क – केचिच्छीपदसं; ख– केचिच्छ्रपदसं घ- केचिच्छ्रथश्म"
 
-पादगुल्मैश्च बहुभिश्[^494] श्लेष्मदोषसमन्विताः ।  
-पादरोगैश्च विविधैर् व्रणकुष्ठभगन्दरैः॥ ५४ ॥
+पादगुल्मैश्च बहुभिश्[^612] श्लेष्मदोषसमन्विताः ।  
+पादरोगैश्च विविधैर् व्रणकुष्ठभगन्दरैः ॥ ५४ ॥
 
-[^494]: "ख – घातपित्तैश्च बहुभिशोषोदर"
+[^612]: # "ख – घातपित्तैश्च बहुभिशोषोदर"
 
 आढ्या वा दुर्गता वाऽपि दृश्यन्ते व्याधिपीडिताः ॥ ५५
 
@@ -12838,7 +12904,7 @@ The Presidency College,
 
 गृहीतुं न च शक्यं हि केनचित् स्वकृतं फलम् ॥ ५६
 
-इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^6] ॥ ५६ ॥
+इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^15] ॥ ५६ ॥
 
 **उमा—**
 
@@ -12848,7 +12914,7 @@ The Presidency College,
 अपरे मानुषा देव दृश्यन्ते कुणिवाहवः।  
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि॥ ५८ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 ये पुरा मनुजा देवि लोभमोहसमन्विताः ।  
 धान्यमानान् विकुर्वन्ति क्रयविक्रयकारणात् ॥ ५९ ॥
@@ -12864,7 +12930,7 @@ The Presidency College,
 
 **उमा—**
 
-भगवन् मानुषाःकेचिद् दृश्यन्ते मानुषेषु वै ।  
+भगवन् मानुषाः केचिद् दृश्यन्ते मानुषेषु वै ।  
 उन्मत्ताश्च पिशाचाश्च पर्यटन्तो यतस्ततः ॥ ६३ ॥
 
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ६४
@@ -12889,7 +12955,7 @@ The Presidency College,
 
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ६९
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 ये पुरा मनुजा देवि सर्वप्राणिषु निर्दयाः ।  
 घ्नन्ति बालांश्च भुञ्जन्ते मृगाणां पक्षिणामपि ॥ ७०
@@ -12912,23 +12978,23 @@ The Presidency College,
 
 **श्रीमहेश्वरः—**
 
-ये पुरा मनुजा नित्यम् उत्क्रोशनपरायणाः[^496] ।  
+ये पुरा मनुजा नित्यम् उत्क्रोशनपरायणाः[^614] ।  
 भीषयन्ति परान् नित्यं विकुर्वन्ति तथैव च ॥ ७५ ॥
 
-[^496]: "अ-उत्कोचन"
+[^614]: # "अ-उत्कोचन"
 
 ऋणवृद्धिकराश्चैव दरिद्रेभ्यो यथेष्टतः ।  
-ऋणार्थमभिगच्छन्ति[^497] सततं वृद्धिरूपकाः ॥ ७६ ॥
+ऋणार्थमभिगच्छन्ति[^615] सततं वृद्धिरूपकाः ॥ ७६ ॥
 
-[^497]: "ख – ब्राह्मणार्थमभि + पूर्वकम्"
+[^615]: # "ख – ब्राह्मणार्थमभि + पूर्वकम्"
 
 उद्विजन्ते हि तान दृष्ट्वा धारकास्त्वर्थकारणात् ।  
 अतिवृद्धिर्न कर्तव्या दरिद्रेभ्यो यथेष्टतः ॥ ७७ ॥
 
-ये श्वभिः क्रीडमानाश्च[^498] त्रासयन्ति वने मृगान् ।  
+ये श्वभिः क्रीडमानाश्च[^616] त्रासयन्ति वने मृगान् ।  
 प्राणिहिंसां तथा देवि कुर्वन्ति च यतस्ततः ॥ ७८ ॥
 
-[^498]: " ख - ऋणार्थमभिगच्छन्ति सततं वृद्धिरूपकाः ।[ अधिकः पाठः ]"
+[^616]: # " ख - ऋणार्थमभिगच्छन्ति सततं वृद्धिरूपकाः । [ अधिकः पाठः ]"
 
 येषां गृहेषु वै श्वानस् त्रासयन्ति वृथा नरान् ॥ ७९
 
@@ -12942,10 +13008,10 @@ The Presidency College,
 
 **उमा—**
 
-भगवन् मानुषाः केचिद् ऐश्वर्यज्ञानसंयुताः[^499] ।  
+भगवन् मानुषाः केचिद् ऐश्वर्यज्ञानसंयुताः[^617] ।  
 म्लेच्छभूमिषु दृश्यन्ते म्लेच्छैश्वर्यसमन्विताः॥ ८२॥
 
-[^499]: "ख - र्याज्ञान"
+[^617]: # "ख - र्याज्ञान"
 
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ८३
 
@@ -12960,19 +13026,19 @@ The Presidency College,
 एवंयुक्तसमाचाराः पुनर्जन्मनि शोभने ।  
 कुदेशे म्लेच्छभूयिष्टे दुर्गमे वनसङ्कटे ॥ ८६
 
-म्लेच्छाधिपत्यं[^500] सम्प्राप्य जायन्ते तत्र तत्र वै ॥ ८६ ॥
+म्लेच्छाधिपत्यं[^618] सम्प्राप्य जायन्ते तत्र तत्र वै ॥ ८६ ॥
 
-[^500]: ". घ - राज्याधिपत्यं"
+[^618]: # ". घ - राज्याधिपत्यं"
 
 **उमा—**
 
-भगवन् भगनेत्रघ्नमानुषेषु च केचन ।  
+भगवन् भगनेत्रघ्न मानुषेषु च केचन ।  
 क्लीबा नपुंसकाञ्चैव दृश्यन्ते पण्डकास्तथा ॥ ८७ ॥
 
 नीचकर्मरता नीचा नीचसख्यास्तथा भुवि ।  
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ८८ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि शृणु कल्याणि कारणम् ॥ ८९
 
@@ -12997,15 +13063,15 @@ The Presidency College,
 यदि चेत् सम्प्रपश्येरंस् ते मुच्यन्ते हि कल्मषात् ।  
 अत्रापि ते प्रमाद्येयुः पतन्ति नरकालये ॥ ९५ ॥
 
-स्त्रीणामपि तथा देवि यथा पुंसां तु कर्मजम् ।[^501]  
+स्त्रीणामपि तथा देवि यथा पुंसां तु कर्मजम् ।[^619]  
 इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि ॥ ९६ ॥
 
-[^501]: "ख - अयं पादोऽनन्तरश्च न स्वः"
+[^619]: # "ख - अयं पादोऽनन्तरश्च न स्वः"
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चतुर्विंशत्यधिकशततमोऽध्यायः ॥ १२४ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि चतुर्विंशत्यधिकशततमोऽध्यायः ॥ १२४ ॥  
-\[ अस्मिन्नध्याये ९६ \।\। श्लोकाः \]
+\[ अस्मिन्नध्याये ९६ \।\। श्लोकाः \]**
 
 **—————**
 
@@ -13013,7 +13079,7 @@ The Presidency College,
 
   <MISSING_FIG href="../books_images/U-IMG-1706376422Screenshot2023-12-31183638.png"/>
 
-ईश्वरेणांमां प्रति स्त्रीणां पुंश्चलीत्वादिदोषहेतुभूतदुष्कर्मकथनम् ॥ १ ॥
+ईश्वरेणाम्मां प्रति स्त्रीणां पुंश्चलीत्वादिदोषहेतुभूतदुष्कर्मकथनम् ॥ १ ॥
 
 तथा प्राणिसाधारण्येन दास्यादिप्रयोजकदुष्कर्मकथनम् ॥ २ ॥
 
@@ -13031,7 +13097,7 @@ The Presidency College,
 याः पुरा मनुजा देवि बुद्धिमोहसमन्विताः ।  
 कामरागसमायुक्ताः पतीनतिचरन्ति वै ॥ २ ॥
 
-प्रतिकूलपरा यास्तुपतीन् प्रति यथा तथा ।  
+प्रतिकूलपरा यास्तु पतीन् प्रति यथा तथा ।  
 शौचं लज्जां तु विस्मृत्य यथेष्टपरिचारणाः ॥ ३ ॥
 
 एवंयुक्तसमाचारा यमलोके सुदण्डिताः ।  
@@ -13071,7 +13137,7 @@ The Presidency College,
 
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ १३
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 याः पुरा भावदोषेण लोभमोहसमन्विताः ।  
 परद्रव्यहरा लोभात् परेषां द्रव्यहारकाः ॥ १४
@@ -13105,6 +13171,7 @@ The Presidency College,
 परप्रसाधनकरास् ते परैः कृतवेतनाः ।  
 परावमानस्य फलं भुञ्जते पौर्वदैहिकम् ॥ २२  
 
+
 **उमा—**
 
 भगवन् देवदेवेश मानुषेष्वेव केचन \।  
@@ -13113,16 +13180,16 @@ The Presidency College,
 आघातभर्त्सनसहाः पीड्यमानाश्च सर्वशः ।  
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ २४
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि शृणु कल्याणि कारणम् ॥ २४ ॥
 
 ये पुरा मनुजा देवि परेषां वित्तहारकाः ॥ २५
 
-ऋणवृद्धिकरं[^502] क्रौर्यान्न्यासदत्तं तथैव च ।  
+ऋणवृद्धिकरं[^620] क्रौर्यान्न्यासदत्तं तथैव च ।  
 निक्षेपकारणाद्दत्तपरद्रव्यापहारिणः ॥ २६
 
-[^502]: ". अ – अर्धंत्रयं नास्ति"
+[^620]: # ". अ – अर्धन्त्रयं नास्ति"
 
 प्रमादाद्विस्मृतं नष्टं परेषां धनहारकाः ।  
 वघबन्धपरिक्लेशैर् दासत्वं कुर्वते परान् ॥ २७
@@ -13133,9 +13200,9 @@ The Presidency College,
 दासभूता भविष्यन्ति जन्मप्रभृति मानवाः ॥ २८ ॥
 
 तेषां कर्माणि कुर्वन्ति येषां ते धनहारकाः \।  
-आसमाप्तेस्स्वपापस्य[^503] कुर्वन्तीति विनिश्चयः ॥ २९ ॥
+आसमाप्तेस्स्वपापस्य[^621] कुर्वन्तीति विनिश्चयः ॥ २९ ॥
 
-[^503]: " अ - इदमर्धंद्वयं नास्ति"
+[^621]: # " अ - इदमर्धन्द्वयं नास्ति"
 
 पशुभूतास्तथा चान्ये भवन्ति धनहारकाः ।  
 तत्तथा क्षीयते कर्म तेषां पूर्वापराधजम् ॥ ३० ॥
@@ -13148,17 +13215,17 @@ The Presidency College,
 मोक्षकामी यथान्यायं कुर्वन् कर्माणि सर्वशः ।  
 भर्तुः प्रसादमाकाङ्क्षेद् आयासान् सर्वथा सहन् ॥ ३३
 
-प्रीतिपूर्वं तु यो भर्त्रामुक्तो मुक्तस्स पावनः[^504] \।  
+प्रीतिपूर्वं तु यो भर्त्रा मुक्तो मुक्तस्स पावनः[^622] \।  
 तथाभूतान् कर्मकरान् सदा सन्तोषयेत् पतिः ॥ ३४
 
-[^504]: "क-पापतः"
+[^622]: # "क-पापतः"
 
 यथार्हं कारयेत् कर्म दण्डं कारणतः क्षिपेत् ।  
 वृद्धान् वालांस्तथा क्षीणान् पालयन् धर्ममाप्नुयात् ॥ ३५
 
-इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^505] ॥ ३५ ॥
+इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^623] ॥ ३५ ॥
 
-[^505]: "अ-क - घ - कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
+[^623]: # "अ-क - घ - कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
 
 **उमा—**
 
@@ -13196,9 +13263,9 @@ The Presidency College,
 
 पुराऽतिमानदोषात्तु भुञ्जते स्वकृतं फलम् ॥ ४५ ॥
 
-तानवस्थाप्य[^506] कृपणांश्चण्डालानपि बुद्धिमान् ।
+तानवस्थाप्य[^624] कृपणांश् चण्डालानपि बुद्धिमान् ।
 
-[^506]: " अ-क - घ - अर्धद्वयं नास्ति"
+[^624]: # " अ-क - घ - अर्धद्वयं नास्ति"
 
 न निन्देन्नातिकुप्येत भुञ्जते स्वकृतं फलम् ॥ ४६ ॥
 
@@ -13214,18 +13281,18 @@ The Presidency College,
 
 **श्रीमहेश्वरः—**
 
-ये पुरा मानुष[^507]ा देवि ऐश्वर्यस्थानसंयुताः ।  
+ये पुरा मानुष[^625]ा देवि ऐश्वर्यस्थानसंयुताः ।  
 संवादं तु न कुर्वन्ति परैरैश्वर्यमोहिताः ॥ ५०
 
-[^507]: ". क ख - घ - मनुजा"
+[^625]: # ". क ख - घ - मनुजा"
 
 द्वाराणि न ददत्येव लोभमोहादिभिर्वृताः ।  
 अवस्थामोहसंयुक्तास् स्वार्थमात्रपरायणाः ॥ ५१
 
 सर्वभोगयुता वाऽपि सर्वेषां निष्फला भृशम् \।  
-अपि शप्ता[^508] न कुर्युस्ते परानुग्रहकारणात् ॥ ५२
+अपि शप्ता[^626] न कुर्युस्ते परानुग्रहकारणात् ॥ ५२
 
-[^508]: "ख घ - शक्ता"
+[^626]: # "ख घ - शक्ता"
 
 निर्दयाश्चैव निर्द्वारा भोगैश्वर्यगतिं प्रति ॥ ५२ ॥
 
@@ -13249,15 +13316,15 @@ The Presidency College,
 दृश्यन्ते मानुषाः केचिद् राजचोरोदकादिभिः ।  
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि॥ ५८
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 ये पुरा मानुपा देवि आसुरं भावमाश्रिताः ।  
 परेषां वृत्तिनाशं तु कुर्वते द्वेषलोभतः ॥ ५९
 
-उत्कोचनपराश्चैव[^509] पिशुनाञ्च तथाविधाः \।  
+उत्कोचनपराश्चैव[^627] पिशुनाञ्च तथाविधाः \।  
 परद्रव्यहरा घोराश् चौर्याद्वाऽन्येन कर्मणा ॥ ६०
 
-[^509]: ". क घ - उत्क्रोशन"
+[^627]: # ". क घ - उत्क्रोशन"
 
 निर्दया निरनुक्रोशाः परेषां वृत्तिनाशकाः \।  
 नास्तिकानृतभूयिष्ठाः परद्रव्यापहारिणः ॥ ६१
@@ -13279,7 +13346,7 @@ The Presidency College,
 शस्त्रेण वाऽन्यथा वाऽपि प्राप्नुवन्ति वधं नराः ।  
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ६६
 
-श्रीमहेश्वरः—
+**श्रीमहेश्वरः—**
 
 ये पुरा मनुजा देवि घोरकर्मरतानृताः ।  
 आसुराः प्रायशो मूर्खाः प्राणिहिंसाप्रिया भृशम् ॥ ६७
@@ -13300,14 +13367,14 @@ The Presidency College,
 आढ्या वा दुर्गता वाऽपि भुञ्जते स्वकृतं फलम् ।  
 सुप्ता मत्ताश्च विश्वस्तास् तथा ते प्राप्नुवन्त्युत ॥ ७२
 
-प्राणबाधकृतं[^510] दुःखं वान्धवैस्सहसा पृथक् ।  
+प्राणबाधकृतं[^628] दुःखं वान्धवैस्सहसा पृथक् ।  
 पुत्रदारविनाशं वा शस्त्रेणान्येन वा वधम् ॥ ७३
 
-[^510]: " ख - इदमर्धंद्वयं नास्ति"
+[^628]: # " ख - इदमर्धन्द्वयं नास्ति"
 
 **उमा—**
 
-भगवन् मानुषाः केचिद् राजभिर्नीतिकोविदैः।  
+भगवन् मानुषाः केचिद् राजभिर्नीतिकोविदैः ।  
 दण्ड्यन्ते मानुषे लोके मानुषास्सर्वतोभयाः ॥ ७४
 
 केन कर्मविपाकेन तन्मे शंसितुमर्हसि ॥ ७४ ॥
@@ -13327,6 +13394,7 @@ The Presidency College,
 एवंयुक्तसमाचाराः प्राणिधर्मं गताः पुनः ।  
 दण्डिता यमदण्डेन निरयस्थाश्चिरं प्रिये ॥ ७८ ॥  
 
+
 पूर्वजन्मकृतं कर्म भुञ्जते तदिह प्रजाः ॥ ७९
 
 इहैव यत् कर्म कृतं तत् परत्र फलत्युत ।  
@@ -13340,7 +13408,7 @@ The Presidency College,
 **उमा—**
 
 किमर्थं मानुषा लोके दण्ड्यन्ते पृथिवीश्वरैः ।  
-कृतापराधमुद्दिश्य हन्ता हर्ताऽयमित्युत॥ ८२ ॥
+कृतापराधमुद्दिश्य हन्ता हर्ताऽयमित्युत ॥ ८२ ॥
 
 पुत्रार्थी पुत्रकामेष्ट्या इहैव लभते सुतान् ।  
 तैरेव हि शरीरेण भुञ्जन्तः कर्मणां फलम् ॥ ८३ ॥
@@ -13373,7 +13441,7 @@ The Presidency College,
 
 एतन्मया संशयितं तद्भवांश्छेत्तुमर्हति ॥ ९१ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 स्थाने संशयितं देवि श्रृणु तत्त्वं समाहिता ॥ ९१ ॥
 
@@ -13389,6 +13457,7 @@ The Presidency College,
 उभाभ्यां यमराजाभ्यां दण्डितोऽदण्डितोऽपि वा ।  
 पश्चात् कर्मफलं भुङ्क्ते नरके मानुषेषु वा ॥ ९५ ॥  
 
+
 नास्ति कर्मफलच्छेत्ता कश्चिल्लोकत्रयेऽपि च ।  
 इति ते कथितं सर्वं निर्विशङ्का भव प्रिये ॥ ९६ ॥
 
@@ -13402,7 +13471,7 @@ The Presidency College,
 
 तस्मान्मया संशयितं त्वं तच्छेत्तुमिहार्हसि ॥ ९९
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 स्थाने संशयितं देवि शृणु तत्त्वं समाहिता ।  
 संशयो हि महानेव पूर्वेषां च मनीषिणाम् ॥ १००
@@ -13413,10 +13482,10 @@ The Presidency College,
 केवलं चाभिसन्धाय संरम्भाच्च करोति यत् ।  
 कर्मणस्तस्य नाशस्तु न कथञ्चन विद्यते ॥ १०२
 
-अभिसन्धिकृतस्यैव नैव नाशोऽस्ति कर्मणः[^511] ।  
+अभिसन्धिकृतस्यैव नैव नाशोऽस्ति कर्मणः[^629] ।  
 अश्वमेधसहस्त्रैश्च प्रायश्चित्तशतैरपि ॥ १०३
 
-[^511]: " क- घ - अर्थनाशोऽस्ति; अ-विनाशे सति"
+[^629]: # " क- घ - अर्थनाशोऽस्ति; अ-विनाशे सति"
 
 अन्यथा यत् कृतं पापं प्रमादाद्वा यदृच्छया ।  
 प्रायश्चित्ताश्वमेधाभ्यां श्रेयसा तत् प्रणश्यति ॥ १०४
@@ -13468,14 +13537,14 @@ The Presidency College,
 यदन्यच्च मया नोक्तं यस्मिंस्ते कर्मसङ्ग्रहे ।  
 बुद्धितर्केण तत् सर्वं तथा वेदितुमर्हसि ॥ ११७ ॥
 
-कथितं श्रोतुकामाया भूयश्श्रोतुं किमिच्छसि[^6] ॥ ११८
+कथितं श्रोतुकामाया भूयश्श्रोतुं किमिच्छसि[^15] ॥ ११८
 
 **उमा—**
 
-भगवन्[^513] देवदेवेश लोकपालनमस्कृत \।  
+भगवन्[^631] देवदेवेश लोकपालनमस्कृत \।  
 प्रसादात्ते महादेव श्रुता मे कर्मणां गतिः॥ ११९
 
-[^513]: "ख – भगवन् सर्वदेवेश"
+[^631]: # "ख – भगवन् सर्वदेवेश"
 
 सङ्गृहीतं च तत् सर्वं तत्त्वतोऽमृतसन्निभम् ।
 
@@ -13517,9 +13586,9 @@ The Presidency College,
 देवानामसुराणां च अमरत्वात्तपोबलात् ।  
 एकेनैव शरीरेण भुज्यते कर्मणां फलम् ॥ १२९ ॥
 
-मानुषैर्न तथा देवि अन्तरं त्वेतदिष्यते[^514]॥ १३०
+मानुषैर्न तथा देवि अन्तरं त्वेतदिष्यते[^632]॥ १३०
 
-[^514]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिं दृश्यते"
+[^632]: # "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिं दृश्यते"
 
 **उमा—**
 
@@ -13541,7 +13610,7 @@ The Presidency College,
 प्रजानां तु हितार्थाय शुभाशुभविधिं प्रति ।  
 अनागतमतिक्रान्तं ज्योतिश्चक्रेण बोध्यते ॥ १३५
 
-किंतु तत्र शुभं कर्म सुग्रहैस्तु निवेद्यते ।
+किन्तु तत्र शुभं कर्म सुग्रहैस्तु निवेद्यते ।
 
 दुष्कृतस्याशुभैरेव समवायो भवेदिति ॥ १३६
 
@@ -13551,7 +13620,7 @@ The Presidency College,
 केवलं ग्रहनक्षत्रं न करोति शुभाशुभम् ।  
 सर्वमात्मकृतं कर्म लोकवादो ग्रहा इति ॥ १३८
 
-पृथग्ग्रहाः पृथक्वर्ता कर्त्रास्वं भुज्यते फलम् ।  
+पृथग्ग्रहाः पृथक्वर्ता कर्त्रा स्वं भुज्यते फलम् ।  
 इति ते कथितं सर्वं विशङ्कां जहि शोभने॥ १३९
 
 **उमा—**
@@ -13559,11 +13628,11 @@ The Presidency College,
 भगवन् विविधं कर्म कृत्वा जन्तुश्शुभाशुभम् ।  
 किं तयोः पूर्वकतरं भुङ्क्ते जन्मान्तरे पुनः ॥ १४०
 
-एषमे संशयो देव तं मे त्वं छेत्तुमर्हसि[^515] ॥ १४० ॥
+एष मे संशयो देव तं मे त्वं छेत्तुमर्हसि[^633] ॥ १४० ॥
 
-[^515]: " क - शंसितुम; ख-घ - छेत्तुं त्वम"
+[^633]: # " क - शंसितुम; ख-घ - छेत्तुं त्वम"
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 स्थाने संशयितं देवि तत्ते वक्ष्यामि तत्त्वतः ॥ १४१
 
@@ -13575,7 +13644,7 @@ The Presidency College,
 
 भुञ्जानाश्चापि दृश्यन्ते क्रमशो भुवि मानवाः \।
 
-ऋद्धिं हानिं सुखं दुःखं तत्सर्वमुभयं भयम् ॥१४४
+ऋद्धिं हानिं सुखं दुःखं तत्सर्वमुभयं भयम् ॥ १४४
 
 दुःखान्यनुभवन्त्याढ्या दरिद्राश्च सुखानि च ।  
 यौगपद्याद्धि भुञ्जाना दृश्यन्ते लोकसाक्षिकम् ॥ १४५
@@ -13604,11 +13673,11 @@ The Presidency College,
 
 एवं कालेन सङ्क्रान्तं शरीरं जर्झरीकृतम् ।
 
-अकर्मयोग्यं संशीर्णं[^516] त्यक्त्वा देही ततो व्रजेत् ॥ १५२
+अकर्मयोग्यं संशीर्णं[^634] त्यक्त्वा देही ततो व्रजेत् ॥ १५२
 
-[^516]: "क ख - संकीर्णं त्यक्त्वा देवि ;घ-संकीर्णं"
+[^634]: # "क ख - सङ्कीर्णं त्यक्त्वा देवि ; घ-सङ्कीर्णं"
 
-नित्यस्यानित्यसंत्यागाल्लोके तन्मरणं विदुः ।  
+नित्यस्यानित्यसन्त्यागाल्लोके तन्मरणं विदुः ।  
 कालं नातिक्रमेरन् हि सदेवासुरमानवाः ॥ १५३
 
 यथाऽऽकाशे न तिष्ठेत द्रव्यं किञ्चिदचेतनम् ।  
@@ -13625,18 +13694,18 @@ The Presidency College,
 केवलं कालमरणं न प्रमाणं महेश्वर ।  
 तस्मान्मे संशयं ब्रूहि प्राणिनां जीवकारणम् ॥ १५७
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 शृणु तत् कारणं देवि निर्णयस्त्वेक एव सः ।  
 जीर्णत्वमात्रं कुरुते कालो देहं न पातयेत् ॥ १५८
 
-जीर्णे कर्मणि[^517] सङ्घातस् स्वयमेव विशीर्यते ।  
+जीर्णे कर्मणि[^635] सङ्घातस् स्वयमेव विशीर्यते ।  
 पूर्वकर्मप्रमाणेन जीवितं मृत्युरेव वा ॥ १५९
 
-[^517]: "अ—तु कर्मसङ्क्षते"
+[^635]: # "अ—तु कर्मसङ्क्षते"
 
 यावत् पूर्वकृतं कर्म तावज्जीवति मानवः ।  
-तत्र कर्मवशाद्बाला म्रियन्ते कालसङ्क्षयात् ॥१६०
+तत्र कर्मवशाद्बाला म्रियन्ते कालसङ्क्षयात् ॥ १६०
 
 चिरं जीवन्ति वृद्धाश्च तथा कर्मप्रमाणतः ।  
 इति ते कथितं देवि निर्विशङ्का भव प्रिये ॥ १६१
@@ -13654,10 +13723,10 @@ The Presidency College,
 अहिंसा सत्यवचनम् अक्रोधः क्षान्तिरार्जवम् ।  
 गुरुणां नित्यशुश्रूषा वृद्धानामपि पूजनम् ॥ १६४
 
-शौचादकार्यसन्त्यागस्[^518] सदा पथ्यस्य भोजनम् ।  
+शौचादकार्यसन्त्यागस्[^636] सदा पथ्यस्य भोजनम् ।  
 एवमादिगुणं वृत्तं नराणां दीर्घजीविनाम् ॥ १६५
 
-[^518]: " ख – शौचं चाकार्यसंत्यागः"
+[^636]: # " ख – शौचं चाकार्यसन्त्यागः"
 
 तपसा ब्रह्मचर्येण रसायननिषेवणात् ।  
 उदग्रसत्त्वा बलिनो भवन्ति चिरजीविनः ॥ १६६
@@ -13680,9 +13749,9 @@ The Presidency College,
 आयुःक्षयो भवेन्नृणाम् आयुःक्षयकरा हि ते ॥ १७१
 
 भवन्त्यल्पायुषस्तैस्तैर् अन्यथा चिरजीविनः ।  
-एतत् ते कथितं सर्वं भूयश्श्रोतुं किमिच्छसि[^519] ॥ १७२
+एतत् ते कथितं सर्वं भूयश्श्रोतुं किमिच्छसि[^637] ॥ १७२
 
-[^519]: "सर्वेषु कोशेपु अवैवाध्यायसमाप्तिर्दृश्यते"
+[^637]: # "सर्वेषु कोशेपु अवैवाध्यायसमाप्तिर्दृश्यते"
 
 **उमा—**
 
@@ -13690,13 +13759,14 @@ The Presidency College,
 आत्मनो जातिसम्बन्धं ब्रूहि स्त्रीपुरुषान्तरे॥ १७३
 
 स्त्रीप्राणः पुरुषप्राण एकस्स पृथगेव वा ।  
-एष मे संशयो देव तं मे छेत्तुं[^520] त्वमर्हसि ॥ १७४
+एष मे संशयो देव तं मे छेत्तुं[^638] त्वमर्हसि ॥ १७४
 
-[^520]: " क-घ - शंसितु"
+[^638]: # " क-घ - शंसितु"
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि शृणु सर्वं समाहिता।  
+
 
 स्त्रीत्वं पुंस्त्वमिति प्राणे स्थितिर्नास्ति शुभेक्षणे ॥ १७५
 
@@ -13749,12 +13819,12 @@ The Presidency College,
 किमर्थमात्मा भिन्नेऽस्मिन देहे शस्त्रेण वा हते ।  
 स्वयं प्रयास्यति तदा तन्मे शंसितुमर्हसि॥ १८९.
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि शृणु कल्याणि कारणम् ।  
-एत न्नैर्मापिकैश्चापि[^521] मुह्यन्ते सूक्ष्मबुद्धिभिः ॥ १९०
+एत न्नैर्मापिकैश्चापि[^639] मुह्यन्ते सूक्ष्मबुद्धिभिः ॥ १९०
 
-[^521]: "घ - न्नैर्मार्यकैश्चापि"
+[^639]: # "घ - न्नैर्मार्यकैश्चापि"
 
 कर्मक्षये तु सम्प्राप्ते प्राणिनां जन्मधारिणाम् ।  
 उपद्रवो भवेद्देहे येन केनापि हेतुना ॥ १९१
@@ -13762,20 +13832,20 @@ The Presidency College,
 तन्निमित्तं शरीरी तु शरीरं प्राप्य सङ्क्षयम् ।  
 अपयाति परित्यज्य ततः कर्मवशेन सः ॥ १९२
 
-देहः क्षयति[^522] नैवात्मा वेदनाभिर्न चाल्यते ।  
+देहः क्षयति[^640] नैवात्मा वेदनाभिर्न चाल्यते ।  
 तिष्ठेत् कर्मफलं यावद् व्रजेन कर्मक्षये पुनः ॥ १९३
 
-[^522]: " घ - देहक्षयेऽपि"
+[^640]: # " घ - देहक्षयेऽपि"
 
 आदिप्रभृति लोकेऽस्मिन्नेवमात्मगतिस्मृता ।  
 एतत्ते कथितं देवि किं भूयश्श्रोतुमिच्छसि ॥ १९४
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चविंशत्यधिकशततमोऽध्यायः ॥ १२५ ॥  
 ॥ ८९ ॥ आनुशासनिक पर्वणि पञ्चविंशत्यधिकशततमोऽध्यायः ॥ १२५ ॥  
-\[ अस्मिन्नध्याये १९४ लोकाः\]
+\[ अस्मिन्नध्याये १९४ लोकाः\]**
 
-————
+**————**
 
 **॥ षड्विंशत्यधिकशततमोऽध्यायः ॥**
 
@@ -13788,9 +13858,9 @@ The Presidency College,
 **उमा—**
 
 भगवन देवदेवेश कर्मणैव शुभाशुभम् ।  
-यथायोगं फलं जन्तुः प्राप्नोतीति विनिश्चयः ॥१
+यथायोगं फलं जन्तुः प्राप्नोतीति विनिश्चयः ॥ १
 
-परेषां विप्रियं कुर्वन्यथा सम्प्राप्नुयाच्छुभम् ।  
+परेषां विप्रियं कुर्वन् यथा सम्प्राप्नुयाच्छुभम् ।  
 यद्येतदस्मिश्चेद्देहे तन्मे शंसितुमर्हसि॥ २
 
 **श्रीमहेश्वरः—**
@@ -13798,10 +13868,10 @@ The Presidency College,
 तदप्यस्ति महाभागे अभिसन्धिबलान्नृणाम् ।  
 हितार्थं दुःखमन्येषां कृत्वा सुखमवाप्नुयात् ॥ ३
 
-दण्डयन[^523]्भर्त्सयन राजा प्रजाः पुण्यमवाप्नुयात् ।  
+दण्डयन[^641]् भर्त्सयन राजा प्रजाः पुण्यमवाप्नुयात् ।  
 गुरुस्सन्तर्जयञ् शिष्यान् भर्ता भृत्यजनान् स्वकान् ॥ ४
 
-[^523]: "अ – इदमधं नास्ति"
+[^641]: # "अ – इदमधं नास्ति"
 
 उन्मार्गप्रतिपन्नांश्च शास्ता धर्मफलं लभेत् ॥ ४ ॥
 
@@ -13832,9 +13902,9 @@ The Presidency College,
 पक्षिणश्छिद्रकर्णाश्च प्राणिनस्त्वण्डजा मताः ।  
 मृगव्यालमनुष्यांश्च विद्धि तेषां जरायुजान् ॥ १२
 
-एवं चतुर्विधां जातिम् आत्मा संसृत्य[^524] तिष्ठति ॥ १२ ॥
+एवं चतुर्विधां जातिम् आत्मा संसृत्य[^642] तिष्ठति ॥ १२ ॥
 
-[^524]: "ख - संश्रित्य"
+[^642]: # "ख - संश्रित्य"
 
 स्पर्शेनैकेन्द्रियेणात्मा तिष्ठत्युद्भिदजेषु वै ।  
 शरीरस्पर्शरूपाभ्यां स्वेदजेष्वपि तिष्ठति ॥ १३ ॥
@@ -13861,14 +13931,15 @@ The Presidency College,
 चरतस्तु समुद्भूता वेदास्साङ्गास्सहोत्तराः ।  
 ताल्ँलब्ध्वा मुमुदे ब्रह्मा लोकानां हितकाम्यया ॥ २० ॥
 
-देहजं तत् तमो घोरं वेदैरेव[^525] विनाशितम्॥ २१
+देहजं तत् तमो घोरं वेदैरेव[^643] विनाशितम्॥ २१
 
-[^525]: "अ-क - भूतैरेव"
+[^643]: # "अ-क - भूतैरेव"
 
 कार्याकार्यमिदं चेति वाच्यावाच्यमिदं त्विति ।  
 यदि चेन्न भवेल्लोके श्रुतं चारित्रदैशिकम्॥ २२
 
 पशुभिर्निविशेषं तु चेष्टन्ते मानुषा अपि ॥ २२ ॥  
+
 
 यज्ञादीनां समारम्भश् श्रुतेनैव विधीयते ।  
 यज्ञस्य फलयोगेन देवलोकस्समृद्ध्यते ॥ २३ ॥
@@ -13876,10 +13947,10 @@ The Presidency College,
 प्रीतियुक्ताः पुनर्देवा मानुषाणां भवन्त्युत ।  
 एवं नित्यं प्रवर्धेते रोदसी च परस्परम् ॥ २४ ॥
 
-लोक सन्धारणं[^526] तस्माच् छ्रुतमित्यवधारय ।  
+लोक सन्धारणं[^644] तस्माच् छ्रुतमित्यवधारय ।  
 ज्ञानाद्विशिष्टं जन्तूनां नास्ति लोकत्रयेऽपि च ॥ २५ ॥
 
-[^526]: "क-घ-सन्तारणं"
+[^644]: # "क-घ-सन्तारणं"
 
 सहजं तत् प्रधानं स्याद् अपरं कृत्रिमं श्रुतम् ।  
 उभयं यत्र सम्पन्नं भवेत्तत्र तु शोभनम् ॥ २६ ॥
@@ -13904,26 +13975,26 @@ The Presidency College,
 
 एतन्मे तत्त्वतो देव मानुषेषु वदस्व भो॥ ३२
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि शृणु तत्वं समाहिता ॥ ३२ ॥
 
-ये मृतास्सहसा मर्त्याजायन्ते सहसा पुनः ।  
+ये मृतास्सहसा मर्त्या जायन्ते सहसा पुनः ।  
 तेषां पौराणिकोऽभ्यासः कश्चित् कालं हि तिष्ठति ॥ ३३ ॥
 
 तस्माज्जातिस्मरा लोके जायन्ते बोधसंयुताः ।  
-तेषां विवर्धतां संज्ञा स्वप्नवत् सा प्रणश्यति ॥ ३४ ॥
+तेषां विवर्धतां सञ्ज्ञा स्वप्नवत् सा प्रणश्यति ॥ ३४ ॥
 
-परलोकस्य चास्तित्वे मूढानां[^527] कारणं त्विदम् ॥ ३६
+परलोकस्य चास्तित्वे मूढानां[^645] कारणं त्विदम् ॥ ३६
 
-[^527]: " क ख - घ – लोकानां + तत्"
+[^645]: # " क ख - घ – लोकानां + तत्"
 
 **उमा—**
 
 भगवन् मानुषाः केचिन्मृता भूत्वाऽपि सम्प्रति ।  
 निवर्तमाना दृश्यन्ते देहेष्वेव पुनर्नराः ॥ ३६
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि कारणं श्रृणु शोभने ॥ ३६ ॥
 
@@ -13933,48 +14004,48 @@ The Presidency College,
 वहन्ति ते कचिन्मोहाद् अन्यं मर्त्यं तु धार्मिकाः ।  
 निर्विकारं हि तत् सर्वं यमो वेद कृताकृतम् ॥ ३८ ॥
 
-तस्मात् संयमनीं प्राप्य यमेनैकेन मोक्षिताः[^528] ।  
+तस्मात् संयमनीं प्राप्य यमेनैकेन मोक्षिताः[^646] ।  
 पुनरेव निवर्तन्ते शेषं भोक्तुं स्वकर्मणः ॥ ३९ ॥
 
-[^528]: " ख - तोषिताः"
+[^646]: # " ख - तोषिताः"
 
 स्वकर्मण्यसमाप्ते तु निवर्तन्ते हि मानवाः ॥ ४०
 
 **उमा—**
 
-भगवन् सुप्तमात्रेण प्राणिनां[^529] स्वप्नदर्शनम् ।  
+भगवन् सुप्तमात्रेण प्राणिनां[^647] स्वप्नदर्शनम् ।  
 किं तत् स्वभावमन्यद्वा तन्मे शंसितुमर्हसि ॥ ४१
 
-[^529]: " मर्यानां स्व"
+[^647]: # " मर्यानां स्व"
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 सुप्तानां तु मनश्चेष्टा स्वप्न इत्यभिधीयते ।  
 अनागतमतिक्रान्तं पश्यते सञ्चरन् मनः ॥ ४२
 
-निमित्तं[^530] च भवेत्तस्मान् प्राणिनां स्वप्नदर्शनम् ।  
-एतत्ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^6] ॥ ४३
+निमित्तं[^648] च भवेत्तस्मान् प्राणिनां स्वप्नदर्शनम् ।  
+एतत्ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^15] ॥ ४३
 
-[^530]: "अ - इदमर्धं नास्ति"
+[^648]: # "अ - इदमर्धं नास्ति"
 
 **उमा—**
 
-भगवन् सर्वभूतेश[^532] लोके कर्मक्रियापथे ।  
+भगवन् सर्वभूतेश[^650] लोके कर्मक्रियापथे ।  
 दैवात् प्रवर्तते सर्वम् इति केचिद्व्यवस्थिताः ॥ ४४
 
-[^532]: "क – लोकेश"
+[^650]: # "क – लोकेश"
 
-अपरे चेष्टया चेति दृष्ट्वाप्रत्यक्षतः क्रियाम्।  
+अपरे चेष्टया चेति दृष्ट्वा प्रत्यक्षतः क्रियाम्।  
 पक्षभेदे द्विधा चास्मिन संशयस्थं मनो मम ॥ ४५
 
-तत्त्वं वदमहादेव श्रोतुं कौतूहलं हि मे ॥ ४५ ॥
+तत्त्वं वद महादेव श्रोतुं कौतूहलं हि मे ॥ ४५ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि शृणु तत्त्वं समाहिता।  
-तदेवं कुरुते कर्म लोके देवि[^533] शुभाशुभम् ॥ ४६ ॥
+तदेवं कुरुते कर्म लोके देवि[^651] शुभाशुभम् ॥ ४६ ॥
 
-[^533]: "ख- इतः पट् पादा न सन्ति"
+[^651]: # "ख- इतः पट् पादा न सन्ति"
 
 लक्ष्यते द्विविधं कर्म मानुषेष्वेव तच्छृणु ।  
 पुराकृतं तयोरेकम् ऐहिकं त्वितरत्तथा ॥ ४७ ॥
@@ -13991,27 +14062,28 @@ The Presidency College,
 रोपणं चैव लवनं यच्चान्यत् पौरुषं स्मृतम् ।  
 दैवादसिद्धिश्च भवेद् दुष्कृतं चास्ति पौरुषे ॥ ५१ ॥
 
-सुयत्नाल्लभ्यते[^534] कीर्तिर दुर्यत्नादयशस्तथा ।  
+सुयत्नाल्लभ्यते[^652] कीर्तिर दुर्यत्नादयशस्तथा ।  
 एवं लोकगतिर्देवि आदिप्रभृति वर्तते ॥ ५२ ॥  
 
-[^534]: " क ख - घ ल्लभते कोर्तिं"
+
+[^652]: # " क ख - घ ल्लभते कोर्तिं"
 
 **उमा—**
 
 भगवन् सर्वलोकेश सुरासुरनमस्कृत ।  
-कथमात्मा सदा गर्भंसंविशेत् कर्मकारणात् ॥ ५३॥
+कथमात्मा सदा गर्भं संविशेत् कर्मकारणात् ॥ ५३॥
 
 तन्मे वद महादेव तद्धि गुह्यं परं मतम् ॥ ५४
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 शृणु भामिनि तत् सर्वं गुह्यानां परमं प्रिये ।  
 देवगुह्यादपि परम् आत्मगुह्यमिति स्मृतम् ॥ ५५
 
-देवासुरास्तन्न विदुर् आत्मनो हि गतागतम् ।[^535]  
+देवासुरास्तन्न विदुर् आत्मनो हि गतागतम् ।[^653]  
 अदृश्यो हि सदैवात्मा शैघ्य्रात् सौक्ष्म्यान्निराश्रयान् ॥ ५६
 
-[^535]: "ख - हिताहितम्"
+[^653]: # "ख - हिताहितम्"
 
 अतिमायेति मायानाम् आत्ममाया सदेष्यते ।  
 सोऽयं चतुर्विधां जाति संविशत्यात्ममायया ॥ ५७
@@ -14026,17 +14098,17 @@ The Presidency College,
 कलिलाज्जायते पिण्डं पिण्डात् पेश्यर्बुदं भवेत् ।  
 व्यक्तिभावगतं चैव कर्म त्वाश्रयते क्रमात् ॥ ६०
 
-एवं विवर्धमानेन कर्मणाऽऽत्मा[^536] स वर्धते ।  
+एवं विवर्धमानेन कर्मणाऽऽत्मा[^654] स वर्धते ।  
 एवमात्मगतं विद्धि यन्मां पृच्छसि सुप्रभे ॥ ६१
 
-[^536]: " अ क ग घ – कर्मात्मा सह वर्धते"
+[^654]: # " अ क ग घ – कर्मात्मा सह वर्धते"
 
 रोपणं चैव लवनं यच्चान्यत् पौरुषं स्मृतम् ॥ ६१ ॥
 
-काले वृष्टिस्सुवापं[^537] च प्ररोहः पङ्क्तिरेव च ।  
+काले वृष्टिस्सुवापं[^655] च प्ररोहः पङ्क्तिरेव च ।  
 एवमादि तु यच्चान्यत् तदैवतमिति स्मृतम् ॥ ६२ ॥
 
-[^537]: " क घ- वृत्तिः"
+[^655]: # " क घ - वृत्तिः"
 
 पञ्चभूतस्थितिश्चैव ज्योतिपामयनं तथा ।  
 अबुद्धिगम्यं यन्मर्यैर् हेतुभिर्वा न विद्यते ॥ ६३ ॥
@@ -14085,6 +14157,7 @@ The Presidency College,
 
 पुराकृतस्याविज्ञानात् कामक्रोधाभिपीडिताः ।  
 
+
 नैतदस्तीति मन्वाना विकारांश्चक्रिरे पुनः॥ ७८
 
 अकार्यादिमहादोपान् आहरन्त्यात्मकारणात् ।  
@@ -14111,7 +14184,7 @@ The Presidency College,
 गर्भादावेव संविष्ट आत्मा तु भगवन् मम ।  
 एष मे संशयो देव तन्मे छेत्तुं त्वमर्हसि ॥८५
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि शृणु तत्त्वं समाहिता ॥ ८५ ॥
 
@@ -14146,16 +14219,17 @@ The Presidency College,
 पक्षभेदान्तरे चास्मिस् तत्त्वं मे वक्तुमर्हसि ।  
 उक्तं भगवता यत्तु तत्तु लोकस्य संस्थितिः ॥ ९४ ॥  
 
+
 **नारदः—**
 
-प्रश्नमेतत्तु पृच्छन्त्या रुद्राण्या परिषत्तदा[^538] ।  
-कौतूहलयुता श्रोतुं समाहितमनाऽभवत्[^539] ॥ ९५ ॥
+प्रश्नमेतत्तु पृच्छन्त्या रुद्राण्या परिषत्तदा[^656] ।  
+कौतूहलयुता श्रोतुं समाहितमनाऽभवत्[^657] ॥ ९५ ॥
 
-[^538]: "ख – शङ्करोऽवदत्"
+[^656]: # "ख – शङ्करोऽवदत्"
 
-[^539]: "ख - सा समाहितमानसा"
+[^657]: # "ख - सा समाहितमानसा"
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 नैतदस्ति महाभागे यद्वदन्तीह नास्तिकाः ।  
 एतदेवाभिशस्तानां श्रुतविद्वेषिणां मतम् ॥ ९६ ॥
@@ -14178,7 +14252,7 @@ The Presidency College,
 नास्त्यस्तीति पुनर्जन्म कवयोऽप्यत्र मोहिताः ।  
 नाधिगच्छन्ति तन्नित्यं हेतुवादशतैरपि ॥ १०२ ॥
 
-एषाब्रह्मकृता माया दुर्विज्ञेया सुरासुरैः ।  
+एषा ब्रह्मकृता माया दुर्विज्ञेया सुरासुरैः ।  
 किम्पुनर्मानवैर्लोके ज्ञातुकामैः कुबुद्धिभिः ॥ १०३ ॥
 
 केवलं श्रद्धया देवि श्रुतिमात्रनिविष्टया ।  
@@ -14189,14 +14263,14 @@ The Presidency College,
 
 एतत्ते कथितं देवि ऋषिगुह्यं प्रजाहितम् \।\। १०६
 
-इति श्रीमहाभारते शतसहस्रिकायांसंहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि षड्विंशत्यधिकशततमोऽध्यायः ॥ १२६ ॥  
 \।\। ८९ \।\। आनुशासनिकपर्वणि षड्विंशत्यधिकशततमोऽध्यायः ॥ १२६ ॥  
-\[ अस्मिन्नध्याये १०६ श्लोकाः \]
+\[ अस्मिन्नध्याये १०६ श्लोकाः \]**
 
-——————
+**——————**
 
-\।\। सप्तविंशत्यधिकशततमोऽध्यायः ॥
+**\।\। सप्तविंशत्यधिकशततमोऽध्यायः ॥**
 
  महादेवेन देवीं प्रति यमनगरतन्मार्गादिप्रतिपादनपूर्वकं पापिनां यातनानुभवप्रकारादिप्रतिपादनम्॥१॥ तथा रौरवादिनरकविभजनपूर्वकं प्राणिनां दुष्कृततारतम्येन तेषु यातनानुभवप्रकारकथनम् \।\।२\।\। तथा यातनानुभवानन्तरं कर्मशेषफलतया नानानीचयोनिप्राप्त्यादिकथनम् ॥ ३ ॥
 
@@ -14207,14 +14281,14 @@ The Presidency College,
 भगवन् सर्वलोकेश त्रिपुरार्दन शङ्कर \।  
 कीदृशा यमदण्डास्ते कीदृशाः परिचारकाः ॥ १
 
-कथं मृतास्ते गच्छन्ति प्राणिनो यम सादनम् ।[^540]  
+कथं मृतास्ते गच्छन्ति प्राणिनो यम सादनम् ।[^658]  
 कीदृशं भवनं तस्य कथं दण्डयति प्रजाः ॥ २
 
-[^540]: " क घ - शासनम्"
+[^658]: # " क घ - शासनम्"
 
 एतत् सर्वं महादेव श्रोतुमिच्छाम्यहं प्रभो ॥ २
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 शृणु कल्याणि तत् सर्वं यत्ते देवि मनःप्रियम् ।  
 दक्षिणस्यां दिशि शुभे यमस्य सदनं महत् ॥ ३ ॥
@@ -14225,13 +14299,14 @@ The Presidency College,
 प्राणिसङ्घैश्च बहुभिः कर्मवश्यैश्च पूरितम् ।  
 तत्रास्ते दण्डयन् नित्यं यमो लोकहिते रतः ॥ ५ ॥  
 
+
 मायया सततं वेत्ति प्राणिनां यच्छुभाशुभम् \।  
 मायया संहरंस्तत्र प्राणिसङ्घान यतस्ततः ॥ ६ ॥
 
 तस्य मायामयाः पाशा न वेद्यन्ते सुरासुरैः ।  
-को हि मानुषमात्रस्तु देवस्य चरितं महत् ॥[^541] ७ ॥
+को हि मानुषमात्रस्तु देवस्य चरितं महत् ॥[^659] ७ ॥
 
-[^541]: "ख - इतः पटू पादा न सन्ति"
+[^659]: # "ख - इतः पटू पादा न सन्ति"
 
 एवं संवसतस्तस्य यमस्य परिचारकाः ।  
 गृहीत्वा सन्नयन्त्येव प्राणिनः क्षीणकर्मणः ॥ ८ ॥
@@ -14239,14 +14314,14 @@ The Presidency College,
 येन केनापदेशेन त्वपदेशस्तदुद्भवः ॥ ९
 
 कर्मणा प्राणिनो लोके उत्तमाघममध्यमाः \।  
-यथार्हं तान्[^542] समादाय नयन्ति यमसादनम् ॥ १०
+यथार्हं तान्[^660] समादाय नयन्ति यमसादनम् ॥ १०
 
-[^542]: " क - अर्धचतुष्टयं नास्ति"
+[^660]: # " क - अर्धचतुष्टयं नास्ति"
 
 धार्मिकानुत्तमान् विद्धि स्वर्गिणस्ते यथाऽमराः ।  
-नृषु[^543] जन्म लभन्ते ये कर्मणा मध्यमास्स्मृताः ॥११
+नृषु[^661] जन्म लभन्ते ये कर्मणा मध्यमास्स्मृताः ॥११
 
-[^543]: "घ - त्रिषु"
+[^661]: # "घ - त्रिषु"
 
 तिर्यङ्नरकगन्तारो ह्यधमास्ते नराधमाः ॥ ११ ॥
 
@@ -14257,6 +14332,7 @@ The Presidency College,
 धूपितं सिक्तसम्मृष्टं पुष्पमालाभिसङ्कुलम् ॥ १३ ॥
 
 मनोहरं सुखस्पर्शं गच्छतामेव तद्भवेत् ।  
+
 
 निराबाधं यथालोकं सुप्रशस्तं कृतं भवेत् ॥ १४ ॥
 
@@ -14269,14 +14345,14 @@ The Presidency College,
 सन्नयन्ति यथा काले तन्मे शृणु शुचिस्मिते ॥ १७
 
 उत्तमानन्तकाले तु यमदूतास्सुसंवृताः ।  
-नयंन्ति सुखमादाय रमणीयपथेन वै ॥ १८
+नयन्न्ति सुखमादाय रमणीयपथेन वै ॥ १८
 
 **उमा—**
 
-भगवंस्तत्र चात्मानं त्यक्तदेहं गतश्रियम् ।[^544]  
-अदृश्यं कथमादाय संनयन्ति यमान्तिकम् ॥ १९
+भगवंस्तत्र चात्मानं त्यक्तदेहं गतश्रियम् ।[^662]  
+अदृश्यं कथमादाय सन्नयन्ति यमान्तिकम् ॥ १९
 
-[^544]: " क-घ- श्रियाश्रयम्; ख— निराश्रयम्"
+[^662]: # " क-घ - श्रियाश्रयम्; ख— निराश्रयम्"
 
 **श्रीमहेश्वरः—**
 
@@ -14291,27 +14367,28 @@ The Presidency College,
 शरीरैर्यातनावश्यैर् जीवानामुच्य भामिनि ।  
 नयन्ति यामिकास्तत्र प्राणिनो मायया मृतान् ॥ २२ ॥  
 
+
 मध्यमान् योधवेषेण मध्यमेन पथा तथा ॥ २३
 
-चण्डालवेषास्त्वधमान् गृहीत्वा भर्त्सतर्जनैः ।[^545]  
+चण्डालवेषास्त्वधमान् गृहीत्वा भर्त्सतर्जनैः ।[^663]  
 आकर्षन्तस्तथा पाशैर् दुर्दर्शेन नयन्ति तान् ॥ २४
 
-[^545]: " घ - हस्त"
+[^663]: # " घ - हस्त"
 
 त्रिविधानेवमादाय नयन्ति यमसादनम् ॥ २४
 
 धर्मासनगतं दक्षं भ्राजमानं स्वतेजसा ।  
 लोकपालं सभाध्यक्षं तथैव परिषद्गतम् ॥ २५ ॥
 
-दर्शयन्ति महाभागे**यामिकास्तं**[^546] निवेद्य ते ॥२६
+दर्शयन्ति महाभागे **यामिकास्तं**[^664] निवेद्य ते ॥२६
 
-[^546]: "घ - धार्मिकास्तान्"
+[^664]: # "घ - धार्मिकास्तान्"
 
 पूजयन् दण्डयन् कांश्चित् तेषां शृण्वञ् शुभाशुभम् ।  
 व्यावृतो बहुसाहस्रैस् तत्रास्ते सततं यमः ॥ २७
 
 गतानां तु यमस्तेषाम् उत्तमानभिपूजयेत् ।  
-अभिसङ्गृह्यविधिवत् पृष्ट्वा स्वागतकौशलम् ॥ २८
+अभिसङ्गृह्य विधिवत् पृष्ट्वा स्वागतकौशलम् ॥ २८
 
 प्रस्तुत्य तत् कृतं तेषां लोकं सन्दिशते यमः ॥ २८ ॥
 
@@ -14323,15 +14400,16 @@ The Presidency College,
 अधमान् पाशसंयुक्तान यमो नावेक्षते गतान् ।  
 यमस्य पुरुषा घोराश् चण्डालसमदर्शनाः॥ ३१
 
-यातनाः प्रापयन्त्येताल्ँलोकपालस्य शासनात् ॥ ३१ ॥  
+यातनाः प्रापयन्त्येताल्ँ लोकपालस्य शासनात् ॥ ३१ ॥  
+
 
 भिन्दन्तश्च तुदन्तश्च प्रकर्षन्तो यतस्ततः ।  
 क्रोशन्तः पातयन्त्येतान् मिथो गर्तेष्ववाङ्मुखान् ॥ ३२ ॥
 
-संयामिन्यश्शिलाश्चैषां[^547] पतन्ति शिरसि प्रिये ।  
+संयामिन्यश्शिलाश्चैषां[^665] पतन्ति शिरसि प्रिये ।  
 अयोमुखाः कङ्कवला भक्षयन्ति सुदारुणाः ॥ ३३ ॥
 
-[^547]: " क ख घ–सङ्घाति"
+[^665]: # " क ख घ–सङ्घाति"
 
 असिपत्रवने घोरे चारयन्ति तथा परान् ।  
 तीक्ष्णदंष्ट्रास्तथा श्वानः कांश्चित्तत्र ह्यदन्ति वै ॥ ३४ ॥
@@ -14345,15 +14423,16 @@ The Presidency College,
 यन्त्रचक्रेषु तिलवत् पीड्यन्ते तत्र केचन ।  
 अङ्गारेषु च दह्यन्ते तथा दुष्कृतकारिणः ॥ ३७ ॥
 
-कुम्भीपाकेषु पच्यन्ते पच्यन्ते[^892] सिकतासु वै ।  
+कुम्भीपाकेषु पच्यन्ते पच्यन्ते[^666] सिकतासु वै ।  
 पाठ्यन्ते तरुवच्छस्त्रैः पापिनः क्रकचादिभिः ॥ ३८ ॥
 
-[^892]: #
+[^666]: #
 
 भिद्यन्ते भागशश्शूलैस् तुद्यन्ते सूक्ष्मसूचिभिः ॥ ३९
 
 एवं त्वया कृतो दोषस् तदर्थं दण्डनं त्विति ।  
 वाचैवं घोषयन्ति स्म दण्डमानास्समन्ततः ॥ ४०  
+
 
 एवं ते यातनां प्राप्य शरीरैर्यातनाशयैः ।  
 प्रसहन्तश्च तद्दुःखं स्मरन्तस्स्वापराधजम् \।॥ ४१
@@ -14367,16 +14446,16 @@ The Presidency College,
 अपरे यातना भुक्त्वा मुच्यन्ते तत्र किल्बिषात् ॥ ४३॥
 
 पापदोषक्षयकरा यातना संस्मृता नृणाम् \।  
-बहु तप्तं यथा लोहम् अमलं तत्तथा भवेत्[^548] ॥ ४४ ॥
+बहु तप्तं यथा लोहम् अमलं तत्तथा भवेत्[^667] ॥ ४४ ॥
 
-[^548]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिदृश्यते"
+[^667]: # "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिदृश्यते"
 
 **उमा-**
 
 भगवंस्ते कथं तत्र दण्ड्यन्ते नरकेषु वै ।  
-कति ते नरका घोराः कीदृशास्ते महेश्वर[^549] ॥ ४५ ॥
+कति ते नरका घोराः कीदृशास्ते महेश्वर[^668] ॥ ४५ ॥
 
-[^549]: "ख – वद प्रभो"
+[^668]: # "ख – वद प्रभो"
 
 **श्रीमहेश्वरः --**
 
@@ -14392,24 +14471,24 @@ The Presidency College,
 ते चिरं तत्र तिष्ठन्ति न तत्र शयनासने ।  
 क्रिमिभिर्भक्ष्यमाणाश्च विष्ठागन्धसमायुताः ॥ ४९ ॥
 
-एवं प्रमाणमुद्विग्नायावत्तिष्ठन्ति तत्र ते ।  
+एवं प्रमाणमुद्विग्ना यावत्तिष्ठन्ति तत्र ते ।  
 यातनाभ्यो दशगुणं नरके दुःखमिष्यते ॥ ५० ॥
 
 तत्र चात्यन्तिकं दुःखम् इष्यते च शुभेक्षणे ।  
 क्रोशन्तश्च रुदन्तश्च वेदनास्तत्र भुञ्जते ॥ ५१ ॥
 
 भ्रमन्ति दुःखमोक्षार्थं ज्ञाता कश्चिन्न विद्यते ।  
-दुःखस्यान्तरमात्रं तु ज्ञानं[^550] वा न च लभ्यते ॥ ५२ ॥
+दुःखस्यान्तरमात्रं तु ज्ञानं[^669] वा न च लभ्यते ॥ ५२ ॥
 
-[^550]: ". ख - द्वारं"
+[^669]: # ". ख - द्वारं"
 
-महारौरवसंज्ञं तु द्वितीयं नरकं प्रिये ।  
+महारौरवसञ्ज्ञं तु द्वितीयं नरकं प्रिये ।  
 तस्माद्द्विगुणितं विद्धि माने दुःखे च रौरवात् ॥ ५३ ॥
 
-तृतीयं नरकं तत्र कण्टकावनसंज्ञितम् \।  
-ततो द्विगुणितं[^893] तच्च पूर्वाभ्यां दुःखमानयोः ॥ ५४ ॥
+तृतीयं नरकं तत्र कण्टकावनसञ्ज्ञितम् \।  
+ततो द्विगुणितं[^670] तच्च पूर्वाभ्यां दुःखमानयोः ॥ ५४ ॥
 
-[^893]: #
+[^670]: #
 
 महापातकसंयुक्ता घोरास्तस्मिन् विशन्ति हि ॥ ५५
 
@@ -14417,9 +14496,9 @@ The Presidency College,
 एतद्विगुणितं तस्माद् यथाऽनिष्टसुखं तथा ॥ ५६
 
 ततो दुःखं हि सुमहद् अमानुषमिति स्मृतम् ।  
-भुञ्जते[^551] तत्र तत्रैव दुःखं दुष्कृतकारिणः ॥ ५७
+भुञ्जते[^671] तत्र तत्रैव दुःखं दुष्कृतकारिणः ॥ ५७
 
-[^551]: " अ - अर्धचतुष्ट्यं नास्ति"
+[^671]: # " अ - अर्धचतुष्ट्यं नास्ति"
 
 पञ्चकष्टमिति ख्यातं नरकं पञ्चमं प्रिये ।  
 तत्र दुःखमनिर्देश्यं महाघोरं यथातथम् ॥ ५८
@@ -14453,13 +14532,13 @@ The Presidency College,
 **उमा-**
 
 भगवन् कतिकालं ते तिष्ठन्ति नरकेषु वै ।  
-एतद्वेदितुमिच्छामि[^552] तन्मे ब्रूहि महेश्वर ॥ ६७ ॥
+एतद्वेदितुमिच्छामि[^672] तन्मे ब्रूहि महेश्वर ॥ ६७ ॥
 
-[^552]: "क ख - घ - इदमर्धं नास्ति"
+[^672]: # "क ख - घ - इदमर्धं नास्ति"
 
 **श्रीमहेश्वरः -**
 
-शतवर्षसहस्राणाम् आदिंकृत्वा हि जन्तवः \।  
+शतवर्षसहस्राणाम् आदिं कृत्वा हि जन्तवः \।  
 तिष्ठन्ति नरकावासाः प्रलयान्तमिति स्थितिः ॥ ६८ ॥
 
 **उमा—**
@@ -14480,10 +14559,10 @@ The Presidency College,
 
 गन्धर्वा भूतसङ्घाश्च तेषां पापयुता भृशम् ॥ ७२ ॥
 
-चतुर्थे[^553] परिपच्यन्ते तादृशा नरकास्स्मृताः \।  
+चतुर्थे[^673] परिपच्यन्ते तादृशा नरकास्स्मृताः \।  
 चतुर्थे परितप्यन्ते यावद्युगविपर्ययः ॥ ७३ ॥
 
-[^553]: " क - इदमर्धं नास्ति"
+[^673]: # " क - इदमर्धं नास्ति"
 
 सहन्तस्तादृशं घोरं पञ्चकष्टे तु यादृशम् ।  
 तत्रास्य चिरदुःखस्य ह्यधोऽन्यान् विद्धि मानुपान् ॥ ७४ ॥
@@ -14502,20 +14581,20 @@ The Presidency College,
 
 **श्रीमहेश्वरः-**
 
-तदहं ते प्रवक्ष्यामि यत्त्वमिच्छसि शोभने ।[^554]  
+तदहं ते प्रवक्ष्यामि यत्त्वमिच्छसि शोभने ।[^674]  
 सर्वदाऽऽत्मा कर्मवशो नानाजातिषु जायते ॥ ७८ ॥
 
-[^554]: "ख - भामिनि"
+[^674]: # "ख - भामिनि"
 
 यश्च मांसप्रियो नित्यं काकगृध्रान् स संस्पृशेत् ।  
-सुरापस्सततं[^555] मर्त्यस् सूकरत्वं व्रजेद्ध्रुवम् ॥ ७९ ॥
+सुरापस्सततं[^675] मर्त्यस् सूकरत्वं व्रजेद्ध्रुवम् ॥ ७९ ॥
 
-[^555]: "अ- अर्धचतुष्ट्यं नास्ति"
+[^675]: # "अ- अर्धचतुष्ट्यं नास्ति"
 
 अभक्ष्यभक्षणो मर्त्यः काकजातिषु जायते ।  
-आत्मघ्नो[^556]यो नरः कोपात् प्रेतजातिषु तिष्ठति ॥ ८० ॥
+आत्मघ्नो [^676]यो नरः कोपात् प्रेतजातिषु तिष्ठति ॥ ८० ॥
 
-[^556]: "ख – अर्धचतुष्ट्यं नास्ति"
+[^676]: # "ख – अर्धचतुष्ट्यं नास्ति"
 
 पैशुन्यात् परिवादाच्च कुक्कुटत्वमवाप्नुयात् ।  
 नास्तिकश्चैव यो मूर्खो मृगजातिं स गच्छति ॥ ८१ ॥
@@ -14529,12 +14608,12 @@ The Presidency College,
 कृतघ्नो मित्रघाती च सृगालवृकजातिषु \।  
 कृतघ्नः पुत्रघाती च स्थावरेष्वथ तिष्ठति ॥ ८४ ॥
 
-एवमाद्यशुभं[^557] कृत्वा नरा निरयगामिनः ।  
-तां तां योनिं[^558] प्रपद्यन्ते स्वकृतस्यैव कारणात् ॥ ८५ ॥
+एवमाद्यशुभं[^677] कृत्वा नरा निरयगामिनः ।  
+तां तां योनिं[^678] प्रपद्यन्ते स्वकृतस्यैव कारणात् ॥ ८५ ॥
 
-[^557]: " ख – परोद्वेगकरो नित्यं व्यालजातिषु जायते । आत्मघ्ना ये नराः कोपात् प्रेतजातिषु तिष्ठति ? ॥ पैशुन्यात् परिवादाञ्च कुक्कुटत्वं समश्नुयात् । नास्तिकश्चैव यो मूर्खो मृगजातिं स गच्छति ॥ हिंसाविहारस्तु नरः क्रिमिकीटेषु जायते ।[ अधिकः पाठः ]"
+[^677]: # " ख – परोद्वेगकरो नित्यं व्यालजातिषु जायते । आत्मघ्ना ये नराः कोपात् प्रेतजातिषु तिष्ठति ? ॥ पैशुन्यात् परिवादाञ्च कुक्कुटत्वं समश्नुयात् । नास्तिकश्चैव यो मूर्खो मृगजातिं स गच्छति ॥ हिंसाविहारस्तु नरः क्रिमिकीटेषु जायते । [ अधिकः पाठः ]"
 
-[^558]: "ख- तांस्तान् गर्भान्"
+[^678]: # "ख- तांस्तान् गर्भान्"
 
 एवं जातिपु निर्देश्याः प्राणिनः पापकारिणः ।  
 कथञ्चित् पुनरुत्पद्य लभन्ते मानुषं पदम् ॥ ८६॥
@@ -14544,18 +14623,18 @@ The Presidency College,
 
 तस्मात् सुदुर्लभं चेति विद्धि जन्मसु मानुषम् ॥ ८८
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि सप्तविंशत्यधिकशततमोऽध्यायः ॥ १२७ ॥  
 ॥ ८९ \।\। आनुशासनिकपर्वणि सप्तविंशत्यधिकशततमोऽध्यायः ॥ १२७ ॥  
-\[ अस्मिन्नध्याये ८८ श्लोकाः \]
+\[ अस्मिन्नध्याये ८८ श्लोकाः \]**
 
-——————
+**——————**
 
 **॥ अष्टाविंशत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706266969Screenshot2023-12-23161315.png"/>
 
- परमेश्वरेण पार्वतींप्रति शुभाशुभकर्मणां मानसिकत्वादिभेदेन त्रैविध्यकथनपूर्वकं तत्तत्फलनिरूपणम् ॥ १ ॥ तथा मद्योत्पत्तिकारणादिकथनपूर्वकं तत्पानजदोषादिप्रतिपादनम् ॥ २॥ सुकृतस्य तेधा विभजनेन तल्लक्षणादिकथनम्॥ ३॥ मांसभक्षणाभक्षणयोर्दोषगुणकथनम् ॥ ४ ॥ गुरुप्रशंसनपूर्वकं तत्पूजादिफलकथनम् ॥ ५ ॥ तथा तीर्थस्नानोपवासादिफलकथनम् ॥ ६ ॥ दानस्य षाङ्गुण्यप्रतिपादनपूर्वकं तत्फलकथनम् ॥ ७ ॥ अन्नस्वर्णगोभूकन्याविद्यादानानां महिमप्रतिपादनम्॥८॥ तिलदानप्रकारतत्फलयोः कथनम् ॥९॥ तथा जलान्नादिनानादानफलकथनम् ॥ १० ॥ तथा सेतुकूपतटाकनिर्मापणादिधर्मफलकथनम्॥ ११॥ यज्ञप्रशंसनम्॥१२॥ तथा देवानां पूजादिफलकथनम्॥१३॥ तथा देवानां मनुष्यचिन्तितविज्ञानसामर्थ्यकथनम् ॥ १४ ॥
+ परमेश्वरेण पार्वतीं प्रति शुभाशुभकर्मणां मानसिकत्वादिभेदेन त्रैविध्यकथनपूर्वकं तत्तत्फलनिरूपणम् ॥ १ ॥ तथा मद्योत्पत्तिकारणादिकथनपूर्वकं तत्पानजदोषादिप्रतिपादनम् ॥ २॥ सुकृतस्य तेधा विभजनेन तल्लक्षणादिकथनम्॥ ३॥ मांसभक्षणाभक्षणयोर्दोषगुणकथनम् ॥ ४ ॥ गुरुप्रशंसनपूर्वकं तत्पूजादिफलकथनम् ॥ ५ ॥ तथा तीर्थस्नानोपवासादिफलकथनम् ॥ ६ ॥ दानस्य षाङ्गुण्यप्रतिपादनपूर्वकं तत्फलकथनम् ॥ ७ ॥ अन्नस्वर्णगोभूकन्याविद्यादानानां महिमप्रतिपादनम्॥८॥ तिलदानप्रकारतत्फलयोः कथनम् ॥९॥ तथा जलान्नादिनानादानफलकथनम् ॥ १० ॥ तथा सेतुकूपतटाकनिर्मापणादिधर्मफलकथनम्॥ ११॥ यज्ञप्रशंसनम्॥१२॥ तथा देवानां पूजादिफलकथनम्॥१३॥ तथा देवानां मनुष्यचिन्तितविज्ञानसामर्थ्यकथनम् ॥ १४ ॥
 
 **———————**
 
@@ -14569,6 +14648,7 @@ The Presidency College,
 
 तन्मे विस्तरतो ब्रूहि शुभाशुभविधिं प्रति ।  
 अशुभं कीदृशं कर्म प्राणिनो यन्निपातयेत् \।\। ३  
+
 
 शुभं वाऽपि कथं देव प्रजानामूर्ध्वदं भवेत् ।  
 एतन्मे वद देवेश श्रोतुकामाऽस्मि कीर्तय ॥ ४
@@ -14590,15 +14670,16 @@ The Presidency College,
 धर्मकार्ये यदाऽश्रद्धा पापकर्मणि हर्षणम् ।  
 एवमाद्यशुभं कर्म मनसा पापमुच्यते ॥ ९
 
-अनृतं यच्च परुषम् अबद्धं[^559] यच्च शङ्करि ।  
+अनृतं यच्च परुषम् अबद्धं[^679] यच्च शङ्करि ।  
 असत्यं परिवादश्च पापमेतत्तु वाङ्मयम् ॥ १०
 
-[^559]: "ख – अबद्धवचनं कटु"
+[^679]: # "ख – अबद्धवचनं कटु"
 
 अगम्यागमनं चैव परदारनिषेवणम् ।  
 वधबन्धपरिक्लेशैः परप्राणोपतापनम् ॥ ११
 
 चौर्यं परेषां द्रव्याणां हरणं नाशनं तथा ।  
+
 
 अभक्ष्यभक्षणं चैव व्यसनेष्वभिषङ्गता ॥ १२
 
@@ -14611,14 +14692,14 @@ The Presidency College,
 एवमाद्यशुभं चान्यच् छारीरं पापमुच्यते ॥ १४ ॥
 
 मानसाद्वाङ्मयं पापं विशिष्टमिति लक्ष्यते ।  
-वाङ्मयादपि[^560] वै पापाच् छारीरं गण्यते बहु ॥ १५ ॥
+वाङ्मयादपि[^680] वै पापाच् छारीरं गण्यते बहु ॥ १५ ॥
 
-[^560]: "अ - ख - घ - शत्रुमुद्यतशस्त्रं वा पूर्वं तेन हतोऽपि वा ।[ अधिकः पाठः ]"
+[^680]: # "अ - ख - घ - शत्रुमुद्यतशस्त्रं वा पूर्वं तेन हतोऽपि वा । [ अधिकः पाठः ]"
 
 एवं पापयुतं कर्म त्रिविधं पातयेन्नरम् ।  
-परोपतापजननम्[^561] अत्यन्तं पातकं स्मृतम् ॥ १६ ॥
+परोपतापजननम्[^681] अत्यन्तं पातकं स्मृतम् ॥ १६ ॥
 
-[^561]: "क ख - घ - परापकार"
+[^681]: # "क ख - घ - परापकार"
 
 त्रिविधं तत् कृतं पापं कर्तारं पापकं नयेत् ।  
 पातकं चापि यत् कर्म कर्मणा बुद्धिपूर्वकम् ॥ १७ ॥
@@ -14630,9 +14711,9 @@ The Presidency College,
 
 **उमा—**
 
-भगवन् पापकं कर्म यथा कृत्वा न लिप्यते[^562] ॥ १९ ॥
+भगवन् पापकं कर्म यथा कृत्वा न लिप्यते[^682] ॥ १९ ॥
 
-[^562]: "ख - पापस्यावरणे वाऽपि तदोपश्च महेश्वरः ।[ अधिकः पाठः ]"
+[^682]: # "ख - पापस्यावरणे वाऽपि तदोपश्च महेश्वरः । [ अधिकः पाठः ]"
 
 **श्रीमहेश्वरः—**
 
@@ -14641,10 +14722,10 @@ The Presidency College,
 
 प्रतिहन्यान्नरो हिंस्यान्न स पापेन लिप्यते ॥ २१
 
-चोरादधिकसन्त्रस्तस्[^563] तत्प्रतीकारचेष्टया \।  
+चोरादधिकसन्त्रस्तस्[^683] तत्प्रतीकारचेष्टया \।  
 यः प्रजघ्नन्नरो हन्यान्न स पापेन लिप्यते ॥ २२
 
-[^563]: "अ क ख - अर्धद्वयं नास्ति"
+[^683]: # "अ क ख - अर्धद्वयं नास्ति"
 
 ग्रामार्थं भर्तृपिण्डार्थं दीनानुग्रहकारणात् ।  
 वधबन्धपरिक्लेशान् कुर्वन् पापात् प्रमुच्यते ॥ २३
@@ -14672,7 +14753,7 @@ The Presidency College,
 पुरा सर्वेऽभवन् मर्त्या बुद्धिमन्तो नयानुगाः।  
 शुचयश्च शुभाचारास् सर्वे चोन्मनसः प्रिये ॥ २९
 
-एवंभूते तदा लोके प्रेष्यकृन्न परस्परम् ।  
+एवम्भूते तदा लोके प्रेष्यकृन्न परस्परम् ।  
 प्रेष्याभावान्मनुष्याणां कर्मारम्भो ननाश ह ॥ ३०
 
 उभयोर्लोकयोर्नाशं दृष्ट्वा कर्मक्षयात् प्रभुः ।  
@@ -14705,9 +14786,9 @@ The Presidency College,
 पीत्वा पीत्वा तृषायुक्ताः पानपास्सम्भवन्ति च ॥ ३९ ॥
 
 पानकामाः पानकथाः पानकालाभिकाङ्क्षिणः ।  
-पानार्थं वश्यकामास्ते[^564] सम्भवन्ति नराधमाः ॥ ४० ॥
+पानार्थं वश्यकामास्ते[^684] सम्भवन्ति नराधमाः ॥ ४० ॥
 
-[^564]: "ख-कर्मवश्यास्ते"
+[^684]: # "ख-कर्मवश्यास्ते"
 
 पानकामास्तृषायोगाद् बुद्धिसत्त्वपरिक्षयात् ।  
 पानदानं प्रेष्यकाराः पानपास्सहसाऽभवन् ॥ ४१ ॥
@@ -14716,24 +14797,25 @@ The Presidency College,
 कारयन्ति च कर्माणि बुद्धिमन्तस्तु पानदाः ॥ ४१ ॥
 
 कारुत्वमथ दासत्वं प्रेष्यतामेत्य पानपाः ।  
-सर्वकर्मकराश्चासन् पशुवद्रज्जुबन्धिताः[^565] ॥ ४३ ॥  
+सर्वकर्मकराश्चासन् पशुवद्रज्जुबन्धिताः[^685] ॥ ४३ ॥  
 
-[^565]: "ख - पीडिताः"
 
-पानपस्तु सुरां[^566] पीत्वा तदा बुद्धिप्रणाशनात् ।  
+[^685]: # "ख - पीडिताः"
+
+पानपस्तु सुरां[^686] पीत्वा तदा बुद्धिप्रणाशनात् ।  
 कार्याकार्यस्य चाज्ञानाद् यथेष्टकरणात् स्वयम् ॥ ४४ ॥
 
-[^566]: "क ख - घ - सुधां दत्त्वा"
+[^686]: # "क ख - घ - सुधां दत्त्वा"
 
 विदुपामविधेयत्वात् पापमेवाभिपद्यते ॥ ४५
 
 परिभूतो भवेल्लोके मद्यपो मित्रभेदकः ।  
 सर्वकालमशुद्धश्च सर्वभक्षस्तथा भवेत्॥ ४६
 
-विनष्टो ज्ञानविद्वद्भ्यस् सततं कलिभावगः[^567]।  
+विनष्टो ज्ञानविद्वद्भ्यस् सततं कलिभावगः[^687] ।  
 परुषं कटुकं घोरं वाक्यं वदति सर्वशः॥ ४७
 
-[^567]: "घ – कलिलापगः"
+[^687]: # "घ – कलिलापगः"
 
 गुरूनतिवदेन्मत्तः परदारान् प्रधर्पयेत् ।  
 संविदं कुरुते शौण्डैर् न शृणोति हितं क्वचित् ॥ ४८
@@ -14743,25 +14825,26 @@ The Presidency College,
 
 तस्मात्तद्वर्जितं सद्भिः पानमात्महितैपिभिः ॥ ४९ ॥
 
-यदि पानं न वर्जेरन्[^568]सन्तश्चारित्रकारणात् ।  
+यदि पानं न वर्जेरन् [^688]सन्तश्चारित्रकारणात् ।  
 भवेदेतज्जगत् सर्वम् अमर्यादं च निष्क्रियम् ॥५० ॥
 
-[^568]: "क – निवर्तेरन्; घ- पानान्निवर्तेरन्"
+[^688]: # "क – निवर्तेरन्; घ- पानान्निवर्तेरन्"
 
 तस्माद्बुद्धेर्हि रक्षार्थं सद्भिः पानं विवर्जितम् ।  
-इति ते दुष्कृतं सर्वं कथितं त्रिविधं प्रिये[^569] ॥ ५१॥  
+इति ते दुष्कृतं सर्वं कथितं त्रिविधं प्रिये[^689] ॥ ५१॥  
 
-[^569]: "* सर्वेषु कोशेषु अतैवाध्यायसमाप्तिर्दृश्यते"
+
+[^689]: # "* सर्वेषु कोशेषु अतैवाध्यायसमाप्तिर्दृश्यते"
 
 विधानं सुकृतस्यापि भूयश्श्रृणु शुचिस्मिते ।  
-प्रोच्यते तत् त्रिधा[^570] देवि सुकृतं च समासतः ॥ ५२॥
+प्रोच्यते तत् त्रिधा[^690] देवि सुकृतं च समासतः ॥ ५२॥
 
-[^570]: "ख - त्रिविधं देवि"
+[^690]: # "ख - त्रिविधं देवि"
 
-यदौपरमिकं[^571] चैव सुकृतं निरुपद्रवम् ।  
+यदौपरमिकं[^691] चैव सुकृतं निरुपद्रवम् ।  
 तथैव सोपकरणं तावता सुकृतं विदुः॥ ५३ ॥
 
-[^571]: "अ-क - यदा परमिकं"
+[^691]: # "अ-क - यदा परमिकं"
 
 निवृत्तिः पापकर्मभ्यस् तदोपरमिकं प्रिये ।  
 मनोवाक्कायजा दोपास् शृणु मे वर्जनाच्छुभम् ॥ ५४ ॥
@@ -14788,7 +14871,7 @@ The Presidency College,
 इत्यौपरमिकं देवि कथितं सुकृतं तव ॥ ६१
 
 श्रुत्वा च बुद्धसंयोगाद् इन्द्रियाणां च निग्रहात् ।  
-सन्तोपाञ्च[^530] धृतेश्चैव शक्यते दोषवर्जनम् ॥ ६२
+सन्तोपाञ्च[^648] धृतेश्चैव शक्यते दोषवर्जनम् ॥ ६२
 
 तदेव धर्ममित्याहुर् दोषसंयमनं प्रिये ।  
 यमधर्मेण धर्मोऽस्ति नान्यश्शुभतरः प्रिये ॥ ६३
@@ -14809,6 +14892,7 @@ The Presidency College,
 
 सत्यं स्वर्गस्य सोपानं पारावारस्य नौरिव ।  
 नास्ति सत्यात् परं दानं नास्ति सत्यात् परं ततः ॥ ६८ ॥  
+
 
 यथा श्रुतं यथा दृष्टम् आत्मना यद्यथा कृतम् ।  
 तथा तस्याविकारेण वचनं सत्यलक्षणम् ॥ ६९ ॥
@@ -14832,7 +14916,7 @@ The Presidency College,
 तथा फलं न लभते तस्माद्धर्मं वृथा चरेत् ॥ ७४
 
 शुद्धकायो नरो भूत्वा स्नात्वा तीर्थे यथाविधि ।  
-पञ्चभूतानि चन्द्रार्कौसन्ध्ये धर्मयमौ पितॄन् ॥ ७५॥
+पञ्चभूतानि चन्द्रार्कौ सन्ध्ये धर्मयमौ पितॄन् ॥ ७५॥
 
 आत्मनैव तथाऽऽत्मानं निवेद्य व्रतवच्चरेत् ॥ ७५
 
@@ -14840,6 +14924,7 @@ The Presidency College,
 
 शाकादिषु व्रतं कुर्यात् तथा पुष्पफलादिषु ।  
 ब्रह्मचर्यव्रतं कुर्याद् उपवासव्रतं तथा ॥ ७७  
+
 
 एवमन्येषु बहुषु व्रतं कार्यं हितैषिणा ।  
 व्रतभङ्गो यथा न स्याद् रक्षितव्यं तथा बुधैः ॥ ७८
@@ -14872,10 +14957,10 @@ The Presidency College,
 अक्षोभ्यं यत् प्रकीर्णं च नित्यस्रोतश्च यज्जलम् ।  
 प्रायशास्तादृशे मज्जेद् अन्यथा च विवर्जयेत् ॥ ८५ ॥
 
-त्रिस्त्रिराचमनं श्रेष्ठं निर्मलैरुद्धृतैर्जलैः[^573] ।  
+त्रिस्त्रिराचमनं श्रेष्ठं निर्मलैरुद्धृतैर्जलैः[^693] ।  
 तथा विण्मूत्रयोश्शुद्धिर् अद्भिर्बहुमृदा भवेत् ॥ ८६ ॥
 
-[^573]: "क - निष्फेनैर्निर्मलै"
+[^693]: # "क - निष्फेनैर्निर्मलै"
 
 तथैव जलसंशुद्धिर् यत् संशुद्धं तु संस्पृशेत् ॥ ८७
 
@@ -14899,19 +14984,20 @@ The Presidency College,
 अमांसमद्यमक्लेद्यम अपर्युषितमेव च ।  
 अतिकट्वम्ललवणहीनं च शुभगन्धि च॥ ९२ ॥
 
-क्रिमिकेशमलैर्हींनं संवृतं शुद्धदर्शनम् ।  
+क्रिमिकेशमलैर्हीन्नं संवृतं शुद्धदर्शनम् ।  
 एवंविधं सदाहार्यं देवब्राह्मणसत्कृतम् ॥ ९३ ॥
 
-श्रुतमित्येव[^574] तज्ज्ञेयम् अन्यथा मन्यतेऽशुभम् ।  
+श्रुतमित्येव[^694] तज्ज्ञेयम् अन्यथा मन्यतेऽशुभम् ।  
 
-[^574]: "ख — श्रेष्ट"
+
+[^694]: # "ख — श्रेष्ट"
 
 ग्राम्यादारण्यकैस्सिद्धं श्रेष्ठमित्यवधारय ॥ ९४ ॥
 
 अतिमात्रगृहीतात्तु अल्पदत्तं भवेच्छुचि ।  
 यज्ञशेपं हविश्शेषं पितृशेषं च निर्मलम् ॥ ९५ ॥
 
-इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^514] ॥ ९६
+इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^632] ॥ ९६
 
 **उमा-**
 
@@ -14964,7 +15050,8 @@ The Presidency College,
 अशक्तः कारणान्मर्त्यो भोक्तुमिच्छेद्विधिं शृणु ।  
 अनेन खादन् विधिना कलुषेण न लिप्यते ॥ १११ ॥  
 
-सूनायां[^316] च गतप्राणान् क्रीत्वा न्यायेन भामिनि ।  
+
+सूनायां[^393] च गतप्राणान् क्रीत्वा न्यायेन भामिनि ।  
 ब्राह्मणातिथिपूजार्थं भोक्तव्यं हितमिच्छता ॥ ११२ ॥
 
 भैषज्यकारणाद्व्याधौ खादन् पापैर्न लिप्यते ।  
@@ -15033,7 +15120,7 @@ The Presidency College,
 अनुवृत्तेर्विना धर्मो नास्ति सर्वाश्रमेष्वपि ।  
 तस्मात् क्षमावृतः क्षान्तो गुरुवृत्तिं समाचरेत् ॥ १३२॥
 
-स्वमर्थं स्वशरीरं च गुर्वर्थेसन्त्यजेद्बुधः ।  
+स्वमर्थं स्वशरीरं च गुर्वर्थे सन्त्यजेद्बुधः ।  
 विवाद धनहेतोर्वा मोहाद्वा तैर्न रोचयेत् ॥ १३३ ॥
 
 ब्रह्मचर्यमहिंसा च दानानि विविधानि च ।  
@@ -15051,6 +15138,7 @@ The Presidency College,
 **श्रीमहेश्वरः-**
 
 शरीरमलशान्त्यर्थम् इन्द्रियोच्छोषणाय च ।  
+
 
 एकभुक्तोपवासैस्तु धारयन्ते व्रतं नराः ॥१३७
 
@@ -15084,6 +15172,7 @@ The Presidency College,
 
 तदिष्यते गृहस्थानां कालमुद्दिश्य कारणम् ॥ १४५  
 
+
 जन्मनक्षत्रयोगेषु पुण्यवासेषु पर्वसु ।  
 देवताधर्मकार्येषु ब्रह्मचर्यव्रतं चरेत् ॥ १४३
 
@@ -15100,7 +15189,7 @@ The Presidency College,
 हन्त ते कथयिष्यामि तीर्थस्नानविधिं प्रिये ।  
 पावनार्थं च शौचार्थं ब्रह्मणा निर्मितं पुरा॥ १४९
 
-यास्तु लोके महानद्यस् तास्सर्वास्तीर्थसंज्ञिकाः ।  
+यास्तु लोके महानद्यस् तास्सर्वास्तीर्थसञ्ज्ञिकाः ।  
 तासां प्राक्स्रोतसश्श्रेष्ठास् सङ्गमश्च परस्परम् ॥ १५०
 
 तासां सागरसंयोगो वरिष्ठश्चेति विद्यते ॥ १५० ॥
@@ -15113,6 +15202,7 @@ The Presidency College,
 
 स्रोतसां पर्वतानां च जोपितानां महर्षिभिः ।  
 अपि कूलं तटाकं वा सेवितं मुनिभिः प्रिये ॥ १५३ ॥  
+
 
 तत्तु तीर्थमिति ज्ञेयं प्रभावात्तु तपस्विनाम् ॥ १५४
 
@@ -15134,23 +15224,23 @@ The Presidency College,
 आदिप्रभृति शुद्धस्य तीर्थस्नानं शुभं भवेत् ।  
 तपोर्थं पापनाशार्थं शौचार्थं तीर्थगाहनम् ॥ १६०
 
-एवं पुण्येषुतीर्थेषु तीर्थस्नानं[^577] शुभं भवेत् ।  
-एतन्नैयमिक सर्वं सुकृतं कथितं तव[^111] ॥ १६१
+एवं पुण्येषु तीर्थेषु तीर्थस्नानं[^697] शुभं भवेत् ।  
+एतन्नैयमिक सर्वं सुकृतं कथितं तव[^144] ॥ १६१
 
-[^577]: "क-घ - मासेषु"
+[^697]: # "क-घ - मासेषु"
 
 एतदर्थमवाप्नोति नरः प्रेत्य शुभेक्षणे ॥ १६१ ॥
 
 **उमा—**
 
-लोकसिद्धं[^579] तु यद्द्रव्यं सर्वसाधारणं भवेत् ।  
+लोकसिद्धं[^699] तु यद्द्रव्यं सर्वसाधारणं भवेत् ।  
 तद्ददत् सर्वसामान्यं कथं धर्मं लभेन्नरः ॥ १६२ ॥
 
-[^579]: "अ – अर्धंत्रयं नास्ति"
+[^699]: # "अ – अर्धन्त्रयं नास्ति"
 
 एवं साधारणे द्रव्ये तस्य स्वत्वं कथं भवेत् ॥ १६३
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 लोके भूतमयं द्रव्यं सर्वसाधारणं तथा ।  
 तथैव तद्ददन्मर्त्यो लभेत् पुण्यं स तच्छृणु ॥ १६४
@@ -15165,12 +15255,12 @@ The Presidency College,
 
 श्रद्धावानास्तिकश्चैव एवं दाता प्रशस्यते ॥ १६७
 
-शुद्धो[^580] दान्तो जितक्रोधस् तथाऽदीनकुलोद्भवः[^581] ।  
+शुद्धो[^700] दान्तो जितक्रोधस् तथाऽदीनकुलोद्भवः[^701] ।  
 श्रुतचारित्रसम्पन्नस् तथा बहुकलत्रवान्॥ १६८
 
-[^580]: " घ - अर्धचतुष्ट्यं नास्ति"
+[^700]: # " घ - अर्धचतुष्ट्यं नास्ति"
 
-[^581]: "ख – तथोदितकु"
+[^701]: # "ख – तथोदितकु"
 
 पश्चयज्ञपरो नित्यं निर्विकारशरीरवान् ।  
 एतान् पात्रगुणान् विद्धि तादृक् पात्रं प्रशस्यते ॥ १६९
@@ -15221,20 +15311,21 @@ The Presidency College,
 
 तच्छोभनतरं विद्धि गौरवाद्देशकालयोः ॥ १८३ ॥
 
-उमा—
+**उमा—**
 
 यश्च पुण्यतमो देशस् तथा कालश्च शंस मे ॥ १८४
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 कुरुक्षेत्रं महानद्यो यच्च देवर्णिसेवितम् ।  
-गिरिर्वरश्च तीर्थानि[^582] देशभागेषु पूजितः ॥ १८५
+गिरिर्वरश्च तीर्थानि[^702] देशभागेषु पूजितः ॥ १८५
 
-[^582]: ". घ - मात्रां वा"
+[^702]: # ". घ - मात्रां वा"
 
 प्रहीतुमीप्सिते यत्र तत्र दत्तं महाफलम् ॥ १८५ ॥
 
 शरद्वसन्तकालश्च पुण्यमासस्तथैव च ।  
+
 
 शुक्लपक्षश्च पक्षाणां पौर्णमासी च पर्वसु ॥ १८६॥
 
@@ -15250,21 +15341,21 @@ The Presidency College,
 यदैव युगपत् सम्पत् तत्र दानं महद्भवेत् ॥ १९०
 
 अत्यल्पमपि यद्दानम् एभिष्षड्भिर्गुणैर्युतम् ।  
-भूत्वाऽनन्तं[^583] नयेत् स्वर्गं दातारं दोषवर्जितम्॥ १९१
+भूत्वाऽनन्तं[^703] नयेत् स्वर्गं दातारं दोषवर्जितम्॥ १९१
 
-[^583]: "ख - भूत्वा तं तं"
+[^703]: # "ख - भूत्वा तं तं"
 
 सुमहद्वाऽपि यद्दानं गुणैरेभिर्विनाकृतम् ।  
-अत्यल्पफलनिर्योगम् अफलं वा फलोद्धतम्[^584] ॥ १९२
+अत्यल्पफलनिर्योगम् अफलं वा फलोद्धतम्[^704] ॥ १९२
 
-[^584]: "ख - भवेद्धि तत्"
+[^704]: # "ख - भवेद्धि तत्"
 
 **उमा—**
 
-एवंगुणयुतं दानं दत्तं च फलतां व्रजेत् ।  
+एवङ्गुणयुतं दानं दत्तं च फलतां व्रजेत् ।  
 तदस्ति चेन्महद्देयं तन्मे शंसितुमर्हसि ॥ १९३
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तद्प्यस्ति महाभागे नराणां भावदोषतः ॥ १९३ ॥
 
@@ -15285,7 +15376,7 @@ The Presidency College,
 इत्येवं मन आविश्य दातव्यं सततं बुधैः ॥ १९८ ॥
 
 एवमेव कृतं नित्यं सुकृतं तद्भवेन्महत् ।  
-सर्वसाधारणं द्रव्यम् एवं दत्त्वा महत् फलम्[^6] ॥ १९९
+सर्वसाधारणं द्रव्यम् एवं दत्त्वा महत् फलम्[^15] ॥ १९९
 
 **उमा—**
 
@@ -15300,6 +15391,7 @@ The Presidency College,
 स्नेहो गन्धश्च भैषज्यं तिलाश्च लवणं तथा ।  
 एवमादि तथाऽन्यच्च दानमाजस्रमुच्यते॥ २०२  
 
+
 अजस्रदानात् सततम् आजस्त्रमिति निश्चितम् ।  
 सामान्यं सर्ववर्णानां दानं शृणु समाहिता ॥ २०३
 
@@ -15307,7 +15399,7 @@ The Presidency College,
 तस्मादन्नं विशेषेण दातुमिच्छति मानवः ॥ २०४
 
 ब्राह्मणायाभिरूपाय यो दद्यादन्नमीप्सितम् ।  
-निदधाति[^556] निधिश्रेष्ठं सोऽनन्तं पारलौकिकम् ॥ २०५
+निदधाति[^676] निधिश्रेष्ठं सोऽनन्तं पारलौकिकम् ॥ २०५
 
 श्रान्तमध्वपरिश्रान्तम् अतिथिं गृहमागतम् ।  
 अर्चयीत प्रयत्नेन स हि यज्ञो वरप्रदः ॥ २०६
@@ -15321,18 +15413,19 @@ The Presidency College,
 अपि चण्डालशूद्राणाम् अन्नदानं न गर्ह्यते ।  
 तस्मात् सर्वप्रयत्नेन दद्यादन्नममत्सरः ॥ २०९
 
-कलत्रं पीडयित्वाऽपि पोष[^587]येदतिथीन् सदा ।  
+कलत्रं पीडयित्वाऽपि पोष[^707]येदतिथीन् सदा ।  
 जन्मापि मानुषे लोके तदर्थं हि विधीयते॥ २१०
 
-[^587]: "घ - तोष"
+[^707]: # "घ - तोष"
 
 अन्नदानाच्च लोकांस्तान् सम्प्रवक्ष्याम्यनिन्दिते ।  
 भवनानि प्रकाशन्ते दिवि तेषां महात्मनाम् ॥ २११  
 
-अनेकशतभौमानि सान्तर्जलवनानि च ।  
-वैडूर्यार्चिः प्रकाशानि हेमरूप्यनिभानि[^588] च ॥ २१२
 
-[^588]: "अ - इतष्पट् पादा न सन्ति"
+अनेकशतभौमानि सान्तर्जलवनानि च ।  
+वैडूर्यार्चिः प्रकाशानि हेमरूप्यनिभानि[^708] च ॥ २१२
+
+[^708]: # "अ - इतष्पट् पादा न सन्ति"
 
 नानारूपाणि संस्थानां नानारत्नमयानि च ।  
 चन्द्रमण्डलशुभ्राणि किङ्किणीजालवन्ति च ॥ २१३
@@ -15344,9 +15437,9 @@ The Presidency College,
 वाप्यो बह्व्यश्च कूपाश्च दीर्घिकाश्च सहस्रशः ॥ २१५
 
 अरुजानि विशोकानि नित्यानि विविधानि च ।  
-भवनानि विचित्राणि प्राणदानां[^589] त्रिविष्टपे ॥ २१६
+भवनानि विचित्राणि प्राणदानां[^709] त्रिविष्टपे ॥ २१६
 
-[^589]: "अ-दानात्"
+[^709]: # "अ-दानात्"
 
 विवस्वतश्च सोमस्य ब्रह्मणश्च प्रजापतेः ।  
 विशन्ति लोकांस्ते नित्यं जगत्यन्नोदकप्रदाः ॥ २१७
@@ -15360,7 +15453,7 @@ The Presidency College,
 तस्मादन्नं विशेषेण दातव्यं भूतिमिच्छता ।  
 सर्वकालं च सर्वस्य सर्वत्र च सदैव च ॥ २२०
 
-सुवर्णदानं परमं स्वर्ग्यंस्वस्त्ययनं महत् ।  
+सुवर्णदानं परमं स्वर्ग्यं स्वस्त्ययनं महत् ।  
 तस्मात्ते वर्णयिष्यामि यथावदनुपूर्वशः ॥ २२१
 
 अपि पापकृतं क्रूरं दत्तं रुक्मं प्रकाशयेत् ॥ २२१॥
@@ -15368,7 +15461,7 @@ The Presidency College,
 सुवर्णं ये प्रयच्छन्ति श्रोत्रियेभ्यस्सुचेतसः ।  
 देवतास्ते तर्पयन्ति समस्ता इति वैदिकम् ॥ २२२ ॥
 
-अग्निर्हिदेवतास्सर्वास् सुवर्णं चाग्निरुच्यते ।  
+अग्निर्हि देवतास्सर्वास् सुवर्णं चाग्निरुच्यते ।  
 तस्मात् सुवर्णदानेन तृप्तास्स्युस्सर्वदेवताः ॥ २२३॥
 
 अग्न्यभावे तु कुर्वन्ति वह्निस्थानेषु काञ्चनम् \।  
@@ -15413,6 +15506,7 @@ The Presidency College,
 कृच्छ्रोत्सृष्टाः पोपणार्थागताश्च  
 द्वारैरेतैस्ताः प्रलब्धाः प्रदद्यात् ॥ २३४ ॥  
 
+
 कृशाय बहुपुत्राय श्रोत्रियायाहिताग्नये ।  
 प्रदाय नीरुजां धेनुं लोकान् प्राप्नोत्यनुत्तमान् ॥ २३५ ॥
 
@@ -15423,14 +15517,14 @@ The Presidency College,
 सुवृत्तां वस्त्रसञ्छन्नां सोमलोके महीयते ॥ २३७ ॥
 
 समानवत्सां यो दद्यात् कृष्णां धेनुं पयस्विनीम् ।  
-सुवृत्तां[^590] वस्त्रसञ्छन्नां लोकान् प्राप्नोत्यपांपतेः ॥ २३८ ॥
+सुवृत्तां[^710] वस्त्रसञ्छन्नां लोकान् प्राप्नोत्यपाम्पतेः ॥ २३८ ॥
 
-[^590]: " अ - अर्धंद्वयं नास्ति"
+[^710]: # " अ - अर्धन्द्वयं नास्ति"
 
 हिरण्यवर्णां पिङ्गाक्षीं सवत्सां कांस्यदोहनाम् ।  
-प्रदाय वस्त्रसम्पन्नां यान्ति[^591] कौबेरसद्मनः ॥ २३९ ॥
+प्रदाय वस्त्रसम्पन्नां यान्ति[^711] कौबेरसद्मनः ॥ २३९ ॥
 
-[^591]: " क - इतः चत्वारः पादा न सन्ति"
+[^711]: # " क - इतः चत्वारः पादा न सन्ति"
 
 वायुरेणुसवर्णां च सवत्सां कांस्यदोहनाम् ।  
 प्रदाय वस्त्रसम्पन्नां वायुलोके महीयते॥ २४० ॥
@@ -15458,7 +15552,7 @@ The Presidency College,
 कथञ्चिन्नावमन्तव्या गावो लोकस्य मातरः ॥ २४७ ॥
 
 तस्मादेव गवां दानं विशिष्टमिति कथ्यते ।  
-गोषु पूजा च भक्तिश्च नरस्यायुष्यतां वहेत्॥ २४८ ॥
+गोषु पूजा च भक्तिश्च नरस्यायुष्यतां वहेत् ॥ २४८ ॥
 
 अतः परं प्रवक्ष्यामि भूमिदानं महाफलम् \।  
 भूमिदानसमं दानं लोके नास्तीति निश्चयः ॥२४९ ॥
@@ -15519,20 +15613,20 @@ The Presidency College,
 कन्यां शुद्धव्रताचारां कुलरूपसमन्विताम् ।  
 यस्मै दित्सति पात्राय तेनापि भृशकामिताम् ॥ २६८
 
-प्रथमं तां[^592] समाकल्प्य बन्धुभिः[^593] कृतनिश्चयाम् ।  
+प्रथमं तां[^712] समाकल्प्य बन्धुभिः[^713] कृतनिश्चयाम् ।  
 कारयित्वा गृहं पूर्वं दासीदासपरिच्छदैः ॥ २६९
 
-[^592]: "क-ख-घ - तत्स"
+[^712]: # "क-ख-घ - तत्स"
 
-[^593]: "ख - बहुभिः + यः"
+[^713]: # "ख - बहुभिः + यः"
 
 गृहोपकरणैश्चैव पशुधान्येन संयुताम् ।
 
-तदर्थिने तदर्हायकन्यां तां समलङ्कृताम् ॥२७०
+तदर्थिने तदर्हाय कन्यां तां समलङ्कृताम् ॥ २७०
 
 सविवाहं यथान्यायं प्रयच्छेदग्निसाक्षिकम् ॥ २७० ॥
 
-वृत्त्यायतीं यथा कृत्वा सद्गृहे तौनिवेशयेत् ॥ २७१
+वृत्त्यायतीं यथा कृत्वा सद्गृहे तौ निवेशयेत् ॥ २७१
 
 एवं कृत्वा वधूदानं तस्य दानस्य गौरवात् ।  
 प्रेत्यभावे महीयेत स्वर्गलोके यथासुखम् ॥ २७२
@@ -15550,12 +15644,13 @@ The Presidency College,
 स्वयं दत्तेन तुल्यं स्याद् इति विद्धि शुभानने ॥ २७५ ॥
 
 एवं ते कथितान्येव महादानानि मानिनि ।  
-त्वत्प्रियार्थं मया देवि भूयश्श्रोतुं किमिच्छसि[^6] ॥ २७६ ॥
+त्वत्प्रियार्थं मया देवि भूयश्श्रोतुं किमिच्छसि[^15] ॥ २७६ ॥
 
 **उमा—**
 
 भगवन् देवदेवेश कथं देयं तिलान्वितम् ।  
 तस्य तस्य फलं ब्रूहि दत्तस्य च कृतस्य च ॥ २७७ ॥  
+
 
 **श्रीमहेश्वरः—**
 
@@ -15600,12 +15695,12 @@ The Presidency College,
 वस्त्रदानाद्वपुश्शोभाम् अलङ्कारं लभेन्नरः ।  
 दीपदो बुद्धिवैशद्यं द्युतिशोभां लभेन्नरः ॥ २९० ॥
 
-राजबीजाविमोक्षं[^480] तु छत्रदो लभते फलम् ।  
+राजबीजाविमोक्षं[^598] तु छत्रदो लभते फलम् ।  
 दासीदासप्रदानात्तु भवेत् कर्मान्तभाङ्नरः॥ २९१ ॥
 
 दासीदासं च विविधं लभेत् प्रेत्य गुणान्वितम् ॥ २९२
 
-यानानि वाहनं चैव तदर्हायददन्नरः ।  
+यानानि वाहनं चैव तदर्हाय ददन्नरः ।  
 पादरोगपरिक्लेशान् मुक्तश्श्वसनवाहवान् \।\। २९३ ॥
 
 विचित्रं रमणीयं च लभते यानवाहनम् ॥ २९३ ॥
@@ -15637,9 +15732,9 @@ The Presidency College,
 प्रासादवासं विविधं पक्षशोभां लभेत् पुनः ॥ ३०२ ॥
 
 विविधं विविधाकारं भक्ष्यभोज्यगुणान्वितम् ।  
-रम्यं सदैव गोवाटं[^596] यः कुर्याल्लभते नरः ॥ ३०३
+रम्यं सदैव गोवाटं[^716] यः कुर्याल्लभते नरः ॥ ३०३
 
-[^596]: "क - गोवासं ख- गोपालं"
+[^716]: # "क - गोवासं ख- गोपालं"
 
 प्रेत्यभावे शुभां जातिं व्याधिमोक्षं तथैव च ॥ ३०३ ॥
 
@@ -15653,7 +15748,7 @@ The Presidency College,
 **श्रीमहेश्वरः—**
 
 प्रेत्यभावे शृणु फलं दत्तस्य च कृतस्य च ।  
-दानं पद्गुणयुक्तं तु तदर्हाययथाविधि ॥ ३०६
+दानं पद्गुणयुक्तं तु तदर्हाय यथाविधि ॥ ३०६
 
 यथाविभवतो दानं दातव्यमिति मानवैः॥ ३०६ ॥
 
@@ -15662,9 +15757,9 @@ The Presidency College,
 
 इदं दत्तमिदं देयम् इत्येवं फलकाङ्क्षया ।  
 यद्दत्तं तत्तदेव स्यान्न तु किञ्चन लभ्यते ॥ ३०८ ॥  
-ध्रुवं देव्युत्तमे दाने मध्यमे त्वधमं फलम्[^597] ॥ ३०९
+ध्रुवं देव्युत्तमे दाने मध्यमे त्वधमं फलम्[^717] ॥ ३०९
 
-[^597]: "सर्वेषु कोशेषु अत्रैवाध्याय माप्तिर्दृश्यते"
+[^717]: # "सर्वेषु कोशेषु अत्रैवाध्याय माप्तिर्दृश्यते"
 
 **उमा—**
 
@@ -15676,12 +15771,13 @@ The Presidency College,
 देवतानां तु पूजा या यज्ञेष्वेव समाहिता ।  
 यज्ञा वेदेष्वधीताश्च वेदा ब्राह्मणसंयुताः ॥ ३११  
 
-इदं तु सकलं द्रव्यं[^598] दिवि वा भुवि वा प्रिये ।  
+
+इदं तु सकलं द्रव्यं[^718] दिवि वा भुवि वा प्रिये ।  
 यज्ञार्थं विद्धि तत् सृष्टं लोकानां हितकाम्यया ॥ ३१२
 
-[^598]: "अ-क-ख - दिव्यं"
+[^718]: # "अ-क-ख - दिव्यं"
 
-एवं विज्ञायतद् कर्ता सदारस्सततं द्विजः ।  
+एवं विज्ञाय तद् कर्ता सदारस्सततं द्विजः ।  
 प्रेत्यभावे लभेल्लोकान् ब्रह्मकर्मसमाधिना ॥ ३१३
 
 ब्राह्मणेष्वेव तद्ब्रह्म नित्यं देवि समाहितम्॥ ३१३ ॥
@@ -15697,7 +15793,7 @@ The Presidency College,
 शुद्धैर्द्रव्योपकरणैर् यष्टव्यमिति निश्चयः॥ ३१६ ॥
 
 तथा कृतेषु यज्ञेषु देवानां तोषणं भवेत् ।  
-तुष्टेषु सर्वदेवेषु यज्वायज्ञफलं लभेत् ॥ ३१७ ॥
+तुष्टेषु सर्वदेवेषु यज्वा यज्ञफलं लभेत् ॥ ३१७ ॥
 
 देवास्सन्तोषिता यज्ञैर् लोकान् संवर्धयन्त्युत ।  
 उभयोर्लोकयोः प्रीतिर देवि यज्ञे प्रदृश्यते ॥ ३१८ ॥
@@ -15707,7 +15803,7 @@ The Presidency College,
 
 सर्वधर्मसमुद्देशो देवि यज्ञे समाहितः ।
 
-एषायज्ञकृता पूजा लौकिकीमपरां शृणु ॥ ३२० ॥
+एषा यज्ञकृता पूजा लौकिकीमपरां शृणु ॥ ३२० ॥
 
 देवसत्कारमुद्दिश्य क्रियते लौकिकोत्सवः ॥ ३२१
 
@@ -15725,10 +15821,10 @@ The Presidency College,
 तेषां भक्तिकृतेनैव सत्कारेणैव पूजिताः ।  
 तेनैव तोषं संयान्ति देवि देवास्त्रिविष्टपे ॥ ३२५ ॥
 
-मानुषैश्चोपचारैर्वा[^599] शुचिभिस्सत्परायणैः ।  
+मानुषैश्चोपचारैर्वा[^719] शुचिभिस्सत्परायणैः ।  
 ब्रह्मचर्यपरैरेतत् कृतं धर्मफलं लभेत् ॥ ३२६ ॥
 
-[^599]: " क ख घ - कारै"
+[^719]: # " क ख घ - कारै"
 
 केवलैस्स्तुतिभिर्देवि गन्धमाल्यसमाहितैः ।  
 प्रयतैश्शुद्धगात्रैस्तु शुद्धदेशे सुपूजिताः ॥ ३२७ ॥
@@ -15736,6 +15832,7 @@ The Presidency College,
 सन्तोषं यान्ति ते देवा भक्तैस्सम्पूजितास्तथा ॥ ३२८
 
 देवान् सन्तोषयित्वैव देवि धर्ममवाप्नुयात् ॥ ३२८ ॥  
+
 
 **उमा—**
 
@@ -15765,13 +15862,13 @@ The Presidency College,
 
 ऋतेऽपि तु मनो देवि अशुभं फलति ध्रुवम् ॥ ३३६
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां**
 
-अनुशासनपर्वणि अष्टाविंशत्यधिकशततमोऽध्यायः ॥ १२८ ॥  
+**अनुशासनपर्वणि अष्टाविंशत्यधिकशततमोऽध्यायः ॥ १२८ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि अष्टाविंशत्यधिकशततमोऽध्यायः ॥ १२८ ॥  
-\[ अस्मिन्नध्याये ३३६ श्लोकाः \]
+\[ अस्मिन्नध्याये ३३६ श्लोकाः \]**
 
-—————
+**—————**
 
 **॥ एकोनत्रिंशदधिकशततमोऽध्यायः॥**
 
@@ -15788,10 +15885,10 @@ The Presidency College,
 
 **श्रीमहेश्वरः --**
 
-पितृमेधं[^600] प्रवक्ष्यामि यथावत्तन्मनाश्श्रृणु ।  
+पितृमेधं[^720] प्रवक्ष्यामि यथावत्तन्मनाश्श्रृणु ।  
 देशकालौ विधानं च तत् क्रियायाश्शुभाशुभम् ॥ २
 
-[^600]: " ख - देवदेव जगन्नाथ भगवन् प्राणनायक । [ अधिकः पाठः ]"
+[^720]: # " ख - देवदेव जगन्नाथ भगवन् प्राणनायक । [ अधिकः पाठः ]"
 
 लोकेषु पितरः पूज्या देवतानां च देवताः ।  
 शुचयो निर्मलाः पुण्या दक्षिणां दिशमाश्रिताः ॥ ३
@@ -15811,7 +15908,7 @@ The Presidency College,
 अमावास्यां त्रयोदश्यां नवम्यां प्रतिपत्सु च ।  
 तिथि‍ष्वेतासु तुष्यन्ति दत्तेनेह पितामहाः ॥ ८
 
-पूर्वाह्णेशुक्लपक्षे च रात्रौ जन्मदिनेषु वा ।  
+पूर्वाह्णे शुक्लपक्षे च रात्रौ जन्मदिनेषु वा ।  
 युग्मेष्वहस्सु च श्राद्धं न च कुर्वीत पण्डितः ॥ ९
 
 एष कालो मया प्रोक्तः पितृमेधस्य पूजितः ।  
@@ -15834,9 +15931,9 @@ The Presidency College,
 
 तिलानवाकिरेत् तत्र नानावर्णान् समन्ततः ।
 
-अशुद्धमपवित्रं[^601] च तिलैश्शुध्यति शोभने ॥ १६
+अशुद्धमपवित्रं[^721] च तिलैश्शुध्यति शोभने ॥ १६
 
-[^601]: " क ख - व - अशुद्वपितृकश्चेति"
+[^721]: # " क ख - व - अशुद्वपितृकश्चेति"
 
 नीलकाषायवस्त्रं च भिन्नवर्णं नवव्रणम् ।  
 हीनाङ्गमशुचिं वाऽपि वर्जयेत्तत्र दूरतः ॥ १७
@@ -15847,10 +15944,10 @@ The Presidency College,
 मांसैः प्रीणन्ति पितरो मुद्गमापयवैरिह।  
 शशरौरवमांसेन षण्मासं तृप्तिरिष्यते ॥ १९
 
-संवत्सरं[^602] च गव्येन हविषा पायसेन च ।  
+संवत्सरं[^722] च गव्येन हविषा पायसेन च ।  
 वार्ध्रीणसस्य मांसेन तृप्तिर्द्वादशवार्षिकी ॥ २०
 
-[^602]: "अ व इदमर्धं नास्ति"
+[^722]: # "अ व इदमर्धं नास्ति"
 
 आनन्त्याय भवेद्दत्तं खड्गमांसं पितृक्षये ।  
 पायसं सतिलं क्षौद्रं खड्गमांसेन सम्मितम् ॥ २१
@@ -15872,7 +15969,7 @@ The Presidency College,
 समीपे त्वग्नोषोमाभ्यां पितृभ्यो जुहुयात् तदा ॥ २६
 
 तथा दर्भेषु पिण्डांस्त्रीन् निर्वपेद्दक्षिणामुखः ।  
-अपसव्यमपाङ्गुष्ठंनामधेयपुरस्कृतम्॥ २७
+अपसव्यमपाङ्गुष्ठं नामधेयपुरस्कृतम्॥ २७
 
 एतेन विधिना दत्तं पितृणामक्षयं भवेत् ।  
 ततो विप्रान् यथाशक्ति पूजयेन्नियतश्शुचिः ॥ २८
@@ -15895,16 +15992,16 @@ The Presidency College,
 पितरस्तेन तुष्यन्ति कर्ता च फलमाप्नुयात्॥ ३३ ॥
 
 अहन्यहनि वा कुर्यान्मासे मासेऽथवा पुनः ।  
-संवत्सरं द्विः कुर्याच्च[^603] चतुर्वाऽपि स्वशक्तितः ॥ ३४ ॥
+संवत्सरं द्विः कुर्याच्च[^723] चतुर्वाऽपि स्वशक्तितः ॥ ३४ ॥
 
-[^603]: "ख - संवत्सरस्य द्विः कुर्यात् ;अ- द्विजः कुर्यात्"
+[^723]: # "ख - संवत्सरस्य द्विः कुर्यात् ; अ- द्विजः कुर्यात्"
 
-दीर्घायुश्च भवेत् स्वस्थः पितृमेधेन वा पुनः[^604] ।  
-सपुत्रो[^605] बहुभृत्यश्च प्रभूतधनधान्यवान्॥ ३५ ॥
+दीर्घायुश्च भवेत् स्वस्थः पितृमेधेन वा पुनः[^724] ।  
+सपुत्रो[^725] बहुभृत्यश्च प्रभूतधनधान्यवान्॥ ३५ ॥
 
-[^604]: "क - घ - मानवः"
+[^724]: # "क - घ - मानवः"
 
-[^605]: "ख - सुपुतो बहुपुत्रश्च"
+[^725]: # "ख - सुपुतो बहुपुत्रश्च"
 
 श्राद्धदस्स्वर्गमाप्नोति निर्मलं विविधात्मकम् ।  
 अप्सरोगणसङ्घुष्टं विरजस्कमनन्तरम् ॥ ३६ ॥
@@ -15926,12 +16023,13 @@ The Presidency College,
 अन्ने दत्ते मृतानां तु कथमाप्यायनं भवेत् ।  
 एवं मया संशयितं भगवन् वक्तुमर्हसि॥ ४१ ॥  
 
+
 **नारदः—**
 
 एतद्विरुद्धं पृच्छन्त्यां रुद्राण्यां परिषद्भशम् ।  
 बभूव सर्वा मुदिता श्रोतुं हि परमं हितम् ॥ ४२ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 स्थाने संशयितं देवि शृणु कल्याणि तत्त्वतः ।  
 गुह्यानां परमं गुह्यं हितानां परमं हितम् ॥ ४३ ॥
@@ -15949,37 +16047,37 @@ The Presidency College,
 तयोर्हव्यक्रिया देवान् कव्यमाप्यायते पितॄन् ॥ ४७ ॥
 
 प्रसव्यं मङ्गलैर्द्रव्यैर् हव्यकर्म विधीयते ।  
-अपसव्यममङ्गल्यैः[^606] कव्यं चापि विधीयते ॥ ४८ ॥
+अपसव्यममङ्गल्यैः[^726] कव्यं चापि विधीयते ॥ ४८ ॥
 
-[^606]: "ख - इदमर्धं नास्ति"
+[^726]: # "ख - इदमर्धं नास्ति"
 
 सदेवासुरगन्धर्वाः पितॄनभ्यर्चयन्ति च ।  
 आप्यायन्ते च ते श्राद्धैः पुनराण्याययन्ति तान् ॥ ४९ ॥
 
-अनिष्ट्वा च पितॄन् पूर्वंयः क्रियां प्रकरोति चेत् ।  
+अनिष्ट्वा च पितॄन् पूर्वं यः क्रियां प्रकरोति चेत् ।  
 रक्षांसि च पिशाचाश्च फलं भोक्ष्यन्ति तस्य तत् ॥ ५० ॥
 
 हव्यकव्यक्रियास्तस्मात् कर्तव्या भुवि मानुषैः ।  
 कर्मक्षेत्रं हि मानुष्यं तदन्यत्र न विद्यते ॥ ५१ ॥
 
 कव्येन सन्ततिर्दृष्टा हव्ये भूतिः पृथग्विधा ।  
-इति ते कथितं देवि देवगुह्यं सनातनम्[^607] ॥ ५२ ॥
+इति ते कथितं देवि देवगुह्यं सनातनम्[^727] ॥ ५२ ॥
 
-[^607]: " क ख - घ - सारं"
+[^727]: # " क ख - घ - सारं"
 
 **उमा—**
 
 एवं कृतस्य धर्मस्य श्रोतुमिच्छाम्यहं प्रभो ।  
 प्रमाणं फलमानानां तन्मे शंसितुमर्हसि ॥ ५३ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 प्रमाणकल्पनां देवि दानस्य शृणु भामिनि ॥ ५४
 
 यत्सारस्तु नरो लोके तद्दानं चोत्तमं स्मृतम् ।  
 सर्वदानविधिं प्राहुस् तदेव भुवि शोभने ॥ ५५
 
-प्रस्थं धनं दरिद्रस्य[^6] शतं कोटिधनस्य च ।  
+प्रस्थं धनं दरिद्रस्य[^15] शतं कोटिधनस्य च ।  
 प्रस्थसारस्तु तत् प्रस्थं ददन्महवाप्नुयात्॥ ५६
 
 कोटिसारस्तु तां कोटिं ददन्महदवाप्नुयात् ।  
@@ -16013,7 +16111,7 @@ The Presidency College,
 
 अशुभस्यापि दानस्य शुभं स्याच्च फलं कथम् ॥ ६५ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 मनसा तत्त्वतश्शुद्धम् आनृशंस्यपुरस्सरम् ।  
 प्रीत्या तु सर्वदानानि दत्त्वा फलमवाप्नुयात् ॥ ६६ ॥
@@ -16031,20 +16129,20 @@ The Presidency College,
 व्यसनाभ्यवपत्तिश्च सर्वेषां च स्वशक्तितः ॥ ७० ॥
 
 एतत् सर्वं समासेन धर्मकार्यमिति स्मृतम् ।  
-तत् कर्तव्यं मनुष्येण स्वशक्त्या श्रद्धयाशुभे ॥ ७१ ॥
+तत् कर्तव्यं मनुष्येण स्वशक्त्या श्रद्धया शुभे ॥ ७१ ॥
 
 प्रेत्यभावे लभेत् पुण्यं नास्ति तत्र विचारणा ।  
 रूपं सौभाग्यमारोग्यं बलं सौख्यं लभेन्नरः ॥ ७२ ॥
 
-स्वर्गे वा[^609] मानुषे वाऽपि तैस्तैराण्यायते हि सः ॥ ७३ ॥
+स्वर्गे वा[^729] मानुषे वाऽपि तैस्तैराण्यायते हि सः ॥ ७३ ॥
 
-[^609]: " क घ - अर्धत्रयं नास्ति"
+[^729]: # " क घ - अर्धत्रयं नास्ति"
 
 **उमा—**
 
-भगवन् लोकपालेश धर्मस्तु कतिभेदकः[^610] ।
+भगवन् लोकपालेश धर्मस्तु कतिभेदकः[^730] ।
 
-[^610]: "ख- दानस्य कति"
+[^730]: # "ख- दानस्य कति"
 
 दृश्यते परितसद्भिस् तन्मे शंसितुमर्हसि॥ ७४
 
@@ -16064,13 +16162,13 @@ The Presidency College,
 कारणात् तत्रतत्रैव फलं धर्मस्य चेष्यते ।  
 तत्कारणसमायोगे लभेत् कुर्वन् फलं नरः ॥ ७८ ॥
 
-अन्यथा न लभेत् पुण्यम् अतदर्हस्समाविशेत्[^611] ।  
+अन्यथा न लभेत् पुण्यम् अतदर्हस्समाविशेत्[^731] ।  
 एवं धर्मस्य नानात्वं फलं कुर्वल्लँभेन्नरः॥ ७९ ॥
 
-[^611]: "ख- एतदेभ्यस्समा"
+[^731]: # "ख- एतदेभ्यस्समा"
 
 श्रौतस्मार्तस्तु धर्माणां प्रकृतो धर्म उच्यते ।  
-इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^6] ॥ ८० ॥
+इति ते कथितं देवि भूयश्श्रोतुं किमिच्छसि[^15] ॥ ८० ॥
 
 **उमा—**
 
@@ -16088,10 +16186,10 @@ The Presidency College,
 शृणु कल्याणि तत् सर्वं यत्त्वमिच्छसि शोभने ।  
 विविधाः पुण्यलोकास्ते कर्मकर्मण्यतां गताः॥ ८४ ॥
 
-मेरुं हि कनकात्मानं परित स्सर्वतोदिशम्[^613] ।  
+मेरुं हि कनकात्मानं परित स्सर्वतोदिशम्[^733] ।  
 भद्राश्वः केतुमालश्च उत्तराः कुरवस्तथा ॥ ८५ ॥
 
-[^613]: "ध - स्सर्वंशोभितम्"
+[^733]: # "ध - स्सर्वंशोभितम्"
 
 जम्बूवनादयस्स्वर्गा इत्येते कर्मवर्जिताः ।  
 तेषु भूत्वा स्वयम्भूताः प्रदृश्यन्ते यतस्ततः॥ ८६ ॥
@@ -16175,12 +16273,12 @@ The Presidency College,
 तस्मान्न वर्णये देवि विदितं च त्वया शुभे ।  
 तत् सर्वं सुकृतैरेव प्राप्यते चोत्तमं पदम् ॥ ११२
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकोनत्रिंशदधिकशततमोऽध्यायः ॥ १२९ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि एकोनत्रिंशदधिकशततमोऽध्यायः ॥ १२९ ॥  
 \[ अस्मिन्नध्याये ११२ श्लोकाः \]
 
-—————
+**—————**
 
 **॥ त्रिंशदधिकशततमोऽध्यायः ॥**
 
@@ -16190,14 +16288,14 @@ The Presidency College,
 
 **———————**
 
-उमा—
+**उमा—**
 
 मानुषेष्वेव जीवत्सु गतिर्विज्ञायते न वा ।  
 यथा शुभगतिर्जीवन् नासौ त्वशुभभागिति ॥ १
 
 एतदिच्छाम्यहं श्रोतुं तन्मे शंसितुमर्हसि॥ १ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 तदहं ते प्रवक्ष्यामि जीवितं विद्यते यथा ।  
 द्विविधाः प्राणिनो लोके दैवासुरसमाश्रिताः ॥ २ ॥
@@ -16219,15 +16317,15 @@ The Presidency College,
 मनोवाक्कर्मभिर्नित्यम् अनुकूला भवन्ति ये ।  
 तादृशानमरान् विद्धि ते नरास्स्वर्गगामिनः ॥ ८
 
-शौचार्जवपरा[^614] धीराः परार्थान् न हरन्ति ये ।  
+शौचार्जवपरा[^734] धीराः परार्थान् न हरन्ति ये ।  
 ये समास्सर्वभूतेषु ते नरास्स्वर्गगामिनः ॥ ९
 
-[^614]: " ख - अर्धंद्वयं नास्ति"
+[^734]: # " ख - अर्धन्द्वयं नास्ति"
 
-धार्मिकाश्शौचसम्पन्नाश्[^615] शुक्ला मधुरवादिनः ।  
+धार्मिकाश्शौचसम्पन्नाश्[^735] शुक्ला मधुरवादिनः ।  
 नाकार्यं मनसेच्छन्ति ते नरास्स्वर्गगामिनः ॥ १०
 
-[^615]: "अ क घ - अर्धंद्वयं नास्ति"
+[^735]: # "अ क घ - अर्धन्द्वयं नास्ति"
 
 दरिद्रा अपि ये केचिद् याचिताः प्रीतिपूर्वकम् ।  
 ददत्येव च यत् किञ्चित् ते नरास्स्वर्गगामिनः ॥ ११
@@ -16246,9 +16344,9 @@ The Presidency College,
 जितेन्द्रिया जितक्रोधा जितमानमदास्तथा ।  
 लोभमात्सर्यहीना ये ते नरास्स्वर्गगामिनः ॥ १५ ॥
 
-शक्त्या[^616] चाभ्यवपद्यन्ते ते नरास्स्वर्गगामिनः ॥ १६
+शक्त्या[^736] चाभ्यवपद्यन्ते ते नरास्स्वर्गगामिनः ॥ १६
 
-[^616]: " अ-क - व - नास्तीदमर्धम्"
+[^736]: # " अ-क - व - नास्तीदमर्धम्"
 
 व्रतिनो दानशीलाश्च धर्मशीलाञ्च मानवाः ।  
 ऋजवो मृदवो नित्यं ते नरास्स्वर्गगामिनः ॥ १७
@@ -16262,15 +16360,14 @@ The Presidency College,
 तादृशान् देवपक्षस्थान् इति विद्धि शुभानने ॥ १९ ॥
 
 शुभाशुभमयं लोके सर्वं स्थावरजङ्गमम् ।  
-दैवं शुभमिति प्राहुर्आसुरं चाशुभं
-प्रिये[^6]॥ २० ॥
+दैवं शुभमिति प्राहुर् आसुरं चाशुभं प्रिये[^15]॥ २० ॥
 
 **उमा—**
 
 भगवन् मानुपाः केचित् कालधर्ममुपस्थिताः ।  
 प्राणमोक्षं कथं कृत्वा परत्र हितमाप्नुयुः॥ २१ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 हन्त ते कथयिष्यामि शृणु देवि समाहिता ।  
 द्विविधं मरणं लोके स्वभावाद्यत्नतस्तथा ॥ २२ ॥
@@ -16281,23 +16378,23 @@ The Presidency College,
 कल्याकल्यशरीरस्य यत्नजं द्विविधं स्मृतम् ।  
 यत्नजं नाम मरणम् आत्मत्यागो मुमूर्षया॥ २४ ॥
 
-तत्राकल्यशरीरस्य[^618] जरा व्याधिश्च कारणम् ।  
+तत्राकल्यशरीरस्य[^738] जरा व्याधिश्च कारणम् ।  
 महाप्रस्थानगमनं तथा प्रायोपवेशनम् \।\। २५ ॥
 
-[^618]: "ख - अर्धंचतुष्ट्यं नास्ति"
+[^738]: # "ख - अर्धञ्चतुष्ट्यं नास्ति"
 
 जलावगाहनं चैव अग्निचित्याप्रवेशनम् ।  
 एवं चतुर्विधः प्रोक्त आत्मत्यागो मुमूर्षताम् \।\। २६ ॥
 
 एतेषां क्रमयोगेन विधानं शृणु शोभने॥ २७
 
-स्वधर्मयुक्तं गार्हस्थ्यं चिरमूढ्वाविधानतः ।  
+स्वधर्मयुक्तं गार्हस्थ्यं चिरमूढ्वा विधानतः ।  
 तत्रानृण्यं च सम्प्राप्य वृद्धो वा व्याधितोऽपि वा ॥ २८
 
 दर्शयित्वा स्वदौर्बल्यं सर्वानेवानुमान्य च ।  
-सर्वं विहाय[^619] बन्धूंश्च कर्मणां भरणं तथा ॥ २९
+सर्वं विहाय[^739] बन्धूंश्च कर्मणां भरणं तथा ॥ २९
 
-[^619]: " ख – सर्वान् + क्रमणं भरणं तथा"
+[^739]: # " ख – सर्वान् + क्रमणं भरणं तथा"
 
 दानानि विधिवत् कृत्वा धर्मकार्यार्थमात्मनः ।  
 अनुज्ञाप्य जनं सर्वं वाचा मधुरया ब्रुवन् ॥ ३०
@@ -16318,9 +16415,9 @@ The Presidency College,
 देशे पुण्यतमे श्रेष्ठे निराहारस्तु संविशेत् ॥ ३४ ॥
 
 आप्राणान्तं शुचिर्भूत्वा कुर्वन् दानं स्वशक्तितः ।  
-हरिं स्मरंस्त्यजेत्[^620] प्राणान् एष धर्मस्सनातनः ॥ ३५ ॥
+हरिं स्मरंस्त्यजेत्[^740] प्राणान् एष धर्मस्सनातनः ॥ ३५ ॥
 
-[^620]: ". अ-क - घ - पुण्यं परित्यजेत् प्राणान्"
+[^740]: # ". अ-क - घ - पुण्यं परित्यजेत् प्राणान्"
 
 एवं कलेबरं त्यक्त्वा स्वर्गलोके महीयते ॥ ३६
 
@@ -16328,9 +16425,9 @@ The Presidency College,
 कृत्वा काष्ठमयं चित्यं पुण्यक्षेत्रे नदीषु वा ॥ ३७
 
 दैवतेभ्यो नमस्कृत्वा कृत्वा चापि प्रदक्षिणम्।  
-भूत्वा शुचिर्व्यवसितस् स्मरन्नारायणं[^621] हरिम् ॥ ३८
+भूत्वा शुचिर्व्यवसितस् स्मरन्नारायणं[^741] हरिम् ॥ ३८
 
-[^621]: "अ-क- ध - अयं पादोऽनन्तरश्च न स्तुः"
+[^741]: # "अ-क- ध - अयं पादोऽनन्तरश्च न स्तुः"
 
 ब्राह्मणेभ्यो नमस्कृत्वा प्रविशेदग्निसंस्तरम् ॥ ३८ ॥
 
@@ -16340,7 +16437,7 @@ The Presidency College,
 
 ख्याते पुण्यतमे तीर्थे निमज्जेत् सुकृतं स्मरन ॥ ४०
 
-सोऽपि पुण्यतमाल्ँलोकान् निसर्गात् प्रतिपद्यते ॥ ४० ॥
+सोऽपि पुण्यतमाल्ँ लोकान् निसर्गात् प्रतिपद्यते ॥ ४० ॥
 
 ततः कल्यशरीरस्य सन्त्यागं श्रृणु तत्त्वतः ॥ ४१
 
@@ -16352,7 +16449,7 @@ The Presidency College,
 स्वराज्यरक्षणार्थं वा कुनृपैः पीडिताः प्रजाः \।  
 मोक्तुकामस्त्यजेत् प्राणान् युद्धमार्गे यथाविधि ॥ ४२॥
 
-सुसन्नद्धोव्यवसितस् सम्प्रविश्यापराङ्मुखः ॥ ४४
+सुसन्नद्धो व्यवसितस् सम्प्रविश्यापराङ्मुखः ॥ ४४
 
 एवं राजा मृतस्सद्यस् स्वर्गलोके महीयते ।  
 तादृशी सुगतिर्नास्ति क्षत्रियस्य विशेषतः ॥ ४५
@@ -16360,7 +16457,7 @@ The Presidency College,
 भृत्यो वा भर्तृपिण्डार्थं भर्तृकर्मण्युपस्थिते।  
 कुर्वस्तत्र तु साहाय्यम् आत्मप्राणानपेक्षया ॥ ४६ ॥
 
-स्वाम्यर्थं सन्त्यजेत् प्राणान् पुण्याल्ँलोकान् स गच्छति ॥ ४६॥
+स्वाम्यर्थं सन्त्यजेत् प्राणान् पुण्याल्ँ लोकान् स गच्छति ॥ ४६॥
 
 स्पृहणीयस्सुरगणैस् तत्र नास्ति विचारणा।  
 एवं गोब्राह्मणार्थं वा दीनार्थं वा त्यजेत्तनुम् ॥ ४७ ॥
@@ -16369,6 +16466,7 @@ The Presidency College,
 इत्येते जीवितत्यागे मार्गास्ते समुदाहृताः ॥ ४८ ॥
 
 कामात् क्रोधाद्भयाद्वाऽपि यदि चेत् सन्त्यजेत्तनुम् ।  
+
 
 सोऽनन्तं नरकं याति आत्महन्तृत्वकारणात् \।\। ४९॥
 
@@ -16392,22 +16490,22 @@ The Presidency College,
 
 एतत् सर्वं मया प्रोक्तं मानुषाणां हितं वचः ॥ ५६
 
-इति श्रीमहाभारते शतसहत्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहत्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि त्रिंशदधिकशततमोऽध्यायः ॥ १३० ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि त्रिंशदधिकशततमोऽध्यायः ॥ १३० ॥  
-\[ अस्मिन्नध्याये ५६ श्लोकाः \]
+\[ अस्मिन्नध्याये ५६ श्लोकाः \]**
 
-—————
+**—————**
 
 **॥ एकत्रिंशदधिकशततमोऽध्यायः ॥**
 
 **<MISSING_FIG href="../books_images/U-IMG-1706518630Screenshot2023-12-31183638.png"/>**
 
- महेश्वरेण पार्वतीं प्रति नानाधर्माणामपि प्रत्येकं साफल्यकथनेन तेषु मोक्षधर्मस्यैव श्रैष्ट्यप्रतिपादनम् ॥ १ ॥ तथा ज्ञानस्य मोक्षसाधनत्वकथनपूर्वकं तत्प्राप्त्युपायकथनम् ॥ २ ॥ जरामरणतारणस्य निर्वाणैकसाध्यत्वोक्त्यातस्य ज्ञानैकसाध्यत्वप्रतिपादनेनेन्द्रियनिग्रहादिना वैराग्यस्य तत्कारणत्वोक्तिः ॥ ३ ॥
+ महेश्वरेण पार्वतीं प्रति नानाधर्माणामपि प्रत्येकं साफल्यकथनेन तेषु मोक्षधर्मस्यैव श्रैष्ट्यप्रतिपादनम् ॥ १ ॥ तथा ज्ञानस्य मोक्षसाधनत्वकथनपूर्वकं तत्प्राप्त्युपायकथनम् ॥ २ ॥ जरामरणतारणस्य निर्वाणैकसाध्यत्वोक्त्या तस्य ज्ञानैकसाध्यत्वप्रतिपादनेनेन्द्रियनिग्रहादिना वैराग्यस्य तत्कारणत्वोक्तिः ॥ ३ ॥
 
 **———————**
 
-उमा—
+**उमा—**
 
 देवदेव नमस्तेऽस्तु कालसूदन शङ्कर।  
 लोकेषु विविधा धर्मास् त्वत्प्रसादान्मया श्रुताः ॥ १
@@ -16431,20 +16529,20 @@ The Presidency College,
 आर्जवेनापरे युक्ता महतां पूजने रताः ।  
 ऋजवो नाकपृष्ठे तु शुद्धात्मानः प्रतिष्ठिताः ॥ ७
 
-एवं बहुविधैर्लोके धर्मचारैस्सुसंवृतैः[^622] ।  
+एवं बहुविधैर्लोके धर्मचारैस्सुसंवृतैः[^742] ।  
 ममापि मतिराविद्धा मेघलेखेव वायुना ॥ ८
 
-[^622]: "ख घ - धर्मद्वा"
+[^742]: # "ख घ - धर्मद्वा"
 
 एतस्मिन् संशयस्थाने संशयच्छेदकारि यत् ।  
-वचनं ब्रूहि देवेश निश्चयज्ञानसंज्ञितम् ॥ ९
+वचनं ब्रूहि देवेश निश्चयज्ञानसञ्ज्ञितम् ॥ ९
 
 **नारदः—**
 
 एवं पृष्टस्स्वया देव्या महादेव : पिनाकधृक् ।  
 प्रोवाच मधुरं वाक्यं सूक्ष्ममध्यात्मसंश्रितम् ॥ १०
 
-श्रीमहेश्वरः—
+**श्रीमहेश्वरः —**
 
 न्यायतस्त्वं महाभागे श्रोतुकामाऽसि निश्चयम् ।  
 एतदेव विशिष्टं ते यत्त्वं पृच्छसि मां प्रिये ॥ ११
@@ -16469,17 +16567,17 @@ The Presidency College,
 ऋषिभिर्देवश्च प्रोच्यते परमं पदम् ॥ १७
 
 नित्यमक्षरमक्षोभ्यम् अजेयं शाश्वतं शिवम् ।  
-विशन्ति[^623] तत् पदं प्राज्ञास् स्पृहणीयं सुरासुरैः ॥ १८
+विशन्ति[^743] तत् पदं प्राज्ञास् स्पृहणीयं सुरासुरैः ॥ १८
 
-[^623]: " घ - उशन्ति"
+[^743]: # " घ - उशन्ति"
 
 दुःखादिश्च दुरन्तश्च संसारोऽयं प्रकीर्तितः ।  
 शोकव्याधिजरादोषैर् मरणेन च संयुतः \।\। १९
 
 यथा ज्योतिर्गणा व्योम्नि निवर्तन्ते पुनः पुनः ।  
-एवं[^624] जीवा अमी लोके निवर्तन्ते पुनः पुनः ॥ २०
+एवं[^744] जीवा अमी लोके निवर्तन्ते पुनः पुनः ॥ २०
 
-[^624]: "क ख घ - इदमर्धंद्वयं नास्ति"
+[^744]: # "क ख घ - इदमर्धन्द्वयं नास्ति"
 
 तस्य मोक्षस्य मार्गोऽयं श्रूयतां शुभलक्षणे॥ २० ॥
 
@@ -16489,11 +16587,12 @@ The Presidency College,
 तत्र संसारचक्रस्य मोक्षो ज्ञानेन दृश्यते ।  
 अध्यात्मतत्त्वविज्ञानं ज्ञानमित्यभिधीयते॥ २२ ॥  
 
+
 ज्ञानस्य ग्रहणोपायम् आचारं ज्ञानिनस्तथा ।  
 यथावत् सम्प्रवक्ष्यामि तत्त्वमेकमनाश्श्रृणु ॥ २३ ॥
 
 ब्राह्मणः क्षत्रियो वाऽपि भूत्वा पूर्वं गृहे स्थितः ।  
-आनृण्यं सर्वतः प्राप्य ततस्तान्सन्त्यजेद्गृहान् ॥ २४ ॥
+आनृण्यं सर्वतः प्राप्य ततस्तान् सन्त्यजेद्गृहान् ॥ २४ ॥
 
 ततस्सन्त्यज्य गार्हस्थ्यं निश्चितो वनमाश्रयेत् ॥ २५
 
@@ -16517,6 +16616,7 @@ The Presidency College,
 त्यजेत् सङ्कल्पजान् ग्रन्थीन् सदा ध्यानपरो भवेत् ॥ ३१
 
 कुण्डिका चमसं शिक्यं छत्रं यष्टिमुपानहौ ।  
+
 
 चेलमित्येव नैतेषु स्थापयेत् स्वाम्यमात्मनः ॥ ३२
 
@@ -16546,7 +16646,9 @@ The Presidency College,
 
 एवंयुक्तसमाचारस् तत्परोऽध्यात्मचिन्तकः ।  
 
-ज्ञानाभ्यासेन तेनैव प्राप्नोति परमां गतिम्[^6] ॥ ४१
+
+ज्ञानाभ्यासेन तेनैव प्राप्नोति परमां गतिम्[^15]
+॥ ४१
 
 अनुद्विग्नमतेर्जन्तोर् अस्मिन् संसारमण्डले ।  
 शोकव्याधिजरादुःखैर् निर्वाणं नोपपद्यते ॥ ४२
@@ -16572,11 +16674,12 @@ The Presidency College,
 उत्पन्नमिह् मानुष्ये गर्भप्रभृति मानवम् ।  
 विविधान्युपवर्तन्ते दुःखानि च सुखानि च ॥ ४९  
 
-तयोरेकतरो मार्गो यद्येनमभिसंनमेत् ।  
+
+तयोरेकतरो मार्गो यद्येनमभिसन्नमेत् ।  
 सुखं प्राप्य न संहृष्येन्न दुःखं प्राप्य सञ्ज्वरेत् ॥ ५०
 
 दोषदर्शी भवेत्तत्र यत्र स्नेहः प्रवर्तते ।  
-अनिष्टेनान्वितं पश्येद् यथा क्षिप्रंविरज्यते ॥ ५१
+अनिष्टेनान्वितं पश्येद् यथा क्षिप्रं विरज्यते ॥ ५१
 
 यथा कांष्ठ च काष्ठं च समेयातां महोदधौ ।  
 समेत्य च व्यपेयातां तद्वज्ज्ञातिसमागमः ॥ ५२
@@ -16591,12 +16694,12 @@ The Presidency College,
 तत्रापि सुमहद्दुःखं सुखमल्पतरं भवेत् ॥ ५५
 
 न नित्यं लभते दुःखं न नित्यं लभते सुखम् ।  
-सुखस्यानन्तरं दुःखं दुःखस्यानन्तरं सुखम् ॥ ५६'
+सुखस्यानन्तरं दुःखं दुःखस्यानन्तरं सुखम् ॥ ५६ '
 
-क्षयान्ता[^626] निचयास्सर्वे पतनान्तास्समुच्छ्रयाः ।  
+क्षयान्ता[^746] निचयास्सर्वे पतनान्तास्समुच्छ्रयाः ।  
 संयोगा विप्रयोगान्ता मरणान्तं च जीवितम् ॥ ५७
 
-[^626]: "ख – अर्धंद्वयं नास्ति"
+[^746]: # "ख – अर्धन्द्वयं नास्ति"
 
 उच्छ्रयान् विनिपातांश्च दृष्ट्वा प्रत्यक्षतस्स्वयम् \।  
 अनित्यमसुखं चेति व्यवस्येत् सर्वमेव च॥ ५८
@@ -16605,9 +16708,9 @@ The Presidency College,
 ताशे दुःखं व्यये दुःखं धिगर्थं दुःखभाजनम् ॥ ५९
 
 अर्थवन्तं नरं नित्यं पञ्चाभिघ्नन्ति शत्रवः ।  
-राजा चोरश्च[^627] दायादा भूतानि क्षय एव च ॥ ६०
+राजा चोरश्च[^747] दायादा भूतानि क्षय एव च ॥ ६०
 
-[^627]: "अ - दाराश्चोरश्च"
+[^747]: # "अ - दाराश्चोरश्च"
 
 अर्थमेवमनर्थस्य मूलमित्यवधारय ।  
 न ह्यनर्थाः प्रवाधन्ते नरमर्थविवर्जितम्॥ ६१
@@ -16637,7 +16740,7 @@ The Presidency College,
 तदनेन प्रसङ्गेन स्वल्पेनैवेह युज्यते ॥ ६९
 
 सर्वं ममेति सम्मूढो बलं पश्यति बालिशः ।  
-एवं सर्वोपयोगेषुस्वल्पमस्य प्रयोजनम्॥ ७०
+एवं सर्वोपयोगेषु स्वल्पमस्य प्रयोजनम्॥ ७०
 
 तण्डुलप्रस्थमात्रेण यात्रा स्यात् सर्वदेहिनाम् ।  
 तयोर्भूयस्तरो भोगो दुःखाय तपनाय च ॥ ७१
@@ -16656,7 +16759,7 @@ The Presidency College,
 
 इन्द्रियार्थेन सम्मोह्य दहत्यकुशलं जनम् \।\। ७५ ॥
 
-यत् पृथिव्यां व्रीहियतंहिरण्यं पशवस्स्त्रियः ।
+यत् पृथिव्यां व्रीहियतं हिरण्यं पशवस्स्त्रियः ।
 
 नालमेकस्य पर्याप्तम् इति पश्यन् न मुह्यति ॥ ७६ ॥
 
@@ -16673,14 +16776,14 @@ The Presidency College,
 न च पापैर्न चानर्थैस् संयुज्येत विचक्षणः॥ ८० ॥
 
 अप्रमत्तस्सदा रक्षेद् इन्द्रियाणि विचक्षणः ।  
-अरक्षितेष[^628]ु तेष्वाशु नरो नरकमेति हि ॥ ८१ ॥
+अरक्षितेष[^748]ु तेष्वाशु नरो नरकमेति हि ॥ ८१ ॥
 
-[^628]: "अ – इदमर्धं नास्ति"
+[^748]: # "अ – इदमर्धं नास्ति"
 
 हृदि काममयश्चित्रो मोहसञ्चयसम्भवः ।  
-अज्ञानरूढमूलस्तु विवित्सापरिषेचनः[^629] ॥ ८२ ॥
+अज्ञानरूढमूलस्तु विवित्सापरिषेचनः[^749] ॥ ८२ ॥
 
-[^629]: " घ - विधित्सा"
+[^749]: # " घ - विधित्सा"
 
 रोषलोभमहास्कन्धः पुरा दुष्कृतसारवान् ।  
 आयासविटपस्तीव्रशोकपुष्पो भयाङ्कुरः ॥ ८३ ॥
@@ -16696,17 +16799,17 @@ The Presidency College,
 दुःखादिषु दुरन्तेषु कामयोगेषु का रतिः ॥ ८६ ॥
 
 इन्द्रियेषु च जीर्यत्सु च्छिद्यमाने तथाऽऽयुषि ।  
-पुरस्ताच्च स्थिते मृत्यौ किं सुखं पश्यतश्शुभे[^630] ॥ ८७ ॥
+पुरस्ताच्च स्थिते मृत्यौ किं सुखं पश्यतश्शुभे[^750] ॥ ८७ ॥
 
-[^630]: "अ-क-ग–घ – पश्यतासुखे "
+[^750]: # "अ-क-ग–घ – पश्यतासुखे "
 
 व्याधिभिः पीड्यमानस्य नित्यं शारीरमानसैः ।  
 नरस्याकृतकृत्यस्य किं सुखं मरणे सति ॥ ८८ ॥
 
-सञ्चिन्तयानमेवार्थं[^631] कामानामवितृप्तकम् ।  
+सञ्चिन्तयानमेवार्थं[^751] कामानामवितृप्तकम् ।  
 व्याघ्रः पशुमिवारण्ये मृत्युरादाय गच्छति ॥ ८९ ॥
 
-[^631]: " क- व - सञ्चिन्वानं तमेवार्थं"
+[^751]: # " क- व - सञ्चिन्वानं तमेवार्थं"
 
 जन्ममृत्युजरादुःखैस् सततं समभिद्रुतः ।  
 संसारे पच्यमानस्तु पापान्नोद्विजते जनः ॥ ९० ॥
@@ -16716,19 +16819,19 @@ The Presidency College,
 केनोपायेन मर्त्यानां निवर्येते जरान्तकौ ।  
 यद्यस्ति भगवन् मह्यम् एतदाचक्ष्व मा चिरम् ॥ ९१ ॥
 
-तपसा वा सुमहताकर्मणा वा श्रुतेन वा ।  
+तपसा वा सुमहता कर्मणा वा श्रुतेन वा ।  
 रसायनप्रयोगैर्वा केनात्येति जरान्तकौ ॥ ९२ ॥
 
-**श्रीमहेश्वरः—**
+**श्रीमहेश्वरः —**
 
 नैतदस्ति महाभागे जरामृत्युनिवर्तनम् ।
 
 सर्वलोकेषु जानीहि मोक्षादन्यत्र भामिनि ॥ ९३॥
 
-न धनेन न राज्येन नाग्र्येण[^632] तपसाऽपि वा ।  
+न धनेन न राज्येन नाग्र्येण[^752] तपसाऽपि वा ।  
 मरणं नातितरते विना मुक्तया शरीरिणः ॥ ९४
 
-[^632]: " क ख घ - नांग्रेण"
+[^752]: # " क ख घ - नाङ्ग्रेण"
 
 अश्वमेधसहस्राणि वाजपेयशतानि च ।  
 न तरन्ति जरामृत्यू निर्वाणाधिगमाद्विना \।\। ९५ ॥
@@ -16751,9 +16854,9 @@ The Presidency College,
 जीवितं सर्वभूतानाम् अक्षयः क्षपयन्नसौ ।  
 आदित्यो ह्यस्तमभ्येति पुनः पुनरुदेति च ॥ १०१ ॥
 
-यस्यां रात्र्यांव्यतीतायाम् आयुरल्पतरं भवेत् ।
+यस्यां रात्र्यां व्यतीतायाम् आयुरल्पतरं भवेत् ।
 
-गाधोदके मत्स्य इव किंतु तस्य कुमारता ॥ १०२
+गाधोदके मत्स्य इव किन्तु तस्य कुमारता ॥ १०२
 
 मरणं हि शरीरस्य नियतं ध्रुवमेव च ।  
 तिष्ठन्नपि क्षणं सर्वः कालस्यैति वशं पुनः ॥ १०३ ॥
@@ -16764,7 +16867,7 @@ The Presidency College,
 अप्रमत्तः प्रमत्तेषु कालो भूतेषु तिष्ठति ।  
 अप्रमत्तस्य कालस्य क्षयं प्राप्तो न मुच्यते ॥ १०५ ॥
 
-श्वः कार्यमद्य कुर्वीत पूर्वाह्णेचापराह्णिकम् ।  
+श्वः कार्यमद्य कुर्वीत पूर्वाह्णे चापराह्णिकम् ।  
 कोऽपि तद्वेद यत्रासौ मृत्युना नाभिवीक्षितः ॥ १०६॥
 
 वर्षास्विदं करिष्यामि इदं ग्रीष्मवसन्तयोः ।  
@@ -16780,7 +16883,7 @@ The Presidency College,
 फलानामिव पक्वानां सदा हि पतनाद्भयम्॥ ११०॥
 
 मर्त्यस्य किमु तैदीरैः पुत्रैर्भोगैः प्रियैरपि ।  
-एकाह्नासर्वमुत्सृज्य मृत्योस्तु वशमन्वयात् ॥ १११ ॥
+एकाह्ना सर्वमुत्सृज्य मृत्योस्तु वशमन्वयात् ॥ १११ ॥
 
 जायमानांश्च सम्प्रेक्ष्य त्रियमाणांस्तथैव च ।  
 न संवेगोऽस्ति चेत् पुंसः काष्ठलोष्टसमो हि सः ॥ ११२ ॥
@@ -16802,22 +16905,22 @@ The Presidency College,
 एतत्ते कथितं देवि वैराग्योत्पादनं वचः ।  
 एवं सञ्चिन्त्य सञ्चिन्त्य मुच्यन्ते हि मुमुक्षवः ॥ ११७॥
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकत्रिंशदधिकशततमोऽध्यायः ॥ १३१ ॥  
 ॥ ८९ \।\। आनुशासनिकपर्वणि एकत्रिंशदधिकशततमोऽध्यायः ॥ १३१ ॥  
-\[ अस्मिन्नध्याये ११७॥ श्लोकाः \]
-
-——————
-
-॥ द्वात्रिंशदधिकशततमोऽध्यायः ॥
-
-<MISSING_FIG href="../books_images/U-IMG-1706526697Screenshot2023-12-23161315.png"/>
-
- महेश्वरेण पार्वतींप्रति साङ्ख्यज्ञानप्रतिपादनपूर्वकमव्यक्तादिचतुर्विंशतितत्त्वानामुत्पत्तिप्रकारादिकथनम् ॥ १ ॥ तथा सत्त्वादिगुणानां कार्यविशेषनिरूपणम् ॥ २ ॥ तथा भूतपञ्चकादिगुणप्रदिपादनम् ॥ ३॥
+\[ अस्मिन्नध्याये ११७॥ श्लोकाः \]**
 
 **——————**
 
-श्रीमहेश्वरः—
+**॥ द्वात्रिंशदधिकशततमोऽध्यायः ॥**
+
+<MISSING_FIG href="../books_images/U-IMG-1706526697Screenshot2023-12-23161315.png"/>
+
+ महेश्वरेण पार्वतीं प्रति साङ्ख्यज्ञानप्रतिपादनपूर्वकमव्यक्तादिचतुर्विंशतितत्त्वानामुत्पत्तिप्रकारादिकथनम् ॥ १ ॥ तथा सत्त्वादिगुणानां कार्यविशेषनिरूपणम् ॥ २ ॥ तथा भूतपञ्चकादिगुणप्रदिपादनम् ॥ ३॥
+
+**——————**
+
+**श्रीमहेश्वरः—**
 
 साङ्ख्यज्ञानं प्रवक्ष्यामि यथावत्ते शुचिस्मिते ।  
 यज्ज्ञात्वा न पुनर्मर्त्यस् संसारेषु प्रवर्तते ॥ १
@@ -16832,15 +16935,15 @@ The Presidency College,
 इन्द्रियाणि दशैकं च तन्मात्रेभ्यो भवन्त्युत ॥ ४
 
 तेभ्यो भूतानि पञ्चभ्यश् शरीरं वै प्रवर्तते ।  
-इति क्षेत्रस्य सङ्क्षेपश्चतुर्विंशतिरिष्यते ॥ ५
+इति क्षेत्रस्य सङ्क्षेपश् चतुर्विंशतिरिष्यते ॥ ५
 
 पञ्चविंशतिरित्याहुः पुरुषेणेह सङ्ख्यया ॥ ५ ॥
 
 सत्त्वं रजस्तमश्चेति गुणाः प्रकृतिसम्भवाः ।
 
-तैस्सृजत्यखिलं लोकं प्रकृति स्त्वात्मजैर्गुणैः[^633] ॥ ६ ॥
+तैस्सृजत्यखिलं लोकं प्रकृति स्त्वात्मजैर्गुणैः[^753] ॥ ६ ॥
 
-[^633]: "ख – स्स्वात्मकैर्गुणैः;घ-रस्वात्मजैः"
+[^753]: # "ख – स्स्वात्मकैर्गुणैः; घ-रस्वात्मजैः"
 
 इच्छा द्वेषस्सुखं दुःखं सङ्घातश्चेतना धृतिः ।  
 विकाराः प्रकृतेश्चैते वेदितव्या मनीषिभिः ॥ ७ ॥
@@ -16849,10 +16952,10 @@ The Presidency College,
 विस्तरेणैव वक्ष्यामि तस्य व्याख्यामहं शृणु ॥ ८ ॥
 
 नित्यमेकमणु व्यापि क्रियाहीनमहेतुकम् ।  
-अग्राह्यमिन्द्रियैस्सर्वैर्एतदव्यक्तलक्षणम्॥ ९ ॥
+अग्राह्यमिन्द्रियैस्सर्वैर् एतदव्यक्तलक्षणम्॥ ९ ॥
 
 अव्यक्तं प्रकृतिर्मूलं प्रधानं योनिरव्ययम् ।  
-अव्यक्तस्यैव नामानि शब्दैःपर्यायवाचकैः ॥ १० ॥
+अव्यक्तस्यैव नामानि शब्दैः पर्यायवाचकैः ॥ १० ॥
 
 तत् सूक्ष्मत्वादनिर्देश्यं तत् सदित्यभिधीयते ।  
 तन्मूलं च जगत् सर्वं तन्मूला सृष्टिरिष्यते ॥ ११ ॥
@@ -16865,9 +16968,9 @@ The Presidency College,
 अप्रकाशो भयं मोहस् तन्द्री च तमसो गुणाः ॥ १३ ॥
 
 श्रद्धा प्रहर्षो विज्ञानम् असम्मोहो दया धृतिः ।  
-सत्त्वे प्रवृद्धे[^634] वर्धन्ते विपरीते विपर्ययः ॥ १४ ॥
+सत्त्वे प्रवृद्धे[^754] वर्धन्ते विपरीते विपर्ययः ॥ १४ ॥
 
-[^634]: "क घ - प्रवृत्ते"
+[^754]: # "क घ - प्रवृत्ते"
 
 कामक्रोधौ मनस्तापो लोभो मोहस्तथा मृषा ।  
 प्रवृद्धे परिवर्धन्ते रजस्येतानि सर्वशः॥ १५ ॥
@@ -16882,7 +16985,7 @@ The Presidency College,
 वर्तते सात्त्विको भाव इत्युपेक्षेत तत् तदा ॥ १८ ॥
 
 यदा सन्तापसंयुक्तं चित्तक्षोभकरं भवेत् ।  
-वर्तते[^316] रज इत्येव तदा तदभिचिन्तयेत् ॥ १९॥
+वर्तते[^393] रज इत्येव तदा तदभिचिन्तयेत् ॥ १९॥
 
 यदा सम्मोहसंयुक्तं यद्विषादकरं भवेत् ।  
 अप्रतर्क्यमविज्ञेयं तमस्तदुपधारयेत् ॥ २० ॥
@@ -16902,10 +17005,10 @@ The Presidency College,
 अतः परं प्रवक्ष्यामि महदादीनि लिङ्गतः ।  
 विज्ञानं च विवेकश्च महतो लक्षणं भवेत् ॥ २५॥
 
-महान्[^636] बुद्धिर्मतिः प्रज्ञा नामानि महतो विदुः ।  
+महान्[^756] बुद्धिर्मतिः प्रज्ञा नामानि महतो विदुः ।  
 अहङ्कारस्स विज्ञेयो लक्षणेन समासतः ॥ २६ ॥
 
-[^636]: " अ-अर्धंत्रयं नास्ति"
+[^756]: # " अ-अर्धन्त्रयं नास्ति"
 
 अहङ्कारेण भूतानां सर्गो नानाविधो भवेत् ।  
 अहङ्कारनिवृत्तिर्हि निर्वाणायोपपद्यते ॥ २७ ॥
@@ -16929,7 +17032,7 @@ The Presidency College,
 प्रवृद्धे परिवर्धन्ते रजस्येतानि सर्वशः ॥ १५ ॥
 
 विपादस्संशयो मोहस् तन्द्री निद्रा भयं तथा ।  
-तमस्येतानि वर्धन्ते प्रवृद्धे हेत्वहेतुकम्॥ १६ ॥
+तमस्येतानि वर्धन्ते प्रवृद्धे हेत्वहेतुकम् ॥ १६ ॥
 
 एवमन्योन्यमेतानि वर्धन्ते च पुनः पुनः ।  
 हीयन्ते च तथा नित्यम् अभिभूतानि भूरिशः ॥ १७ ॥
@@ -16938,9 +17041,9 @@ The Presidency College,
 वर्तते सात्त्विको भाव इत्युपेक्षेत तत् तदा ॥ १८ ॥
 
 यदा सन्तापसंयुक्तं चित्तक्षोभकरं भवेत् ।  
-वर्तते[^637] रज इत्येव तदा तदभिचिन्तयेत्॥ १९॥
+वर्तते[^757] रज इत्येव तदा तदभिचिन्तयेत्॥ १९॥
 
-[^637]: ". अ-अर्धत्रयं नास्ति"
+[^757]: # ". अ-अर्धत्रयं नास्ति"
 
 यदा सम्मोहसंयुक्तं यद्विषादकरं भवेत् ।  
 अप्रतर्क्यमविज्ञेयं तमस्तदुपधारयेत्॥ २०॥
@@ -16960,7 +17063,7 @@ The Presidency College,
 अतः परं प्रवक्ष्यामि महदादीनि लिङ्गतः ।  
 विज्ञानं च विवेकश्च महतो लक्षणं भवेत् ॥ २५ ॥
 
-महान्[^466] बुद्धिर्मतिः प्रज्ञा नामानि महतो विदुः ।  
+महान्[^584] बुद्धिर्मतिः प्रज्ञा नामानि महतो विदुः ।  
 अहङ्कारस्स विज्ञेयो लक्षणेन समासतः ॥ २६ ॥
 
 अहङ्कारेण भूतानां सर्गो नानाविधो भवेत् ।  
@@ -16987,9 +17090,9 @@ The Presidency College,
 तद्गन्धत्वमपां नास्ति पृथिव्या एव तद्गुणः ।  
 भूमिर्गन्धे रसे स्नेहो ज्योतिश्चक्षुपि संस्थितम् ॥ ३४ ॥
 
-प्राणापानाश्रयो[^639] वायुः खेष्वाकाशश्शरीरिणाम् ॥ ३५ ॥
+प्राणापानाश्रयो[^759] वायुः खेष्वाकाशश्शरीरिणाम् ॥ ३५ ॥
 
-[^639]: " ख - अर्धंत्रयं नास्ति"
+[^759]: # " ख - अर्धन्त्रयं नास्ति"
 
 केशास्थिनखदन्तत्वक्पाणिपादशिरांसि च ।  
 पृष्ठोदरकटिग्रीवास् सर्वं भूम्यात्मकं स्मृतम् ॥ ३६ ॥
@@ -16998,7 +17101,7 @@ The Presidency College,
 तत् सर्वं भौतिकं विद्धि देहैरेवास्य स्वामिकम् ॥ ३७
 
 बुद्धीन्द्रियाणि कर्णत्वक्चक्षुर्जिह्वाऽथ नासिका ।  
-कर्मेन्द्रियाणि वाक्पाणिपादौ मेढ्रंगुदस्तथा ॥ ३८
+कर्मेन्द्रियाणि वाक्पाणिपादौ मेढ्रं गुदस्तथा ॥ ३८
 
 शब्दस्स्पर्शश्च रूपं च रसो गन्धश्च पञ्चमः ।  
 बुद्धीन्द्रियार्थाञ् जानीयाद् भूतेभ्यस्त्वभिनिस्स्तृतान् ॥ ३९
@@ -17052,7 +17155,7 @@ The Presidency College,
 अजरोऽयमचिन्त्योऽयम् अव्यक्तोऽयं सनातनः ।  
 देही तेजोमयो देहे तिष्ठतीत्यपरे विदुः ॥ ५५
 
-ज्ञानमूष्मा च वायुश्च शरीरे जीवसंज्ञकः ।  
+ज्ञानमूष्मा च वायुश्च शरीरे जीवसञ्ज्ञकः ।  
 इत्येते निश्चिता बुद्ध्या तत्रैते बुद्धिचिन्तकाः॥ ५६
 
 अपरे सर्वलोकांश्च व्याप्य तिष्ठन्तमीश्वरम् ।  
@@ -17079,11 +17182,11 @@ The Presidency College,
 
 कपिलादिभिराचार्यैस् सेवितः परमर्षिभिः ॥ ६२
 
-इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि द्वात्रिंशदधिकशततमोऽध्यायः ॥ १३२ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि द्वात्रिंशदधिकशततमोऽध्यायः ॥ १३२ ॥  
 \[ अस्मिन्नध्याये ६२ श्लोकाः \]  
-———————
+———————**
 
 **॥ त्रयस्त्रिंशदधिकशततमोऽध्यायः ॥**
 
@@ -17096,15 +17199,16 @@ The Presidency College,
 **श्रीमहेश्वरः—**
 
 साङ्ख्यज्ञाने नियुक्तानां यथावत् कीर्तितं मया ।  
-योगधर्मं पुनः कृत्स्नंकीर्तयिष्यामि ते शृणु ॥ १
+योगधर्मं पुनः कृत्स्नं कीर्तयिष्यामि ते शृणु ॥ १
 
 स च योगो द्विधा भिन्नो ब्रह्मदेवर्षिसम्मतः ।  
 समानमुभयत्रापि वृत्तं शास्त्रप्रचोदितम्॥ २
 
 स चाष्टगुणमैश्वर्यम् अधिकृत्य विधीयते ।  
-सायुज्यं सर्वदेवानां योगधर्मः[^640] पराश्रितः॥ ३  
+सायुज्यं सर्वदेवानां योगधर्मः[^760] पराश्रितः॥ ३  
 
-[^640]: "क घ - यो धर्मं परमाश्रितः"
+
+[^760]: # "क घ - यो धर्मं परमाश्रितः"
 
 ज्ञानं सर्वस्य योगस्य मूलमित्यवधारय ।  
 व्रतोपवामनियमैस् तत् सर्वं चापि बृंहयेत् ॥ ४
@@ -17120,12 +17224,12 @@ The Presidency College,
 
 एतैश्च वर्धते तेजः पापं चाप्यवधूयते ॥ ७॥
 
-निर्धूतपापस्तेजस्वी निराहारो[^641] जितेन्द्रियः ।  
-अमोघो[^642] निर्मलो दान्तः पश्चाद्योगं समाचरेत् ॥ ८॥
+निर्धूतपापस्तेजस्वी निराहारो[^761] जितेन्द्रियः ।  
+अमोघो[^762] निर्मलो दान्तः पश्चाद्योगं समाचरेत् ॥ ८॥
 
-[^641]: "ख---लध्वा"
+[^761]: # "ख---लध्वा"
 
-[^642]: "ख - अशोको नि"
+[^762]: # "ख - अशोको नि"
 
 अवरुध्यात्मनः पूर्वं मत्स्यघात इवामिषम्॥ ९
 
@@ -17169,7 +17273,7 @@ The Presidency College,
 सन्धौ सन्धौ स निर्विष्टस् सर्वचेष्टाप्रवर्तकः।  
 शरीरेषु मनुष्याणां व्यान इत्युपदिश्यते॥ २२
 
-घातुष्वग्नौच विततस् समानोऽग्निस्समीरणः।  
+घातुष्वग्नौ च विततस् समानोऽग्निस्समीरणः।  
 स एव सर्वचेष्टानाम् अन्तकाले निवर्तकः॥ २३
 
 प्राणानां सन्निपातेषु संसर्गाद्यः प्रजायते ।  
@@ -17212,15 +17316,15 @@ The Presidency College,
 प्राप्नोति परमं स्थानं स्पृहणीयं सुरैरपि॥ ३६
 
 इमान् योगस्य दोपांश्च दशैव परिचक्षते ।  
-दोषैर्विघ्नोवरारोहे योगिनां कविभिस्स्मृतः॥ ३७
+दोषैर्विघ्नो वरारोहे योगिनां कविभिस्स्मृतः॥ ३७
 
 कामः क्रोधो भयं स्वप्नस् स्नेहमत्यशनं तथा ।  
 वैचित्यं व्याधिरालस्यं लोभश्च दशमस्स्मृतः॥ ३८
 
 एतैस्तेषां भवेद्विघ्नो दशभिर्देवकारितैः ।  
-तस्मादेता नपास्यादौ[^643] युञ्जीत च परं मनः॥ ३९
+तस्मादेता नपास्यादौ[^763] युञ्जीत च परं मनः॥ ३९
 
-[^643]: "1. ख - नपोह्यादौ"
+[^763]: # "1. ख - नपोह्यादौ"
 
 इमानपि गुणानष्टौ योगस्य परिचक्षते ।  
 गुणैस्तैरष्टभिर्दिव्यम् ऐश्वर्यमधिगम्यते॥ ४०
@@ -17250,17 +17354,17 @@ The Presidency College,
 मां प्राप्य न निवर्तन्ते विष्णुं वा शुभलोचने॥ ४८
 
 इति ते कथितो देवि योगधर्मस्सनातनः।  
-न शक्यं[^644] प्रष्टुमन्यैर्यो योगधर्मस्त्वया विना॥ ४९
+न शक्यं[^764] प्रष्टुमन्यैर्यो योगधर्मस्त्वया विना॥ ४९
 
-[^644]: "1. क - इदमर्धं नास्ति"
+[^764]: # "1. क - इदमर्धं नास्ति"
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि त्रयस्त्रिंशदधिकशततमोऽध्यायः ॥ १३३ ॥  
-॥ ८९ ॥ आनुशासनिकपर्वणि त्रयस्त्रिंशदधिकशततमोऽध्यायः ॥ १३३ ॥
+॥ ८९ ॥ आनुशासनिकपर्वणि त्रयस्त्रिंशदधिकशततमोऽध्यायः ॥ १३३ ॥**
 
-\[ अस्मिन्नध्याये ४९ श्लोकाः \]
+**\[ अस्मिन्नध्याये ४९ श्लोकाः \]**
 
-——————
+**——————**
 
 **॥ चतुस्त्रिंशदधिकशततमोऽध्यायः ॥**
 
@@ -17268,7 +17372,7 @@ The Presidency College,
 
 महेश्वरेण पार्वतीं प्रति स्वमाहात्म्यकथनपूर्वकं दीक्षया शिवलिङ्गार्चनाफलकथनम्
 
-——————
+**——————**
 
 **उमा—**
 
@@ -17290,13 +17394,13 @@ The Presidency College,
 
 वर्ण्यमानं त्वया साक्षात् प्रीणयत्यधिकं हि मा॥ ५॥
 
-श्रीमहेश्वरः—
+**श्रीमहेश्वरः—**
 
 हन्त ते कथयिष्यामि मम सायुज्यमद्भुतम् ।  
 येन ते न निवर्तन्ते युक्ताः परमयोगिनः॥ ६॥
 
 अव्यक्तोऽहमचिन्त्योऽहं पूर्वैरपि मुमुक्षुभिः ।  
-साङ्ख्ययोगौ मया सृष्टौसर्वं चापि चराचरम्॥ ७॥
+साङ्ख्ययोगौ मया सृष्टौ सर्वं चापि चराचरम्॥ ७॥
 
 अर्चनीयोऽहमीशोऽहम् अव्ययोऽहं सनातनः ।  
 अहं प्रसन्नो भक्तानां ददाम्यमरतामपि॥ ८॥
@@ -17330,12 +17434,12 @@ The Presidency College,
 चरन्तो निखिलं लोकं मम हर्षविवर्धनाः॥ १७॥
 
 मम पाशुपतं दिव्यं योगशास्त्रमनुत्तमम् ।  
-सूक्ष्म सर्वेषु लोकेषुविमृशन्तश्चरन्ति ते॥ १८॥
+सूक्ष्म सर्वेषु लोकेषु विमृशन्तश्चरन्ति ते॥ १८॥
 
 एवं नित्याभियुक्तानां मद्भक्तानां तपस्विनाम्।  
 उपायं चिन्तयाम्याशु येन मामुपयान्ति ते॥ १९॥
 
-स्थापितं त्रिषुलोकेषु शिवलिङ्गं मया मम ।  
+स्थापितं त्रिषु लोकेषु शिवलिङ्गं मया मम ।  
 नमस्कारेण वा तस्य मुच्यन्ते सर्वकिल्विषैः॥ २०॥
 
 इष्टं दत्तमधीतं च यज्ञाश्च बहुदक्षिणाः।  
@@ -17381,7 +17485,7 @@ The Presidency College,
 ममापि परितुष्टस्य नास्ति लोकेषु दुर्लभम् ।  
 तस्मात् ते सततं भक्ता मामेवाभ्यर्चयन्युत॥ ३४॥
 
-मद्भक्ता न विनश्यन्ति मद्भक्ता वीतकल्मषाः।  
+मद्भक्ता न विनश्यन्ति मद्भक्ता वीतकल्मषाः ।  
 मद्भक्तास्सर्वलोकेषु पूजनीया विशेषतः॥ ३५॥
 
 मद्द्वेषिणश्च ये मर्त्या मद्भक्तद्वेषिणोऽपि वा ।  
@@ -17393,44 +17497,44 @@ The Presidency College,
 शृणुयाद्यः पठेद्वाऽपि ममेदं धर्मनिश्चयम् ।  
 स्वर्गं कीर्तिं धनं धान्यं लभते स नरोत्तमः॥ ३८॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चतुस्त्रिंशदधिकशततमोऽध्यायः ॥ १३४ ॥  
 ॥ ८९ ॥आनुशासनिकपर्वणि चतुस्त्रिंशदधिकशततमोऽध्यायः ॥ १३४ ॥  
-            \[ अस्मिन्नध्याये ३८॥श्लोकाः \]
+            \[ अस्मिन्नध्याये ३८॥ श्लोकाः \]**
 
-———
+**———**
 
 **॥ पञ्चत्रिंशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706549432Screenshot2023-12-16141159.png"/>
 
- महेश्वरेण पार्वतीं प्रति सश्लाघंस्त्रीधर्मकथनचोदना ॥ १ ॥ पार्वत्या गङ्गामहानदीषु तन्निवेदनम् ॥ २॥ गङ्गया तदनु-मोदनपूर्वकं भगवति तत्कथनाभ्यनुज्ञानम् ॥ ३ ॥
+ महेश्वरेण पार्वतीं प्रति सश्लाघं स्त्रीधर्मकथनचोदना ॥ १ ॥ पार्वत्या गङ्गामहानदीषु तन्निवेदनम् ॥ २॥ गङ्गया तदनु-मोदनपूर्वकं भगवति तत्कथनाभ्यनुज्ञानम् ॥ ३ ॥
 
-———————
+**———————**
 
-नारदः—
+**नारदः—**
 
 एवमुक्त्वा महादेवश् श्रोतुकामस्स्वयं प्रभुः ।  
 अनुकूलां प्रियां भार्यां पार्श्वस्थां समभाषत॥ १
 
-श्रीमहेश्वरः—
+**श्रीमहेश्वरः—**
 
 परावरज्ञे धर्माणां तपोवननिवासिनाम् ।  
 दीक्षाविधिसमोपेते सततं व्रतचारिणि॥ २
 
 पृच्छामि त्वां वरारोहे पृष्टा वद ममेप्सितम्॥ २॥
 
-सावित्री ब्रह्मणः पत्नी कौशिकस्य शुची[^645] शुभा ।  
-लक्ष्मीर्विष्णोः प्रिया भार्या धृतिर्भार्या[^646] यमस्य तु ॥ ३ ॥
+सावित्री ब्रह्मणः पत्नी कौशिकस्य शुची[^765] शुभा ।  
+लक्ष्मीर्विष्णोः प्रिया भार्या धृतिर्भार्या[^766] यमस्य तु ॥ ३ ॥
 
-[^645]: "1. क—श"
+[^765]: # "1. क—श"
 
-[^646]: "2. ख—इतः षट्पादा न सन्ति"
+[^766]: # "2. ख—इतः षट् पादा न सन्ति"
 
-मार्कण्डेयस्य धूम्रोर्णा[^647] ऋद्धिर्वैश्रवणस्य तु ।  
+मार्कण्डेयस्य धूम्रोर्णा[^767] ऋद्धिर्वैश्रवणस्य तु ।  
 वरुणस्य तथा गौरी सवितुश्च सुवर्चला॥ ४॥
 
-[^647]: "3. क-घ--धूमो"
+[^767]: # "3. क-घ--धूमो"
 
 रोहिणी शशिनो भार्या स्वाहा चाग्नेरनिन्दिता।  
 काश्यपस्यादितिश्चैव वसिष्ठस्याप्यरुन्धती॥ ५॥
@@ -17441,7 +17545,7 @@ The Presidency College,
 ताभिश्च पूजिताऽसि त्वम् अनुवृत्यनुभाषणैः।  
 तस्मात्तु परिपृच्छामि धर्मज्ञे लोकसम्मते॥ ७॥
 
-स्त्रीधर्मंश्रोतुमिच्छामि त्वयैव समुदाहृतम् ।  
+स्त्रीधर्मं श्रोतुमिच्छामि त्वयैव समुदाहृतम् ।  
 सधर्मचारिणी मे त्वं लोकसन्धारिणी तथा॥ ८
 
 अयं हि स्त्रीगणस्त्वं तु अनुयाति न मुञ्चति ।  
@@ -17450,37 +17554,38 @@ The Presidency College,
 त्वया चोक्तं विशेषेण गुणभूतं हि तिष्ठति ।  
 स्त्रिय एव सदा लोके स्त्रीगणस्य गतिः प्रिये॥ १०॥
 
-शश्वद्रौर्गोषु[^648]गच्छेत नान्यत्र रमते मनः[^649] ।  
+शश्वद्रौर्गोषु[^768] गच्छेत नान्यत्र रमते मनः[^769] ।  
 एवं लोकगतिर्देवि आदिप्रभृति वर्तते॥ ११॥
 
-[^648]: "1. घ—शश्वद्गोष्टेषु"
+[^768]: # "1. घ—शश्वद्गोष्टेषु"
 
-[^649]: "2. क-ख-घ—नरः"
+[^769]: # "2. क-ख-घ— नरः"
 
-प्रमदोक्तं तु यत् किञ्चित् तत् स्त्रीषुबहु मन्यते ।  
+प्रमदोक्तं तु यत् किञ्चित् तत् स्त्रीषु बहु मन्यते ।  
 न तथा मन्यते स्त्रीषु पुरुषोत्तमनिन्दिते॥ १२॥
 
-त्वयैषविदितो ह्यर्थस् स्त्रीणां धर्मस्सनातनः ।  
-तस्मात् त्वां परिपृच्छामि पृष्टा वद ममेप्सितम् ॥१३॥
+त्वयैष विदितो ह्यर्थस् स्त्रीणां धर्मस्सनातनः ।  
+तस्मात् त्वां परिपृच्छामि पृष्टा वद ममेप्सितम् ॥ १३॥
 
-नारदः—
+**नारदः—**
 
 एवमुक्ता तदा देवी महादेवेन शोभना ।  
+
 
 सोद्वेगा च सलज्जा च नावदत् तत्र किञ्चन॥ १४॥
 
 पुनः पुनस्तु तां देवीं देवः किमिति चाब्रवीत्॥ १५
 
-उमा—
+**उमा—**
 
 भगवन् देवदेवेश सुरासुरनमस्कृत।  
 त्वदन्तिके मया वक्तुं स्त्रीणां धर्मः कथं भवेत्॥ १६
 
-श्रीमहेश्वरः—
+**श्रीमहेश्वरः—**
 
 मन्नियोगादवश्यं तु वक्तव्यं तु मम प्रिये॥ १६॥
 
-उमा—
+**उमा—**
 
 इमा नद्यो महादेव सर्वतीर्थोदकान्विताः ।  
 उपस्पर्शनहेतोस्त्वां न त्यजन्ति समीपतः॥ १७॥
@@ -17490,44 +17595,44 @@ The Presidency College,
 
 मया सम्मानिताश्चैव भविष्यन्ति सरिद्वराः॥ १९
 
-नारदः—
+**नारदः—**
 
 इति मत्वा महादेवी नदीर्देवीस्समाह्वयत् ।  
 विपाशां च वितस्त्यां च चन्द्रभागां सरस्वतीम्॥ २०
 
-शतद्रुंदेविकां सिन्धुं गौतमीं[^650] कौशिकीं तथा ।  
+शतद्रुं देविकां सिन्धुं गौतमीं[^770] कौशिकीं तथा ।  
 यमुनां नर्मदां चैव कावेरीमथ निम्नगाम्॥ २१
 
-[^650]: "1. घ—गोमतीं"
+[^770]: # "1. घ—गोमतीं"
 
-तथा देवनदीं गङ्गां श्रेष्ठांत्रिपथगां शुभाम् ।  
+तथा देवनदीं गङ्गां श्रेष्ठां त्रिपथगां शुभाम् ।  
 सर्वतीर्थोदकवहां सर्वपापविनाशिनीम्॥ २२
 
 एता नदीस्समाहूय समुद्वीक्ष्येदमब्रवीत्॥ २२॥
 
-उमा—
+**उमा—**
 
 हे पुण्यास्सरितश्श्रेष्ठास् सर्वपापविनाशिकाः ।  
 ज्ञानविज्ञानसम्पन्नाश् शृणुध्वं वचनं मम॥ २३॥
 
-अयं भगवताप्रश्न[^651] उक्तस्स्त्रीधर्ममाश्रितः।  
+अयं भगवता प्रश्न[^771] उक्तस्स्त्रीधर्ममाश्रितः।  
 न चैकया मया साध्यं तस्माद्वस्त्वानयाम्यहम्॥ २४॥
 
-[^651]: "1. अ-क—ब्रह्मा  ख-घ—ब्रह्मन्"
+[^771]: # "1. अ-क—ब्रह्मा ख-घ—ब्रह्मन्"
 
 युष्माभिस्तद्विचार्यैवं वक्तुमिच्छामि शोभनाः ।  
 तत् कथं देवदेवाय वाच्यस्स्त्रीधर्म उत्तमः॥ २५॥
 
-नारदः—
+**नारदः—**
 
 इति पृष्टास्तया देव्या महानद्यश्चकम्पिरे॥ २६
 
-तासां श्रेष्ठतमा गङ्गा विष्णुपादो[^652]द्भवा नदी।  
+तासां श्रेष्ठतमा गङ्गा विष्णुपादो[^772]द्भवा नदी।  
 सम्यग्विचार्य मनसा वचनं चेदमब्रवीत्॥ २७
 
-[^652]: "2. अ-क-घ—अयं पादोऽनन्तरश्च न स्तः"
+[^772]: # "2. अ-क-घ—अयं पादोऽनन्तरश्च न स्तः"
 
-गङ्गा—
+**गङ्गा—**
 
 धन्यास्स्मानुगृहीतास्स्म अनेन वचनेन ते ।  
 या त्वं सुरासुरैर्मान्या नदीरानयसेऽनघे॥ २८
@@ -17539,12 +17644,12 @@ The Presidency College,
 
 शक्तो यश्चानहंवादी सुदुर्लभतमो मतः॥ ३०
 
-त्वं हि शक्ता सती देवि वक्तुं[^653] प्रश्नमशेषतः ।  
-व्याहर्तुं नेच्छसि यथा[^654] सम्पूजयसि नस्तथा॥ ३१
+त्वं हि शक्ता सती देवि वक्तुं[^773] प्रश्नमशेषतः ।  
+व्याहर्तुं नेच्छसि यथा[^774] सम्पूजयसि नस्तथा॥ ३१
 
-[^653]: "1. ख—इतः षट् पादा न सन्ति"
+[^773]: # "1. ख—इतः षट् पादा न सन्ति"
 
-[^654]: "2. क-घ—स्त्रीत्वात्"
+[^774]: # "2. क-घ—स्त्रीत्वात्"
 
 त्वं हि देवि महादेवी ऊहापोहविशारदा।  
 दिव्यज्ञानयुता देवि दिव्यज्ञानेन्धनैधिता॥ ३२
@@ -17554,36 +17659,36 @@ The Presidency College,
 
 कुरु देवप्रियं देवि वद स्त्रीधर्ममुत्तमम्॥ ३३॥
 
-नारद—
+**नारद—**
 
-एवं प्रसादिता देवी गङ्गया लोकपूज्य[^655]या।  
+एवं प्रसादिता देवी गङ्गया लोकपूज्य[^775]या।  
 प्राह धर्ममशेषेण स्त्रीधर्मं सुरसुन्दरी॥ ३४
 
-[^655]: "3. ख – देवपू"
+[^775]: # "3. ख – देवपू"
 
-उमा—
+**उमा—**
 
 भगवन् देवदेवेश सुरेश्वर महेश्वर ।  
 त्वत्प्रसादात् सुरश्रेष्ठ तवैव प्रियकाम्यया॥ ३५
 
 तमहं कीर्तयिष्यामि यथावच्छ्रोतुमिच्छसि॥ ३६
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चत्रिंशदधिकशततमोऽध्यायः ॥ १३५ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि पञ्चत्रिंशदधिकशततमोऽध्यायः ॥ १३५ ॥  
-          \[ अस्मिन्नध्याये ३६ श्लोकाः \]
+          \[ अस्मिन्नध्याये ३६ श्लोकाः \]**
 
-————
+**————**
 
 **॥ षट्त्रिंशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706334990Screenshot2023-12-19200015.png"/>
 
-पार्वत्या परमेश्वरं प्रति देवगन्धर्वादियोषितांमध्ये स्त्रीधर्मकथनम् ॥
+पार्वत्या परमेश्वरं प्रति देवगन्धर्वादियोषितां मध्ये स्त्रीधर्मकथनम् ॥
 
-——————
+**——————**
 
-नारदः—
+**नारदः—**
 
 एवं ब्रुवन्त्यां स्त्रीधर्मं देव्यां देवस्य शासनात् ।  
 ऋषिगन्धर्वयक्षाणां योषितश्चाप्सरोगणाः॥ १
@@ -17595,16 +17700,16 @@ The Presidency College,
 आनृशंस्यपरा देवी सततं स्त्रीगणं प्रति॥ ३
 
 स्त्रीगणस्य हितार्थाय भवप्रियचिकीर्षया ।  
-वक्तुं वचनमारेभे स्त्रीणां धर्माश्रमा[^656]न्वितम्॥ ४
+वक्तुं वचनमारेभे स्त्रीणां धर्माश्रमा[^776]न्वितम्॥ ४
 
-[^656]: "1. ख—धर्माश्रितान्वितम्"
+[^776]: # "1. ख—धर्माश्रितान्वितम्"
 
-उमा—
+**उमा—**
 
 भगवन् सर्वधर्मज्ञ श्रूयतां वचनं मम ।  
-ऋतुप्राप्ता सुशुद्धा[^657] या कन्या सेत्यभिधीयते॥ ५
+ऋतुप्राप्ता सुशुद्धा[^777] या कन्या सेत्यभिधीयते॥ ५
 
-[^657]: "2. ख—सुगन्धा"
+[^777]: # "2. ख—सुगन्धा"
 
 तां तु कन्यां पिता माता भ्राता मातुल एव वा ।  
 पितृव्यश्चैव पञ्चैते दातुं प्रभवतां गताः॥ ६
@@ -17624,14 +17729,14 @@ The Presidency College,
 मनसा कर्मणा वाचा अनुकूला च सा भवेत्॥ १०॥
 
 इति भर्तृव्रतं कुर्यात् पतिमुद्दिश्य शोभना।  
-तदाप्रभृति सा नारी न कुर्याद्भर्तुरप्रि[^658]यम्॥ ११॥
+तदाप्रभृति सा नारी न कुर्याद्भर्तुरप्रि[^778]यम्॥ ११॥
 
-[^658]: "1. क-घ—त्पत्युर"
+[^778]: # "1. क-घ—त् पत्युर"
 
 यद्यदिच्छति वै भर्ता धर्मकामार्थकारणात् ।  
-तथैवानुप्रिया भूत्वा तथैवोपचरेत् पतिम्[^659]॥ १२॥
+तथैवानुप्रिया भूत्वा तथैवोपचरेत् पतिम्[^779]॥ १२॥
 
-[^659]: "2. अ—प्रियम्"
+[^779]: # "2. अ—प्रियम्"
 
 पतिव्रतात्वं नारीणाम् एतदेव सनातनम्॥ १३
 
@@ -17650,9 +17755,9 @@ The Presidency College,
 तयोरेका धर्मकामा देवानुद्दिश्य भक्तितः ।  
 भर्तारमवमत्यैव देवतासु समाहिता॥ १७॥
 
-चकार विविधं[^660]धर्मं पूजयानाऽर्चयाऽन्वितम्॥ १८
+चकार विविधं [^780]धर्मं पूजयानाऽर्चयाऽन्वितम्॥ १८
 
-[^660]: "1. क-ख—विपुलं"
+[^780]: # "1. क-ख—विपुलं"
 
 अपरा धर्मकामा च पतिमुद्दिश्य शोभना ।  
 भर्तारं दैवतं कृत्वा चकार किल तत्प्रियम्॥ १९
@@ -17665,7 +17770,7 @@ The Presidency College,
 देवप्रिया च तिष्ठन्ती विललाप सुदुःखिता।  
 तां यमो लोकपालस्तु बभाषे पुष्कलं वचः॥ २१॥
 
-यमः—
+**यमः—**
 
 मा शुचस्त्वं निवर्तस्व न लोकास्सन्ति तेऽनघे ।  
 स्वधर्मविमुखा सा त्वं तस्माल्लोका न सन्ति ते॥ २२॥
@@ -17674,16 +17779,16 @@ The Presidency College,
 अवमत्य शुभे तत्त्वं कथं लोकान् गमिष्यसि॥ २३॥
 
 मोहेन त्वं वरारोहे न जानीषे स्वदैवतम् ।  
-मतिमत्या[^661] त्वया कार्यो धर्मपत्यर्पणस्त्विति॥ २४॥
+मतिमत्या[^781] त्वया कार्यो धर्मपत्यर्पणस्त्विति॥ २४॥
 
-[^661]: "1. अ—धर्मपत्न्या + धर्मपत्न्य"
+[^781]: # "1. अ—धर्मपत्न्या + धर्मपत्न्य"
 
 तस्मात् त्वं हि निवर्तस्व कुरु पत्याश्रितं हितम् ।  
 तदा गन्तासि लोकांस्तान् यान् गच्छति पतिव्रता ॥ २५ ॥
 
 नान्यथा शक्यते प्राप्तुं पतीनां लोकमुत्तमम्॥ २६
 
-उमा—
+**उमा—**
 
 यमेनैवंविधं चोक्ता निवृत्ता पुनरेव सा।  
 बभूव पतिमालम्ब्य पतिप्रियपरायणा॥ २७
@@ -17691,12 +17796,12 @@ The Presidency College,
 एवमेतन्महादेव दैवतं हि स्त्रियाः पतिः ।  
 तस्मात् पतिपरा भूत्वा पतीनुपचरेदिति॥ २८
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि षट्त्रिंशदधिकशततमोऽध्यायः ॥ १३६ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि षट्त्रिंशदधिकशततमोऽध्यायः ॥ १३६ ॥  
-        \[ अस्मिन्नध्याये २८ श्लोकाः \]
+        \[ अस्मिन्नध्याये २८ श्लोकाः \]**
 
-————
+**————**
 
 **॥ सप्तत्रिंशदधिकशततमोऽध्यायः॥**
 
@@ -17704,9 +17809,9 @@ The Presidency College,
 
  पार्वत्या महेश्वरं प्रति स्त्रीधर्मकथनम् ॥ १ ॥ नारदेन कृष्णं प्रति उमामहेश्वरसंवादानुवादोपसंहारः ॥ २ ॥
 
-——————
+**——————**
 
-उमा—
+**उमा—**
 
 पतिमत्या दिवारात्रं वृत्तान्तं श्रूयतां शुभम् ।  
 पत्युः पूर्वं समुत्थाय प्रातःकर्म समाचरेत्॥ १
@@ -17757,7 +17862,7 @@ The Presidency College,
 पूजयेद्बलिभैक्षेण पत्युर्धर्मं विवर्धयेत्॥ १५
 
 कुपितं वाऽर्थहीनं वा श्रान्तं वोपचरेत् पतिम् ।  
-यथा स तुष्टस्स्वस्थश्चतथा सन्तोषयेत् पतिम्॥ १६
+यथा स तुष्टस्स्वस्थश्च तथा सन्तोषयेत् पतिम्॥ १६
 
 यथा कुटुम्बचिन्तायां विवादे चाऽर्थसञ्चये ।
 
@@ -17775,7 +17880,7 @@ The Presidency College,
 विस्मृतं वाऽपि यद्द्रव्यं प्रतिदद्यात् स्वशौचतः ।  
 यत् किञ्चित् पतिना दत्तं लब्ध्वा तत् सा सुखी भवेत् ॥ २१
 
-अतीवाज्ञामतीर्ष्यांच दूरतः परिवर्जयेत् ।  
+अतीवाज्ञामतीर्ष्यां च दूरतः परिवर्जयेत् ।  
 बालवद्वृद्धवद्भार्या सदैवातुरवत् पतिम्॥ २२
 
 भार्याया व्रतमित्येव कर्तव्यं सततं विभो ।  
@@ -17790,12 +17895,13 @@ The Presidency College,
 जातिष्वपि च मे स्त्रीत्वं विशिष्टमिति वै प्रभो ।  
 कायक्लेशेन महता पुरुषः प्राप्नुयात् फलम्॥ २६  
 
+
 तत् सर्वं लभते नारी सुखेन पतिपूजया॥ २६॥
 
 यथासुखं पतिमती सर्व पत्यनुकूलतः ।  
-ईदृशं[^662] धर्मसाकल्यं पश्य त्वं प्रमदां प्रति॥ २७॥
+ईदृशं[^782] धर्मसाकल्यं पश्य त्वं प्रमदां प्रति॥ २७॥
 
-[^662]: "1. क—अर्धचतुष्टयं नास्ति"
+[^782]: # "1. क—अर्धचतुष्टयं नास्ति"
 
 एतद्विसृज्य पच्यन्ते कुस्त्रियः पापमोहिताः॥ २८
 
@@ -17808,7 +17914,7 @@ The Presidency College,
 वृद्धो विरूपो बीभत्सो धनवान् निर्धनोऽपि वा ।  
 एवम्भूतोऽपि वै भर्ता स्त्रीणां भूषणमुत्तमम्॥ ३१
 
-आढ्यंवा रूपयुक्तं वा विरूपं धनवर्जितम् ।  
+आढ्यं वा रूपयुक्तं वा विरूपं धनवर्जितम् ।  
 या पतिं तोषयेत् साध्वी सा पत्नीनां विशिष्यते॥ ३२
 
 दरिद्रांश्च विरूपांश्च प्रमूढान् कुष्ठसंयुतान् ।  
@@ -17832,10 +17938,10 @@ The Presidency College,
 स्वधर्मविमुखा भूत्वा प्रदूष्यन्ति यतस्ततः ।  
 प्रवृद्धविषया नित्यं प्रतिकूलं वदन्ति च॥ ३९
 
-अर्थान् विनाशयन्त्येव न गृह्णन्ति हितं क्वचित्[^663] ।  
+अर्थान् विनाशयन्त्येव न गृह्णन्ति हितं क्वचित्[^783] ।  
 स्वबुद्धिनिरता भूत्वा जीवन्ति च यथा तथा॥ ४०
 
-[^663]: "1. अ—वचः"
+[^783]: # "1. अ—वचः"
 
 गुणवत्यः क्वचिद्भूत्वा पतिधर्मपरा इव ।  
 पुनर्भवन्ति पापिष्ठा विषमं वृत्तमास्थिताः॥ ४१
@@ -17843,7 +17949,7 @@ The Presidency College,
 अनवस्थितमर्यादा बहुवेषा व्यवस्थिताः ।  
 असन्तुष्टाश्च लुब्धाश्च ईर्ष्याक्रोधयुता भृशम् ॥ ४२
 
-भोगप्रिया हितद्वेष्याःकामभोगपरायणाः \।  
+भोगप्रिया हितद्वेष्याः कामभोगपरायणाः \।  
 प्रायशोऽनृतभूयिष्ठा गुरूणां प्रतिलोमकाः॥ ४३
 
 एवंवृत्तसमाचारास् त्वासुरं भावमाश्रिताः ।  
@@ -17864,10 +17970,10 @@ The Presidency College,
 धर्मार्थरहिता घोरास् सततं कुर्वते क्रियाः॥ ४८॥
 
 अनर्थे निपुणाः पापाः परप्राणेषु निर्दयाः।  
-एवंयुक्तसमाचारास्स्त्रियः पैशाचमांश्रिताः॥ ४९॥
+एवंयुक्तसमाचारास् स्त्रियः पैशाचमांश्रिताः॥ ४९॥
 
 अपरा मोहसंयुक्ता निर्लज्जा रोदनप्रियाः ।  
-अशुद्धा मलदिग्धाङ्ग्यःपानमांसरता भृशम्॥ ५०
+अशुद्धा मलदिग्धाङ्ग्यः पानमांसरता भृशम्॥ ५०
 
 वदन्त्यनृतवाक्यानि हसन्ति विलपन्ति च॥ ५१
 
@@ -17896,7 +18002,7 @@ The Presidency College,
 एतद्विज्ञाय यदि तु पुनश्चेद्धितमात्मनः ।  
 कुर्याद्भर्तारमाश्रित्य तथा धर्ममवाप्नुयात्॥ ५९॥
 
-अतिसंयान्ति ताल्ँलोकान्पुण्यान् परमशोभनान्॥ ५९॥
+अतिसंयान्ति ताल्ँ लोकान् पुण्यान् परमशोभनान्॥ ५९॥
 
 अवमत्य च याः पूर्वं पतिं दुष्टेन चेतसा ।  
 वर्तमानाश्च सततं भर्तॄणां प्रतिकूलतः॥ ६०॥
@@ -17908,9 +18014,10 @@ The Presidency College,
 आदिप्रभृति कुस्त्रीणां तथाऽनुमरणं वृथा॥ ६२
 
 आदिप्रभृति या साध्वी पत्युः प्रियपरायणा।  
-ऊर्ध्वं गच्छति सा पूता[^664] भर्त्राऽनुमरणं गता॥ ६३  
+ऊर्ध्वं गच्छति सा पूता[^784] भर्त्राऽनुमरणं गता॥ ६३  
 
-[^664]: "1. ख-घ -- प्रीता"
+
+[^784]: # "1. ख-घ -- प्रीता"
 
 एवं मृताया वै लोकान् अहं पश्यामि चक्षुषा ।  
 स्पृहणीयान् सुरगणैर् यान् गच्छति पतिव्रता॥ ६४
@@ -17925,7 +18032,7 @@ The Presidency College,
 
 चापल्यान्मम देवेश तद्भवान् क्षन्तुमर्हति॥ ६७
 
-नारदः—
+**नारदः—**
 
 एवं वदन्तीं रुद्राणीं लज्जाभावसमन्विताम् ।  
 प्रशशंस च देवेशो वाचा सञ्जनयन् प्रियम्॥ ६८
@@ -17938,7 +18045,7 @@ The Presidency College,
 
 ततस्तु देवदेवेशो देवीं वचनमब्रवीत्॥ ७०॥
 
-श्रीमहेश्वरः—
+**श्रीमहेश्वरः—**
 
 शृणु कल्याणि मद्वाक्यं संवादोऽयं मया तव ।  
 पुण्यं पवित्रं ख्यातं च भविता तन्न संशयः॥ ७१॥
@@ -17949,9 +18056,9 @@ The Presidency College,
 यस्त्वेनं शृणुयान्नित्यं संवादं चावयोश्शुभम् ।  
 कीर्तिमायुष्यमारोग्यं लभते सङ्गतिं पराम्॥ ७३॥
 
-नारदः—
+**नारदः—**
 
-इत्युक्त्वास महादेवस् तत्रैवान्तरधीयत।  
+इत्युक्त्वा स महादेवस् तत्रैवान्तरधीयत।  
 देवीं देवं वयं तत्र न पश्यामः प्रभावतः॥ ७४॥
 
 एवं पुरा मयाऽऽश्चर्यं दृष्टं हैमवते वने ।  
@@ -17959,22 +18066,22 @@ The Presidency College,
 
 तदद्य कथितं सर्वं तव केशव शृण्वतः॥ ७६
 
-भीष्मः—
+**भीष्मः—**
 
 एतावदुक्त्वा देवर्षिर् नारदो विरराम ह ।  
-तदद्यनिखिलं सर्वं कथितं ते युधिष्ठिर॥ ७७
+तदद्य निखिलं सर्वं कथितं ते युधिष्ठिर॥ ७७
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 धर्मराजश्च तच्छ्रुत्वा भ्रातृभिर्मुदितोऽभवत् ।  
 तत् सर्वं निखिलं प्रोक्तं तवेह जनमेजय॥ ७८
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि सप्तत्रिंशदधिकशततमोऽध्यायः ॥ १३७ ॥  
-॥ ८९॥आनुशासनिकपर्वणि सप्तत्रिंशदधिकशततमोऽध्यायः ॥ १३७ ॥  
-         \[ अस्मिन्नध्याये ७८ श्लोकाः \]
+॥ ८९॥ आनुशासनिकपर्वणि सप्तत्रिंशदधिकशततमोऽध्यायः ॥ १३७ ॥  
+         \[ अस्मिन्नध्याये ७८ श्लोकाः \]**
 
-————
+**————**
 
 **॥ अष्टात्रिंशदधिकशततमोऽध्यायः ॥**
 
@@ -17982,14 +18089,14 @@ The Presidency College,
 
  भीष्मेण युधिष्ठिरं प्रति दृष्टान्ततया विप्रकन्योपाख्यानकथनपूर्वकं विद्वत्संरक्षणस्य महाफलहेतुत्वकथनम्॥
 
-——————
+**——————**
 
-युधिष्टिरः—
+**युधिष्टिरः—**
 
 कृपया परया प्रोक्तस् सर्वेषां पापकर्मणाम् ।  
 ज्ञानस्य च परस्येह तन्मे ब्रूहि पितामह॥ १
 
-भीष्मः—
+**भीष्मः—**
 
 उपायोऽयं परप्राप्तौ परमः परिकीर्तितः ।  
 नारायणस्यानुध्यानम् अर्चनं यजनं स्तुतिः॥ २
@@ -17997,7 +18104,7 @@ The Presidency College,
 श्रवणं तत्कथानां च विद्वत्संरक्षणं तथा ।  
 विद्वच्छुश्रूषणं प्रीतिर् उपदेशानुपालनम्॥ ३
 
-स ध्यानेन जपेनाशुमुच्यते प्राकृतोऽपि वा॥ ३॥
+स ध्यानेन जपेनाशु मुच्यते प्राकृतोऽपि वा॥ ३॥
 
 जपश्चतुर्विधः प्रोक्तो वैदिकस्तान्त्रिकोऽपि च ।  
 पौराणिकोऽथ विद्वद्भिः कथितं स्मार्त एव च॥ ४॥
@@ -18009,21 +18116,21 @@ The Presidency College,
 आसीदाश्वासिता विद्वत्संरक्षणफलात् किल॥ ६॥
 
 विप्रस्य मरणे हेतुस् तत्पत्नी पितृशोकदा ।  
-वैश्यात्वमिति[^665] लोभोऽयं विप्रकन्येति साम्प्रतम्॥ ७॥
+वैश्यात्वमिति[^785] लोभोऽयं विप्रकन्येति साम्प्रतम्॥ ७॥
 
-[^665]: "1. क-घ--त्वमति"
+[^785]: # "1. क-घ--त्वमति"
 
 इत्युक्ताऽऽश्वासिताऽपृच्छत् केनैवं पापसंयुता ।  
 जाता विप्रकुले सम्यक् श्रेयश्चापि व्रवीहि मे॥ ८॥
 
-यमः—
+**यमः—**
 
 अन्यजन्मनि विद्वांसं प्रहारैरभिपीडितम् ।  
-चोरशङ्काविमोक्षेण मोक्षयित्वा सुजन्मिका[^666]॥ ९॥
+चोरशङ्काविमोक्षेण मोक्षयित्वा सुजन्मिका[^786]॥ ९॥
 
-[^666]: "2. घ -- सुधार्मिका"
+[^786]: # "2. घ -- सुधार्मिका"
 
-भीष्मः—
+**भीष्मः—**
 
 इत्युक्ताऽष्टाक्षरध्यानजपादिश्रेयसंयुता ।  
 यमेनानुगृहीताऽभूत् पुण्यलोकनिवासिनी॥ १०॥
@@ -18031,12 +18138,12 @@ The Presidency College,
 तन्नित्यं विदुषां रक्षातत्परोऽभूर्महीपते ।  
 तेषां संरक्षणात् सद्यस् सर्वपापैः प्रमुच्यसे॥ ११॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि अष्टात्रिंशदधिकशततमोऽध्यायः ॥ १३८ ।  
 ॥ ८९ ॥ आनुशासनिकपर्वणि अष्टात्रिंशदधिकशततमोऽध्यायः ॥ १३८ ॥  
-          \[ अस्मिन्नध्याये ११॥ श्लोकाः \]
+          \[ अस्मिन्नध्याये ११॥ श्लोकाः \]**
 
-—————
+**—————**
 
 **॥ एकोनचत्वारिंशदधिकशततमोऽध्यायः ॥**
 
@@ -18044,16 +18151,16 @@ The Presidency College,
 
  भीष्मेण युधिष्ठिरं प्रति देवदेवर्षिगिरिनदीतीर्थक्षेत्रादीनां विस्तरेण पृथङ्नामनिर्देशपूर्वककीर्तनम् ॥
 
-—————
+**—————**
 
-युधिष्टिरः—
+**युधिष्टिरः—**
 
-सर्वशान्तिकरं पुण्यं[^667] दारिद्र्यातुरदुःखिनाम् ।  
+सर्वशान्तिकरं पुण्यं[^787] दारिद्र्यातुरदुःखिनाम् ।  
 तुष्टिपुष्टिप्रदं नित्यं पितामह वदस्व मे॥ १
 
-[^667]: "1. ख-घ--- जप्यं"
+[^787]: # "1. ख-घ --- जप्यं"
 
-भीष्मः—
+**भीष्मः—**
 
 अयं शस्तो महाजप्यो देवराजर्षिसंयुतः ।  
 सेवन् नरो न दुःखेन भयेन च विमुह्यति॥ २
@@ -18064,12 +18171,12 @@ The Presidency College,
 पितामहो जगन्नाथस् सावित्री ब्रह्मणा स्मृता ।  
 देवभूरथ कर्ता च विष्णुर्नारायणः प्रभुः॥ ४
 
-विष्णुनाभि[^668]सरोजातो ब्रह्मा भुवनपावनः।  
+विष्णुनाभि[^788]सरोजातो ब्रह्मा भुवनपावनः।  
 उमापतिर्विरूपाक्षस् स्कन्दस्सेनापतिस्तथा॥ ५
 
-[^668]: "2. अ-क-घ --- नास्तीदमर्धम्"
+[^788]: # "2. अ-क-घ --- नास्तीदमर्धम्"
 
-विशाखो हुतभुग्वायुश्चन्द्रादित्यौ प्रभाकरौ ।  
+विशाखो हुतभुग्वायुश् चन्द्रादित्यौ प्रभाकरौ ।  
 शक्रस्सुरपतिर्देवो यमो धूमोर्णया सह॥ ६
 
 वरुणस्सह गौर्या च सहर्ध्या वै धनेश्वरः ।
@@ -18091,7 +18198,7 @@ The Presidency College,
 धर्मस्सत्यं तपो दीक्षा व्यवसायः पितामहः ।  
 शर्वरी दिवसश्चैव मरीचः काश्यपस्तथा॥ १२
 
-शुक्रोबृहस्पतिस्सौम्यो बुधो राहुश्शनैश्चरः।  
+शुक्रो बृहस्पतिस्सौम्यो बुधो राहुश्शनैश्चरः।  
 नक्षत्राणि तपश्चैव मासास्सन्ध्यास्सवत्सराः॥ १३
 
 वैनतेयस्सपुत्रश्च कद्रुजाः पन्नगास्तथा ।  
@@ -18106,28 +18213,28 @@ The Presidency College,
 तथाऽरुणा वेत्रवती पुण्योदा गोमती तदा ।  
 गोदावरी च पर्णा च कृष्णवेणी तथैव च॥ १७
 
-वृषद्वती[^669] सा कावेरी चक्षुर्मन्दाकिनी तथा ।  
+वृषद्वती[^789] सा कावेरी चक्षुर्मन्दाकिनी तथा ।  
 प्रयागश्च प्रभासश्च पुण्यं नैमिशमेव च॥ १८
 
-[^669]: "1. ख—दृपद्वती च"
+[^789]: # "1. ख—दृपद्वती च"
 
-यत्र विश्वेश्वरस्थाणुर् यत्र तद्विपुलं[^670] सरः ।  
+यत्र विश्वेश्वरस्थाणुर् यत्र तद्विपुलं[^790] सरः ।  
 पुण्यतीर्थाश्च कपिलं कुरुक्षेत्रं प्रकीर्तितम्॥ १९
 
-[^670]: "2. ख—विष्णुश्च वत्सरः "
+[^790]: # "2. ख—विष्णुश्च वत्सरः "
 
 सिन्धूत्तमा तपोदानजम्बुमार्गबहाऽपि च ।  
 हैरण्वती वितस्त्या च तथा क्षेमवती नदी॥ २०
 
-वेदश्रुतिर्वेदधनी[^671] नलहारा च नद्यपि ।  
+वेदश्रुतिर्वेदधनी[^791] नलहारा च नद्यपि ।  
 भूमिभागास्तथा पुण्या गङ्गाद्वारमथापि च॥ २१
 
-[^671]: "3. अ-क --- वेदवती मलवासाश्च"
+[^791]: # "3. अ-क --- वेदवती मलवासाश्च"
 
-ऋषिकुल्या त्रियामास्था[^672] नदी चित्रवहा तथा।  
+ऋषिकुल्या त्रियामास्था[^792] नदी चित्रवहा तथा।  
 कौशिकी यमुना सीता तथा चर्मण्वती नदी॥ २२
 
-[^672]: "घ—त्रिमात्रास्या"
+[^792]: # "घ—त्रिमात्रास्या"
 
 महेन्द्रवाणिनी दिव्या नीविता च तथैव च।  
 नन्दा च परनन्दा च तदा तीर्थमुदाहृतम्॥ २३
@@ -18139,27 +18246,28 @@ The Presidency College,
 
 हिमवान् पर्वतश्चैव दिव्यौषधिसमन्वितः।  
 
+
 विन्ध्यो धातुविचित्राङ्गस् तीर्थवानौषधान्वितः॥ २५॥
 
 मेरुर्महेन्द्रो मलयश् श्वेतश्च रजतान्वितः ।  
-शृङ्गवान् मन्दरो नीलो निषधो निर्दरस्तथा[^673]॥ २६॥
+शृङ्गवान् मन्दरो नीलो निषधो निर्दरस्तथा[^793]॥ २६॥
 
-[^673]: "1. ख -- दर्दर"
+[^793]: # "1. ख -- दर्दर"
 
-चित्रकूटो[^674]ऽञ्जनाभश्चपर्वतो गन्धमादनः ।  
+चित्रकूटो[^794]ऽञ्जनाभश्च पर्वतो गन्धमादनः ।  
 पुण्यस्सोमगिरिश्चैव ये चान्ये च महीधराः॥ २७॥
 
-[^674]: "2. ख – इदमर्धद्वयं नास्ति"
+[^794]: # "2. ख – इदमर्धद्वयं नास्ति"
 
 दिशश्च विदिशश्चैव क्षितस्सर्वमहीरुहाः ।  
-विश्वे देवा नभश्चैव[^675] नक्षत्राणि ग्रहास्तथा॥ २८॥
+विश्वे देवा नभश्चैव[^795] नक्षत्राणि ग्रहास्तथा॥ २८॥
 
-[^675]: "3. ख -- भवाश्चैव"
+[^795]: # "3. ख -- भवाश्चैव"
 
-कीर्तयाना[^676] नरा ह्येतान् मुच्यन्ते सर्वकिल्बिषैः।  
+कीर्तयाना[^796] नरा ह्येतान् मुच्यन्ते सर्वकिल्बिषैः ।  
 स्तुवन्तः प्रीतिमन्तश्च मुच्यन्ते महतो भयात्॥ २९॥
 
-[^676]: "4. ख -- पान्तु नः सततं देवाः कीर्तिताकीर्तितास्तथा ।"
+[^796]: # "4. ख -- पान्तु नः सततं देवाः कीर्तिताकीर्तितास्तथा ।"
 
 सर्वसङ्करपापेभ्यो देवतास्तवनन्दकाः ।  
 देवतानन्दकान् विप्रांस् तपस्सिद्धांस्तपोधनान्॥ ३०॥
@@ -18172,9 +18280,9 @@ The Presidency College,
 बर्हिश्च गुणसम्पन्नाः प्राचीं दिशमुपाश्रिताः॥ ३२॥
 
 भद्राश्चैव महाभागा मम्लुचाः प्रम्लुचास्तथा ।  
-मम्लचुश्च महाभागास् स्वस्त्यात्रे[^677]यश्च वीर्यवान्॥ ३३॥
+मम्लचुश्च महाभागास् स्वस्त्यात्रे[^797]यश्च वीर्यवान्॥ ३३॥
 
-[^677]: "5. ख--सत्यात्रे"
+[^797]: # "5. ख--सत्यात्रे"
 
 मित्रावरुणयोः पुत्रस् तथाऽगस्त्यः प्रतापवान् ।  
 दृढच्युतश्चेध्मवाहो विश्रुतावृषिसत्तमौ॥ ३४॥
@@ -18188,21 +18296,21 @@ The Presidency College,
 उत्तरां दिशमाश्रित्य य एवं ते निबोध तान् ।  
 अत्रिश्शक्तिर्वसिष्ठश्च पाराशर्यश्च वीर्यवान्॥ ३७॥
 
-ऋषिर्दीर्घ[^678]तमश्चैव गौतमः काश्यपस्तथा ।  
+ऋषिर्दीर्घ[^798]तमश्चैव गौतमः काश्यपस्तथा ।  
 विश्वामित्रो भरद्वाजो जमदग्निस्तथैव च॥ ३८॥
 
-[^678]: "1. घ --- एकतश्च द्वितश्चैव त्रितश्चैव महर्षयः ।"
+[^798]: # "1. घ --- एकतश्च द्वितश्चैव त्रितश्चैव महर्षयः ।"
 
 ऋचीकपुत्रो रामश्च ऋषिरौद्दालकिस्तथा ।  
-श्वेतकेतुः कहोलश्चविपुलो देवलस्तथा॥ ३९॥
+श्वेतकेतुः कहोलश्च विपुलो देवलस्तथा॥ ३९॥
 
 देवशर्मा च धौम्यश्च हस्तिकाश्यप एव च ।  
 रोमश्च नाचिकेतश्च रोमहर्षण एव च॥ ४०॥
 
 ऋषिरुग्रतपाश्चैव भार्गवश्च्यवनस्तथा ।  
-दुष्यन्तो[^679] भरतश्चैव चक्रवर्ती महायशाः॥ ४१
+दुष्यन्तो[^799] भरतश्चैव चक्रवर्ती महायशाः॥ ४१
 
-[^679]: "2. ख-घ --- अर्धचतुष्टयं नास्ति"
+[^799]: # "2. ख-घ --- अर्धचतुष्टयं नास्ति"
 
 यवनो जनकश्चैव तथा दृढरथो नृप ।  
 तपरस्तपकश्चैव तथा दशरथो नृपः॥ ४२॥
@@ -18211,46 +18319,46 @@ The Presidency College,
 रामो राक्षसहा वरिश् शशविन्दुस्तथैव च॥ ४३॥
 
 हरिश्चन्द्रो मरुत्तश्च जह्नुर्जाह्रविसेवितः ।  
-महोदयो ह्यलर्कश्चऐलश्चैव नराधिपः॥ ४४॥
+महोदयो ह्यलर्कश्च ऐलश्चैव नराधिपः॥ ४४॥
 
 शिविरौशीनरश्चैव गवयश्च नराधिपः ।  
-वृषोऽम्बरीषःकमठो रैवतश्च महाबलः॥ ४५॥
+वृषोऽम्बरीषः कमठो रैवतश्च महाबलः॥ ४५॥
 
 मुचुकुन्दश्च राजर्षिर् मित्रभानुः प्रियङ्करः।  
 त्रसदस्युस्तथा राजा श्वेतो राजर्षिसत्तमः॥ ४६॥
 
 महाभिषक् च विख्यातो नृगो राजा तथाऽष्टकः ।  
-आयुः क्षेपुश्च राजर्षिःकक्षेपुश्च नराधिपः॥ ४७॥
+आयुः क्षेपुश्च राजर्षिः कक्षेपुश्च नराधिपः॥ ४७॥
 
 प्रतर्दनो दिवोदासस् सौदासः कोसलेश्वरः ।  
 वीरो नलश्च राजर्षिर् भौमश्चैव नराधिपः॥ ४८॥
 
-गवीधुश्च[^680]वृषध्वश्चप्रतीतश्शन्तनुस्तथा ।  
+गवीधुश्च[^800] वृषध्वश्च प्रतीतश्शन्तनुस्तथा ।  
 करन्धमो नरश्रेष्ठो गान्धारश्च नराधिपः॥ ४९॥
 
-[^680]: "1. घ – गवीपुश्च वृषध्वश्च"
+[^800]: # "1. घ – गवीपुश्च वृषध्वश्च"
 
 क्षेत्राणि नद्यो राजानो ये चान्ये नानुकीर्तिताः ।  
 नमस्तेभ्यो नमस्तेभ्यो मा च मे परिपन्थिनः॥ ५०॥
 
-परात् परतराच्चैव गतिस्स्यादिति तत् पठेत्[^681]॥ ५१
+परात् परतराच्चैव गतिस्स्यादिति तत् पठेत्[^801]॥ ५१
 
-[^681]: "* ख – कोशे अत्रैवाध्यायसमाप्तिर्दृश्यते"
+[^801]: # "* ख – कोशे अत्रैवाध्यायसमाप्तिर्दृश्यते"
 
-ओंनमो भगवते वासुदेवाय  
-ओंनमो भगवते पुरुषोत्तमाय।
+ओन्नमो भगवते वासुदेवाय  
+ओन्नमो भगवते पुरुषोत्तमाय।
 
-ओंनमो[^682] नारायणाय  
+ओन्नमो[^802] नारायणाय  
 ओं नमस्सर्वलोकगुरवे॥ ५२
 
-[^682]: "1. ख-घ--नास्ति इदम्"
+[^802]: # "1. ख-घ--नास्ति इदम्"
 
 ओं नमस्सर्वलोकपित्रे  
 ओं नमस्सर्वलोकपितामहाय ।  
-ओं[^683] सर्वलोकप्रपितामहाय नमः  
+ओं[^803] सर्वलोकप्रपितामहाय नमः  
 ओं नमस्सर्वलोकप्रधानाय॥ ५३
 
-[^683]: "2, 3. अ-क-ख-ग --- नास्तीदम्"
+[^803]: # "2, 3. अ-क-ख-ग --- नास्तीदम्"
 
 ओं नमस्सर्वलोकेश्वराय  
 ओं नमस्सर्वलोकविशिष्टाय।  
@@ -18259,18 +18367,18 @@ The Presidency College,
 
 ओं नमस्सर्वलोकभर्त्रे  
 ओं नमस्सर्वलोकहर्त्रे।  
-ओं नमस्सर्वलोकहितकराय[^683]  
+ओं नमस्सर्वलोकहितकराय[^803]  
 ओं सर्वलोकनिधये नमः॥ ५५
 
 ओं नमस्सर्वलोकोद्भवकराय  
 ओं नमो विष्णवे प्रभविष्णवे॥ ५५॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकोनत्रिंशदधिकशततमोऽध्यायः ॥ १३९ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि एकोनत्रिंशदधिकशततमोऽध्यायः ॥ १३९ ॥  
-         \[ अस्मिन्नध्याये ५५ ॥ श्लोकाः \]
+         \[ अस्मिन्नध्याये ५५ ॥ श्लोकाः \]**
 
-————
+**————**
 
 **॥ चत्वारिंशदधिकशततमोऽध्यायः ॥**
 
@@ -18278,14 +18386,14 @@ The Presidency College,
 
  भीष्मेण युधिष्ठिरं प्रति श्रीविष्णुसहस्रनामस्तोत्रकथनम् ॥
 
-—————
+**—————**
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 श्रुत्वा धर्मानशेषेण पावनानि च सर्वशः ।  
 युधिष्ठिरश्शान्तनवं पुनरेवाभ्यभाषत॥ १
 
-युधिष्टिरः—
+**युधिष्टिरः—**
 
 किमेकं दैवतं लोके किं वाऽप्येकं परायणम्।  
 स्तुवन्तः कं कमर्चन्तः प्राप्नुयुर्मानवाश्शुभम्॥ २
@@ -18293,10 +18401,10 @@ The Presidency College,
 को धर्मस्सर्वधर्माणां भवतः परमो मतः ।  
 किं जपन् मुच्यते जन्तुर् जन्मसंसारबन्धनात्॥ ३
 
-भीष्मः—
+**भीष्मः—**
 
 जगत्प्रभुं देवदेवम् अनन्तं पुरुषोत्तमम् ।  
-स्तुवन्नामसहस्रेण पुरुषस्सततोत्थितः॥ ४
+स्तुवन् नामसहस्रेण पुरुषस्सततोत्थितः॥ ४
 
 तमेव चार्चयन् नित्यं भक्त्या पुरुषमव्ययम् ।  
 ध्यायन् स्तुवन् नमस्यंश्च यजमानस्तमेव च॥ ५
@@ -18306,11 +18414,11 @@ The Presidency College,
 
 ब्रह्मण्यं सर्वधर्मज्ञं लोकानां कीर्तिवर्धनम् ।
 
-1\. अ-क-ख-ग—नास्तीदम्
+1\. अ-क-ख-ग—नास्तीदं
 
 लोकनाथं महद्भूतं सर्वभूतभवोद्भवम्॥ ७
 
-एषमे सर्वधर्माणां धर्मोऽधिकतमो मतः ।  
+एष मे सर्वधर्माणां धर्मोऽधिकतमो मतः ।  
 यद्भक्त्या पुण्डरीकाक्षं स्तवैरर्चेन्नरस्सदा॥ ८
 
 परमं यो महत्तेजः परमं यो महत्तपः ।  
@@ -18332,11 +18440,11 @@ The Presidency College,
 छन्दोऽनुष्टुप् तथा देवो भगवान् देवकीसुतः॥ १४
 
 अमृतांशुद्भवो बीजं शक्तिर्देवकिनन्दनः ।  
-त्रिसामा हृदयं तस्य शान्त्यर्थे विनियुज्यते[^685]॥ १५
+त्रिसामा हृदयं तस्य शान्त्यर्थे विनियुज्यते[^805]॥ १५
 
-[^685]: "1. क --- विष्णुं जिष्णुं महाविष्णुं प्रभविष्णुं महेश्वरम् । अनेकरूपदैत्यान्तं नमामि पुरुषोत्तमम्॥ क्षीरोदन्वत्प्रदेशे शुचिमणिविलसत्सैकतैर्मौक्तिकानाम् मालाक्लृप्तासनस्थस्स्फटिकमणिनिभैर्मौक्तिकैर्मण्डिताङ्गः ।"
+[^805]: # "1. क --- विष्णुं जिष्णुं महाविष्णुं प्रभविष्णुं महेश्वरम् । अनेकरूपदैत्यान्तं नमामि पुरुषोत्तमम्॥ क्षीरोदन्वत्प्रदेशे शुचिमणिविलसत्सैकतैर्मौक्तिकानाम् मालाक्लृप्तासनस्थस्स्फटिकमणिनिभैर्मौक्तिकैर्मण्डिताङ्गः ।"
 
-॥ श्री विष्णुसहस्रनाम स्तोत्रारम्भः ॥
+**॥ श्री विष्णुसहस्रनाम स्तोत्रारम्भः ॥**
 
 ओं, विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः ।  
 भूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः॥ १६
@@ -18350,7 +18458,7 @@ The Presidency College,
 सर्वश्शर्वश्शिशवस्स्थाणुर् भूतादिर्निधिरव्ययः ।  
 सम्भवो भावनो भर्ता प्रभवः प्रभुरीश्वरः॥ १९
 
-स्वयंभूश्शम्भुरादित्यः पुष्कराक्षो महास्वनः ।  
+स्वयम्भूश्शम्भुरादित्यः पुष्कराक्षो महास्वनः ।  
 अनादिनिधनो धाता विधाता धातुरुत्तमः॥ २०
 
 अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः ।  
@@ -18359,7 +18467,7 @@ The Presidency College,
 
 ———————————————————————————————————————————————————
 
-पूर्वतोऽनुवृत्तम्—
+**पूर्वतोऽनुवृत्तम्—**
 
 शुभ्रैरभ्रैरदभ्रैरुपरिविरचितैर्मुक्तपीयूषवर्षैर्  
 आनन्दी नः पुनीयादरिनलिनगदाशङ्खपाणिर्मुकुन्दः॥  
@@ -18368,9 +18476,9 @@ The Presidency College,
 लक्ष्मीकान्तं कमलनयनं योगिहृद्ध्यानगम्यं  
 वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥ (अधिकः पाठ)
 
-प्रभूतस्त्रिककुब्धाम[^686]पवित्रं मङ्गलं परम्॥ २२
+प्रभूतस्त्रिककुब्धाम[^806] पवित्रं मङ्गलं परम्॥ २२
 
-[^686]: "1. घ—द्धाम"
+[^806]: # "1. घ—द्धाम"
 
 ईशानः प्राणदः प्राणो ज्येष्ठश्श्रेष्ठः प्रजापतिः ।  
 हिरण्यगर्भो भूगर्भो माधवो मधुसूदनः॥ २३
@@ -18393,10 +18501,10 @@ The Presidency College,
 सर्वगस्सर्वविद्भानुर् विष्वक्सेनो जनार्दनः ।  
 वेदो वेदविदव्यङ्गो वेदाङ्गो वेदवित् कविः॥ २९
 
-लोकाध्यक्षस्सुराध्यक्षो धर्माध्यक्षः कृताकृतः[^687] ।  
+लोकाध्यक्षस्सुराध्यक्षो धर्माध्यक्षः कृताकृतः[^807] ।  
 चतुरात्मा चतुर्व्यूहश् चतुर्दष्ट्रश्चतुर्भुजः॥ ३०
 
-[^687]: "2. घ – कृतिः"
+[^807]: # "2. घ – कृतिः"
 
 भ्राजिष्णुर्भोजनं भोक्ता सहिष्णुर्जगदादिजः।
 
@@ -18430,14 +18538,14 @@ The Presidency College,
 अहस्संवर्तको वह्निर् अनिलो धरणीधरः॥ ४०
 
 सुप्रसादः प्रसन्नात्मा विश्वधृग्विश्वभुग्विभुः।  
-सत्कर्ता सत्कृत[^688]स्साधुर् जह्नुर्नारायणो नरः॥ ४१
+सत्कर्ता सत्कृत[^808]स्साधुर् जह्नुर्नारायणो नरः॥ ४१
 
-[^688]: "1. क-ख-घ -- सत्कृतिः"
+[^808]: # "1. क-ख-घ -- सत्कृतिः"
 
 असङ्ख्येयोऽप्रमेयात्मा विशिष्टश्शिष्टकृच्छुचिः ।  
-²⁵⁰सिद्धार्थस्सिद्धसङ्कल्पस् सिद्धिदस्सिद्धि[^689]साधनः ॥ ४२
+²⁵⁰सिद्धार्थस्सिद्धसङ्कल्पस् सिद्धिदस्सिद्धि[^809]साधनः ॥ ४२
 
-[^689]: "2. क-ख-घ -- सिद्धि"
+[^809]: # "2. क-ख-घ -- सिद्धि"
 
 वृषाही वृषभो विष्णुर् वृषपर्वा वृषोदरः ।  
 वर्धनो वर्धमानश्च विविक्तश्श्रुतिसागरः॥ ४३
@@ -18446,9 +18554,9 @@ The Presidency College,
 नैकरूपो बृहद्रूपश् शिपिविष्टः प्रकाशनः॥ ४४
 
 ओजस्तेजोद्युतिधरः प्रकाशात्मा प्रतापनः ।  
-ऋद्धस्स्पृष्टाक्षरो मन्त्रश्चन्द्रांशुर्भास्करद्युतिः॥ ४५
+ऋद्धस्स्पृष्टाक्षरो मन्त्रश् चन्द्रांशुर्भास्करद्युतिः॥ ४५
 
-अमृतांशुद्भवो भानुश्शशबिन्दुस्सुरेश्वरः।  
+अमृतांशुद्भवो भानुश् शशबिन्दुस्सुरेश्वरः।  
 औषधं जगतस्सेतुस् सत्यधर्मपराक्रमः॥ ४६
 
 भूतभव्यभवन्नाथः पवनः पावनोऽनलः ।  
@@ -18461,25 +18569,21 @@ The Presidency College,
 क्रोधहा क्रोधकृत् कर्ता विश्ववाहुर्महीधरः॥ ४९
 
 अच्युतः प्रथितः प्राणः प्राणदो वासवानुजः।  
-अपांनिधिरधिष्ठानम् अप्रमत्तः प्रतिष्ठितः॥ ५०
+अपान्निधिरधिष्ठानम् अप्रमत्तः प्रतिष्ठितः॥ ५०
 
 स्कन्दस्स्कन्दधरो धुर्यो वरदो वायुवाहनः ।  
 वासुदेवो बृहद्भानुर् आदिदेवः पुरन्दरः॥ ५१
 
-अशोकस्तारणस्तारश्शूरश्शौरिर्जनेश्वरः ।  
+अशोकस्तारणस्तारश् शूरश्शौरिर्जनेश्वरः ।  
 अनुकूलश्शतावर्तः पद्मी पद्मनिभेक्षणः॥ ५२
 
 पद्मनाभोऽरविन्दाक्षः पद्मगर्भश्शरीरभृत् ।  
-महर्द्धिर्ऋद्धो
-
-850
-
-वृद्धात्मा महाक्षो गरुडध्वजः॥ ५३
+महर्द्धिर्ऋद्धो⁸⁵⁰ वृद्धात्मा महाक्षो गरुडध्वजः॥ ५३
 
 अतुलश्शरभो भीमस् समयज्ञो हविर्हरिः ।  
 सर्वलक्षणलक्षण्यो लक्ष्मीवान् समितिञ्जयः॥ ५४
 
-विक्षरो रोहितो मार्गोहेतुर्दामोदरस्सहः ।  
+विक्षरो रोहितो मार्गो हेतुर्दामोदरस्सहः ।  
 महीधरो महाभागो वेगवानमिताशनः॥ ५५
 
 उद्भवः क्षोभणो देवश् श्रीगर्भः परमेश्वरः ।  
@@ -18488,10 +18592,7 @@ The Presidency College,
 व्यवसायो व्यवस्थानस् संस्थानस्स्थानदो ध्रुवः।  
 परर्द्धिः परमस्पष्टस् तुष्टः पुष्टश्शुभेक्षणः॥ ५७
 
-रामो विरामो विरतो मार्गो नेयो नयोऽनयः ।
-
-400  
-
+रामो विरामो विरतो मार्गो नेयो नयोऽनयः । ⁴⁰⁰  
 वीरश्शक्तिमतां श्रेष्ठो धर्मो धर्मविदुत्तमः॥ ५८
 
 बैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः।
@@ -18507,10 +18608,7 @@ The Presidency College,
 अनिर्विण्णस्स्थविष्ठो भूर्धर्मयूपो महामखः ।  
 नक्षत्रनेमिर्नक्षत्री क्षमः क्षामस्समीहनः॥ ६२
 
-यज्ञ इज्यो महेज्यश्च क्रतुस्सत्रं सतां गतिः ।
-
-⁴⁵⁰  
-
+यज्ञ इज्यो महेज्यश्च क्रतुस्सत्रं सतां गतिः ।⁴⁵⁰  
 सर्वदर्शी विमुक्तात्मा सर्वज्ञो ज्ञानमुत्तमम्॥ ६३
 
 सुव्रतस्सुसुखस्सूक्ष्मस् सुघोषस्सुखदस्सुहृत् ।  
@@ -18526,11 +18624,7 @@ The Presidency College,
 आदिदेवो महादेवो देवेशो देवभृद्गुरुः॥ ६७
 
 उत्तरो गोपतिर्गोप्ता ज्ञानगम्यः पुरातनः ।  
-शरीरभूतभृद्भोक्ता
-
-⁵⁰⁰
-
-कपीन्द्रो भूरिदक्षिणः॥ ६८
+शरीरभूतभृद्भोक्ता⁵⁰⁰ कपीन्द्रो भूरिदक्षिणः॥ ६८
 
 सोमपोऽमृतपस्सोमः पुरुजित् पुरुसत्तसः ।  
 विनयो जयस्सत्यसन्धो दाशार्हस्सात्त्वतां पतिः॥ ६९
@@ -18541,17 +18635,13 @@ The Presidency College,
 अजो महार्हस्स्वाभाव्यो जितामित्रः प्रमोदनः।  
 आनन्दो नन्दनो नन्दस् सत्यधर्मा त्रिविक्रमः॥ ७१
 
-महर्षिः कपिलाचार्यःकृतज्ञो मेदिनीपतिः ।  
+महर्षिः कपिलाचार्यः कृतज्ञो मेदिनीपतिः ।  
 त्रिपदस्त्रिदशाध्यक्षो महाशृङ्गः कृतान्तकृत्॥ ७२
 
 महावराहो गोविन्दस् सुषेणः कनकाङ्गदी।  
 गुह्यो गभीरो गहनो गुप्तश्चक्रगदाधरः॥ ७३
 
-वेधारस्स्वाङ्गोऽजितः कृष्णो
-
-550
-
-दृढस्सङ्कर्षणोऽच्युतः ।  
+वेधारस्स्वाङ्गोऽजितः कृष्णो⁵⁵⁰ दृढस्सङ्कर्षणोऽच्युतः ।  
 वरुणो वारुणो वृक्षः पुष्कराक्षो महामनाः॥ ७४
 
 भगवान् भगहा नन्दी वनमाली हलायुधः ।  
@@ -18566,14 +18656,11 @@ The Presidency College,
 शुभाङ्गश्शान्तिदस्स्रष्टा कुमुदः कुबलेशयः।  
 गोहितो गोपतिर्गोप्ता वृक्षभाक्षो वृषप्रियः॥ ७८
 
-अनिवर्ती निवृत्तात्मा सङ्क्षेप्ता क्षेमकृच्छिवः।
-
-600  
-
-श्रीवत्सवक्षाश्श्रीवासश्श्रीपतिश्श्रीमतां वरः॥ ७९
+अनिवर्ती निवृत्तात्मा सङ्क्षेप्ता क्षेमकृच्छिवः। ⁶⁰⁰  
+श्रीवत्सवक्षाश्श्रीवासश् श्रीपतिश्श्रीमतां वरः॥ ७९
 
 श्रीदश्श्रीशश्श्रीनिवासश् श्रीनिधिश्श्रीविभावनः।  
-श्रीधरश्श्रीकरश्रेयश् श्रीमाल्ँलोकत्रयाश्रयः॥ ८०
+श्रीधरश्श्रीकरश्रेयश् श्रीमाल्ँ लोकत्रयाश्रयः॥ ८०
 
 स्वक्षस्स्वङ्गश्शतानन्दो नन्दिर्ज्योतिर्गर्णेश्वरः ।  
 त्रिजितात्मा विधेयात्मा सत्कीर्तिश्छिन्नसंशयः॥ ८१
@@ -18584,14 +18671,10 @@ The Presidency College,
 अर्विष्मानर्चितः कुम्भो विशुद्धात्मा विशोधनः ।  
 अनिरुद्धोऽप्रतिरथः प्रद्युम्नोऽमितविक्रमः॥ ८३
 
-कालनेमिनिहा वीरश् शौरिश्शू[^690]रजनेश्वरः।  
-त्रिलोकात्मा त्रिलोकेशः केशवः केशिहा हरिः॥
+कालनेमिनिहा वीरश् शौरिश्शू[^810]रजनेश्वरः।  
+त्रिलोकात्मा त्रिलोकेशः केशवः केशिहा हरिः॥ ⁶⁵⁰ ८४
 
-[^690]: "1. ख—हावीरश्शूरश्शूरजनेश्वरः; अ-घ—शौरिश्शूरश्शूरजनेश्वरः"
-
-650
-
-८४
+[^810]: # "1. ख—हावीरश्शूरश्शूरजनेश्वरः; अ-घ—शौरिश्शूरश्शूरजनेश्वरः"
 
 कामदेवः कामपालः कामी कान्तः कृतागमः।  
 अनिर्देश्यवपुर्विष्णुर् वीरोऽनन्तो धनञ्जयः॥ ८५
@@ -18608,11 +18691,7 @@ The Presidency College,
 मनोजवस्तीर्थकरो वसुरेता वसुप्रदः ।  
 वसुप्रदो वासुदेवो वसुर्वसुमना हविः॥ ८९
 
-सद्गतिस्सत्कृति
-
-700
-
-स्सत्ता सद्भूतिस्सत्परायणः।  
+सद्गतिस्सत्कृति⁷⁰⁰ स्सत्ता सद्भूतिस्सत्परायणः।  
 शूरसेनो यदुश्श्रेष्ठस् सन्निवासस्सुयामुनः॥ ९०
 
 भूतावासो वासुदेवस् सर्वासुनिलयोऽनलः ।  
@@ -18625,24 +18704,20 @@ The Presidency College,
 लोकबन्धुर्लोकनाथो माधवो भक्तवत्सलः॥ ९३
 
 सुवर्णवर्णो हेमाङ्गो वराङ्गश्चन्दनाङ्गदी।  
-वीरहा विषमश्शून्यो घृताशीरचल[^691]श्चलः॥ ९४
+वीरहा विषमश्शून्यो घृताशीरचल[^811]श्चलः॥ ९४
 
-[^691]: "1. क-घ—चीर"
+[^811]: # "1. क-घ—चीर"
 
-अमानी मानदो मान्यो लोकस्वामी
-
-750
-
-त्रिलोकधृत ।  
+अमानी मानदो मान्यो लोकस्वामी ⁷⁵⁰ त्रिलोकधृत ।  
 सुमेधा मेधजो धन्यस् सत्यमेवा धराधरः॥ ९५
 
 तेजो वृषो द्युतिधरस् सर्वशस्त्रभृतां वरः ।  
 प्रग्रहो निग्रहो व्यग्रो नैकशृङ्गो गदाग्रजः॥ ९६
 
 चतुर्मूर्तिश्चतुर्बाहुश् चतुर्व्यूहश्चतुर्गतिः ।  
-चतुरात्मा चतुर्भावश्चतुर्वेदविदेकपात्॥ ९७
+चतुरात्मा चतुर्भावश् चतुर्वेदविदेकपात्॥ ९७
 
-समावर्तोनिवृत्तात्मा दुर्जयो दुरतिक्रमः ।  
+समावर्तो निवृत्तात्मा दुर्जयो दुरतिक्रमः ।  
 दुर्लभो दुर्गमो दुर्गो दुरावासो दुरारिहा॥ ९८
 
 शुभाङ्गो लोकसारङ्गस् सुतन्तुस्तन्तुवर्धनः ।  
@@ -18652,14 +18727,14 @@ The Presidency College,
 अर्को वाजसनश्श्रृङ्गी जयन्तस्सर्वविज्जयी॥ १००
 
 ⁸⁰⁰ सुवर्णबिन्दुरक्षोभ्यस् सर्ववागीश्वरेश्वरः ।  
-महाह्रदो महागर्तो महाभूतो महानिधिः[^692]॥ १०१
+महाह्रदो महागर्तो महाभूतो महानिधिः[^812]॥ १०१
 
-[^692]: "1. ख—महाधनः"
+[^812]: # "1. ख—महाधनः"
 
-कुमुदः कुन्दरः कुन्दः पर्जन्यः पवनोऽनिलः[^693] ।  
+कुमुदः कुन्दरः कुन्दः पर्जन्यः पवनोऽनिलः[^813] ।  
 अमृताशोऽमृतवपुस् सर्वज्ञस्सर्वतोमुखः॥ १०२
 
-[^693]: "2. क-च—ऽनलः"
+[^813]: # "2. क-च—ऽनलः"
 
 सुलभस्सुव्रतस्सिद्धस् शत्रुजिच्छत्रुतापनः ।  
 न्यग्रोधोदुम्बरोऽश्वत्थश् चाणूरान्ध्रनिषूदनः॥ १०३
@@ -18668,15 +18743,11 @@ The Presidency College,
 अमूर्तिरनघोऽचिन्त्यो भयकृद्भयनाशनः॥ १०४
 
 अणुर्बृहत्कृशस्स्थूलो गुणभृनिर्गुणो महान्।  
-अधृतस्स्वधृत स्स्वास्यः[^694] प्राग्वंशो वंशवर्धनः॥ १०५
+अधृतस्स्वधृत स्स्वास्यः[^814] प्राग्वंशो वंशवर्धनः॥ १०५
 
-[^694]: "1. ख—स्वास्थ्यः"
+[^814]: # "1. ख—स्वास्थ्यः"
 
-भारभृत् कथितो योगी
-
-⁸⁵⁰
-
- योगीशस्सर्वकामदः ।  
+भारभृत् कथितो योगी ⁸⁵⁰ योगीशस्सर्वकामदः ।  
 आश्रमश्श्रमणः क्षामस् सुपर्णो वायुवाहनः॥ १०६
 
 धनुर्धरो धनुर्वेदो दण्डो दमयिता दमः ।  
@@ -18686,15 +18757,15 @@ The Presidency College,
 अभिप्रायः प्रियार्होऽर्हः प्रियकृत प्रीतिवर्धनः॥ १०८
 
 विहायसगतिज्योतिस् सुरुचिर्हुतभुग्विभुः ।  
-रविर्विरोचन[^695]स्सूर्यस् सविता रविलोचनः॥ १०९
+रवि र्विरोचन[^815]स्सूर्यस् सविता रविलोचनः॥ १०९
 
-[^695]: "क-ख--र्विलोच"
+[^815]: # "क-ख--र्विलोच"
 
 अनन्तो हुतभुम्भोक्ता सुखदो नैकदोऽग्रजः।  
 अनिर्विष्णस्सदामर्षी लोकाधिष्ठानमद्भुतम्॥ ११०
 
 सनात् सनातनतमः कपिलः कपिरप्ययः ।  
-स्वस्तिदस्स्वस्तिकृत् स्वस्ति स्वस्तिभुक् स्वस्तिदक्षिणः॥१११
+स्वस्तिदस्स्वस्तिकृत् स्वस्ति स्वस्तिभुक् स्वस्तिदक्षिणः॥ १११
 
 अरौद्रः कुण्डली चक्री विक्रम्यूर्जितशासनः ।
 
@@ -18703,7 +18774,7 @@ The Presidency College,
 अक्रूरः पेशलो दक्षो दक्षिणः क्षमिणां वरः ।  
 विद्वत्तमो वीतभयः पुण्यश्रवणकीर्तनः॥ ११३
 
-उत्तारणोदुष्कृतिहा पुण्यो दुस्स्वप्ननाशनः ।  
+उत्तारणो दुष्कृतिहा पुण्यो दुस्स्वप्ननाशनः ।  
 वीरहा रक्षणस्सन्तो जीवनं पर्यवस्थितः॥ ११४
 
 अनन्तरूपोऽनन्तश्रीर् जितमन्युर्भयापहः ।  
@@ -18712,40 +18783,34 @@ The Presidency College,
 अनादिर्भूर्भुवो लक्ष्मीस् सुवीरो रुचिराङ्गदः।  
 जननो जनजन्मादिर् भीमो भीमपराक्रमः॥ ११६
 
-950
-
-आधारनिलयो धाता पुष्पहासः प्रजागरः ।  
+⁹⁵⁰आधारनिलयो धाता पुष्पहासः प्रजागरः ।  
 ऊर्ध्वगस्सत्पथाचारः प्राणदः प्रणवः पणः॥ ११७
 
-प्रमाणं प्राणनिलयः प्राणभृत्[^696] प्राणजीवनः ।  
+प्रमाणं प्राणनिलयः प्राणभृत्[^816] प्राणजीवनः ।  
 तत्त्वं तत्त्वविदेकात्मा जन्ममृत्युजरातिगः॥ ११८
 
-[^696]: "1. ख-घ -- धृक्"
+[^816]: # "1. ख-घ -- धृक्"
 
 भूर्भुवस्स्वस्तरूस्तारस् सविता प्रपितामहः ।  
 यज्ञो यज्ञपतिर्यज्वा यज्ञाङ्गो यज्ञवाहनः॥ ११९
 
 यज्ञभृद्यज्ञकृद्यज्ञी यज्ञभुग्यज्ञसाधनः ।  
-यज्ञान्तकृद्यज्ञगुह्यम् अन्नमन्नादएव च॥ १२०
+यज्ञान्तकृद्यज्ञगुह्यम् अन्नमन्नाद एव च॥ १२०
 
-आत्मयोनिस्स्वयंजातो वैखानस्सामगायनः ।  
+आत्मयोनिस्स्वयञ्जातो वैखानस्सामगायनः ।  
 देवकीनन्दनस्स्रष्टा क्षितीशः पापनाशनः॥ १२१
 
 शङ्खभृन्नन्दकी चक्री शार्ङ्गधन्वा गदाधरः।  
-रथाङ्गपाणिरक्षोभ्यस् सर्वप्रहरणायुधः॥
-
-¹⁰⁰⁰
-
-१२२
+रथाङ्गपाणिरक्षोभ्यस् सर्वप्रहरणायुधः॥ ¹⁰⁰⁰ १२२
 
 श्री सर्वप्रहरणायुध ओं नम इति॥
 
-इतीदं[^697] कीर्तनी[^698]यस्य केशवस्य महात्मनः ।  
+इतीदं[^817] कीर्तनी[^818]यस्य केशवस्य महात्मनः ।  
 नाम्नां सहस्रं दिव्यानाम् अशेषेण प्रकीर्तितम्॥ १२३
 
-[^697]: "1. घ – वनमाली गदो शार्ङ्गी शङ्खी चक्री च नन्दकी । श्रीमान्नारायणोविष्णुर्वासुदेवोऽभिरक्षतु॥ वासुदेवो रक्षत्वोन्नम इति ।"
+[^817]: # "1. घ – वनमाली गदो शार्ङ्गी शङ्खी चक्री च नन्दकी । श्रीमान्नारायणो विष्णुर्वासुदेवोऽभिरक्षतु॥ वासुदेवो रक्षत्वोन्नम इति ।"
 
-[^698]: "2. क-ख-घ -- कीर्तनं यस्य"
+[^818]: # "2. क-ख-घ -- कीर्तनं यस्य"
 
 य इदं शृणुयान्नित्यं यश्चापि परिकीर्तयेत् ।  
 नाशुभं प्राप्नुयात् किश्चित् सोऽमुत्रेह च मानवः॥ १२४
@@ -18759,19 +18824,19 @@ The Presidency College,
 भक्तिमान् यस्सदोत्थाय शुचिस्तद्गतमानसः।  
 सहस्रं वासुदेवस्य नाम्नामेतत् प्रकीर्तयेत्॥ १२७
 
-यशः प्राप्नोति विपुलं याति[^699] प्राधान्यमेव च ।  
+यशः प्राप्नोति विपुलं याति[^819] प्राधान्यमेव च ।  
 अचलां श्रियमाप्नोति श्रेयः प्राप्नोत्यनुत्तमम्॥ १२८
 
-[^699]: "3. घ -- ज्ञाति"
+[^819]: # "3. घ -- ज्ञाति"
 
-न भयं कचिदाप्नोति वीर्यंतेजश्च विन्दति ।  
+न भयं कचिदाप्नोति वीर्यं तेजश्च विन्दति ।  
 भवत्यरोगो द्युतिमान् बलरूपगुणान्वितः॥ १२९
 
 रोगार्तो मुच्यते रोगाद् बद्धो मुच्येत बन्धनात् ।
 
 भयान्मुच्येत भीतस्तु मुच्येतापन्न आपदः॥ १३०
 
-दुर्गाण्यतितरत्याशुपुरुषः पुरुषोत्तमम् ।  
+दुर्गाण्यतितरत्याशु पुरुषः पुरुषोत्तमम् ।  
 स्तुवन् नामसहस्रेण नित्यं भक्तिसमन्वितः॥ १३१
 
 वासुदेवाश्रयो मर्त्यो वासुदेवपरायणः ।  
@@ -18786,10 +18851,10 @@ The Presidency College,
 न क्रोधो न च मात्सर्यं न लोभो नाशुभा मतिः ।  
 भवन्ति कृतपुण्यानां भक्तानां पुरुषोत्तमे॥ १३५
 
-द्यौस्सचन्द्रार्क नक्षत्रं[^700] खं दिशो भूर्महोदधिः ।  
+द्यौस्सचन्द्रार्क नक्षत्रं[^820] खं दिशो भूर्महोदधिः ।  
 वासुदेवस्य वीर्येण विधृतानि महात्मनः॥ १३६
 
-[^700]: "1. ख--नक्षत्रा"
+[^820]: # "1. ख--नक्षत्रा"
 
 ससुरासुरगन्धर्वं सयक्षोरगराक्षसम् ।  
 जगद्वशे वर्ततेदं कृष्णस्य सचराचरम्॥ १३७
@@ -18808,21 +18873,22 @@ The Presidency College,
 वेदाश्शास्त्राणि विज्ञानम् एतत् सर्वं जनार्दनात् ॥ १४१
 
 एको विष्णुर्महद्भूतं पृथग्भूतान्यनेकशः ।  
-त्रील्ँलोकान् व्याप्य भूतात्मा भुङ्क्ते विश्वभुगव्ययः ॥ १४२
+त्रील्ँ लोकान् व्याप्य भूतात्मा भुङ्क्ते विश्वभुगव्ययः ॥ १४२
 
 इमं स्तवं भगवतो विष्णोर्व्यासेन कीर्तितम् ।  
 पठेद्य इच्छेत् पुरुषश् श्रेयः प्राप्तुं सुखानि च॥ १४३
 
 विश्वेश्वरमजं देवं जगतः प्रभुमव्ययम्।  
-भजन्ति ये पुष्कराक्षं न ते यान्ति पराभवम्[^701] ॥ १४४  
+भजन्ति ये पुष्कराक्षं न ते यान्ति पराभवम्[^821] ॥ १४४  
 
-[^701]: "1. अ-क-ख-ग-घ---अर्जुनः— पद्मपत्रविशालाक्ष पद्मनाभ सुरोत्तम । भक्तानामनुरक्तानां त्राता भव जनार्दन॥  श्रीभगवान्—  यो मां नामसहस्रेण स्तोतुमिच्छति पाण्डव । सोऽहमेकेन श्लोकेन स्तुत एव न संशयः ॥ * + स्तुत एव न संशय ओं नम इति । वासनाद्वासुदेवस्य वासितं ते जगत्त्रयम्॥ सर्वभूतनिवासोऽसि वासुदेव नमोऽस्तु ते ।"
 
-न ते[^702] यान्ति पराभवम् ओं नम इति॥
+[^821]: # "1. अ-क-ख-ग-घ---अर्जुनः— पद्मपत्रविशालाक्ष पद्मनाभ सुरोत्तम । भक्तानामनुरक्तानां त्राता भव जनार्दन॥ श्रीभगवान्— यो मां नामसहस्रेण स्तोतुमिच्छति पाण्डव । सोऽहमेकेन श्लोकेन स्तुत एव न संशयः ॥ * + स्तुत एव न संशय ओं नम इति । वासनाद्वासुदेवस्य वासितं ते जगत्त्रयम्॥ सर्वभूतनिवासोऽसि वासुदेव नमोऽस्तु ते ।"
 
-[^702]: "1. अ—इदं नास्ति"
+न ते[^822] यान्ति पराभवम् ओं नम इति॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+[^822]: # "1. अ—इदं नास्ति"
+
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चत्वारिंशदधिकशततमोऽध्यायः ॥ १४० ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि चत्वारिंशदधिकशततमोऽध्यायः ॥ १४०॥  
           \[ अस्मिन्नध्याये १४४ श्लोकाः \]
@@ -18864,18 +18930,18 @@ The Presidency College,
 
 —————
 
-युधिष्टिरः—
+**युधिष्टिरः—**
 
 के पूज्याः के नमस्कार्याः कथं वर्तेत केषु च ।  
 किमाचारः कीदृशेषु पितामह न रिष्यते॥ १
 
-भीष्मः—
+**भीष्मः—**
 
 ब्राह्मणानां परिभवः सादयेदपि देवताः।  
 ब्राह्मणेभ्यो नमस्कृत्वा युधिष्ठिर न रिष्यते॥ २
 
-सम्पूज्यास्ते नमस्कार्या वर्तेथास्तेषुपुत्रवत् ।  
-ते हि सर्वानिमाल्ँलोकान् धारयन्ति मनीषिणः॥ ३
+सम्पूज्यास्ते नमस्कार्या वर्तेथास्तेषु पुत्रवत् ।  
+ते हि सर्वानिमाल्ँ लोकान् धारयन्ति मनीषिणः॥ ३
 
 ब्राह्मणास्सर्वलोकानां महान्तो धर्मसेतवः ।  
 धनत्यागाभिरामाश्च वाक्सङ्गमधुराश्च ये॥ ४
@@ -18893,18 +18959,18 @@ The Presidency College,
 पन्थानस्स्वर्गनेतारो यज्ञवाहास्सनातनाः।  
 पितृपैतामहीं गुर्वीम् उद्वहन्ति धुरं सदा॥ ८
 
-धुरि ये नावसीदन्ति विषमे सिद्धयो[^703] यथा ।  
+धुरि ये नावसीदन्ति विषमे सिद्धयो[^823] यथा ।  
 पितृदेवातिथिमुखा हव्यकव्याग्रभोजिनः॥ ९
 
-[^703]: "1. क-घ—सिद्धया इव; ख – ये सिद्धया इव"
+[^823]: # "1. क-घ—सिद्धया इव; ख – ये सिद्धया इव"
 
 भोजनादेव यैर्लोकास् त्रायन्ते महतो भयात् ।  
 दीपस्सर्वस्य लोकस्य चक्षुश्चक्षुष्मतां तथा॥ १०
 
-सर्व शीलादि[^704]निधयो निपुणास्सूक्ष्मदर्शिनः ।  
+सर्व शीलादि[^824]निधयो निपुणास्सूक्ष्मदर्शिनः ।  
 गतिज्ञास्सर्वभूतानाम् अध्यात्मगतयस्स्मृताः॥ ११
 
-[^704]: "2. क-घ—शिल्पा"
+[^824]: # "2. क-घ—शिल्पा"
 
 आदिमध्यावसानानां ज्ञातारश्छिन्नसंशयाः।  
 परावरविशेषज्ञा गन्तारः परमां गतिम्॥ १२
@@ -18916,7 +18982,7 @@ The Presidency College,
 तुल्यं येषां दुकूलं च शाणक्षौमजिनानि च॥ १४
 
 तिष्ठेयुश्चाप्यभुञ्जाना बहूनि दिवसान्यपि ।  
-शोषयेयुश्चगात्राणि स्वाध्यायैस्संयतेन्द्रियाः॥ १५
+शोषयेयुश्च गात्राणि स्वाध्यायैस्संयतेन्द्रियाः॥ १५
 
 अदैवं दैवतं कुर्युर् भस्म कुर्युश्च ते जगत् ।  
 लोकानन्यान् सृजेयुश्च लोकपालांश्च कोपिताः॥ १६
@@ -18927,7 +18993,7 @@ The Presidency College,
 देवानामपि ये देवाः कारणं कारणस्य च ।  
 प्रमाणस्य प्रमाणं च तस्मान्नाभिभवेद्बुधः॥ १८
 
-तेषां वृद्धाश्च बालाश्चसर्वे सन्मार्गदर्शिनः ।  
+तेषां वृद्धाश्च बालाश्च सर्वे सन्मार्गदर्शिनः ।  
 तपोविद्याविशेषात्तु मानयन्ति परस्परम्॥ १९
 
 अविद्वान् ब्राह्मणो देये पात्रमावपनं महत् ।  
@@ -18941,9 +19007,9 @@ The Presidency College,
 एवं यद्यप्यनिष्टेषु वर्तते सर्वकर्मसु ।  
 सर्वथा ब्राह्मणो मान्यो दैवतं विद्धि तत् परम्॥ २२॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकचत्वारिंशदधिकशततमोऽध्यायः ॥ १४१ ॥  
-॥ ८९ ॥आनुशासनिकपर्वणि एकचत्वारिंशदधिकशततमोऽध्यायः ॥१४१॥  
+॥ ८९ ॥ आनुशासनिकपर्वणि एकचत्वारिंशदधिकशततमोऽध्यायः ॥१४१॥  
           \[ अस्मिन्नध्याये २२॥ श्लोकाः \]
 
 —————
@@ -18956,12 +19022,12 @@ The Presidency College,
 
 —————
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 कां त्वं ब्राह्मणपूजायां व्युष्टिं दृष्ट्वा जनाधिप ।  
 कं वा धर्मोदयं मत्वा तानर्चसि महामते॥ १
 
-भीष्मः—
+**भीष्मः—**
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
 पवनस्य च संवादम् अर्जुनस्य च भारत॥ २
@@ -18969,13 +19035,13 @@ The Presidency College,
 सहस्रभुजभृच्छ्रीमान् कार्तवीर्योऽभवत् प्रभुः।  
 अस्य लोकस्य सर्वस्य माहिष्मत्यां महाबलः॥ ३
 
-स च रत्नाकरवतींसप्तद्वीपां ससागराम् ।  
+स च रत्नाकरवतीं सप्तद्वीपां ससागराम् ।  
 शशास पृथिवीं सर्वां हैहयस्सत्यविक्रमः॥ ४
 
-स्वं वित्तं येन दत्तं तु दत्तात्रेयाय कर्मणे[^705]।  
+स्वं वित्तं येन दत्तं तु दत्तात्रेयाय कर्मणे[^825]।  
 क्षत्रधर्मं पुरस्कृत्य विनयं श्रुतमेव च॥ ५
 
-[^705]: "1. ख – कारणे"
+[^825]: # "1. ख – कारणे"
 
 आराधयामास च तं कृतवीर्यात्मजो मुनिम्।
 
@@ -18983,12 +19049,12 @@ The Presidency College,
 
 स वरैश्छन्दितस्तेन नृपो वचनमब्रवीत्॥ ६॥
 
-अर्जुनः—
+**अर्जुनः—**
 
 सहस्रबाहुता मेऽस्तु यूपमध्ये ग्रहो यथा॥ ७
 
 मम बाहुसहस्रं तु पश्यन्तां सैनिका रणे ।  
-विक्रमेण महीं कृत्स्नांजयेयं विपुलव्रतः॥ ८
+विक्रमेण महीं कृत्स्नां जयेयं विपुलव्रतः॥ ८
 
 तां च धर्मेण सम्प्राप्य पालयेयमतन्द्रितः ।  
 चतुर्थं तु वरं याचे त्वामहं द्विजसत्तम॥ ९
@@ -18996,7 +19062,7 @@ The Presidency College,
 तं ममानुग्रहकृते दातुमर्हस्यनिन्दित ।  
 अनुशासन्तु मां सन्तो मिथ्यावृत्तादपाश्रयम्॥ १०
 
-भीष्मः—
+**भीष्मः—**
 
 इत्युक्तस्स द्विजः प्राह तथाऽस्त्विति नराधिपम् ।  
 एवं भगवतस्तस्य वराद्दीपिततेजसः॥ ११
@@ -19007,12 +19073,12 @@ The Presidency College,
 धैर्यशौर्ययशश्शौचैर् विक्रमेणौजसाऽपि वा ।  
 तद्वाक्यान्तेऽन्तरिक्षे तं वागुवाचाशरीरिणी॥ १३
 
-अशरीरिणी वाक्—
+**अशरीरिणी वाक्—**
 
 न त्वं मूढ विजानीषे ब्राह्मणं क्षत्रियाद्वरम्।  
 सहितो ब्राह्मणेनेह क्षत्रियो रक्षति प्रजाः॥ १४
 
-अर्जुनः—
+**अर्जुनः—**
 
 कुर्यां भूतानि तुष्टोऽहं क्रुद्धो नाशं तथा नये।  
 कर्मणा मनसा वाचा न मत्तोऽस्ति वरो द्विजः॥ १५
@@ -19029,10 +19095,10 @@ The Presidency College,
 सर्वतस्त्वप्रधानांस्तान् भैक्षवृत्तीनह सदा ।  
 आत्मसम्भावितान् विप्रान् स्थापयाम्यात्मनो वशे॥ १९
 
-कथं[^706] यान्ति न चासत्यं गायन्त्या कन्यया दिवि।  
+कथं[^826] यान्ति न चासत्यं गायन्त्या कन्यया दिवि।  
 विजेष्याम्यवशान् सर्वान् ब्राह्मणांश्चर्मवाससः ॥ २०
 
-[^706]: "1. ख-घ --- कथितं ह्यनयाऽसत्यं"
+[^826]: # "1. ख-घ --- कथितं ह्यनयाऽसत्यं"
 
 न च मां ख्यापयेद्द्रष्टुं त्रिषु लोकेषु किञ्चन।
 
@@ -19042,43 +19108,43 @@ The Presidency College,
 
 नहि मे संयुगे कश्चित् सोढुमुत्सहते बलम्॥ २२
 
-भीष्मः—
+**भीष्मः—**
 
 अर्जुनस्य वचश्श्रुत्वा सन्त्रस्ताऽभून्निशाचरी।
 
 अथैनमन्तरिक्षस्थस् ततो वायुरभाषत॥ २३
 
-वायुः—
+**वायुः—**
 
 त्यजेमं कलुषं भावं ब्राह्मणेभ्यो नमस्कुरु ।  
 एतेषां कुर्वतः पापं राष्ट्रक्षोभो हि ते भवेत्॥ २४
 
 अथ च त्वां महीपाल शमयिष्यन्ति वै द्विजाः।  
-निरसिष्यन्ति ते राज्यं हतोत्साहं[^707] महाबलाः॥ २५
+निरसिष्यन्ति ते राज्यं हतोत्साहं[^827] महाबलाः॥ २५
 
-[^707]: "1. ख—महोत्साहा"
+[^827]: # "1. ख—महोत्साहा"
 
-भीष्मः—
+**भीष्मः—**
 
 तं राजा कस्त्वमित्याह ततस्तं प्राह मारुतः॥ २५॥
 
-वायुः—
+**वायुः—**
 
 वायुर्वै देवदूतोऽस्मि हितं त्वां प्रब्रवीम्यहम्॥ २६
 
-अर्जुनः—
+**अर्जुनः—**
 
 अहो त्वयाऽद्य विप्रेषु भक्तिरागः प्रदर्शितः ।  
-यादृशं पृथिवीभूतं तादृशा[^708] बृन्दवद्द्विजाः॥ २७
+यादृशं पृथिवीभूतं तादृशा[^828] बृन्दवद्द्विजाः॥ २७
 
-[^708]: "2. ख—तादृशं ब्रूहि वै द्विजम्"
+[^828]: # "2. ख—तादृशं ब्रूहि वै द्विजम्"
 
-वायो र्हि[^709] सदृशं किञ्चिद् ब्रूहि त्वं ब्राह्मणोत्तमम् ।  
+वायो र्हि[^829] सदृशं किञ्चिद् ब्रूहि त्वं ब्राह्मणोत्तमम् ।  
 अपां वा सदृशं ब्रूहि सूर्यस्य नभसोऽपि वा॥ २८
 
-[^709]: "3. क—स्त्वस ; ख-घ—त्वसदृशं"
+[^829]: # "3. क—स्त्वस ; ख-घ—त्वसदृशं"
 
-इति श्रीमहाभारते शतसहस्रिकायांसंहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि द्विचत्वारिंशदधिकशततमोऽध्यायः ॥ १४२ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि द्विचत्वारिंशदधिकशततमोऽध्यायः ॥ १४२ ॥  
           \[ अस्मिन्नध्याये २८ श्लोकाः \]
@@ -19091,9 +19157,9 @@ The Presidency College,
 
  कार्तवीर्यार्जुनं प्रति वायुना ब्राह्मणमहिमप्रशंसके स्ववाक्ये प्रामाण्यनिश्चयाय दृष्टान्ततयाऽङ्गिरःप्रभृतिब्राह्मणचरित्र-विशेषप्रतिपादनम् ॥
 
-—————
+**—————**
 
-वायुः—
+**वायुः—**
 
 शृणु मूढ गुणान् कांश्चिद् ब्राह्मणानां महात्मनाम् ।  
 ये त्वया कीर्तिता राजंस् तेभ्योऽथ ब्राह्मणो वरः॥ १
@@ -19104,14 +19170,14 @@ The Presidency College,
 अक्षया ब्राह्मणा राजन् दिवि चेह च नित्यदा।  
 अपिबत् तेजसा ह्यापस् स्वयमेवाङ्गिराः पुरा॥ ३
 
-स ताः पिबन् क्षीरमिव नातृप्यत[^710] महातपाः।  
-अपूरय[^711]न्महौघेन महीं सर्वां च पार्थिव॥ ४
+स ताः पिबन् क्षीरमिव नातृप्यत[^830] महातपाः।  
+अपूरय[^831]न्महौघेन महीं सर्वां च पार्थिव॥ ४
 
-[^710]: "1. ख-घ- नाकुप्यत"
+[^830]: # "1. ख-घ- नाकुप्यत"
 
-[^711]: "2. घ - आपूरयन"
+[^831]: # "2. घ - आपूरयन"
 
-तस्मिन्नहं तु क्रुद्धे वै जगत् त्यक्त्वाततो भयात्।  
+तस्मिन्नहं तु क्रुद्धे वै जगत् त्यक्त्वा ततो भयात्।  
 व्यतिष्ठमग्निहोत्रं वै चिरमङ्गिरसो भयात्॥ ५
 
 तथा शप्तश्च भगवान् गौतमेन पुरन्दरः।  
@@ -19126,10 +19192,10 @@ The Presidency College,
 महतश्चूर्णितान् पश्य यैर्हि चूर्णो महोदधिः ।  
 सुवर्णचारिणा नित्यम् अभिशप्तो द्विजातिना॥ ९
 
-सम्मतत्वं[^712] द्विजातिभ्यश् श्रेष्ठं विद्धि नराधिप ।  
-गर्भस्थान्ब्राह्मणान् नित्यम् नमस्यति किल प्रभुः॥ १०
+सम्मतत्वं[^832] द्विजातिभ्यश् श्रेष्ठं विद्धि नराधिप ।  
+गर्भस्थान् ब्राह्मणान् नित्यं नमस्यति किल प्रभुः॥ १०
 
-[^712]: "1. ख—संनुत"
+[^832]: # "1. ख—सन्नुत"
 
 दण्डकानां महद्राज्यं ब्राह्मणेन विनाशितम् ।  
 तालजङ्घं महाक्षत्रम् और्वेणैकेन नाशितम्॥ ११
@@ -19157,31 +19223,31 @@ The Presidency College,
 
 नास्त्यन्तमस्ति तु ब्रह्मा स राजन् लोकभावनः॥ १८॥
 
-भीष्मः—
+**भीष्मः—**
 
 इत्युक्तस्स तदा तूष्णीम् अभूद्वायुस्तमब्रवीत्॥ १९
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि त्रिचत्वारिंशदधिकशततमोऽध्यायः ॥ १४३ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि त्रिचत्वारिंशदधिकशततमोऽध्यायः ॥ १४३  
           \[ अस्मिन्नध्याये १९ श्लोकाः \]
 
-————
+**————**
 
 **॥ चतुश्चत्वारिंशदधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706410726Screenshot2023-11-27151930.png"/>
 
- वायुना हैहयं प्रति काश्यपचरित्रकथनम् ॥ १॥ तथा उचथ्योपाख्यानकथानारम्भः॥२ ॥सोमेन भद्राभिधायाः स्वक-न्याया उचथ्याय भार्यात्वेन प्रदानम् ॥ ३ ॥ पूर्वमेव तां कामितवता वरुणेन विजने तस्या अपहरणम्॥ ४ ॥ नारदात्त-च्छ्रुतवतोचथ्येन कोपात्समुद्रे शोषिते भयाद्वरुणेनोचथ्याय पुनर्भद्राप्रत्यर्पणम् ॥ ५ ॥
+ वायुना हैहयं प्रति काश्यपचरित्रकथनम् ॥ १॥ तथा उचथ्योपाख्यानकथानारम्भः॥ २ ॥ सोमेन भद्राभिधायाः स्वक-न्याया उचथ्याय भार्यात्वेन प्रदानम् ॥ ३ ॥ पूर्वमेव तां कामितवता वरुणेन विजने तस्या अपहरणम्॥ ४ ॥ नारदात्त-च्छ्रुतवतोचथ्येन कोपात्समुद्रे शोषिते भयाद्वरुणेनोचथ्याय पुनर्भद्राप्रत्यर्पणम् ॥ ५ ॥
 
-———
+**———**
 
-वायुः—
+**वायुः—**
 
-इमां भूमिं[^713] ब्राह्मणेभ्यो दित्सन् वै दक्षिणां पुरा ।  
+इमां भूमिं[^833] ब्राह्मणेभ्यो दित्सन् वै दक्षिणां पुरा ।  
 अङ्गो नाम नृपो राजंस् ततश्चिन्तां मही ययौ॥ १
 
-[^713]: "1. क-घ -- महीं"
+[^833]: # "1. क-घ -- महीं"
 
 धरणीं सर्वभूतानाम् अयं प्राप्य वरो नृषु ।  
 कथमिच्छति मां दातुं द्विजेभ्यो ब्रह्मणस्सुताम्॥ २
@@ -19189,10 +19255,10 @@ The Presidency College,
 सा हि त्यक्त्वा गमिष्यामि भूमित्वं ब्रह्मणः पदम् ।  
 अयं सराष्ट्रो नृपतिर् मा भूदिति ततोऽगमत्॥ ३
 
-ततस्तां काश्यपो दृष्ट्वा व्रजन्तीं[^714] पृथिवीं तदा ।  
-प्रविवेश महींसद्यो युक्तात्मा सुसमाहितः॥ ४
+ततस्तां काश्यपो दृष्ट्वा व्रजन्तीं[^834] पृथिवीं तदा ।  
+प्रविवेश महीं सद्यो युक्तात्मा सुसमाहितः॥ ४
 
-[^714]: "2. ख – त्यजन्तीं"
+[^834]: # "2. ख – त्यजन्तीं"
 
 ऋद्धा सा सर्वतो जज्ञे तृणौपधिसमन्विता ।  
 धर्मोत्तरा नष्टभया भूमिरासीत्ततो नृप॥ ५
@@ -19203,24 +19269,24 @@ The Presidency College,
 अथागम्य तदा राजन् नमस्कृत्याथ काश्यपम् ।  
 पृथिवी काश्यपी जज्ञे सुता तस्य महात्मनः॥ ७
 
-एषराजन्नीदृशो वै ब्राह्मणः काश्यपोऽभवत् ।  
+एष राजन्नीदृशो वै ब्राह्मणः काश्यपोऽभवत् ।  
 अन्यं प्रब्रूहि वाऽपि त्वं काश्यपात् क्षत्रियं वरम्॥ ८
 
-भीष्मः—
+**भीष्मः—**
 
 तूष्णीं बभूव नृपतिः पवनस्त्वब्रवीद्वचः॥ ८॥
 
-वायुः—
+**वायुः—**
 
 शृणु राजन्नुचथ्यस्य जातस्याङ्गिरसः कुले॥ ९
 
 भद्रा सोमस्य दुहिता रूपेण परमा मता ।  
 यस्यास्तुल्यं पतिं सोम उचथ्यं तममन्यत॥ १०
 
-सा च[^715] तीव्रं तपस्तेपे महाभागा यशस्विनी ।  
+सा च[^835] तीव्रं तपस्तेपे महाभागा यशस्विनी ।  
 उचध्यं तु महाभागं तत्कृते वरयत्तदा॥ ११
 
-[^715]: "1. अ -- अर्धचतुष्टयं नास्ति"
+[^835]: # "1. अ -- अर्धचतुष्टयं नास्ति"
 
 तत आहूय चोचध्यं ददामीति यशस्विनीम् ।  
 भार्यार्थे स तु जग्राह विधिवद्भूरिदक्षिणः॥ १२
@@ -19231,7 +19297,7 @@ The Presidency College,
 जलेश्वरस्तु हृत्वा ताम् आनयत् स्वपुरं प्रति ।  
 परमाद्भुतसङ्काशं षट्सहस्रशतह्रदम्॥ १४
 
-नहि रम्यतरं किश्चित् तस्मादन्यत् पुरोत्तमम् ।
+न हि रम्यतरं किश्चित् तस्मादन्यत् पुरोत्तमम् ।
 
 प्रासादैरप्सरोभिश्च दिव्यैः काम्यैश्च शोभितम्॥ १५
 
@@ -19247,25 +19313,25 @@ The Presidency College,
 सोमेन दत्ता मे भार्या त्वया चापहृताऽद्य वै॥ १८॥
 
 इत्युक्तो वचनात्तस्य नारदेन जलेश्वरः ।  
-मुञ्चभार्यामुचथ्यस्येत्यथ तं वरुणोऽब्रवीत्॥ १९॥
+मुञ्च भार्यामुचथ्यस्येत्यथ तं वरुणोऽब्रवीत्॥ १९॥
 
-वरुणः—
+**वरुणः—**
 
-ममैषासुप्रिया भीरुर् नैतामुत्स्रष्टुमुत्सहे॥ २०
+ममैषा सुप्रिया भीरुर् नैतामुत्स्रष्टुमुत्सहे॥ २०
 
-वायुः—
+**वायुः—**
 
 इत्युक्तो वरुणेनाथ नारदः प्राप्य वै मुनिम्।  
 उचथ्यमब्रवीद्वाक्यं नातिहृष्टमना इव॥ २१
 
-नारदः—
+**नारदः—**
 
 गले गृहीत्वा क्षिप्तोऽस्मि वरुणेन महामुने ।  
-न प्रायच्छद्धि[^716] ते भार्यां यत्ते कार्यं कुरुष्व तत्॥ २२
+न प्रायच्छद्धि[^836] ते भार्यां यत्ते कार्यं कुरुष्व तत्॥ २२
 
-[^716]: "1. घ – न प्रयच्छति"
+[^836]: # "1. घ – न प्रयच्छति"
 
-वायुः—
+**वायुः—**
 
 नारदस्य वचश्श्रुत्वा क्रुद्धः प्राज्वलदङ्गिराः ।  
 अपिबत्तेजसा वारि विष्टभ्य सुमहातपाः॥ २३
@@ -19275,21 +19341,21 @@ The Presidency College,
 
 ततः क्रुद्धोऽब्रवीद्भूमिम् उचथ्यो ब्राह्मणोत्तमः॥ २४॥
 
-उचथ्यः—
+**उचथ्यः—**
 
 दर्शयस्व बिलं भद्रे षट्सहस्रशतह्रदम्॥ २५
 
-वायुः—
+**वायुः—**
 
 ततस्तदिरिणं जातं समुद्रस्यापसर्पतः ।  
 तस्माद्देशान्नदीं चैव प्रोवाचाथ द्विजोत्तमः॥ २६
 
-उचथ्यः—
+**उचथ्यः—**
 
 अदृश्या गच्छ भीरु त्वं सरस्वति मरुं प्रति ।  
 अपुण्यभूषो भवतु देशस्त्यक्तस्त्वया शुभे॥ २७
 
-वायुः—
+**वायुः—**
 
 ततश्चूर्णीकृते देशे भद्रामादाय वारिपः ।  
 अददाच्छरणं गच्छन् भार्यामाङ्गिरसाय वै॥ २८
@@ -19301,24 +19367,24 @@ The Presidency College,
 
 उचथ्यस्सुमहातेजा यत्तच्छृणु नराधिप॥ ३०
 
-उचथ्यः—
+**उचथ्यः—**
 
 मयैषा तपसा प्राप्ता क्रोशतस्ते जलाधिप ॥ ३०॥
 
-वायुः—
+**वायुः—**
 
-इत्युक्त्वा[^717] तामुपादाय स्वमेव भवनं ययौ॥ ३१  
+इत्युक्त्वा[^837] तामुपादाय स्वमेव भवनं ययौ॥ ३१  
 एष राजन्नीदृशो वै उचथ्य ऋषिसत्तमः ।  
 ब्रवीम्यन्यं ब्रूहि वा त्वम् उचथ्यात् क्षत्रियं वरम्॥ ३२
 
-[^717]: "1. क-ख-घ -- तमुक्त्वा"
+[^837]: # "1. क-ख-घ -- तमुक्त्वा"
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चतुश्चत्वारिंशदधिकशततमोऽध्यायः ॥ १४४ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि चतुश्चत्वारिंशदधिकशततमोऽध्यायः ॥ १४४ ॥  
-           \[ अस्मिन्नध्याये ३२ श्लोकाः \]
+           \[ अस्मिन्नध्याये ३२ श्लोकाः \]**
 
-—————
+**—————**
 
 **॥ पञ्चचत्वारिंशदधिकशततमोऽध्यायः॥**
 
@@ -19326,11 +19392,11 @@ The Presidency College,
 
   वायुना हैहयार्जुनं प्रति स्वतेजसा दैत्यदाहनरूपागस्त्यवसिष्टचरित्रकीर्तनम्॥
 
-भीष्मः—
+**भीष्मः—**
 
 इत्युक्तस्स तदा तूष्णीम् अभूद्वायुस्तमब्रवीत्॥
 
-वायुः—
+**वायुः—**
 
 शृणु राजन्नगस्त्यस्य माहात्म्यं ब्राह्मणस्य ह॥ १  
 असुरैर्निर्जिता देवा निरुत्साहाश्च ते कृताः ।
@@ -19346,20 +19412,20 @@ The Presidency College,
 अभिवाद्य च तं देवा दृष्ट्वा च यशसा वृतम् ।  
 इदमूचुर्महात्मानं वाक्यं काले नराधिप॥ ५
 
-देवाः—
+**देवाः—**
 
 दानवैर्युधि भग्नाश्च तथैश्वर्याच्च भ्रंशिताः ।  
 तस्मान्नोऽस्मात्तीव्रभयात् त्राहि त्वं मुनिपुङ्गव॥ ६
 
-वायुः—
+**वायुः—**
 
 इत्युक्तस्स तदा देवैर् अगस्त्यः कुपितोऽभवत् ।  
 प्रजज्वाल च तेजस्वी कालाग्निरिव सङ्क्षये॥ ७
 
-तेन दीप्ताग्नि[^718]जालेन निर्दग्धा दानवास्तदा ।  
+तेन दीप्ताग्नि[^838]जालेन निर्दग्धा दानवास्तदा ।  
 अन्तरिक्षान्महाराज न्यपतन्त सहस्रशः॥ ८
 
-[^718]: "1. क-घ -- दीप्तांशु"
+[^838]: # "1. क-घ -- दीप्तांशु"
 
 दह्यमानास्तु ते दैत्या अगस्त्यस्य च तेजसा ।  
 उभौ लोकौ परित्यज्य ययुः काष्ठां हि दक्षिणाम्॥ ९
@@ -19379,11 +19445,11 @@ The Presidency College,
 ईदृशश्चाप्यगस्त्यो हि कथितस्ते मयाऽनघ ।  
 ब्रवीम्यन्यं ब्रूहि वा त्वम् अगस्त्यात् क्षत्रियं वरम् ॥ १४
 
-भीष्मः—
+**भीष्मः—**
 
 इत्युक्तस्स तदा तूष्णीम् अभूद्वायुस्तमब्रवीत्॥ १४॥
 
-वायुः—
+**वायुः—**
 
 शृणु राजन् वसिष्ठस्य मुख्यं कर्म यशस्विनः॥ १५
 
@@ -19392,45 +19458,45 @@ The Presidency College,
 
 वसिष्ठं मनसा ज्ञात्वा गत्वा तत्त्वस्य गोचरम्॥ १६॥
 
-यजमानांस्तु तान् दृष्ट्वाव्यग्रान् दीक्षानुकर्शितान्।  
+यजमानांस्तु तान् दृष्ट्वा व्यग्रान् दीक्षानुकर्शितान्।  
 हन्तुमिच्छन्ति शैलाभा बलिनो नाम दानवाः॥ १७॥
 
 अदूरात्तु ततस्तेषां ब्रह्मदत्तवरं सरः ।  
 हता हता वै ते तत्र जीवन्त्याप्लुत्य दानवाः॥ १८॥
 
-ते प्रगृह्य महाघोरापर्वतान् परिघान् द्रुमान्।  
+ते प्रगृह्य महाघोरा पर्वतान् परिघान् द्रुमान्।  
 व्यक्षोभयन्त सलिलम् उत्थितं शतयोजनम्॥ १९
 
-अभ्यद्रवंश्च[^719] देवांस्ते सहस्राणि दशैव हि ।  
+अभ्यद्रवंश्च[^839] देवांस्ते सहस्राणि दशैव हि ।  
 ततस्तैरर्दिता देवा वसिष्ठं शरणं ययुः॥ २०॥
 
-[^719]: "1. क-घ—अर्धचतुष्टयं नास्ति"
+[^839]: # "1. क-घ—अर्धचतुष्टयं नास्ति"
 
 ततोऽभयं ददौ तेभ्यो वसिष्ठो भगवानृषिः॥ २१
 
 जनांस्तान् दुःखितान् दृष्ट्वा आनृशंस्यपरो मुनिः ।  
 अयत्नेनादहत् सर्वाञ् ज्वलता स्वेन तेजसा॥ २२
 
-कैलासं प्रस्थितां चापि नदींगङ्गां महातपाः।  
+कैलासं प्रस्थितां चापि नदीं गङ्गां महातपाः।  
 अनयत्तत् सरो दिव्यं तया भिन्नं च तत् सरः॥ २३
 
-सरो भिन्नं तया नद्या सरयूस्सा[^720] ततोऽभवत् ।  
+सरो भिन्नं तया नद्या सरयूस्सा[^840] ततोऽभवत् ।  
 हतास्तु बलिनो यत्र स देशो बलिनोऽभवत्॥ २४
 
-[^720]: "2. क-घ—नामतोऽभवत्"
+[^840]: # "2. क-घ—नामतोऽभवत्"
 
 एवं सेन्द्रा वसिष्ठेन रक्षितास्त्रिदिवौकसः ।  
-ब्रह्मदत्तवराश्चैव हतादैत्या महात्मना॥ २५
+ब्रह्मदत्तवराश्चैव हता दैत्या महात्मना॥ २५
 
 एतत् कर्म वसिष्ठस्य कथितं ते मयाऽनघ ।  
 ब्रवीम्यन्यं ब्रूहि वा त्वं वसिष्ठात् क्षत्रियं वरम्॥ २६
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चचत्वारिंशदधिकशततमोऽध्यायः ॥ १४५ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि पञ्चचत्वारिंशदधिकशततमोऽध्यायः ॥ १४५ ॥  
-        \[ अस्मिन्नध्याये २६ श्लोकाः \]
+        \[ अस्मिन्नध्याये २६ श्लोकाः \]**
 
-  ———
+** ———**
 
 **॥ षट्चत्वारिंशदधिकशततमोऽध्यायः॥**
 
@@ -19438,15 +19504,13 @@ The Presidency College,
 
  वायुना हैहयार्जुनं प्रति देवासुरयुद्धे राहुणा चन्द्रसूर्यपराभवनान्धकारप्राप्तौ देवानां प्रार्थनया चन्द्रीभूय तमोनिरसन-रूपात्रिमहिमोक्तिः॥ १ ॥ तथा सवज्रेन्द्रहस्तस्तम्भनेनाश्विनोः सोमपानदापनरूपच्यवनमहिमोक्तिः ॥ २ ॥
 
-—————
+**—————**
 
-भीष्मः
-
-—
+**भीष्मः—**
 
 इत्युक्तस्त्वर्जुनस्तूष्णीम् अभूद्वायुस्तमब्रवीत्॥
 
-वायुः—
+**वायुः—**
 
 शृणु मे हैहयश्रेष्ठ कर्मात्रेस्सुमहात्मनः॥ १
 
@@ -19459,29 +19523,29 @@ The Presidency College,
 असुरैर्युध्यमानास्ते क्षीणप्राणा दिवौकसः ।  
 अपश्यन्त तपस्यन्तम् अत्रिं विप्रं महावने॥ ४
 
-अथैनम[^721]ब्रुवन् देवाश् शान्तक्रोधं जितेन्द्रियम्॥ ४॥
+अथैनम[^841]ब्रुवन् देवाश् शान्तक्रोधं जितेन्द्रियम्॥ ४॥
 
-[^721]: "1. अ-क-घ---अर्धद्वयं नास्ति"
+[^841]: # "1. अ-क-घ---अर्धद्वयं नास्ति"
 
-देवाः—
+**देवाः—**
 
 असुरैररिभिर्वध्यौ चन्द्रादित्याविमावुभौ॥ ५
 
 वयं हन्यामहे चापि शत्रुभिस्तमसा वृते \।  
 नाभ्यगच्छाम शान्तिं च भयात्त्रायस्व नः प्रभो॥ ६
 
-वायुः—
+**वायुः—**
 
 कथं रक्षामि भवतस् तेऽब्रुवंश्चन्द्रमा भव ।  
 एवमुक्तस्तदाऽत्रिस्स तमोनुदभवच्छशी॥ ७
 
 अपश्यत् सौम्यभावं च सूर्यस्यैव प्रदर्शनम्॥ ७॥
 
-दृष्ट्वा नातिप्रभंसोमं तथा सूर्यं च पार्थिव ।  
+दृष्ट्वा नातिप्रभं सोमं तथा सूर्यं च पार्थिव ।  
 प्रकाशमकरोदत्रिस् तपसा स्वेन संवृतः॥ ८॥
 
 जगद्धि तिमिरान्धं यत् प्रदीप्तमकरोत्तदा ।  
-व्यजयद्दस्युसङ्घांश्च देवतार्येस्वतेजसा॥ ९॥
+व्यजयद्दस्युसङ्घांश्च देवतार्ये स्वतेजसा॥ ९॥
 
 अत्रिणा दह्यमानांस्तान् दृष्ट्वा देवा महाऽसुरान् ।  
 पराक्रमैस्तेऽपि तदा व्यनिघ्नन्तात्रिरक्षिताः॥ १०॥
@@ -19494,13 +19558,13 @@ The Presidency College,
 फलभक्षेण राजर्षे पश्य कर्मात्रिणा कृतम् ।  
 तस्यापि विस्तरेणोक्तं कर्मात्रेस्सुमहात्मनः॥ १३
 
-ब्रवीम्यन्यंब्रूहि वा त्वम् अत्रितः क्षत्रियं वरम् ॥ १३॥
+ब्रवीम्यन्यं ब्रूहि वा त्वम् अत्रितः क्षत्रियं वरम् ॥ १३॥
 
-भीष्मः—
+**भीष्मः—**
 
 इत्युक्तस्त्वर्जुनस्तूष्णीम् अभूद्वायुस्तमब्रवीत्॥ १४
 
-वायुः—
+**वायुः—**
 
 शृणु राजन् महत् कर्म च्यवनस्य महात्मनः॥ १४॥
 
@@ -19515,17 +19579,17 @@ The Presidency College,
 अश्विभ्यां सह नेच्छामि पातुं सोमं महाव्रत ।  
 पिबन्त्वन्ये यथाकामं नाहं पातुमिहोत्सहे॥ १७॥
 
-च्यवनः—
+**च्यवनः—**
 
 न चेत् करिष्यसि वचो मयोक्तं बलसूदन।  
 मया प्रमथितस्सद्यस् सोमं पास्यति वै मखे॥ १८॥
 
-वायुः—
+**वायुः—**
 
-ततः कर्म समारब्धं हिताय[^722] सहसाऽश्विनोः।  
+ततः कर्म समारब्धं हिताय[^842] सहसाऽश्विनोः।  
 च्यवनेन ततो मन्त्रैर् अभिभूतास्सुरास्तदा॥ १९॥
 
-[^722]: "1. घ—इतश्चत्वारः पादा न सन्ति"
+[^842]: # "1. घ—इतश्चत्वारः पादा न सन्ति"
 
 ततः कर्म समारब्धं दृष्ट्वेन्द्रः क्रोधमूर्च्छितः ।  
 उद्यम्य विपुलं शैलं च्यवनं समुपाद्रवत्॥ २०॥
@@ -19533,7 +19597,7 @@ The Presidency College,
 तथा वज्रेण भगवान् अमर्षाकुललोचनः॥ २१
 
 तमापतन्तं दृष्ट्वैव च्यवनस्तपसाऽन्वितः ।  
-अद्भिस्सिक्त्वा स्तम्भयति सवज्रंसहपर्वतम्॥ २२
+अद्भिस्सिक्त्वा स्तम्भयति सवज्रं सहपर्वतम्॥ २२
 
 अथेन्द्रस्य महाघोरं सोऽसृजच्छत्रुमेव हि ।  
 मदं नामाहुतिमयं व्यादितास्यं महामुनिः॥ २३
@@ -19551,7 +19615,7 @@ The Presidency College,
 
 अश्विभ्यां सह सोमं च पिबामो विगतज्वराः॥ २७
 
-स तु तं प्राणमच्छक्रश्च्यवनश्र चकार तत् ।  
+स तु तं प्राणमच्छक्रश् च्यवनश्र चकार तत् ।  
 वचनं कृतवन्तौ तावश्विनौ सोमपायिनौ॥ २८
 
 तदा प्रत्याहरत् कर्म मदं च व्यभजन्मुनिः ।  
@@ -19563,12 +19627,12 @@ The Presidency College,
 एतत् ते च्यवनस्यापि कर्म राजन् प्रकीर्तितम् ।  
 ब्रवीम्यन्यं ब्रूहि वा त्वं ब्राह्मणात् क्षत्रियं वरम्॥ ३१
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि षट्चत्वारिंशदधिकशततमोऽध्यायः ॥ १४६ ॥  
-    ॥ ८९ ॥ आनुशासनिकपर्वणि षट्चत्वारिंशदधिकशततमोऽध्यायः ॥१४६॥  
-  \[अस्मिन्नध्याये ३१ श्लोकाः \]
+    ॥ ८९ ॥ आनुशासनिकपर्वणि षट्चत्वारिंशदधिकशततमोऽध्यायः ॥१४६॥    
+\[अस्मिन्नध्याये ३१ श्लोकाः \]**
 
-—————
+**—————**
 
 **॥ सप्तचत्वारिंशदधिकशततमोऽध्यायः॥**
 
@@ -19576,13 +19640,13 @@ The Presidency College,
 
  वायुना हैहयं प्रति देवानां प्रार्थनया अग्निसर्जनेन कपहननरूपब्राह्मणमहिमोक्तिः॥
 
-—————
+**—————**
 
-भीष्मः—
+**भीष्मः—**
 
 तूष्णीमासीदर्जुनस्तु पवनस्त्वब्रवीद्वचः॥
 
-वायुः—
+**वायुः—**
 
 शृणु मे ब्राह्मणेष्वेव मुख्यं कर्म जनाधिप॥ १
 
@@ -19592,33 +19656,34 @@ The Presidency College,
 उभौ लोकौ हृतौ मत्वा ते देवा दुःखिता भवन् ।  
 शोकार्ताश्च महात्मानं ब्रह्माणं शरणं ययुः॥ ३  
 
-देवाः—
+
+**देवाः—**
 
 मदस्यास्यविषक्तानाम् अस्माकं लोकपूजित।  
-च्यवनेन हृता भूमिः कपैश्चापि[^723] दिवं प्रभो॥ ४
+च्यवनेन हृता भूमिः कपैश्चापि[^843] दिवं प्रभो॥ ४
 
-[^723]: "1. घ -- कूपै"
+[^843]: # "1. घ -- कूपै"
 
-ब्रह्मा—
+**ब्रह्मा—**
 
 गच्छध्वं शरणं विप्रान् आशु सेन्द्रा दिवौकसः।  
 प्रसाद्य तानुभौ लोकाववाप्स्यथ यथापुरम्॥ ५
 
-वायुः—
+**वायुः—**
 
 ते ययुश्शरणं विप्रांस् त ऊचुः काञ्जयामहे।  
-इत्युक्तास्ते द्विजान प्रोचुर् मदकृत्याकु[^724]लीकृताः॥ ६
+इत्युक्तास्ते द्विजान प्रोचुर् मदकृत्याकु[^844]लीकृताः॥ ६
 
-[^724]: "2. क-घ -- शक्त्याऽऽकु"
+[^844]: # "2. क-घ -- शक्त्याऽऽकु"
 
 भूलोकस्य विजेतारो वयमित्यब्रुवन् द्विजाः॥ ६॥
 
-देवाः—
+**देवाः—**
 
-सर्वे वेदविदः प्रोक्तास्[^725] सर्वे क्रतुयाजिनः ।  
+सर्वे वेदविदः प्रोक्तास्[^845] सर्वे क्रतुयाजिनः ।  
 सर्वे सत्यव्रताश्चैव सर्वे तुल्या महर्षिभिः॥ ७॥
 
-[^725]: "3. क-ख -- प्राज्ञाः"
+[^845]: # "3. क-ख -- प्राज्ञाः"
 
 श्रीश्चैव रमते तेषु धारयन्ति श्रियं च ते ।  
 वृथा दारान् न गच्छन्ति वृथा मांसं न भुञ्जते॥ ८
@@ -19629,18 +19694,19 @@ The Presidency College,
 उपेत्य शनकैर्दारान् सेवन्ति न रजस्वलाम् ।  
 सुगतिं चैव गच्छन्ति तथैव शुभकर्मिणः॥ १०॥  
 
+
 अभुक्तवत्सु नाश्नन्ति गर्भिणीवत्सकादिषु ।  
 पूर्वाह्णेषु न दीव्यन्ति दिवा चैव न शेरते॥ ११॥
 
 एतैश्चान्यैश्च बहुभिर् गुणैर्युक्तान् कथं कपान् ।  
 विजेष्यथ निवर्तध्वं निवृत्तानां शुभं हि वः॥ १२॥
 
-ब्राह्मणाः—
+**ब्राह्मणाः—**
 
 कपान् वयं विजेष्यामो ये देवास्ते वयं स्मृताः ।  
 तस्माद्वध्याः कपाऽस्माकं प्रयोज्यास्मासु यास्यथ ॥ १३॥
 
-वायुः—
+**वायुः—**
 
 तेऽथ गत्वा कपान् प्राहुर् न वो विप्राः प्रियङ्कराः ।  
 महोदग्राः कपा वेगाद् विप्रान् सर्वे समाद्रवन् ॥ १४॥
@@ -19653,17 +19719,18 @@ The Presidency College,
 
 प्रशशंसुर्द्विजान् देवा ब्रह्माणं च यशस्विनम्॥ १७
 
-तेषां[^726] तेजस्तथा वीर्यं देवानां ववृधे ततः ।  
+तेषां[^846] तेजस्तथा वीर्यं देवानां ववृधे ततः ।  
 अवाप्नुवंश्चामरत्वं त्रिषु लोकेषु पूजितम्॥ १८  
 
-[^726]: "1. घ - अस्मिन्नध्याये इत आरभ्य षट् श्लोकाः अनन्तराध्याये २६॥ तम- पर्यन्त श्लोकाश्च नोपलभ्यन्ते"
 
-भीष्मः—
+[^846]: # "1. घ - अस्मिन्नध्याये इत आरभ्य षट् श्लोकाः अनन्तराध्याये २६॥ तम- पर्यन्त श्लोकाश्च नोपलभ्यन्ते"
+
+**भीष्मः—**
 
 इत्युक्तवचनं वायुम अर्जुनः प्रत्यभाषत ।  
 प्रतिपूज्य महाभागो यत्तच्छृणु नराधिप॥ १९
 
-अर्जुनः—
+**अर्जुनः—**
 
 जीवाम्यहं ब्राह्मणार्थे सर्वथा सततं प्रभो ।  
 ब्रह्मणे ब्राह्मणेभ्यश्च प्रणमामि च नित्यशः॥ २०
@@ -19674,18 +19741,19 @@ The Presidency College,
 अहो ब्राह्मणकर्माणि मयि मारुत तत्त्वतः।  
 त्वया प्रोक्तानि कार्त्स्न्येन श्रुतानि प्रयतेन हि॥ २२
 
-वायुः—
+**वायुः—**
 
 ब्राह्मणान् क्षत्रधर्मेण पालयस्वेन्द्रियाणि च ।  
 विप्रेभ्यस्ते भयं घोरं तत्तु कालाद्भविष्यति॥ २३
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि सप्तचत्वारिंशदधिकशततमोऽध्यायः ॥ १४७ ॥  
-        ॥ ८९ ॥आनुशासनिकपर्वणि सप्तचत्वारिंशदधिकशततमोऽध्यायः ॥१४७      
+        ॥ ८९ ॥ आनुशासनिकपर्वणि सप्तचत्वारिंशदधिकशततमोऽध्यायः ॥१४७ 
+    **
 
-\[अस्मिन्नध्याये २३ श्लोकाः \] 
+**\[अस्मिन्नध्याये २३ श्लोकाः \] **
 
-————
+**————**
 
 **॥ अष्टचत्वारिंशदधिकशततमोऽध्यायः ॥**
 
@@ -19693,19 +19761,19 @@ The Presidency College,
 
  युधिष्ठिरेण ब्राह्मणमहिमानं पृष्टेन भीष्मेण तं प्रति स्वस्य कुण्ठितेन्द्रियादिशक्तिकतया मुमूर्षानिवेदनपूर्वकं कृष्णात्तदवगमनचोदना॥ १ ॥ तथा कृष्णस्य श्रीनारायणात्मकत्वनिवेदनेन तन्महिमानुवर्णनम् ॥ २ ॥
 
-—————
+**—————**
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 ब्राह्मणानर्चसे राजन् सततं संशितव्रतान् ।  
-कं तु धर्मोदयं दृष्ट्वा तानर्चसि जनाधिप[^727]॥ १
+कं तु धर्मोदयं दृष्ट्वा तानर्चसि जनाधिप[^847]॥ १
 
-[^727]: "1. क-ख --- नराधिप"
+[^847]: # "1. क-ख --- नराधिप"
 
 कां वा ब्राह्मणपूजायां व्युष्टिं दृष्ट्वा महाव्रत ।  
 तानर्चसि महाबाहो सर्वमेतद्वदस्व मे॥ २
 
-भीष्मः—
+**भीष्मः—**
 
 एष ते केशवस्सर्वम् आख्यास्यति महामतिः ।  
 व्युष्टिं ब्राह्मणपूजायां दृष्ट्वा पुष्टिं महाव्रत॥ ३
@@ -19713,9 +19781,10 @@ The Presidency College,
 बलं श्रोत्रे वाङ्मनश्चक्षुषी च  
 ज्ञानं तथा न विशुद्धं ममाद्य।  
 देहन्यासो नातिचिरान्मतो मे  
-स[^728] चातितूर्णं सविताऽद्य याति ॥ ४  
+स[^848] चातितूर्णं सविताऽद्य याति ॥ ४  
 
-[^728]: "2. अ-घ -- न चातिकण्ठं"
+
+[^848]: # "2. अ-घ -- न चातिकण्ठं"
 
 उक्ता धर्मा ये पुराणे महान्तो
 
@@ -19723,15 +19792,15 @@ The Presidency College,
 ये शूद्राणां धर्ममुपासते ते  
 तानेव कृष्णादुपशिक्षस्व पार्थ॥ ५
 
-अहं ह्येनं वेद्मितत्त्वेन कृष्णं  
+अहं ह्येनं वेद्मि तत्त्वेन कृष्णं  
 योऽयं हि यच्चास्य बलं पुराणम् ।  
 अमोघात्मा केशवः कौरवेन्द्र  
 स ते धर्मं वक्ष्यति संशयेषु॥ ६
 
-कृष्णःपृथ्वीमसृजद्वै बभूव  
+कृष्णः पृथ्वीमसृजद्वै बभूव  
 वराहोऽयं भीमवपुः पुराणः ।  
 अस्माद्वायुश्चान्तरिक्षं दिवं च  
-दिशश्चतस्रःप्रदिशश्चतस्रः॥ ७
+दिशश्चतस्रः प्रदिशश्चतस्रः॥ ७
 
 सृष्टिस्तथैवेयमनुप्रसूता  
 स निर्ममे लोकमिमं पुराणम्॥ ७॥
@@ -19743,10 +19812,10 @@ The Presidency College,
 
 कृते युगे धर्म आसीत् समग्रस्  
 त्रेताकाले यज्ञमनुप्रपन्नः  
-बलं चासीद्द्वापरे पार्थ कृत्स्नं[^729]  
+बलं चासीद्द्वापरे पार्थ कृत्स्नं[^849]  
 कलावधर्मः क्षितिमाजगाम॥ ९॥
 
-[^729]: "1. क-ख—कृष्णः"
+[^849]: # "1. क-ख—कृष्णः"
 
 स एव पूर्वं निजघान दैत्यान्  
 स एव देवश्च बभूव सम्राट्।  
@@ -19759,31 +19828,33 @@ The Presidency College,
 परांश्च लोकानपरांश्च पाति॥ ११॥
 
 त्याज्यांस्त्यक्त्वा चासुराणां वधेन  
-कार्याकार्यं[^730] कारणात्माभिपाती।  
+कार्याकार्यं[^850] कारणात्माभिपाती।  
 कृतं करिष्यन् क्रियते च सर्वं  
 देवो राहुस्सोममिवापिबद्वै॥ १२॥
 
-[^730]: "2. ख— यं कारणं चाभिपाति। क्रियाः करिष्यन् क्रियते कर्म सर्वं देवा"
+[^850]: # "2. ख— यं कारणं चाभिपाति। क्रियाः करिष्यन् क्रियते कर्म सर्वं देवा"
 
 शतक्रतुं जित्य स विश्वकर्मा  
 स विश्वसृक् पार्थ स विश्वरूपः।  
+
+
 
 स विश्वधृग्विश्वभुग्विश्वजिच्च  
 स शूलधृक् छोणितभुक्करालः॥ १३॥
 
 तं कर्मभिर्विदितं वै स्तुवन्ति  
 रथन्तरैस्सामगाश्च स्तुवन्ति ।  
-तं[^731] गन्धर्वाश्चाप्सरसश्च नित्यम्  
+तं[^851] गन्धर्वाश्चाप्सरसश्च नित्यम्  
 उपतिष्ठन्ते विधिना पापशान्त्यै॥ १४॥
 
-[^731]: "1. अ-क-घ-- पञ्च पादा न सन्ति"
+[^851]: # "1. अ-क-घ -- पञ्च पादा न सन्ति"
 
 तं राक्षसाश्चापि नमन्ति सर्वे  
 स राजन्यानां विजिगीषुरेकः ।  
 तमध्वरे शंसितारस्स्तुवन्ति  
-तं[^732] ब्राह्मणा ब्रह्ममन्त्रैरस्स्तुवन्ति॥ १५॥
+तं[^852] ब्राह्मणा ब्रह्ममन्त्रैरस्स्तुवन्ति॥ १५॥
 
-[^732]: "2. अ--अयं पादो नास्ति"
+[^852]: # "2. अ--अयं पादो नास्ति"
 
 तस्मै हविरध्वर्यवः कल्पयन्ते  
 स पौराणीं ब्रह्मगुहां प्रविष्टः।  
@@ -19797,7 +19868,7 @@ The Presidency College,
 
 सर्वं वशे तिष्ठति शाश्वतस्य  
 स कुम्भरेतास्ससृजे वै सुराणाम्।  
-यत्रोत्पन्नमृषिमाहुर्वसिष्टम्  
+यत्रोत्पन्नमृषिमाहुर्वसिष्टं  
 स मातरिश्वा विभुरश्ववाजी॥ १८॥
 
 स रश्मिमान् सविता चादिदेवस्  
@@ -19805,7 +19876,7 @@ The Presidency College,
 तस्य कान्त्या विजितानीह त्रीणि  
 स देवानां मानुषाणां पितॄणाम्॥ १९॥
 
-तमेवाहुर्यज्ञविदः पुराणम्  
+तमेवाहुर्यज्ञविदः पुराणं  
 स एव काले विभजन्नुदेति ।  
 तस्योत्तरं दक्षिणं चायने द्वे  
 तस्यैवोर्ध्वं तिर्यगधश्चरन्ति॥ २०॥
@@ -19829,28 +19900,28 @@ The Presidency College,
 तदा यदा विश्वगतो महात्मा  
 तृप्तो विभुः खाण्डवे धूमकेतुः ।  
 स राक्षसानुरगांश्चाविभज्य  
-सर्वत्रगस्सर्वमग्नौजुहोति॥ २४॥
+सर्वत्रगस्सर्वमग्नौ जुहोति॥ २४॥
 
 स एवायं श्वेतहयान् प्रयच्छन्  
-स एवाश्वैरथ धर्माश्चकार ।  
-त्रिबन्धुरस्तस्य रथस्त्रिचक्रस्[^733]  
+स एवाश्वै रथ धर्माश्चकार ।  
+त्रिबन्धुरस्तस्य रथस्त्रिचक्रस्[^853]  
 त्रिवृच्छिराश्चतुरश्रश्च तस्य॥ २५॥
 
-[^733]: "1. ख - स्त्रिविक्रम"
+[^853]: # "1. ख - स्त्रिविक्रम"
 
 विधायैवं विदधत् पञ्चनाभिस्  
 स निर्ममे गां दिवमन्तरिक्षम् ।  
 हृषीकेशोऽसावतिदीप्ततेजास्  
 स लङ्घयन् वै सरितो जिघांसन्॥ २६॥
 
-स तान् प्रभञ्जन् प्रहर न्नजस्य[^734]  
+स तान् प्रभञ्जन् प्रहर न्नजस्य[^854]  
 महेन्द्रादीन पालयते महाध्वरे ।  
 तमृक्सहस्रैः पुरुषं पुराणं  
-सुपर्णमादौ[^735] चयने स्तुवन्ति॥ २७॥
+सुपर्णमादौ[^855] चयने स्तुवन्ति॥ २७॥
 
-[^734]: "1. ख—न्निरस्यघ—न्नशस्य"
+[^854]: # "1. ख—न्निरस्य घ—न्नशस्य"
 
-[^735]: "2. ख – पादचतुष्टयं नास्ति"
+[^855]: # "2. ख – पादचतुष्टयं नास्ति"
 
 दुर्वासा वै तेन नान्येन शक्यो  
 गृहे राजन् वासयितुं महौजाः ।  
@@ -19865,17 +19936,17 @@ The Presidency College,
 ज्योतींषि शुक्लानि च यानि लोके  
 त्रयो लोका लोकपालास्त्रयी च ।  
 त्रयोऽग्नयश्चाहुतयश्च पञ्च  
-सर्वे वेदा[^736] देवकीपुत्र एव॥ ३०॥
+सर्वे वेदा[^856] देवकीपुत्र एव॥ ३०॥
 
-[^736]: "3. ख-घ—देवा"
+[^856]: # "3. ख-घ—देवा"
 
 संवत्सरस्स ऋतुस्सोऽर्धमासस्  
 सोऽहोरात्रस्सोऽयनं सैव मासाः ।
 
 काष्ठा मुहूर्ताश्च कलाः क्षणाश्च  
-विष्वक्से[^737]नं सर्वमेतत् प्रतीहि॥ ३१॥
+विष्वक्से[^857]नं सर्वमेतत् प्रतीहि॥ ३१॥
 
-[^737]: "1. ख – विष्वक्सेनात् सर्वमेतत् प्रसुतम्"
+[^857]: # "1. ख – विष्वक्सेनात् सर्वमेतत् प्रसुतम्"
 
 चन्द्रादित्यौ ग्रहनक्षत्रतारास्  
 सर्वाणि दर्शान्यथ पौर्णमासाः।  
@@ -19897,12 +19968,12 @@ The Presidency College,
 विधिश्च यञ्चाश्रयते विधेयं  
 धर्मे च वेदे च बले च सर्वम्॥ ३५॥
 
-चराचरं तं[^738] केशवं त्वं प्रतीहि  
+चराचरं तं[^858] केशवं त्वं प्रतीहि  
 वशे स्थितं तस्य समस्तयोनेः ।  
 ज्योतिर्भूत्वाऽसौ प्रथमं पुरस्तात्  
 प्रकाशयन् प्रभया विश्वरूपः॥ ३६॥
 
-[^738]: "1. क-ख-घ---तं इतिपदं नास्ति"
+[^858]: # "1. क-ख-घ---तम् इतिपदं नास्ति"
 
 अपस्सृष्ट्वा सोमभूतात्मयोनिः  
 पुराऽकरोत् सर्वमेतद्धि विश्वम्॥ ३७
@@ -19910,9 +19981,9 @@ The Presidency College,
 ऋतून् मासान् विविधं कार्यजातं  
 विद्युत्सङ्घैरापतन्तश्च मेघाः ।  
 सर्वं कृष्णात् स्थावरं जङ्गमं च  
-विश्वात्मा[^739]ऽसौ विष्णुरेतत् प्रतीहि॥ ३८
+विश्वात्मा[^859]ऽसौ विष्णुरेतत् प्रतीहि॥ ३८
 
-[^739]: "2. क -- षट्पादा न सन्ति"
+[^859]: # "2. क -- षट्पादा न सन्ति"
 
 विश्वावासं निर्गुणं वासुदेवं  
 सङ्कर्षणं जीवभूतं वदन्ति ।  
@@ -19920,9 +19991,9 @@ The Presidency College,
 आज्ञापयत्यात्मयोनिर्महात्मा॥ ३९
 
 स पञ्चधा पञ्चगुणोपपन्नं  
-पश्चादिदं[^740] विश्वमेतत् सिसृक्षुः ।
+पश्चादिदं[^860] विश्वमेतत् सिसृक्षुः ।
 
-[^740]: "3. क---विश्वादिदं;ख-विश्वाख्यातो घ---विश्वादयो"
+[^860]: # "3. क---विश्वादिदं; ख-विश्वाख्यातो घ---विश्वादयो"
 
 ततश्चकारावनिं मारुतं च  
 खं ज्योतिरापश्च तथैव चार्थान्॥ ४०
@@ -19934,48 +20005,48 @@ The Presidency College,
 
 तेन विश्वं कृतमेतद्धि राजन्  
 स वै द्विजानां पतिरध्यात्मयोनिः।  
-स[^741] वै देवानसुरान् मानुषांश्च  
-स[^742] वै लोकानथ पितॄन् प्रजाश्च॥ ४२
+स[^861] वै देवानसुरान् मानुषांश्च  
+स[^862] वै लोकानथ पितॄन् प्रजाश्च॥ ४२
 
-[^741]: "1. ख-घ–ततो दे"
+[^861]: # "1. ख-घ–ततो दे"
 
-[^742]: "2. ख–लोकानृषीनथ"
+[^862]: # "2. ख–लोकानृषीनथ"
 
 समासेन विविधान् पाति लोकान्  
-सदा[^743] भूतान् भूतपतिस्सिसृक्षुः॥ ४२॥
+सदा[^863] भूतान् भूतपतिस्सिसृक्षुः॥ ४२॥
 
-[^743]: "3. ख–सदा हर्ता भूतपतिः"
+[^863]: # "3. ख–सदा हर्ता भूतपतिः"
 
 शुभाशुभं स्थावरं जङ्गमं च  
-विश्वाख्यातात् सर्वमे[^744]तत् प्रतीहि ।  
+विश्वाख्यातात् सर्वमे[^864]तत् प्रतीहि ।  
 यद्वर्तते यच्च भविष्यतीह  
 सर्वं चैतत् केशवं त्वं प्रतीहि॥ ४३॥
 
-[^744]: "4. क-घ–सत्य"
+[^864]: # "4. क-घ–सत्य"
 
 मृत्युश्चैव प्राणिनामन्तकाले  
-साक्षात् कृष्णश्शाश्वतो देहभाजः[^745] ।  
+साक्षात् कृष्णश्शाश्वतो देहभाजः[^865] ।  
 भूतं च यच्चेह न विद्म किञ्चिद्  
 विष्वक्सेनं सर्वमेतत् प्रतीहि॥ ४४॥
 
-[^745]: "1. ख–देहसाक्षी"
+[^865]: # "1. ख–देहसाक्षी"
 
-धर्मं[^746] प्रशस्तं लोकेषु पुण्यं यच्च शुभाशुभम् ।  
+धर्मं[^866] प्रशस्तं लोकेषु पुण्यं यच्च शुभाशुभम् ।  
 सर्वं तत् केशवोऽचिन्त्यो विपरीतमतो भवेत् ॥ ४५॥
 
-[^746]: "2. क-ख-घ – यत् प्रशस्तं हि"
+[^866]: # "2. क-ख-घ – यत् प्रशस्तं हि"
 
 तादृशः केशवो देवो भूयो नारायणः परः ।  
 आदिरन्तश्च मध्यं च देशतः कालतो हरिः॥ ४६॥
 
 जगतां तस्थुषां चैव भूतानां प्रभवाप्ययः॥ ४७
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि अष्टचत्वारिंशदधिकशततमोऽध्यायः ॥ १४८ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि अष्टचत्वारिंशदधिकशततमोऽध्यायः ॥१४८॥  
          \[ अस्मिन्नध्याये ४७ श्लोकाः \]
 
-————
+**————**
 
 **॥ एकोनपञ्चाशदधिकशततमोऽध्यायः ॥**
 
@@ -19983,26 +20054,26 @@ The Presidency College,
 
  कृष्णेन युधिष्ठिरं प्रति ब्राह्मणानां महत्तरत्वे दृष्टान्ततया स्वेन प्रद्युम्नं प्रत्युक्तदुर्वासश्चरित्रप्रतिपादनम् ॥
 
-—————
+**—————**
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
-पितामह[^721]वचश्श्रुत्वा राजंस्ते प्रपितामहः ।  
+पितामह[^841]वचश्श्रुत्वा राजंस्ते प्रपितामहः ।  
 प्रणम्य पुण्डरीकाक्षम् इदं वचनमब्रवीत्॥ १
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 ब्रूहि ब्राह्मणपूजायां व्युष्टिं च मधुसूदन ।  
 वेत्ता त्वमस्य चार्थस्य विदित्वाऽऽह पितामहः॥ २
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 शृणुष्वावहितो राजन् द्विजानां पूजनं सदा ।  
 यथातत्त्वेन वदतो गुणान् मे कुरुसत्तम॥ ३
 
 प्रद्युम्नः परिपप्रच्छ ब्राह्मणैः परिकोपितः॥ ३॥
 
-प्रद्युम्नः—
+**प्रद्युम्नः—**
 
 किं फलं ब्राह्मणेष्वस्ति पूजायां मधुसूदन॥ ४
 
@@ -20011,7 +20082,7 @@ The Presidency College,
 
 एतद् ब्रूहि पितस्सत्यं सुमहान् संशयोऽत्र मे॥ ५॥
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 इत्युक्तवचनस्तेन प्रद्युम्नेन तदा त्वहम् ।  
 प्रत्यब्रवं महाराज यत्तच्छृणु समाहितः॥ ६॥
@@ -20023,7 +20094,7 @@ The Presidency College,
 
 एते हि सोमराजान ईश्वरास्सुखदुःखयोः॥ ८॥
 
-अस्मिल्ँलोके रौक्मिणेय परे व्यष्टिं च सर्वदा ।  
+अस्मिल्ँ लोके रौक्मिणेय परे व्यष्टिं च सर्वदा ।  
 ब्राह्मणप्रभवं सौख्यं न मेऽत्रास्ति विचारणा॥ ९॥
 
 ब्राह्मणप्रभवं वीर्यम् आयुः कीर्तिर्यशो बलम् ।  
@@ -20032,7 +20103,7 @@ The Presidency College,
 तान् कथं नाद्रियेयं वै ईश्वरोऽस्मीति पुत्रक।  
 मा ते मन्युर्महाबाहो भवत्वत्र द्विजान् प्रति॥ ११॥
 
-ब्राह्मणो हि महद्भूतम् अस्मिल्ँलोके परत्र च ।  
+ब्राह्मणो हि महद्भूतम् अस्मिल्ँ लोके परत्र च ।  
 भस्मीकुर्याज्जगदिदं क्रुद्धः प्रत्यक्षमेव नः॥ १२॥
 
 हन्युस्तेऽपि सृजेयुश्च लोकान् लोकेश्वरांस्तथा ।  
@@ -20045,7 +20116,7 @@ The Presidency College,
 दीर्घेभ्यश्च मनुष्येभ्यः प्रमाणादधिकं विदुः॥ १५
 
 सर्वान् सञ्चरते लोकान् ये दिव्या ये च मानवाः।  
-इमा गाथा गायमानश्चत्वरेषुसभासु च॥ १६
+इमा गाथा गायमानश् चत्वरेषु सभासु च॥ १६
 
 दुर्वाससं वासयित्वा ब्राह्मणं स्वेच्छया गृहे ।  
 परिभाषाश्च मे श्रुत्वा को हि दद्यात् प्रतिश्रयम्॥ १७
@@ -20111,7 +20182,7 @@ The Presidency College,
 
 ततः प्रतीतस्तेजस्वी दुर्वासा मामुवाच ह॥ ३६॥
 
-दुर्वासाः—
+**दुर्वासाः—**
 
 जितः क्रोधस्त्वया कृष्ण प्रकृत्यैव महाभुज॥ ३७
 
@@ -20126,9 +20197,9 @@ The Presidency College,
 यावच्च लोके पुण्येषु तावत् कीर्तिर्भविष्यति ।  
 त्रिषु लोकेषु तावच्च विशिष्टं फलमाप्स्यसि॥ ४०॥
 
-सुप्रिय[^748]स्सर्वलोकस्य भविष्यसि जनार्दन॥ ४१
+सुप्रिय[^868]स्सर्वलोकस्य भविष्यसि जनार्दन॥ ४१
 
-[^748]: "1. घ–श्रीप्रियः"
+[^868]: # "1. घ–श्रीप्रियः"
 
 पायसेन प्रलिप्तेषु गात्रेषु मधुसूदन।  
 तव मृत्युभयं नास्ति यावदिच्छसि चाच्युत॥ ४२
@@ -20136,7 +20207,7 @@ The Presidency College,
 न तु पादतले लिप्तस् तस्मात्ते मृत्युरत्र वै ।  
 नैतन्मे प्रियमित्येव स मां प्रीतोऽब्रवीत्तदा॥ ४३
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 इत्युक्तोऽहं शरीरं मे अपश्यं श्रीसमन्वितम्॥ ४३॥
 
@@ -20152,11 +20223,11 @@ The Presidency College,
 तव मातरमित्युक्त्वा ततो मां पुनरब्रवीत् ।  
 प्रस्थितश्च महातेजा दुर्वासाः प्रज्वलन्निव॥ ४७॥
 
-दुर्वासाः—
+**दुर्वासाः—**
 
 एषैव ते बुद्धिरस्तु ब्राह्मणान् प्रति केशव॥ ४८
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 इत्युक्त्वा स तदा विप्रस् तत्रैवान्तरधीयत ॥ ४८॥
 
@@ -20166,7 +20237,7 @@ The Presidency College,
 एतद्व्रतमहं कृत्वा मात्रा ते सह पुत्रक ।  
 ततः परमहृष्टात्मा प्राविशं गृहमेव च॥ ५०॥
 
-प्रविष्टश्च गृहे सर्वं अथ पश्यामि तन्नवम् ।  
+प्रविष्टश्च गृहे सर्वम् अथ पश्यामि तन्नवम् ।  
 यद्भिन्नं यच्च वै दग्धं तेन विप्रेण पुत्रक॥ ५१॥
 
 ततोऽहं विस्मयं प्राप्तस् सर्वं दृष्ट्वा नवं दृढम् ।  
@@ -20181,13 +20252,13 @@ The Presidency College,
 एवं व्युष्टिमहं प्राप्तो ब्राह्मणानां प्रसादजाम्।  
 यच्च मामाह भीष्मस्तु तत् सत्यं भरतर्षभ॥ ५५
 
-इति श्रीमहाभारते शतहस्रिकायां संहितायां वैयासिवयां  
+इति श्रीमहाभारते शतहस्रिकायां संहितायां वैयासिवयाम्  
 अनुशासनपर्वणि एकोनपञ्चाशदधिकशततमोऽध्यायः ॥ १४९ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि एकोनपञ्चाशदधिकशततमोऽध्यायः ॥    
 
-  \[ अस्मिन्नध्याये ५५ ॥ श्लोकाः\]
+  \[ अस्मिन्नध्याये ५५ ॥ श्लोकाः \]
 
-———
+**———**
 
 **॥ पञ्चाशदधिकशततमोऽध्यायः॥**
 
@@ -20195,9 +20266,9 @@ The Presidency College,
 
   कृष्णेन युधिष्टिरं प्रति दक्षाध्वरविध्वंसनस्त्रिपुरदहनादिरूपरुद्रचरिस्त्रपरिकीर्तनम् ॥
 
-—————
+**—————**
 
-युधिष्टिर :—
+**युधिष्टिर :—**
 
 दुर्वाससः प्रसादात्ते शङ्करांशस्य माधव।  
 अवाप्तमिह विज्ञानं तन्मे व्याख्यातुमर्हसि॥ १
@@ -20205,27 +20276,27 @@ The Presidency College,
 महाभाग्यं यच्च तस्य नामानि च महात्मनः ।  
 सर्वतो ज्ञातुमिच्छामि शर्वस्य वदतां वर॥ २
 
-श्रीभगवान् :—
+**श्रीभगवान् :—**
 
 हन्त ते कथयिष्यामि नमस्कृत्वा कपर्दिने ।  
 यदवाप्तं महाराज श्रेयो लोके वलं यशः ॥ ३
 
-प्रयतःप्रातरुत्थाय यस्त्वधीयेद्विशां पते ।  
+प्रयतः प्रातरुत्थाय यस्त्वधीयेद्विशां पते ।  
 प्राञ्जलिश्शतरुद्रीयं नास्य किञ्चन दुर्लभम्॥ ४
 
-शिवस्सर्वगतो रुद्रस् स्रष्टा यस्तं शृणुष्व मे।  
+शिवस्सर्वगतो रुद्रस् स्रष्टा यस्तं शृणुष्व मे ।  
 प्रजापतिस्तमसृजत् तपसोऽन्ते महातपाः॥ ५
 
 शङ्करस्त्वसृजत्तात प्रजास्स्थावरजङ्गमाः॥ ५॥
 
 नास्ति किञ्चित् परं भूतं महादेवाद्विशां पते ।  
-इह त्रिष्वपि लोकेषु भूतानां प्रभवो हि सः॥६॥
+इह त्रिष्वपि लोकेषु भूतानां प्रभवो हि सः॥ ६॥
 
-न चैवोत्सहते स्थातुं कश्चिदग्रेमहात्मनः ।  
+न चैवोत्सहते स्थातुं कश्चिदग्रे महात्मनः ।  
 न हि भूतं समं तेन त्रिषु लोकेषु विद्यते॥ ७॥
 
 गन्धेनापि हि सङ्ग्रामे तस्य क्रुद्धस्य शत्रवः ।  
-विसंज्ञा हतभूयिष्ठा वेपयन्ति पतन्ति च॥ ८॥
+विसञ्ज्ञा हतभूयिष्ठा वेपयन्ति पतन्ति च॥ ८॥
 
 घोरं हि निनदं तस्य पर्जन्यनिनदोपमम्।  
 श्रुत्वा विदीर्येद्धृदयं देवानामपि संयुगे॥ ९॥
@@ -20241,18 +20312,18 @@ The Presidency College,
 धनुषा बाणमुत्सृज्य सुघोरं विननाद च॥ १२॥
 
 न ते शर्म कुतश्शान्तिं विषादं लेभिरे सुराः ।  
-विद्रुता[^749]स्सह यज्ञेन कुपिते च महेश्वरे॥ १३॥
+विद्रुता[^869]स्सह यज्ञेन कुपिते च महेश्वरे॥ १३॥
 
-[^749]: "1. ख—अर्धत्रयं नास्ति"
+[^869]: # "1. ख—अर्धत्रयं नास्ति"
 
 तेन ज्यातलघोषेण सर्वे लोकास्समाकुलाः ।  
 बभूवुरवशाः पार्थ विषेदुश्च सुरासुराः॥ १४॥
 
-भूयश्चुक्षुभिरे चापश्चकम्पे च वसुन्धरा ।  
+भूयश्चुक्षुभिरे चापश् चकम्पे च वसुन्धरा ।  
 विदीर्णा गिरयश्चापि द्यौः पफालेव सर्वशः॥ १५॥
 
 अन्धेन तमसा लोकाः प्रावृता न चकाशिरे ।  
-प्रनष्टा ज्योतिषांभाश्चसह सूर्येण भारत॥ १६॥
+प्रनष्टा ज्योतिषां भाश्च सह सूर्येण भारत॥ १६॥
 
 भृशं भीतास्ततश्शान्तिं चक्रुस्स्वस्त्ययनानि च ।  
 ऋषयस्सर्वभूतानाम् आत्मनां च हितैषिणः॥ १७॥
@@ -20260,10 +20331,10 @@ The Presidency College,
 ततस्सोऽभ्यद्रवद्देवान् क्रुद्धो भीमपराक्रमः ।  
 भगस्य नयने क्रुद्धः प्रहारेण व्यशातयत्॥ १८॥
 
-पूषणं चाभिदुद्राव परेण[^750] वपुषाऽन्वितः ।  
+पूषणं चाभिदुद्राव परेण[^870] वपुषाऽन्वितः ।  
 पुरोडाशं भक्षयतो दशनांस्तु व्यशातयत्॥ १९॥
 
-[^750]: "1. ख---वरेण"
+[^870]: # "1. ख---वरेण"
 
 ततः प्रणेदुर्देवास्ते वेपमानाश्च शङ्करम् ।  
 पुनश्च सन्दधे रुद्रो दीप्तं सुनिशितं शरम्॥ २०॥
@@ -20288,20 +20359,20 @@ The Presidency College,
 
 तत ऊचुर्महात्मानो देवास्सर्वे समागताः॥ २७
 
-देवाः—
+**देवाः—**
 
 रुद्र रौद्राः करिष्यन्ति पशवः कर्म ते प्रजाः ।  
 जहि दैत्यान् सह पुरैर् लोकांस्त्रायस्व मानद॥ २८
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 स तथोक्तस्तथेत्युक्त्वा विष्णुं कृत्वा शरोत्तमम् ।  
-शल्यमाग्निंतथा कृत्वा पुङ्खंसोममपांपतिम्॥ २९
+शल्यमाग्निं तथा कृत्वा पुङ्खं सोममपाम्पतिम्॥ २९
 
 ओङ्कारं च धनुः कृत्वा ज्यां च सावित्रिमुत्तमाम् ।  
 वेदान् रथवरं कृत्वा विनियुज्य च सर्वशः॥ ३०
 
-त्रिपर्वणा त्रिशल्येन तेन तानि बिभेदसः॥ ३०॥
+त्रिपर्वणा त्रिशल्येन तेन तानि बिभेद सः॥ ३०॥
 
 शरेणादित्यवर्णेन कालाग्निसमतेजसा॥ ३१॥
 
@@ -20311,7 +20382,7 @@ The Presidency College,
 उमां जिज्ञासमानस्स कोऽयमित्यब्रवीद्धरः॥ ३२॥
 
 असूयतश्च शक्रस्य वज्रेण प्रहरिष्यतः ।  
-सवज्रंस्तम्भयामास तं बाहुं परिघोपमम्॥ ३३॥
+सवज्रं स्तम्भयामास तं बाहुं परिघोपमम्॥ ३३॥
 
 न सम्बुबुधिरे चैव देवास्तं भुवनेश्वरम् ।  
 सप्रजापतयस्सर्वे तस्मिन् मुमुहुरीश्वरे॥ ३४॥
@@ -20326,12 +20397,12 @@ The Presidency College,
 द्वारवत्यां मम गृहे चिरं कालमुवास ह॥ ३७॥
 
 विप्रकारान् प्रयुङ्क्ते स्म सुबली मम वेश्मनि ।  
-तांस्तथा मर्षयित्वाऽहं अक्षमस्तस्य दुस्सहान्॥ ३८॥
+तांस्तथा मर्षयित्वाऽहम् अक्षमस्तस्य दुस्सहान्॥ ३८॥
 
 स वै भूमिश्च वायुश्च सोऽश्विनौ स मरुत्पतिः ।  
-स[^751] चन्द्रमास्स चेशानस् स सूर्यो वरुणश्च सः ॥ ३९॥
+स[^871] चन्द्रमास्स चेशानस् स सूर्यो वरुणश्च सः ॥ ३९॥
 
-[^751]: "1. क-ख -घ—स च ब्रह्मा"
+[^871]: # "1. क-ख -घ—स च ब्रह्मा"
 
 स कालस्सोऽन्तको मृत्युस् स तमो रात्र्यहानि च ।  
 मासार्धमासा ऋतवस् सत्यं संवत्सरश्च सः॥ ४०॥
@@ -20340,15 +20411,15 @@ The Presidency College,
 नक्षत्राणि दिशश्चैव प्रदिशोऽथ ग्रहास्तथा॥ ४१॥
 
 विश्वमूर्तिरमेयात्मा भगवानमितद्युतिः ।  
-एकधा च द्विधा चैव बहुधा[^752] च स एव सः॥ ४२॥
+एकधा च द्विधा चैव बहुधा[^872] च स एव सः॥ ४२॥
 
-[^752]: "2. अ-क-घ -- अयं पादोऽनन्तरश्च न स्तः"
+[^872]: # "2. अ-क-घ -- अयं पादोऽनन्तरश्च न स्तः"
 
 शतधा सहस्रधा चैव तथा शतसहस्रशः।  
 ईदृशस्स महादेवो भूयश्च भगवानजः॥ ४३॥  
 न हि शक्या गुणा वक्तुम् अपि वर्षशतैरपि॥ ४४
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चाशदधिकशततमोऽध्यायः ॥ १५० ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि पञ्चाशदधिकशततमोऽध्यायः ॥ १५० ॥  
         \[ अस्मिन्नध्याये ४४ श्लोकाः \]
@@ -20361,16 +20432,16 @@ The Presidency College,
 
  कृष्णेन युधिष्ठिरं प्रति महेश्वरादिनामनिर्वचनपूर्वकं शिवमहिमोक्तिः॥
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 युधिष्ठिर महाबाहो महाभाग महामते ।  
-रुद्राय[^753] बहुरूपाय[^754] बहुनाम्ने निबोध मे॥ १
+रुद्राय[^873] बहुरूपाय[^874] बहुनाम्ने निबोध मे॥ १
 
-[^753]: "1. घ-भद्राय"
+[^873]: # "1. घ-भद्राय"
 
-[^754]: "2. ख--बहुरुद्राय"
+[^874]: # "2. ख--बहुरुद्राय"
 
-वदन्त्युग्रंमहादेवं तथा देवं महेश्वरम् ।  
+वदन्त्युग्रं महादेवं तथा देवं महेश्वरम् ।  
 एकाक्षं त्र्यम्बकं चैव विश्वरूपं शिवं तथा॥ २
 
 द्वे तनू तस्य देवस्य वेदज्ञा ब्राह्मणा विदुः ।
@@ -20384,9 +20455,9 @@ The Presidency College,
 ब्रह्मचर्यं चरत्येषा शिवा याऽस्य तनुस्तथा॥ ५
 
 याऽस्य घोरतरा मूर्तिर् जगत् संहरते तथा ।  
-ईश्वरत्वान्महत्त्वाच्च महेश्वर[^755] इति स्मृतः॥ ६
+ईश्वरत्वान्महत्त्वाच्च महेश्वर[^875] इति स्मृतः॥ ६
 
-[^755]: "1. अ-क—इतः षट् पादा न सन्ति"
+[^875]: # "1. अ-क—इतः षट् पादा न सन्ति"
 
 यन्निर्दहति यत्तीक्ष्णो यद्रुद्रो यत् प्रतापवान् ।  
 मांसशोणितमज्जादो यत् ततो रुद्र उच्यते॥ ७
@@ -20421,19 +20492,19 @@ The Presidency College,
 
 सुखं ददाति प्रीतात्मा भक्तानां भक्तवत्सलः॥ १६॥
 
-एष एव श्मशानेषुदेवो वसति निर्दहन् ।  
+एष एव श्मशानेषु देवो वसति निर्दहन् ।  
 रमन्ते तं जनास्तस्मिन् वीरस्थाननिषेविणम्॥ १७॥
 
-विषमस्थश्शरीरेषुस मृत्युः प्राणिनामिह ।  
+विषमस्थश्शरीरेषु स मृत्युः प्राणिनामिह ।  
 स च वायुश्शरीरेषु प्राणपालश्शरीरिणाम्॥ १८॥
 
 तस्य घोराणि रूपाणि दीप्तानि च शुभानि च ।  
 लोके यानि स्म पूज्यन्ते विप्रास्तानि विदुर्बुधाः ॥ १९॥
 
-नामधेयानि वेदेषु[^756] बहून्यस्य यथार्थतः ।  
+नामधेयानि वेदेषु[^876] बहून्यस्य यथार्थतः ।  
 निरुच्यन्ते बहुत्त्वाच्च विभुत्वात् कर्मभिस्तथा॥ २०॥
 
-[^756]: "1. अ-क-- देवेषु"
+[^876]: # "1. अ-क-- देवेषु"
 
 वेदे चास्य विदुर्विप्राश् शतरुद्रीयमुत्तमम् ।  
 व्यासेनोक्तं च यच्चास्य उपस्थानं महात्मनः॥ २१॥
@@ -20449,7 +20520,7 @@ The Presidency College,
 आयुरारोग्यमैश्वर्यं हितं कामांश्च पुष्कलान् ।  
 स ददाति मनुष्येभ्यस् सदा चाक्षिपते पुनः॥ २५
 
-शक्रादिषुहि देवेषु तस्य चैश्वर्यमुच्यते॥ २५॥
+शक्रादिषु हि देवेषु तस्य चैश्वर्यमुच्यते॥ २५॥
 
 स एव स्थापको नित्यं त्रैलोक्यस्य शुभाशुभम् ।  
 ऐश्वर्याच्चैव कामानाम् ईश्वरः पुनरुच्यते॥ २६॥
@@ -20459,7 +20530,7 @@ The Presidency College,
 
 यस्य देवस्य यद्वक्रं समुद्रे बडबामुखम्॥ २८
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि एकपञ्चाशदधिकशततमोऽध्यायः ॥ १५१ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि एकपञ्चाशदधिकशततमोऽध्यायः ॥ १५१ ॥  
            \[ अस्मिन्नध्याये २८ श्लोकाः \]
@@ -20470,23 +20541,23 @@ The Presidency College,
 
 <MISSING_FIG href="../books_images/U-IMG-1706449641Screenshot2023-11-27151930.png"/>
 
- भीष्मेण युधिष्टिरं प्रति धर्मंप्रमाणनिरूपणम्॥ १ ॥ धार्मिकाधार्मिकाणां स्वर्गनरकप्राप्तिप्रतिपादनम्॥ २ ॥ तथा साध्वसाधुलक्षणाभिधानपूर्वकं सामान्यतो नानाधर्मप्रतिपादनम् ॥ ३ ॥
+ भीष्मेण युधिष्टिरं प्रति धर्मम्प्रमाणनिरूपणम्॥ १ ॥ धार्मिकाधार्मिकाणां स्वर्गनरकप्राप्तिप्रतिपादनम्॥ २ ॥ तथा साध्वसाधुलक्षणाभिधानपूर्वकं सामान्यतो नानाधर्मप्रतिपादनम् ॥ ३ ॥
 
 —————
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 इत्युक्तवति तद्वाक्यं कृष्णे देवकिनन्दने ।  
 भीष्मं शान्तनवं भूयः पर्यपृच्छद्युधिष्ठिरः॥ १
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
-निर्णये तु महाबुद्धे सर्वधर्म भृतां[^757] वर ।  
+निर्णये तु महाबुद्धे सर्वधर्म भृतां[^877] वर ।  
 प्रत्यक्षमागमो वेति किं तयोः कारणं भवेत्॥ २
 
-[^757]: "1. अ-विदां"
+[^877]: # "1. अ-विदां"
 
-भीष्मः—
+**भीष्मः—**
 
 नास्त्यत्र संशयः कश्चिद् इति मे वर्तते मतिः ।  
 शृणु वक्ष्यामि ते प्राज्ञ सम्यक्त्वमनुगच्छति॥ ३
@@ -20511,12 +20582,12 @@ The Presidency College,
 तत्पारगमने राजन् हेत्वन्तगमने तथा ।  
 अग्राह्यमनुबन्धं च वचस्सम्परिवर्जयेत्॥ ९॥
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 प्रत्यक्षमथ धर्माश्च लोकाश्चागमपूर्वकाः ।  
 शिष्टाचाराश्च विविधा ब्रूहि तन्मे पितामह॥ १०॥
 
-भीष्मः—
+**भीष्मः—**
 
 धर्मस्य ध्रियमाणस्य बलवद्भिर्महात्मभिः।  
 संस्था यत्नैरपि कृता काले विपरिभिद्यते॥ ११॥
@@ -20524,24 +20595,24 @@ The Presidency College,
 अधर्मा धर्मरूपेण तृणैः कूपा इवावृताः ।  
 ततस्तैर्भिद्यते वृत्तं शृणु चैव युधिष्ठिर॥ १२॥
 
-अवृत्त्या[^758] ये च निन्दन्ति श्रुतत्यागपरायणाः ।
+अवृत्त्या[^878] ये च निन्दन्ति श्रुतत्यागपरायणाः ।
 
-[^758]: "1. अ—अधृत्या"
+[^878]: # "1. अ—अधृत्या"
 
 धर्मविद्वेषिणो मन्दा इत्युक्तस्तेषु संशयः॥ १३॥
 
 अतृप्यन्तस्तु साधूनां यावदागमबुद्धयः ।  
 परमित्येव सन्तुष्टास् तानुपारस्व च पृच्छ च॥ १४॥
 
-कामार्थौपृष्ठतः कृत्वा लोभमोहानुसारिणौ ।  
+कामार्थौ पृष्ठतः कृत्वा लोभमोहानुसारिणौ ।  
 धर्म इत्येव सम्बुध्वा तानुपास्स्व च पृच्छ च॥ १५॥
 
-येनैषांभिद्यते वृत्तं यज्ञस्वाध्यायकर्मभिः।  
+येनैषां भिद्यते वृत्तं यज्ञस्वाध्यायकर्मभिः।  
 मूलाचारस्तु साधूनां यज्ञस्वाध्यायवृत्ततः॥ १६॥
 
 आचारः कारणं चैव धर्मस्यैतत्त्रयं विदुः॥ १७
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 पुनरेव हि मे बुद्धिस् संशये परिमुह्यते ।  
 अपारे मज्जमानस्य परं तीरमपश्यतः॥ १८
@@ -20549,47 +20620,47 @@ The Presidency College,
 वेदः प्रत्यक्षमाचारः प्रमाणं तत्त्रयं यदि ।  
 पृथक्त्वं लभ्यते तेषां धर्मश्चैतत्त्रयं कथम्॥ १९
 
-भीष्मः—
+**भीष्मः—**
 
-धर्मस्य ह्रिय[^759]माणस्य बलवद्भिर्दुरात्मभिः।  
+धर्मस्य ह्रिय[^879]माणस्य बलवद्भिर्दुरात्मभिः।  
 यद्येवं मन्यसे राजंस् त्रिधा धर्मविचारणा॥ २०
 
-[^759]: "1. घ -- ध्रिय"
+[^879]: # "1. घ -- ध्रिय"
 
 एवमेव विजानीहि त्रिधा त्वस्य प्रदर्शनम्।  
 पृथक्त्वे चैव मे बुद्धिस् त्रयाणामपि वै तथा ॥ २१
 
 ब्राह्मणेषु तु वृत्तिर्या पितृपैतामहोचिता ।  
-तामन्वेहि महाबाहो धर्मस्यैते[^760] हि देशिकाः॥ २२
+तामन्वेहि महाबाहो धर्मस्यैते[^880] हि देशिकाः॥ २२
 
-[^760]: "1. क – स्वर्गस्यैते हि दर्शकाः; ख–देशि घ-दर्शिकाः"
+[^880]: # "1. क – स्वर्गस्यैते हि दर्शकाः; ख–देशि घ-दर्शिकाः"
 
 प्रमाणमप्रमाणं तु यः कुर्यादबुधो नरः ।  
-न स प्रमाणतामर्होविषादजननो हि सः॥ २३
+न स प्रमाणतामर्हो विषादजननो हि सः॥ २३
 
 ब्राह्मणानेव सेवस्व सत्कृत्य बहुमान्य च ।  
-एतेष्वेव[^761] त्विमे लोकाः कृत्स्ना इति निबोध तत्[^762] ॥ २४
+एतेष्वेव[^881] त्विमे लोकाः कृत्स्ना इति निबोध तत्[^882] ॥ २४
 
-[^761]: "2. ख – ये धर्ममभ्यसूयन्ते ये धर्मं पर्युपासते ।"
+[^881]: # "2. ख – ये धर्ममभ्यसूयन्ते ये धर्मं पर्युपासते ।"
 
-[^762]: "*सर्वेषु कोशेषु अवैवाध्यायसमाप्तिर्दृश्यते"
+[^882]: # "*सर्वेषु कोशेषु अवैवाध्यायसमाप्तिर्दृश्यते"
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 ये धर्ममभ्यसूयन्ते ये धर्म पर्युपासते ।  
 प्रब्रवीतु भवानेतत् क्व ते गच्छन्ति तादृशाः ॥
 
-भीष्मः—
+**भीष्मः—**
 
 राजसास्तामसाश्चैव समवस्थितचेतसः ।  
 नरकं प्रतिपद्यन्ते धर्मविद्वेषिणो नराः॥ २६
 
-ये[^763] तु धर्मं महाराज सततं पर्युपासते ।  
-धर्म[^764] एव रतिस्तेषाम् आचार्योपासनाद्भवेत्॥ २७
+ये[^883] तु धर्मं महाराज सततं पर्युपासते ।  
+धर्म[^884] एव रतिस्तेषाम् आचार्योपासनाद्भवेत्॥ २७
 
-[^763]: "3. क-ख-घ--इदमर्धं नास्ति"
+[^883]: # "3. क-ख-घ--इदमर्धं नास्ति"
 
-[^764]: "4. अ -- अर्धद्वयं नास्ति"
+[^884]: # "4. अ -- अर्धद्वयं नास्ति"
 
 देवलोकं प्रपद्यन्ते ये धर्म पर्युपासते॥ २७॥
 
@@ -20597,19 +20668,19 @@ The Presidency College,
 धर्मिणरसुखमेधन्ते लोभद्वेषविवर्जिताः॥ २८॥
 
 प्रथमं ब्रह्मणः पुत्रं धर्ममाहुर्मनीषिणः ।  
-धर्मिणःपर्युपासन्ते फलं पक्वमिवाशनम्॥ २९॥
+धर्मिणः पर्युपासन्ते फलं पक्वमिवाशनम्॥ २९॥
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 असाधोः कीदृशं शीलं साधोश्चैव तु कीदृशम् ।  
 ब्रवीतु मे भवानेतत् सन्तोऽसन्तश्च कीदृशाः॥ ३०॥
 
-भीष्मः—
+**भीष्मः—**
 
-दुराराधा[^765]श्च दुर्धर्षादुर्मुखाश्चाप्यसाधवः ।  
-साधवश्शीलसम्पन्नाश्शिष्टाचारस्य लक्षणम्॥ ३१॥
+दुराराधा[^885]श्च दुर्धर्षा दुर्मुखाश्चाप्यसाधवः ।  
+साधवश्शीलसम्पन्नाश् शिष्टाचारस्य लक्षणम्॥ ३१॥
 
-[^765]: "क-घ-अनाराधाश्च"
+[^885]: # "क-घ-अनाराधाश्च"
 
 राजमार्गे गवां मध्ये वनमध्ये च धार्मिकाः ।  
 नोपसेचन्ति राजेन्द्र सर्गं मूत्रपुरीषयोः॥ ३२॥
@@ -20623,13 +20694,15 @@ The Presidency College,
 वृद्धानां भारतप्तानां स्त्रीणां बालातुरस्य च ।  
 ब्राह्मणानां गवां राज्ञां पन्थानं ददते च ते॥ ३५॥
 
+
+
 अतिथीनां च सर्वेषां प्रेष्याणां स्वजनस्य च ।  
 सामान्यं भोजनं कुर्यात् स्वयं नाग्राशनं व्रजेत्॥ ३६
 
 न सत्यार्जवधर्मस्य तुल्यमन्यच्च विद्यते ।  
 बहुला नाम गौस्तेन गतिमग्र्यां गता किल॥ ३७॥
 
-मुनिशापाद्द्विजःकश्चिद् व्याघ्रतां समुपागतः ।  
+मुनिशापाद्द्विजः कश्चिद् व्याघ्रतां समुपागतः ।  
 बहुलाभक्षणचिर् आस्वाद्य शपथेन तु॥ ३८॥
 
 विमुच्य पीतवत्सां तां दृष्ट्वा स्मृत्वा पुरातनम् ।  
@@ -20658,7 +20731,7 @@ The Presidency College,
 कर्म वै सफलं लब्ध्वा गुरूणां प्रतिवेदयेत्॥ ४६॥
 
 गुरुणामासनं देयम् अभिवाद्याभिपूज्य च ।  
-गुरुमभ्यर्च्य वर्धन्ते आयुषायशसा श्रिया॥ ४७॥
+गुरुमभ्यर्च्य वर्धन्ते आयुषा यशसा श्रिया॥ ४७॥
 
 वृद्धान् नातिवदेज्जातु न च सम्प्रेषयेदपि ।  
 नासीनस्स्यात् स्थितेष्वेवम् आयुरस्य न रिष्यते ॥४८॥
@@ -20697,7 +20770,7 @@ The Presidency College,
 प्रायश्चित्तं कृतं पापं तथा सद्यः प्रणश्यति॥ ५९॥
 
 तस्मात् पापं न गूहेत गृहमानं विवर्धते ।  
-कृत्वा तु साधुष्वाख्याय धर्मैःप्रशमयन्त्युत॥ ६०॥
+कृत्वा तु साधुष्वाख्याय धर्मैः प्रशमयन्त्युत॥ ६०॥
 
 आशया सञ्चितं द्रव्यं स्वकाले नोपभुज्यते ।  
 अन्ये चैतत् प्रपद्यन्ते वियोगे तस्य देहिनः॥ ६१॥
@@ -20713,12 +20786,12 @@ The Presidency College,
 सर्वथैव न दम्भेन सेवेतामायया गुरून् ।  
 धनं निदध्यात् पात्रेषु परत्रार्थं समावृतम्॥ ६५
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि द्विपञ्चाशदधिकशततमोऽध्यायः ॥ १५२ ॥  
-॥ ८९ ॥आनुशासनिकपर्वणि द्विपञ्चाशदधिकशततमोऽध्यायः ॥ १५२ ॥  
-           \[ अस्मिन्नध्याये ६५ श्लोकाः \]
+॥ ८९ ॥ आनुशासनिकपर्वणि द्विपञ्चाशदधिकशततमोऽध्यायः ॥ १५२ ॥  
+           \[ अस्मिन्नध्याये ६५ श्लोकाः \]**
 
-————
+**————**
 
 **॥ त्रिपञ्चाशदधिकशततमोऽध्यायः॥**
 
@@ -20726,9 +20799,9 @@ The Presidency College,
 
  भीष्मेण युधिष्ठिरं प्रत्यन्वयव्यतिरेकाभ्यां सुकृतदुष्कृतयोः सदृष्टान्तप्रदर्शनं सुखदुःखकारणत्वोपपादनम्॥
 
-————
+**————**
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 नाभागधेयः प्राप्नोति धनं सुबलवानपि ।  
 भागधेयाविन्तस्त्वर्थान् कृशो बालोऽपि विन्दति॥ १
@@ -20748,7 +20821,7 @@ The Presidency College,
 धनहीनास्तु धर्मस्था दृश्यन्ते चापरे जनाः॥ ५॥
 
 अधीत्य नीतिं कस्मात्तु नीतियुक्तो न दृश्यते ।  
-अनभिज्ञश्च साचिव्यंगमितः केन हेतुना॥ ६॥
+अनभिज्ञश्च साचिव्यं गमितः केन हेतुना॥ ६॥
 
 विद्यायुक्तो ह्यविद्यश्च धनवान् दुर्मतिस्तथा ॥ ७
 
@@ -20761,7 +20834,7 @@ The Presidency College,
 नाप्राप्तकालो म्रियते विद्धश्शरशतैरपि ।  
 तृणाग्रेणापि संस्पृष्टः प्राप्तकालो न जीवति॥ १०
 
-भीष्मः—
+**भीष्मः—**
 
 ईहमानस्समारम्भान् यदि नासादयेद्धनम्।  
 उग्रं तपस्समारोहेन्न ह्यनुप्तं प्ररोहति॥ ११
@@ -20775,22 +20848,22 @@ The Presidency College,
 यदा प्रमाणप्रभवस् स्वभावश्च सुखासुखे ।  
 मशकक्रिमिकीटानां स्थिरो भव युधिष्ठिर॥ १४
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि त्रिपञ्चाशदधिकशततमोऽध्यायः ॥ १५३ ॥  
 ॥ ८९ ॥ आनुशासनिकपर्वणि त्रिपञ्चाशदधिकशततमोऽध्यायः ॥ १५३ ॥  
-            \[अस्मिन्नध्याये १४ श्लोकाः\]
+            \[अस्मिन्नध्याये १४ श्लोकाः\]**
 
-————
+**————**
 
-**॥चतुःपञ्चाशदधिकशततमोऽध्यायः ॥**
+**॥ चतुःपञ्चाशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706454055Screenshot2023-11-27151930.png"/>
 
- भीष्मेण युधिष्ठरं प्रति धर्मप्रशंसनम्॥ १ ॥ युधिष्टिराय निखिलधर्मोपदेशानन्तरं स्वावसानकालासत्त्यवगमेन भगव-द्ध्यानाय वाक्प्रसारणादुपरते भीष्मे तं प्रति व्यासेनःयुधिष्ठिरस्य नगरगमनाभ्यनुज्ञानचोदना॥ २ ॥ युधिष्ठिरेण भीष्मा-भ्यनुज्ञया सह कृष्णादिभिर्हास्तिनपुरप्रवेशनम् ॥ ३ ॥
+ भीष्मेण युधिष्ठरं प्रति धर्मप्रशंसनम्॥ १ ॥ युधिष्टिराय निखिलधर्मोपदेशानन्तरं स्वावसानकालासत्त्यवगमेन भगव-द्ध्यानाय वाक्प्रसारणादुपरते भीष्मे तं प्रति व्यासेनः युधिष्ठिरस्य नगरगमनाभ्यनुज्ञानचोदना॥ २ ॥ युधिष्ठिरेण भीष्मा-भ्यनुज्ञया सह कृष्णादिभिर्हास्तिनपुरप्रवेशनम् ॥ ३ ॥
 
-—————
+**—————**
 
-भीष्मः—
+**भीष्मः—**
 
 कार्यन्ते सर्वथा न्यायात् सच्चासच्च कृतं तथा ।  
 तत्राश्वसेच्च सत् कृत्वा ह्यसत् कृत्वा न विश्वसेत्॥ १
@@ -20814,14 +20887,14 @@ The Presidency College,
 तस्माद्विशुद्धमात्मानं जानीयाद्धर्मचारिणम्॥ ७
 
 स्प्रष्टुमप्यसमर्थोऽपि ज्वलन्तमिव पायकम् ।  
-अधर्मसन्ततौ धर्मंकुरुते[^766] परकारणात्॥ ८
+अधर्मसन्ततौ धर्मं कुरुते[^886] परकारणात्॥ ८
 
-[^766]: "1 क -- दश पादा न सन्ति"
+[^886]: # "1 क -- दश पादा न सन्ति"
 
-कुर्युस्स्त्रियोऽपि धर्मेण धर्मो[^767] हि विजयावहः।  
+कुर्युस्स्त्रियोऽपि धर्मेण धर्मो[^887] हि विजयावहः।  
 त्रयाणामपि लोकानां त्रिलोककरणाद् भवेत् ॥ ९
 
-[^767]: "2. घ - इतः षट्पादा न सन्ति"
+[^887]: # "2. घ - इतः षट् पादा न सन्ति"
 
 तत्र कश्चिन्नयेत् प्राज्ञं गृहीत्वैव करे नरम्।  
 ऊह्यमानस्तु धर्मेण प्राप्नुयात् परमच्युतम्॥ १०
@@ -20831,41 +20904,41 @@ The Presidency College,
 पालय त्वं प्रजास्सर्वाश् शान्तात्मा त्वनुशासितः।  
 द्वैपायनस्स्वयं चक्षुः कृष्णस्ते तु परायणम्॥ ११॥
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 इत्युक्त्वोपासनार्थाय विरराम महामतिः॥ १२
 
 तूष्णीम्भूते ततो भीष्मे पटे चित्र इवार्पिते ।  
 मुहूर्तमिव तं ध्यात्वा व्यासस्सत्यवतीसुतः॥ १३
 
-नृपं शयानं गाङ्गेयम् इदमाह वचस्त्वरन्॥ १३॥
+नृपं शयानं गाङ्गेयम् इदमाह वचस्त्वरन् ॥ १३॥
 
-व्यासः—
+**व्यासः—**
 
 राजन् प्रकृतिमापन्नः कुरुराजो युधिष्ठिरः।
 
 सहितो भ्रातृभिस्सर्वैः पार्थिवैश्चानुयायिभिः ॥ १४॥
 
-उपास्ते त्वां नरव्याघ्र सह कृष्णेन धीमता ॥१५
+उपास्ते त्वां नरव्याघ्र सह कृष्णेन धीमता ॥ १५
 
 तमिमं पुनरागन्तुम् अनुज्ञातुं त्वमर्हसि॥ १५॥
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 एवमुक्तो भगवता व्यासेन पृथिवीपतिः।  
 युधिष्ठिरं सहामात्यम् अनुजज्ञे नदीसुतः॥ १६॥
 
 उवाच चैनं मधुरं ततश्शान्तनवो नृपः॥ १७
 
-भीष्मः—
+**भीष्मः—**
 
-प्रविशस्वपुरं राजन् धर्मे ते ध्रियतां मनः॥ १७॥
+प्रविशस्व पुरं राजन् धर्मे ते ध्रियतां मनः॥ १७॥
 
 यजस्व विविधैर्यज्ञैः पावनैराप्तदक्षिणैः ।  
 ययातिरिव राजेन्द्र श्रद्धादमपुरस्सरः॥ १८॥
 
 क्षत्रधर्मरतः पार्थ पितॄन् देवांश्च तर्पयन् ।  
-श्रेयसा योक्ष्यसे राजन् व्येतु ते मानसो ज्वरः॥१९॥
+श्रेयसा योक्ष्यसे राजन् व्येतु ते मानसो ज्वरः॥ १९॥
 
 रञ्जयस्व प्रजास्सर्वाः प्रकृतीः परिसान्त्वय।  
 सुहृदः फलसत्कारैर् अभ्यर्चय यथार्हतः॥ २०॥
@@ -20877,7 +20950,7 @@ The Presidency College,
 
 विनिवृत्ते दिनकरे प्रवृत्ते चोत्तरायणे॥ २२॥
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 तथेत्युक्त्वा च कौन्तेयस् सोऽभिवाद्य पितामहम् ।  
 प्रययौ सपरीवारो नगरं नागसाह्वयम् ॥ २३॥
@@ -20888,26 +20961,27 @@ The Presidency College,
 पौरजानपदैश्चैव मन्त्रिवृद्धैश्च पार्थिवः ।  
 प्रविवेश पुरश्रेष्ठं तदा वारणसाह्वयम्॥ २५॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि चतुःपञ्चाशदधिकशततमोऽध्यायः ॥ १५४ ॥  
-॥ ८९ ॥ आनुशासनिकपर्वणि चतुःपञ्चाशदधिकशततमोऽध्यायः ॥ १५४ ॥
+॥ ८९ ॥ आनुशासनिकपर्वणि चतुःपञ्चाशदधिकशततमोऽध्यायः ॥ १५४ ॥**
 
-\[ अस्मिन्नध्याये २५ ॥ श्लोकाः \]  
-\[ आनुशासनिकपर्व समाप्तम् \]
+**\[ अस्मिन्नध्याये २५ ॥ श्लोकाः \]  
+\[ आनुशासनिकपर्व समाप्तम् \]**
 
-————
+**————**
 
 **॥ पञ्चपञ्चाशदधिकशततमोध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706456084Screenshot2023-11-27151930.png"/>  
 
-॥ भीष्मस्वर्गारोहणपर्व॥
 
- युधिष्ठिरेण भीष्मसंस्कारोपयोगिसम्भारप्रस्थापनपूर्वकं कृष्णधृतराष्ट्रादिभिः सह भीष्मसमीपं प्रत्यागमनम्॥ १ ॥ युधिष्ठिरेणाभिवादनपूर्वकं कृष्णाद्यागमनं निवेदितेन भीष्मेण स्वस्य कृष्णयाथात्म्यज्ञानप्रकाशनेन तत्प्रणामस्तुतिपूर्वकं व्यासकृष्णधृतराष्ट्रादिभ्यः स्वस्यप्राणोत्सर्गाभ्यनुज्ञानप्रार्थना ॥ २ ॥
+**॥ भीष्मस्वर्गारोहणपर्व॥**
 
-—————
+ युधिष्ठिरेण भीष्मसंस्कारोपयोगिसम्भारप्रस्थापनपूर्वकं कृष्णधृतराष्ट्रादिभिः सह भीष्मसमीपं प्रत्यागमनम्॥ १ ॥ युधिष्ठिरेणाभिवादनपूर्वकं कृष्णाद्यागमनं निवेदितेन भीष्मेण स्वस्य कृष्णयाथात्म्यज्ञानप्रकाशनेन तत्प्रणामस्तुतिपूर्वकं व्यासकृष्णधृतराष्ट्रादिभ्यः स्वस्य प्राणोत्सर्गाभ्यनुज्ञानप्रार्थना ॥ २ ॥
 
-वैशम्पायनः—
+**—————**
+
+**वैशम्पायनः—**
 
 ततः कुन्तीसुतो राजा पौरजानपदाञ् जनान् ।  
 पूजयित्वा यथान्यायम् अनुजज्ञे गृहान् प्रति॥ १
@@ -20921,12 +20995,12 @@ The Presidency College,
 द्विजेभ्यो बलमुख्येभ्यो नैगमेभ्यश्च नित्यशः।  
 प्रतिगृह्याशिषो मुख्यास् ततो धर्मभृतां वरः॥ ४
 
-उषित्वा शर्वरीश्श्रीमान् पञ्चाश[^768]न्नगरोत्तमे।  
+उषित्वा शर्वरीश्श्रीमान् पञ्चाश[^888]न्नगरोत्तमे।  
 समयं कौरवाग्र्यस्य सस्मार पुरुषर्षभः॥ ५
 
-[^768]: "1. क-ख-घ -- पञ्चाहं नगरो"
+[^888]: # "1. क-ख-घ -- पञ्चाहं नगरो"
 
-स निर्ययौ गजपुराद्याजकैः परिवारितः॥ ५॥
+स निर्ययौ गजपुराद् याजकैः परिवारितः॥ ५॥
 
 दृष्ट्वा निवृत्तमादित्यं प्रवृत्तं चोत्तरायणम्।  
 धृतं माल्यं च गन्धांश्च क्षौमाणि च युधिष्ठिरः॥ ६॥
@@ -20955,7 +21029,7 @@ The Presidency College,
 रक्षिभिश्च महात्मानं रक्ष्यमाणं समन्ततः॥ १४
 
 शयानं वीरशयने ददर्श नृपतिस्ततः ।  
-ततो स्थादवारोहद् भ्रातृभिस्सहधर्मराट्॥ १५
+ततो स्थादवारोहद् भ्रातृभिस्सह धर्मराट्॥ १५
 
 अभिवाद्याथ कौन्तेयः पितामहमरिन्दमम्।  
 द्वैपायनप्रभृतिभिर् मुनिभिः प्रतिनन्दितः॥ १६
@@ -20966,13 +21040,13 @@ The Presidency College,
 अब्रवीद्भरतश्रेष्ठो धर्मराजो युधिष्ठिरः ।  
 भ्रातृभिस्सह कौरव्यं शयानं निम्नगासुतम्॥ १८
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 युधिष्टिरोऽहं नृपते नमस्ते जाह्नवीसुत ।  
 शृणोषि चेन्महावाहो ब्रूहि किं करवाणि ते॥ १९
 
 प्राप्तोऽस्मि समये राजन्नग्नीनाधाय ते विभो ।  
-आचार्या ब्राह्मणाश्चेमेऋत्विजो नागरा इमे॥ २०
+आचार्या ब्राह्मणाश्चेमे ऋत्विजो नागरा इमे॥ २०
 
 पुत्रश्च ते महाराज धृतराष्ट्रो जनेश्वरः ।  
 उपस्थितस्सहामात्यो वासुदेवश्च वीर्यवान्॥ २१
@@ -20983,33 +21057,33 @@ The Presidency College,
 यच्चेह किञ्चित् कर्तव्यं तत् सर्वं प्रापितं मया ।  
 यथोक्तं भवता काले सर्वमेव च तत् कृतम् ॥ २३
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
-एवमुक्तम्तुगाङ्गेयः कुन्तीपुत्रेण धीमता ।  
+एवमुक्तम्तु गाङ्गेयः कुन्तीपुत्रेण धीमता ।  
 ददर्श भारतान् सर्वान् संस्थितान् परिवार्य तान्॥ २४
 
 ततश्च बलवद् भीष्मः प्रगृह्य विपुलं भुजम् ।  
 ओघमेघस्वनो वाग्मी काले वचनमब्रवीत्॥ २५
 
-भीष्मः—
+**भीष्मः—**
 
 दिष्ट्या प्राप्तोऽसि कौन्तेय सहामात्यो युधिष्ठिर।  
 परिवृत्तो हि भगवान् सहस्रांशुर्दिवाकरः॥ २६
 
 अष्ट्रपञ्चाशतं रात्र्यश् शयानस्याद्य मे गताः ।  
-शरेषुनिशिताग्रेषु यथा वर्षशतं तथा॥ २७
+शरेषु निशिताग्रेषु यथा वर्षशतं तथा॥ २७
 
-माघोऽयं[^769] समनुप्राप्तो मासः पुण्यो युधिष्टिर।  
-त्रिभागशेषःपक्षोऽयं शुक्लो भवितुमर्हति॥ २८
+माघोऽयं[^889] समनुप्राप्तो मासः पुण्यो युधिष्टिर।  
+त्रिभागशेषः पक्षोऽयं शुक्लो भवितुमर्हति॥ २८
 
-[^769]: "1. ख - अर्धद्वयं नास्ति"
+[^889]: # "1. ख - अर्धद्वयं नास्ति"
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 एवमुक्त्वा तु गाङ्गेयो धर्मपुत्रं युधिष्ठिरम् ।  
 धृतराष्ट्रं तथाऽऽमन्त्र्य काले वचनमब्रवीत्॥ २९
 
-भीष्मः—
+**भीष्मः—**
 
 राजन् विदितधर्मोऽसि बुद्ध्या वीतार्थसंशयः ।  
 बहुश्रुतास्त्वया वृद्धा बहवः पर्युपासिताः॥ ३०
@@ -21019,27 +21093,27 @@ The Presidency College,
 वेदांश्च चतुरस्सर्वान् षडङ्गैरुपबृंहितान्॥ ३१
 
 न शोचितव्यं कौरव्य भवितव्यं हि तत्तथा ।  
-श्रुतं धर्मरहस्यं[^770] ते कृष्णद्वैपायनादपि॥ ३२
+श्रुतं धर्मरहस्यं[^890] ते कृष्णद्वैपायनादपि॥ ३२
 
-[^770]: "1. ख -- देवरहस्यं ते"
+[^890]: # "1. ख -- देवरहस्यं ते"
 
 यथा तव सुता राजंस् तथैव तव पाण्डवाः ।  
 तान् पालय स्थितो धर्मे गुरुशुश्रूषणे रतान्॥ ३३
 
 धर्मराजो हि राजेन्द्र स्थास्यते शासने तव ।  
-आनृशंस्यपरं ह्येनं जानामि तु[^771] युधिष्ठिरम्॥ ३४
+आनृशंस्यपरं ह्येनं जानामि तु[^891] युधिष्ठिरम्॥ ३४
 
-[^771]: "2. ख-गुरुवत्सलम्"
+[^891]: # "2. ख-गुरुवत्सलम्"
 
 तव पुत्रा दुरात्मानः क्रोधलोभपरायणाः ।  
 ईर्ष्याभिभूता दुर्वृत्तास् तान् न शोचितुमर्हसि॥ ३५
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 एतावदुक्त्वा वचनं धृतराष्ट्रं मनीषिणः।  
 वासुदेवं महात्मानम् अभ्यभाषत कौरवः॥ ३६
 
-भीष्मः—
+**भीष्मः—**
 
 भगवन् देवदेवेश सुरासुरनमस्कृत।  
 त्रिविक्रम नमस्तेऽस्तु शङ्खचक्रगदाधर॥ ३७
@@ -21047,10 +21121,10 @@ The Presidency College,
 वासुदेवो हिरण्यात्मा पुरुषस्सविता विराट्।  
 जीवभूतोऽनुरूपस्त्वं परमात्मा सनातनः॥ ३८
 
-त्वद्भक्तं त्वद्गत[^772]स्वान्तम् अदारमपरिग्रहम् ।  
+त्वद्भक्तं त्वद्गत[^892]स्वान्तम् अदारमपरिग्रहम् ।  
 त्रायस्व पुण्डरीकाक्ष पुरुषोत्तम नित्यशः॥ ३९
 
-[^772]: "1. ख – त्वद्गतिं बालं त्वामेवशरणं गतम्"
+[^892]: # "1. ख – त्वद्गतिं बालं त्वामेव शरणं गतम्"
 
 अनुजानीहि मां कृष्ण वैकुण्ठ पुम्पोत्तम।  
 रक्ष्याश्च ते पाण्डवेया भवानेषां परायणम्॥ ४०
@@ -21071,7 +21145,7 @@ The Presidency College,
 तथा मे नारदः प्राह व्यासश्च सुमहातपाः ।  
 नरनारायणावेतौ सम्भूतौ मानुषेष्विह॥ ४५
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 अनुजानामि भीष्म त्वां वसूनाप्नुहि पार्थिव।  
 न तेऽस्ति वृजिनं किञ्चिच् छुद्धात्मैश्वर्यसंयुतः॥ ४६
@@ -21080,12 +21154,12 @@ The Presidency College,
 
 तेन मृत्युस्तव वशे स्थितो भृत्य इवानतः॥ ४७
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 एवमुक्तस्तु गाङ्गेयः पाण्डवानिदमब्रवीत् ।  
 धृतराष्ट्रमुखांश्चापि सर्वान् ससुहृदस्तथा॥ ४८
 
-भीष्मः—
+**भीष्मः—**
 
 प्राणानुत्स्रष्टुमिच्छामि तन्माऽनुज्ञातुमर्हथ ।  
 सत्ये प्रयतितव्यं च सत्यं हि परमं बलम्॥ ४९
@@ -21093,24 +21167,24 @@ The Presidency College,
 आनृशंस्यपरैर्भाव्यं सदैव नियतात्मभिः।  
 ब्रह्मण्यैर्धर्मशीलैश्च तपोनित्यैश्च भारत॥ ५०
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 इत्युक्त्वा सुहृद्स्सर्वास् तथा सम्पूज्य चैव हि ।  
 धनं बहुविधं राजन् दत्त्वा नित्यं द्विजातिषु॥ ५१
 
 पुनरेवाब्रवीद्धीमान् युधिष्ठिरमिदं वचः॥ ५१॥
 
-भीष्मः—
+**भीष्मः—**
 
-ब्राह्मणाश्चैव ते सर्पेवृद्धाश्चैव विशेषतः।  
+ब्राह्मणाश्चैव ते सर्पे वृद्धाश्चैव विशेषतः।  
 आचार्या ऋत्विजश्चैव पूजनीया नराधिप॥ ५२॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि पञ्चपञ्चाशदधिकशततमोऽध्यायः॥ १५५ ॥  
 ॥ १० ॥भीष्मस्वर्गारोहणपर्वणि प्रथमोऽध्यायः ॥ १ ॥  
-      \[ अस्मिन्नध्याये ५२ ॥ श्लोकाः \]
+      \[ अस्मिन्नध्याये ५२ ॥ श्लोकाः \]**
 
-————
+**————**
 
 **॥ षट्पञ्चाशदधिकशततमोऽध्यायः॥**
 
@@ -21118,9 +21192,9 @@ The Presidency College,
 
  भीष्मेण भगवद्ध्यानपूर्वकं स्वशरीरमूर्धमध्योद्भेदनेन तेजो ज्वालारूपेण सर्वापरोक्षमाकाशप्रवेशनेन क्षणादन्तर्धा-नम्॥ १ ॥ ततो धृतराष्ट्रयुधिष्ठिरादिभी राजवैभवेन चितारोपणेन विधिवदग्निना समुद्दीपनम्॥ २ ॥ ततो गङ्गामवगाह्य कृतोदकेषु युधिष्टिरादिषु मूर्तीभूय जलादुद्गत्य भीष्मं प्रति सकरुणं विलापेन शोचन्तीं गङ्गां प्रति कृष्णादिभिराश्वासनम् ॥ ३ ॥
 
-—————
+**—————**
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 एवमुक्त्वा कुरून् सर्वान् भीष्मश्शान्तनवस्तदा ।  
 तूष्णीं बभूव कौरव्यस् स मुहूर्तं कुरूद्वह॥ १
@@ -21161,9 +21235,9 @@ The Presidency College,
 धारयामास तस्याथ युयुत्सुश्छत्रमुत्तमम् ।  
 चामरे व्यजने शुभ्रे भीमसेनार्जुनावुभौ ॥ १२॥
 
-छत्रे[^773] च पर्यगृह्णीतां माद्रीपुत्रावुभौ तदा॥ १३
+छत्रे[^893] च पर्यगृह्णीतां माद्रीपुत्रावुभौ तदा॥ १३
 
-[^773]: "1. क -- ते उभे पर्य; ख--उष्णीषे पर्यगृ"
+[^893]: # "1. क -- ते उभे पर्य; ख--उष्णीषे पर्यगृ"
 
 युधिष्ठिरेण सहितो धृतराष्ट्रस्तु पादतः॥ १३॥
 
@@ -21171,6 +21245,8 @@ The Presidency College,
 तालवृन्तान्युपादाय पर्यवीजन् समन्ततः॥ १४॥
 
 ततोऽस्य विधिवच्चक्रुः पितृमेधं महात्मनः ।
+
+
 
 याजका जुहुवुश्चाग्निं जगुस्सामानि सामगाः॥ १५॥
 
@@ -21194,7 +21270,7 @@ The Presidency College,
 
 परिदेवयती तत्र कौरव्यानभ्यभाषत॥ २२
 
-गङ्गा—
+**गङ्गा—**
 
 निबोधत यथावृत्तम उच्यमानं मया नृपाः ।  
 राजवृत्तेन सम्पन्नः प्रज्ञयाऽभिजनेन च॥ २३
@@ -21216,23 +21292,23 @@ The Presidency College,
 जामदग्न्यः कुरुक्षेत्रे युधि येन महात्मना ।  
 योधयन् नापि निहतो निहतस्स शिखण्डिना॥ २८॥
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 एवं वाक्यं बहुविधं विलपन्तीं महानदीम्।  
 आश्वासयामास तदा साम्ना दामोदरो विभुः॥ २९॥
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 समाश्वसिहि गङ्गे त्वं मा शुचश्शुभदर्शने।  
 गतः परमिकां सिद्धिं तव पुत्रो न संशयः॥ ३०॥
 
-वसुरेप महातेजाश्शापदोषेण शोभने ।  
+वसुरेप महातेजाश् शापदोषेण शोभने ।  
 मनुष्यतामनुप्राप्तो नैनं शोचितुमर्हसि॥ ३१॥
 
 स एष क्षत्रधर्मेण युध्यमानो रणाजिरे ।  
 धनञ्जयेन निहतो नैव नुन्नश्शिखण्डिना॥ ३२॥
 
-भीष्मं हि कुरुशार्दूलम् उद्यतेषुंमहारणे ।  
+भीष्मं हि कुरुशार्दूलम् उद्यतेषुं महारणे ।  
 न शक्तस्समरे हन्तुं साक्षादपि शतक्रतुः ॥ ३३॥
 
 स्वच्छन्देन सुतस्तुभ्यं गतस्स्वर्गं शुभानने ।  
@@ -21241,7 +21317,7 @@ The Presidency College,
 तस्मात् त्वं हि सरिच्छ्रेष्ठे मा शुचः कुरुनन्दनम् ।  
 वसूनेष गतो देवि पुत्रस्ते विज्वरा भव॥ ३५॥
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 इत्युक्ता सा तु कृष्णेन व्यासेन सरितां वरा ।  
 त्यक्त्वा शोकं महाराज स्वं वार्यवततार ह॥ ३६॥
@@ -21249,39 +21325,39 @@ The Presidency College,
 सत्कृत्य ते तां सरितं ततः कृष्णमुखा नृपाः ।  
 अनुज्ञाप्य च ते सर्वे न्यवर्तन्त जनाधिपाः॥ ३७॥
 
-इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
+**इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 अनुशासनपर्वणि षट्पञ्चाशदधिकशततमोऽध्यायः ॥ १५६ ॥  
-॥ १०॥भीष्मस्वर्गारोहणपर्वणि द्वितीयोऽध्यायः ॥ २ ॥  
+॥ १०॥ भीष्मस्वर्गारोहणपर्वणि द्वितीयोऽध्यायः ॥ २ ॥  
        \[ अस्मिन्नध्याये ३७॥ श्लोकाः \]  
        \[ भीष्मस्वर्गारोहणपर्व समाप्तम् \]  
-       ॥अनुशासनपर्व समाप्तम्॥
+       ॥ अनुशासनपर्व समाप्तम्॥**
 
-\[ ॥ अस्मिन्ननुशासनपर्वणि १०२४९॥ श्लोकाः ४० वाक्यानि ॥ \]
+**\[ ॥ अस्मिन्ननुशासनपर्वणि १०२४९॥ श्लोकाः ४० वाक्यानि ॥ \]**
 
-———
+**———**
 
 अतः परमाश्वमेधिकं पर्व भविष्यति तस्यायमाद्यः श्लोकः॥
 
-———
+**———**
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 कृतोदकं तु राजानं धृतराष्ट्रं युधिष्ठिरः।  
 पुरस्कृस्य महाबाहुर् उत्तताराकुलेन्द्रियः॥  
 
           इति
 
-———
+**———**
 
- ॥ श्रीरस्तु॥
+** ॥ श्रीरस्तु॥**
 
-॥ श्रीमन्महाभारतम् ॥
+**॥ श्रीमन्महाभारतम् ॥**
 
 तत्र
 
- अनुशासनपर्वणि
+** अनुशासनपर्वणि**
 
- **———**
+ ** ———**
 
 ॥ औत्तराहकोशानुसारिणः
 
@@ -21301,9 +21377,9 @@ The Presidency College,
 
   भीष्मेण युधिष्ठिरं प्रति शरणागतरक्षणफलप्रतिपादकश्येनकपोतोपाख्यानकथनम्॥
 
-—————
+**—————**
 
-युधिष्टिरः—
+**युधिष्टिरः—**
 
 पितामह महाप्राज्ञ सर्वशास्त्रविशारद ।  
 त्वत्तोऽहं श्रोतुमिच्छामि धर्मं भरतसत्तम॥ १
@@ -21311,7 +21387,7 @@ The Presidency College,
 शरणागतं ये रक्षन्ति भूतग्रामं चतुर्विधम् ।  
 किं तस्य भरतश्रेष्ठ फलं भवति तत्वतः॥ २
 
-भीष्मः—
+**भीष्मः—**
 
 इदं शृणु महाप्राज्ञ धर्मपुत्र महायशः ।  
 इतिहासं पुरावृत्तं शरणार्थं महाफलम्॥ ३
@@ -21323,7 +21399,7 @@ The Presidency College,
 आश्वास्याश्वसिहीत्याह न तेऽस्ति भयमण्डज॥ ५
 
 भयं ते सुमहत् कस्मात् कुत्र किं वा कृतं त्वया ।  
-येन त्वमिह सम्प्राप्तो विसंज्ञो भ्रान्तचेतनः॥ ६
+येन त्वमिह सम्प्राप्तो विसञ्ज्ञो भ्रान्तचेतनः॥ ६
 
 नवनीलोत्पलापीड चारुवर्ण सुदर्शन।  
 दाडिमाशोकपुष्पाक्ष मा त्रसस्वाभयं तव॥ ७
@@ -21334,13 +21410,13 @@ The Presidency College,
 काशिराज्यं तदद्यैव त्वदर्थं जीवितं तथा ।  
 त्यजेयं भव विस्रब्धः कपोत न भयं तव॥ ९
 
-श्येनः—
+**श्येनः—**
 
 ममैतद्विहितं भक्ष्यं न राजंस्त्रातुमर्हसि ।  
 अतिक्रान्तं च प्राप्तं च प्रयत्नाच्चोपपादितम्॥ १०
 
 मांसं च रुधिरं चास्य मज्जा मेदश्च मे हितम्।  
-परितोषकरो ह्येषमम माऽस्याग्रतो भव॥ ११
+परितोषकरो ह्येष मम माऽस्याग्रतो भव॥ ११
 
 तृष्णा मे बाधतेत्युग्रा क्षुधा निर्दहतीव माम ।  
 मुञ्चैनं नहि शक्ष्यामि राजन् मन्दयितुं क्षुधाम् ॥ १२
@@ -21351,18 +21427,18 @@ The Presidency College,
 यदि स्वविषये राजन् प्रभुस्त्वं रक्षणे नृणाम्।  
 खेचरस्य तृषार्तस्य न त्वं प्रभुरथोत्तम॥ १४
 
-यदि वैरिषुभृत्येषु स्वजनव्यवहारयोः ।  
+यदि वैरिषु भृत्येषु स्वजनव्यवहारयोः ।  
 विषयेष्विन्द्रियाणां च आकाशे मा पराक्रम॥ १५
 
 प्रभुत्वं हि पराक्रम्य सम्यक् पक्षहरेषु ते ।  
 यदि त्वमिह धर्मार्थी मामपि द्रष्टुमर्हसि॥ १६
 
-भीष्मः—
+**भीष्मः—**
 
 श्रुत्वा श्येनस्य तद्वाक्यं राजर्षिर्विस्मयं गतः ।  
 सम्भाव्य चैनं तद्वाक्यं तदर्थी प्रत्यभाषत॥ १७
 
-राजा—
+**राजा—**
 
 गोवृषो वा वराहो वा मृगो वा महिषोऽपि वा ।  
 त्वदथर्मद्य क्रियतां क्षुधाप्रशमनाय ते॥ १८
@@ -21370,7 +21446,7 @@ The Presidency College,
 शरणागतं न त्यजेयम् इति मे व्रतमाहितम् ।  
 न मुञ्चति ममाङ्गानि द्विजोऽयं पश्य वै द्विज॥ १९
 
-श्येनः—
+**श्येनः—**
 
 न वराहं न चोक्षाणं न चान्यान् विविधान् द्विजान् ।  
 भक्षयामि महाराज किमन्नाद्येन तेन मे॥ २०
@@ -21381,7 +21457,7 @@ The Presidency College,
 उशीनर कपोते तु यदि स्नेहस्तवानघ।  
 ततस्त्वं मे प्रयच्छाद्य स्वमांसं तुलया धृतम् ॥ २२
 
-भीष्मः—
+**भीष्मः—**
 
 महाननुग्रहो मेऽद्य यस्त्वमेवमिवात्थ माम्॥ २२॥
 
@@ -21398,7 +21474,7 @@ The Presidency College,
 मही प्रचलिता चासीत् तस्य सत्येन कर्मणा॥ २६॥
 
 स राजा पार्श्वतश्चैव बाहुभ्यामूरुतश्च यत् ।  
-तानि मांसानि सञ्चिछद्यतुलां पूरयतेऽशनैः॥ २७॥
+तानि मांसानि सञ्चिछद्य तुलां पूरयतेऽशनैः॥ २७॥
 
 तथाऽपि न समस्तेन कपोतेन बभूव ह॥ २८
 
@@ -21408,7 +21484,7 @@ The Presidency College,
 ततस्सेन्द्रास्त्रयो लोकास् तं नरेन्द्रमुपस्थिताः ।  
 भेर्यश्चाकाशगैस्तत्र वादिता देवदुन्दुभिः॥ ३०
 
-अमृतेनावसिक्तश्च वृषदर्भोनरेश्वरः ।  
+अमृतेनावसिक्तश्च वृषदर्भो नरेश्वरः ।  
 दिव्यैश्च सुसुखैर्माल्यैर् अभिवृष्टः पुनः पुतः॥ ३१
 
 देवगन्धर्वसङ्घातैर् अप्सरोभिश्च सर्वतः।  
@@ -21427,7 +21503,7 @@ The Presidency College,
 किं न प्राप्तं भवेत्तेन स्वव्याजेनेह कर्मणा॥ ३६
 
 स राजर्षिर्विशुद्धात्मा धीरस्सत्यपराक्रमः ।  
-काशीनामीश्वरः ख्यातस् त्रिषु लोकेषुकर्मणा॥ ३७
+काशीनामीश्वरः ख्यातस् त्रिषु लोकेषु कर्मणा॥ ३७
 
 योऽप्यन्यः कारेयदेवं शरणागतरक्षणम् ।  
 सोऽपि गच्छेत तामेव गतिं भरतसत्तम॥ ३८
@@ -21435,17 +21511,18 @@ The Presidency College,
 इदं वृत्तं हि राजर्षे वृषदर्भस्य कीर्तयन् ।  
 पूतात्मा वै भवेल्लोके शृणुयाद्यश्च नित्यशः॥ ३९
 
-इति श्रीमहाभारते अनुशासनपर्वणि  
+**इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि सप्तषष्टितमोऽध्यायः ॥ ६७ ॥  
-   \[ अस्मिन्नध्याये ३९ श्लोकाः \]
+   \[ अस्मिन्नध्याये ३९ श्लोकाः \]**
 
-———  
+**———**  
+
 
 **॥ कुम्भघोणपुस्तके त्रिनवतितमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706511292Screenshot2023-11-27151930.png"/>
 
-॥ पूनाचित्रशालापुस्तके अष्टपञ्चाशोऽध्यायः॥
+**॥ पूनाचित्रशालापुस्तके अष्टपञ्चाशोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706511292Screenshot2023-11-27151930.png"/>
 
@@ -21453,14 +21530,14 @@ The Presidency College,
 
  भीष्मेण युधिष्ठिरं प्रति तटाकादिप्रतिष्टाया वृक्षाद्यारोपणस्य च फलनिरूपणम् ॥
 
-—————
+**—————**
 
-युधिष्टिरः—
+**युधिष्टिरः—**
 
 आरामाणां तटाकानां यत् फलं कुरुपुङ्गव।  
 तदहं श्रोतुमिच्छामि त्वत्तोऽद्य भरतर्षभ॥ १
 
-भीष्मः—
+**भीष्मः—**
 
 सुप्रदर्शा बलवती चित्रा धातुविभूषिता ।  
 उपेता सर्वभूतैश्च श्रेष्ठा भूमिरिहोच्यते॥ २
@@ -21517,7 +21594,7 @@ The Presidency College,
 दुर्लभं सलिलं तात विशेषेण परत्र वै ।  
 पानीयस्य प्रदानेन प्रीतिर्भवति शाश्वती॥ १९
 
-तिलान् ददतपानीयं दीपान् ददतजागृत ।  
+तिलान् ददत पानीयं दीपान् ददत जागृत ।  
 ज्ञातिभिस्सह मोदध्वम् एतत् प्रेत्य सुदुर्लभम्॥ २०
 
 सर्वदानैर्गुरुतरं सर्वदानैर्विशिष्यते ।  
@@ -21560,17 +21637,17 @@ The Presidency College,
 तस्मात्तटाकं कुर्वीत आरामांश्चैव रोपयेत् ।  
 यजेञ्च विविधैर्यज्ञैस् सत्यं च सततं वदेत्॥ ३३
 
-इति श्रीमहाभारते अनुशासनपर्वणि  
+**इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि त्रिनवतितमोऽध्यायः ॥ ९३ ॥  
-  \[ अस्मिन्नध्याये ३३ श्लोकाः \]
+  \[ अस्मिन्नध्याये ३३ श्लोकाः \]**
 
-———
+**———**
 
 **॥ कुम्भघोणपुस्तके एकसप्तत्यधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706512849Screenshot2023-11-27151930.png"/>
 
-॥ पूनाचित्रशालापुस्तके नवाधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके नवाधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706512849Screenshot2023-11-27151930.png"/>
 
@@ -21578,15 +21655,15 @@ The Presidency College,
 
  भीष्मेण युधिष्टिरं प्रति मार्गशोर्पादिकार्तिकान्तेषु द्वादशमासेषु द्वादशद्वादशीषु केशवादिदामोदरान्तभगवद्रूपविशेष-पूजाफलविशेषकथनम् ॥
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 सर्वेषामुपवासानां यच्छ्रेयस्सुमहत् फलम् ।  
 यच्चाप्यसंशयं लोके तन्मे त्वं वक्तुमर्हसि॥ १
 
-भीष्मः—
+**भीष्मः—**
 
 शृणु राजन् यथा गीतं स्वयमेव स्वयम्भुवा ।  
-यत् कृत्वा निर्वृतो भूयात् पुरुषोनात्र संशयः॥ २
+यत् कृत्वा निर्वृतो भूयात् पुरुषो नात्र संशयः॥ २
 
 द्वादश्यां मार्गशीर्षे तु अहोरात्रेण केशवम्।  
 अर्च्याश्वमेधं प्राप्नोति दुष्कृतं चास्य नश्यति॥ ३
@@ -21635,17 +21712,17 @@ The Presidency College,
 अतः परं नोपवासो भवतीति विनिश्चयः ।  
 उवाच भगवान् विष्णुस् स्वयमेव पुरातनम्॥ १७
 
-  इति श्रीमहाभारते अनुशासनपर्वणि  
+** इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि एकसप्तत्यधिकशततमोऽध्यायः ॥ १७१॥  
-  \[  अस्मिन्नध्याये १७ श्लोकाः \]
+  \[ अस्मिन्नध्याये १७ श्लोकाः \]**
 
-  ———
+** ———**
 
 **॥ कुम्भघोणपुस्तके द्विसप्तत्यधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706513884Screenshot2023-12-06205315.png"/>
 
-॥ पूनाचित्रशालापुस्तके दशाधिकशततमोध्यायः॥
+**॥ पूनाचित्रशालापुस्तके दशाधिकशततमोध्यायः॥**
 
 <MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1706513918Screenshot2023-11-27151930.png"/>
 
@@ -21653,17 +21730,17 @@ The Presidency College,
 
   भीष्मेण युधिष्ठिरं प्रति शरीरसौन्दर्यादिफलकचान्द्रव्रताचरणप्रकारकथनम् ॥
 
-———————
+**———————**
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 शरतल्पगतं भीष्मं वृद्धं कुरुपितामहम् ।  
 उपगम्य महाप्राज्ञः पर्यपृच्छद्युधिष्ठिरः॥ १
 
 अङ्गानां रूपसौभाग्यं प्रियं चैव कथं भवेत् ।  
-धर्मार्थकामसंयुक्तस्सुखभागी कथं भवेत्॥ २
+धर्मार्थकामसंयुक्तस् सुखभागी कथं भवेत्॥ २
 
-भीष्मः—
+**भीष्मः—**
 
 मार्गशीर्षस्य मासस्य चन्द्रे मूलेन संयुते ।  
 पादौ मूलेन राजेन्द्र जङ्घायामथ रोहिणीम्॥ ३
@@ -21683,23 +21760,23 @@ The Presidency College,
 हासं शतभिषां चैव मघां चैवाथ नासिकाम् ।  
 नेत्रे मृगशिरो विद्याल्ललाटे मित्रमेव तु॥ ८
 
-भरण्यां तु शिरो विद्यात् केशानार्द्रांनराधिप ।  
+भरण्यां तु शिरो विद्यात् केशानार्द्रां नराधिप ।  
 समाप्ते तु घृतं दद्याद् ब्राह्मणे वेदपारगे॥ ९
 
 सुभगो दर्शनीयश्च ज्ञानभाग्यथ जानते।  
 जायते परिपूर्णाङ्गः पौर्णमास्येव चन्द्रमाः॥ १०
 
-  इति श्रीमहाभारते अनुशासनपर्वणि  
+** इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि द्विसप्तत्यधिकशततमोऽध्यायः ॥ १७२ ॥  
-     \[ अस्मिन्नध्याये १० श्लोकाः \]
+     \[ अस्मिन्नध्याये १० श्लोकाः \]**
 
-———
+**———**
 
 **॥ कुम्भघोणपुस्तके अष्टाशीत्यधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706514600Screenshot2023-12-06205315.png"/>
 
-॥ पूनाचित्रशालापुस्तके पञ्चविंशत्यधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके पञ्चविंशत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706514626Screenshot2023-11-27131905.png"/>
 
@@ -21709,7 +21786,7 @@ The Presidency College,
 
 —————
 
-युधिष्टिरः—
+**युधिष्टिरः—**
 
 जन्म मानुष्यकं प्राप्य कर्मक्षेत्रं सुदुर्लभम् ।  
 श्रेयोर्थिना दरिद्रेण किं कर्तव्यं पितामह॥ १
@@ -21717,18 +21794,18 @@ The Presidency College,
 दानानामुत्तमं यच्च देयं यच्च यथा यथा ।  
 मान्यान् पूज्यांश्च गाङ्गेय रहस्यं वक्तुमर्हसि॥ २॥
 
-वैशम्पायनः—
+**वैशम्पायनः—**
 
 एवं पृष्टो नरेन्द्रेण पाण्डवेन यशस्विना ।  
 धर्माणां परमं गुह्यं भीष्मः प्रोवाच पार्थिवम्॥ ३
 
-भीष्मः—
+**भीष्मः—**
 
 शृणुष्वावहितो राजन् धर्मगुह्यानि भारत।  
 यथा हि भगवान् व्यासः पुरा कथितवान् मयि। ४
 
 देवगुह्यमिदं राजन् यमेनाक्लिष्टकर्मणा ।  
-नियमस्थेन युक्तेन तपसो महतःफलम्॥ ५
+नियमस्थेन युक्तेन तपसो महतः फलम्॥ ५
 
 येन यः प्रीयते देवः प्रीयन्ते पितरस्तथा ।
 
@@ -21771,7 +21848,7 @@ The Presidency College,
 कस्यचित्त्वथ कालस्य देवदूतो यदृच्छया ।  
 स्थितो ह्यन्तर्हितो भूत्वा पर्यभाषत वासवम्॥ १८
 
-देवदूतः—
+**देवदूतः—**
 
 यौ तौ कामगुणोपेतावश्विनौ भिषजां वरौ ।  
 आज्ञयाऽहं तयोः प्राप्तस् सनरान् पितृदैवतान् ॥ १९
@@ -21782,12 +21859,12 @@ The Presidency College,
 प्रथमः कस्य दातव्यो मध्यमः क्व च गच्छति ।  
 उत्तरश्च स्मृतः कस्य एतदिच्छामि वेदितुम्॥ २१
 
-भीष्मः—
+**भीष्मः—**
 
 श्रद्दधानेन दूतेन भाषितं धर्मसंहितम् ।  
 पूर्वस्थास्त्रिदशास्सर्वे पितरः पूज्य खेचरम्॥ २२
 
-पितरः—
+**पितरः—**
 
 स्वागतं तेऽस्तु भद्रं ते श्रूयतां खेचरोत्तम ।  
 गूढार्थः परमः प्रश्नो भवता समुदीरितः॥ २३
@@ -21802,12 +21879,12 @@ The Presidency College,
 पिण्डं तु मध्यमं तत्र पत्नी त्वेका समश्नुते ।  
 पिण्डस्तृतीयो यस्तेषां तं दद्याज्जातवेदसि॥ २६
 
-एषश्राद्धविधिः प्रोक्तो यथा धर्मो न लुप्यते॥ २६॥
+एष श्राद्धविधिः प्रोक्तो यथा धर्मो न लुप्यते॥ २६॥
 
 पितरस्तस्य तुष्यन्ति प्रहृष्टमनसस्सदा ।  
 प्रजा विवर्धते चास्य अक्षयं चोपतिष्ठति॥ २७॥
 
-देवदूतः—
+**देवदूतः—**
 
 आनुपूर्व्येण पिण्डानां प्रविभागः पृथक् पृथक् ।  
 पितॄणां त्रिषु सर्वेषां निरुक्तं कथितं त्वया॥ २८
@@ -21821,10 +21898,10 @@ The Presidency College,
 अत्र यस्त्वन्तिमः पिण्डो गच्छते जातवेदसम्।  
 भवते का गतिस्तस्य कं वा समनुगच्छति॥ ३१॥
 
-एतदिच्छाम्यहं श्रोतुं पिण्डेषुत्रिषुया गतिः ।  
+एतदिच्छाम्यहं श्रोतुं पिण्डेषु त्रिषु या गतिः ।  
 फलं वृत्तिं च मार्गं च यश्चैनं प्रतिपद्यते॥ ३२॥
 
-पितरः—
+**पितरः—**
 
 सुमहानेष प्रश्रो वै यस्त्वया समुदीरितः ।  
 रहस्यमद्भुतं चापि पृष्टास्स्म गगनेचर॥ ३३॥
@@ -21861,26 +21938,26 @@ The Presidency College,
 तस्मात् स्नातश्शुचिः क्षान्तश् श्राद्धं भुञ्जीत वै द्विजः ।  
 प्रजा विवर्धते चास्य यश्चैवं सम्प्रयच्छति॥ ४३॥
 
-भीष्मः—
+**भीष्मः—**
 
 ततो विद्युत्प्रभो नाम ऋषिराह महातपाः।  
 आदित्यतेजसा तस्य तुल्यं रूपं प्रकाशते॥ ४४॥
 
 स च धर्मरहस्यानि श्रुत्वा शक्रमथाब्रवीत्॥ ४५
 
-विद्युत्प्रभः—
+**विद्युत्प्रभः—**
 
 तिर्यग्योनिगतान् सत्वान् मर्त्या हिंसन्ति मोहिताः ।  
 कीटान् पिपीलिकान् सर्पान् मेषान् समृगपक्षिणः॥ ४६
 
 किल्बिषं सुबहु प्राप्ताः किंस्विदेषां प्रतिक्रिया॥ ४६॥
 
-भीष्मः—
+**भीष्मः—**
 
 ततो देवगणास्सर्वे ऋषयश्च तपोधनाः।  
 पितरश्च महाभागाः पूजयन्ति स्म तं मुनिम्॥ ४७॥
 
-शक्रः—
+**शक्रः—**
 
 कुरुक्षेत्रं गयां गङ्गां प्रभासं पुष्कराणि च ।  
 एतानि मनसा ध्यात्वा अवगाहेत् ततो जलम्॥ ४८॥
@@ -21890,7 +21967,7 @@ The Presidency College,
 व्यहं स्नातस्स भवति निराहारश्च वर्तते ।  
 स्पृशते यो गवां पृष्ठं वालधिं च नमस्यति ॥ ५०
 
-भीष्मः—
+**भीष्मः—**
 
 ततो विद्युत्प्रभो वाक्यम् अभ्यभाषत वासवम् ।
 
@@ -21917,17 +21994,17 @@ The Presidency College,
 ततः पापात् प्रमुक्तस्य द्युतिर्भवति शाश्वती ।  
 तेजसा सूर्यवद्दीप्तो भ्राजते सोमवत् पुनः॥ ५७
 
-भीष्मः—
+**भीष्मः—**
 
 मध्ये त्रिदशवर्गस्य देवराजश्शतक्रतुः ।  
 उवाच मधुरं वाक्यं बृहस्पतिमनुत्तमम्॥ ५८
 
-शक्रः—
+**शक्रः—**
 
 धर्मगुह्यं तु भगवन् मानुषाणां सुखावहम्।  
 सरहस्याश्च ये दोषास् तान् यथावदुदीरय॥ ५९
 
-बृहस्पतिः—
+**बृहस्पतिः—**
 
 प्रतिमेहन्ति ये सूर्यम् अनिलं द्विषते च ये ।  
 हव्यवाहे प्रदीप्ते च समिधं ये न जुह्वति॥ ६०
@@ -21945,10 +22022,10 @@ The Presidency College,
 वर्षाणि षडशीतिं तु दुर्वृत्ताः कुलपांसनाः।  
 स्त्रियस्सर्वाश्च दुर्वृत्ताः प्रतिमेहन्ति या रविम् ॥ ६४
 
-अनिलद्वेषिणश्शक्रगर्भस्था च्यवते प्रजा ॥ ६४॥
+अनिलद्वेषिणश्शक्र गर्भस्था च्यवते प्रजा ॥ ६४॥
 
 हव्यवाहस्य दीप्तस्य समिधं ये न जुह्वति ।  
-अग्निकार्येषु वै तेषांहव्यं नाश्नाति पावकः ॥ ६५॥
+अग्निकार्येषु वै तेषां हव्यं नाश्नाति पावकः ॥ ६५॥
 
 क्षीरं तु बालवत्सानां ये पिबन्तीह मानवाः ।  
 न तेषां क्षीरपाः केचिज् जायन्ते कुलवर्धनाः॥ ६६॥
@@ -21960,12 +22037,12 @@ The Presidency College,
 
 भूतिकामेन मर्त्येन सत्यमेतद्ब्रवीमि ते॥ ६८॥
 
-भीष्मः—
+**भीष्मः—**
 
-ततस्सर्वामहाभाग देवतास्समरुद्गणाः ।  
+ततस्सर्वा महाभाग देवतास्समरुद्गणाः ।  
 ऋषयश्च महाभागाः पृच्छन्ति स्म पितॄंस्ततः॥ ६९॥
 
-देवादयः—
+**देवादयः—**
 
 पितरः केन तुष्यन्ति मर्त्यानामल्पचेतसाम् ।  
 अक्षयं च कथं दानं भवेच्चैवौर्ध्वदेहिकम्॥ ७०॥
@@ -21973,7 +22050,7 @@ The Presidency College,
 आनृण्यं वा कथं मर्त्या गच्छेयुः केन कर्मणा ।  
 एतदिच्छामहे श्रोतुं परं कौतूहलं हि नः॥ ७१॥
 
-पितरः—
+**पितरः—**
 
 न्यायतो वै महाभागास् संशयरसमुदाहृतः ।  
 श्रूयतां येन तुष्यामो मर्त्यानां साधुकर्मणाम्॥ ७२॥
@@ -21987,17 +22064,18 @@ The Presidency College,
 श्रद्दधानाश्च ये मर्त्या आहरिष्यन्ति सन्ततिम् ।  
 दुर्गात् ते तारयिष्यन्ति नरकात् प्रपितामहान्॥ ७५॥
 
-भीष्मः—
+**भीष्मः—**
 
 पितॄणां भाषितं श्रुत्वा हृष्टरोमा तपोधनः ।  
-वृद्धगार्ग्योमहातेजास् तानेवं वाक्यमब्रवीत्॥ ७६॥  
+वृद्धगार्ग्यो महातेजास् तानेवं वाक्यमब्रवीत्॥ ७६॥  
 
-वृद्धगार्ग्यः—
+
+**वृद्धगार्ग्यः—**
 
 के गुणा नीलषण्डस्य प्रमुक्तस्य तपोधनाः।  
 वर्षासु दीपदानेन तथैव च तिलोदकैः॥ ७७॥
 
-पितरः—
+**पितरः—**
 
 नीलषण्डस्य लाङ्गूलं तोयमभ्युद्धरेद्यदि ।  
 षष्टिं वर्षसहस्राणि पितरस्तेन तर्पिताः॥ ७८॥
@@ -22009,7 +22087,7 @@ The Presidency College,
 तमोरूपं न तस्यास्ति दीपकं यः प्रयच्छति॥ ८०॥
 
 अमावास्यां तु ये मर्त्याः प्रयच्छन्ति तिलोदकम् ।  
-पात्रमौदुम्बरं गृह्य मधुमिश्रंतपोधन॥ ८१॥
+पात्रमौदुम्बरं गृह्य मधुमिश्रं तपोधन॥ ८१॥
 
 कृतं भवति तैश्श्राद्धं सरहस्यं यथार्थवत्॥ ८२
 
@@ -22018,7 +22096,7 @@ The Presidency College,
 
 श्रद्दधानस्तु यः कुर्यात् पितॄणामनृणो भवेत्॥ ८३॥
 
-भीष्मः—
+**भीष्मः—**
 
 एवमेष समुद्दिष्टश् श्राद्धकालक्रमस्तथा ।  
 विधिः पात्रं फलं चैव यथावदनुकीर्तितम्॥ ८४॥
@@ -22026,27 +22104,26 @@ The Presidency College,
   ** इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि अष्टाशीत्यधिकशततमोऽध्यायः ॥ १८ ॥  
     \[ अस्मिन्नध्याये ८४॥ श्लोकाः \]  
-          ———**
+          ——— **
 
-॥ कुम्भघोणपुस्तके एकोननवत्यधिकशततमोऽध्यायः ॥
-
-<MISSING_FIG href="../books_images/U-IMG-1706522091Screenshot2023-11-27151930.png"/>
-
-॥ पूनाचित्रशालापुस्तके षड्विंशत्यधिकशततमोऽध्यायः ॥
+**॥ कुम्भघोणपुस्तके एकोननवत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706522091Screenshot2023-11-27151930.png"/>
 
- विष्णुनेन्द्रं प्रति स्वप्रीतिकरधर्मकथनम्॥ १ ॥ तथा बलदेवदेवाग्निविश्वामित्रादिभिः पृथक् पृथक् धर्मविशेषकथनम्॥२॥     
-        
+**॥ पूनाचित्रशालापुस्तके षड्विंशत्यधिकशततमोऽध्यायः ॥**
 
-—————
+<MISSING_FIG href="../books_images/U-IMG-1706522091Screenshot2023-11-27151930.png"/>
 
-भीष्मः—
+ विष्णुनेन्द्रं प्रति स्वप्रीतिकरधर्मकथनम्॥ १ ॥ तथा बलदेवदेवाग्निविश्वामित्रादिभिः पृथक् पृथक् धर्मविशेषकथनम्॥२॥              
+
+**—————**
+
+**भीष्मः—**
 
 केन ते च भवेत् प्रीतिः कथं तुष्टिं तु गच्छसि ।  
 इति पृष्टस्सुरेन्द्रेण प्रोवाच हरिरीश्वरः॥ १
 
-श्रीभगवान्ः—
+**श्रीभगवान्ः—**
 
 ब्राह्मणानां परीवादो मम विद्वेषणं महत् ।  
 ब्राह्मणैः पूजितैर्नित्यं पूजितोऽहं न संशयः॥ २
@@ -22069,7 +22146,7 @@ The Presidency College,
 अन्यथा हि वृथा मर्त्याः पूजयन्त्यल्पबुद्धयः ।  
 नाहं तत् प्रतिगृह्णामि न सा तुष्टिकरी मम॥ ७॥
 
-इन्द्रः—
+**इन्द्रः—**
 
 चक्रं पादौ वराहं च ब्राह्मणं चापि वामनम्।  
 उद्धृतां धरणीञ्चैव किमर्थं त्वं प्रशंससि॥ ८॥
@@ -22077,11 +22154,11 @@ The Presidency College,
 भवान् सृजति भूतानि भवान् संहरति प्रजाः ।  
 प्रकृतिस्सर्वभूतानां समर्त्यानां सनातनी॥ ९
 
-भीष्मः—
+**भीष्मः—**
 
 सम्प्रहस्य ततो विष्णुर् इदं वचनमब्रवीत्॥ १०
 
-श्रीभगवान्—
+**श्रीभगवान्—**
 
 चक्रेण निहता दैत्याः पद्भ्यां क्रान्ता वसुन्धरा ।  
 वाराहं रूपमास्थाय हिरण्याक्षो निपातितः॥ ११
@@ -22101,18 +22178,18 @@ The Presidency College,
 एतद्वः कथितं गुह्यम् अखिलेन तपोधनाः।  
 संशयं पृच्छमानानां किं भूयः कथयाम्यहम्॥ १५॥
 
-बलदेवः—
+**बलदेवः—**
 
 श्रूयतां परमं गुह्यं मानुषाणां सुखावहम् ।  
 अजानन्तो यदबुधाः क्लिश्यन्ते भूतपीडिताः॥ १६॥
 
-कल्य उत्थाय यो मर्त्यस्स्पृशेद्गां वै घृतं दधि ।  
-सर्षपं च प्रियङ्गुंच कल्मपात् प्रतिमुच्यते॥ १७॥
+कल्य उत्थाय यो मर्त्यस् स्पृशेद्गां वै घृतं दधि ।  
+सर्षपं च प्रियङ्गुं च कल्मपात् प्रतिमुच्यते॥ १७॥
 
 भूतानि चैव सर्वाणि अग्रतः पृष्ठतोऽपि वा ।  
 उच्छिष्टं वाऽपि च्छिद्रेषु वर्जयन्ति तपोधनाः ॥ १८॥
 
-देवाः—
+**देवाः—**
 
 प्रगृह्यौदुम्बरं पात्रं तोयपूर्णमुदङ्मुखः ।  
 उपवासं तु गृह्णीयाद् यद्वा सङ्कल्पयेद्व्रातम्॥ १९॥
@@ -22127,7 +22204,7 @@ The Presidency College,
 
 गुह्यमेतत् समुद्दिष्टं यथा तुष्यन्ति देवताः॥ २२॥
 
-धर्मः—
+**धर्मः—**
 
 राजपौरुषिके विप्रे घाण्टिके परिचारिके।  
 गोरक्षके वाणिजके तथा कारुकुशीलवे॥ २३॥
@@ -22143,9 +22220,9 @@ The Presidency College,
 निराशाः प्रतिगच्छन्ति अतिथेरप्रतिग्रहात्॥ २६॥
 
 स्त्रीघ्नैर्गोघ्नैः कृतघ्नैश्च ब्रह्मघ्नैर्गुरुतल्पगैः ।  
-तुल्यदोषोभवत्येभिर् यस्यातिथिरनर्चितः॥ २७॥
+तुल्यदोषो भवत्येभिर् यस्यातिथिरनर्चितः॥ २७॥
 
-अग्नि—
+**अग्नि—**
 
 पादमुद्यम्य यो मर्त्यस् स्पृशेद्गाश्च सुदुर्मतिः ।  
 ब्राह्मणं वा महाभागं दीप्यमानं तथाऽनलम्॥ २८॥
@@ -22168,7 +22245,7 @@ The Presidency College,
 
 एते दोषा मया प्रोक्तास् त्रिषु यः पादमुत्सृजेत्॥ ३३॥
 
-विश्वामित्रः—
+**विश्वामित्रः—**
 
 श्रूयतां परमं गुह्यं रहस्यं धर्मसंहितम्॥ ३४
 
@@ -22180,7 +22257,7 @@ The Presidency College,
 
 कृतं तेन महच्छ्राद्धं वर्षाणीह त्रयोदश॥ ३६॥
 
-गावः—
+**गावः—**
 
 बहुले समङ्गे ह्यकुतोभये च  
 क्षेमे च सङ्ख्येव हि भूयसी च ।  
@@ -22203,7 +22280,7 @@ The Presidency College,
 न तस्य पापं न भयं न शोकस्  
 सहस्रनेत्रस्य च याति लोकम्॥ ४०
 
-भीष्मः—
+**भीष्मः—**
 
 अथ सप्त महाभागा ऋषयो लोकविश्रुताः ।  
 वसिष्ठप्रमुखास्सर्वे ब्रह्माणं पद्मसम्भवम्॥ ४१॥
@@ -22213,22 +22290,23 @@ The Presidency College,
 उवाच वचनं तेषां वसिष्ठो ब्रह्मवित्तमः ।  
 सर्वप्राणिहितं प्रश्नं ब्रह्मक्षत्रे विशेषतः॥ ४३
 
-वसिष्टः—
+**वसिष्टः—**
 
-द्रव्यहीनाः कथं मर्त्यादरिद्रास्साधुवर्तिनः ।  
+द्रव्यहीनाः कथं मर्त्या दरिद्रास्साधुवर्तिनः ।  
 प्राप्नुवन्तीह यज्ञस्य फलं केन च कर्मणा॥ ४४  
 
-भीष्मः—
+
+**भीष्मः—**
 
 एतच्छ्रुत्वा वचस्तेषां ब्रह्मा वचनमब्रवीत् ॥ ४४॥
 
-ब्रह्मा—
+**ब्रह्मा—**
 
-अहो प्रश्नो महाभागा गूढार्थःपरमश्शुभः।  
+अहो प्रश्नो महाभागा गूढार्थः परमश्शुभः।  
 सूक्ष्मश्श्रेयांश्च मर्त्यानां भवद्भिस्समुदाहृतः॥ ४५
 
 श्रूयतां सर्वमाख्यास्ये निखिलेन तपोधनाः।  
-यथा यज्ञफलं मर्त्योलभते नात्र संशयः॥ ४६॥
+यथा यज्ञफलं मर्त्यो लभते नात्र संशयः॥ ४६॥
 
 पौषमासस्य शुक्ले वै या युज्येत रोहिणी।  
 तेन नक्षत्रयोगेन आकाशशयनो भवेत्॥ ४७
@@ -22239,24 +22317,25 @@ The Presidency College,
 एतद्वः परमं गुह्यं कथितं द्विजसत्तमाः ।  
 यन्मां भवन्तः पृच्छन्ति सूक्ष्मतत्त्वार्यदर्शिनः॥ ४९॥
 
-   **इति श्रीमहाभारते अनुशासनपर्वणि  
+   ** इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि एकोननवत्यधिकशततमोऽध्यायः ॥ १८९ ॥  
       \[ अस्मन्नध्याये ४९ ॥ लोकाः \]  
             ————**  
 
-॥ कुम्भघोणपुस्तके - नवत्यधिकशततमोऽध्यायः॥
+
+**॥ कुम्भघोणपुस्तके - नवत्यधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706524835Screenshot2023-11-27151930.png"/>
 
-॥ पूनाचित्रशालापुस्तके - सप्तविंशत्यधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - सप्तविंशत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706524879Screenshot2024-01-29161057.png"/>
 
 सूर्यगार्ग्यादिभिः पृथक्पृधग्धर्मरहस्यकथनम् ॥
 
-—————
+**—————**
 
-विभावसुः—
+**विभावसुः—**
 
 सलिलस्याञ्जलिं पूर्णम् अक्षताश्च घृतोत्तराः।  
 सोमस्योत्तिष्ठमानस्य तज्जलं चाक्षतांश्च तान्॥ १
@@ -22273,36 +22352,36 @@ The Presidency College,
 हव्यं न तस्य देवाश्च प्रतिगृह्णन्ति पर्वसु ।  
 कुप्यन्ते पितरश्चास्य कुले वंशोऽस्य हीयते॥ ५
 
-श्रीः—
+**श्रीः—**
 
 प्रकीर्णं भाजनं यत्र भिन्नभाण्डमथासनम् ।  
 योषितश्चैव हन्यन्ते कश्मलोपहते गृहे॥ ६
 
-देवताः पितरश्चैव उत्सवे पर्वणीषुवा ।  
+देवताः पितरश्चैव उत्सवे पर्वणीषु वा ।  
 निराशाः प्रतिगच्छन्ति कश्मलोपहताद्गृहात्॥ ७
 
-अङ्गिराः—
+**अङ्गिराः—**
 
 यस्तु संवत्सरं पूर्णं दद्याद्दीपं करञ्जके ।  
 सुवर्चलामूलहस्तः प्रजा तस्य विवर्धते॥ ८
 
-गार्ग्यः—
+**गार्ग्यः—**
 
 आतिथ्यं सततं कुर्याद् दीपं दद्यात् प्रतिश्रये ।  
 वर्जयानो दिवास्वापं न च मांसानि भक्षयेत्॥ ९
 
 गोब्राह्मणं न हिंस्याच्च पुष्कराणि च कीर्तयेत् ।  
-एषश्रेष्ठतमो धर्मस् सरहस्यो महाफलः॥ १०
+एष श्रेष्ठतमो धर्मस् सरहस्यो महाफलः॥ १०
 
 अपि क्रतुशतैरिष्ट्वा क्षयं गच्छति तद्धविः ।  
-न तु क्षीयन्ति ते धर्माश् श्रद्दधानैःप्रयोजिताः॥ ११
+न तु क्षीयन्ति ते धर्माश् श्रद्दधानैः प्रयोजिताः॥ ११
 
 इदं च परमं गुह्यं सरहस्यं निबोधत।
 
 श्राद्धकल्पे च दैवे च तैर्थिके पर्वणीषु च॥ १२
 
 रजस्वला च या नारी श्वित्रिकाऽपुत्रिका च या ।  
-एताभिश्चक्षुषा दृष्टंहविर्नाश्नन्ति देवताः॥ १३
+एताभिश्चक्षुषा दृष्टं हविर्नाश्नन्ति देवताः॥ १३
 
 पितरश्च न तुष्यन्ति वर्षाण्यपि त्रयोदश॥ १३॥
 
@@ -22311,7 +22390,7 @@ The Presidency College,
 
 **धोम्यः—**
 
-भिन्नभाण्डं च खट्वांच कुक्कुटं शुनकं तथा ।  
+भिन्नभाण्डं च खट्वां च कुक्कुटं शुनकं तथा ।  
 अप्रशस्तानि सर्वाणि यश्च वृक्षो गृहेरुहः॥ १५॥
 
 भिन्नभाण्डे कलिं प्राहुः खट्वायां तु धनक्षयः ।  
@@ -22319,7 +22398,7 @@ The Presidency College,
 
 वृक्षमूले ध्रुवं सत्त्वं तस्माद्वृक्षं न रोपयेत्॥ १७
 
-जमदग्निः—
+**जमदग्निः—**
 
 यो यजेदश्वमेधेन वाजपेयशतेन ह ।  
 अवाक्शिरा वा लम्बेत सत्रं वा स्फीतमाहरेत्॥ १८
@@ -22330,26 +22409,25 @@ The Presidency College,
 शुद्धेन मनसा दत्त्वा सक्तुप्रस्थं द्विजातये।  
 ब्रह्मलोकमनुप्राप्तः पर्याप्तं तन्निदर्शनम्॥ २०
 
-  इति श्रीमहाभारते अनुशासनपर्वणि  
+** इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि नवत्यधिकशततमोऽध्यायः ॥ १९० ॥  
     \[ अस्मिन्नध्याये २० श्लोकाः \]  
-          ———  
+          ———**  
+  
 
- 
-
-॥ कुम्भघोणपुस्तके - एकनवत्यधिकशततमोऽध्यायः॥
+**॥ कुम्भघोणपुस्तके - एकनवत्यधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706526134Screenshot2023-11-27151930.png"/>
 
-॥ पूनाचित्रशालापुस्तके - अष्टाविंशत्यधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - अष्टाविंशत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706526151Screenshot2024-01-29114938.png"/>
 
 वायुना धर्मरहस्यकथनम् ॥
 
-——————
+**——————**
 
-वायुः—
+**वायुः—**
 
 किञ्चिद्धर्मं प्रवक्ष्यामि मानुषाणां सुखावहम् ।  
 सरहस्याश्च ये दोषास् ताञ् शृणुध्वं समाहिताः॥ १
@@ -22381,27 +22459,27 @@ The Presidency College,
 ततस्संवत्सरे पूर्णे प्रतिगृह्णन्ति देवताः ।  
 हृष्यन्ति पितरश्चास्य श्राद्धकाल उपस्थिते॥ ९॥
 
-एषह्यधर्मो धर्मश्च सरहस्यः प्रकीर्तितः ।  
+एष ह्यधर्मो धर्मश्च सरहस्यः प्रकीर्तितः ।  
 मर्त्यानां स्वर्गकामानां प्रेत्य स्वर्गसुखावहः॥ १०॥
 
-  **इति श्रीमहाभारते अनुशासनपर्वणि  
+  ** इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि एकनवत्यधिकशततमोऽध्यायः ॥ १९१ ॥  
      \[ अस्मिन्नध्याये १०॥ श्लोकाः \]  
            ————**
 
-॥ कुम्भघोणपुस्तके - द्विनवत्यधिकशततमोऽध्यायः॥
+**॥ कुम्भघोणपुस्तके - द्विनवत्यधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706531927Screenshot2023-11-27151930.png"/>
 
-॥ पूनाचित्रशालापुस्तके - त्रिंशदधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - त्रिंशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706531927Screenshot2023-11-27151930.png"/>
 
 लोमशेन धर्मरहस्यकथनम् ॥
 
-—————
+**—————**
 
-लोमशः—
+**लोमशः—**
 
 परदारेषु ये सक्ता अकृत्वा दारसङ्ग्रहम् ।  
 निराशाः पितरस्तेषां श्राद्धकाले भवन्ति वै॥ १
@@ -22452,33 +22530,34 @@ The Presidency College,
 दानधर्मपर्वणि द्विनवत्यधिकशततमोऽध्यायः ॥ १९२ ॥  
      \[ अस्मिन्नध्याये १५ श्लोकाः \]**
 
-————  
+**————**  
 
-॥ कुम्भघोणपुस्तके -त्रिनवत्यधिकशततमोऽध्यायः ॥
+
+**॥ कुम्भघोणपुस्तके - त्रिनवत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706532569Screenshot2023-12-12114852.png"/>
 
-॥ पूनाचित्रशालापुस्तके - एकविंशत्यधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - एकविंशत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706532588Screenshot2023-11-28185856.png"/>
 
 भीष्मेण युधिष्टिरं प्रत्यरुन्धतीचित्रगुप्तोदितधर्मरहस्यकथनम्॥
 
-—————
+**—————**
 
-भीष्मः—
+**भीष्मः—**
 
 ततस्त्वृषिगणास्सर्वे पितरश्च सदेवताः ।  
 अरुन्धतीं तपोवृद्धाम् अपृच्छन्त समाहिताः॥ १
 
 समानशीलां वीर्येण वसिष्ठस्य महात्मनः॥ १॥
 
-ऋष्यादयः—
+**ऋष्यादयः—**
 
 त्वत्तो धर्मरहस्यानि श्रोतुमिच्छामहे वयम्।  
 यत्ते गुह्यतमं भद्रे तत् प्रभापितुमर्हसि॥ २॥
 
-अरुन्धती—
+**अरुन्धती—**
 
 तपोवृद्धिर्मया प्राप्ता भवतां स्मरणेन वै ।  
 भवतां च प्रसादेन धर्मान् वक्ष्यामि शाश्वतान्॥ ३॥
@@ -22486,7 +22565,7 @@ The Presidency College,
 सगुह्यान् सरहस्यांश्च ताञ् शृणुध्वमशेषतः ।  
 श्रद्दधाने प्रयोक्तव्या यस्य शुद्धं तथा मनः॥ ४॥
 
-अश्रद्दधानो मानी च ब्रह्महागुरुतल्पगः।  
+अश्रद्दधानो मानी च ब्रह्महा गुरुतल्पगः।  
 असम्भाष्या हि चत्वारो नैषां धर्मं प्रकाशयेत्॥ ५॥
 
 अहन्यहनि यो दद्यात् कपिलां द्वादशीस्समाः ।
@@ -22510,7 +22589,7 @@ The Presidency College,
 
 अभिषेकस्समस्तेषां गवां शृङ्गोदकस्य च ॥ ११॥
 
-भीष्मः—
+**भीष्मः—**
 
 साधु साध्विति चोद्दिष्टं दैवतैः पितृभिस्तथा ।  
 भूतैश्चैव सुसंहृष्टैः पूजिता साप्यरुन्धती॥ १२॥
@@ -22520,10 +22599,11 @@ The Presidency College,
 अहो धर्मो महाभागे सरहस्य उदाहृतः ।  
 वरं ददामि ते धन्ये तपस्ते वर्धतां सदा॥ १३॥
 
-यमः—
+**यमः—**
 
 रमणीया कथा दिव्या युष्मत्तो या मया श्रुता ।  
 श्रूयतां चित्रगुप्तस्य भाषितं मम च प्रियम्॥ १४॥  
+
 
 रहस्यं धर्मसंयुक्तं शक्यं श्रोतुं महर्षिभिः ।  
 श्रद्दधानेन मर्त्येन आत्मनो हितमिच्छता॥ १५॥
@@ -22534,7 +22614,7 @@ The Presidency College,
 प्रेतलोकं गते मर्त्ये तत्तत् सर्वं विभावसुः।  
 प्रतिजानाति पुण्यात्मा तच्च तत्रोपयुज्यते॥ १७
 
-किञ्चिद्धर्मंप्रवक्ष्यामि चित्रगुप्तमतं शुभम्॥ १८
+किञ्चिद्धर्मं प्रवक्ष्यामि चित्रगुप्तमतं शुभम्॥ १८
 
 पानीयं चैव दीपं च दातव्यं सततं तथा ।  
 उपानहौ च च्छत्रं च कपिला च यथातथम्॥ १९
@@ -22542,7 +22622,7 @@ The Presidency College,
 पुष्करे कपिला देया ब्राह्मणे वेदपारगे ।  
 अग्निहोत्रं च यत्नेन सर्वशः प्रतिपालयेत्॥ २०
 
-अयं चैवापरो धर्मश्चित्रगुप्तेन भाषितः ।  
+अयं चैवापरो धर्मश् चित्रगुप्तेन भाषितः ।  
 फलमस्य पृथक्त्वेन श्रोतुमर्हन्ति सत्तमाः॥ २१
 
 प्रलयं सर्वभूतैस्तु गन्तव्यं कालपर्ययात्॥ २१॥
@@ -22587,12 +22667,12 @@ The Presidency College,
 
 न हि दत्तस्य दानस्य नाशोऽस्तीह कदाचन॥ ३४
 
-भीष्मः—
+**भीष्मः—**
 
 चित्रगुप्तमतं श्रुत्वा हृष्टरोमा विभावसुः।  
 उवाच देवतास्सर्वाः पितॄंश्चैव महाद्युतिः॥ ३५
 
-विभावसुः—
+**विभावसुः—**
 
 श्रुतं हि चित्रगुप्तस्य धर्मगुह्यं महात्मनः॥ ३५॥
 
@@ -22615,26 +22695,26 @@ The Presidency College,
 दानधर्मपर्वणि त्रिनवत्यधिकशततमोऽध्यायः ॥ १९३ ॥  
    \[ अस्मिन्नध्याये ४०॥ श्लोकाः \]**
 
-   ———
+** ———**
 
-॥ कुम्भघोणपुस्तके - चतुर्नवत्यधिकशततमोऽध्यायः॥
+**॥ कुम्भघोणपुस्तके - चतुर्नवत्यधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706534704Screenshot2023-11-27141111.png"/>
 
-॥ पूनाचित्रशालापुस्तके - एकत्रिंशदधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - एकत्रिंशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706534717Screenshot2023-11-27151930.png"/>
 
 प्रमथैऋषिगणान् प्रति प्रजानां स्वहिंसातदभावकारणाभिधानम्॥
 
-————
+**————**
 
-भीष्मः—
+**भीष्मः—**
 
-ततस्सर्वे महाभागा देवाश्चपितरश्च ह ।  
+ततस्सर्वे महाभागा देवाश्च पितरश्च ह ।  
 ऋषयश्च महाभागाः प्रमथान् वाक्यमब्रुवन्॥ १
 
-देवर्षिपितरः—
+**देवर्षिपितरः—**
 
 भवन्तो वै महाभागा अपरोक्षनिशाचराः।  
 उच्छिष्टानशुचीन् क्षुद्रान् कथं हिंसथ मानवान्॥ २
@@ -22644,7 +22724,7 @@ The Presidency College,
 
 श्रोतुमिच्छाम युष्माकं सर्वमेतन्निशाचराः॥ ३॥
 
-प्रमथाः—
+**प्रमथाः—**
 
 मैथुनेन सदोच्छिष्टाः कृते चैवाधरोत्तरे ।  
 मोहान्मांसानि खादेत वृक्षमूले च यस्स्वपेत्॥ ४॥
@@ -22682,7 +22762,7 @@ The Presidency College,
       \[ अस्मिन्नध्याये १३ श्लोकाः \]  
              ————**
 
-॥ कुम्भघोणपुस्तके -पञ्चनवत्यधिकशततमोऽध्यायः ॥
+**॥ कुम्भघोणपुस्तके - पञ्चनवत्यधिकशततमोऽध्यायः ॥**
 
 **<MISSING_FIG href="../books_images/U-IMG-1706535473Screenshot2024-01-29190733.png"/>**
 
@@ -22692,14 +22772,14 @@ The Presidency College,
 
 रेणुकनामकेन करेणुना देवादीन् प्रति दिग्गजगदितधर्मनिवेदनम्॥
 
-—————
+**—————**
 
-भीष्मः—
+**भीष्मः—**
 
 ततः पद्मप्रतीकाशः पद्मोद्भूतः पितामहः ।  
 उवाच वचनं देवान् वासवं च शचीपतिम्॥ १
 
-पितामहः—
+**पितामहः—**
 
 अयं महाबलो नागो रसातलचरो बली।  
 तेजस्वी रेणुको नाम महासत्त्वपराक्रमः॥ २
@@ -22710,19 +22790,19 @@ The Presidency College,
 भवद्भिस्समनुज्ञातो रेणुकस्तान् महागजान्।  
 धर्मगुह्यानि सर्वाणि गत्वा पृच्छतु तत्र वै॥ ४
 
-भीष्मः—
+**भीष्मः—**
 
 पितामहवचश्श्रुत्वा ते देवा रेणुकं तथा ।  
 प्रेषयामासुरव्यग्रा यत्र ते धरणीघराः॥ ५
 
-रेणुकः—
+**रेणुकः—**
 
 अनुज्ञातोऽस्मि देवैश्च पितृभिश्च महावलाः ।  
 धर्मगुह्यानि युष्माकं श्रोतुमिच्छामि तत्त्वतः॥ ६
 
 कथयध्वं महाभागा यद्वस्तत्त्वं मनीषितम्॥ ६॥
 
-दिग्गजाः—
+**दिग्गजाः—**
 
 कार्तिके मासि चाश्लेषा बहुलस्याष्टमी शिवा।  
 तेन नक्षत्रयोगेन यो ददाति गुडौदनम्॥ ७॥
@@ -22736,50 +22816,50 @@ The Presidency College,
 ते मे बलिं प्रयच्छन्तु बलतेजोभिवृद्धये॥ १०
 
 यदा नारायणश्श्रीमान् उज्जहार वसुन्धराम् ।  
-तद्बलंतस्य देवस्य धरामुद्धरतस्तथा॥ ११
+तद्बलं तस्य देवस्य धरामुद्धरतस्तथा॥ ११
 
 एवमुक्त्वा बलिं तत्र वल्मीके तु निवेदयेत्॥ ११॥
 
 गजेन्द्र कुसुमाकीर्णं नीलवस्त्रानुलेपनम् ।  
 निर्वपेत्तं तु बल्मीके अस्तं याते दिवाकरे॥ १२॥
 
-एवं तुष्टास्ततस्सर्वेअधस्ताद्भारपीडिताः ।  
+एवं तुष्टास्ततस्सर्वे अधस्ताद्भारपीडिताः ।  
 श्रमं तं नाववुध्यामो धारयन्तो वसुन्धराम्॥ १३॥
 
 एवं मन्यामहे सर्वे भारार्ता निरपेक्षिणः॥ १४
 
-ब्राह्मणःक्षत्रियो वैश्यश् शूद्रो वा यद्युपोषितः ।  
+ब्राह्मणः क्षत्रियो वैश्यश् शूद्रो वा यद्युपोषितः ।  
 एवं संवत्सरं कृत्वा दानं बहुफलं लभेत्॥ १५
 
 वल्मीके बलिमादाय तन्नो बहुफलं मतम्॥ १५॥
 
-ये च नागा महावीर्यास् त्रिषुलोकेषु कृत्स्नशः ।  
+ये च नागा महावीर्यास् त्रिषु लोकेषु कृत्स्नशः ।  
 कृतातिथ्या भवेयुस्ते शतं वर्षाणि तत्त्वतः॥ १६॥
 
-भीष्मः—
+**भीष्मः—**
 
 दिग्गजानां च तच्छ्रुत्वा देवताः पितरस्तथा ।  
 ऋषयश्च महाभागाः पूजयन्ति स्म रेणुकम्॥ १७॥
 
-इति श्रीमहाभारते अनुशासनपर्वणि  
+**इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि पञ्चनवत्यधिकशततमोऽध्यायः ॥ १९५॥  
-   \[ अस्मिन्नध्याये १७॥ श्लोकाः \]
+   \[ अस्मिन्नध्याये १७॥ श्लोकाः \]**
 
-—————
+**—————**
 
-॥ कुम्भघोणपुस्तके - षण्णवत्यधिकशततमोऽध्यायः ॥
+**॥ कुम्भघोणपुस्तके - षण्णवत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706536410Screenshot2024-01-29190733.png"/>
 
-॥ पूनाचित्रशालापुस्तके - त्रयस्त्रिंशदधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - त्रयस्त्रिंशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706536410Screenshot2024-01-29190733.png"/>
 
 महेश्वरेण देवादीन् प्रति गोप्रशंसनम् ॥
 
-—————
+**—————**
 
-श्रीमहेश्वरः——
+**श्रीमहेश्वरः——**
 
 सारमुद्धृत्य युष्माभिस् साधुधर्म उदाहृतः ।  
 धर्मगुह्यमिदं मत्तश् शृणुध्वं सर्व एव ह॥ १
@@ -22801,7 +22881,7 @@ The Presidency College,
 ततोऽहमनुनीतो वै ब्रह्मणा पद्मयोनिना॥ ६
 
 तस्माद्व्रजस्थानगतस् तिष्ठत्युपरि मे वृषः।  
-रमेऽहं सहगोभिश्च तस्मात् पूज्यास्सदैव ताः॥ ७
+रमेऽहं सह गोभिश्च तस्मात् पूज्यास्सदैव ताः॥ ७
 
 महाप्रभावा वरदा वरं दद्युरुपासिताः ।  
 ता गावोऽस्यानुमन्यन्ते सर्वकर्मसु यत् फलम्॥ ८
@@ -22811,13 +22891,14 @@ The Presidency College,
 **इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि षण्णवत्यधिकशततमोऽध्यायः ॥ १९६ ॥  
      \[ अस्मिन्नध्याये ८॥ श्लोकाः \]**  
-           **—————**  
+           ** —————**  
 
-॥ कुम्भघोणपुस्तके - सप्तनवत्यधिकशततमोऽध्यायः॥
+
+**॥ कुम्भघोणपुस्तके - सप्तनवत्यधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706537111Screenshot2024-01-29190733.png"/>
 
-॥पूनाचित्रशालापुस्तके - चतुर्स्त्रिंशदधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - चतुर्स्त्रिंशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706537111Screenshot2024-01-29190733.png"/>
 
@@ -22825,7 +22906,7 @@ The Presidency College,
 
 —————
 
-स्कन्दः—
+**स्कन्दः—**
 
 ममाप्यनुमतो धर्मस् तं शृणुध्वं समाहिताः॥
 
@@ -22849,7 +22930,8 @@ The Presidency College,
 
 एष धर्मो मयोद्दिष्टस् सरहस्यस्सुखावहः॥ ६॥  
 
-विष्णुः—
+
+**विष्णुः—**
 
 धर्मगुह्यानि सर्वाणि देवतानां महात्मनाम् ।  
 ऋषीणां चैव गुह्यानि यः पठेदाह्निकं सदा॥ ७॥
@@ -22873,7 +22955,7 @@ The Presidency College,
 कृत्वाऽपि पापकं कर्म महापातकवर्जितम् ।  
 रहस्यधर्मं श्रुत्वेमं सर्वपापैः प्रमुच्यते॥ १३॥
 
-भीष्मः—
+**भीष्मः—**
 
 एतद्धर्मरहस्यं वै देवतानां नराधिप ।  
 व्यासोद्दिष्टं मया प्रोक्तं सर्वदेवनमस्कृतम्॥ १४॥
@@ -22891,13 +22973,13 @@ The Presidency College,
 दानधर्मपर्वणि सप्तनवत्यधिकशततमोऽध्यायः ॥ १९७॥  
     \[ अस्मिन्नध्याये १६॥ श्लोकाः \]
 
-————
+**————**
 
-॥ कुम्भघोणपुस्तके - अष्टनवत्यधिकशततमोऽध्यायः ॥
+**॥ कुम्भघोणपुस्तके - अष्टनवत्यधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706537887Screenshot2024-01-29190733.png"/>
 
-॥ पूनाचित्रशालापुस्तके - पञ्चत्रिंशदधिकशततमोऽध्यायः॥
+**॥ पूनाचित्रशालापुस्तके - पञ्चत्रिंशदधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706537887Screenshot2024-01-29190733.png"/>
 
@@ -22910,12 +22992,12 @@ The Presidency College,
 के भोज्या ब्राह्मणस्येह के भोज्याः क्षत्रियस्य ह ।  
 तथा वैश्यस्य के भोज्याः के शूद्रस्य च भारत॥ १
 
-भीष्मः—
+**भीष्मः—**
 
 ब्राह्मणा ब्राह्मणस्येह भोज्या ये चैव क्षत्रियाः ।  
 वैश्याश्चापि तथा भोज्याश् शूद्राश्च परिवर्जिताः॥ २
 
-ब्राह्मणाः क्षत्रियावैश्या भोज्या वै क्षत्रियस्य ह ।  
+ब्राह्मणाः क्षत्रिया वैश्या भोज्या वै क्षत्रियस्य ह ।  
 वर्जनीयास्तु वै शूद्रास् सर्वभक्षा विकर्मिणः॥ ३
 
 वैश्यास्तु भोज्या विप्राणां क्षत्रियाणां तथैव च ।  
@@ -22977,11 +23059,11 @@ The Presidency College,
    \[ अस्मिन्नध्याये २०॥ श्लोकाः \]  
            ———
 
-॥ कुम्भघोणपुस्तके - एकोनद्विशततमोऽध्यायः॥
+**॥ कुम्भघोणपुस्तके - एकोनद्विशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706537887Screenshot2024-01-29190733.png"/>
 
-॥ पूनाचित्रशालापुस्तके -षट्त्रिंशदधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - षट्त्रिंशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706537887Screenshot2024-01-29190733.png"/>
 
@@ -22989,7 +23071,7 @@ The Presidency College,
 
 —————
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 उक्तास्तु भवता भोज्यास् तथाऽभोज्याश्च सर्वशः ।  
 अत्र मे प्रश्नसन्देहस् तन्मे वद पितामह॥ १
@@ -22997,7 +23079,7 @@ The Presidency College,
 ब्राह्मणानां विशेषेण हव्यकव्यप्रतिग्रहे ।  
 नानाविधेषु भोज्येषु प्रायश्चित्तानि शंस मे॥ २
 
-भीष्मः—
+**भीष्मः—**
 
 हन्त वक्ष्यामि ते राजन् ब्राह्मणानां महात्मनाम् ।  
 प्रतिग्रहेषु भोज्ये च मुच्यते येन पाप्मनः॥ ३
@@ -23033,7 +23115,7 @@ The Presidency College,
 न च सन्ध्यामुपासीत न च जप्यं प्रवर्तयेत् ।  
 न सङ्किरेत्तदन्नं च ततः पूयेत ब्राह्मणः॥ १३
 
-इत्यर्थमपराह्णेतु पितॄणां श्राद्धमुच्यते ।  
+इत्यर्थमपराह्णे तु पितॄणां श्राद्धमुच्यते ।  
 यथोक्तानां यदश्नीयुर् ब्राह्मणाः पूर्वकेतिताः॥ १४
 
 मृतकस्य तृतीयाहे ब्राह्मणो योऽन्नमश्नुते ।
@@ -23041,7 +23123,7 @@ The Presidency College,
 स त्रिवेलं समुन्मज्ज्य द्वादशाहेन शुध्यति॥ १५
 
 द्वादशाहे व्यतीते तु कृतशौचो विशेषतः।  
-ब्राह्मणेभ्यो हविर्दत्त्वामुच्यते तेन पाप्मना॥ १६
+ब्राह्मणेभ्यो हविर्दत्त्वा मुच्यते तेन पाप्मना॥ १६
 
 मृतस्य दशरात्रेण प्रायश्चित्तानि दापयेत् ।  
 सावित्रीं रैवतीमिष्टिं कूश्माण्डमघमर्षणम्॥ १७
@@ -23069,32 +23151,32 @@ The Presidency College,
 तथोच्छिष्टमथान्योन्यं सम्प्राशेन्नात्र संशयः ।  
 रोचना विरजाऽऽरात्रिर् मङ्गलालम्भनानि च॥ २४॥
 
-इति श्रीमहाभारते अनुशासनपर्वणि  
+**इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि एकोनद्विशततमोऽध्यायः ॥ १९९॥  
-   \[ अस्मिन्नध्याये २४॥श्लोकाः \]
+   \[ अस्मिन्नध्याये २४॥ श्लोकाः \]**
 
-—————
+**—————**
 
-॥ कुम्भघोणपुस्तके - द्विशततमोऽध्यायः ॥
+**॥ कुम्भघोणपुस्तके - द्विशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706541517Screenshot2023-12-06205315.png"/>
 
-॥ पूनाचित्रशालापुस्तके - सतत्रिंशदधिकशततमोऽध्यायः ॥
+**॥ पूनाचित्रशालापुस्तके - सतत्रिंशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706541500Screenshot2024-01-29161057.png"/>
 
 भीष्मेण युधिष्ठिरं प्रति दृष्टान्तप्रदर्शनपूर्वकं दानप्रशंसनम्॥
 
-—————
+**—————**
 
-युधिष्ठिरः—
+**युधिष्ठिरः—**
 
 दानेन वर्ततेत्याह तपसा चैव भारत।  
 तदेतन्मे मनोदुःखं व्यपोह त्वं पितामह॥ १
 
 किंस्वित् पृथिव्यां ह्येतन्मे भवाञ् शंसितुमर्हति॥ १॥
 
-भीष्मः—
+**भीष्मः—**
 
 शृणु यैर्धर्मनिरतैस् तपसा भावितात्मभिः ।  
 लोका ह्यसंशयं प्राप्ता दानपुण्यरतैर्नृपैः॥ २॥
@@ -23106,7 +23188,7 @@ The Presidency College,
 ब्राह्मणार्थमुपाकृत्य नाकपृष्ठमितो गतः॥ ४॥
 
 प्रतर्दनः काशिपतिः प्रदाय तनयं स्वकम्।  
-ब्राह्मणायातुलां कीर्तिम्इह चामुत्र चाश्नुते॥ ५॥
+ब्राह्मणायातुलां कीर्तिम् इह चामुत्र चाश्नुते॥ ५॥
 
 रन्तिदेवश्च साङ्क्रत्यो वसिष्ठाय महात्मने ।  
 अर्घ्यं प्रदाय विधिवल्लेभे लोकाननुत्तमान्॥ ६॥
@@ -23120,7 +23202,7 @@ The Presidency College,
 सावित्र**:** कुण्डलं दिव्यं यानं च जनमेजयः ।  
 ब्राह्मणाय च गा दत्त्वा गतो लोकाननुत्तमान्॥ ९॥
 
-वृषादर्भिश्च राजर्षीरत्नानि विविधानि च ।  
+वृषादर्भिश्च राजर्षी रत्नानि विविधानि च ।  
 रम्यांश्चावसथान् दत्त्वा द्विजेभ्यो दिवमागतः॥ १०॥
 
 निमी राष्ट्रं च वैदर्भिः कन्यां दत्त्वा महात्मने।  
@@ -23134,10 +23216,10 @@ The Presidency College,
 वसिष्ठो जीवयामास येन यातोऽक्षयां गतिम्॥ १३॥
 
 रामो दाशरथिश्चैव हुत्वा यज्ञेषु वै वसु।  
-स गतो ह्यक्षयाल्ँलोकान् यस्य लोके महद्यशः॥ १४॥
+स गतो ह्यक्षयाल्ँ लोकान् यस्य लोके महद्यशः॥ १४॥
 
 कक्षसेनश्च राजर्षिर् वसिष्ठाय महात्मने ।  
-न्यासं यथावत् संन्यस्य जगाम सुमहायशः॥ १५॥
+न्यासं यथावत् सन्न्यस्य जगाम सुमहायशः॥ १५॥
 
 करन्धमस्य पौत्रस्तु मरुत्तोऽविक्षितस्सुतः ।  
 कन्यामाङ्गिरसे दत्त्वा दिवमाशु जगाम सः॥ १६॥
@@ -23151,7 +23233,7 @@ The Presidency College,
 मनोः पुत्रश्च सुद्युम्नो लिखिताय महात्मने ।  
 दण्डमुद्धृत्य धर्मेण गतो लोकाननुत्तमान्॥ १९
 
-सहस्रचित्यो राजर्षिःप्राणानिष्टान् महायशाः ।  
+सहस्रचित्यो राजर्षिः प्राणानिष्टान् महायशाः ।  
 ब्राह्मणार्थे परित्यज्य गतो लोकाननुत्तमान्॥ २०
 
 सर्वकामैश्च सम्पूर्णं दत्त्वा वेश्म हिरण्मयम्  
@@ -23192,15 +23274,15 @@ The Presidency College,
 
 इति श्रीमहाभारते अनुशासनपर्वणि  
 दानधर्मपर्वणि द्विशततमोऽध्यायः ॥ २००॥  
-  \[ अस्मिन्नध्याये ३२ ॥श्लोकाः \]
+  \[ अस्मिन्नध्याये ३२ ॥ श्लोकाः \]
 
 —————
 
-॥ कुम्भघोणपुस्तके एकाधिकद्विशततमोऽध्यायः॥
+**॥ कुम्भघोणपुस्तके एकाधिकद्विशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706548596Screenshot2023-11-27141111.png"/>
 
-॥ पूनाचित्रशालापुस्तके अष्टात्रिंशदधिकशततमोऽध्यायः॥
+**॥ पूनाचित्रशालापुस्तके अष्टात्रिंशदधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706548583Screenshot2023-11-27151930.png"/>
 
@@ -23208,7 +23290,7 @@ The Presidency College,
 
 —————
 
-युधिष्टिरः—
+**युधिष्टिरः—**
 
 श्रुतं मे भवतस्तात सत्यव्रतपराक्रम।  
 दानधर्मेण महता ये प्राप्तास्त्रिदिवं नृपाः॥ १
@@ -23219,7 +23301,7 @@ The Presidency College,
 कथं केभ्यश्च धर्म्यं च दानं दातव्यमिष्यते।  
 कैः कारणैः कतिविधं श्रोतुमिच्छामि तत्त्वतः॥ ३
 
-भीष्मः—
+**भीष्मः—**
 
 शृणु तत्त्वेन कौन्तेय दानं प्रति ममानघ।
 
@@ -23251,16 +23333,14 @@ The Presidency College,
     \[ अस्मिन्नध्याये ११ श्लोकाः \]  
            ———
 
-॥ कुम्भघोणपुस्तके - एकपञ्चाशदधिकशततमोऽध्यायः ॥
+**॥ कुम्भघोणपुस्तके - एकपञ्चाशदधिकशततमोऽध्यायः ॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706549174Screenshot2023-12-12114852.png"/>  
- 
+  
 
-   
+    ** ** **पूनाचित्रशालापुस्तके **
 
-**पूनाचित्रशालापुस्तके**
-
-॥सप्तचत्वारिंशदधिकशततमोऽध्यायः॥
+**॥ सप्तचत्वारिंशदधिकशततमोऽध्यायः॥**
 
 <MISSING_FIG href="../books_images/U-IMG-1706549233Screenshot2023-11-27141111.png"/>
 
@@ -23270,23 +23350,23 @@ The Presidency College,
 
 ————
 
-ऋषयः—
+**ऋषयः—**
 
-पिनाकिन् भगनेत्रघ्नसर्वलोकनमस्कृत ।  
+पिनाकिन् भगनेत्रघ्न सर्वलोकनमस्कृत ।  
 माहात्म्यं वासुदेवस्य श्रोतुमिच्छामि शङ्कर॥ १
 
 **ईश्वरः—**
 
-पितामहादपि वरश्शाश्वतः पुरुषो हरिः ।  
+पितामहादपि वरश् शाश्वतः पुरुषो हरिः ।  
 कृष्णो जाम्बूनदाभासो व्यभ्रे सूर्य इवोदितः॥ २
 
 दशबाहुर्महातेजा देवतारिनिषूदनः ।  
-श्रीवत्साङ्को हृषीकेशस्सर्वदैवतपूजितः॥ ३
+श्रीवत्साङ्को हृषीकेशस् सर्वदैवतपूजितः॥ ३
 
 ब्रह्मा तस्योदरभवस् तस्याहं च शिरोभवः ।  
-शिरोरुहेभ्यो ज्योतींषिरोमभ्यश्च सुरासुराः॥ ४
+शिरोरुहेभ्यो ज्योतींषि रोमभ्यश्च सुरासुराः॥ ४
 
-ऋषयो देहसम्भूतास् तस्य लोकाश्चशाश्वताः।  
+ऋषयो देहसम्भूतास् तस्य लोकाश्च शाश्वताः।  
 पितामहगृहं साक्षात् सर्वदेवगृहं च सः॥ ५
 
 सोऽस्याः पृथिव्याः कृत्स्नायास् स्रष्टा त्रिभुवनेश्वरः ।  
@@ -23296,7 +23376,7 @@ The Presidency College,
 सर्वज्ञस्सर्वसंश्लिष्टस् सर्वगस्सर्वतोमुखः॥ ७
 
 परमात्मा हृषीकेशस् सर्वव्यापी महेश्वरः ।  
-न तस्मात् परमं भूतं त्रिषु लोकेषुकिञ्चन॥ ८
+न तस्मात् परमं भूतं त्रिषु लोकेषु किञ्चन॥ ८
 
 सनातनो वै मधुहा गोविन्द इति विश्रुतः।  
 स सर्वान् पार्थिवान् सङ्ख्ये घातयिष्यति मानदः॥ ९
@@ -23327,7 +23407,7 @@ The Presidency College,
 अस्त्रैस्समुदितस्सर्वैर् दिव्यैरद्भुतदर्शनैः॥ १७
 
 योगमायस्सहस्राक्षो निरपायो महामनाः ।  
-वीरो मित्रजनश्लाघीज्ञातिबन्धुजनप्रियः॥ १८
+वीरो मित्रजनश्लाघी ज्ञातिबन्धुजनप्रियः॥ १८
 
 क्षमावांश्चानहंवादी ब्रह्मण्यो ब्रह्मनायकः ।  
 भयहर्ता भयार्तानां मित्राणां नन्दिवर्धनः॥ १९
@@ -23358,7 +23438,7 @@ The Presidency College,
 
 यदुस्तस्मान्महासत्त्वः क्रोष्टा तस्माद्भविष्यति ।
 
-क्रोष्टुश्चैवमहान् पुत्रो वृजिनीवान् भविष्यति ॥ २८
+क्रोष्टुश्चैव महान् पुत्रो वृजिनीवान् भविष्यति ॥ २८
 
 वृजिनीवतश्च भविता उषङ्गुरपराजितः ।  
 उषङ्गोर्भविता पुत्रशू शूरश्चित्ररथस्तथा ॥ २९
@@ -23458,10 +23538,10 @@ The Presidency College,
 समादिष्टश्च विबुधैर् दर्शय त्वमिति प्रभो ।  
 सुपर्णो यस्य वीर्येण कश्यपस्यात्मजो बली ॥ ५१
 
-अन्तं नैवाशकद्द्रष्टुंदेवस्य परमात्मनः ॥ ५९ ॥
+अन्तं नैवाशकद्द्रष्टुं देवस्य परमात्मनः ॥ ५९ ॥
 
 स च शेषो विचरते परया वै मुदा युतः ।  
-अन्तर्वसतिंभोगेन परिरभ्य वसुन्धराम् ॥ ६० ॥
+अन्तर्वसतिं भोगेन परिरभ्य वसुन्धराम् ॥ ६० ॥
 
 य एव विष्णुस्सोऽनन्तो भगवान् वसुधाधरः ।  
 यो रामस्स हृषीकेशो योऽच्युतस्सधराधरः ॥ ६१ ॥
@@ -23473,10 +23553,11 @@ The Presidency College,
 यद्भवन्तो यदुश्रेष्ठं पूजयेयुः प्रयत्नतः ॥ ६३ ॥
 
 इति श्रीमहाभारते अनुशासनपर्वणि  
-दानधर्मपर्वणिएकपञ्चाशदधिकद्विशततमोऽध्यायः ॥ २५१ ॥  
+दानधर्मपर्वणि एकपञ्चाशदधिकद्विशततमोऽध्यायः ॥ २५१ ॥  
 \[ अस्मिन्नध्याये ६३ ॥ श्लोकाः \]
 
 —————  
+
 
 **॥ कुम्भघोणपुस्तके द्विपञ्चाशदधिकद्विशततमोऽध्यायः ॥**
 
@@ -23506,27 +23587,27 @@ The Presidency College,
 व्यभ्रं च गगनं सद्यः क्षणेन समपद्यत ।  
 तीर्थयात्रां ततो विप्रा जग्मुश्चान्ये यथागतम् ॥ ४
 
-तदद्भुतमंचिन्त्यं च दृष्ट्वा ते विस्मिता भवन् ।  
+तदद्भुतमञ्चिन्त्यं च दृष्ट्वा ते विस्मिता भवन् ।  
 शङ्करस्योमया सार्धं संवादं त्वत्कथाश्रयम् ॥ ५
 
 स भवान् पुरुषव्याघ्र ब्रह्मभूतस्सनातनः ।
 
-यदर्थमनुशिष्टास्स्मोगिरिपृष्ठे महात्मना ॥ ६
+यदर्थमनुशिष्टास्स्मो गिरिपृष्ठे महात्मना ॥ ६
 
-द्वितीयं त्वद्भुतमिदं त्वत्तेजः कृतमद्यवै ।  
+द्वितीयं त्वद्भुतमिदं त्वत्तेजः कृतमद्य वै ।  
 दृष्ट्वा च विस्मिताः कृष्ण सा च नस्स्मृतिरागता ॥ ७
 
 एतत् ते देवदेवस्य माहात्म्यं कथितं प्रभो ।  
 कपर्दिनो गिरीशस्य महाबहो जनार्दन ॥ ८
 
-**भीष्मः—**
+**भीष्मः —**
 
 इत्युक्तस्स तदा कृष्णस् तपोवननिवासिभिः ।  
 मानयामास तान् सर्वान ऋषीन देवकिनन्दनः ॥ ९
 
 अथर्पयस्सम्प्रहृष्टाः पुनस्ते कृष्णमब्रुवन॥ ९ ॥
 
-**श्रीभगवान्—**
+**श्रीभगवान् —**
 
 पुनः पुनर्दर्शयास्मान् सदैव मधुसूदन॥ १०
 
@@ -23551,7 +23632,7 @@ The Presidency College,
 पुत्रस्ते सदृशस्तात विशिष्टो वा भविष्यति ।  
 महाप्रभावसंयुक्तो दीप्तिकीर्तिकरः प्रभुः ॥ १७
 
-**भीष्मः—**
+**भीष्मः —**
 
 ततः प्रणम्य देवेशं यादवं पुरुषोत्तमम् ।  
 प्रदक्षिणमुपावृत्य प्रजग्मुस्ते महर्षयः॥ १८
@@ -23597,6 +23678,7 @@ The Presidency College,
 
 जयो योगी युगान्ताभस् सव्यसाची रणाग्रगः ।  
 तेजसा हतवान् सर्वं सुयोधनबलं नृप ॥ ३२  
+
 
 यत्तु गोवृषभाङ्केन मुनिभ्यस्समुदाहृतम् ।  
 पुराणं हिमवत्पृष्ठे तन्मे निगदतश्श्रृणु ॥ ३३
@@ -23668,10 +23750,10 @@ The Presidency College,
 दशवर्षसहस्राणि बदर्यामेप शाश्वतः ।  
 तपश्चचार विपुलं सह गाण्डीवधन्वना ॥ ५५
 
-त्रियुगौ पुण्डरीकाक्षौवासुदेवधनञ्जयौ ।  
+त्रियुगौ पुण्डरीकाक्षौ वासुदेवधनञ्जयौ ।  
 विदितौ नारदादेतौ मम व्यासाच्च पार्थिव ॥ ५६
 
-बाल एव महाबाहुश् चकार कदनंमहत् ।  
+बाल एव महाबाहुश् चकार कदनं महत् ।  
 कंसस्य पुण्डरीकाक्षो ज्ञातित्राणार्थकारणात् ॥ ५७
 
 कर्मणामस्य कौन्तेय नान्तं सङ्ख्यातुमुत्सहे ।  
@@ -23681,7 +23763,7 @@ The Presidency College,
 यस्य ते पुरुषव्याघ्रस् सखा चायं जनार्दनः ॥ ५९
 
 दुर्योधनं तु शोचामि प्रेत्य लोकेऽपि दुर्मतिम् ।  
-यत्कृते पृथिवी सर्वा विनष्टासहयद्विपा ॥६०
+यत्कृते पृथिवी सर्वा विनष्टा सहयद्विपा ॥६०
 
 दुर्योधनापराधेन कर्णस्य शकुनेस्तथा ।  
 दुश्शासनचतुर्थानां कुरवो निधनं गताः ॥६१
@@ -23709,13 +23791,14 @@ The Presidency College,
 
 —————  
 
-॥ कुम्भघोणपुस्तके— पञ्चपञ्चाशदधिकद्विशततमोऽध्यायः ॥
 
-<MISSING_FIG href="../books_images/U-IMG-1706542373Screenshot2023-12-16141159.png"/>
+**॥ कुम्भघोणपुस्तके— पञ्चपञ्चाशदधिकद्विशततमोऽध्यायः ॥**
+
+**<MISSING_FIG href="../books_images/U-IMG-1706542373Screenshot2023-12-16141159.png"/>**
 
 **\।\। पूनाचित्रशालापुस्तके - पञ्चाशदधिकशततमोऽध्यायः ॥**
 
-<MISSING_FIG href="../books_images/U-IMG-1706542373Screenshot2023-12-16141159.png"/>
+**<MISSING_FIG href="../books_images/U-IMG-1706542373Screenshot2023-12-16141159.png"/>**
 
 ( To face P. 1299 of Vol XVII )
 
@@ -23734,7 +23817,7 @@ The Presidency College,
 शान्तिकं पौष्टिकं रक्षा शत्रुघ्नं भयनाशनम् ।  
 जप्यं यद्ब्रह्म समितं तद्भवान् वक्तुमर्हति ॥ ३
 
-**भीष्मः—**
+**भीष्मः —**
 
 व्यासप्रोक्तमिमं मन्त्रं शृणुष्वैकमना नृप ।  
 सावित्र्या विहितं दिव्यं सद्यः पापविमोचनम् ॥ ४
@@ -23742,7 +23825,8 @@ The Presidency College,
 शृणु मन्त्रविधिं कृत्स्नं प्रोच्यमानं मयाऽनघ ।  
 यं श्रुत्वा पाण्डवश्रेष्ठ सर्वपापैः प्रमुच्यते ॥ ५  
 
-रात्रावहनिधर्मज्ञ जपन् पापैर्न लिप्यते ।  
+
+रात्रावहनि धर्मज्ञ जपन् पापैर्न लिप्यते ।  
 तत्तेऽहं सम्प्रवक्ष्यामि शृणुष्वैकमना नृप ॥ ६
 
 आयुष्मान् भवते चैव यं श्रुत्वा पार्थिवात्मज ।  
@@ -23767,7 +23851,8 @@ The Presidency College,
 अजैकपादहिर्बुध्न्यः पिनाकी चापराजितः ।  
 ऋतश्च पितृरूपश्च त्र्यम्बकश्च महेश्वरः ॥ १२
 
-वृषाकपिश्च शम्भुश्चहवनोऽथेश्वरस्तथा ।  
+वृषाकपिश्च शम्भुश्च हवनोऽथेश्वरस्तथा ।  
+
 
 एकादशैते प्रथिता रुद्रास्त्रिभुवनेश्वराः ॥ १३
 
@@ -23783,7 +23868,7 @@ The Presidency College,
 प्रत्युषश्च प्रभासश्च वसवोऽष्टौ प्रकीर्तिताः ॥ १६ ॥
 
 नासत्यश्चापि दस्त्रश्च स्मृतौ द्वावश्विनावपि ।  
-मार्तण्डस्यात्मजावेतौसंज्ञा नासाविनिर्गतौ ॥ १७ ॥
+मार्तण्डस्यात्मजावेतौ सञ्ज्ञा नासाविनिर्गतौ ॥ १७ ॥
 
 अतः परं प्रवक्ष्यामि लोकानां कर्मसाक्षिणः ।  
 अपि यज्ञस्य वेत्तारो दत्तस्य सुकृतस्य च ॥ १८ ॥
@@ -23797,6 +23882,7 @@ The Presidency College,
 शुचिस्मिताः कीर्तयतां प्रयच्छन्ति शुभं नृणाम् ॥ २१
 
 प्रजापतिकृतानेतान् लोकान् दिव्येन तेजसा ।  
+
 
 वसन्ति सर्वलोकेषु प्रयतास्सर्वकर्मसु ॥ २२
 
@@ -23874,7 +23960,7 @@ The Presidency College,
 अपरे रुद्रसङ्काशाः कीर्तिता ब्रह्मलौकिकाः ।  
 अपुत्रो लभते पुत्रं दरिद्रो लभते धनम् ॥ ४६
 
-तथा धर्मार्थकामेषुसिद्धिं च लभते नरः ।  
+तथा धर्मार्थकामेषु सिद्धिं च लभते नरः ।  
 पृथुं वैन्यं नृपवरं पृथ्वी यस्याभवत् सुता ॥ ४७
 
 प्रजापतिं सार्वभौमं कीर्तयेद्वसुधाधिपम् ।  
@@ -23974,7 +24060,7 @@ The Presidency College,
 
 वृद्धैः काश्यपगौतमप्रभृतिभिर्भृग्वङ्गिरोत्र्यादिभिः  
 शुक्रागस्त्यबृहस्पतिप्रभृतिभिर्ब्रह्मर्षिभिस्सेवितम् ।  
-भारद्वाजमतं ऋचीकतनयैः प्राप्तं वसिष्ठात् पुनः  
+भारद्वाजमतम् ऋचीकतनयैः प्राप्तं वसिष्ठात् पुनः  
 सावित्रीमधिगम्य शक्रवसुभिः कृत्स्ना जिता दानवाः ॥ ७९
 
 यो गोशतं कनकशृङ्गमयं ददाति  
@@ -23996,14 +24082,22 @@ The Presidency College,
 
 ———————
 
- ॥ श्रीः ॥
+** ॥ श्रीः ॥**
 
  महाभारतेअनुशासनपर्वद्वितीयसम्पुटस्थानामशुद्धानां शोधनम् 
 
 [TABLE]
 
-[TABLE]
+
+
+
 
 [TABLE]
+
+
+
+[TABLE]
+
+
 
 \]

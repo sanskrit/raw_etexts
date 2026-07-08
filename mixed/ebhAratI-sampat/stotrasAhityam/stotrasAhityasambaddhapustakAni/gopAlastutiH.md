@@ -3,10 +3,9 @@ title = "गोपालस्तुतिः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3058"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NjIzOTA1NjU1Mzky&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गोपालस्तुतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NjIzOTA1NjU1Mzky&pageno=MjI0MjQyNjk5NTk=)]]
 

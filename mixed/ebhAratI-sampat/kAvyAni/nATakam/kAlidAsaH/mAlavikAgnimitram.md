@@ -1,4800 +1,5751 @@
 +++
 title = "मालविकाग्निमित्रम्"
 author = "कालिदासः"
-"publish year" = "1949"
+publisher = "गवर्नमेण्ट-सेण्ट्रल्-बुक्-डिपोट्"
+"publish year" = "1869"
 domain = "काव्यानि"
 sub-domain = "नाटकम्"
-pages = "162"
+pages = "216"
 language = "संस्कृतम् आङ्ग्लम्"
-printer = "रघुवीर-यन्त्रालयः मैसूर्"
-"serial no." = "Ebharati-7847"
-source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0NTgyNDE1MjgyMzU3&pageno=MjI0MjQyNjk5NTk="
-
+editor = "शङ्करः"
+printer = "एज्युकेशन्-सोसैटीस्-प्रेस्"
+"serial no." = "Ebharati-5471"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3MDkyMjQ0NTkxNTI1&pageno=MjI0MjQyNjk5NTk="
 +++
-[[मालविकाग्निमित्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM0NTgyNDE1MjgyMzU3&pageno=MjI0MjQyNjk5NTk=)]]
+[[मालविकाग्निमित्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY3MDkyMjQ0NTkxNTI1&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 
-[TABLE]
+<MISSING_FIG href="../books_images/U-IMG-1729580768B.png"/>
 
- N.B.:— Only the **Samskrit Chaya** is printed in the body of the text. The Prakrit passages are given at the end.
 
-Text and Translation together         
-
-Samskrit Text only                 
-
-English Translation                 
-
-All Rights Reserved
-
-1949
-
-Printed at  
-SRI RAGHUVEER PRINTING PRESS, MYSORE.
-
-**INTRODUCTION**
-
-**Kalidasa : His date**
-
-— There are only a few tantalising legends which have to speak about the life and date of our poet, though none of the legends is reliable. If one legend makes him the contemporary of Bhavabhuti, another makes him the court poet of Bhojaraja of Dhara. But the tradition that he was one of the Nine Jems[^1]of Vikramaditya's court seems to have some truth about it. No doubt some scholars have rejected even this as totally baseless; but many are inclined to believe that Kalidasa's patron must have been Vikramaditya. It is not unlikely that Kalidasa has paid his tribute to this patron of his, in the title of his play Vikramorvasiam. But as there have been several Vikramaditya's, this tradition by itself does not help to fix the date of Kalidasa. One king Vikramaditya founded the era known after him, which commences from 57 B. C. A good many scholars are inclined to think that it is very likely that this king was our poet's patron. In support of this view, among other arguments, Mr. Pandit points out that Agnimitra, son of Pushpamitra who founded the Maurya dynasty in 160 B. C. is the hero of the Malavikagnimitra, being a historic person and a contemporary of our poet. Internal evidences are not wanting to strengthen this. The law of inheritence as detailed in the Sakuntalam Act VI, that the property of a person who died childless would go to the king, was current in or about the first century B. C. Moreover the Bauddha poet Asvaghosha who is placed in 78 A. D. has in all likelihood borrowed his ideas from Kalidasa, as the latter has been recognised as an original poet borrowing his subjects only from ancient authors like Valmiki. These tend to show that Kalidasa lived in the first century B. C. The date is approximate, as it has not yet been finally accepted. That is why, if Dr. Peterson holds that Kalidasa stands near the beginning of the Christian era,
-
-[^1]: "धन्वन्तरिक्षपणकामरसिंहशङ्कुवेतालभट्टघटकर्पर कालिदासाः। ख्यातो वराहमिहिरो नृपतेः सभायां रत्नानि वै वररुचिर्नव विक्रमस्य॥"
-
-if indeed, he does not overtop it' Dr. Kern places him in the latter half of the 6th cent. A. D. poesy.
-
-**His Life—**
-
-There is a legend according to which Kalidasa was a boor by birth but was somehow married to an obstinate princess who abandoned him finding that he had no education at all. Thereupon be devoted himself to the worship of Kali who blessed him with literacy and Thus he became Kali-dasa and a gifted poet by the favour of Kali. He then returned to his wife and she put him the question अस्ति कश्चित् वागर्थः? in reply to which it is stated that he repeated the same words in the same order, but in the affirmative and that he later composed the three Kavyas,— 1. Kumarasambhava, 2. Meghaduta and 3. Raghuvamsa, with each one of those words at the commencement of the first verses of them respectively. The legend is no doubt interesting but not quite reliable.
-
- We can gather some information about Kalidasa's life from his own writings. His repeated reference to Ujjain indicates that he must have spent at least a part of his life in the city. His dwelling upon the charms of that city in his Meghadutam makes clear that he loved it much. His description of the Tour about the whole of Iudia and even into the regions beyond the borders of India, in the Raghuvamsam, makes any one believe that Kalidasa himself must have made such a grand tour. Mountains seem to have impressed him deeply. As accurately observed by a critic, be is the only Sanskrit poet who has descrided a certain flower which is exclusively Kasmirian.
-
- There cannot be any doubt that Kalidasa had extensive education and that he had mastered rhetoric, dramatic theory, and the science of grammar the chief of all sciences. Besides the knowledge of law and astronomy, he seems to have had proficiency in the profound and subtle systems of philosophy. If his Kumarasambhavam is Shivaistic, his Raghuvamsam is Vishnuite. If the hymn to Vishnu in the latter work is expressing Vedantic monism, the hymn to Brahma in the former expresses the dualism of the Samkhyaş. The Buddhistic and Yoga doctrines are also mentioned here and there. Therefore
-
-we may observe that, in matters of religion and philosophy, Kalidasa was of an unbaised mind.
-
-** His works:—**More than forty works are generally attributed to Kalidasa, but critics acknowledge only seven or eight of them as his. Those works are-
 
 [TABLE]
 
-**His Poetry— '**
 
-No other poet in any land had sung of happy love between man and woman as Kalidasa sang. Everyone of his works is a love poem, however much more it may be. Yet the theme is so infinitely varied that the reader never wearies. It is of love eventually happy, though often struggling for a time against external obstacles, that Kalidasa writes. There is nowhere in his works a trace of that not quite healthy feeling that sometimes assumes the name modern love”. If it were not so, his poetry could hardly have survived; for, happy love, blessed with children, is surely the more. fundamental thing
 
- "It is perhaps an inevitable consequence of Kalidasa's subject that his women appeal more strongly to a modern reader than his man. The man is the more variable phenomenon, and though manly virtues are the same in all the countries and centuries, the emphasis has been varioulsy laid. But the true woman seems timelessly universal. I know of no poet, unless it be Shakespeare, who has given the world a group of heroines so individual, yet so universal; heroines as true, as tender, as brave as are Indumati, Sita, Parvati, the Yaksha's bride, and Shakuntala.
+[TABLE]
 
- ‛Kalidasa could not understand women without understanding children. It would be difficult to find anywhere lovelier pictures of childhood than those in which our poet presents the little Bharatha, Ayus. Raghu, Kumara. It is a fact worth noticing that Kalidasa's children are all boys. Beautiful as his women are, he never does more than glance at a little girl.
 
- Another pervading note of Kalidasa's writing is his love of external nature. No doubt it is easier for a Hindu, with his almost instinctive belief in reincarnation, to feel that all life, from plant to god, is truly one; yet none has expressed this feeling with such convincing beauty as has Kalidasa. It is hardly true to say that he personifies rivers and mountains and trees; to him they have a conscious individuality as truly and as certainly as animals or men or gods. Kalidasa's knowledge of nature is not only sympathetic, it is also minutely accurate. Not only are the snows and windy music of the Himalayas, the mighty current of the sacred Ganges, his possession; his too are smaller streams and trees and every littlest flowers.
 
- There is a wonderful balance in Kalidasa's character by virtue of which he found himself equally at home in a palace and in a wilderness. I know not with whom to compare him in this; even Shakespeare, for all his magical insight into natural beauty, is primarily a poet of the human heart. That can hardly be paid of Kalidasa, nor can it be said that he is primarily a poet of natural beauty. The two characters unite in him, it might almost be said, chemically........... Poetical fluency is not rare; intellectual grasp is not very uncommon; but the combination has not been found perhaps more than a dozen times since the world began. Because he possessed this harmonious combination, Kalidasa ranks not with Anacreon and Horce and Shelley, but with Sophocles, Vergil, Milton.'
+[TABLE]
 
- The Indian poet Jayadeva has called Kalidasa The grace of Poetry' It is this grace in his composition that induced the celebrated critic Schlegel assign for him a very high place amongst the galaxy of the 'Sons of Song'.
+**CRITICAL NOTICE.**  
+**\_\_\_\_\_\_\_**
 
- Kalidasa is undoubtedly "the brightest star in the firmament of Indian Poetry". The richness of his creative fancy and his skill in expressing tender sentiment and sympathy with nature gives him a very high place among the world's dramatic poets."
+ The present edition of the Mâlavikâgnimitra is based upon a collation of seven MSS., six of which are written in the Devanâgarî and the remaining one in the Telagu character. They are as follows:—
 
-"Where find a soul that does not thri॥  
-In Kalidasa's verse to meet  
-The smooth, inevitable lines  
-Like blossom-clusters, honey sweet?"
+ (1) A MS. in the office of the Secretary to the Dakshiṇâ Prize Committee and originally belonging to Mr. Ganesh Shâstrî Lele. It is altogether a recent MS., not being older than six years. It contains thirty-four and a half oblong leaves, of thick blue paper, and is written in a bold and legible hand. Its colophon is इति कालिदासविरचितमालविकाग्निमित्रनाम नाटकं समाप्तम्॥ श्रीर्भूयाल्लेखकपाठकयोः॥छ॥ शके १७८५ रुधिरोद्रारीनामसंवत्सरे भाद्रपदशुक्ल १२ द्वादश्यां गुरुवासरे लेखनं परिपूर्णमस्तु॥ शुभं भवतु॥ यादृशं पुस्तकं दृष्ट्वा तादृशं लिखितं मया॥ यदि शुद्धमशुद्धं वा मम दोषो न विद्यते॥१॥ जलाद्रक्षेत्स्थलाद्रक्षेद्रक्षेत्शिथिलबन्धनात्॥ मूर्खहस्ते न दातव्यम् एवं वदति पुस्तकम्॥२॥ भग्नपृष्ठिकटिग्रीवा स्तब्धदृष्टिरधोमुखम्॥ कष्टेन लिखितं ग्रन्थं यत्नेन परिपालयेत्॥३॥ I have called this MS. A.
 
-— Bana's Harshacharita,
+ (2) Another MS., belonging to Mr. Govind Shâstrî Nirantara of Nassick, a very correct and reliable one. It ends with the couplet: सप्तसप्ताश्वसु-\[कु?\]- मिते राक्षसाह्वयवत्सरे। निरन्तरोपाभिधेन गोविन्देन व्यलेखि यत्।, and thus bearing the date S′âl. 1777, *i.e*. A.c. 1855. Besides having been copied, it seems, from a very correct original, it contains explanatory remarks here and there in the margin of the leaves. I have called this MS. B.
 
-**Synopsis of the play:**
+ (3) A third MS., a very neatly written and trustworthy copy; though bearing no date, it appears to be from 75 to 100 years old. This also belongs to a Shâstrî at Nassick. I have designated this MS. by the letter C.
 
-ACT I,—After the usual prologue, two maids of the palace, Bakulavalıka and Kumudika by name, are introduced. The former is sent by the chief queen Dharini to enquire about the progress of her ward Malavika in the art of dancing. Kumudika the other maid, carrying to the queen, a ring bearing the seal of a snake, is met by Bakula. The brief conversation between them reveals that the king has seen a new painting of queen Dharini and her attendants of whom one (Malavika) is so very beautiful that the King is smitten with love for her, and that the jealous queen is sedulously keeping her away from the King's sight. At this point Ganadasa, the dancing master of Malavika, appears and informs Bakula, that Malavika is a wonderfully proficient pupil. He is told that Malavika was sent as a present to Dharini by her brother Virasena.—*(Misra Vishkambhaka)*
+ (4) This also comes from Nassick. It bears the following colophon:—
 
- King Agnimitra then enters with his ministers and listens to a letter from Yajnasena, king of Vidarbha, who had imprisoned prince Madhavasena and his sister Malavika (cousins of of the king). The letter was in reply to Agnimitra's demand for their release, In it, Yajnasena had stated that the princess had escaped and that he would set free Madhavasena on condition that his own brother-in-law, a prisonor of Agnimitra was released. This letter angers the king and he orders an expedition against him.
+**मयूरेश्वरपन्तेन श्रीमद्रामतनूभुवा।  
+सम्पादितं मालविकाग्निमित्रं नाम नाटकम्॥**
 
- Next enters the Vidushaka, the Kama-sachiva of the king. He has devised a plan for getting Malavika into the
+पिङ्गलोपनाम्नो धुण्डिराजस्येदं मौल्येन सम्पादितम्। This likewise is a very carefully copied MS., and corrected, like all the MSS. here described, *secunda manu*, with the aid of another MS. Though bearing no date, it appears equally old with the last preceding. It is accompanied by a Sanskrit translation of the Prâkṛit passages appended with a separate paging at the end. I have named this MS. D. These three MSS., B, C, D, were kindly procured for me by my friend Mr. Govind K. Sabde.
 
-presence of the king, by bringing about an envious quarrel between the two dancing-masters of the court, Ganadasa and Haradatta. When the Vidushaka is just acquainting the king of his achievement the two teachers appear there and appeal to the king. After some consultation, it is agreed that each shall exhibit his teaching art through the performance of a pupil before the king, the queen and the learned Parivrajika. The queen jealously opposes this at first but reluctantly consents in the end.
+ (5) Another MS., lent me by Mr. Ganesh Shâstrî Lele of Trimbakes´war. It bears the date S'âl. 1710, *i. e.* a. c. 1789, as embodied in the colophon: व्योमेन्द्वद्रिकुभिर्युक्ते कीलके शुक्रमासगे। शुक्ले शिवतिथौ चान्द्रे नाटकं लिखितमिदम्॥ कृष्णसुतविश्वनाथेन लिखितम्. It is a very correct MS., containing 34 oblong leaves, of which the first is subsequently replaced by a different hand, marked at the end “गतपत्त्रप्रतिनिधिपत्त्रम्.” In the margin of the MS. are given now and then short explanatory notes. It is a very correct and trustworthy MS. I have called it E.
 
- ACT II :— The whole party assembles next in the Concert hall and Ganadasa presents his pupil, Malavika, first as determined by the Parivrajika. Malavika dances singing a song which is plainly indicative of her love for the king. The king finds her more beautiful than in the picture and his love for her grows deeper. When, her per- formance being over, she is about to go, the Vidushaka starts some discussion and detains Malavika such that the king may feast his eyes on her for some more time. The hour of noon is announced and the exhibition of Hara- datta's art is postponed.
+ (6) The sixth was kindly lent me by Mr. Pandurang Narayan, Kirloskar of Gurlhasûr, in the Belgaum Collectorate. It is an excellent MS., being written in a beautiful clear legible hand, remarkably correct, not only copied, it seems, by a conscientious and intelligent scribe, but also subsequently corrected by some one who understood the drama. The Prâkṛit passages in it are each accompanied by a Sanskrit translation immediately following it. It ends thus :—श्रीमत्कालिदासकृतं मालविकाग्निमित्रं नाम नाटकं सम्पूर्णमस्तु॥ श्रीकाशीविश्वेश्वरार्पणमस्तु॥ शके १७२६ रक्ताक्षी नामसंवत्सरे आषाढवद्य सप्तमी भानुवासरे मुकाम शिरहटी समाप्तः॥ ग्रन्थसङ्ख्या ११५०॥छ॥ The MS. is, therefore, just 65 years old. It contains forty-seven oblong leaves of a bluish kind of thick paper. I have given this the name F. The six MSS. from A to F were collated at first and the present edition prepared, with no expectation of obtaining more MSS. for collation. These six MSS. are designated “our MSS.” in the Notes, critical and explanatory, accompanying the present edition. But through the kindness of Mr. Gangiah of Bangalore, I obtained, after the whole text had been put into type,
 
- ACT III :— The scene now shifts to the palace garden the conversation between two maid servants discloses that Ganadasa won the contest and that Malavika is being care- fullyguarded from the king who has grown love sick. Onemof the maids, the gardener, has observed that a favourite Asoka tree is late in blossoming and goes to report the matter to the queen so that she may arrange for its dohada (The belief was that such a tree could be induced to put forth flowers if a beautiful lady in splendid attire touched it with her foot)— *Praveshaka*
+ (7) An excellent MS. in the Telagu character, written on palmyra leaves, 23 in number. It is a very correct MS., almost free from error, having been copied by a Shâstrî. It is forty-three years old, as we see from the following : श्रीरामभद्रगुरुचरणारविन्दाभ्यो नमो नमः। व्ययसंवत्सरे चैत्रबहुले १३ त्रयोदशी गुरुवासरे नृसुह्यसूरिसूनुना योगानृसुह्मेण लिखितमिदं नाटकं स्वकीयमेव नान्यदीयम्। श्रीराम **\***। Though all the various readings of this MS., which I have named G, are not given in the footnotes, the principal of them have either, wherever it seemed
 
- The love-lorn king enters with the Vidushaka and both proceed to the pleasure garden where the king bad agreed to meet his junior queen Iravati, to swing with her. Malavika also enters, to offer the dohada, deputed for the purpose by the queen with the promise of a reward that would satisfy her in case the tree blossomed within five days. The king (with the Vidushaka) hides in a thicket and feasts his eyes on Malavika. Soon Bakulavalika arrives and decorates Malavika's feet Presently the junior queen Iravati in a state of mild intoxication enters
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**\*** It goes on thus:—
 
-with her maid Nipunika and they spy on the young girls. 'Thus there are three groups on the stage; the two girls believe themselves to be alone; the king and the clown are aware of the two girls, as are also the queen and her maid; but neither of these two pairs knows of the presence of the other. This situation gives rise to very entertaining dialogue, which changes its character when the king starts forward to express his love for Malavika. Another sudden change is brought about when Iravati, mad with jealously, joins the group, sends the two girls away, and berates the king. He excuses himself as earnestly as a man may when caught in such a predicament, but cannot appease the young queen, who leaves him with words of bitter jealousy'.
+**रागाख्यवाह्निमित्रं यन्नाटकं लिखितं मया।  
+नृसिह्मसूनुना योगानृसिंहेण मुदायुतम्॥  
+श्रीलक्ष्मीनरसिंहभूधरजरत्कारुण्यगङ्गानदी-  
+पाथोबिन्दुसरो नृसिंहतनयो योगानृसिंहाभिधः।  
+श्रीमत्काव्ययवंशवारिधिविधुर्वर्षे व्यये चैत्रके  
+श्रीमन्मालविकाग्र – \[sic.\] – मित्रममलं दर्शे लिलेख स्वयम्॥**
 
- ACT IV:— The Vidushaka brings news to the king that the senior queen, induced by the junior one has locked Malavika and Bakulavalıka in a cellar, with instruction to its guard that they shall not be set free untill her own snake-sealed ring is presented. The Vidushaka however, has devised an ingenious plan to secure their release. he sends the king to wait on the queen who is nursing her injured leg. A few minutes later, the Vidu-baka rushes into their presence yelling and pretending that he has been bitten by a serpent on his thumb while plucking flowers for the queen.The Vidushaka's words imploring the king to take pity on his old mother after his death, awaken the genuine sympathy of the queen. He is soon removed for treatment by the Royal Physician Dhruvasiddhi. A snake- sealed ring is required for the udakumbha treatment, it is reported, and the unsuspecting queen parts with her own signet ring. The ring is used for the release of Malavikaand her friend. A little later, a meeting of Malavika andthe king in the ocean-house is brought about. The Vidushaka keeps watch outside, but fails asleep. He is then noticed by Nipunika who bears the news to Iravati. Inferring from this that the king must be in the ocean- house, the two go there and are surprised to find the king with Malavika. The love-scene is interrupted and the king is in a fix. But to save him from this awkward situation, as it were, news is brought that his little daughter has been frightened by an yellow ape. The king
+ The last stanza though carved like the whole MS. is yet uninked, and seems, accordingly, to have been subsequently added. This, as well as the exigencies of the metre, would account for the mention दर्श as the date on which the MS. was written.
 
-and Iravati hurry off leaving Malavika to be consoled by the information that the Asoka tree has put forth blossoms, as omen of the final fulfilment of her own desires.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- ACT V :—Sarasaka, the queen's servant relates to the gardener Madhukarıka in a a brief conversation, the success of Virasena's expedition against the Vidarbha king. *(Pravesaka)*
+necessary, been adopted into the text of the present edition, or have been noticed in the Notes appended.
 
- At the invitation of the senior queen, who has some- how made up her mind to unite Malavika with the king, the king goes to meet her under the Asoka tree. There he finds with surprise Malavika in bride's attire, by the side of the queen, In a few minutes, two maids with remark- able powers of song, included in the spoil of the Vidarbha expedition, are introduced. They at once recognise Mala vika and exclaim Our Princess! Then it is brought to light that she is none other than the missing sister of Madhavasena, who, on his way to Vidisa to bring about the proposed marriage between Agnimitra and Malavika,was imprisoned by Yajnasena. The Parivrajika next takes up the tale and relates how her brother Suniti, the minister of Madhavasena, contrived to escape along with her and Malavika from Yajnasena and had set out for Vidisa. On their way they were attacked by robbers, her brother was slain and Malavika was lost, She (Kausiki) thereupon became a parivrajika and became a protigee of Dharini. As for Malavika she had been taken from the robbers by Virasena and sent as a present to his sister Dharini. Thus in the court of Agnimitra they two had met again. The matter was not disclosed earlier, confiding in the prophesy of a sage that Malavika would be a servant for just a year before meeting with a suitable match. Thus any possible objection to the king's marriage with Malavika is removed.
+ The seven MSS. are so characterized that they seem to belong to two families. A B C D E are certainly derived originally from one and the same source, as is proved by the fact of their reading a few passages in the same wrong way, *e. g*. शर्मिष्ठाया कृतिः for शर्मिष्ठायाः कृति; (*p*. 22, *l*. 11), उपलभते for उपलभे (*p*. 103, *l*.5). Of course, though originally belonging to the same source, probably D,**\*** they have, subsequently to their genesis, been corrected, and therefore vary considerably from each other, as may be seen from the *varioe lectiones* noticed in our foot-notes. MSS. F and G, on the contrary, form a separate family by themselves. This is apparent from both of them reading certain passages in one and the same way. And yet G differs every now and then from F, a fact that seems to owe its origin to the former, or rather the source of it, having been probably corrected subsequently with the help of other MSS., though it bears no marks of correction in its present form.
 
- The king then instructs his ministers to divide Vidarbha between Yajnasena and Madhavasena.At this very time a letter comes announcing that his son by Dharini, Vasumitra, has won a victory over the Yavanas and brought back the sacrificial horse of Pushpamifra, the king's father; and inviting Agnimitra to be present with family at the sacrifice following the victory. The queen
+ As, fortunately, all the MSS. collated for the present edition were almost equally good, and as none of them exhibit a different redaction of the text, properly so called, none of them can be said to be the *basis* of the text herein given to a greater extent than another. All of them have been most minutely and carefully collated, and their differences given in the foot-notes, except such as appeared to me to have arisen from clerical errors.
 
-is overjoyed at the news of her son's success and offers rich presents to all. To the king she presents Malavika. Even the jealous Iravati becomes a party to this, though some what ungraciously and the king has another wife.
+ The Sanskrit version (छाया) of the Prâkṛit passages, given in the present edition, though based upon the translation found in MSS. D and F, had yet to be greatly corrected by the editor, that of the MSS. in question being, as is usually the case, very inaccurate and incorrect.
 
-** The Authorship—**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**\*** Thus, *e. g.*, the ते in उपलभेते in D is subsequently scratched, but not sufficiently, and hence the ते was copied into the other MSS.
 
-"The play is usually considered as one of the three composed by Kalidasa, who is said in the prelude to be the author. There is no reason to question the nomenclature of the author in the prelude, and the play is probably the work of Kalidasa Tradition alone identifies him with the poet of Vikramaditya's reign, who preceded the Christian era. and the internal evidence is adverse to the drama being the work of the author of Sakuntala and Vikramorvasi. There is neither the same melody in the verse nor fancy in the thoughts ....the manners described appear to be those of a degenerate state of Hindu society, and it can scarcely be thought earlier than the tenth or eleventh century Such were the observations made by Prof. Wilson in his Select Specimens of the Theatre of the Hindus (1826-27). Prof. Weber subscribed to this view at first (1852) in bis History of Sanskrit Literature, but later (1856) refuted "Wilson's theory in the Introduction to his own German Translation of the play. The learned editor of the play in the Bombay Sanskrit Series, Mr. S. P. Pandit, thoroughly examined this question of Authorship in the preface and established with conclusive proofs that the author of the Malavikagni- mitra was identical with the author of the Sakuntala and Vikramorvasiya. Since then there has been no difference of opinion among scholars on this subject.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**General—**
+ One point more requires special notice; the manner, namely, that I have adopted in this edition of writing Prâkṛit conjuncts containing aspirates, whether hard or soft. Thus it is usual to write the Prâkṛit forms of लक्ष्मी, पुष्प, पृष्टा as लच्छी, पुप्फ, पुच्छिदा. Editors of Sanskrit-Prâkṛit works have always, in fact, followed the same rules in writing Prâkṛit conjuncts as they do in writing Sanskṛit conjunct letters. And Vararuchi, also, after having enjoined, that “wherever, after performing an elision or substitution enjoined by a rule, a single consonant comes to represent a conjunct, this letter is always doubled, except in the beginning of a word” (शेषादेशयोर्द्वित्वमनादौ, *Prâkṛita-Prakâs'a* III. 50, Prof. Cowell’s Edition), he states, that “wherever the single representative is an aspirate.......... it is to be doubled by prefixing its own non-aspirate,” (वर्गेषु युजः पूर्वः *Ibid*. III. 51). Vararuchi, therefore, clearly enjoins forms like लच्छी, पुप्फ, and पुच्छिदा, not लछ्छी, पुफ्फ, पुछ्छिदा. I must accordingly explain why I have deviated from that grammarian. My authority for the deviation is the concurrent testimony of all the MSS. These have a peculiar method of writing Prâkṛit conjuncts. In Sanskrit they give all the components of a conjunct distinctly, but in Prâkṛit the presence of the first component of every conjunct letter is merely indicated by a dot placed before it. This dot indicates that the letter before which it is placed is to be *doubled*. Thus what ought to be fully written अत्तभवं, they write अ-तभवं, *ajjāutta* is अ-जउ-त and not अज्जउत्त. And so also in the case of conjuncts containing aspirates. As दि-ठा, ल-छी, पु-फ, पु-छिदा. This practice of indicating a doubling by means of a dot is not only what is found in the Devanâgarî MSS., but even the Bangalore MS., written in Telagu (that marked G), follows the same method, and that under circumstances which clearly show what importance is attached to this method of writing conjuncts. For it is well known that in the Telagu character the mark for an *anusvâra*, whether this be original, as in सिंह, or substitutionary for any of the five nasals, as in नन्द, is a dot put after that letter which has the anusvâra in pronunciation. But though this method is followed in respect of Sanskrit words, the dot in the Prâkṛit passages of the MS. in question always means a strengthening of the following letter by means of doubling it; and the *anusvâra* is there represented as in the Devanâgarî character by a dot put over the syllable which is to be nasalized by it. It is therefore clear from the general practice of the MSS. that the dot put before a letter in Prâkṛit conjuncts indicates that that letter is to be *doubled*. But we have the same sign put before an aspirate that we have before an unaspirate letter. I have also examined many MSS. of other Sanskrit-Prâkṛit works, and I have always found the dot to be invariably used as a sign of doubling, and nowhere any the least indication that “the doubling of an aspirate is to be effected by adding before it its own non-aspirate,” as taught by Vararuchi in the Sûtra वर्गेषु युजः पूर्वः, III. 51. One and the same sign being used by the MSS. to indicate *doubling*, whether of aspirate or non-aspirate letters, I have simply doubled the letter before which the MSS. put a dot, that is to say, I have not followed Vararuchi’s rule about the doubling of aspirates by means of non-aspirates.
 
-"The Malavikagnimitra is often taken to be one of Kalidasa's youthful productions, but there is no adequate reason for thinking that it is his first dramatic work The modesty shown in the prologue repeats itself in those of his other two dramas and the immaturity which critics have seen in it is more a question of personal opinion than a real fact; for it resolves itself into a difference of form and theme, rather than any real defici- ency of power. The Malavikagnimitra is not a love- drama of the type of the Svapnavasavadatta, to which it has a superficial resemblance, but which possesses a far
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-more serious interest. It is a light-hearted comedy of court-life in five acts, in which love is a pretty game, and in which the hero need not be of heroic proportion, nor the heroine anything but a charming and attractive maiden. The pity of the situation, no doubt arises from the fact that the game of sentimental philandering is often played at the expense of others who are not in it, but that is only an inevitable incident of the game. The motif of the progress of a courtly love-intrigue through hindrances to royal desire for a lowly maiden and its denouement in the ultimate discovery of her status as a princess was perhaps not as a banal in Kalidasa's time as we are wont to think; but the real question is how the theme is handled. Neither Agnimitra nor Malavika may appear impressive, but they are approximate to the atmosphere. The former is a care-free and courteous gentleman, on whom the burden of kingly responsibility sits but lightly, who is no longer young but no less ardent, who is an ideal Dakshina Nayaka possessing a great capacity for falling in or out of love; while the latter is a faintly drawn ingenue with nothing but good looks and willingness to be loved by the incorrigible king-lover. The Vidushaka is a more lively character, who takes a greater part in the development of the plot in this play than in the other dramas of Kalidasa. The interest of the theme is enhanced by the complications of the passionate impetuosity and jealousy of the young, discarded queen Iravati which is finely shown off against the pathetic dignity and magnanimity of the elderly chief queen Dharini. Perhaps the tone and tenor of the play did not permit a more serious development of this aspect of the plot, but it should not be regarded as a deficiency. The characterisation is sharp and clear, and the expression polished, elegant and even dainty. The wit and elaborate compliments, the toying and trifling with the tender pas- sion, the sentimentalities and absence of deep feeling are in perfect keeping with the outlook of the gay circle, which is not used to any profounder view of life. One need not wonder, therefore, that while war is in progress in the kingdom, the royal household is astir with the amorous escapades of the somewhat elderly, but youthfully inclined, king. Gallantry is undoubtedly the key-note of
+**PREFACE.**  
+\_\_\_\_\_
 
-the play; and its joys and sorrows should not be reckoned at a higher level. Judged by its own standards, there is nothing immature, clumsy or turgid in the drama. If malidasa did not actually originate the type, he must have so stamped it, with the impress of his genius that it was, as the dramas of Harsha and Rajasekhara show, adopted as one of the appealing modes of dramatic expression and became banalised in course of time. "— S.K.De
+ The text of the Drama of Mâlavikâgnimitra was first printed at Bonn in 1840, edited by the late Otto Frederik Tullberg. That edition, however, of the Swedish scholar was, unfortunately, far from being correct. Many a passage in it is corrupt and confused; some verses are given as prose, and speeches of different characters are put into the mouth of one and the same speaker.
 
+ Then followed, in 1856, a German translation by Professor Weber. This translation was not based entirely on the unfortunately faulty edition of Dr. Tullberg; but the learned Professor, as might have been expected, took care to examine for himself into the MSS., and proposed many an emendation of the text in his notes to his translation.
+
+ But the original Sanskrit Drama, as far as I am aware, is as yet nowhere printed in a correct edition, based, as every edition of a Sanskrit work ought to be, on the collation of several trustworthy MSS. collected from different parts of India. To supply this desideratum is the principal object I have had in view in preparing the present edition.
+
+ The Drama of Mâlavikâgnimitra is a remarkable instance of how much a genuine production of a well-known poet may suffer when left to the mercies of distant posterity. The history of that play affords a most instructive illustration of the universal disfavour that is not unfrequently shown to an object that has once had the misfortune of being accidentally disfavoured by a great man. Genuine merit does not always shine forth through all clouds of misfortune. It is as frequently brought to light by an accidental glance of illustrious eyes, as thrown into obscurity by a contemptuous look of them.
+
+ Such and no other is the misfortune under which the play of “Mâlavikâ and Agnimitra” has hitherto laboured. Professor H. H. Wilson, the most eminent orientalist, was the first who brought that drama, along with many others, to the notice of European Sanskrit scholars. But in the account which he gives of this play in his Appendix to the second volume of his excellent work on the Theatre of the Hindus, that great scholar expresses himself rather unfavourably on the merits of the play, and doubts very much whether it belongs to the celebrated author of the *S'âkuntala* and the *Vikramorvas'î*. Nay he seems to have been of opinion that the play might be the production of a Kâlidâsa, who lived perhaps in the tenth or eleventh century, or even later than that.
+
+ These and other depreciatory remarks of the great orientalist on the literary merits and the pretensions to antiquity of the drama, followed by the greatly incorrect state in which the text of it was edited and published by Dr. Tullberg, has, in my humble opinion, not a little contributed to the neglect into which the play has hitherto been thrown by the public, to the fact that by some\* it is regarded as a production not of that Kâlidâsa of antiquity, who has preṣented us with the immortal plays of the *S'âkuntala* and the *Vikramorvas'î*, but of an inferior namesake of him, who belonged to a very modern time. But how far the drama in question deserves that it should be denied the honour of coming from the hands of the celebrated author of the *S'âkuntala*, and how far he himself deserves to be deprived of the credit of writing it, seems to require some examination.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\*Thus Dr. Hall (*Vâsavadattâ*, preface, page 15) not only believes that the play does not belong to the author of the S'âkuntala, but that it does not belong to *any* Kâlidâsa at all. He says, “I will add that the frequent omission in MSS. of this drama of the words attributing it to Kâlidâsa furnishes a strong presumption that they have been foisted into the original composition.” I do not understand what words are those that Dr. Hall says are omitted in the MSS. of the play that he examined. It is difficult to see how the prologue can possibly stand without the words attributing the drama to Kâlidâsa. Indeed, the name of Kâlidâsa is twice repeated in the prologue, and unless the name of some other author is “foisted” into the text in place of that of Kâlidâsa in the MSS. of the play that Dr. Hall collated, it is impossible to suppose that they contain the prologue. None of the seven MSS. of the drama, all of them highly trustworthy, that I have collated, omit the words attributing it to Kâlidâsa, and do not furnish any “presumption that they have been foisted” into the text. It were very much to be wished that the learned editor of Vâsavadattâ had been more explicit in his note, and stated what particular words are omitted in his MSS., and how the prologue stands therein, if it does stand at all. It may not be improbable that his MSS. are not much superior to those on which Dr. Tullberg based his text of the drama.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ The chief grounds on which Professor Wilson bases his doubt about the legitimacy of the Mâlavikâgnimitra as a production of the great Kâlidâsa, are: 1st, that—“There is neither the same melody in the verse nor fancy in the thoughts;” 2nd, that—“The manners described appear to be those of a degenerate state of Hindu society.” Now, as to the first ground, it is not clear what is meant by “the same melody in the verse.” Is it intended to be understood that the metrical portion of the drama is rough or loose? The poetry, indeed, of the Mâlavikâgnimitra is as smooth and flowing as that of the S'âkuntala and the Vikramorvas'î. It is as little laboured and artificial as that of those two dramas. It requires as little labour to understand the one as the other. The verse in the Mâlavikâgnimitra is as regular and model-like as that in the two sister dramas of the poet. How, therefore, the latter can be said to be more melodious than the former cannot, perhaps, be very easily understood. The metres, too, are nearly the same in all the three dramas; so that if they are melodious in the S'âkuntala and the Vikramorvas'î, they are not less so in the Mâlavikâgnimitra.
+
+ But there is not “the same fancy in the thoughts” in the Mâlavikâgnimitra as in the two other dramas. This is, indeed, an objection that carries, undoubtedly, considerable weight with it. It is, doubtless, true that the play in question is not so rich in its poetry as the two other ones, and that the flights of fancy do not soar equally high in our play. Professor Weber would account for this difference by the fact that whereas the S'âkuntala and the Vikramorvas'î have their scenes mostly in the woods and forests, and afforded their author opportunities of indulging his fancy in giving excellent descriptions of nature, and that “both rest moreover upon a mythical background, and consequently bear a more magnificent and ideal character: the Mâlavikâgnimitra portrays the life in the court of a historic prince, and consequently the bare actuality, with its self-made, and therefore, scanty concerns.” Though it is perfectly true that the nature of the subjects and the places of action of the two plays may have contributed to their excellence, by enabliṅg their author to compose them as he has done, and by making us admire them as we do, it is, nevertheless, much open to doubt whether "the life in the court of a historic prince" may have restrained a poet of Kâlidâsa’s powers and genius in writing as excellent a drama on that subject as on the Lost Ring or the Heavenly Nymph. Considerable portions of the two dramas, whose legitimacy is unquestionable, have also their scenes in courts of princes; and if it be urged that Dushyanta and Purûravas were mythical characters, Agnimitra also, who lived according to Professor Weber himself, at least five centuries before Kâlidâsa, might have, if the latter wanted it, been invested with as much mythology as was required for dramatic excellence, if this depended on mythology. But instances are not wanting where “the bare actualities” and “the scanty concerns” of unmythical and real persons have supplied materials, even to Sanskrit poets, for dramas, whose excellence is beyond dispute. The subject, for example, of the Mâlatîmâdhava is as unmythical as any that can be imagined.
+
+ The task of showing why one work of an author is inferior to another, why one play of a dramatist is not so rich in fancy of the thoughts or fragrance of the poetry as some other, is one that can hardly be satisfactorily performed by the author himself. Nor can we reject a work as unworthy of a celebrated poet on no other ground than that it does not possess the same excellence in regard to a point that relates to its matter or form, especially when the evidence for holding that it does belong to the same poet is overwhelmingly convincing. If the fact of the comparative excellence and the comparative inferiority of different works of one and the same author is established, all that we can do to account for the fact is necessarily of a general character, and partaking greatly of the nature of a mere conjecture. If this last is strengthened by any corroborative evidence, so as to make it probable, we can proceed no further in the investigation of the question. If, accordingly, I may be allowed to hazard a guess as to the cause of the difference between the poetical worth of the Mâlavikâgnimitra and that of either of the two other plays, the first that suggests itself to my mind is that the Mâlavikâgnimitra is the first production of Kâlidâsa, that it was written while he was yet young, and while he was yet unknown as a dramatist of note to his contemporaries, and while yet he had not made a name for himself as a poet. Such a supposition seems to be strengthened by the tone of the prologue that introduces to us the drama. The assistant (पारिपार्श्विकः) of the manager is surprised to hear his master propose that Mâlavikâgnimitra, a drama composed by Kâlidâsa, should be acted, and asks him why a drama of a living poet should be acted, at the neglect of those of the famous Bhâsa and Saumilla. If when the Mâlavikâgnimitra was composed and acted, the author had been known as a dramatist of note, and if the S'âkuntala and the Vikramorvas'î had been written and published, and acquainted the public with their author, the prologue would, in all likelihood, have been differently worded. For that prologue does not seem to introduce to the public the particular drama to which it is attached, but rather the author who wrote it.
+
+ We then come to the second objection of Professor Wilson: “The manners described appear to be those of a degenerate state of Hindu society.” This is a reproach, which, I am humbly of opinion, is little deserved by the Mâlavikâgnimitra in particular. If the manners described in that play are indicative of a degenerate state of Hindu society, those portrayed in the two other plays are likewise open to the same censure. Whose manners are they that are degenerate in the play? Agnimitra differs little from Dushyanta or Purûravas in the purity or otherwise of his principles. Marrying more wives than one is a privilege of a Hindu, and whether we observe the present practice, or read of ancient traditions, the privilege is especially allowed to Princes. Dushyanta has already a harem of ladies, and yet he makes love to S'akuntalâ; Purûravas likewise has more wives than one, and he does not hesitate to marry Urvas'î, a heavenly nymph that, it may be observed, in earthly language would be designated by a name by no means enviable to a woman of good character. The Mâlavikâgnimitra is no more a domestic intrigue, as it has usually been assumed, than the Vikramorvas'î. King Agnimitra’s passion for Mâlavikâ is as pure, or, perhaps, more so than that of King Purûravas for Urvas'î. Agnimitra nowhere shows that he desires an unlawful gratification of his passion. We must not be misguided by the fact that Mâlavikâ was in the train of attendants of Dhâriṇî. We are nowhere told that the heroine actually served as an attendant of Dhâriṇî. Even if this had been the case, there would have been nothing of the nature of an *intrigue*, properly so called, in the king’s love affairs with Mâlavikâ, as long as he wished to add his mistress formally to his harem by elevating her to the position of a queen. Indian kings were neither in ancient times, nor are they in modern times, very fastidious as to the family of every member of their harems, provided the objects of their passion are possessed of personal beauty and mental accomplishments. We need not go far in search of an illustration. The marriage of S'akuntalâ with Dushyanta, of a girl of illegitimate birth with a king of one of the most renowned dynasties of ancient India, ought to satisfy us. Nor can the play of Mâlavikâgnimitra be pronounced an household intrigue, simply because the court of the king is the scene where the events take place. The amours of Purûravas and Urvas'î likewise have the court of that prince for their locality.
+
+ Nor can I see in the character of Mâlavikâ herself, or of Queen Dhâriṇî, or even of the light Irâvatî, of Vidûshaka, or of the professors of dancing and music, anything that can well be called “degenerate.” The only thing to which objection may be taken is, perhaps, the fact that Dhâriṇî does not show quite as much indignation at the king’s conduct with regard to Mâlavikâ as might be expected; as, for example, Queen Aus'înarî does in the Vikramorvas'î, or, to cite an instance from another poet, Queen Vâsavadattâ in the Ratnâvalî. But this is easily accounted for, when we remember that Dhâriṇî is an elderly lady, and that, besides, the poet has given us enough of jealousy and indignation in the character of Irâvatî, who, being still young, is evidently better suited to exhibit those passions. If Professor Wilson himself had examined into the charge of “degeneracy,” as brought by him against our play, he would have seen cause to modify his estimate of its merits.
+
+ But Professor Wilson concludes from the degeneracy of manners which he imputes to the Mâlavikâgnimitra, that “it can sarcely be thought earlier than the tenth or eleventh century. It may possibly have been the production of a somewhat later day.” This conclusion, based, as it is, upon the alleged “degenerate state of Hindu society,” is one that deserves not to be accepted without some diffidence, even if we assume for a moment the truth of the charge of degeneracy brought against the drama. For it is difficult to see why Professor Wilson thought that the alleged “degenerate manners” of the play suited the tenth or eleventh, or even a later century, any more than say the sixth or seventh, or any other century before or after the age which he so arbitrarily assigns to the genesis of the drama. The fact seems to be that the allegation is as little founded as the inference that is made to rest upon it.
+
+ The principal object, however, which I have in view here is not to examine the *pros* and *cons* of the antiquity of the drama, but the question whether it belongs to the renowned author of the S'âkuntala and the Vikramorvas'î. If a successful attempt is made to answer this question, the more general question of the age of Kâlidâsa may be left to be investigated elsewhere more appropriately.
+
+ Now, what are the means by which we can hope to prove that an extant work, the age of whose genesis is long gone by, belongs to a certain author? We have, I think, to consider the external as well the internal evidence relating to the work in question. But if the work is several centuries old, external evidence as regards such a composition is reduced merely to the form of tradition, written and oral. Oral tradition, perhaps, if it is several centuries old, loses a great deal, in fact, almost the whole of its claim to be regarded as satisfactory evidence. But if there is a written tradition, and this tradition is written in the words of the author himself, and if no one has ever doubted its correctness, we must, by all means, accept it as conclusive evidence. Now what is the nature of external evidence as regards the drama tending to show whether it does or does not belong to the author of the S'âkuntala and the Vikramorvas'î? The very prologue itself unequivocally states that the drama is a production of Kâlidâsa; and nobody has ever doubted that this Kâlidâsa is the same individual as the author who has given us the two other plays. The same kind of tradition, namely, the statement of the author introducing the play to the public, implicitly and universally believed, that fathers the S'âkuntala and the Vikramorvas'î upon Kâlidâsa, is the tradition that attributes the Mâlavikâgnimitra to him. In all the three plays KÂLIDÂSA is stated to be the author who composed them. If either of the two plays of S'âkuntala and Vikramorvas'î were to be denied to-day to be the production of the same Kâlidâsa who composed the other, laying aside internal evidence, what positive evidence should we have to show that they both belonged to one and the same Kâlidâsa? So far then as external evidence goes, there is none to show that the Mâlavikâgnimitra belongs to a different Kâlidâsa; but, on the contrary, the prologue most positively declares that the play belongs to Kâlidâsa. By external evidence, therefore, we have no grounds to suspect that the Mâlavikâgnimitra is the production of another Kâlidâsa. Traditionary external evidence has always attributed it to the same Kâlidâsa, till Professor. Wilson chose to doubt the correctness of the tradition.
+
+ Turning then to internal evidence, we may observe in the outset that the prospects of success here are more hopeful than in any other means that may be used as an argument for showing that the Mâlavikâgnimitra belongs to the author of the other two great plays. The internal evidence goes so far to prove the great Kâlidâsa’s authorship of the play, that even if we had not the profession of the poet himself in the prologue, we should never hesitate, after a careful perusal and comparison of the three plays, to pronounce that the Mâlavikâgnimitra comes from the same hands as the S'âkuntala and the Vikramorvas'î.
+
+ Every great writer, whether of prose or poetry, has always a settled style of composition. This is especially the case with those poets and authors who take delight in an easy and natural expression of their thoughts, and never surrender their good sense and fondness for perspicuity to a laboured and obscure style of writing. Whatever is natural and ordinary will be frequently repeated in the writings of one and the same author. And, accordingly, there are so many analogies, or, I had almost say, identities of expression, everywhere to be met with in the diction and ideas of the three dramas of S'âkuntala, Vikramorvas'î, and Mâlavikâgnimitra, that it is impossible to explain them on any other ground than that of the identity of their author. The simple occurrence of the same expressions and phrases in different works does not, it is true, necessarily show that the works come from one and the same author, but it is the repetition of those analogous expressions, phrases, and ideas with a characteristic *frequency* in each of the compositions, that is of importance in determining the identity of their author.
+
+ As regards diction the following analogies may be quoted:—अच्चाहिदं (अत्याहितम्), ‘great misfortune.’ Cf. note on page 82, 1. 3—सम्भावय्, ‘to honour.’ Cf. note on page 47, 1. 13—स्वनियोगमशून्यं कुरू, ‘Go thou about thy business,’ *i.e.*, ‘retire, and leave us alone.’ Cf. note on page 22, 1. 7.—मा, with the future tense, in the sense of either the prohibitive imperative or ‘*lest* with the subjunctive.’ Cf. note on page 21, 1. 9—णिर्वन्ध, in the sense of ‘importunity.’ Cf. note on page 17, 1. 11—पारेदि (पारयति), in the sense of ‘he can.’ Cf. note on page 45, 1.5—अथ्थि विसेसो (अस्ति विशेषः), ‘there is some change \[for the better\]’. Cf. note on page 65, 1. 11—पुढमो कप्पो (प्रथमः कल्पः), ‘an excellent alternative.’ Cf. note on page 12, 1. 13—अणुणअं गेण्हदि (अनुनयं गृह्णाति), ‘allows himself to be assuaged and reconciled.’ Cf. note on page 85, 1. 2—पदं कृ, ‘to enter upon,’ ‘to set foot upon.’ Cf. note on page 52, 1. 1—पावं, आसङ्कदि (पापमाशङ्कते), ‘suspects something unfortunate.’ Cf. note on page 82, 1. 5—सरओओ (स्वरयोगः), ‘harmony of sounds,’ ‘*voice*.’ Cf. note on page 100, 1. 11—अन्तरेण with the accusative, ‘as regards,’ ‘with reference to.’ Cf. note on page 62, 1. 13—शरणम्, ‘the sacred abode of \[Agni, &c.’\]. Cf. note on page 106, 1. 12—सभाजइदुं, (सभाजयितुम्) ‘to pay one’s respects to.’ Cf. note on page 113, 1.2—अनात्मज्ञ : ‘foolish,’ ‘silly.’ Cf. note on page 9, 1. 1—गहीदथ्या (गृहीतार्था), ‘she who has understood the matter.’ Cf. note on page 52, 1.5—विसंवादिदो (विसंवादितः), ‘caused to be disappointed.’ Cf. note on page 21, 1. 10—लङघइस्सदि (लङघयिष्यति), ‘will hurt,’ ‘will cause harm to.’ Cf. note on page 77, 1. 6—पकिदिथ्थो (प्रकृतिस्थः), ‘recovered.’ Cf. note on page 69, 1.2— उवआरादिक्कमं पमज्जिदुं (उपचारातिक्रमं प्रमार्ष्टुम्), ‘to atone for disdaining the king’s prostration.’ Cf. note on page 80, 11. 5, 6.—अभ्भवहार (अभ्यवहारः), ‘eating,’ ‘dinner.’ Cf. note on page 82, 1. 7—वसन्दावदारसूअआणि (वसन्तावतारसूचकानि), ‘indicative of the first appearance of spring. Cf. note on page 36, 1. 10—पस्सपरिवट्टिणी (पार्श्वपरिवर्तिनी), ‘standing by.’ Cf. note on page 95,1. 6—पर्याप्तमेतावता कामिनां, ‘this that I hear is enough for lovers.’ Cf. note on page 53, 1.5—एत्तिओ मे विहवो (एतावान्मे विभवः), ‘thus far the flight of my genius and no further.’ Cf. note on page 28, 1. 7—अप्पणो छन्देण (आत्मनश्छन्देन) ‘after thy own wish.’ Cf. note on page 51, 1. 1—विशेष, at the end of a compound, giving the notion of ‘excellence’ to the sense of the substantive to which it is affixed, as आकृतिविशेष शिलाविशेष. Cf. note on page 78, 1. 3—विभावेमि (विभावयामि), ‘I recognise,’ ‘I infer.’ Cf. note on page 73, 1. 7—अलं भवदो परिदेविएण (अलं भवतः परिदेवितेन), ‘away with your lamentation.’ Cf. note on page 35, 1. 7. These are some of the analogies of expression which strike at once a careful reader and comparer of the three dramas as being characteristic of one and the same author. A few more, not noticed here, may be found in the Notes. Any one that makes it his object to find such analogies from the three poems—Raghuvaṁs'a, Kumârasambhava, and the Ritusaṁhâra, and the three dramas of S'âkuntala, Vikramorvas'î and Mâlavikâgnimitra,—will, doubtless, be able to swell the list I have given above, by adding a great number of more similarities and identities of expression.
+
+ Let us now turn to analogies of thought. The following are a few of them :—The regret of the king that while the As'oka is blessed by the touch of Mâlavikâ’s foot, he himself enjoys no such favour, and is therefore unhappy. A similar address to a bee in the S'âkuntala. Cf. note on page 53, 1. 13.—The trustworthiness and the cutting sharpness of the flowery weapon of the God of Love. Cf. note on page 36, 1. 5.—The withdrawing of characters from the stage, with the pretext of driving away the young deer. Cf. note on page 77, 1.6.—Comparison of the hand of a handsome woman with the S'yâmâ creeper. Cf. note on page 25,1. 4.—The gracefulness of beauty, in whatever posture and state this may be. Cf. note on page 25, 1. 1.—The erection of hair through an amorous emotion compared to the sprout of a tree. Cf. note on page 61, 1. 5.—The fulfilment of a Brahman’s words. Cf. note on page 45, 1. 6.—Description of the flower *Kurabaka*. Cf. note on page 38, 1. 14.—Surprise of Nipuṇikâ that she should be supposed to have told her mistress what was untrue. Cf. note on page 79, 1. 13.—The scene of Irâvatî accompanied by her attendant, Nipuṇikâ, wandering through the garden in search of the king, greatly analogous to that of Queen Aus'înarî and her attendant, *Nipuṇikâ*, in quest of King Purûravas. Cf. note on page 79, 11. 11-13.—The comparison with the thief who has been caught in the act of committing theft. Cf. note on page 57, 11. 7-9.— Sweet professions of love without love. Cf. note on page 37,1.7.—The scornful refusal of the king’s apology by Irâvatî affords him an excuse for neglecting her. Cf. note on page 60, 11. 10, 11.—The green pigeons sitting on the sloping roofs of the palace. Cf. note on page 29, 1. 8.—A woman wearing the dress and bedecked just with those ornaments that she should have as the wife of a living husband. Cf. note on page 13, 1. 15.—The eight forms or bodies of God (ईश). Cf. note on page 1, 1.3.—The watching for an opportunity by the king to step forward and show himself to his mistress. Cf. note on page 54, 1, 6.—Vidûshaka’s fear for snakes. Cf. note on page 83, 1. 7.—Personification of the Vernal Beauty. Cf. notes on page 38, st. 5.—Many more analogies in thoughts may, doubtless, be added to this list from the poems and the other dramas which are allowed to belong to the Kâlidâsa of antiquity.
+
+ There are some other peculiarities of the author of the S'âkuntala and the Vikramorvas'î that make themselves felt by their conspicuous presence in the Mâlavikâgnimitra also. Thus, it is a characteristic of Kâlidâsa's writings that they all begin with a charmingly modest introduction, marked by great diffidence. The great poet never thinks that he has done well, until what he has done is pronounced good by the learned. The Raghuvaṁs’a (i. 10), and the S'âkuntala (p. 2, ll. 6, 7, आ परितोषाद्विदुषाम्) lay down the maxim, and it is repeated in our play (p. 26, 11. 9, 10). Bhavabhûti and others, on the contrary, do not consider it at all inconsistent with modesty to give long descriptions of their genealogies and of their own attainments.\* Some of them, again, Bhavabhûti, for example, are defiant, and challenge the public in their introductions. It may also be observed that the *Nândî*, or the opening and benedictory part, is characteristically short, consisting of one stanza only, in dramas that belong to Kâlidâsa, while that of other dramatists is extravagantly long, consisting often-times of three, four, or five stanzas, and full of meta-physical and mythological nonentities. We may add, further, that the introduction of the dramas of Kâlidâsa, as these are easy and temperate in their style, and were probably on that account intelligible to a majority of their audiences, never contains any explanation of their plots or subjects, and they always glide imperceptibly, as it were, from the reality of the stage-manager and his assistant into the scenic commencement of the play. Other authors, on the contrary, with little good taste, give a summary of the play’s contents in their introductions, and end them abruptly, or, at least, so as clearly to show where the introduction ends and the play begins. We must not forget also that Kâlidâsa is more fond of the *âryâ* metre in his plays than other dramatists. This *âryâ* metre is of as frequent occurrence in the Mâlavikâgnimitra as in the S'âkuntala and the Vikramorvas'î.
+
+ These and other analogies will strike any careful reader of the three plays. The reader will in vain seek for
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\* See Bhavabhûti’s introduction to his Mahâvîracharita or to his Mâlatîmâdhava, and also the Uttararâmacharita; also Râjas'ekhara's Viddhas'âlabhanjikâ.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+similar “points of contact,” as Professor Weber calls them, in works that professedly belong to different authors, unless one of them has designedly imitated in his own writings the diction, the style, the thoughts, the fancies, the modesty, and good sense of another. The conclusion that will force itself irresistibly on the mind of a reader of the three plays, that they all belong to one and the same author, can hardly be unsettled by a suggestion that the similarities may be explained on the ground of imitation. If the Mâlavikâgnimitra be the work of a person who made it his study to imitate Kâlidâsa, it is a most singular instance of imitation, unparalelled, probably, in the wide range of literature of ancient or modern times. What should we say of the imitating powers of a man who so transformed himself into another person that he was able to copy most faithfully every characteristic, great or small, of his master,—his style, his diction, his thoughts, his words, his taste, his good sense, his modesty, and, what is most surprising, his name itself? But when did this most unique imitator live? He could not have lived in the time of the great Kâlidâsa; nay, not even soon after him. For the imitation of a poet like Kâlidâsa, either during his lifetime or at any time subsequently, when there were critics who were yet familiar with the personal history of the great author, would surely be known by its true nature, and we should certainly have had some tradition handed down to us in one shape or another of so singular an imitator as that who composed the Mâlavikâgnimitra. But if we should suppose that the imitation is a production of a modern age, say the time of Bhoja, when there was an unequalled activity in the cultivation of Sanskrit learning, it is impossible to think that the drama should bear no stamp whatever of the time when it was composed. For it is granted by Professor Wilson himself that it is free from all the “extravagancies of modern composition.” It has none of those faults of bad taste and unnaturalness which distinguish modern Sanskrit poems and dramas.
+
+ Nor can we account for the wholesale similarities by supposing that the Mâlavikâgnimitra is an adaptation. We know of no original to which such an adaptation could be referred. And we have also to remember that adaptations, by their very nature, are devoid of all originality, of all invention. The Mâlavikâgnimitra, however, whatever its poetical merits, may fairly be allowed to be as much distinguished for the display of those qualities as the two other dramas of Kâlidâsa.
+
+ What is then the fact? What is it that caused Professor Wilson, and, through him, several other European scholars, to doubt whether the play under notice really belonged to the author of the Lost Ring? The poetical worth of the Mâlavikâgnimitra, even if not so great as that of either of the two other dramas, ought not, I think, to be reckoned as sufficient ground for holding that it belongs to a different author. All the works of a poet, even those that actually come to our hands after all the care bestowed on them by their author, are far from always being equally excellent. Every literature, whether modern or ancient, will, I think, supply instances of different works by one and the same author of world-wide fame exhibiting various powers of poesy and invention. And yet it will never do to reject the less good productions, and call them spurious, or, which is the same, attribute them to inferior hands.
+
+ Though I do not here undertake to treat the question of Kâlidâsa’s age, it seems nevertheless desirable that Professor Wilson’s statement that the present drama may belong to the tenth or eleventh, or even a later century, should be carefully sifted before we accept it as correct. Indeed, the great orientalist himself appears to have been, in the same summary of the drama, more than half willing to modify his statement by referring, with a candidness as great as his learning, to such of its features as would require us to assign it to a greater antiquity than the tenth or eleventh century after Christ.
+
+ “The dramas,” say Professor Wilson, “written in more recent periods are, invariably, as far as is yet known, mythological, and have some one of the forms or family of Vishṇu for the hero. There is no such thing as a decidedly modern drama the business of which is domestic intrigue.” Whatever may be thought of the reason that he gives to account for that fact,—viz., that “such a subject, indeed, was wholly incompatible with Hindu feelings, as affected by intercourse with their Mahomedan masters, whether the effect of that intercourse was terror or imitation,”—it is perfectly correct that modern poets and dramatists seem to have written under the notion that poesy should not be debased by being made to celebrate the deeds of any hero who was not somehow or other connected with any of the incarnations of the gods; they have certainly left us no play, ―with the exception, perhaps, of the Viddhas'âlabhanjikâ, that belongs to the eleventh century, of the Ratnâvalî that may be referred to the beginning of the twelfth century, and of the Mṛigânkalekhâ, which Professor Weber aptly styles “a mixture of Ratnâvalî, Urvas'î and Mâlatîmâdhava,” —that has for its subject the domestic love-affairs of an (to us) insignificant king like Agnimitra. The fact, therefore, of the subject of the present drama being very unlike any that modern writers were likely to choose to write upon, seems to point to a very much earlier period than the tenth or eleventh century as the age to which the production of the play under notice should be referred.
+
+ Again, as Professor Wilson says, the history of the hero, Agnimitra, as described in the play, is of considerable weight towards determining approximately the age when the drama must have been composed. The full history of Agnimitra or his father Pushpamitra is nowhere given in the Sanskrit works that have come down to us. The Purâṇas\* mention Pushpamitra as the founder of the S'unga dynasty, but they nowhere give any more detailed account of him than that he dispossessed his master, Bṛihadratha, the last of the Maurya dynasty, of his crown, and usurped it, probably, as Professor Wilson supposes, in favour of his son. But nothing is said of Agnimitra, the hero of our
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\* Cf., for instance the Bhâgavata Purâṇa XII., 1. 15. Also Wilson’s Vishṇu Purâṇa, (pp. 470, 471).
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+play, except that he succeeded his father, Pushpamitra. To suppose then that the Mâlavikâgnimitra is the production of so late a date as the tenth or eleventh century would necessitate another supposition that the history of Pushpamitra and his son, Agnimitra, which is so familiarly alluded to in the drama, existed during these ages in a far more copious form than the bare mention of the princes in the Purâṇas. Nothing, however, favours such a supposition. The only inference, therefore, that is possible is, that the play was written while the story of Pushpamitra and Agnimitra was yet fresh in the memory of men, though not quite so fresh as to make it too recent to be made the subject of a drama. This would certainly require that we should assign the piece to a time several centuries earlier than the tenth or eleventh century, since Pushpamitra founded the dynasty that immediately followed the Mauryas, and must have accordingly done so about 160 years before Christ. To suppose that the deeds of Agnimitra were chosen to be the subject of a drama at a time when nothing more was known of him than we know through the Purâṇas, would be to suppose what is not at all probable.
+
+ But, in addition to this consideration, “the style of the play,” says Professor Wilson, “is very unlike that most common amongst modern writers, and most highly esteemed, being free from all jingle of sounds and from metaphorical common-place; it does not even affect anything like the uniform smoothness which seems to have preceded and ushered in the extravagancies of modern composition.” Who will not be struck by the simplicity and elegance of the style of the Mâlavikâgnimitra, the total absence in it of those monstrous long compounds, which are so wearisome already in Bhavabhûti, who may belong somewhat to the begining of the eighth century? If we had nothing else to guide us in fixing with tolerable exactness at least the century which produced the present play, the style and diction of it would alone be sufficient for assuming that it could not have been the production of any time that was not several centuries prior to the age of Bhavabhûti. In what author, again, of those ages of elaborateness and pedantry, of which the beginning is marked by the great Bhavabhûti, shall we find such a sound piece of criticism as that put into the mouth of the stage-manager (page 2, stanza 2) by the author of the Mâlavikâgnimitra? As Professor Wilson truly remarks, “it is the sentiment of a day long gone by.”
+
+ There is yet another point, which, though failing against our expectations, to determine the age of the drama at present, may yet possibly reward future research. I allude to the mention in the prologue of the poets Bhâsa and Saumilla, as predecessors of Kâlidâsa. Unfortunately, Sanskrit chronology is as yet, and perhaps will be, it is difficult to say for how many ages to come, a labyrinth of uncertainties. If nothing positively is known about the time when Kâlidâsa flourished, it is equally uncertain when Bhâsa and Saumilla, his predecessors, lived! To add to the uncertainty of the ages of these latter, it does not as yet appear to be decided how we are to read their names. Dr. Tullberg chose to read, according to one MS., which is identical with that used by Professor Wilson, and which Professor Weber calls “bad in many ways,” धावकसौमिल्लकविपुत्रादीनां in the prologue. Professor Weber is right in his guess that the reading *Dhâvaka* in place of *Bhâsa\[ka\]*, found as it is in one single “bad” MS., is a correction “coming from a scribe who knew Dhâvaka, and not *Bhâsa\[ka\]*,” the *lectio difficilior*, and must therefore, as is often the case, have substituted it for the latter. Dr. Hall (*Vâsavadattâ*, preface, page 15,) believes that he has come to the conclusion “that the poets whom it \[the play\] names with Bhâsaka are Râmila and Saumilla.” None of the seven MSS., however, which I have collated give either *Dhâvaka*, as hinted at by Professor Wilson, and adopted by Dr. Tullberg, nor Râmila, as added by Dr. Hall. They all unanimously read Saumilla for the second, Bhâsa for the first, and except one (G.) they read simply the honorific मिश्र for the third. Now nothing is known of any of these two or three poets referred to in the prologue. Bhâsaka is nowhere mentioned as a poet. It is a mere gratuitous conjecture that Bhâsaka may be the same as the Bhâsa so much applauded in the introduction**\*** of the Harshacharita, and mentioned by Râjas'ekhara in the verses quoted from the *S'ârngadhara-paddhati.***+**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**\*** सूत्रधारकृतारम्भैर्नाटकैर्बहुभूमिकैः। सपताकैर्यशो लेभे भासो देवकुलैरिव, as quoted by Dr. Hall, *Vâsavadattâ*, preface, page 14.
+
+**+** भासो रामिलसौमिलौ वररुचिः श्रीसाहसाङ्कः कविर्मेघो भारविकालिदासतरलास्कन्धः सुबन्धुश्च यः। &c., *Ibid*. page 20.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+But, supposing Bhâsa to be the correct reading, and not Bhásaka, we gain nothing, as all that we know of *Bhâsa* is that he was a dramatist, and flourished before Rajaśekhara, as shown by the passage from the *Harshacharita*. Of *Saumilla* we know absolutely nothing at present, nor of *Kaviputra*, if that be one of the predecessors named in our prologue. It is just possible that future researcheś into the history of *Bhâsa* or *Saumilla*, or *Kaviputra*, none of whose works are known to exist, may throw some light on the earliest limit of age that we must assign to Kâlidâsa.
+
+ The character of “*Parivrâjikâ*” in the play appears to me of some importance in examining Professor Wilson’s statement that the Mâlavikâgnimitra belongs to the tenth or eleventh, or even a later, century. As Professor Wilson says, “a Parivrâjikâ denotes an ascetic female of the Bauddha faith,” and though, according to him, “there is nothing in the piece to assign the character to any particular sect,” it does most likely belong to the Bauddha religion. A female ascetic, properly so called, is nowhere met with in the Brahmanical writings. A widow, who, not burning herself on the funeral pile of her dead husband, survives him, and leads a life of austerities, is, no doubt, a kind of ‘*Sannyâsinî*,’ or ‘*Parivrâjikâ*’; but such a widow is neither called by the latter name, nor enjoined to assume the garments of the ascetic; nor is the ‘widow Sannyâsa’ ever praised as a “path fit for the virtuous” (सज्जनस्य पन्था : page 103, 1. 10); but, on the contrary, that honour is given to the widow who burns herself with the corpse of her husband, and the ‘widow Sannyâsa’ is enjoined only as an alternative when the woman, under peculiar circumstances, is prevented from sacrificing herself to the flames. Nor are such garments as the Parivrâjikâ of the play assumed enjoined by the Hindu S'âstra to be worn by widows. When to this we add that the Parivrâjikâ, as the word signifies, is a wandering or itinerant mendicant, while the Hindu widow in general is never a *wandering mendicant*, it is perfectly clear that Kaus'ikî does not profess the Brahmanical religion. Further, wherever we meet with a *Parivrâjikâ* it is a Buddhistic female mendicant belonging to one or other of the sects of that religion. And when we bear in mind that though there may have been female itinerant mendicants belonging to any other sect, they are nowhere stated to have been reverentially treated in the courts of kings, it is highly probable, nay, almost certain, that Kaus'ikî was a Buddhistic mendicant. And when the religion of Buddha had already been banished from India by the end of the eighth century, it is not very natural to suppose that an author, who wrote, according to Professor Wilson, in the tenth or eleventh century, when the professors of the Brahmanical faith looked down upon the few lingerers, if these were left behind in any considerable number, from amongst their once powerful rivals, may have introduced a character in his drama professing the despised religion, and may have, moreover, made the whole court of a powerful prince pay her a most reverential homage. Such a supposition would only be possible if the author of the Mâlavikâgnimitra had made it his object to represent by means of that play how Buddhism, that was dead in his time, had once been revered in the courts of princes. But such is not, as any one may perceive, the burden of the play; nor is it at all likely that Agnimitra might be chosen as an exemplary champion of Buddhism, even if the poet had intended to sing the former greatness of that religon, since the S'ungas, to which dynasty Agnimitra belonged, are represented to have been far from favourable to the followers of Buddha. The probability, therefore, is that the play was written, not at a time when Buddhism was despised, and had already been driven out of India, but when it was still regarded with favour, and was looked up to with reverence; and this must refer us to a time several centuries prior to the tenth or eleventh century after Christ.
+
+ In conclusion, I must confess I do not see the slightest ground for the supposition that the Mâlavikâgnimitra belongs to a different Kâlidâsa from the author of the “Lost Ring” or the “Heavenly Nymph,” a supposition accidentally entertained by Professor Wilson, and unfortunately strengthened subsequently by the very incorrect state in which the public has had to read the play in Dr. Tullberg’s edition. If by the present edition any success is achieved in the eyes of the cultivators of Sanskrit literature in restoring the play to its original purity, and in enabling thereby the reader to judge whether it does or does not belong to the great Kâlidâsa, I shall regard my humble task more than sufficiently rewarded. And as for the author of the play, I hope I may be allowed to say, with the learned Professor Weber,—“So möge sich denn dies zierliche Drama auch in einen weiteren Kreise, als bisher, Freunde erwerben und zu dem wohl verdienten europäischen—\[I had rather say *allgemeinen*\]—Lorbeerkranze des Kâlidâsa, seines Verfassers, dadurch ein neues duftiges Blatt hinzugefügt werden!”
+
+S. P. P.
+
+Deccan College, Poona,  
+1st September 1869.
+
+**C O R R I G E N D A.**  
 \_\_\_\_\_\_\_\_
 
-The Subhashitas occuring in the play.
 
-I. SENTENCES.
 
-(The figures refer to the pages and lines of this Edition)
+P. 34, 1.7, read the stage-direction प्रस्थिता after लहेहि in 1. 6.
 
-[TABLE]
+P. 38, 1. 13, read रक्ताशोकरूचाविशेषितगुणो
 
-|                                                          |
-|----------------------------------------------------------|
-| कामं खलु सर्वस्थापि कुलविद्या बहुमता|                    |
-| कुतूहलवानपि निसर्गशालीनः स्त्रीजनः|                      |
-| कुम्भीलकैः कामुकैश्च परिहरणीया खलु चन्द्रिका|            |
-| चन्दनं खलु मया पादुकोपयोगेन दूषितम्|                     |
-| चूताङ्कुरं विचिन्वत्योः पिपीलिकाभिर्दष्टम्|              |
-| तनुत्यजामीदृशी लोकयात्रा|                                |
-| तुल्यामभिजनेषु राज्ञां वृत्तिः|                          |
-| दंशच्छेदः पूर्वकर्म|                                     |
-| दर्दुरा व्याहरन्तीति किं देवः पृथिव्यां वर्षितुं विरमति? |
-| दरिद्र इवातुरो वैद्येनोपनीयमानमौषधमिच्छसि|               |
-| दाक्षिण्यं नाम.........नायकानां कुलव्रतम् |              |
-| न च प्रियेष्वायतलोचनानां समग्रपातीनि विलोचनानि|          |
-| न चापि काव्यं नवमित्यवद्यम्|                             |
-| ननु कलभेन यूथपतेरनुकृतम्|                                |
-| न शोभते प्रणयिनि जने निरपेक्षता|                         |
-| न हि क्रमलिनीं दृष्ट्वा ग्राहमवेक्षते मतङ्गजः|           |
-| नाट्यं भिन्नरुचेर्जनस्य बहुधाप्येकं समाराधकम्|           |
-| नार्हति कृतापराधोऽप्युत्सवदिवसेषु परिजनो दण्डम्|         |
-| निसर्गनिपुणाः स्त्रियः|                                  |
-| पण्डितपरितोषप्रत्यया ननु मूढजातिः|                       |
-| पत्तने सति ग्रामे रत्नपरीक्षा|                           |
-| प्रथमोपदर्शने प्रथमं ब्राह्मणस्य पूजा कर्तव्या|          |
-| प्रभवति प्रभुरात्मनः परिजनस्य|                           |
-| प्रभवत्याचार्यः शिष्यजनस्य|                              |
-| प्रभवन्त्योऽपि हि भर्तृषु कारणकोपाः कुटुम्बिन्यः|        |
-| प्रयोगप्रधानं हि नाट्यशास्त्रम्|                         |
-| प्रायः समानविद्याः परस्परयशःपुरोभागाः|                   |
+P.62, 1.15, „ पिङ्गलाक्ष्या
 
-[TABLE]
+P.73, 1. 17, „ रत्नभाण्डं यौवनगर्वं
 
-अप्याकरसमुत्पन्ना मणिजातिरसंस्कृता।  
-जातरूपेण कल्याणि न हि संयोगमर्हति॥
+P. 83, 1. 18, „ सर्प इति
 
-अर्थं सप्रतिबन्धं प्रभुरधिगन्तुं सहायवानेव।  
-दृश्यं तमसि न पश्यति दीपेन विना सचक्षुरपि॥
+P. 84, 1. 3 English notes, right-hand column, read पुछ्छिदव्वो.
 
-उपदेशं विदुः शुद्धं सन्तस्तमुपदेशिनः।  
-श्यामायते न विद्वत्सु यः काञ्चनमिवाग्निषु॥
+**॥अथ मालविकाग्निमित्रम्॥**
 
-छेदो दंशस्य दाहों वा क्षतेर्वा रक्तमोक्षणम्।  
-एतानि दष्टमात्राणामादूष्याः प्रतिपत्तयः॥
+**<MISSING_FIG href="../books_images/U-IMG-1726471159pic7.jpg"/>**
 
-नहि बुद्धिगुणेनैव सुहृदामर्थदर्शनम्।  
-कार्यसिद्धिपथः सूक्ष्मः स्नेहेनाप्युपलभ्यते॥
+**एकैश्वर्य[^1]स्थितोपि प्रणतबहुफलो यः स्वयं कृत्तिवासाः  
+कान्तासम्मिश्रदेहोप्यविषयमनसां यः पुरस्ताद्यतीनाम्।  
+अष्टाभिर्यस्य कृत्स्नं जगदपि तनुभिर्बिभ्रतो नाभिमानः  
+सन्मार्गालोकनाय व्यपनयतु स न[^2]स्ताम्मसीं वृत्तिमीशः॥१॥**
 
-पात्रविशेषे न्यस्तं गुणान्तरं व्रजति शिल्पमाधातुः।  
-जलमिव समुद्रशुक्तौ मुक्ताफलतां पयोदस्य॥
+[^1]: # "D F एकैश्वर्ये for एकैश्वर्य॰."
 
-पुराणमित्येव न साधु सर्वं न चापि काव्यं नवमित्यवद्यम्।  
-सन्तः परीक्ष्यान्यतरद्भजन्ते मूढः परप्रत्ययनेयबुद्धिः॥
+[^2]: # "F वः for नः."
 
-प्रतिपक्षेणापि पतिं सेवन्ते भर्तृवत्सलाः साध्व्यः।  
-अन्यसरितामपि जलं समुद्रगाः प्रापयन्त्युदधिम्॥
+**नान्द्यन्ते**
 
-मन्दोऽप्यमन्दतामेति संसर्गेण विपश्चितः।  
-पङ्कच्छिदः फलस्येव निकषेणाविलं पयः॥
+**सूत्रधारः।** नेपथ्याभिमुखमवलोक्य। मारिष इतस्तावत्।
 
-लब्धास्पदोऽस्मीति विवाद
+**पारिपार्श्वकः।** प्रविश्य। भाव अयमस्मि।
 
-मोरोस्तितिक्षमाणस्य परेण निन्दाम्।  
-यस्यागमः केवलजीविकायै तं ज्ञानपण्यं वणिजं वदन्ति॥
+**सूत्र॰।** अभिहितोस्मि परिषदा कालिदासग्रथितवस्तुमालविकाग्निमित्रं नाम नाटकमस्मिन्वसन्तोत्सवे प्रयोक्तव्यमिति। तदारभ्यतां सङ्गीतकम्।
 
-शिष्टा क्रिया कस्यचिदात्मसंस्था संक्रान्तिरन्यस्य विशेषयुक्ता।  
-यस्योभयं साधु स शिक्षकाणां धुरि प्रतिष्ठापयितव्य एव॥
+**पारि॰।** मा तावत्। प्रथितयशसां भासकविसौमिल्लकविमिश्रादीनां प्रबन्धानतिक्रम्य वर्तमानकवेः कालिदासस्य क्रियायां कथं परिषदो बहुमानः।
 
-**GREATNESS OF KALIDASA.**
+**॥प्रथमोङ्कः॥**
 
-निर्गतासु न वा कस्य कालिदासस्य सूक्तिषु।  
-प्रीतिर्मधुरसार्द्रासु मञ्जरीष्विव जायते॥
+**सूत्र॰। **अयि विवेकविश्रान्तमभिहितम्। पश्य।
 
-—
+**पुराणमित्येव न साधु सर्वं  
+न चापि काव्यं नवमित्यवद्यम्।  
+सन्तः परीक्ष्यान्यतरद्भजन्ते  
+मूढः परप्रत्ययनेयबुद्धिः॥२॥**
 
-वाणभट्टः.
+**पारि॰।** आर्यमिश्राः प्रमाणम्।
 
-पुरा कवीनां गणनाप्रसङ्गे कनिष्ठिकाधिष्ठितकालिदासा।  
-अद्यापि तत्तुल्यकवेरभावादनामिका सार्थवती बभूव॥Anon
+**सूत्र॰।** तेन हि त्वरतां भवान्।
 
-साकूतमधुरकोमलविलासिनीकण्डकूजितप्राये।  
-शिक्षासमयेऽपि मुदे रतलीलाकालिदासोक्ती॥—गोवर्धनाचार्यः
+**शिरसा प्रथमगृहीतामाज्ञामिच्छामि परिषदः कर्तुम्।  
+देव्या इव धारिण्याः सेवादक्षः परिजनोयम्॥३॥**
 
-उपमा कालिदासस्य भारवेरर्थगौरवम्।  
-दण्डिनः पदलालित्यं माघे सन्ति त्रयो गुणाः॥Anon
+\[निष्क्रान्तौ\]
 
-वाल्मीकेरजनि प्रकाशितगुणा व्यासेन लीलावती  
-वैदर्भी कविता स्वयं वृतवती श्रीकालिदासं वरम्।
+**॥प्रस्तावना॥**
 
-यासूतामरसिंहमाघधनिकान्सेयं जरानीरसा  
-शून्यालंकरणा स्खलन्मृदुपदा कं वा जनं नाश्रिता॥ Anon
+।ततः प्रविशति चेटी।
 
-सरस्वती—कविर्दण्डी कविर्दण्डी कविर्दण्डी न संशयः।  
-कालिदासः—कोऽहं ब्रूहि तदा मूढे?
+**चेटी।** **^(१)**आणत्तम्हि देवीए धारिणीए अइरप्पउत्तोवदेसं चलिअं[^3] णाम णट्टअं[^4] अन्दरेण[^5] कीरिसी मालविएत्ति[^6] णट्टाआरिअं अ[^7]ज्जगणदासं पुछ्छिदुम्। ता जाव[^8] सङ्गीदसालं गछ्छेमि[^9]। इति परिक्रामति।
 
-सरस्वती—त्वमेवाहं न संशयः।
+[^3]: # "A C चलीअं; D चलीयं.—"
 
-काव्येषु नाटकं रम्यं तत्र रम्या शकुन्तला।  
-तत्रापि च चतुर्थोऽङ्कस्तत्र श्लोकचतुष्टयम्॥
+[^4]: # "A C णाट्टअं; B D णठ्ठअं.—"
 
- Kalidasa, the celebrated author of the Sakuntala is a masterly describer of the influence which nature ever exercises upon the minds of lovers ; ........tenderness in the expres sion of feeling and richness of creative fancy has assigned to him his lofty place among the poets of all nations. —
+[^5]: # "F अन्तरेण—"
 
-Von Humboldt.
+[^6]: # "B C मालविअन्त्ति; D F मालविअत्ति."
 
-**पात्राणि—DRAMTIS PERSONAE**
+[^7]: # "A C अअ; B D E F अ-अ.]"
 
-पुरुषाः— Male
+[^8]: # "A B C D E om. ता before जाव."
 
-**अग्निमित्र**:— King of Vidisa.
+[^9]: # "B D E गछ्छम्मि;"
 
-**गौतमः, (विदूषक)—**The King's Confidant.
+।प्रविशत्य[^10]परा चेट्याभरणहस्ता।
 
-**गणदासः, हरदत्तः —** Teachers of Music & Dancing
+[^10]: # "F adds ततः before “प्रविशति”"
 
-**मौद्गल्यः (कञ्चुकी)—**The King's Chamberlain.
+**प्रथमा।** अन्यां दृष्ट्वा। **^(२)**हला कोमुदीए कुदो दे इअं धीरदा[^11]। जं समीवेवि अदिक्कमन्ती इदो दिठ्ठिं ण देसि[^12]।
 
-**सारसिकः—**The Queen's dwarf.
+[^11]: # "A B C D E om. दे.—F धीरद."
 
-**स्त्रियः — Female**
+[^12]: # "B अदिक्कमती.—A C न देसि ."
 
-**धारिणी**— The Senior Queen.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१. **आज्ञप्तास्मि देव्या धारिण्याचिरप्रवृत्तोपदेशं चलितं नाम नाट्यमन्तरेण कीदृशी मालविकेति नाट्याचार्यमार्यगणदासं प्रष्टुम्। तद्यावत्सङ्गीतशालां गच्छामि।
 
-**इरावती**— The Junior Queen.
+**२.** हला कौमुदिके कुतस्त इयं धीरता। यत्समीपेप्यतिक्रामन्तीतो दृष्टिं न ददासि।
 
-**मालविका—**Dharini's maid, later found to be a Princess. (The Heroine)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**कौशिकी (परिव्राजिका )—** A Nun in the service of the Queen.
+**द्वितीया।** **^(१)**अम्हो बउला[^13]वलिआ। सहि देवीए इदं सिप्पिसआसादो आणीदं सप्पमुद्दासणाहम् अङ्गुलीअअं सिणिध्धं णिझ्झाअन्ती तुह उवालम्भे पडिदम्हि।
 
-**बकुलावलिका—**A maid friend of Malavika
+[^13]: # "A C D बहुला.°"
 
-**जयसेना**— A Portress.
+**बकुलावलिका।** विलोक्य। ^(**२**)ठाणे ख्खु[^14] सज्जदि दिठ्ठि। इमिणा अङ्गुलीअएण उम्भिण्णकिरणकेसरेण कुसुमिदो विअ[^15] दे अग्गहथ्थो पडिभादि।
 
-**कौमुदिका—** Attendant of the Senior Queen.
+[^14]: # "A B C D E om. ख्खु."
 
-**मधुकरिका—** Female Gardener.
+[^15]: # "D विय for विअ."
 
-**निपुणिका, चन्द्रिका —** Attendants on the Junior Qn.
+**कौमुदिका।** **^(३)**हला कहिं पथ्थिदासि[^16]।
 
-**समाहितिका**—Pupil of Kausiki.
+[^16]: # "B D E F पडिभाइ."
 
-ज्योति्स्नका‚मदनिका—Female singers presented to Agnimitra
+**बकु॰।** **^(४)**देवीए वअणेण णठ्ठाआरिअं[^17] अज्जगणदासम् उवदेसग्गहणे कीरिसी[^18] मालविएत्ति पुछ्छिदुम्।
 
-**Persons Spoken of**
+[^17]: # "A E F णट्टा.°—A C D E अ-अ°; F अय°."
 
-पुष्पमित्रः—Father of Agnimitra ; वसुमित्र :—Son of Agnimitra: माधवसेनः**—** King of Malava, brother of Malayıka; यज्ञसेनः—King of Vidarbha, half brother of Madhavasena; वीरसेन—: Brother-in-law of Agnimitra ; ध्रुवसिद्धिः—A Doctor; वाहतकः— Prime Minister of Agnimitra ; वसुलक्ष्मीः —Dharini's daughter; माधविक—The keeper of precious articles in the Palace.
+[^18]: # "F कीदिसी."
 
-॥ श्रीः ॥
+**कौमु॰।** ^(**५**)सहि ईदिस[^19]व्वावारेण असण्णिहिदावि दिठ्ठा किल सा भट्टिणा।
 
-**मालविकाग्निमित्रम्**  
-<MISSING_FIG href="../books_images/U-IMG-1724739358Screenshot(69"/>.png)
+[^19]: # "A C इदिस°; F ईरिस°."
 
-एकैश्वर्ये स्थितोऽपि प्रणतवहुफले यः स्वयं कृत्तिवासाः  
-कान्तासम्मिश्रदेहोऽप्यविषयमनसां यः परस्ताद्यतीनाम्।  
-अष्टाभिर्यस्य कृत्स्नं जगदपि तनुभिर्विभ्रतो नाभिमानः  
-सन्मार्गालोकनाय व्यपनयतु स वस्तामसीं वृत्तिमीशः॥१॥
+**बकु॰।** ^(**६**)आम्। देवीए पस्सङ्गदो[^20] सो जणो चित्ते दिठ्ठो।
 
-(नान्द्यन्ते)
+[^20]: # "E आम्म देवीए.—B पस्सग्गदो, D पस्सङ्गदो, F पस्सगओ."
 
-**सूत्रधारः—** (नेपथ्याभिमुखमवलोक्य) मारिष, इतस्तावत्।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अहो बकुलावलिका। सखि देव्या इदं शिल्पिसकाशत आनीतं सर्पमुद्रासनाथमङ्गुलीयकं स्निग्धं निध्यायन्ती तवोपालम्भे पतितास्मि।  
+**२.** स्थाने खलु सज्यति दृष्टिः। अनेनाङ्गुलीयकेनोद्भिन्नकिरणकेसरेण कुसुमित इव तेग्रहस्तः प्रतिभाति।  
+**३.** हला क्व प्रस्थितासि।  
+**४.** देव्या वचनेन नाट्याचार्यमार्यगणदासमुपदेशग्रहणे कीदृशो मालविकेति प्रष्टुम्।  
+**५.** सखि ईदृशव्यापारेणासन्निहितापि दृष्टा किल सा भर्त्रा।  
+**६.** आम् । देव्याः पार्श्वगतोसौ जनश्चित्रे दृष्टः।  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+8. F सुणाहि.—
 
-(प्रविश्य) **पारिपार्श्विकः**— भाव,अयमस्मि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**सूत्रधारः**— अभिहितोऽस्मि विद्वत्परिषदा— ‛कालिदासग्रथितवस्तु मालविकाग्निमित्रम् नाम नाटकमस्मिन्वसन्तोत्सवे प्रयोक्तव्यम्’इति। तदारभ्यतां संगीतम्।
+**कौमु॰।** **^(१)**कहं विअ।
 
-**पारिपार्श्विकः**— मा तावत्। प्रथितयशसां भाससौमिल्लककविपुत्रादीनां प्रबन्धानतिक्रम्य वर्तमानकवेः कालिदासस्य क्रियायां कथं बहुमानः?
+**बकु॰।** ^(**२**)सुणाहि[^21]। चित्तसालं गदा[^22] देवी पच्चग्गवण्णराअं[^23] चित्तलेहं आअरिअस्स[^24] ओलोअन्ती चिठ्ठइ। तस्सिं[^25] अन्तरे[^26] भट्टा उवठ्ठिओ[^27]।
 
-**सूत्रधारः**— अयि, विवेकग्रस्तमभिहितम्। पश्य।
+[^21]: # "A C सुणादु.—"
 
-पुराणमित्येव न साधु सर्वं, न चापि काव्यं नवमित्यवद्यम्  
-सन्तः परीक्ष्यान्यतरद्भजन्ते मूढः परप्रत्ययनेयबुद्धिः॥२॥
+[^22]: # "D °सालां, F °सालागदा.—"
 
-**पारिपार्श्विकः—**आर्यमिश्राः प्रमाणम्।
+[^23]: # "A C °वणराअं."
 
-**सूत्रधारः—** तेन हि त्वरतां भवान्।
+[^24]: # "B आअरीअस्स.—"
 
-शिरसा प्रथमगृहीतामाज्ञामिच्छामि परिषदः कर्तुम्।  
-देव्या इव धारिण्याः सेवादक्षः परिजनोऽयम्॥३॥
+[^25]: # "F तहिं for तस्सिं."
 
-(इति निष्क्रान्तौ)
+[^26]: # " B C D E अन्दरे.—"
 
-प्रस्तावना  
+[^27]: # "B वुवठ्ठिदो, C D वुवठ्ठिओ."
 
-(ततः प्रविशति बकुलावलिका)
+**कौमु॰।** **^(३)**तदो तदो।
 
-**बकुलावलिका**— आज्ञप्तास्मि देव्या धारिण्या।अचिरप्रवृत्तोपदेशं छलिकं नाम नाट्यमन्तरेण कीदृशी मालविकेति नाट्याचार्यमार्यगणदासं प्रष्टुम्। तत्तावत्सङ्गीतशालां गच्छामि। (इतिपरिक्रामति)
+**बकु॰।** ^(**४**)तदो अ उवआराणन्दरं[^28] एकासगोवविठ्ठेण भट्टिणा चित्तगदाए देवीए परिअणमझ्झगअम् आसण्णअरं तं पेख्खिअ[^29] देवी पुछ्छिदा।
 
-(ततः प्रविशत्याभरणहस्ता द्वितीया चेटी)
+[^28]: # "F °णन्तरं."
 
-**प्रथमा—** (द्वितीयां दृष्ट्वा) सखि कौमुदिके, कुतस्त इयं धीरता? यत्समीपेनाप्यतिक्रामन्तीतो दृष्टिं न ददासि।
+[^29]: # "E om. तं before "
 
-**द्वितीया—**अहो बकुलावलिका! सखि, इदं देव्याः शिल्पिसकाशादानीतनागमुद्रासनाथमंङ्गुलीयकं स्निग्धं निध्यायन्ती तवोपालम्भे पतितास्मि
+**कौमु॰।** ^(**५**)किं विअ।
 
-**प्रथमा—** (विलोक्य) स्थाने सज्जति दृष्टिः। अनेनाङ्गुलीयकेनोद्भिन्नकिरणकेसरेण कुसुमित इव तेऽग्रहस्तः।
+**बकु॰।** ^(**६**)अपुव्वरूवा इअं[^30] दारिआ[^31] तुह आसण्णा आलिहिदा किण्णामहेएत्ति[^32]।
 
-**द्वितीया**— सखि, कुत्र प्रस्थितासि?
+[^30]: # "A B C D E अपुव्वा इअं."
 
-**प्रथमा**— देव्या एव वचनेन नाटकाचार्यमार्यगणदासं द्रष्टुम्। उददेशग्रहणे कीदृशी मालविकेति।
+[^31]: # "A B C D दारीआ.—"
 
-**द्वितीया—**सखि, ईदृशेन व्यापारेणासंनिहितापि सा कथं भर्त्रा दृष्टा?
+[^32]: # "B C D F °हेअत्ति."
 
-**प्रथमा—** आम्। स जनो देव्याः पार्श्वगतश्चित्रे दृष्टः।
+**कौमु॰।** ^(**७**)आकिदिविसेसेसु आदरो पदं फरेइ। तदो तदो।
 
-**द्वितीया—** कथमिव?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** कथमिव।  
+**२.** शृणु। चित्रशालां गता देवी प्रत्यग्रवर्णरागं चित्रलेखमाचार्यस्यावलोकयन्ती तिष्ठति। तस्मिन्नन्तरे भर्तोपस्थितः।  
+**३.** ततस्ततः।  
+**४.** ततश्चोपचारानन्तरमेकासनोपविष्टेन भर्त्रा चित्रगताया देव्याः परिजनमध्यगतामासन्नतरां तां प्रेक्ष्य देवी पृष्टा।  
+**५.** किमिव।  
+**६.** अपूर्वरूपेयं दारिका तवासनासन्नालिखिता किन्नामधेयेति।  
+**७.** आकृतिविशेषेष्वादरः पदं करोति। ततस्ततः
 
-**प्रथमा —**शृणु; चित्रशालांगता देवी प्रत्यग्रवर्णरागां चित्रलेखामाचार्यस्यावलोकयन्ती तिष्ठति। भर्ता चोपस्थितः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-द्वितीया—
+**बकु॰।** ^(**१**)तदो अवहीरिअवअणो[^33] भट्टा सङ्किदो देविं पुणोपुणो अवि णिब्बन्धिदुं पवुत्तो[^34]। तदो कुमालीए[^35] वसुलछ्छीए आचख्खिदं[^36]। अज्जउत्त[^37] एसा मालविएत्ति।
 
-ततस्ततः?
+[^33]: # "A B C D E अवहिरिअणअणो."
 
-**प्रथमा—**उपचारानन्तरमेकासनोपविष्टेन भर्त्रा चित्रगताया देव्याः परिजनमध्यगतामासन्नदारिकां दृष्ट्वादेवी पृष्टा।
+[^34]: # "A B C D E give अ for अवि. —A D णिबन्धिदुं —DE पउत्तो.—"
 
-**द्वितीया—**किमिति?
+[^35]: # "A C कुमालिए."
 
-**प्रथमा —** अपूर्वेयं दारिका, आसन्ना च देव्या आलिखिता किं नामधेया?' इति
+[^36]: # "E अचख्खिदं.—"
 
-**द्वितीया—**आकृतिविशेषेष्वादरः पदं करोति। ततस्ततः?
+[^37]: # "F आवुत्त for अज्जउत्त, with an explanatory note, आवुत्तो भगिनीपतिः, with also another preceding it वसुलक्ष्मीः देव्याः कनीयसो."
 
-**प्रथमा—**ततोऽवधीरितवचनो भर्ता देवीं पुनरनुबन्धुं शङ्कितः। ततः कुमार्या वसुलक्ष्म्याख्यातम्।'आर्य, एषा मालविका ' इति।
+**कौमु॰।** ^(**२**)सरिसं ख्खु बालभावस्स। तदो वरं कहेहि।
 
-**द्वितीया**— (सस्मितम्)
+**बकु॰।** ^(**३**)किम् अण्णम्। सम्पदं सविसेसं मालविआ भट्टिणो दंसण[^38]पहादो रख्खीअदि[^39]।
 
-सदृशं खलु बालभावस्य। अतः परं कथय।
+[^38]: # "D दंसन°.—"
 
-प्रथमा—
+[^39]: # "B D E रख्खीयदि."
 
-क्रिमन्यत्? साम्प्रतं मालविका सविशेषं भर्तुर्दर्शनपथाद्रक्ष्यते।
+**कौमु॰।** **^(४)**हला अणुचिठ्ठ अप्पणो णिओअम्। अहंवि देवीए अङ्गुलीअअम् उवणइस्सम्।
 
-द्वितीया—
+\इति निष्क्रान्ता।
 
-सखि, आत्मनो नियोगमनुतिष्ट। अहमप्येतमङ्गुलीयकं देव्यै उपनेष्यामि। (इति निष्क्रान्ता)
+**बकु॰।** परिक्रम्यावलोक्य च। **^(५)**एसो [णठ्ठाअरिओ[^40] अज्जगणदासो सङ्गीदसालादो णिक्कमदि[^41]। जाव अत्ताणं[^42] दंसेमि।
 
-**प्रथमा—**(परिक्रम्यावलोक्य)  एष नाट्याचार्यः संगीतशालातो निर्गच्छति। यावदस्मा आत्मानं दर्शयामि। (इति परिक्रामति)
+[^40]: # "A णट्टाचारिओ, F °आरिओ.—D E F अ=अ.°"
 
-(प्रविश्य) **गणदासः—**कामं खलु सर्वस्यापि कुलविद्या बहुमता। न पुनरस्माकं नाट्यंप्रति मिथ्यागौरवम्। तथा हि।
+[^41]: # "B D E णीक्कमइ, F णिक्कमइ—"
 
-देवानामिदमामनन्ति मुनयः : शान्तं क्रतुं चाक्षुषं  
-रुद्रेणेदमुमाकृतव्यतिकरे स्वाङ्गे विभक्तं द्विधा।  
-त्रैगुण्योद्भवमत्र लोकचरितं
+[^42]: # "A C आत्ताणं."
 
-नानारसं दृश्यते  
-नाट्यंभिन्नरुचेर्जनस्य बहुधाप्येकं समाराधकम्॥४॥
+**गणदासः।** प्रविश्य। कामं खलु सर्वस्य कुलविद्या बहुमता। न पुनरस्माकं तु नाट्यं प्रति मिथ्यागौरवम्। कुतः।
 
-**वकुलावलिका —** (उपेत्य) आर्य, वन्दे।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** ततोवधीरितवचनो भर्ता शङ्कितो देवीं पुनःपुनरपि मिर्बन्धितुं प्रवृत्तः। ततः कुमार्या वसुलक्ष्म्याख्यातम्। आर्यपुत्र एषा मालविकेति।
 
-**गणदासः—** भद्रे चिरं जीव \।
+**२.** सदृशं खलु बालभावस्य। ततः परं कथय।
 
-**वकुलावलिका** —
+**३.** किमन्यत्। साम्प्रतं सविशेषं मालविका भर्तुर्दर्शनपथाद्रक्ष्यते।
 
-आर्य, देवी पृच्छति— 'अप्युपदेशग्रहणे नातिक्लिश्ना
+**४.** हला अनुतिष्ठस्वात्मनो नियोगम्। अहमपि देव्या अङ्गुलीयकमुपनेष्यामि।
 
-ति वः शिष्या मालविका? ' इति।
+**५.** एष नाट्याचार्य आर्यगणदासः सङ्गीतशालाया निष्क्रमते। यावदात्मानं दर्शयामि।
 
-**गणदासः —** भद्रे, विज्ञाप्यतां देवी परमनिपुणा मेधाविनी चेति। किं बहुना
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-यद्यत्प्रयोगवि
+**देवानामिदमामनन्ति मुनयः कान्तं क्रतुं चाक्षुषं  
+रुद्रेणेदमुमाकृतव्यतिकरे स्वाङ्गे[^43] विभक्तं द्विधा।  
+त्रैगुण्योद्भवमत्र लोकचरितं नानारसं दृश्यते  
+नाट्यं भिन्नरुचेर्जनस्य बहुधाप्येकं समाराधनम्॥४॥**
 
-षये भा
+[^43]: # "F स्वाङ्गैर्वि°"
 
-विकमुपदिश्यते मया तस्यै।  
-तत्तद्विशेषकरणात्प्रत्युपदिशतीव मे बाला॥५॥
+**बकु॰।** उपगम्य। ^(**१**)अ[^44]ज्ज वन्दामि।
 
-**बकुलावलिका—**(आत्मगतम्)
+[^44]: # "D E F अ-अ."
 
-अतिक्रान्तामिवेरावतीं पश्यामि।(प्रकाशम्) कृतार्थेदानीं वः शिष्या। यस्या गुरुजन एवं तुष्यति।
+**गण॰।** भद्रे चिरं जीव।
 
-**गणदासः**—भद्रे तद्विधानामसुल
+**बकु॰।** ^(**२**)अ[^44]ज्ज देवी पुछ्छदि। अवि उवदेसग्गहणे णादिकिलिसेदि[^46] वो सिस्सा मालविएत्ति।
 
-भत्वात्पृच्छामि। कुतो देव्यातत्पात्रमानीतम्?
+[^46]: # "F णादिकिलिस्सदि."
 
-वकुलावलिका—
+**गण॰।** विभाव्यतां[^47] देवी परमनिपुणा मेधाविनी चेति। किं बहुना।
 
-अस्ति देव्या वर्णावरो भ्राता वीरसेनो नाम भर्त्रा नर्मदातीरेऽन्तपालदुर्गे स्थापितः। तेन शिल्पाधिकारे योग्येयं दारिकेति भणित्वाभगिन्या देव्या उपायनं प्रेषिता।
+[^47]: # "F विज्ञाप्यताम् for विभाव्यताम्."
 
-**गणदासः—**(स्वगतम्) आकृतिविशेषप्रत्ययादेनामनूनवस्तुकां संभावयामि। (प्रकाशम्) भद्रे, मयापि यशस्विना भवितव्यम्। यतः—
+**यद्यत्प्रयोगविषये भाविकमुपदिश्यते[^48] मया तस्यै।  
+तत्तद्विशेषकरणात्प्रत्युपदिशतीव मे बाला॥५॥**
 
-पात्रविशेषे न्यस्तं गुणान्तरं व्रजति शिल्पमाधातुः।  
-जलमिव समुद्रशुक्तौमुक्ताफलतां पयोदस्य॥६॥
+[^48]: # "B उद्दिश्यते."
 
-बकुलावलिका—
+**बकु॰।** आत्मगतम्। ^(**३**)अदिक्कमन्तीं विअ इरावतीं पेख्खामि। प्रकाशम्। किदथ्था दाणिं[^49] वो सिस्सा। जस्सिं गुरुअणो एव्वं[^50] तुस्सदि।
 
-अथ किम् \। अथ कुत्र वः शिष्या?
+[^49]: # "F दाणीं."
 
-**गणदासः**—इदानीमेव पञ्चाङ्गाभिनवमुपदिश्य मया विश्रम्यतामित्यभिहिता दीर्घिकावलोकनगवाक्षगता प्रवातमासेवमाना तिष्ठति।
+[^50]: # "B एव्व."
 
-बकुलावलिका—
+**गण॰।** भद्रे तद्विधानामसुलभत्वात्पृच्छामि। कुतो देव्यास्तत्पात्रमानीतम्[^51]।
 
-तेन हि पुनरनुजानातु मामार्यः। यावदस्या आर्यस्य परितोषनिवेदने नोत्साहं वर्धयामि।
+[^51]: # "F आयातं for आनीतम्."
 
-**गणदासः** — दृश्यतां सखी। अहमपि लब्धक्षणः स्वगृहं गच्छामि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** आर्य वन्दे।
 
-(इति निष्क्रान्तौ)
+**२.** आर्य देवी पृच्छति। अप्युपदेशग्रहणे नातिक्लिश्नाति वः शिष्या मालविकेति।
 
-(मिश्रविष्कम्भः)
+**३.** अतिक्रामन्तीमिवेरावतीं प्रेक्षे। कृतार्थेदानीं वः शिष्या। यस्यां गुरूजन एवं तुष्यति।
 
-(ततः प्रविशत्येकान्तस्थितपरिजनो मन्त्रिणा लेखहस्तेनान्वास्यमानो राजा)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा**— (अनुवाचितलेखममात्यं विलोक्य) वाहतव, किं प्रतिपद्यते वैदर्भः?
+**बकु॰।** ^(**१**)अथ्थि देवीए वण्णावरो भादा[^52] वीरसेणो णाम। सो भट्टिणा अन्तपालदुग्गे मन्दायणीदीरे[^53] ठ्ठाविदो। तेण सिप्पाहिआरे[^54] जोग्गा इअं दारिएत्ति भइणीए उवाअणं पेसिदा।
 
-**अमात्यः**— देव, आत्मविनाशम्।
+[^52]: # "B वण्णाव्वरो.—B भाद्दा."
 
-**राजा—**संदेशमिदानीं श्रोतुमिच्छामि।
+[^53]: # "F मन्दाकिणीतीरे.—"
 
-**अमात्यः—**इदमिदानीमनेन प्रतिलिखितम्—"पूज्येनाहमादिष्टः। पितृव्यपुत्रो भवतः कुमारो माधवसेनः प्रतिश्रुतसम्बन्धो ममोपान्तिकमुपसर्पन्नन्तरा त्वदीयेनान्तपालेनावस्कन्द्य गृहीतः। स त्वया मदपेक्षया सकलत्रसोदर्यो भोक्तव्य इति। एतन्ननु वो विदितम्। यत्तुल्याभिजनेषु राज्ञां वृत्तिः।अतोऽत्र मध्यस्थः पूज्यो भवितुमर्हति। सोदर्या पुनरस्य ग्रहणविप्लवे विनष्टाः। तदन्वेषणाय प्रयतिष्ये। अथवा, अवश्यमेव माधवसेनो मया पूज्येन मोचयितव्यः श्रूयतामभिसन्धिः—
+[^54]: # "A B C D सिप्पाहिअरे."
 
-मौर्यसचिवं विमुञ्चति यदि पूज्यः संयतं मम श्यालम्।  
-मोक्ता माधवसेनस्ततो मया बन्धनात्सद्यः॥७॥
+**गण॰।** आत्मगतम्। आकृतिप्रत्ययादे[^55]नामनूनवस्तुकां सम्भावयामि। प्रकाशम्। मया भद्रे यशस्विना भवितव्यम्। पश्य।
 
-इति।
+[^55]: # "F आकृतिविनयप्रत्ययाद्."
 
-**राजा—**(सरोषम्) कथं कार्यविनिमयेन मयि व्यवहरत्यनात्मज्ञः! वाहतव,
-प्रकृत्यमित्रः प्रतिकूलकारी च मे वैदर्भः। तद्यातव्यपक्षे स्थितस्य पूर्वसंकल्पितसमून्मूलनाय वीरसेनमुखं दण्डचक्रमाज्ञापय।
+**पात्रविशेषन्यस्तं[^56] गुणान्तरं व्रजति शिल्पमाधातुः।  
+जलभिव समुद्रशुक्तौ मुक्ताफलतां पयोदस्य॥६॥**
 
-**अमात्यः—** यदाज्ञापयति देवः।
+[^56]: # "F पात्रविशेषे न्यस्तम्."
 
-**राजा**— अथवा किं भवान्मन्यते?
+**बकु॰।** ^(**२**)अह[^57] कहिं वो सिस्सा।
 
-**अमात्यः—**शास्त्रदृष्टमाह देवः।
+[^57]: # "A C E अहवा for अह."
 
-अचिराधिष्ठितराज्यः शत्रुः प्रकृतिष्वरूढमूलत्वात्।  
-नवसंरोपणशिथिलस्तरुरिव सुकरः समुद्धर्तुम्॥८॥
+**गण॰।** इदानीमेव पञ्चाङ्गमभिनयमु[^58]पदिश्य विश्रम्यतामित्यभिहिता दीर्घिकावलोकनगवाक्षगताग्रवातमा[^59]सेवमाना तिष्ठति।
 
-**राजा—** तेन ह्यवितथं तन्त्रकारवचनम्। इदमेव वचनं निमित्तमुपादाय समुयोज्यतां सेनाधिपतिः।
+[^58]: # "F पञ्चाङ्गाभिनयम्."
 
-**अमात्यः**—तथा।
+[^59]: # "A E F °गता प्रवातम्."
 
-(इति निष्क्रान्तः)
+**बकु॰।** ^(**३**)तेण हि अणुजाणादु मम् अज्जो। जाव से अज्जपरितोस[^60]णिवेदणेण उछ्छाहं वढ्ढेमि।
 
-(परिजनोयथाव्यापारं राजानममितः स्थितः)
+[^60]: # "F अ-ओ.—F अ-अपरितोस°."
 
-(प्रविश्य)
+**गण॰।** दृश्यतां सखी। अहमपि लब्धक्षणः स्वगृहं गच्छामि।
 
-विदूषकः—
+\इति निष्क्रान्तौ।
 
-आज्ञप्तोऽस्मि तत्र भवता राज्ञा—‛गौतम, चिन्तयतावदुपायम्। यथा मे यदृच्छादृष्ट प्रतिकृतिर्मालविका प्रत्यक्षदर्शना भवति' इति। मया च तत्तथा कृतम् तावदस्मै निवेदयामि। (इति परिक्रामति)
+**॥[विष्कम्भकः[^61]॥**
 
-**राजा—**(विदूषकं दृष्ट्वा) अयमपरः कार्यान्तरसचिवोऽस्मानुपस्थितः।
+[^61]: # "B मिश्रविष्कम्भकः, E F मिश्रविष्कम्भः"
 
-**विदूषकः—**(उपगम्य) वर्धतां भवान्!
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अस्ति देव्या वर्ण्णावरो भ्राता वीरसेनो नाम। स भर्त्रान्तपालदुर्गे मन्दाकिनीतीरे स्थापितः। तेन शिल्पाधिकारे योग्येयं दारिकेति भगिन्या उपायनं प्रेषिता।
 
-**राजा—**(स शिरः कम्पम्) इत आस्यताम्।
+**२.** अथ क्व वः शिष्या।
 
-(विदूषक उपविशति )
+**३.** तेन ह्यनुजानातु मामार्यः। यावदस्याः आर्यपरितोषनिवेदनेनोत्साहं वर्धये।
 
-**राजा —**अपि किञ्चिदुपेयोपायदर्शने व्यापृतं ते प्रज्ञाचक्षुः?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः—** प्रयोगसिद्धिं पृच्छ।
+ततः प्रविशत्येकान्तस्थपरिजनो मन्त्रिणालेखहस्तेनान्वास्यमानो राजा।
 
-**राजा—**कथमिव?
+**राजा।** अनुवाचितलेखममात्यं विलोक्य। वाहतव[^62] किं प्रपद्यते वैदर्भः।
 
-**विदूषकः—**(कर्णे)
+[^62]: # "D वााहतक, corrected, it seems, from original बाहतव."
 
-एवमिव।
+**अमात्यः।** आत्मविनाशम्।
 
-**राजा—**साधु वयस्यः निपुणमुपक्रान्तम्। इदानीं दुरधिगमसिद्धावप्यस्मिन्नारम्भे वयमाशंसामहे। कुतः—
+**राजा।** निदेशमिदानीं श्रोतुमिच्छामि।
 
-अर्थे सप्रतिबन्धं प्रभुरधिगन्तुं सहायवानेव।  
-दृश्यं तमसि न पश्यति दीपेन विना सचक्षुरपि॥९॥
+**अमा॰।** इदमिदानीमनेन प्रतिलिखितम्[^63]। पूज्येनाहमादिष्टः। पितृव्यपुत्रो भवतः कुमारो माधवसेनः प्रतिश्रुतसम्बन्धो ममोपान्तिकमुपागच्छन्नन्तरा त्वदीयेनान्तपालेनावस्कन्द्य गृहीतः। स त्वया मदपेक्षया सकलत्रसोदर्यो मोचयितव्य इति। तन्न वो[^64] न विदितं यत्तुल्या[^65]भिजनेषु भूमिभरेषु राज्ञां[^66] वृत्तिः। अतो मध्यस्थः पूज्यो भवितुमर्हति। सोदर्या पुनरस्य ग्रहणविप्लवे विनष्टा। तदन्वेषणाय प्रयतिष्ये। अथावश्यमेव माधवसेनः पूज्येन मोचयितव्यः। श्रूयतामभिसन्धिः।
 
-(नेपथ्ये) अलं बहु विकत्थ्य। राशः समक्षमेवावयोरधरोत्तरयोर्व्यक्तिर्भविष्यति।
+[^63]: # "A B C D E प्रतिलेखितम्."
 
-**राजा—**(आकर्ण्य) सखे, त्वत्सुनीतिपादपस्य पुष्पमुद्भिन्नम्।
+[^64]: # "A B C D E omit the न after वो."
 
-विदूषकः—
+[^65]: # "A B C तत्तुल्या."
 
-फलमप्यचिरेण द्रक्ष्यसि।
+[^66]: # "A C राजसु राज्ञः for भूमिभरेषु राज्ञाम्."
 
-(ततः प्रविशति कञ्चुकी)
+**मौर्यसचिवं विमुञ्चति यदि पूज्यः संयतं मम श्यालम्।  
+मोक्ता माधवसेनं ततोहमपि बन्धनात्सद्यः॥७॥**
 
-**कञ्चुकी—**देव, अमात्यो विज्ञापयति अनुष्ठिता प्रभोराज्ञेति। एतौ पुनर्हरदत्तगणदासौ
+इति[^67]।
 
-उभावभिनयाचार्यौ परस्परजयैषिणौ।  
-त्वां द्रष्टुमुद्यतौ साक्षाद्भावाविव शरीरिणौ॥१०॥
+[^67]: # "B omits “इति.”"
 
-**राजा—**प्रवेशय।
+**राजा।** कथम्। कार्यविनिमयेन मयि व्यवहरत्यनात्मज्ञः। वाहतव प्रकृत्यमित्रः प्रतिकूलचारी मे वैदर्भः। तद्यातव्यपक्षे स्थितस्य पूर्वसङ्कल्पितमुन्मूलनाय वीरसेनप्रमुख[^68]दण्डचक्रमाज्ञापय।
 
-**कञ्चुकी—**यदाज्ञापयति देवः। (निष्क्रम्य ताभ्यां सह प्रविष्टः) इत इतो भवन्तौ।  
-**गणदासः—**(राजानं विलोक्य) अहो दुरासदो राजमहिमा!
+[^68]: # "F ॰प्रमुखं."
 
-न च न परिचितो न चाप्यरम्य-  
-श्चकितमुपै
+**अमा॰।** यदाज्ञापयति देवः।
 
-मितथापि पार्श्व
+**राजा।** अथ वा किं भवान्मन्यते।
 
-मस्य।  
-सलिलनिधिरिव प्रतिक्षणं मे  
-भवति स एव नवो नवोऽयमक्ष्णोः ॥११॥
+**अमा॰।** शास्त्रदृष्टमाह देवः। कुतः।
 
-**हरदत्तः—** महत्खलु पुरुषाकारमिदं ज्योतिः। तथा हि—
+**अचिराधिष्ठितराज्यः शत्रुः प्रकृतिष्वरूढमूलत्वात्।  
+नवसंरोहणशिथिलस्तरुरिव सुकरः समुद्धर्तुम्॥८॥**
 
-द्वारे नियुक्तपुरुषाभिमतप्रवेशः  
-सिंहासनान्तिकचरेण सहोपसर्पन्।
+**राजा।** तेन ह्यवितथं तन्त्रकारवचनम्। इदमेव निमित्तमादाय समुद्योज्यतां सेनापतिः।
 
-तेजो
+**अमा॰।** तथा।
 
-भिरस्य विनिवर्तितदृष्टिपातै-  
-र्वाक्यादृतेपुनरिव प्रतिवारितोऽस्मि॥१२॥
+\इति निष्क्रान्तः।
 
-**कञ्चुकी—**एष देवः। उपसर्पतां भवन्तौ।
+परिजनो यथाव्यापारं राजानमभितः स्थितः
 
-**उभौ—**(उपेत्य) विज
+**विदूषकः।** प्रविश्य। ^(**१**)[आणत्तोम्हि[^69] तत्तहोदा रण्णा। गोदम चिन्तेहि[^70] दाव उवाअं जह मे जदिछ्छादिठ्ठपडिकिदी मालविआ पच्चख्खदंसणा भवेत्ति। मएवि तह किदम्। जाव से णिवेदेमि[^71]। परिक्रामति।
 
-यतां देवः।
+[^69]: # "B अणत्तम्हि, C अणत्तोम्हि, F आणत्तम्हि."
 
-**राजा—**स्वागतं भवद्भ्याम्। (परिजनं विलोक्य) आसने तावदत्र भवतोः।
+[^70]: # "B चिन्तहि."
 
-(उभौ परिजनोपनीतयोरासनयोरुपविष्टौ)
+[^71]: # "B णिवेदम्मि."
 
-**राजा**— किमिदं शिष्योपदेशकाले युगपदाचार्याभ्यामत्रोपस्थानम्?
+**राजा।** विदूषकं द्वष्टा। अयमपरः कार्यान्तरसचिवोस्मानुपस्थितः।
 
-**गणदासः—**देव, श्रूयताम्। मया सुतीर्थादभिनयविद्या शिक्षिता। दत्तप्रयोगश्चास्मि।देवेन देव्या च परिगृहीतः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** आज्ञप्तोस्मि तत्रभवता राज्ञा। गौतम चिन्तय तावदुपायं यथा मे यदृच्छादृष्टप्रतिकृतिर्मालविका प्रत्यक्षदर्शना भवेदिति। मयापि तथा कृतम्। तावदस्य निवेदयामि।
 
-**राजा—**बाढ़ं जाने। ततः किम्?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**गणदासः—**सोऽहममुना हरदत्तेन प्रधानपुरुषसमक्षमयं मे न पादरजसापि तुल्य इत्यधिक्षिप्तः।
+**विदूषकः।** उपसृत्य। ^(**१**)वढ्ढदु[^72] भवम्।
 
-**हरदत्तः—** देव, अयमेव प्रथमं परिवादकरः। अत्र भवतः किल मम च समुद्रपल्वलयोरिवान्तरमिति। तदत्रभवानिमंमांच शास्त्रे प्रयोगे च विमृशतु। देव एव नौ विशेषज्ञः प्राश्निकः।
+[^72]: # "A B C वट्टदु."
 
-**विदूषकः—** ^(**32**)समर्थं प्रतिज्ञातम्।
+**राजा।** सशिरःकम्पम्। इत आस्यताम्।
 
-**गणदासः—**प्रथमः कल्पः। अवहितो देवः श्रोतुमर्हति।
+**विदूषकः।** उपविष्टः।
 
-**राजा—**तिष्ठ यावत्। पक्षपातमत्र देवी मन्यते। तदस्याः पण्डितकौशीकीसहितायाः समक्षमेव न्याय्यः व्यवहारः।
+**राजा।** कच्चिदुपेयोपायदर्शने व्यापृतं ते प्रज्ञाचक्षुः।
 
-**विदूषकः —³³**सुष्ठु भवान्भणति।
+**विदूषकः।** ^(**२**)आः[^73] पओअसिध्धिं पुछ्छ।
 
-**आचार्यौ—**यद्देवाय रोचते।
+[^73]: # "A E आ for आः"
 
-**राजा—** मौद्गल्य, अमुं प्रस्तावं निवेद्य पण्डितकौशिक्या सार्धमाहूयतां देवी।
+**राजा।** कथमिव।
 
-**कञ्चुकी —**यदाज्ञापयति देवः। (निष्क्रम्य सपरिव्राजिकया देव्या सह प्रविष्टः ) इत इतो भवती।
+**विदूषकः।** कर्णे। ^(**३**)एवं विअ।
 
-**धारिणी—** (परिव्राजिकां विलोक्य) **³⁴**भगवति हरदत्तस्य गणदासस्य च संरम्भे कथं पश्यसि?
+**राजा।** साधु वयस्य निपुणमुपक्रान्तम्। दुरधिगमसिद्धावप्यस्मिन्नारम्भे वयमाशंसामहे। कुतः।
 
-**परिव्राजिका—** अलं स्वपक्षावसादशङ्कया। न परिहीयते प्रतिवादिनो गणदासः।
+**अर्थं सप्रतिबन्धं प्रभुरधिगन्तुं सहायवानेव।  
+दृश्यं तमसि न पश्यति दीपेन विना सचक्षुरपि॥९॥**
 
-**धारिणी— ³⁵**यद्यप्येवं तथापि राजपरिग्रहोऽस्य प्रधानत्वमुपहरति।
+।नेपथ्ये।
 
-**परिव्राजिका—**अयि, राज्ञीशब्दभाजनमात्मानमपि चिन्तयतु भवती। पश्य।
+अलमलं बहु विकथ्य[^74]। राज्ञः समक्षमेवावयोरधरोत्तरव्यक्तिर्भविष्यति।
 
-अतिमात्रभासुरत्वं पुष्यति भानोः परिग्रहादनलः।  
-अधिगच्छति महिमानं चन्द्रोऽपि निशापरिगृहीतः॥१३॥
+[^74]: # "A B C D E बहुविकत्थनेन."
 
-**विदूषकः—** **³⁶**अयि, उपस्थिता देवी पीठमर्दिकां पण्डितकौशिकीं पुरस्कृत्य धारिणी!
+**राजा।** सखे त्वन्नीतिपादपस्य पुष्पमुद्भिन्नम्।
 
-**राजा—** पश्याम्येनाम्। यैषा—
+**विदूषकः।** ^(**४**)फलं वि देख्खिस्ससि[^75]।
 
-मङ्गलालङ्कृता भाति कौशिक्या यतिवेषया।  
+[^75]: # "A C देख्खिस्सति; F दख्खिससि."
 
-त्रयोविग्रहवत्येव सममध्यात्मविद्यया ॥१४॥
+।ततः प्रविशति कञ्चुकी।
 
-**परिव्राजिका**—(उपेत्य) विजयतां देवः!
+**कञ्चुकी[^76]।** देव अमात्यो विज्ञापयति। अनुष्ठिता प्रभोराज्ञा।
 
-**राजा—** भगवति, अभिवादये \।
+[^76]: # "F reads काञ्चुकेयः and retain the same forṁ everywhere subsequently."
 
-परिव्राजिका—
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** वर्धतां भवान्।
 
-महासारप्रसवयोः सदृशक्षमयोर्द्वयोः।  
-धारिणीभूतधारिण्योर्भव भर्ता शरच्छतम् ॥१५॥
+**२.** आः प्रयोगसिद्धिं पृच्छ।
 
-**धारिणी —³⁷**जयत्वार्यपुत्रः!
+**३.** एवमिव।
 
-**राजा—** स्वागतं देव्यै। (परिव्राजिकां विलोक्य) भगवति, क्रियतामासनपरिग्रहः।
+**४.** फलमपि द्रक्ष्यसि।
 
-(सर्व उपविशन्ति )
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा—**भगवति, अत्र भवतोर्हरदत्तगणदासयोः परस्परं विज्ञानसं
+एतौ पुनर्हरदत्तगणदासौ
 
-घर्षिणोर्
+**उभावभिनयाचार्यौ परस्परजयोद्यतौ।  
+त्वां द्रष्टुमिच्छतः साक्षाद्भावाविव शरीरिणौ[^77]॥१०॥**
 
-भगवत्या प्राश्निकपदमध्यासितव्यम्।
+[^77]: # "A B C D E विवादिनौ for शरीरिणौ."
 
-**परिव्राजिका —** (सस्मितम्) अलमुपालम्भेन। पत्तने सति ग्रामे रत्नपरीक्षा!
+**राजा।** प्रवेशय तौ।
 
-**राजा—**नैतदेवम्। पण्डितकौशिकी खलु भगवती। पक्षपातिना वहं देवी च।
+**कञ्चुकी।** यदाज्ञापयति देवः। इति निष्क्रम्य पुनस्ताभ्यां सह प्रविश्य। इत इतो भवन्तौ।
 
-**आचार्यौ—** सम्यगाह देवः। मध्यस्था भगवती नौ गुणदो
+**हरदत्तः।** राजानमवलोक्य[^78]। अहो दुरासदो राजमहिमा। तथा हि।
 
-षतः परिच्छेत्तुमर्हति।
+[^78]: # "F विलोक्य."
 
-**राजा** — तेन हि प्रस्तूयतां विवादः।
+**न च न परिचितो न चाप्यगम्यश्[^79]  
+चकितमुपैमि तथापि पार्श्वमस्य।  
+सलिलनिधि[^80]रिव प्रतिक्षणं मे  
+भवति स एव नवो नवोयमक्ष्णोः॥११॥**
 
-**परिवाजिका**— देव प्रयोगप्रधानं हि नाट्यशास्त्रम्। किमत्र वाग्व्यवहारेण? कथं वा देवी मन्यते?
+[^79]: # "F reads the first pûda thus: 'न च परिचितो न चापरम्यः'"
 
-**देवी —** ³⁸यदि मां पृच्छसि एतयोर्विवाद एवन मे रोच
+[^80]: # "F जलनिधि॰ corrected from सलिलनिधि॰."
 
-ते।
+**गण॰।** महत्खलु पुरुषाधिकारमिदं ज्योतिः। तथा हि।
 
-**गणदासः —** देव, न मां समानविद्यया परिभवनी
+**द्वारे नियुक्तपुरुषानुमतप्रवेशः  
+सिंहासनान्तिकचरेण सहोपसर्पन्।  
+तेजोभिरस्य विनिवर्तितदृष्टिपातैर्  
+वाक्यादृते पुनरिव प्रतिवारितोस्मि॥१२॥**
 
-यमवगन्तुमर्हसि।
+**कञ्चुकी।** एष देवः। उपसर्पतां[^81] भवन्तौ।
 
-**विदूषकः —**³⁹भवति पश्यामः उरभ्रसंवादम्। किं सुधा वेतनदानेन?
+[^81]: # "A E उपसर्पेताम् as an after-correction in both."
 
-**देवी—**⁴⁰ननु कलहप्रियोऽसि \।
+**उभौ।** उपेत्य। विजयतां देवः।
 
-**विदूषकः—**⁴¹मैवम्। अन्योन्यकलहप्रिययोर्मत्तहस्तिनोरेकतरस्मिन्ननिर्जिते कुत उपरमः?
+**राजा।** स्वागतं भवद्भ्याम्। परिजनं विलोक्य। आसने तावदत्र भवतोः।
 
-**राजा—**ननु स्वाङ्गसौष्ठवातिशयमुभयोर्दृष्टवती भगवती?
+**उभौ।** परिजनोपनीतयोरासनयोरूपविष्टौ।
 
-**परिव्राजिका—**अथ किम्।
+**राजा।** किमिदं शिष्योपदेशकाले युगपदाचार्ययोरुपस्थानम्।
 
-**राजा—**तदिदानीमतः परकिमाभ्यां प्रत्याययितव्यम्?
+**गण॰।** देव श्रूयताम्। मया तीर्थादभिनयविद्या शिक्षिता। दत्तप्रयोगोस्मि। देवेन देव्या च परिगृहीतः।
 
-**परिव्राजिका**— तदेव वक्तुकामास्मि।
+**राजा।** दृढं जाने।
 
-श्लिष्टाक्रिया कस्यचिदात्मसंस्था  
-संक्रान्तिरन्यस्य विशेषयुक्ता।  
+**गण॰।** सोहममुना हरदत्तेन प्रधानपुरुषसमक्षमयं मे[^82] पादरजसा न तुल्य इत्यधिक्षिप्तः।
+
+[^82]: # "A B C D E मम for अयं मे."
+
+**हर॰।** देव अयमेव मयि प्रथमं परिवादरतः। अत्रभवतः किल मम च समुद्रपल्वलयोरिवान्तरम्। तदत्रभवानिमं मां च शास्त्रे प्रयोगे च विमृशतु[^83]। देव एव नौ विशेषज्ञः प्राश्निकश्च।
+
+[^83]: # "B विमृश्यतु, F विमर्शयतु."
+
+**विदूषकः।** ^(**१**)समथ्थं पडिण्णादं[^84]।
+
+[^84]: # "A C D E पडिणदं, B पडिण्णदं."
+
+**गण॰।** प्रथमः कल्पः। अवहितो देवः श्रोतुमर्हति।
+
+**राजा। **तिष्ठतु तावत्। पक्षपातमत्र देवी मन्यते। तत्तस्याः पण्डितकौशिक्या सहितायाः समक्षमेव न्याय्यो व्यवहारः।
+
+**विदूषकः ।** ^(**२**)सुठ्ठु भवं भणादि[^85]।
+
+[^85]: # "D भणादी, F भणदि."
+
+**उभौ।** यद्देवाय रोचते।
+
+**राजा।** मौद्गल्य अमुं प्रस्तावं निवेद्य पण्डितकौशिक्या सार्धमाहूयतां देवी।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** समर्थं प्रतिज्ञातम्।
+
+**२.** सुष्ठु भवान्भणति.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**कञ्चुकी।** यदाज्ञापयति देवः। इति निष्क्रम्य सहपरिव्राजिकया देव्या सह पुनःप्रविश्य। इत इतो देवी धारिणी[^86]।
+
+[^86]: # "F इतो देवी। इतो धारिणी देवी."
+
+**देवी।** परिव्राजिकां विलोक्य। ^(**१**)भअवदि हरदत्तस्स गणदासस्स अ संरम्भे कहं पेख्खसि।
+
+**परिव्राजिका।** अलं स्वपक्षावसादशङ्कया। न च पराजीयते केनचिह्नणदासः।
+
+**देवी।** ^(**२**)जइ[^87]वि एव्वं तहवि राअपरिग्गहो से पहाणत्तणम् उवहरइ।
+
+[^87]: # "A C जई for जइ."
+
+**परिव्राजिका।** अयि[^88] राज्ञीशब्दभाजनमात्मानमपि तावच्चिन्तयतु भवती। पश्य।
+
+[^88]: # "A अपि for अयि."
+
+**अतिमात्रभास्वरत्वं पुष्यति भानोः परिग्रहादनलः।  
+अधिगच्छति महिमानं चन्द्रोपि निशापरिगृहीतः॥१३॥**
+
+**विदूषकः।** ^(**३**)अवि हा अवि हा। उवठ्ठिआ[^89] पीठमादिअं[^90] पण्डिअ[^91]कोसिइं[^92] पुराकदुअ[^93] देवी।
+
+[^89]: # "B D E उवठ्ठिया."
+
+[^90]: # "B D पीठमदियं; E corrects its original पीठमदियं into पीठमदीयं; F पीठमहिअं"
+
+[^91]: # "F पण्डिद॰.B °कोसिआं.—D E कोसिईं."
+
+[^92]: # "B ॰कोसिआं. — D E कोसिई."
+
+[^93]: # "F पुरोकदुअ."
+
+**राजा।** पश्याम्येनाम्। यैषा
+
+**मङ्गलालङ्कृता भाति कौशिक्या यतिवेषया।  
+त्रयी विग्रहवत्येव सममध्यात्मविद्यया॥१४॥**
+
+**परिव्राजिका।** उपेत्य। विजयतां देवः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भगवति हरदत्तस्य गणदासस्य च संरम्भे कथं प्रेक्षसे।
+
+**२.** यद्यप्येवं तदपि राजपरिग्रहोस्य प्रभुत्वमुपहरति।
+
+**३.** अपि हा अपि हा। उपस्थिता पीठमर्दिकां पण्डितकौशिकीं पुरस्कृत्य देवी।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** भगवत्यभिवादये।
+
+**परिव्राजिका।**
+
+**महासारप्रसवयोः सदृशक्षमयोर्द्वयोः।  
+धारिणीभूतधारिण्योर्भव भर्ता शरच्छतम्॥१५॥**
+
+**देवी।** जेदु अ[^94]ज्जउत्तो।
+
+[^94]: # "D E अ-अ॰."
+
+**राजा। **स्वागतं देव्यै। परिव्राजिकां विलोक्य। भगवति क्रियतामासनपरिग्रहः।
+
+।सर्वे यथोचितमुपविशन्ति।
+
+**राजा।** भगवत्यत्रभवतोर्हरदत्तगणदासयोः परस्परेण ज्ञानसङ्घर्षो जातः। तदत्रभवत्या प्राश्निकपदमध्यासितव्यम्।
+
+**परिव्राजिका।** सस्मितम्। अलमलमुपालम्भेन। पत्तने विद्यमानेपि ग्रामै रत्नपरीक्षा[^95]।
+
+[^95]: # "E रत्नपरीक्षणम्."
+
+**राजा।** मामेवम्। पण्डितकौशिकी खलु भवती। पक्षपातिनावनयोर्हरदत्तगणदासयोरहं देवी च।
+
+**उभौ।** सम्यगाह देवः। मध्यस्था भवती नौ गुणदोषतः परिच्छेत्तुमर्हति।
+
+**राजा।** तेन हि प्रस्तूयतां विवादवस्तु।
+
+**परिव्राजिका।** देव प्रयोगप्रधानं हि नाट्यशास्त्रम्। किमत्र वाग्व्यवहारेण।
+
+**राजा।** कथं देवी मन्यते[^96]।
+
+[^96]: # "B omits "
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** जयत्वार्यपुत्रः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**देवी।** ^(**१**)जइ मं पुछ्छसि एदाणं विवादो एव्व[^97] ण मे रुच्चइ।
+
+[^97]: # "B येव्व."
+
+**गण॰।** न मां देवी समानविद्यतः परिभवनीयम[^98]नुमन्तुमर्हति।
+
+[^98]: # "B ॰विद्यातः.—F परिहीनम् for परिभवनीयम्."
+
+**विदूषकः।** **^(२)**देवि देख्खामो[^99] उरम्भसंवादम्। किं मुहा वेअणदाणेण।
+
+[^99]: # "F दख्खामो."
+
+**देवी।** ^(**३**)णं कलहप्पिओसि।
+
+**विदूषकः।** ^(**४**)मा चण्डि। अण्णोण्णकलहिदाणं[^100] मत्तहथ्थीणम् एकतरस्सिम् अणिज्जिदे कुदो उवसमो।
+
+[^100]: # "A ॰कलिहदाणं."
+
+**राजा।** ननु स्वाङ्गसौष्ठवाभिनयमुभयोर्दृष्टवती भवती।
+
+**परि॰।** अथ किम्।
+
+**राजा।** तदिदानीमतः किमाभ्यां प्रत्याययितव्यम्।
+
+**परि॰।** एतदेव वक्तुकामास्मि ।
+
+**शिष्टा क्रिया कस्यचिदात्मसंस्था  
+सङ्क्रान्तिरन्यस्य विशेषयुक्ता।  
 यस्योभयं साधु स शिक्षकाणां  
-धुरि प्रतिष्ठापयितव्य एव ॥१६॥
+धुरि प्रतिष्ठापयितव्य एव॥१६॥**
 
-**विदूषकः—**⁴²श्रुतमार्याभ्यां भगवत्या वचनम्? एष पिण्डितार्थ उपदेशदर्शनान्निर्णय इति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** यदि मां पृच्छसि एतयोर्विवाद एव न मे रोचते।
 
-**हरदत्तः —**परमभिमतं नः।
+**२.** देवि पश्याम उरभ्रसंवादम्। किं मुधा वेतनदानेन।
 
-**गणदास—**देवि, एवं स्थितम्।
+**३.** ननु कलहप्रियोसि।
 
-**देवी—**⁴³यदा पुनर्मन्दमेधाः शिष्या उपदेशं मलिनयन्ति तदाचार्यस्य दोषो नु?
+**४.** मा चण्डि। अन्योन्यकलहितयोर्मत्तहस्तिनोरेकतरस्मिन्ननिर्जिते कुत उपशमः।
 
-**राजा**– देवि, एवमापठ्यते। विनेतुरद्रव्यपरिग्रहोऽपि बुद्धिलाघवं प्रकाशयतीति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**देवी**—(स्वगतम्) ⁴⁴कथमिदानीम्? (गणदासं विलोक्य प्रकाशम्) अलमार्यपुत्रस्योत्साहकारणं मनोरथं पूरयित्वा। विरमं निरर्थकादारम्भात्।
+**विदूषकः।** ^(**१**)सुदं अज्जेहिं[^101] भअवदीए वअणम्। एस पिण्डिदथ्थो उवदेसदंसणेण णिण्णओत्ति[^102]।
 
-**विदूषकः—**⁴⁵सुष्ठु भवतीभणति। भो गणदास, सङ्गीतपदं लब्ध्वा सरस्वत्युपायनमोदकान्खादतः किं ते सुखनिग्रहेण विवादेन?
+[^101]: # "D अय्येहिं."
 
-**गणदासः—**सत्यसमयमेवार्थोदेवीवाक्यस्य। श्रूयतामवसरप्राप्तमिदानीम्—
+[^102]: # "A B C D E उवदेसदंसणे अ णिण्णओत्ति."
 
-लव्धास्पदोऽस्मीति विवादभीरो-  
-स्तितिक्षमाणस्य परेण निन्दाम्।  
-यस्यागमः केवलजीविकायै  
-तं ज्ञानपण्यं वणिजं वदन्ति ॥१७॥
+**हर॰।** परमुचितं[^103] नः।
 
-**देवी—**⁴⁶अचिरोपनीतायां शिष्यायां पुनः प्रतिष्ठितस्योपदेशस्यान्याय्यं प्रकाशनम् \।
+[^103]: # "D परममुचितं for परमुचितं."
 
-**गणदासः—**अत एव मे निर्बन्धः।
+**गण॰।** देव एवं स्थितमेव।
 
-**देवी—**⁴⁷तेन हि द्वावप्युपदेशं भगवत्यै दर्शयतम्।
+**देवी।** ^(**२**)जदा उण अमेहाविणी[^104] सिस्सा उवदेसं मलिणएइ तदा आअरिअस्स दोसो णम्।
 
-**परिव्राजिका—**देविनैतन्न्याय्यम्। सर्वज्ञस्याप्येकाकिनो निर्णयाभ्युपगमो दोषाय।
+[^104]: # "A B C D अम्मेहाविणी."
 
-**देवी—**(जनान्तिकम्) ⁴⁸मूढे परिव्राजिके, मां जाग्रतीमपि सुप्तामिव करोषि। (इतिसासूयं परावर्तते। राजा देवीं परिव्राजिकायै दर्शयति।)
+**राजा।** देवि एवमुपपद्यते[^105]।
 
-परिव्राजिका—
+[^105]: # "F एवमापतति."
 
-अनिमित्तमिन्दुवदने किमत्र भवतः परांङ्मुखी भवसि।  
-प्रभवन्त्योऽपि हि भर्तृषु कारण
+**गण॰।** विनेतुरद्रव्यपरिग्रह[^106] एव बुद्धिलाघवं प्रकाशयति।
 
-कोपाः कुटुम्बिन्यः॥१८॥
+[^106]: # "F अद्रव्यपात्रपरिग्रहः, with the following explanation in the margin: 'द्रव्यं गुणानामाधारे भेषजे योग-वित्तयोरिति यादवः।' अयोग्यपात्रस्वीकारः।"
 
-**विदूषकः —**⁴⁹ननु सकारणमेव। आत्मनः पक्षो रक्षितव्यः। (गणदासं विलोक्य) दिष्ट्या कोपव्याजेन देव्या परित्रातो भवान्। सुशिक्षितोऽपि सर्व उपदेशेन निष्णातो भवति।
+**देवी।** ^(**३**)कहं दाणिम्। गणदासं विलोक्य। जनान्तिकम्[^107]। अलम् एअस्स अ[^108]ज्जउत्तस्स उछ्छाहकालणं मणोरहं पूरिअ। विरम णिरथ्थआदो आरम्भादो।
 
-**गणदासः—** देवि, श्रूयताम्। एवं जनो गृह्णाति। तदिदानीम्—
+[^107]: # "The MS all read thus : गणदासं विलोक्य। जनान्तिकम्। कहं [F जह] दाणिम्। &c. The reading given in our edition is that of Tulberg's."
 
-विवादे दर्शयिष्यामि क्रियासंक्रान्तिमात्मनः।  
-यदि मां नानुजानासि परित्यक्तोऽस्म्यहं त्वया ॥१९॥
+[^108]: # "D E F अ-अ॰."
 
-(आसनादुत्थातुमिच्छति )
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** श्रुतमार्याभ्यां भगवत्या वचनम्। एष पिण्डितार्थ उपदेशदर्शनेन निर्णय इति।
 
-**देवी**— (स्वगतम्) ⁵⁰का गतिः! (प्रकाशम् ) प्रभवत्याचार्यः शिष्यजनस्य।
+**२.** यदा पुनरमेधाविनी शिष्योपदेशं मलिनयति तदाचार्यस्य दोषो ननु।
 
-**गणदासः—**चिरमपदे शङ्कितोऽस्मि। (राजानमवलोक्य) अनुज्ञातं देव्या। तदाज्ञापयतु देवः कस्मिन्नभिनयवस्तुन्युपदेशंदर्शयिष्यामि।
+**३.** कथमिदानीम्। अलमेतस्यार्यपुत्रस्योत्साहकारणं मनोरथं पूरयित्वा। विरम निरर्थकादारम्भात् ।
 
-**राजा—** यदादिशति भगवती।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**परिव्राजिका**— किमपि देव्या मनसि वर्तते। ततः शङ्कितास्मि \।
+**विदूषकः।** ^(**१**)सुठ्ठु होदी भणादि। भो गणदास सङ्गीतओव[^109]देसम् आरहिअ किं सरस्सइउवाअणमोदआइं[^110].—A B C D उवाअणं मोद, ॰E उवाअणं मोदअं.") स्वादअमाणस्स सुलहणिग्गहेण विवादेण।
 
-**देवी—**⁵¹भण विस्रब्धम्। प्रभवति प्रभुरात्मनः परिजनस्य।
+[^109]: # "B D E सङ्गीतयोव॰."
 
-**राजा—**मम चेति ब्रूहि।
+[^110]: # "A C D सरस्सहि° (सरस्सदि॰ ?
 
-**देवी**—⁵²भगवति, भणेदानीम्।
+**गण॰।** सत्यमयमेवार्थो[^111] देवीवचनस्य। श्रूयतामवसरप्राप्तम्।
 
-**परिव्राजिका—**देव, शर्मिष्ठायाः कृतिं चतुष्पदोत्थं छलिकं दुष्प्रयोज्यमुदाहरन्ति। तत्रैकार्थसंश्रयमुभयोः प्रयोगं पश्यामि। तावताज्ञायत एवात्र भवतोरुपदेशान्तरम्।
+[^111]: # "A सत्यमेवायमेवार्थः .—F ॰प्राप्तमिदम्."
 
-**आचार्यौ—** यदाज्ञापयति भगवती।
+**लब्धास्पदोस्मीति विवादभीरोस्  
+तितिक्षमाणस्य परेण निन्दाम्।  
+यस्यागमः केवलजीविकैव  
+तं ज्ञानपण्यं वणिजं वदन्ति॥१७॥**
 
-**विदूषकः—** ⁵³तेन हि द्वावपि वर्गौप्रेक्षागृहे संगीतरचनां कृत्वा तत्रभवतो दूतं प्रेषयतम्। अथवा मृदङ्गशब्द एव न उत्थापयिष्यति
+**विदूषकः।** ^(**२**)अइरो[^112]वणीदा वो सिस्सा। ता अवरिणिठ्ठिदस्स उवदेसस्स अण्णअं[^113] पआसणम्।
 
-**हरदत्तः—**तथा। (इत्युत्तिष्ठति। गणदासो धारिणीमवलोकयति)
+[^112]: # "A B C E अचिर°, D अपरि°"
 
-**देवी—** (गणदासं विलोक्य) ⁵⁴विजयी भव।(आचार्यौप्रस्थितौ)
+[^113]: # "A C E आणअं; D अणअं."
 
-**परिव्राजिका**— इतस्तावत्।
+**गण॰।** अत एव निर्बन्धः।
 
-**आचार्यौ**— (परिवृत्य) इमौस्वः।
+**देवी।** ^(**३**)तेण हि दुवेवि भअवदीए उवदेसं दंसह।
 
-**परिवाजिका—** निर्णयाधिकारे व्रवीमि। सर्वाङ्गसौष्ठवाभिव्यक्तये विगतनेपथ्ययोः पात्रयोः प्रवेशोऽस्तु!
+**परि॰।** नैतन्न्याय्यम्। सर्वज्ञस्याप्येकाकिनो निर्णयाभ्युपगमो दोषाय।
 
-**उभौ—**नेदमावयोरुपदेश्यम्!                     
-(इति निष्क्रान्तौ)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** सुष्ठु भवती भणति। भो गणदास सङ्गीतकोपदेशमारभ्य किं सरस्वत्युपायनमोदकान्खादतः सुलभनिग्रहेण विवादेन।
 
-**देवी—**(राजानमवलोक्य) ⁵⁵यदि राजकार्येष्वीदृश्युपायनिपुणतार्यपुत्रस्य‚ ततः शोभनं भवेत्।
+**२.** अचिरोपनीता वः शिष्या। तदपरिनिष्ठितस्योपदेशस्यान्याय्यं प्रकाशनम्।
 
-राजा—
+**३.** तेन हि द्वावपि भगवत्या उपदेशं दर्शयतम्।
 
-**अलमन्यथा गृहीत्वा न खलु मनस्विनि मया प्रयुक्तमिदम्  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**देवी।** जनान्तिकम् । ^(**१**)मूढै परिव्वाजिए किं जागतिंवि मं[^114] सुत्तं विअ करोसि। इति सासूयं परावर्तते।
+
+[^114]: # "F omits मं."
+
+**राजा।** देवीं परिव्राजिकायै दर्शयति।
+
+**परि॰।** विलोक्य।
+
+**अनिमित्तमिन्दुवदने किमत्रभवतः पराङ्मूखी भवसि।  
+प्रभवन्त्योपि हि भर्तृषु कारणकोपाः कुटुम्बिन्यः॥१८॥**
+
+**विदूषकः।** ^(**२**)णं सकारणं एव्व[^115]। अप्पणो[^116] पख्खो रख्खिदव्वोत्ति। गणदासं विलोक्य। दिठ्ठिआ कोवव्वाएण[^117] देवीए परित्तादो भवम्। सुसिख्खिओवि[^118] सव्वो उवदेसेण णिवुणो होइ।
+
+[^115]: # "C एव्वं."
+
+[^116]: # "B आप्पणो."
+
+[^117]: # "C. कोवेवएण, A B D E. कोवोवाएण."
+
+[^118]: # "A सुसुखिओ, B D E सुसुख्खियो."
+
+**गण॰।** देवि श्रूयताम्। एवं जनो गृह्णाति। तदिदानीं
+
+**विवादे दर्शयिष्यन्तं क्रियासङ्क्रान्तिमात्मनः।  
+यदि मां नानुजानासि परित्यक्तोस्म्यहं त्वया॥१९॥**
+
+आसनादुत्तिष्ठति।
+
+**देवी।** स्वगतम्। ^(**३**)का गई। प्रकाशम्। पहवदि अज्जो[^119] सिस्सजणस्स।
+
+[^119]: # "D F अ-ओ for अज्जो"
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** मूढे परिव्राजिके किं जाग्रतीमपि मां सुप्तामिव करोषि।
+
+**२.** ननु सकारणमेव। आत्मनः पक्षो रक्षितव्य इति। दिष्ट्या कोपव्याजेन देव्या परित्रातो भवान्। सुशिक्षितोपि सर्व उपदेशेन निपुणो भवति।
+
+**३.** का गतिः। प्रभवत्यार्यः शिष्यजनस्य।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**गण॰।** चिरमपदे शङ्कितोऽस्मि। राजानं विलोक्य। अनुज्ञातं देव्या। तदाज्ञापयतु देवः। कस्मिन्नभिनय[^120]वस्तुन्युपदेशं दर्शयिष्यामि।
+
+[^120]: # "A B C D E अभिनेय॰."
+
+**राजा।** यदादिशति भगवती।
+
+**परि॰।** किमपि देव्या मनसि वर्तते। तच्छङ्कितास्मि।
+
+**देवी।** ^(**१**)भण विस्सध्धम्। णं प्पहविस्सं[^121] अत्तणो परिअणस्स।
+
+[^121]: # "The MSS. प्पहविस्ससि, except F."
+
+**राजा।** मम चेति ब्रूहि।
+
+**देवी।** ^(**२**)भअवदि भण दाणिम्।
+
+**परि॰।** देव चतुष्पदोद्भवं चलितमुदाहरन्ति। तत्रैकार्थसंश्रयमुभयोः प्रयोगं पश्यामः। तावता ज्ञायत एव तत्र भवतोरुपदेशान्तरम्।
+
+**उभौ।** यदाज्ञापयति भगवती।
+
+**विदूषकः।** ^(**३**)तेण हि दुव्वे वि गदुअ[^122] for गहुअ.") पेख्खाघरए सङ्गीदरअणं करिअ अत्तभवदो[^123]") दूदं विसज्जेह[^124]।
+
+[^122]: # "F वग्गा (i. e. वर्गौ
+
+[^123]: # "F अत्तभवन्दो (=अत्रभवन्तौ.
+
+[^124]: # "A B C D E विसज्जेहि."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भण विश्रब्धम्। ननु प्रभविष्याम्यात्मनः परिजनस्य।  
+**२.** भगवति भणेदानीम्।  
+**३.** तेन हि द्वावपि गत्वा प्रेक्षागृहे सङ्गीतरचनां कृत्वात्रभवते दूतं विसर्जयतम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+^(**१**)अह वा मिअङ्गसद्दो एव्व णो उठ्ठावइस्सदि।
+
+**हरि॰।** तथा। इत्युत्तिष्ठति।
+
+**गण॰।** देवीमबलोकयति।
+
+**देवी।** ^(**२**)ण हि विअअपच्चथ्थिणी अहम् अज्जस्स ण होमि[^125]।
+
+[^125]: # "E F अ-अस्स.—A B C D E read thus : ण हि विअअपिच्चख्खिणीम् अहम् अज्जस्स। विजई होहि."
+
+**उभौ।** प्रस्थितौ।
+
+**परि।** इतस्तावदाचार्यौ।
+
+**उभौ।** परिवृत्य। इमौ स्वः।
+
+**परि।** निर्णयाधिकारे ब्रवीमि। सर्वाङ्गसौष्ठवाभिव्वक्तये विगतनेपथ्ययोः[^126] पात्रयोः प्रवेशोस्तु।
+
+[^126]: # "F विरलनैपथ्ययोः"
+
+**उभौ।** नेदमप्यावयोरुपदेश्यम्।
+
+\निष्क्रान्तौ।
+
+**देवी।** राजानं विलोक्य। ^(**३**)[जइ[^127] इदरेसु राजकज्जेसुवि एव्वं[^128] उवाअणिउणदा अ[^129]ज्जउत्तस्स णं सोहणं[^130] भवे।
+
+[^127]: # "B जई."
+
+[^128]: # "A एवं."
+
+[^129]: # "D E Fअ-अ॰."
+
+[^130]: # "F सोभणं."
+
+**राजा।** देवि
+
+**अलमन्यथा गृहीत्वा न खलु मनस्विनि मया प्रयुक्तमिदम्।  
 प्रायः समानविद्याः परस्परयशःपुरोभागाः॥२०॥**
 
-(नेपथ्ये मृदङ्गध्वनिः। सर्वे कर्णं ददति)
+।नेपथ्ये मृदङ्गशब्दः।
 
-**परिवाजिका—** हन्त! प्रवृत्तं सङ्गीतम्। तथा ह्येषा
+**सर्वे।** कर्णं ददति।
 
-जी
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अथ वा मृदङ्गशब्द एव न उत्थापयिष्यति।
 
-मूतस्तनितविशङ्किभिर्मयूरे-  
-रुद्ग्रीवैरनुरसितस्य पुष्करस्य।  
-निर्ह्रादित्युपहितमध्यमस्वरोत्था  
-मायूरी मदयति मार्जना मनांसि॥२१॥
+**२.** न हि विजयप्रत्यर्थिन्यहमार्यस्य न भवामि।
 
-**राजा—** देवि, तस्याः सामाजिका भवामः।
+**३.** यदीतरेषु राजकार्येष्वप्येवमुपायनिपुणतार्यपुत्रस्य ननु शोभनं भवेत्।
 
-**देवी—** (स्वगतम्) ⁵⁶अहो अविनय आर्यपुत्रस्य।           
-(सर्वे उत्तिष्ठन्ति)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः** — (अपवार्य)⁵⁷भोः, धीरं गच्छामः। तत्रभवती धारिणी विसंवादयिष्यति।
+**परि॰।** हन्त प्रवृत्तं सङ्गीतकम्[^131]। तथा ह्येषा
 
-राजा—
+[^131]: # "E सङ्गीतम्."
 
-धैर्यावलम्विनमपि त्वरयति मां मुरजवाद्यरागोऽयम्।  
-अवतरतः सिद्धिपथं शब्दः स्वमनोरथस्येव॥२२॥
+**जीमूतस्तनितविशङ्किभिर्मयूरैर्  
+उद्ग्रीवैरनुरसितस्य पुष्करस्य।  
+निर्ह्रादिन्युप[^132]हितमध्यमस्वरोत्था  
+मायूरी मदयति मार्जना मनांसि॥२१॥**
 
-( इति निष्क्रान्ताः सर्वे )
+[^132]: # "A D E निह्रादिन्युप॰."
 
-इति प्रथमोऽङ्कः  
-<MISSING_FIG href="../books_images/U-IMG-1724925370Screenshot(69"/>.png)
+**राजा।** देवि सामयिका[^133] भवामः।
 
-**अथ द्वितीयोऽङ्कः **
+[^133]: # "A B C D F सामवायिकाः"
 
-(ततः प्रविशति सङ्गीतरचनायामासनस्थो राजा सवयस्यो धारिणी परिव्रा
+**देवी।** आत्मगतम्। ^(**१**)अहो अविणओ अ[^134]ज्जउत्तस्स।
 
-जिकाविभवतश्च परिवारः)
+[^134]: # "D E F अ-अ.॰"
 
-**राजा—** भगवति, अत्रभवतोराचार्ययोः प्रथमं कतरस्योपदेशं द्रक्ष्यामः?
+**सर्वे।** उत्तिष्ठन्ति।
 
-**परिव्राजिका**— नतु समानेऽपि ज्ञानवृद्धभावे वयोवृद्धत्वाद्गणदासः पुरस्कारमर्हति।
+**विदूषकः।** अपवार्य। ^(**२**)भो धीरं गछ्छ। मा ख्खु अत्तहोदी धारिणी विसंवादइस्सदि।
 
-**राजा —** मौद्गल्य, एवमत्रभवतोरावेद्य नियोगमशून्यं कुरु।
+**राजा।**
 
-**कञ्चुकी—** यदाज्ञापयति देवः।
+**धैर्यावलम्बिनमपि त्वरयति मां मुरजवाद्यनादोयम्।  
+अवतरतः सिद्धिपथं शब्दः स्वमनोरथस्येव॥२२॥**
 
-(निष्क्रान्तः )
+\इति निष्क्रान्ताः सर्वे।
 
-(प्रविश्य) **गणदासः—** देव, शर्मिष्ठायाः कृतिर्लयमध्या चतुष्पदास्ति। तस्याश्छलिकप्रयोगमेकमनाः श्रोतुमर्हति देवः।
+**॥इति प्रथमोङ्कः॥**  
+\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा—**आचार्य, बहुमानादवहितोऽस्मि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अहो अविनय आर्यपुत्रस्य।  
+**२.** भो धीरं गच्छ। मा खल्वत्रभवती धारिणी विसंवादयिष्यति।  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(निष्क्रान्तो गणदासः)
+12\. A B D E तुभं for मा.
 
-**राजा** —(जनान्तिकम्) वयस्य,
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-नेपथ्यपरिगतायाश्चक्षुर्दर्शनसमुत्सकं तस्याः।  
-संहर्तुमधीरतया व्यवसितमिव मे तिरस्करणीयम् ॥१॥
+।ततः प्रविशति सङ्गीतरचनायां कृतायामासनस्थः सवयस्यो
 
-**विदूषकः—**(अपवार्य) ¹उपस्थितं नयनमधु संनिहितमक्षिकं च। तदप्रमत्त इदानीं पश्य।
+राजा परिव्राजिका धारिणी विभवतश्च [परिवारः[^135]।
 
-(ततः प्रविशत्याचार्यावेक्ष्यमाणाङ्गसौष्ठवा मालविका)
+[^135]: # "D परीवारः."
 
-**विदूषकः —**(जनान्तिकम् ) ²पश्यतु भवान्। न खल्वस्याः प्रतिच्छन्दात्परिहीयते मधुरता \।
+**राजा।** भगवति अत्रभवतोराचार्ययोः कतरस्य प्रथममुपदेशं द्रक्ष्यामः।
 
-**राजा—** (अपवार्य) वयस्य,
+**परि॰।** ननु समानेपि ज्ञानवृद्धभावे वयोधिकत्वाद्गणदासः पुरस्कारमर्हति।
 
-चित्रगतायामस्यां कान्तिविसंवादशङ्कि मे हृदयम्।  
-सम्प्रति शिथिलसमाधिं मन्ये येनेयमालिखिता ॥२॥
+**राजा।** तेन हि मौद्गल्य एवमेवात्रभवतोरावेद्य स्वनियोगमशून्यं कुरु।
 
-**गणदासः—**वत्से, मुक्तसाध्वसा सत्वस्था भव।
+**कञ्चुकी।** यदाज्ञापयति देवः।
 
-**राजा—**(आत्मगतम्) अहो सर्वस्थानानवद्यता रूपविशेषस्य। तथाहि —
+\इति निष्क्रान्तः।
 
-दीर्घाक्षं शरदिन्दुकान्ति वदनं वाहू नतावंसयोः  
-संक्षिप्तं निविडोन्नतस्तनमुरः पार्श्वे प्रमृष्ठे इव।  
+**गण॰।** प्रविश्य। देव शर्मिष्ठायाः कृतिर्लयमध्या चतुष्पदा। तस्याश्चतुर्थवस्तुकप्रयोगमेकमनाः श्रोतुमर्हति देवः।
+
+**राजा।** आचार्य बहुमानादवहितोस्मि।
+
+\[निष्क्रान्तो गणदासः।
+
+**राजा।** जनान्तिकम्। वयस्य
+
+**नेपथ्य[परिगताया[^136]श्चक्षुर्दर्शनसमुत्सुकं तस्याः।  
+संहर्तुमधीरतया व्यवसितमिव मे तिरस्करिणीम्॥१॥**
+
+[^136]: # "F ॰परिणतायाः."
+
+**विदूषकः।** अपवार्य। ^(**१**)हो[^137] उवठ्ठिअं णअणमहु[^138]। सण्णिहिदं मख्खिअं च। ता अप्पमत्तो दाणिं पेख्ख।
+
+[^137]: # "A C होउ and B D E होदु for "
+
+[^138]: # "B णयणमहू, E F णयणमहु."
+
+।ततः प्रविशत्याचार्यप्रत्यवेक्ष्यमाणा[^139]ङ्गसौष्ठवा मालविका।
+
+[^139]: # "A B C प्रत्यवेक्षमाणाः"
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भो उपस्थितं नयनमधु। सन्निहिता मक्षिका च। तदप्रमत्त इदानीं पश्य।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**विदूषकः।** जनान्तिकम्। ^(**१**)पेख्खदु भवम्। ण हु से पडिछ्छन्दादो परिहीअदि[^140] महुरदा।
+
+[^140]: # "A B C D E पडिहीअदि."
+
+**राजा।** जनान्तिकम्। वयस्य
+
+**चित्रगतायामस्यां कान्तिविसंवादशङ्कि मे हृदयम्।  
+सम्प्रति शिथिलसमाधिं मन्ये येनेयमालिखिता॥२॥**
+
+**गण॰।** वत्से मुक्तसाध्वसा[^141] सत्त्वस्था भव।
+
+[^141]: # "B C D E मुग्धसाध्वसा."
+
+**राजा।** आत्मगतम्। अहो सर्वास्ववस्थास्व[^142]नवद्यता रूपस्य।
+
+[^142]: # "A B C D E सर्वावस्थासु."
+
+**दीर्घाक्षं शरदिन्दुकान्तिवदनं बाहू नतावंसयोः  
+सङ्क्षिप्तं निबिडोन्नतस्तनमुरः पार्श्वे प्रमृष्टे इव।  
 मध्यः पाणिमितो नितम्बि जघनं पादावरालाङ्गुली  
-छन्दो नर्तयितुर्यथैव मनसि श्लिष्टं तथास्या वपुः॥३॥
+छन्दो नर्तयितुर्यथैव मनसःश्लिष्टं[^143]; B मनसः श्लिष्टं, corrected from मनसश्लि॰; E मनसा श्लिष्टं also corrected from मनसश्लिष्टं.") तथास्या वपुः॥३॥**
 
-**मालविका—**(उपगानं कृत्वा चतुष्पदवस्तु गायति)
+[^143]: # "A C D मनसश्चिष्टं (मनसः श्लिष्टं ?
 
-दुल्लहोपिओ मे तस्सिंभव हि अअ णिरासं  
-अह्मो अपङ्गवो मे परिस्फुरइ किं वि वामो।  
-एसो सो चिरदिठ्ठोकहँ उण उवणइदव्यो  
-णाह मंपराहीणं तुइ परिगणअ सतिण्हम्॥४॥
+**मालविका।** उपवहनं कृत्वा[^144] चतुष्पदं वस्तु गायति।
 
-(दुर्लभः प्रियो मे तस्मिन्भव हृदय निराश-  
-महो अपाङ्गो मे परिस्फुरति किमपि वामः \।  
-एष स चिरदृष्टः कथं पुनरुपनेतव्यो  
-नाथ मां पराधीनांत्वयिपरिगण
+[^144]: # "F कपोतकं कृत्वा."
 
-यसतृष्णम्॥४॥
+**^(२)दुल्लहो पिओ[^145] तस्सिं भव हिअअ[^146] णिरासम्।  
+अम्हो अपङ्गओ[^147] मे पफ्फुरइ किम्पि[^148] वामो[^149]॥४॥**
 
-(ततो यथारसमभिनयति)
+[^145]: # "D E पियो."
 
-**विदूषकः**—(जनाभितकम्) ³भोः, चतुष्पदवस्तुकं द्वारीकृत्य त्वय्युपस्थापित आत्मा तत्रभवत्या।
+[^146]: # "B D E हियय."
 
-**राजा—** सखे, एवमेव ममापि हृदयम्। अनया खलु—
+[^147]: # "B D E अपङ्गयो."
 
-जनमिममनुरक्तं विद्धि नाथेति गेये  
-वचनम
+[^148]: # "F किंवि."
 
-भिनयन्त्या स्वाङ्गनिर्देशपूर्वम्।  
-प्रणयगतिमदृष्टा धारिणी सन्निकर्षा-  
-दहमपि सुकुमारप्रार्थनाव्याजमुक्तः॥५॥
+[^149]: # "F वामओ."
 
-(मालविका गीतान्ते निष्क्रमितुमारब्धा)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** पश्यतु भवान्। न खल्वस्याः प्रतिच्छन्दात्परिहीयते मधुरता।
 
-**विदूषकः—** ⁴भवति, तिष्ठ। वो विस्मृतः कर्मभेदः। तं तावत्प्रक्ष्यामि।
+**२.** दुर्लभः प्रियस्तस्मिन्भव हृदय निराशम्। अम्ब हे अपाङ्गको मे प्रस्फुरति किमपि वामः।
 
-**गणदासः —** वत्से, उपदेशविशुद्धा यातुमर्हसि। ( मालविका निवृत्य स्थिता।)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा—** (आत्मगतम् ) अहो, सर्वास्ववस्थासु चारुता शोभान्तरं पुष्यति। तथाहि।
+**^(१)एसो सो चिरदिठ्ठो कहम् उवणइदव्वो।  
+णाह मं पराहीणं तुइ गणअ सतिण्हम्॥५॥**
 
-वामं सन्धिस्तिमितवलयं न्यस्य हस्तं नितम्बे  
+इति यथारसमभिनयति[^150]।
+
+[^150]: # "A omits the whole of “इति यथारसमभिनयति.” "
+
+**विदूषकः।** जनान्तिकम्। ^(**२**)भो चउप्पदं वथ्थुअं दुवारं कदुअ तुइ उवख्खित्तो[^151] विअ अप्पा तत्तहोदीए।
+
+[^151]: # "D E उवख्खितो."
+
+**राजा।** सखे[^152] एवमावयोर्हृदयम्। अनया खलु
+
+[^152]: # "A om. “सखे”"
+
+**जनमिममनुरक्तं विद्धि नाथेति गेये  
+वचनमभिनयन्त्या स्वाङ्गनिर्देशपूर्वम्।  
+प्रणयगतिमदृष्ट्वा धारिणीसन्निकर्षाद्  
+अहमिव सुकुमारप्रार्थनाव्याजमुक्तः॥६॥**
+
+**मालविका।** गीतान्ते गन्तुमिच्छति।
+
+**विदूषकः।** ^(**३**)होदि चिठ्ठ। किंवि[^153] विसुमरिदं कमभेदेण[^154]")। तं पुछ्छिस्सं[^155] दाव।
+
+[^153]: # "B D किमपि. A C E किम्पि."
+
+[^154]: # "C D °भेदेन.—B D E कम्मभेदेण (= कर्मभेदेन.
+
+[^155]: # "A omits “तं” before “पुछ्छिस्सं”"
+
+**गण॰।** वत्से स्थीयताम्। उपदेशविशुद्धौ[^156] यास्यसि।
+
+[^156]: # "A ॰विशुद्धा, F ॰शुद्धौ."
+
+**मालविका।** निवृत्य[^157] स्थिता।
+
+[^157]: # "B निर्वृत्य."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** एषोसौ चिरदृष्टः कथमुपनेतव्यः। नाथ मां पराधीनां त्वयि गणय सतृष्णाम्।
+
+**२.** भो चतुष्पदं वस्तुकं द्वारं कृत्वा त्वय्युपक्षिप्त इवात्मा तत्रभवत्या।
+
+**३.** भवति तिष्ठस्व। किमपि विस्मृतं क्रमभेदेन तत्प्रक्ष्यामि तावत्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** आत्मगतम्। अहो सर्वास्ववस्थासु[^142] चारुता शोभां[^159] पुष्यति। तथा हि
+
+[^159]: # "F शोभान्तरम्."
+
+**वामं सन्धिस्तिमितवलयं न्यस्य हस्तं नितम्बे  
 कृत्वा श्यामाविटपसदृशं स्रस्तमुक्तं द्वितीयम्।  
 पादाङ्गुष्ठालुलितकुसुमे कुट्टिमे पातिताक्षं  
-नृत्तादस्याः स्थितमतितरां कान्तमृज्वायतार्धम्॥६॥
+नृत्तादस्याः स्थितमतितरां कान्तमृज्वायतार्धम्॥७॥**
 
-**देवी—**⁵ननु गौतमवचनमप्यार्योहृदये करोति?
+**देवी।** ^(**१**)णं गोदमवअणम्पि अज्जो हिअए करेदि।
 
-**गणदासः** —देवि, मा मैवम्। देवप्रत्ययात्संभाव्यते सूक्ष्मदर्शिता
-गौतमस्य।
+**गण॰।** देवि मैवम्। देवप्रत्ययात्सम्भाव्यते सूक्ष्मदर्शिता गौतमस्य। पश्य।
 
-मन्दोऽप्यमन्दतामेति संसर्गेण विपश्चितः।  
-पङ्कच्छिदः फलस्येव निक
+**मन्दोप्यमन्दतामेति संसर्गेण विपश्चितः।  
+पङ्कच्छिदः फलस्येव निकषेणा[^160]विलं पयः॥८॥**
 
-षेणाविलं पयः॥ ७॥
+[^160]: # "A B C D E निकर्षेण."
 
-( विदूषकं विलोक्य) ततः शृणुमो वयं विवक्षितमार्यस्य।
+विदूषकं विलोक्य। शृणुमो विवक्षितमार्यस्य।
 
-**विदूषकः —**(गणदासं विलोक्य) ⁶कौशिकीं तावत्पृच्छ। पश्चाद्यो मया कर्मभेदो दृष्टस्तं भणिष्यामि।
+**विदूषकः।** गणदासं विलोक्य। ^(**२**)सख्खिणीं[^161] दाव पुछ्छ। पछ्छा जो मये कमभेदो लख्खिदो त्तं[^162] भणिस्सम्।
 
-**गणदासः —** भगवति, यथादृष्टमभिधीयताम् गुणो वा दोषो वा।
+[^161]: # "A B C D E भिख्खुणीं for"
 
-**परिव्राजिका—**यथादृष्टं सर्वमनवद्यम्। कुतः—
+[^162]: # "D E तं."
 
-अङ्गैरन्तर्निहितवचनैः सूचितः सम्यगर्थः।  
+**गण॰।** भगवति यथादृष्टम[^163]भिधीयतां दोषो वा गुणो वा।
+
+[^163]: # "A B C D E यथादर्शनम् for "
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** ननु गौतमवचनमप्यार्यो हृदये करोति।
+
+**२.** साक्षिणीं तावत्पृच्छ। पश्चाद्यो मया क्रमभेदो लक्षितस्तं भणिष्यामि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**परि॰।** यथाशास्त्रं सर्वमनवद्यम्। कुतः।
+
+**अङ्गैरन्तर्निहितवचनैः सूचितः सम्यगर्थः  
 पादन्यासो लयमनुगतस्तन्मयत्वं रसेषु।  
-शाखायोनि
+शाखायोनिर्मृदुरभिनयस्तद्विकल्पानुवृत्तौ  
+भावो भावं नुदति विषयाद्रागबन्धः स एव॥९॥**
 
-र्मृदुरभिनयस्तद्विकल्पानुवृत्तौ  
-भावो भावं नुदति विषयाद्रागबन्धः स एव॥ ८॥
+**गण॰।** देवः कथं मन्यते।
 
-**गणदासः—** देवः कथं वा मन्यते?
+**राजा।** गणदास वयं स्वपक्षशिथिलाभिमानाः संवृत्ताः।
 
-**राजा—**वयं स्वपक्षे शिथिलाभिमानाः संवृत्ताः।
+**गण॰।** अथ[^164] नर्तयितास्मि।
 
-**गणदासः—**अद्य नर्तयितास्मि!
+[^164]: # "F अद्य for "
 
-उपदेशं विदुः शुद्धं सन्तस्तमुपदेशिनः।  
-श्यामायते न युष्मासु यः काञ्चनमिवाग्निषु॥९॥
+**उपदेशं विदुः शुद्धं सन्तस्तमुपदेशिनः।  
+श्यामायते न युष्मासु यः काञ्चनमिवाग्निषु॥१०॥**
 
-**देवी** —⁷दि
+**देवी।** ^(**१**)दिठ्ठिआ परीख्खकाराहणेण[^165] अज्जो[^166] वढ्ढइ।
 
-ष्ट्यापरिक्षताराधनेनार्यो वर्धते!
+[^165]: # "A B परिख्खराहणेण. —A B C D E परिख्ख॰."
 
-**गणदासः—**देवपरिग्रह एव मे वृद्धिहेतुः। (विदूषकं विलोक्य) गौतम, वदेदानीं यत्ते मनसि वर्तते।
+[^166]: # "D E F अ-ओ."
 
-**विदूषकः —**⁸प्रथमोपदेशदर्शने प्रथमं ब्राह्मणस्य पूजा कर्तव्या। सा ननु वो विस्मृता!
+**गण॰।** देवीपरिग्रहश्च मे वृद्धिहेतुः। विदूषकं विलोक्य। गौतम वदेदानीं यत्ते मनसि वर्तते।
 
-**परिव्राजिका —** अहो प्रयोगाभ्यन्तरः प्रश्नः! (सर्वे प्रहसिताः। मालविका स्मितं करोति।)
+**विदूषकः।** ^(**२**)पुढमोवदेसदंसणे पुढमं[^167] बम्हणस्स पूआ[^168] इछ्छिदव्वा। सा उण वो[^169]. We according to G.") विसुमरिदा।
 
-**राजा**—( आत्मगतम् ) उपात्तसारश्चक्षुषा मे स्वविषयः। यदनेन—
+[^167]: # "A पढमो॰"
 
-स्मयमानमायताक्ष्याः किञ्चिद
+[^168]: # "B D E पूया."
 
-भिव्यक्तदशनशोभि मुखम् \।  
-असमग्रलक्ष्यकेसरमुच्छ्वसदिव पङ्कजं दृटम्॥१०॥
+[^169]: # "Our MSS. सा ण वोपलख्खिदा (=सा न व उपलक्षिता
 
-**गणदासः—** महाब्राह्मण, न खलु प्रथमं नेपथ्यदर्शनमिदम्। अन्यथा कथं त्वामर्चनीयं नार्चयिष्यामः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** दिष्ट्या परीक्षकाराधनेनार्यो वर्धते।
 
-**विदूषकः —**⁹मया नाम मुग्धचातकेनेव शुष्कघनगर्जितेऽन्तरिक्षे जलपानमिष्टम्। अथवा पण्डितसंतोषप्रत्यया ननु मूढजातिः। यतोऽत्रभवत्या शोभनं भणितं ततोऽस्यै इदं पारितोषिकं प्रयच्छामि। (इति राज्ञो हस्तात्कटकमाकर्षति।)
+**२.** प्रथमोपदेशदर्शने प्रथमं ब्राह्मणस्य पूजेष्टव्या। तस्याः पुनर्यूयं विस्मृतवन्तः।
 
-**देवी—** ¹⁰तिष्ठ तावत् \। गुणान्तरमजानन्किं निमित्तं त्वमाभरणं ददासि?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः—**¹¹परकीयमिति कृत्वा।
+**परि॰।** अहो प्रयोगाभ्यन्तरः प्रा[^170]श्निकः।
 
-**देवी—**(आचार्यं विलोक्य)¹²आर्य गणदास, दर्शितोपदेशा ते शिष्या।
+[^170]: # "F प्रयोगाभ्यन्तरप्रा॰."
 
-**गणदासः —** वत्से, प्रतिष्ठस्वेदानीम्। (मालविका सहाचार्येणनिष्क्रान्ता)
+**सर्वे।** प्रहसिताः।
 
-**विदूषकः —** (जनान्तिकम्) ¹³एतावान्मेमतिविभवो भवन्तं सेवितुम्।
+।मालविका च स्मितं करोति।
 
-**राजा—**अलमलं परिच्छेदेन। अहं हि
+**राजा।** आत्मगतम्। आत्तसारश्चक्षुषा स्वविषयः। यदनेन
 
-भाग्यास्तमयमिवाक्ष्णोर्हृदयस्य महोत्सवावसानमिव।  
-द्वारपिधानमिव धृतेर्मन्ये तस्यास्तिरस्करणीम्॥ ११॥
+**स्मयमानमायताक्ष्याः किञ्चिदभिव्यक्तदशनशोभि मुखम्।  
+असमग्रलक्ष्यकेसरमुच्छ्वसदिव पङ्कजं दृष्टम्॥११॥**
 
-**विदूषकः—**(जनान्तिकम्) ¹⁴दरिद्र इवातुरो वैद्येनौषधं दीयमानमिच्छसि। (प्रविश्य) **हरदत्तः—** मदीयमिदानीं प्रयोगमवलोकयितुं क्रियतां प्रसादः।
+**गण॰।** महाब्राह्मण न खलु नेपथ्य[^171]सङ्गीतकमिदम्। अन्यथा कथं त्वामर्चनीयं[^172] नार्चयिष्यामः।
 
-**राजा** — (आत्मगतम्) अवसितो दर्शनार्थः। (दाक्षिण्यमवलम्ब्य प्रकाशम्) ननु पर्युत्सुका एव वयम्।
+[^171]: # "B F नैपथ्य॰."
 
-**हरदत्तः**— अनुगृहीतोऽस्मि।
+[^172]: # "F दक्षणीयं for “अर्चनीयं.”"
 
-(नेपथ्ये) **वैतालिकः—**जयतु जयतु देवः! उपारूढो मध्याह्नः।तथा हि—
+**विदूषकः।** ^(**१**)मए णाम मुध्धचादएण[^173] विअ सुख्खघण[^174]गज्जिदे अन्तरिख्खे जलपाणम् इछ्छिदम्।
 
-पत्रच्छायासु हंसा मुकुलितनयना दीर्घिका पद्मिनीनां  
+[^173]: # "B °चादयेण."
+
+[^174]: # "E सुक्कघण॰."
+
+**परि॰।** एवमेव।
+
+**विदूषकः।** ^(**२**)तेण हि पण्डिद[^175]परिदोस[^176]पच्चआ मूढाजादी। जइ तत्तहोदीए[^177] सोभणं गण्हिदं[^178] तदो[^179] इमं पारितोसिअं पअछ्छामि। इति[^180] राज्ञो हस्तात्कटकमाकर्षति।
+
+[^175]: # "F पण्डिअ॰."
+
+[^176]: # "E परितोस॰."
+
+[^177]: # "E F अत्तहोदीए."
+
+[^178]: # "F भणिदं for “गण्हिदं.”"
+
+[^179]: # "B तदा for “तदो.”"
+
+[^180]: # "B F om. "
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** मया नाम मुग्धचातकेनेव शुष्कघनगर्जितेन्तरिक्षे जलपानमिष्टम्।  
+**२.** तेन हि पण्डितपरितोषप्रत्यया मूढजातिः। यद्यत्रभवत्या शोभनं गृहीतं तदिदं पारितोषिकं प्रयच्छामि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**देवी।** ^(**१**)चिठ्ठ। गुणन्तरं अआणन्तो[^181] किन्ति तुमं आहरणं देसि[^182]।
+
+[^181]: # "C अअणन्तो."
+
+[^182]: # "A B C D E अहिणन्देसि for "
+
+**विदूषकः।** ^(**२**)परकीअन्ति[^183] करिअ।
+
+[^183]: # "A परकरयन्ति ; B परे केरयन्ति; E corrects its परकेरयन्ति into पख्खोयन्ति ; C D परकेरयन्ति"
+
+**देवी।** आचार्यं विलोक्य। ^(**३**)अ[^44]ज्ज गणदास णं[^185] दंसिदोवदेसा वो सिस्सा।
+
+[^185]: # "A B C D E om. णं."
+
+**गण॰।** वत्से प्रतिष्ठस्वेदानीम्।
+
+\मालविका सहाचार्येण निष्क्रान्ता।
+
+**विदूषकः।** जनान्तिकम्। राजानं विलोक्य। ^(**४**)[एत्तिओ[^186] मे विहवो भवन्तं सेविदुम्।
+
+[^186]: # "C अत्तिओ; D यत्तिओ, E येत्तिओ."
+
+**राजा।** जनान्तिकम्। अलमलं परिच्छेदेन। अद्य हि
+
+**भाग्यास्तमयमिवाक्ष्णोर्हृदयस्य महोत्सवावसानमिव।  
+द्वारपिधानमिव धृतेर्मन्ये तस्यास्तिरस्करिणीम्[^187]॥१२॥**
+
+[^187]: # "F तिरस्करणम्."
+
+**विदूषकः।** ^(**५**)साहु तुमं दरिद्दादुरो विअ वेज्जेण उवणीअमाणम् ओसहम् इछ्छसि।
+
+**हरदत्तः।** प्रविश्य। देव मदीयमिदानीमवलोकयितुं प्रयोगं क्रियतां[^188] प्रसादः।
+
+[^188]: # "F adds इति after "
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** तिष्ठ। गुणान्तरमजानन्किमिति त्वमाभरणं ददासि।
+
+**२.** परकीयमिति कृत्वा.
+
+**३.** आर्य गणदास ननु दर्शितोपदेशा वः शिष्या।
+
+**४.** एतावान्मे विभवो भवन्तं सेवितुम्।
+
+**५.** साधु त्वं दारिद्रातुर इव वैद्येनोपनीयमानमौषधमिच्छसि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** आत्मगतम्। अवसितो दर्शनार्थः। प्रकाशम्। दाक्षिण्यमवलम्ब्य हरदत्त पर्युत्सुका एव वयम्।
+
+**हर॰।** अनुगृहीतोस्मि।
+
+॥नेपथ्ये॥
+
+**वैतालिकः।** जयतु देवः। उपारूढो मध्यमह्नः सविता[^189]। तथा हि।
+
+[^189]: # "C उपारूढो मध्यः सविता."
+
+**पत्त्रच्छायासु हंसा मुकुलितनयना दीर्घिकापद्मिनीनां  
 सौधान्यत्यर्थतापाद्वलभिपरिचयद्वेषिपारावतानि।  
-विन्दुक्षेपान्पिपासुः परिसरति शिखी भ्रान्तिमद्वारिय
+बिन्दूत्क्षेपात्पिपासुः परिपतति शिखी भ्रान्तिमद्वारियन्त्रं  
+सर्वैरुलैः समग्रैस्त्वमिव नृपगुणैर्दीप्यते सप्तसप्तिः॥१३॥**
 
-न्त्रं  
-सर्वैरु
+**विदूषकः।** ^(**१**)अवि हा[^190] अवि हा। ण्हाणभोअणवेला संवुत्ता अत्तहोदो[^191]। उइदवेलादिक्कमे चिइस्सआ[^192] दोसम् उदाहरन्ति।
 
-स्रैःसमग्रस्त्वमिव नृपगुणैर्दीप्यते सप्तसप्तिः॥१२॥
+[^190]: # "A C do not repeat "
 
-**विदूषकः—**¹⁵अविध अविध! अस्माकं पुनर्भोजनवेलोपस्थिता। उचितवेलातिक्रमे चिकित्सका दोषमुदाहरन्ति। (हरदत्तं विलोक्य) किमिदानीं भणसि?
+[^191]: # "E अत्तहोदे."
 
-**हरदत्तः**— नास्ति वचनस्यान्यस्यावकाशोऽत्र।
+[^192]: # "B C D E चिइस्सया."
 
-**राजा—** तेन हि त्वदीयमुपदेशं श्वो वयं द्रक्ष्यामः। विश्राम्यतु भवान्
+**राजा।** हरदत्त किं भणसि।
 
-(निष्क्रान्तः)
+**हर॰।** नास्त्यवकाशो मद्वचनस्य।
 
-**हरदत्तः—** यदाज्ञापयति देवः।
+**राजा।** हरदत्तं विलोक्य। तेन हि त्वदीयमुपदेशं श्वो वयं द्रक्ष्यामः। विश्राम्यतु[^193] भवान्।
 
-**देवी —** ¹⁶निर्वर्तयत्वार्यपुत्रो मज्जनविधिम्।
+[^193]: # "B D विश्रम्यतु."
 
-**विदूषकः—** ¹⁷भवति, विशेषेण पानभोजनं त्वरय।
+**हर॰।** यदाज्ञापयति देवः।
 
-**परिव्राजिका—** (उत्थाय) स्वस्ति भवते (इति सपरिजनया देव्या सह निष्क्रान्ता)
+\इति निष्क्रान्तः।
 
-**विदूषकः —**¹⁸  भो वयस्य, न केवलं रूपे, शिल्पेऽप्यद्वितीया मालविका।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अपि हा अपि हा। स्नानभोजनवेला संवृत्तात्रभवतः। उचितवेलातिक्रमे चिकित्सका दोषमुदाहरन्ति।
 
-**राजा—** वयस्य,
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-अव्याजसुन्दरीं तां विज्ञानेन ललितेन योजयता।  
-परिकल्पितो विधात्रा वाणः कामस्य विषदिग्धः॥१३॥
+**देवी।** ^(**१**)[णिवुत्तेदु[^194] अ[^108]ज्जउत्तो मझ्झणविहिम्।
 
-किं बहुना? सखे, चिन्तयितव्योऽस्मि।
+[^194]: # "A C णिवुत्तोदु; B D णिवत्तेदु, F णिव्वदेदु."
 
-**विदूषकः—** ¹⁹भवताप्यहम् \। दृढं विपणिकन्दुरिव म उदराभ्यन्तरं दह्यते।
+**विदूषकः।** ^(**२**)होदि विसेसेण पाणभोअणं तुवरेदु।
 
-**राजा—** एवमेव भवान्सुहृदर्थेऽपि त्वरताम् \।
+**परि॰।** उत्थाय। स्वस्ति भवते।
 
-**विदूषकः— ²⁰**गृहीतः क्षणः। किन्तु मेघावलीनिरुद्धा ज्योत्स्नेव पराधीन-
+\सपरिजनया देव्या सह निष्क्रान्ता।
 
-दर्शना तत्रभवती। भवानपि सूनापरिसरचर इव विहङ्ग आमिषलोलुपो भीरुकश्च। तदनातुरो भूत्वा कार्यसिद्धिं प्रार्थयमानो मे रोचसे।
+**विदूषकः।** ^(**३**)भो ण केवलं रूवे [सिप्पेवि[^196] अद्दुदीआ मालविआ।
 
-**राजा**— कथमनातुरो भविष्यामि ?
+[^196]: # "A C D E F सिप्पे अ for "
 
-सर्वान्तःपुरवनिताव्यापारप्रतिनिवृत्तहृदयस्य।  
-सा वामलोचना मे
+**राजा।**
 
-स्नेहस्यैकायनीभूता ॥१४॥
+**अव्याजसुन्दरीं तां विज्ञानेन ललितेन योजयता।  
+परिकल्पितो विधात्रा बाणः कामस्य विषदिग्धः॥१४॥**
 
-(इति निष्क्रान्ताः सर्वे)
+किं बहुना। चिन्तयितव्योस्मि।
 
-**इति द्वितीयोऽङ्कः**  
-<MISSING_FIG href="../books_images/U-IMG-1724926702Screenshot(69"/>.png)
+**विदूषकः।** ^(**४**)भवदावि अहम्। दिढं विपणिकन्दू विअ मे उदरम्भन्तरं ढज्जइ[^197]।
 
-**अथ तृतीयोऽङ्कः**
+[^197]: # "B ढढज्जई."
 
-(ततःः प्रविशति परिव्राजिकायाः परिचारिका समाहितिका)
+**राजा।** एवमेव। भवान्सुहृदर्थे त्वरताम्[^198]।
 
-**समाहितिका—**¹आज्ञप्तास्मि भगवत्या। समाहितिके, देव्या उपायनार्थं वीजपूरकं गृहीत्वागच्छेति। यावत्प्रमदवनपालिकां मधुकरिकामन्विष्यामि। एषा तपनीयाशोकमवलोकयन्ती तिष्ठति। यावदेनामुपसर्पामि।
+[^198]: # "A B C D E त्वरते."
 
-(ततः प्रविशत्युद्यानपालिका)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** निर्वर्तयत्वार्यपुत्रो मध्याह्नविधिम्।
 
-**प्रथमा**— (उपसृत्य ) ²मधुकरिके, अपि सुखस्ते उद्यानव्यापारः?
+**२.** भवति विशेषेण पानभोजनं त्वर्यताम्।
 
-**द्वितीया—**³अहो समाहितिका! सखि, स्वागतं ते।
+**३.** भो न केवलं रूपे शिल्पेप्यद्वितीया मालविका।
 
-**समाहितिका—**⁴हला, भगवती आज्ञापयति–‛अरिक्तपाणिनास्मादृशजनेन तत्र भवती देवी द्रष्टव्या। तद्वीजपूरकेण शुश्रूषयितुमिच्छामि' इति।
+**४.** भवताप्यहम्। दृढं विपणिकन्दुरिव म उदराभ्यन्तरं दह्यते।
 
-**मधुकरिका—**⁵ननु संनिहितं बीजपूरकम्। कथय तावदन्योन्यसंघर्षितयोर्नाट्याचार्चयोरुपदेशं दृष्ट्वा कतरो भगवत्या प्रशंसितः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**समाहितिका—**⁶द्वावपि किलागमिनौ प्रयोगनिपुणाौच। किन्तु शिष्यागुणविशेषेण मालविकाया उपदेशः प्रशंसितः।
+**विदूषकः।** ^(**१**)गहीदख्खणोम्[^199]हि। किं दु मेहोवरुध्ध[^200] जोण्हा[^201] विअ पराहीणदंसणा तत्तभोदी। भवंवि सूणोपरिचरो विहङ्गमो विअ आमिसलोलुवो भीरुओ अ अच्चादुरो भविअ कज्जसिध्धिं पथ्थयन्तो मे रुच्चइ।
 
-**मधुकरिका—**⁷अथ मालविकागतं कौलीनं किमिति श्रुयते?
+[^199]: # "A B C D E गहिदख्खिणो."
 
-**समाहितिका—** ⁸दृढं किल तस्यां साभिलाषो भर्ता। किंतु केवलं धारिण्याश्चित्तं रक्षन्प्रभुत्वं दर्शयति। मालविकाप्येषु दिवसेष्ट्वनुभूतमुक्तेव मालतीमाला म्लाना लक्ष्यते। अतः परं न जाने। विसृज माम्।
+[^200]: # "A B C D E मेहावरुध्ध°."
 
-**मधुकरिका—**⁹एतच्छाखावलम्बितं बीजपूरकं गृहाण।
+[^201]: # "B °जोन्हा."
 
-**समाहितिका—**¹⁰तथा। (इति ना
+**राजा।** सखे कथं नातुरो भविष्यामि। यदा
 
-ट्येन वीजपूरकं गृहीत्वा) सखि, त्वमप्यतः पेशलतरं साधुजनशुश्रूषायाः फलं प्राप्नुहि। इति स्थिता )
+**सर्वान्तःपुरवनिताव्यापार[^202]प्रतिनिवृत्तहृदयस्य।  
+सा वामलोचना मे स्नेहस्यैकायनीभूता॥१५॥**
 
-**मधुकरिका —**¹¹सखि, सममेव गच्छावः। अहमप्यस्य चिरायमाण
+[^202]: # "B C °व्यापारं."
 
-कुसुमो
+\[इति निष्क्रान्तौ[^203]।
 
-द्गमस्य तपनीयाशोकस्य दोहदनिमित्तं देव्यै विज्ञापयामि।
+[^203]: # "B इति निष्क्रान्ताः सर्वे ; E निष्कान्ताः सर्वे."
 
-**समाहितिका—**¹²युज्यते। अधिकारः खलु तव।  (इति निष्क्रान्ते)
+**॥इति द्वितीयोङ्कः॥**
 
-इति प्रवेशकः
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** गृहीतक्षणोस्मि। किं तु मेघोपरुद्धज्योत्स्नेव पराधीनदर्शना तत्रभवती। भवानपि शूनोपरिचरो विहङ्गम इवामिषलोलुपो भीरूकश्चात्यातुरो भूत्वा कार्यसिद्धिं प्रार्थयन्मे रोचते।
 
-(ततः प्रविशति कामयमानावस्था राजा विदूषकश्च )
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा—**(आत्मानं विलोक्य)
+।ततः प्रविशति परिव्राजिकायाः परिचारिका।
 
-शरीरं क्षामं स्यादसति दयितालिङ्गनसुखे  
-भवेत्सास्रंचक्षुः क्षणमपि न सा दृश्यत इति।  
+**परिचारिका।** ^(**१**)आणत्तम्हि[^204] भअवदीए। जहा समाधिमदिए[^205] देवस्स सभाअणथ्थं बीजपूरअं गेण्हिअ आ अछ्छेत्ति। ता जाव प्पमदवणपालिअं महुअरिअं[^206] अण्णेस्सामि[^207]। परिक्रम्यावलोक्य च। एसा तवणीआसोअम् ओलोअन्ती महुअरिआ[^208] चिठ्ठइ[^209]। जाव णं सम्भावेमि[^210]।
+
+[^204]: # "B अणत्तम्म्हि, A C D E अणत्तम्हि."
+
+[^205]: # "F om. 'जहा समाधिमदिए.'"
+
+[^206]: # "B महुआरिआं."
+
+[^207]: # "A B C D E अण्णेसामि."
+
+[^208]: # "A मधुअरिआ ; B महुआरिआ."
+
+[^209]: # "A चिठ्ठई."
+
+[^210]: # "B सम्भवेमि."
+
+।ततः प्रविशत्युद्यानपालिका।
+
+**प्रथमा।** उपसृत्य। ^(**२**)महुअरिए अवि सुहो[^211] for ") दे उज्जाणव्वणव्वावारो[^212]।
+
+[^211]: # "F सुविहिदो (= सुविहितः
+
+[^212]: # "B °वणवाव्वारों. —F om. °व्वण°."
+
+**द्वितीया।** ^(**३**)अम्हो समाहिमदिआ[^213] here and everywhere else throughout the work.")। सहि साअदं दे।
+
+[^213]: # "F समाहुदिआ (=समाभृतिका
+
+**समाधिमतिका।** ^(**४**)हला भअवदी आणवेदि[^214]। अरित्तपाणिणा अम्हारिस[^215]जणेण अथ्थपर[^216] दख्खि[^217]दव्वो। ता बीजपूरएण सुस्सूसिदुम् इछ्छामित्ति।
+
+[^214]: # "A आणव्वेदि."
+
+[^215]: # "B अम्मोरिस°."
+
+[^216]: # "B अथ्थपई."
+
+[^217]: # "E देख्खि°."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** आज्ञप्तास्ति भगवत्या। यथा समाधिमतिके देवस्य सभाजनार्थं बीजपूरकं गृहीत्वागच्छेति। तत्तावत्प्रमदवनपालिकां मधुकरिकामन्वेष्यामि। एषा तपनीयाशोकमालोकयन्ती मधुकरिका तिष्ठति। तावदिमां सम्भावयामि।  
+**२.** मधुकरिके अपि सुखस्त उद्यानवनव्यापारः।  
+**३.** अहो समाधिमतिका। सखि स्वागतं ते।  
+**४.** हला भगवत्याज्ञापयति। अरिक्तपाणिनास्मादृशजनेनार्थपतिर्द्रष्टव्यः। तद्बीजपूरकेण शुश्रूषितुमिच्छामीति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**मधुकरिका[^218]।** ^(**१**)णं सण्णिहिदं बीजपूरअम्। कहेहि दुवेणं सङ्गीदओवदेसणिमित्तम् अण्णोण्णसङ्घरिसिदाणं[^219] णट्टाअरिआणं[^220] उवदेंसं देख्खिअ[^221] कदरो भअवदीए पसंसिदोत्ति[^222]।
+
+[^218]: # "B C मधुकारिका."
+
+[^219]: # "A °सङ्घरिसिन्दाणं"
+
+[^220]: # "F णट्टाचारिआणं."
+
+[^221]: # "D E देख्खिय."
+
+[^222]: # "A वसंसिदोत्ति"
+
+**समाधि॰।** ^(**२**)दुवेवि किल आअमिणा पओअ[^223]णिउणा अ। किं दु सिस्सागुणविसेसेण गणदासो उण्णमिदोवदेसो[^224]।
+
+[^223]: # "F पओग°"
+
+[^224]: # "F गणदासे उण्णमिदो उवदेसो."
+
+**मधु॰।** ^(**३**)अह मालविआगअं कोलीणं किन्ति सुणीअदि।[^225]
+
+[^225]: # "A B C D E किम्पि.–for “किन्ति” A B C D E read thus :— “मधु॰। अह मालविआगअं कोलीणं किम्पि सुणीअदि। मालविआए किल साहिलासो भट्टा केवलं देवीए धारिणीए चित्तं रख्खिदुम् अहिलासदंसणे पहुत्तणं ण दंसेदि।”"
+
+**समाधि॰।** ^(**४**)बलियं खु साहिलासो तस्सिं भट्टा।[^226] केवलं देवीए[^227] धारिणीए[^228] चित्तं रख्खिदुं अहिलासदंसणे पहुत्तणं ण दंसेदि[^229]।
+
+[^226]: # "समाधि॰। बलियं ख्खु साहिलासो तस्सिं भट्टा। .......मम्।"
+
+[^227]: # "A C देविए."
+
+[^228]: # "B धारणीए."
+
+[^229]: # "F अहिलासं ण दंसेदि."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** ननु सन्निहितं बीजपूरकम्। कथय द्वयोः सङ्गीतकोपदेशनिमित्तमन्योन्यसङ्घर्षिणोर्नाव्याचार्ययोरुपदेशं दृष्ट्वा कतरो भगवत्या प्रशंसित इति।  
+**२.** द्वावपि किलागमिनौ प्रयोगनिपुणौ च। किं तु शिष्यागुणविशेषेण गणदास उन्नमितोपदेशः।  
+**३.** अथ मालविकागतं कौलीनं किमिति श्रूयते।  
+**४.** बलवत्खलु साभिलाषस्तस्यां भर्ता। केवलं देव्या धारिण्याश्चित्तं रक्षितुमभिलाषदर्शने प्रभुतां न दर्शयति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+मालविआवि इमेसु दिअहेसु अणुभूदमुत्ता विअ मालदीमाला मिलायमाणा लख्खीअदि। अदो वरं ण आणे[^230]। विसज्जेहि मं[^231]।
+
+[^230]: # "A B C D E जाणे for "
+
+[^231]: # "B मां."
+
+**मधु॰।** ^(**१**)एअं साहावलम्बिणं[^232] बीजपूरअं गेण्ह।
+
+[^232]: # "A E साहावलम्बिदं."
+
+**समाधि॰।** नाट्येन गृहीत्वा। ^(**२**)हला तुमंवि इदो विपुलदरं[^233] साहु जणसुस्सूसाए[^234] फलं लहेहि।
+
+[^233]: # "F om. इदो, and reads पेसलतरं for “विपुलदरं.”"
+
+[^234]: # "A C सुस्सुसाए."
+
+**मधु॰।** प्रस्थिता। ^(**३**)सहि समं जेव्व[^235] गछ्छामो। अहंवि इमस्स चिराअमाणकुसुमुग्गमस्स तवणीआसोअस्स[^236] दोहलणिमित्तं देवीए विण्णवेमि[^237]।
+
+[^235]: # "A B C ज्जेव, F एव्व."
+
+[^236]: # "D तवणीआहोअस्स."
+
+[^237]: # "A C देविए विणवेमि. E also reads विणवेमि."
+
+**समाधि॰।** ^(**४**)जुज्जइ। अहिआरो ख्खु[^238] तुह[^239]।
+
+[^238]: # "F om ख्खु."
+
+[^239]: # "B तुइ for "
+
+\इति निष्क्रान्ते।
+
+।प्रवेशकः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+  मालविकाप्येतेषु दिवसेष्वनुभूतमुक्तेव मालतीमाला म्लायमाना लक्ष्यते। अतः परं न जाने। विसर्जय माम्।  
+**१.** एतच्छाखावलम्बि बीजपूरकं गृहाण।  
+**२.** हला त्वमपीतो विपुलतरं साधुजनशुश्रूषायाः फलं लभस्व।  
+**३.** सखि सममेव गच्छावः। अहमप्येतस्य चिरायमाणकुसुमोद्गमस्य तपनीयाशोकस्य दोहदनिमित्तं देव्यै विज्ञापयामि।  
+**४.** युज्यते। अधिकारः खलु तव।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+।ततः प्रविशति कामयमानावस्थो राजा विदूषकश्च।
+
+**राजा।** आत्मानं विलोक्य।
+
+**शरीरं क्षामं स्यादसति दयितालिङ्गनसुखे  
+भवेत्सालं चक्षुः क्षणमपि न सा दृश्यत इति।  
 तया सारङ्गाक्ष्या त्वमसि न कदाचिद्विरहितं  
-प्रसक्ते निर्वाणे हृदय परितापं व्रजसि किम् ॥१॥
+प्रसक्ते निर्वाणे हृदय परितापं वहसि किम्॥१॥**
 
-**विदूषकः—**¹³अलं भवतो धीरतामुज्झित्वा परिदेवितेन। दृष्टा मया तत्रभवत्या मालविकायाः प्रियसखी बकुलावलिका। श्रावितोऽयमर्थो यो भवता सन्दिष्टः।
+**विदूषकः।** ^(**१**)अलं भवदो धीरदं [उझ्झिअ[^240] परिदेविएण। दिठ्ठा ख्खु मए तत्तहोदीए मालविआए प्पिअ[^241]सही बउलावलिआ। सुणाविदा अ तम् अथ्थं भवदा जो सन्दिठ्ठो।
 
-**राजा—**ततः किमुक्तवती ?
+[^240]: # "B उझ्झीअ."
 
-**विदूषकः—**¹⁴विज्ञापय। अनुगृहीतास्म्यनेन नियोगेन।किन्तु सा तपस्विनी देव्याधिकं रक्षन्त्यां नागरक्षित इव निधिर्न मुखं समासादयितव्या। तथापि घटयिष्यामि' इति।
+[^241]: # "A C D पिअ°."
 
-**राजा**— भगवन् संकल्पयोने, प्रतिबन्धवत्सु चापि विषयेष्वभिनिवेशकारी किं तथा प्रहरसि यथा जनोऽयं न कालान्तरक्षमो भवति! (सविस्मयम्)
+**राजा।** ततः किमुक्तवती।
 
-क्व रुजा हृदयप्रमाथिनी? क्व च ते विश्वसनीयमायुधम्।  
-मृदु तीक्ष्णतरं यदुच्यते, तदिदं मन्मथ दृश्यते त्वयि॥२॥
+**विदूषकः।** ^(**२**)विण्णवेहि[^242] भट्टारम्। अणुगहीदम्हि[^243] इमिणा णिओएण। किं दु सा तवस्सिणी देवीए अहिअदरं[^244] रख्खिअमाणा णाअरख्खिदो[^245] मणी विअ[^246]") ण सुहं समासादइदव्वा[^247]। तहवि घडइस्सन्ति[^248]।
 
-**विदूषकः —**¹⁵ननु भणामि तस्मिन्साधनीये कृत उपक्षेपः। पर्यवस्थापयतु भवानात्मानम्।
+[^242]: # "A विणवेहि."
 
-**राजा—**अथेमं दिवस
+[^243]: # "A B C D E अणुगेण्हिदम्हि."
 
-शेषमुचितव्यापारविमुखेन चेतसा
+[^244]: # "F सादरं for "
 
-क्वनु खलु यापयामि?
+[^245]: # "A C D णाअरखिओ."
 
-**विदूषकः—**¹⁶अद्यैव प्रथमावतारसुभगानि रक्तकुरबकाण्युपायनं प्रेष्य नववसन्तावतारव्यपदेशेनेरावल्या निपुणिकामुखेन प्रार्थितो भवान्। इच्छाम्यार्यपुत्रेण सह दोलाधिरोहणमनुभवितुमिति। भवताप्यस्यै प्रतिज्ञातम्। तत्प्रमदवनमेव गच्छावः।
+[^246]: # "A B C D वीअ. —A B C D E read विअ मणी, and add अहं ण्णिहं रण्णा (= अहर्निशम्, राज्ञा
 
-**राजा—** न क्षममिदम्।
+[^247]: # "D समासादयिदव्वा."
 
-**विदूषकः—**¹⁷कथमिव?
+[^248]: # "B घटईस्सं°."
 
-**राजा**—वयस्य, निसर्गनिपुणाः स्त्रियः। कथमन्यसंक्रान्तहृदयमुपलालयन्तमपि ते सखी न मां लक्षयिष्यति? अतःपश्यामि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अलं भवतो धीरतामुज्झित्वा परिदेवितेन। दृष्टा खलु मया तत्रभवत्या मालविकायाः प्रियसखी बकुलावलिका। श्राविता च तमर्थं भवता यः सन्दिष्टः।  
+**२.** विज्ञापय भर्तारम्। अनुगृहीतास्म्यनेन नियोगेन। किं तु सा तपस्विनी देव्याधिकतरं रक्ष्यमाणा नागरक्षितो मणिरिव न सुखं समासादयितव्या। तथापि घटिष्य इति।
 
-उचितः प्रणयो वरं विहन्तुं  
-बहवः खण्डनहेतवो हि दृष्टाः।  
-उपचारविधिर्मनस्विनीनां  
-न तु पूर्वाभ्यधिकोऽपि भावशून्यः॥३॥
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः—**¹⁸नार्हति भवानन्तःपुरप्रतिष्ठितं दाक्षिण्यमेकपदे पृष्ठतः कर्तुम्।
+**राजा।** भगवन्सङ्कल्पयोने प्रतिबन्धवत्स्वपि[^249] विषयेष्वभिनिवेश्य तथा प्रहरसि यथा जनोयं कालान्तरक्षमो न भवति। सविस्मयम्।
 
-**राजा** — (विचिन्त्य) तेन हि प्रमदवनमार्गमादेशय।
+[^249]: # "A B C D E प्रतिबन्धवस्तुष्वपि."
 
-**विदूषकः—**¹⁹इत इतो भवान्। (उभौ परिक्रामतः)²⁰एतत्प्रमदवनं पवनदरचलाभिः पल्लवाङ्गुलिभिस्त्वरयतीवभवन्तं प्रवेष्टुम्।
+**क्व रुजा हृदयप्रमाथिनी क्व च ते विश्वसनीयमायुधम्।  
+मृदुतीक्ष्णतरं यदुच्यते तदिदं मन्मथ दृश्यते त्वयि॥२॥**
 
-**राजा —**(स्पर्शसुखं रूपयित्वा ) अभिजातः खलु वसन्तः। सखे,पश्य
+**विदूषकः।** ^(**१**)णं भणामि तस्सिं साहणिज्जे कज्जे किदो उवाओवख्खेवोत्ति[^250]। ता पज्जव्वथ्थावेदु अत्ताणं तत्तभवम्।
 
-आमत्तानां श्रवणसुभगैः कूजितैः कोकिलानाम्  
-सानुक्रोशं मनसिजरुजः सह्यतां पृच्छतेव।  
-अङ्गेचूतप्रसवसुरभिर्दक्षिणो मारुतो मे  
-सान्द्रस्पर्शः करतल इव व्यापृतो माधवेन॥४॥
+[^250]: # "D उवाआवख्खेवो corrected from उवाओवख्खेवो."
 
-**विदूषकः—**²¹प्रविश निर्वृतिलाभाय। (उभौ प्रविशतः) 'अवधानेन दृष्टिं देहि। एतत्खलु भवन्तमिव विलोभयितुकामया मधुलक्ष्म्या युवतिविशेषलज्जयितृकं वसन्तकुसुमनेपथ्यं गृहीतम्।
+**राजा।** अथेमं दिवसशेषमुचितव्यापारपराङ्मुखेन चेतसा क्व नु[^251] खलु यापयामि।
 
-**राजा**— (विस्मयात्) एतदवलोकयामि।
+[^251]: # "F om. नु."
 
-रक्ताशोकरुचा विशेषितगुणो विम्वाधरालक्तकः  
+**विदूषकः।** ^(**२**)णं भवम् अज्ज एव्व वसन्दपुढमावदारसूअआणि[^252] रत्तकुरबआणि[^253] उवाअणं पेसिअ[^254] णववसन्तावदारावदेसेण इरावदीए णिउणिआमुहेण[^255] पथ्थिदो। इच्छामि[^256] अ[^257]ज्जउत्तेण सह डोलाहिरोहणम् अणुहोदुन्ति। भवदावि[^258] से पडिण्णादं[^259]। ता पमदवणं जेव्व[^260] गछ्छेम्ह[^261]।
+
+[^252]: # "B D° सुअआणि."
+
+[^253]: # "A B C D °कुरवयाणि."
+
+[^254]: # "B पेसीअ."
+
+[^255]: # "A C D णिउणीआ°."
+
+[^256]: # "Our MSS इछ्छेअं. We with G."
+
+[^257]: # "D E F अ-अ°."
+
+[^258]: # "A B C D भवदापि."
+
+[^259]: # "A पडिणादं"
+
+[^260]: # "A B C ज्जेव."
+
+[^261]: # "B D E F गछ्छम्ह."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** ननु भणामि तस्मिन्साधनीये कार्ये कृत उपायोपक्षेप इति। तत्पर्यवस्थापयत्वात्मानं तत्रभवान्।  
+**२.** ननु भवानद्यैव वसन्तप्रथमावतारसूचकानि रक्तकुरवकाण्युपायनं प्रेष्य नववसन्तावतारापदेशेनेरावत्या निपुणिकामुखेन प्रार्थितः। इच्छाम्यार्यपुत्रेण सह दोलाधिरोहणमनुभवितुमिति। भवताप्यस्यै प्रतिज्ञातम्। तत्प्रमदवनमेव गच्छावः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** न क्षममिदम्।
+
+**विदूषकः।** ^(**१**)कहं विअ।
+
+**राजा।** वयस्य निसर्गनिपुणाः स्त्रियः। कथं मामन्यसङ्क्रान्तहृदयमुपलालयन्तमपि ते सखी न लक्षयिष्यति। अतः पश्यामि
+
+**उचितः प्रणयो वरं विहन्तुं बहवः खण्डनहेतवो हि दृष्टाः।  
+उपचारविधिर्मनस्विनीनां न तु[^262] पूर्वाभ्यधिकोपि भावशून्यः॥३॥**
+
+[^262]: # "A B C E ननु for "
+
+**विदूषकः।** ^(**२**)णारुहदि[^263] भवम् अन्तेउरपडिठ्ठिदं दख्खिण्णं[^264] एक्कपदे पिठ्ठदो कादुम्।
+
+[^263]: # "A D नारुहदि."
+
+[^264]: # "E °प्पडिठ्ठिदं.—A B C D E add जणं after दख्खिणं which they read for "
+
+**राजा।** विचिन्त्य। तेन हि प्रमदवनमार्गमादेशय।
+
+**विदूषकः।** ^(**३**)इदो इदो भवम्।
+
+।उभौ परिक्रामतः।
+
+**विदूषक।** ^(**४**)वसन्दो किल एदाहिं पवणचलिदाहिं पल्लवङ्गुलीहिं तुवरेदि[^265] विअ भवन्तम् एदं पमदवणं पविसेत्ति[^266]।
+
+[^265]: # "A B C D E तुवरावेदि."
+
+[^266]: # "B प्पविसेति."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** कथमिव।  
+**२.** नार्हति भवानन्तःपुरप्रतिष्ठितं दाक्षिण्यमेकपदे पृष्ठतः कर्तुम्।  
+**३.** इत इतो भवान्।  
+**४.** वसन्तः किलैताभिः पवनचलिताभिः पल्लवाङ्गुलोभिस्त्वरयतीव भवन्तमेतत्प्रमदवनं प्रविशेति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** स्पर्शं निरूप्य[^267]। अभिजातः किल वसन्तः।
+
+[^267]: # ". F reads रूपयित्वा, and never puts नि before रूपम् used in stage-directions occurring subsequently."
+
+ सखे पश्य
+
+**आमत्तानां श्रवणसुभगैः कूजितैः कोकिलानां  
+सानुक्रोशं मनसिजरुजः सह्यतां[^268] पृच्छतेव।  
+अङ्गे चूतप्रसवसुरभिर्दक्षिणो मारुतो मे  
+सान्द्रस्पर्शः करतल इव व्यापृतो माधवेन॥४॥**
+
+[^268]: # "B सह्यते."
+
+**विदूषकः।** ^(**१**)पविस णिवु[^269]दिलाहाअ।
+
+[^269]: # "A C णिउ°."
+
+।उभौ प्रविशतः।
+
+**विदूषकः।** ^(**२**)भो वअस्स[^270] अवधाणेण[^271] दाव दिठ्ठिं देहि। एदं खु भवन्तं विलोहइदुकामाए[^272] पमदवणलछ्छीए जुवईवेसलज्जाइत्तअं[^273] वसन्तकुसुमणेवथ्थअं गहिअं[^274]।
+
+[^270]: # "A E वयस्य."
+
+[^271]: # "B. अवहाणेण."
+
+[^272]: # "A B C D E भवन्तं विअ लोहइदुकामाए."
+
+[^273]: # "A B C D E °लज्जावइत्तअं."
+
+[^274]: # "A B C D E गाहिअं."
+
+**राजा।** ननु विस्मयादवलोकयामि।
+
+**रक्ताशोकरुचा विशेषितगुणो बिम्बाधरालक्तकः  
 प्रत्याख्यातविशेषकं कुरबकं श्यामावदातारुणम्।  
-आक्रान्ता तिलकक्रिया च तिलकैर्लग्नद्विरेफाञ्जनैः  
-साव
+आक्रान्ता तिलकक्रियापि तिलकैर्लीनद्विरेफाञ्जनैः  
+सावज्ञेव मुखप्रसाधनविधौ श्रीर्माधवी योषिताम्॥५॥**
 
-ज्ञेव मुखप्रसाधनविधौ श्रीर्माधवी योषिताम्॥५॥
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** प्रविश निर्वृतिलाभाय।  
+**२.** भो वयस्य अवधानेन तावद्दृष्टिं देहि। एतत्खलु भवन्तं विलोभयितुकामया प्रमदवनलक्ष्म्या युवतिवेषलज्जयितृकं वसन्तकुसुमनेपथ्यं गृहीतम्।
 
- (उभौ नाट्येन उद्यानशोभां निर्वर्णयतः। ततः प्रविशति पर्युत्सुका मालविका)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**मालविका—**²²अविज्ञातहृदयं भर्तारमभिलषन्त्यात्मनोऽपि तावल्लजामि। कुतो विभवः स्निग्धस्य सखीजनस्येमं वृत्तान्तमाख्यातुम्। न जानेऽप्रतिकारगुरुकां वेदनां कियन्तं कालं मदनो मां नेष्यतीति। (इति कतिचित्पदानि गत्वा) आ कुत्र खलु प्रस्थितास्मि! (इति स्मृतिमभिनीय) आदिष्टास्मि देव्या! 'गौतम, चापलाद्दोलापरिभ्रष्टायाः सरुजो मम चरणः। त्वं तावद्गत्वा तपनीयाशोकस्य दोहदं निर्वर्तयेति। यद्यसौ पञ्चरात्राभ्यन्तरे कुसुमं दर्शयति, ततोऽहमभिलाषपूरयितृकं प्रसादं दास्यामि' इति। यावन्नियोगभूमिं प्रथमं गता भवामि, तावदनुपदं मम चरणालङ्कारहस्तया बकुलावलिकया गन्तव्यम्, परिदेवयिष्यामि तावद्विस्रब्धं मुहूर्तकम्। (इति परिक्रामति)
+।उभावुद्यानशोभां निर्वर्णयतः[^275]।
 
-**विदूषकः—**(दृष्ट्वा ) ²³वयस्य, एतत्खलु सीधुपानोद्वेजितस्य मत्स्यखण्डिकोपनता।
+[^275]: # "A C वर्णयतः."
 
-**राजा—** अयि, किमेतत् ?
+।ततः प्रविशति पर्युत्सुका मालविका।
 
-विदूषकः—
+**मालविका।** ^(**१**)अणभिण्णादहिअअं[^276] भट्टारं[^277] अभिलसन्दी[^278] अप्पणोवि दाव लज्जेमि। कुदो विहवो सिणिध्धअणस्स[^279] वुत्तन्तं आचख्खिदुं[^280]। ण आणे अप्पडिआर[^281]गुरुअं वेअणं केत्तिअं कालं मअणो मं णइस्सदित्ति। कतिचित्पदानि गत्वा। कहिं णु पथ्थिदम्हि। विचिन्त्य। आम सन्दिठ्ठम्हि देवीए। गोदमचावलादो डोलापरिभट्टा ण सक्कुणोमि अहं चलणे चालइदुम्। तुमं दाव तवणीआसोअस्स दोहलं णिव्वत्तेहि[^282]। जदि सो पञ्चरत्तभ्भन्तरे कुसुमं दंसेइ तदोहं–। अन्तरा निःश्वस्य। अहिलासपूरइत्तअं पसादं[^283] दाइस्सन्ति। दाव णिओअभूमिं पुढमं गदा होमि। जाव अणुपदं मह चलणालङ्कारहथ्थाए बउलावलिआए आअन्तव्वं[^284] परिदेविस्सं[^285] दाव विस्सध्धं[^286] मुहुत्तअम्।
 
-**²⁶**एषा नातिपरिचारवेषोत्सुकवदनैकाकिनी मालविकाऽदूरे वर्तते!
+[^276]: # "F अणहिण्णादं°."
 
-**राजा**— (सहर्षं) कथं मालविका ?
+[^277]: # "B भट्टास्अं"
 
-**विदूषकः**— अथ किम् \।
+[^278]: # "A B °लसन्ति."
 
-**राजा—** शक्यमिदानीम् जीवितमवलम्बितुम् \।
+[^279]: # "A B C D E add सहो between "
 
-त्वदुपलभ्य समीपगतां प्रियां  
-हृदयमु
+[^280]: # "B D E आअख्खिदुं."
 
-च्छ्वसितं मम विक्लवम्।  
+[^281]: # "D अपडियार° ; E अपडिहार.°"
+
+[^282]: # "A C D णिवत्तेहि ; E णिवट्टेहि."
+
+[^283]: # "F पदं पसादे for पसादं."
+
+[^284]: # "B इयन्तव्वं ; C D इअन्तव्वं"
+
+[^285]: # "A B C परिदेव्विसं."
+
+[^286]: # "A B C D वीसध्धं."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अनभिज्ञातहृदयं भर्तारमभिलषन्त्यात्मनोपि तावल्लज्जे। कुतो विभवः स्निग्धजनस्य वृत्तान्तमाख्यातुम्। न जानेपरिहारगुर्वों वेदनां कियन्तं कालं मदनो मां नेष्यतीति। क्व नु प्रस्थितास्मि। आं सन्दिष्टास्मि देव्या। गौतमचापलाद्दोलापरिभ्रष्टा न शक्नोम्यहं चरणौ चालयितुम्। त्वं तावत्तपनीयाशोकस्य दोहदं निर्वर्तय। यदि स पञ्चरात्राभ्यन्तरे कुसुमं दर्शयति तदाहम्—अभिलाषपूरकं प्रसादं दास्यामीति। तावन्नियोगभूमिं प्रथमं गता भवामि। यावदनुपदं मम चरणालङ्कारहस्तया बकुलावलिकयागन्तव्यं परिदेविष्ये तावद्विश्रब्धं मुहूर्तकम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+परिक्रामति।
+
+**विदूषकः।** ^(**१**)ही ही इअं सीधुपाणुव्वेजिअस्स मछ्छण्डिआ[^287] उवणदा।
+
+[^287]: # "A C D मत्सण्डिआ."
+
+**राजा।** अयि किमेतत्।
+
+**विदूषकः।** ^(**२**)एसा ख्खु णादिपज्जत्तवेसा उस्सुअवण्णा विअ एआइणी मालविआ अदूरे वट्टइ।
+
+**राजा।** सहर्षम्। कथं मालविका।
+
+**विदूषकः।** ^(**३**)अह इम्।
+
+**राजा।** शक्यमिदानीं जीवितमवलम्बितुम्।
+
+**त्वदुपलभ्य समीपगतां प्रियां  
+हृदयमुच्छ्वसितं मम विक्लवम्।  
 तरुवृतां पथिकस्य जलार्थिनः  
-सरितमारसितादिव सारसात्॥६॥
+सरितमारसितादिव सारसात्॥६॥**
 
-अथ क्व तत्रभवती ?
+अथ क्व तत्रभवती।
 
-**विदूषकः—²⁷**एषा तरुराजिमध्यान्निष्क्रान्तेत एवाभिवर्तमाना दृश्यते।
+**विदूषकः।** ^(**४**)एसा णं तरुराइमझ्झादो णिक्कन्दा[^288] इदो ज्जेव्व[^289] आअछ्छदि[^290]।
 
-**राजा—**(विलोक्य सहर्षम्) वयस्य, पश्यामि।
+[^288]: # "F णिग्गदां."
 
-विपुलं नितम्बबिम्बे मध्ये क्षामं समुन्नतं कुचयोः।  
-अत्यायतं नयनयोर्मम जीवितमेतदायाति॥७॥
+[^289]: # "D जेव्व."
 
-सखे, पूर्वस्मादतिमनोहरमवस्थान्तरमुपारूढा तत्र भवती। तथाहि—
+[^290]: # "D E F आअछ्छइ."
 
-शरकाण्डपाण्डुराण्डस्थलेयमाभाति परिमिताभरणा।  
-माधवपरिणतपत्रा कतिपयकुसुमेव कुन्दलता॥८॥
+**राजा।** वयस्य[^291] पश्याम्येनाम्।
 
-**विदूषकः—**एषापि भवानिव मदनव्याधिना परिमृष्टा भविष्यति।
+[^291]: # "A om. "
 
-**राजा—**सौहार्दमेवं पश्यति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** ही ही इयं सीधुपानोद्वेजितस्य मत्स्यण्डिकोपनता।  
+**२.** एषा खलु नातिपर्याप्तवेषोत्सुकवर्णेवैकाकिनी मालविकादूरे तिष्ठति।  
+**३.** अथ किम्।  
+**४.** एषा ननु तरुराजिमध्यान्निष्क्रान्तेत एवागच्छति।
 
-**मालविका—²⁸**अयं स सुकुमारदोहदापेक्षी अगृहीतकुसुमनेपथ्य उत्कण्ठितायां ममाशोकोऽनुकरोति। यावदस्य प्रच्छायशीतले शीतले शिलापट्टके निषण्णात्मानं विनोदयामि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः—²⁹**श्रुतं भवता ? उत्कण्ठितास्मीति तत्रभवती म
+**विपुलं नितम्बबिम्बे मध्ये क्षामं समुन्नतं कुचयोः।  
+अत्यायतं नयनयोर्मम जीवितमेतदायाति॥७॥**
 
-न्त्रयति।
+सखे पूर्वस्मादवस्थान्तरमारूढा तत्रभवती। तथा हि।
 
-**राजा—**नैतावता भवन्तं प्रसन्नतर्कं मन्ये। कुतः**—**
+**शरकाण्डपाण्डुगण्डस्थलेयमाभाति परिमिताभरणा।  
+माधवपरिणतपला कतिपयकुसुमेव कुन्दलता॥८॥**
 
-वोढा कुरबकरजसां किसलयपुटभेदशीकरानुगतः।  
-अनिमित्तोत्कण्ठामपि जनयति मनसो मलयवातः॥९॥
+**विदूषकः।** ^(**१**)एसावि भवं विअ मअणवाहिणा परिमिठ्ठा भविस्सदि।
 
-( मालविकोपविष्टा )
+**राजा।** सौहार्दमेवं पश्यति।
 
-**राजा—** सखे, इतस्तावत्। आवां लतान्तरितौ भवावः।
+**मालविका।** ^(**२**)अअं सो ललिअदोहलापेख्खी[^292] अगहीद[^293]कुसुमणेवथ्थो[^294] उक्कण्ठिदं मम् अणुकरेइ[^295] असोओ। जाव से पछ्छाअ[^296]सीअले सिलापट्टे णिसण्णा भविअ अत्ताणं विणोदेमि।
 
-**विदूषकः—³⁰**इरावतीमिवादूरे समर्थयामि।
+[^292]: # "A C D °दोहलापेखो."
 
-**राजा**— न हि कमलिनीं लब्ध्वा ग्राहमपेक्षते मतङ्गजः। ( इति विलोकयन्स्थितः )
+[^293]: # "B अग्गहीद°."
 
-**मालविका**—**³¹**हृदय, निरवलम्बनादति भूमिलङ्घिनस्ते मनोरथाद्विरम। किं मामायास्य !
+[^294]: # "A C D E °णेवछ्छो."
 
-(विदूषको राजानमवेक्षते !  
+[^295]: # "B °करेदि."
 
-**राजा—** प्रिये, पश्य वामत्वं स्नेहस्य।
+[^296]: # "F पछ्छाय°."
 
-औत्सुक्यहेतुं विवृणोषि तत्त्वं  
+**विदूषकः।** ^(**३**)सुदं भवदा उक्कण्ठिदम्हित्ति तत्तहोदीए[^297] मन्तिदम्।
+
+[^297]: # "A तत्तहोदिए. मन्ये."
+
+**राजा।** [नैतावता भवन्तं प्रसन्नतर्कं[^298] मन्ये। कुतः
+
+[^298]: # "F नैतावता [भवतः ?] प्रसन्नतर्कतां"
+
+**वोढा कुरबकरजसां किसलयपुटभेदसीकरानुगतः।  
+अनिमित्तोत्कण्ठामपि जनयति मनसो मलयवातः॥९॥**
+
+**मालविका।** उपविष्टा।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** एषापि भवानिव मदनव्याधिना परिमृष्टा भविष्यति।  
+**२.** अयं स ललितदोहदापेक्ष्यगृहीतकुसुमनेपथ्य उत्कण्ठितां मामनुकरोत्यशोकः। तावदस्य प्रच्छायशीतले शिलापट्टे निषण्णा भूत्वात्मानं विनोदयामि।  
+**३.** श्रुतं भवतोत्कण्ठितास्मीत्यत्रभवत्या मन्त्रितम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** वयस्य इतस्तावदावां लतान्तरितौ भवावः।
+
+**विदूषकः।** ^(**१**)इरावदीं विअ दूरे समथ्थेमि[^299]।
+
+[^299]: # "B समथ्थेम्हि."
+
+**राजा।** न हि कमलिनीं दृष्ट्वा ग्राहमवेक्षते मतङ्गजः। विलोकय-न्स्थिप्तः।
+
+**मालविका।** ^(**२**)हिअअ णिफ्फलादो[^300] मणोरहादो विरम। किं मं आआसअसि[^301]।
+
+[^300]: # "F णिरवलम्बादो for "
+
+[^301]: # "A C अआसअसि."
+
+**विदूषकः।** राजानमवेक्षते।
+
+**राजा।** प्रिये पश्य[^302] वामतां स्नेहस्य।
+
+[^302]: # "A B C D E read आत्ममतम् before "
+
+**औत्सुक्यहेतुं विवृणोषि न त्वं  
 तत्त्वावबोधैकरसो न तर्कः।  
-तथापि रम्भोरु करोमि लक्ष्य-  
-मात्मानमेषां परिदेवितानाम्॥१०॥
+तथापि रम्भोरु करोमि लक्ष्यम्  
+आत्मानमेषां परिदेवितानाम्॥१०॥**
 
-**विदूषकः—³²**सांप्रतं भवतो निस्संशयं भविष्यति। एषार्पितमदनसंदेशा विविक्ते एनां बकुलावलिकोपस्थिता।
+**विदूषकः।** ^(**३**)सम्पदं भअदो[^303] णिस्संसओ[^304] भविस्सदि[^305]। एसा अप्पिअमअणसन्देसा विवित्ते णं[^306] for ") बउलावलिआ उवठ्ठिदा।
 
-**राजा—**अपि स्मरेदसावस्मभ्यर्थनाम्?
+[^303]: # "E F भवदो."
 
-**विदूषकः — ³³**किमिदानीमेषा दास्या दुहिता तव गुरुकं संदेशं विस्मरति? अहं तावन्न विस्मरामि।
+[^304]: # "E णिःसंसयो ; F णिःसंसअं."
 
-(प्रविश्य चरणालङ्कार हस्ता) **बकुलावलिका—³⁴**अपि सुखं सख्याः?
+[^305]: # "A C add त्ति after "
 
-**मालविका —³⁵**अहो बकुलावलिका ! **³⁶**सखि, स्वागतं ते। उपविश।
+[^306]: # "F एआ (= एका
 
-**बकुलावलिका—** (उपविश्य) सखि, त्वमिदानीं योग्यतया नियुक्ता। तस्मादेकं चरणमुपनय। यावत्सालक्तकं सनूपुरं च करोमि।
+**राजा।** अपि[^307] स्मरेदस्मदभ्यर्थनाम्।
 
-**मालविका—**(आत्मगतम्) **³⁷**हृदय, सुखितेयालमुपस्थितोऽयं विभव इति। कथमिदानीमात्मानं मोचयेयम् अथवेदानीमेतदेव मृत्युमण्डनं मे भविष्यति।
+[^307]: # "A C अयि for "
 
-**बकुलावलिका—³⁸**किं विचारयसि? उत्सुका खल्वस्य तपनीयाशोकस्य मुकु
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** इरावतीमिव दूरे समर्थयामि।  
+**२.** हृदय निष्फलान्मनोरथाद्विरम। किं मामायासयसि।  
+**३.** साम्प्रतं भवतो निःसंशयो भविष्यति। एषार्पितमदनसन्देशा विविक्ते ननु बकुलावलिकोपस्थिता।
 
-ल देवी !
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा**—कथमशोकदोहदनिमित्तोऽयमारम्भः?
+**विदूषकः।** ^(**१**)किं दाणिं[^308] एसा दासीए सुदा दाव तुह[^309] गुरुअं सन्देसं विसुमरेदि। अहंवि दाणिं एदं[^309] ण विसुमरेमि।
 
-**विदूषकः—³⁹**किं नु खलु जानासि त्वं— 'मम कारणाद्देवी मामन्तः पुरनेपथ्येन योजयिष्यति' इति ?
+[^308]: # "A C दाणीं."
 
-**मालविका—⁴⁰**सखि, म
+[^309]: # "F om. "
 
-र्षय तावदेनम्। ( इति पादमुपहरति )
+।प्रविश्य चरणालङ्कारहस्ता बकुलावलिका।
 
-**बकुलावलिका—⁴¹**अयि शरीरमसि मे। ( इति नाट्येन चरणसंस्कारमारभते)
+**बकुलावलिका।** ^(**२**)अवि सुहं सहीए[^311]।
 
-**राजा—चरणान्तनिवेशितां प्रियायाः  
+[^311]: # "A C D सहिए."
+
+**मालविका।** ^(**३**)अम्हो बउलावलिआ उवठ्ठिआ[^312]। सहि सागदं[^313] दे। उवविस[^314]।
+
+[^312]: # "A C E उपठ्ठिआ ; B उवठ्ठिदा."
+
+[^313]: # "B स्सागदं."
+
+[^314]: # "A C D E उपविस."
+
+**बकुलावलिका।** ^(**४**)हला तुमं दाणिं[^315] दोहलकरणजोग्गदाए[^316] णिउत्ता। ता एक्कं दे चलणम् उवणेहि। जाव णं सालत्तअं सणेउरं[^317] करेमि।
+
+[^315]: # "B दाणीं."
+
+[^316]: # "F दोहलकरणे जोग्गदाए."
+
+[^317]: # "F सालत्तअणेउरं."
+
+**मालविका।** आत्मगतम्। ^(**५**)हिअअ अलं सुहिददाए अअं विहवो उवठ्ठिदोत्ति। कहं दाणिम् अत्ताणं मोएअम्। अह वा एदम् एव्व मह मिच्चुमण्डणं भविस्सदि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** किमिदानीमेषा दास्याः सुना तावत्तव गुरुं सन्देशं विस्मरति। अहमपोदानीमेतं न विस्मरामि।  
+**२.** अपि सुखं सख्याः।  
+**३.** अहो बकुलावलिकोपस्थिता। सखि स्वागतं ते। उपविश।  
+**४.** हला त्वमिदानीं दोहदकरणयोग्यतया नियुक्ता। तदेकं ते चरणमुपनय। तावदेत सालक्तकं सनूपुरं करोमि।  
+**५.** हृदय अलं सुखिततयायं विभव उपस्थित इति। कथमिदानीमात्मानं मोचयेयम्। अथ वैतदेव मम मृत्युमण्डनं भविष्यति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**बकुलावलिका।** ^(**१**)किं विआरेसि[^318]। उस्सुआ[^319] ख्खु इमस्स तवणीआसोअस्स कुसुमसमुग्गमे[^320] देवी।
+
+[^318]: # "D E विचिआरेसि."
+
+[^319]: # "DF उस्सिआ."
+
+[^320]: # "A C कुसुमग्गमे."
+
+**राजा।** कथमशोकदोहदनिमित्तोयमारम्भः।
+
+**विदूषकः।** ^(**२**)किं खु ण[^321] जाणासि अकालणादो देवी इमम् अन्तेउरणेवथ्थेण ण सञ्जोअइस्सदित्ति[^322]।
+
+[^321]: # "A B C D E insert णु after"
+
+[^322]: # "B D E सञ्जोअइासिदिति."
+
+**मालविका।** पादमुपहरति। ^(**३**)हेला मरिसेहि दाणिं[^323]।
+
+[^323]: # "A B C D E दाणीं."
+
+**बकुलावलिका।** ^(**४**)अयि सरीरंसि मे। नाट्येन चरणसंस्कारमारभते[^324]।
+
+[^324]: # "Our MSS चरणमलङ्करोति. We according to G."
+
+**राजा।**
+
+**चरणान्तनिवेशितां प्रियायाः  
 सरसां पश्य वयस्य रागरेखाम्।  
-प्रथमामिव पल्लवप्रसूर्तिं  
+प्रथमामिव पल्लवप्रसूतिं  
 हरदग्धस्य मनोभवद्रुमस्य॥११॥**
 
-**विदूषकः—⁴²**चरणानुरूपस्तत्रभवत्या अधिकार उपक्षिप्तः।
+**विदूषकः।** ^(**५**)चलणाणुरूवो[^325] ख्खु तत्तहोदीए अहिआरो[^326] उवख्खित्तो।
 
-**राजा—**सम्यगाह भवान्।
+[^325]: # "A चलणाणुरूपो."
 
-नव किसलयरागेणाग्रपादेन बाला  
-स्फुरितनखरुचा द्वौहन्तुमर्हत्यनेन।  
-अकुसुमितमशोकं दोहदापेक्षया वा  
-प्रणमितशिरसं वा कान्तमार्द्रापराधम्॥१२॥
+[^326]: # "A C अधिहारो."
 
-**विदूषकः—⁴³**प्रहरिष्यति तत्रभवती त्वामपराद्धम्।
+**राजा।** सम्यगभिहितं भवता।
 
-**राजा—**मूर्ध्ना प्रतिगृहीतं वचः सिद्धिदर्शिनो ब्राह्मणस्य।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** किं विचारयसि। उत्सुका खल्वस्य तपनीयाशोकस्य कुसुमसमुङ्गमे देवी।  
+**२.** किं खलु न जानास्यकारणाद्देवीमामन्तःपुरनेपथ्येन न संयोजयिष्यतीति।  
+**३.** हला मर्षयेदानीम्।  
+**४.** अयि शरीरमसि मे।  
+**५.** चरणानुरूपः खलु तत्रभवत्या अधिकार उपक्षिप्तः।
 
-(ततः प्रविशति युक्तमदा इरावती चेटी च )
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**इरावती—⁴⁴**चेटि निपुणिके, शृणोमि बहुशो मदः किल स्त्रींजनम्य मंण्डनमिति। अपि सत्यो लोकवादोऽयम्?
+**नवकिसलयरागेणाग्रपादेन बाला  
+स्फुरितनखरुचा द्वौ हन्तुमर्हत्यनेन।  
+अकुसुमितमशोकं दोहलापेक्षया वा  
+प्रणिहितशिरसं वा कान्तमार्द्रापराधम्॥१२॥**
 
-**निपुणिका—⁴⁵**प्रथमं लोकवाद एव।अद्य सत्यः संवृत्तः।
+**विदूषकः।** ^(**१**)पारइस्ससि अत्तहोदीए अवरध्धुम्।
 
-**इरावती—⁴⁶**संकीर्तनशंसिनालंस्नेहेन।कथय कुत इदानीमवेगन्तव्यो दोलागृहं प्रथमं गतो भर्ता न वेति!
+**राजा।** परिगृहीतं वचः सिद्धिदर्शिनो ब्राह्मणस्य।
 
-**निपुणिका—⁴⁷**भट्टिन्या अखण्डितात्प्रणयात्।
+।ततः प्रविशत्युन्मत्तवेषेरावती चेटी च।
 
-**इरावती—⁴⁸**अलं सेवया। मध्यस्थतां परिगृह्य भण।
+**इरावती।** ^(**२**)हञ्जे[^327] णिउणिए सुणामि बहुसो मदो किल इथ्थिआजणस्स विसेसमण्डणन्ति। अवि[^328] सच्चो लोअवादो।
 
-**निपुणिका—** ^(**49**)वसन्तोपायनलोलुपेनार्यगौतमेन कथितम्। त्वरतां भट्टिनी।
+[^327]: # "A हञ्ज."
 
-**इरावती —**(अवस्थासदृशं परिक्रम्य ) ⁵⁰चेटि, मदेन क्लाम्यमानमात्नानमार्य— पुत्रदर्शने हृदयं त्वरयति। चरणों पुनर्न मम प्रसरतः।
+[^328]: # "F अअं for "
 
-**निपुणिका—⁵¹**ननु प्राप्ते स्वो दोलागृहम्।
+**निपुणिका।** ^(**३**)पुढमं लोअवादो एव्व। अज्ज सच्चो संवुत्तो[^329]।
 
-**इरावती — ⁵²**निपुणिके, आर्यपुत्रोऽत्र न दृश्यते।
+[^329]: # "D सम्उत्तो."
 
-**निपुणिका—⁵³**भट्टिन्यवलोकयतु। परिहासनिमित्तं कुत्राप्यदृष्टेन भर्त्रा भवितव्यम्। इमं प्रियङ्गुलतापरिक्षिप्तमशोकशिलापत्रं प्रविशावः।
+**इरावती।** ^(**४**)अलं सिणेहभणिदेण। कुदो दाणिं[^315] अवगदं[^331] डोलाघरअं पुढमं गदो भट्टेत्ति।
 
-**इरावती—⁵⁴**तथा।
+[^331]: # "A B C D E वुत्तन्तो आगमिदो for "
 
-**निपुणिका—** (विलोक्य) **⁵⁵**अवलोकयतु भट्टिनी। चूताङ्कुरं विचिन्वत्योः पिपीलिका
+**निपुणिका।** ^(**५**)भट्टिणीए अखण्डिदादो पणआदो[^332]।
 
-भिर्दष्टम्।
+[^332]: # "B पणयादो; E पणअदो."
 
-**इरावती —⁵⁶**कथमिव?
+**इरावती।** ^(**६**)अलं सेवाए। मझ्झथ्थदं गेण्हिअ भणाहि।
 
-**निपुणिका— ⁵⁷**एषाशोकपादपच्छायायां मालविकाया बकुलावलिका चरणालङ्कारं निर्वर्तयति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** पारयिष्यस्यत्रभवत्या अपराद्धुम्।  
+**२.** हञ्जे निपुणिके शृणोमि बहुशो मदः किल स्त्रीजनस्यविशेषमण्डनमिति। अपि सत्यो लोकवादः।  
+**३.** प्रथमं लोकवाद एव। अद्य सत्यः संवृत्तः।  
+**४.** अलं स्नेहभणितेन। कुत इदानीमवगतं दोलागृहं प्रथमं गवो भर्तेति।**५.** भट्टिन्या अखण्डितात्प्रणयात्।  
+**६.** अलं सेवया। मध्यस्थतां गृहीत्वा मण।
 
-**इरावती—**(शङ्कां रूपयित्वा)** ⁵⁸**अभू
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-मिरियं मालविकायाः। कथमत्र तर्कयसि?
+**निपुणिका।** ^(**१**)वसन्दोवाअणलोलुवेण अ[^333]ज्जगोदमेण कहिदम्। तुवरदु[^334] भट्टिणी।
 
-**निपुणिका—**^(**59**)तर्कयामि दोलापरिभ्रष्टया सरुजचरणया देव्याशोकदोहदा
+[^333]: # "D E F अ=अ."
 
-धिकारे मालविका नियुक्तेति। अन्यथा कथं देवी स्वयंधारितं नूपुरयुगुलं परिजनस्याभ्यनुज्ञास्यति !
+[^334]: # "A तुवराइदु ; C तुवरइदु corrected from an original तुवराइदु."
 
-**इरावती —⁶⁰**महती खल्वस्याः संभावना।
+**इरावती।** अवस्थासदृशं परिक्रम्य। ^(**२**)हला मदेण मिलाअमाणं अत्ताणं[^335] अज्ज[^336]उत्तदंसणे हिअअं तुवरेदि। चलणा उण ण मग्गे पसरन्दि।
 
-**निपुणिका —⁶¹**किमन्विष्यते भर्ता ?
+[^335]: # "A आत्ताणं."
 
-**इरावती—⁶²**सखि, न मे चरणावन्यतः प्रवर्तते। मदो मां विकारयति। आशङ्कितस्य तावदन्तं गमिष्यामि। (इतिमालविकां निर्वर्ण्य, आत्मगतम्) स्थाने खलु कातरं मे हृदयम्।
+[^336]: # "D E F अ=अ°."
 
-**बकुलावलिका—**(मालविकायै चरणं दर्शयन्ती ) ^(**63**)अपि रोचते. ते रागरेखाविन्यासः ?
+**निपुणिका।** ^(**३**)णं पत्तम्ह[^337] डोलाघरअम्।
 
-**मालविका—⁶⁴**सखि, आत्मनश्चरण इति लज्जे एनं प्रशंसितुम्। तेन प्रसाधनकलायाममिविनीतासि।
+[^337]: # "B पतम्ह."
 
-**बकुलावलिका—⁶⁵**अत्राहं भर्तुः शिष्यास्मि।
+**इरावती।** ^(**४**)णिउणिए ण उण एथ्थ[^338] अ[^336]ज्जउत्तो दीसइ[^340]।
 
-**विदूषकः**—**⁶⁶**त्वरय तावदेनां गुरुदक्षिणायै।
+[^338]: # "A C एथ्थं."
 
-**मालविका—⁶⁷** दिष्ट्या न गर्वितासि।
+[^340]: # "F दिसइ."
 
-**बकुलावलिका—⁶⁸**उपदेशानुरूपौ चरणौ लब्ध द्य तावद्भर्विता भविष्यामि। (रागं विलोक्य, आत्मगतम्) हन्त, सिद्धं मे दूत्यम्! (प्रकाशम्) सखि, एकस्य ते चरणस्यावमितो रागनिक्षेपः। केवलं मुखमारुतो लम्भयितव्यः। अथवा प्रवत्तमेतत्स्थानम्।
+**निपुणिका।** ^(**५**)ओलोएदु[^341]। भट्टिणीए परिहासणिमित्तं कहिंवि गुम्मे गूढेण[^342] भट्टिणा होदव्वम्। अम्हेवि इमं पिअङ्गुलदापरिख्खित्तं[^343] असोअसिलापट्टअं पविस्सम्ह[^344]।
 
-**राजा—**सखे, पश्य।
+[^341]: # "A C आलोयदु."
 
-आर्द्रालक्तकमस्याश्चरणं मुखमारुतेन वीजयितुम्।  
-प्रतिपन्नः प्रथमतरः संप्रति सेवावकाशो मे॥१३॥
+[^342]: # "E गूढे for "
 
-**विदूषकः— ⁶⁹**कुतस्तेऽनुशयः?चिरं भवता एतत्क्रमेणानुभवितत्र्यम्।
+[^343]: # "A B C °परिख्खित्ते."
 
-**बकुलावलिका—⁷⁰**सखि, अरुणशतपत्रमिव शोभते ते चरणम्। सर्वथा भर्तुरङ्कपरिवर्तिनी भव। ( इरावती निपुणिकामपेक्षते)
+[^344]: # "B पविसम्ह."
 
-**राजा—**ममेयमाशीः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** वसन्तोपायनलोलुपेनार्यगौतमेन कथितम्। त्वरतां भट्टिनी।  
+**२.** हला मदेन म्लायन्तमात्मानमार्यपुत्रदर्शने हृदयं त्वरते। चरणौ पुनर्न मार्गे प्रसरतः।  
+**३.** ननु प्राप्ते स्वो दोलागृहकम्।  
+**४.** निपुणिके न पुनरत्रार्यपुत्रो दृश्यते।  
+**५.** अवलोक्यताम्। भट्टिन्याः परिहासनिमित्तं कुत्रापि गुल्मे गूढेन भर्त्रा भवितव्यम्। आवामपीमं प्रियङ्गुलतापरिक्षिप्तमशोकशिलापट्टकं प्रविशावः।
 
-**मालविका—⁷¹**मा अवचनीयं मन्त्रयस्व।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+5. A E have each their original ओसज्जन्ति corrected into ओसप्पन्ति ; B C D ओसज्जन्ति (=अवसज्जन्ति).
 
-**बकुलावलिका—⁷²**मया मन्त्रयितव्यमेव मन्त्रितम्।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**मालविका—**^(**73**) प्रिया खल्वहं तव?
+**इरावती।** तथा करोति।
 
-**बकुलावलिका—⁷⁴**न केवलं मम।
+**निपुणिका।** परिक्रम्य विलोक्य। ^(**१**)ओलोअदु[^345] भट्टिणी। चुदङ्कुरं विचिण्णन्दीणं[^346] अम्हाणं पिपीलिआदंसणं[^347] ; F- पिपोलीआ°.")।
 
-**मालविका—**⁷⁵कस्य खल्वन्यस्य?
+[^345]: # "B आलोअदु."
 
-**बकुलावलिका—**^(**76**) गुणेष्व
+[^346]: # "A C D विचिण्णन्दाणं; B विचिणन्दीणं; F विउण्णन्तीणं."
 
-भिनिवेशिनो भर्तुरपि।
+[^347]: # "A पिपीलाआ°; B पिप्पलिआ° ; C पिपालआ° (पिपीलआ° ?
 
-**मालविका—⁷⁷**अलीकं मन्त्रयसे। एतदेव मयि नास्ति।
+**इरावती।** ^(**२**)किं विअ एदम्।
 
-**बकुलावलिका**—**⁷⁸**सत्यं त्वयि नास्ति। भर्तुः कृशेषु वरपाण्डुरेषु दृश्यतेऽङ्गेषु।
+**निपुणिका।** ^(**३**)एसा असोअपाअवछ्छाआअं मालविआए बउलावलिआ चलणालङ्कारं णिव्वट्टेइं[^348]।
 
-**निपुणिका—⁷⁹**प्रथमं गुणितमिव हताशाया उत्तरम्।
+[^348]: # "A C णिवट्टइ ; D णिवट्टेइ ; E णिवठ्ठेइ."
 
-**बकुलावलिका—**^(**80**) अनुरागोऽनुरागेण प्रत्येष्टव्य इति सुजनवचनं प्रमाणीकुरु।
+**इरावती।** शङ्कां रूपयित्वा। ^(**४**)अभूमि इअं मालविआए। किं तक्केसि।
 
-**मालविका—⁸¹**किमात्मनश्छन्देन मन्त्रयसे ?
+**निपुणिका।** ^(**५**)तक्केमि[^349] डोलापरिभ्भट्टचलणाए देवीए असोअदोहलाहिआरे मालविआ णिउत्तेत्ति[^350]। अण्णहा कहं देवी सअं धारिदं[^351] एदं णेउरजुअलं परिअणस्स[^352] अभ्भणु[^353]जाणिस्सदि।
 
-**बकुलावलिका— ⁸²**नहि नहि। भर्तुः खल्वेतानि प्रणयमृदुकान्यक्षराणि वक्त्रन्तरितानि।
+[^349]: # "C तक्कसि."
 
-**मालविका—⁸³**सखि, देवीं चिन्तयित्वा न मे हृदयं विश्वसिति।
+[^350]: # "E णिव्वुत्तेति."
 
-**बकुलावलिका —⁸⁴**मुग्धे, भ्रमरसंपातो भविष्यतीति वसन्तावतारसर्वस्वः किं न चूनप्रसवोऽवतंसयितव्यः?
+[^351]: # "B D E धारीदं."
 
-**मालविका—⁸⁵**त्वं तावद्दुजीतेऽत्यन्तं सहाया भव।
+[^352]: # "A अरीअण्णस्स ; B अरीअणस्स."
 
-**बकुलावलिका—⁸⁶**विमर्दसुर
+[^353]: # "B D अभ्भण्णु°."
 
-भिर्बकुलावलि
+**इरावती।** ^(**६**)महदी ख्खु से[^354] सम्भावणा।
 
-का खल्वहम्?
+[^354]: # "A C मे for "
 
-**राजा—**साधु बकुलावलिके, साधु।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अवलोकयतु भट्टिनी। चूताङ्कुरं विचिन्वत्योरावयोः पिपीलिकादंशनम्।  
+**२.** किमिवैतत्।  
+**३.** एषाशोकपादपच्छायायां मालविकाया बकुलावलिका चरणालङ्कारं निर्वर्तयति।  
+**४.** अभूमिरियं मालविकायाः। किं तर्कयसि।  
+**५.** तर्कयामि दोलापरिभ्रष्टचरणया देव्याशोकदोहदाधिकारे मालविका नियुक्तेति। अन्यथा कथं देवी स्वयं धारितमेतन्नूपुरयुगुलं परिजनस्याभ्यनुज्ञास्यति।  
+**६.** महती खल्वस्याः सम्भावना।
 
-भावज्ञानानन्तरं प्रस्तुतेन  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**निपुणिका।** ^(**१**)किं ण अण्णेसीअदि[^355] भट्टा।
+
+[^355]: # "B अण्णेसिअदि."
+
+**इरावती।** ^(**२**)हञ्जे मे चलणा अग्गदो ण पवट्टन्ति। मणो मह[^356] विआरेदि। आसङ्किदस्स दाव अन्तं गमिस्सम्। मालविकां निर्वर्ण्य। आत्मगतम्। ठाणे ख्खु कादरं मे हिअअम्।
+
+[^356]: # "A C D E F मम for "
+
+**बकुलावलिका।** चरणं दर्शयन्ती। ^(**३**)अवि[^357] रोआदि दे अअं[^358] चलणराअरेहाविण्णासो[^359]।
+
+[^357]: # "A अपि for "
+
+[^358]: # "C अअं दे instead of “दे अअं.”— A adds another दे after "
+
+[^359]: # "A C °रेहविणासो."
+
+**मालविका।** ^(**४**)हला अत्तणो चलणङ्गदन्ति[^360] लज्जेमि पसंसिदुम्। कहेहि केण सिप्पसाहणकलाअं[^361] अहिविणीदासि।
+
+[^360]: # "A चलणगदं."
+
+[^361]: # "A B C D E °कलां."
+
+**बकुलावलिका।** ^(**५**)एथ्थ[^362] ख्खु[^363] भट्टिणो सिस्सम्हि।
+
+[^362]: # "B एथ्थं"
+
+[^363]: # "A C om. "
+
+**विदूषकः।** ^(**६**)तुवरेहि दाणिं[^364] गुरुदख्खिणाए।
+
+[^364]: # "F inserts दाव before "
+
+**मालविका।** ^(**७**)दिठ्ठिआ ण गव्विदासि[^365]।
+
+[^365]: # "A C D गव्विदासी ; B गविदासी."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** किं नान्विष्यते भर्ता।  
+**२.** हञ्जे मे चरणावग्रतो न प्रवर्तेते। मनो मम विक्रियते। आशङ्कितस्य तावदन्तं गमिष्यामि। स्थाने खलु कातरं मे हृदयम्।  
+**३.** अपि रोचते तेयं चरणरागरेखाविन्यासः।  
+**४.** हला आत्मनश्चरणगतमिति लज्जे प्रशंसितुम्। कथय केन शिल्पसाधनकलायामभिविनीतासि।  
+**५.** अत्र खलु भर्तुः शिष्यास्मि।  
+**६.** त्वरस्वेदानीं गुरुदक्षिणायै।  
+**७.** दिष्ट्या न गर्वितासि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**बकुलावलिका।** ^(**१**)उवदेसाणुरूवे चलणे लम्भिअ दाणिं गव्विदा भविस्सम्। रागं विलोक्य। आत्मगतम्। सिध्धं मे दौच्चम्। प्रकाशम्। सहि एकस्स[^366] दे चलणस्स अवसिदो राअणिख्खेवो। केवलं मुहमारुदो लम्भइदव्वो। अह वा पवादो एव्व अअं पएसो[^367].")।
+
+[^366]: # "A B C एक्कस्स."
+
+[^367]: # "B पवेसो (पदेसो ?
+
+**राजा।** सखे पश्य पश्य।
+
+**आर्द्रालक्तकमस्याश्चरणं मुखमारुतेन वीजयितुम्[^368]।  
+प्रतिपन्नः प्रथमतरः सम्प्रति सेवावकाशो मे॥१३॥**
+
+[^368]: # "F वीजयतः."
+
+**विदूषकः।** ^(**२**)कुदो दे अणुसओ। चिरं भवदा एदम् अणुहोदव्वं अचिरेण[^369] for “अचिरेण.” we ccording to G")।
+
+[^369]: # "Our MSS. कमेण (=क्रमेण
+
+**बकुलावलिका।** **^(३)**अरुणसदपत्तं विअ सोहदि दे चलणो। सव्वहा भट्टिणो अङ्कपरिवट्टिणी होहि।
+
+**इरावती।** निपुणिकामुखमवेक्षते।
+
+**राजा।** ममेयमाशीः।
+
+**मालविका।** ^(**४**)हला अवचणीअं मन्तेसि।
+
+**बकुलावलिका।** ^(**५**)मन्तिदव्वम् एव्व मए मन्तिदम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** उपदेशानुरूपौ चरणौ लब्ध्वेदानीं गर्विता भविष्यामि। सिद्धं मे दौत्यम्। सखि एकस्य ते चरणस्यावसितो रागनिक्षेपः। केवलं मुखमारुतो लम्भयितव्यः। अथ वा प्रवात एवायं प्रदेशः।  
+**२.** कुतस्तेनुशयः। चिरं भवतैतदनुभवितव्यमचिरेण।  
+**३.** अरुणशतपन्त्रमिव शोभते ते चरणः। सर्वथा भर्तुरङ्कपरिवर्तिनी भव।  
+**४.** हला अवचनीयं मन्त्रयसि।  
+**५.** मन्त्रयितव्यमेव मया मन्त्रितम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**मालविका**। ^(**१**)पिआ ख्खु अहं तुह[^370]।
+
+[^370]: # "A तुव for "
+
+**बकुलावलिका।** ^(**२**)ण केवलं मह[^371]।
+
+[^371]: # "A C D E मम for "
+
+**मालविका।** ^(**३**)कस्स वा अण्णस्स।
+
+**बकुलावलिका।** ^(**४**)गुणेसु अहिणिवेसिणो भट्टिणोवि।
+
+**मालविका।** ^(**५**)अलीअं मन्तेसि। एदम् एव्व मइ[^372] मह ण होन्दि for “एदं &c. ; A B C also एदे for “एदं” —A C मई.") णथ्थि।
+
+[^372]: # " E has एदे एवं (एव्व ?
+
+**बकुलावलिका।** ^(**६**)सच्चं तुइ णथ्थि[^373]। भट्टिणो किसेसु ईसि[^374]परिपण्डरेसु अङ्गेसु दीसइ[^375]।
+
+[^373]: # "E ण होन्दि for "
+
+[^374]: # "B इसि°."
+
+[^375]: # "—E दीसन्दि॰."
+
+**निपुणिका।** ^(**७**)पुढमं भणिदं विअ[^376] हदासाए उत्तरम्।
+
+[^376]: # " B C D put the speech “पुढमं” &c. in the mouth of Nipuṇikâ; A and E also originally assigned it to the same, character, but they afterwards correct themselves so as to give it to Mâlavikâ.— F पुडमभणिदं विअ."
+
+**बकुलावलिका।** ^(**८**)अणुराओ अणुराएण पडिख्खिदव्वोत्ति[^377]") सुजणचरिदं पमाणी[^378]करेहि।
+
+[^377]: # "F पडिछ्छिदव्वो (=परिच्छेत्तव्यः
+
+[^378]: # "A पमाणि°."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** प्रिया खल्वहं तव।  
+**२.** न केवलं मम।  
+**३.** कस्य वान्यस्य।  
+**४.** गुणेष्वभिनिवेशिनो भर्तुरपि।  
+**५.** अलीकं मन्त्रयसि। एतदेव मयि नास्ति।  
+**६.** सत्यं त्वयि नास्ति। भर्तुः कृशेष्वीषत्परिपाण्डुरेष्वङ्गेषु दृश्यते।  
+**७.** प्रथमं भणितमिव हताशाया उत्तरम्।  
+**८.** अनुरागोनुरागेण परीक्षितव्य इति सुजनचरितं पमाणीकुरु।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**मालविका।** ^(**१**)किम् अप्पणो छन्देण[^379] मन्तेसि।
+
+[^379]: # "D छन्देन."
+
+**बकुलावलिका।** ^(**२**)ण हि। भट्टिणो एदाइं[^380] पणअमआइम् अख्खराइं बिम्बन्तरिदाइम्।
+
+[^380]: # "A B C D एदाई."
+
+**मालविका।** ^(**३**)हला देविं विचिन्तिअ[^381] ण मे हिअअस्स पहविस्सम्।
+
+[^381]: # "B विचिन्तीअ; C विचिन्दिअ."
+
+**बकुलावलिका।** **^(४)**मुध्धे भमरसम्बध्धोत्ति[^382] वसन्दावदारसव्वस्सो[^383] ण चूदपल्लवो किम् ओदंसइदव्वो।
+
+[^382]: # "Our MSS. भमरसम्पादोत्ति. We with G."
+
+[^383]: # "A C D E °सव्वस्सं."
+
+**मालविका।** ^(**५**)तुमं दाव दुज्जादे मे अच्चन्तसाहाइणी[^384] होहि।
+
+[^384]: # "A B C D °साहाहिणी."
+
+**बकुलावलिका।** ^(**६**)विमद्दसुरही[^385] बउलावलिआ ख्खु अहम्।
+
+[^385]: # "A B C D E °सुरहि."
+
+**राजा।** साधु बकुलावलिके साधु।
+
+**भावज्ञानानन्तरं प्रस्तुतेन  
 प्रत्याख्याने दत्तयुक्तोत्तरेण।  
 वाक्येनेयं स्थापिता स्वे निदेशे  
-स्थाने प्राणाः कामिनां दूत्यधीनाः॥१४॥
+स्थाने प्राणाः कामिनां दूत्यधीनाः॥१४॥**
 
-**इरावती —⁸⁷**पश्य। कारितमेव बकुलावलिकर्यैतत्पदं मालविकायाः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** किमात्मनश्छन्देन मन्त्रयसि।  
+**२.** न हि। भर्तुरेतानि प्रणयमयान्यक्षराणि बिम्बान्तरितानि।  
+**३.** हला देवीं विचिन्त्य न मे हृदयस्य प्रभविष्यामि।  
+**४.** मुग्धे भ्रमरसम्बद्ध इति वसन्तावतारसर्वस्वो न चूतपल्लवः किमवतंसयितव्यः।  
+**५.** त्वं तावद्दुर्जाते मेत्यन्तसाहाय्यकारिणी भव।  
+**६.** विमर्दसुरभिर्बकुलावलिका खल्वहम्।
 
-**निपुणिका— ⁸⁸**भट्टिनि, अधिकारस्योचित उपदेशः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**इरावती—⁸⁹**स्थाने खलु शङ्कितं मे हृदयम्। गृहीतार्थानन्तरं चिन्तयिष्यामि।
+**इरावती।** ^(**१**)हञ्जे पेख्ख[^386]। कारिदम् एव्व बउलावलिआए मालविआए पदम्।
 
-**बकुलावलिका—⁹⁰**एष द्वितीयोपि ते निर्वृत्तपरिकर्मा चरणः। यावदेनं सनूपुरं करोमि। (इति नाट्येन नूपुरयुगलमामुच्य) हला, उत्तिष्ठ। अशोकविकासवितृकं देव्या नियोगमनुतिष्ट।
+[^386]: # "A B C D देख्ख for "
 
-**इरावती—⁹¹**श्रुतो देव्या नियोगः। भवत्विदानीम्।
+**निपुणिका।** ^(**२**)भट्टिणी[^387] णिव्वि[^388]आरस्सवि उस्सुअत्तण[^389]ज्जणओ उवदेसो।
 
-(उभे उत्तिष्ठतः )  
+[^387]: # "F भट्टिणि."
 
-**बकुलावलिका —⁹²**एष उपारूढराग उपभोगक्षमः पुरतस्ते वर्तते।
+[^388]: # "A निव्वि°."
 
-**मालविका—**सहर्षम् ) **⁹³**किं भर्ता
+[^389]: # "A B C D E omit °त्तण°."
 
-**बकुलावलिका**— (सस्मितम् ) **⁹⁴**न तावद्भर्ता। एषोऽशोकशाखावलम्बीपल्लवगुच्छः। अवतंसयैनम्।
+**हरावती।** ^(**३**)ठाणे[^390] ख्खु सङ्किदं मे हिअअम्। गहीद[^391]थ्था अणन्तरं चिन्तइस्सम्।
 
-**विदूषक—⁹⁵**श्रुतं भवता?
+[^390]: # "B ठ्ठाणे."
 
-**राजा—**सखे, पर्याप्तमेतावता कामिनाम्।
+[^391]: # "A C E गहिद°."
 
-अनातुरोत्कण्ठितयोः प्रसिद्धयता  
+**बकुलावलिका।** ^(**४**)एसो दे दुदीओवि[^392] समत्तपडिकम्मो चलणो। जाव दुवेवि सणेउरा करेमि। नाट्येन नूपुरयुगुल[^393]मामुच्य। हला उठ्ठेहि। अणुचिठ्ठ देवीए दाणिं[^394] असोअविआसइत्तअं णिओअम्।
+
+[^392]: # "D E दुदीयो°."
+
+[^393]: # "E °युगल°."
+
+[^394]: # "A C दाणीं; F omits it altogether."
+
+।उभे उत्तिष्ठतः[^395]।
+
+[^395]: # "B तिष्ठतः."
+
+**इरावती।** ^(**५**)सुदो देवीए णिओओत्ति। होदु दाणिम्।
+
+**बकुलावलिका।** ^(**६**)एसो उवारूढराओ उवभोअख्खमो दे पुरदो वट्टइ।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** हञ्जे प्रेक्षस्व। कारितमेव बकुलावलिकया मालविकया पदम्।  
+**२.** भट्टिनि निर्विकारस्याप्यौत्सुक्यजनक उपदेशः।  
+**३.** स्थाने खलु शङ्कितं मे हृदयम्। गृहीतार्थानन्तरं चिन्तयिष्यामि।  
+**४.** एष ते द्वितीयोपि समाप्तप्रतिकर्मा चरणः। तावद्द्वावपि सनूपुरौ करोमि। हला उत्तिष्ठ। अनुतिष्ठ देव्या इदानीमशोकविकाशयितृकं नियोगम्।  
+**५.** श्रुतो देव्या नियोग इति। भवत्विदानीम्।  
+**६.** एष उपारूढराग उपभोगक्षमस्ते पुरतो वर्तते।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**मालविका।** सहर्षम्। ^(**१**)किं भट्टा।
+
+**बकुलावलिका।** सस्मितम्। ^(**२**)ण दाव भट्टा। एसो असोअसाहावलम्बी पल्लवगुछ्छो। ओदंसेहि णम्।
+
+**विदूषकः।** ^(**३**)अवि[^396] सुदं भवदा।
+
+[^396]: # "E omits “अवि.”"
+
+**राजा।** पर्याप्तमेतावता कामिनाम्।
+
+**अनादरोत्कण्ठितयोः प्रसिध्यता  
 समागमेनापि रतिर्न मां प्रति।  
 परस्परप्राप्तिनिराशयोर्वरं  
-शरीरनाशोऽपि समानुरागयोः॥१५॥
+शरीरनाशोपि समानुरागयोः[^397]॥१५॥**
 
-( मालविका रचितपल्लवावतंसा पादमशोकाय प्रहिणोति )
+[^397]: # "A F समानरागयोः"
 
-**राजा—** वयस्य,
+**मालविका।** रचितपल्लवावतंसा सलीलमशोक[^398]ताडनाय पादं प्रहिणोति।
 
-आदाय कर्णकिसलयमस्मादियमत्र चरणमर्पयति।  
-उभयोः सदृशविनिमयादात्मानं वञ्चितं मन्ये॥१६॥  
+[^398]: # "Our MSS. अशोकाय. We according to G."
 
-**बकुलावलिका—⁹⁶**सखि, नास्ति ते दोषः। निर्गुणोऽयमशोको यदि कुसमोद्गममन्थरो भवेत्, यस्ते चरणसत्कारे लब्ध्वा
+**राजा।** वयस्य पश्य[^399]।
 
-राजा—
+[^399]: # "F omits पश्य."
 
-अनेन तनुमध्यया मुखरनूपुराराविणा  
-नवाम्बुरुहकोमलेन चरणेन संभावितः।  
-अशोक यदि सद्य एव मुकुलैर्न संपत्स्यसे  
-वृथा वहसि दोहदं ललितका
+**आदाय कर्णकिसलयमस्मादियमत्र चरणमर्पयति।  
+उभयोः सदृशविनिमयादात्मानं वञ्चितं मन्ये॥१६॥**
 
-मिसाधारणम्॥१७॥
+**बकुलावलिका।** ^(**४**)हला णथ्थि दे दोसो अगुणो अअम् असोओ जइ[^400] कुसुमसमुभ्भेदमन्थरो[^401] भवे। जो ईरिसं चलणसक्कारं लहेइ[^402]।
 
-सखे, वचनानुसरणपूर्वकं प्रवेष्टुमिच्छामि।
+[^400]: # "A C जई."
 
-**विदूषकः**—**⁹⁷**एहि। एनां परिहासयिष्यामि।
+[^401]: # "F °मन्धरो."
 
-(उभौ प्रवेशं कुरुतः)
+[^402]: # "A B C D E लहेयि."
 
-**निपुणिका—⁹⁸**भट्टिनि, भट्टिनि भर्तात्र प्रविशति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** किं भर्ता।  
+**२.** न तावद्भर्ता। एषोशोकशाखावलम्बी पल्लवगुच्छः। अवतंसयैनम्।**३.** अपि श्रुतं भवता।  
+**४.** हला नास्ति ते दोषः अगुणोयमशोको यदि कुसुमसमुद्वेदमन्थरो भवेत्। य ईदृशं चरणसत्कारं लभते।
 
-**इरावती —⁹⁹**एवं प्रथमं मम चिन्तितं हृदयेन।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः—**( उपेत्य**¹⁰⁰**युक्तं नाम अत्रभवतः प्रियवयस्योऽयमशोकः एनं वामपादेन ताडयितुम् ?
+**राजा।**
 
-**उभे—**(ससंभ्रमम्) **¹⁰¹**अहो भर्ता!
+**अनेन तनुमध्यया मुखरनूपुराराविणा  
+नवाम्बुरुहकोमलेन चरणेन सम्भावितः।  
+अशोक यदि सद्य एव कुसुमैर्न सम्पत्स्यसे  
+वृथा वहसि दोहलं ललितकामिसाधारणम्॥१६॥**
 
-**विदूषकः—**¹⁰²बकुलावलिके, गृहीतार्थया त्वयात्रभवतीदृशमविनयं कुर्वती कस्मान्न निवारिता?
+सखे वचनावसरपूर्वकं प्रवेष्टुमिच्छामि।
 
-( मालविका भयं रूपयति )
+**विदूषकः।** ^(**१**)एहि णं परिहासइस्सं[^403]।
 
-**निपुणिका—**¹⁰³भट्टिनि, पश्य किं प्रवृत्तमार्यगौतमेन।
+[^403]: # "B परिहासईस्सं."
 
-**इरावती— ¹⁰⁴**कथं खलु ब्रह्मबन्धुरन्यथा भवति!
+।उभौ प्रवेशं कुरुतः।
 
-**बकुलावलिका—¹⁰⁵**आर्य, एषा देव्या नियोगमनुतिष्ठति। एतस्मिन्नतिक्रमे परवतीयम्! प्रसीदतु भर्ता! (इत्यात्मना सहैनां प्रणिपातयति)
+**निपुणिका।** ^(**२**)भट्टिणी[^387] भट्टा एथ्थ[^405] पविस्सदि।
 
-**राजा—**यदैव मनपरराद्धासि। उत्तिष्ठ भद्रे। ( इति हस्तेन गृहीत्वैनामुत्थापयति)
+[^405]: # "F अथ्थ for "
 
-**विदूषकः—¹⁰⁶**युज्यते। देव्यत्र मानयितव्या।
+**इरावती।** ^(**३**)एद मम[^406] पुढमं[^407] चिन्तिदं हिअएण।
 
-राजा—
+[^406]: # "Our MSS. इदं मालविआए for एदं मम."
 
-किसलयमृदोर्विलासिनि कठिने निहितस्य पादपस्कन्धे।  
-चरणस्य न ते वाधा संप्रति वामोरु वामस्य॥१८॥
+[^407]: # "We according to G.—F पुडमं."
 
-( मालविका लज्जां रूपयति )  
+**विदूषकः।** उपसृत्य। ^(**४**)होदि ण जुत्तं[^408] णाम अत्तहोदो पिअवअस्सो असोओ वामपादेण ताडेदुम्।
 
-**इरावती —¹⁰⁷**अहो नवनीतकल्पहृदय आर्यपुत्रः !
+[^408]: # "A B C D E insert एदं before "
 
-**मालविका—¹⁰⁸**बकुलावलिके, एहि। अनुष्टितमात्मनो नियोगं देव्यैः निवेदयावः।
+**उभे।** ससम्भ्रमम्। ^(**५**)अम्हो भट्टा।
 
-**बकुलावलिका**—**¹⁰⁹** विज्ञापय भर्तारं विसर्जयेति।
+**विदूषकः।** ^(**६**)बउलावलिए तुए गहीदथ्थाए[^409] अत्तहोदी ईरिसं[^410] अविणअं करन्ती किस[^411] ण वारिदा।
 
-**राजा—**भद्रे, यास्यसि ? मम तावदुत्पन्नावसरमर्थित्वं श्रूयताम्।
+[^409]: # "A B C D E गहिद°."
 
-**बकुलावलिका—¹¹⁰**अवहिता शृणु। आज्ञापयतु भर्ता।
+[^410]: # "A C इरिसं."
 
-राजा—
+[^411]: # "F किं सf for "
 
-धृतिपुष्पमयमपि जनो बध्नाति न तादृशं चिरात्प्रभृति।  
-स्पर्शामृतेन पूरय दोहदमस्याप्यनन्यरुचेः ॥१९॥
+**मालविका।** भयं निरूपयति।
 
-**इरावती** — (सहसोपसृत्य) **¹¹¹**पूरय पूरय। अशोकः कुसुमं न दर्शयति ; अयं पुनः पुष्प्यत्येव।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** एह्येनां परिहासयिष्यामि।  
+**२.** भट्टिनि भर्तात्र प्रविशति।  
+**३.** इदं मम प्रथमं चिन्तितं हृदयेन।  
+**४.** भवति न युक्तं नामात्रभवतः प्रियवयस्योशोको वामपादेन ताडयितुम्।  
+**५.** अहो भर्ता।  
+**६.** वकुलावलिके त्वया गृहीतार्थयात्रभवतीदृशमविनयं कुर्वन्ती कथं न वारिता।
 
-(सर्वे इरावतीं दृष्ट्वा संभ्रान्ताः)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा**—(अपवार्य) वयस्य, का प्रतिपत्तिरत्र?
+**निपुणिका।** ^(**१**)भट्टिणी[^412] देख्ख[^413] किं पवुत्तं[^414] अ[^415]ज्जगोदमेण।
 
-**विदूषकः—¹¹²**किमन्यत?
+[^412]: # "E F भट्टिणि."
 
-**इरावती—¹¹³**बकुलावलिके, त्वया साधूपक्रान्तम्। इदानीं सफलाभ्यर्थनं
+[^413]: # "F दख्ख."
 
-कुर्वार्यपुत्रम्।  
+[^414]: # "B पउत्तं.—F पजुत्तं, translated by प्रयुक्तम्."
 
-**उभे —¹¹⁴**प्रसीदतु भट्टिनी! के आवां भर्तुः प्रणयपरिग्रहस्य?
+[^415]: # "D E अ-अ°."
 
-(निष्क्रान्ते)
+**इरावती।** ^(**२**)कहं स बम्हबन्धू अण्णहा जीविस्सदि[^416]।
 
-**इरावती—¹¹⁵**अविश्वसनीयाः पुरुषाः। आत्मनो वञ्चनावचनं प्रमाणीकृत्याक्षिप्तया व्याधजनगीतगृहीतचित्तया हरिण्येवैतन्न विज्ञातम्।
+[^416]: # "B जीविसदि ; D E जविस्सिदि."
 
-**विदूषकः**—( जनान्तिकम् ) ^(**116**) प्रतियोजयेदानीं किमपि। कर्मगृहीतेनापि कुम्भीलकेन संधिच्छेदे शिक्षितोऽस्मीति वक्तव्यं भवति।
+**बकुलावलिका।** ^(**३**)अज्ज[^417] देवीए एसा णिओअं अणुचिठ्ठइ[^418]। एदस्सिम् अदिक्कमे परवदी इअम्। पसीददु भट्टा। आत्मना सममेनां प्रणिपातयति।
 
-**राजा—**सुन्दरि, न मे मालविकया कश्चिदर्थः। मया त्वं चिरयसीति यथा— कथञ्चिदात्मा विनोदितः।
+[^417]: # "D E F अ=अ,"
 
-**इरावती—¹¹⁷**विश्वसनीयोऽसि। मया न विज्ञातमीदृशं विनोदवस्तुकमार्यपुत्रेणोपलब्धमिति॥ अन्यथा दुःखभागिन्यैवं न क्रियते।
+[^418]: # "B अणुचिठ्ठई."
 
-**विदूषकः—¹¹⁸**मा तावता तत्रभवतो दाक्षिण्यस्योपरोधं भणितुं, समापत्तिदृष्टेन देव्याः परिजनेन संकथापराधेन संधाप्यताम्। अत्र त्वमेव प्रमाणम्।
+**राजा।** यद्येवमनपराधः। भद्रे उत्तिष्ठ। हस्तेन गृहीत्वोत्थापयति।
 
-**इरावती—¹¹⁹**ननु संकथा नाम भवतु। किमित्यात्मानमायासयिष्यामि?
+**विदूषकः**। ^(**४**)जुज्जइ। देवी एथ्थ[^405] माणइदव्वा।
 
-(इति रुषा प्रस्थिता)
+**राजा।**
 
-**राजा—** ( अनुसरन्) प्रसीदतु भवती! ( इरावती रशनासंधारितचरणा व्रजत्येव )
+**किसलयमृदोर्विलासिनि कठिने निहितस्य पादपस्कन्धे।  
+चरणस्य न ते बाधा सम्प्रति वामस्य वामोरु[^420]॥१७॥**
 
-**राजा—** सुन्दरि, न शोभते प्रणयिनि जने निरपेक्षता।
+[^420]: # "F. वामोरु वामस्य."
 
-**इरावती—** **¹²⁰**शठ, अविश्वसनीयहृदयोऽसि।
+**मालविका।** लज्जते[^421]।
 
-राजा—
+[^421]: # "C लज्जति."
 
-शठ इति मयि तावदस्तु ते  
+**हरावती।** सासूयम्[^422]। ^(**५**)अम्हो णवणीदकप्प[^423]हिअओ अज्जउत्तो।
+
+[^422]: # "Our MSS. omit सासूयम्. We according to G."
+
+[^423]: # "F omits °कप्प°."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भट्टिनि पश्य किं प्रवृत्तमार्यगौतमेन।  
+**२.** कथं स ब्रह्मबन्धुरन्यथा जीविष्यति।  
+**३.** आर्य देव्या एषा नियोगमनुतिष्ठति। एतस्मिन्नतिक्रमे परवतीयम्। प्रसीदतु भर्ता।  
+**४.** युज्यते। देव्यत्र मानयितव्या।  
+**५.** अहो नवनीतकल्पहृदय आर्यपुत्रः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**मालविका।** ^(**१**)बउलावलिए एहि। अणुठ्ठिदम् अत्तणो णिओअं देवीए णिवेदेम्ह[^424]।
+
+[^424]: # "B C D णिवेदेम."
+
+**बकुलावलिका।** ^(**२**)तेण विण्णवेहि[^242] भट्टारं विसज्जेहित्ति[^426]।
+
+[^426]: # "E विसज्जहित्ति."
+
+**राजा**। भद्रे यास्यसि। मम तावदु[^427]त्पन्नावसरमर्थित्वं श्रूयताम्।
+
+[^427]: # "B has 'भद्रे यास्यसि मा तावत्.'"
+
+**बकुलावलिका।** ^(**३**)अवहिदा सुणाहि। आणवेदु भट्टा।
+
+**राजा।**
+
+**धृतिपुष्पमयमपि जनो बध्नाति न तादृशं चिरात्प्रभृति।  
+स्पर्शामृतेन पूरय दोहलमस्याप्यनन्यरुचेः॥१८॥**
+
+**इरावती।** सहसोपसृत्य। ^(**४**)पुरेहि पुरेहि[^428]। णं[^429] असोओ कुसुमं दंसेदि[^430]। अअम् उण ण केवलं पुफ्फइ फलइ अ।
+
+[^428]: # "A B C E do not repeat "
+
+[^429]: # "B ण्णं for "
+
+[^430]: # "F दंसेइ."
+
+।सर्व इरावतीं दृष्ट्वा सम्भ्रान्ताः।
+
+**राजा।** जनान्तिकम्। वयस्य का प्रतिपत्तिरत्र[^431]।
+
+[^431]: # "F omits अत्र."
+
+**विदूषकः।** ^(**५**)किं अण्णं[^432]। जङ्घाबलं[^433] एव्व।
+
+[^432]: # "A अणं."
+
+[^433]: # "Our MSS. जङ्घावलम्बणं. We according to G."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** बकुलावलिके एहि। अनुष्ठितमात्मनो नियोगं देव्यै निवेदयावः।  
+**२.** तेन विज्ञापय भर्तारं विसृजेति।  
+**३.** अवहिता शृणु। आज्ञापयतु भर्ता।  
+**४.** पूरय पूरय। नन्वशोकः कुसुमं दर्शयति। अयं पुनर्न केवलं पुष्प्यति फलति च।  
+**५.** किमन्यत्। जङ्घाबलमेव।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+9. F translates णं by एनम् in its छाया.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**इरावती।** ^(**१**)बउलावलिए साहु तुए[^434] उपक्कन्तम्। मालविए तुमं दाव अज्ज[^257]उत्तं सफलपथ्थणं करेहि।
+
+[^434]: # "B तए for "
+
+**उभे।** **^(२)**पसीददु भट्टिणी। का अम्हे भट्टिणो प्पणअप्पसङ्गस्स[^436]।
+
+[^436]: # "A D E पणअ°.—F पणअपडिग्गहस्स."
+
+\निष्क्रान्ते।
+
+**इरावती।** ^(**३**)अहो अविस्ससणीआ [पुरुसा[^437]। मए ख्खु अत्तणो वञ्चणावअणं पमाणीकरिअ[^438] वाहजणगीदरत्ताए हरिणीए विअ असङ्किताए[^439] एदं ण विण्णादम्।
+
+[^437]: # "E पुरिसा."
+
+[^438]: # "A E पमाणी°.—B °करीअ."
+
+[^439]: # "F omits "
+
+**विदूषकः।** जनान्तिकम् **^(४)**पडिओजेहि किम्पि[^440]। कम्मगहीदेण[^441] caught in the act.") कुम्भिलएण सन्धिछ्छेअस्सिख्खकोम्हित्ति एथ्थ वत्तव्वं होदि।
+
+[^440]: # "F पडियोजेहि किंवि."
+
+[^441]: # "A B C D E °गहिदेण. — F takes कम्म with पडियोजेहि किंवि, and explains its translation कर्म by “मृषोद्यमित्यर्थः”. But this is hardly possible. कम्मगहीदेण = by (a thief
+
+**राजा।** सुन्दरि मालविकायां न मे कश्चिदर्थः। मया त्वं चिरायसीति कथञ्चिदात्मा[^442] विनोदितः।
+
+[^442]: # "B कथं कथञ्चित्."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** बकुलावलिके साधु त्वयोपक्रान्तम्। मालविके त्वं तावदार्यपुत्रं सफलप्रार्थनं कुरू।  
+**२.** प्रसीदतु भट्टिनी। के आवां भर्तुः प्रणयप्रसङ्गस्य।  
+**३.** अहो अविश्वसनीयाः पुरुषाः। मया खल्वात्मनो वञ्चनावचन प्रमाणीकृत्य व्याधजनगीतरक्तया हरिण्येवाशङ्कितयेदं न विज्ञातम्।  
+**४.** प्रतियोजय किमपि। कर्मगृहीतेन कुम्भिलकेन सन्धिच्छेदशिक्षकोस्मीत्यत्र वक्तव्यं भवति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**इरावती।** ^(**१**)विस्ससणीओसि। मए ण विण्णादं[^443] एतारिसं विणोदवथ्थु अज्ज[^257]उत्तेण उवलध्धन्ति। अण्णहा दुख्खतरं एव्वं[^445] ण करेमि।
+
+[^443]: # "A विणादं."
+
+[^445]: # "A B C D E एव्व for "
+
+**विदूषकः।** ^(**२**)मा दाव अत्तहोदी अत्तहोदो दख्खिण्णस्स उवरोहं[^446] for ") भणादु। समापत्तिदिठ्ठेण देवीए परिजणेण सङ्कहावि जइ[^447] अवराही[^448] ठावीअदि एथ्थ तुमम् एव्व प्पमाणं[^449]।
+
+[^446]: # "F अवराहं (=अपराधं
+
+[^447]: # "A B C जई."
+
+[^448]: # "F अवराहे."
+
+[^449]: # "D E पमाणं."
+
+**इरावती।** ^(**३**)णं सङ्कहा णाम[^450] होदु। केत्तिअं कालम् अत्ताणम् आआसइस्सम्। रुष्टा प्रस्थिता।
+
+[^450]: # "A सङ्कह णाम."
+
+**राजा।** अनुसरन्। प्रसीदतु भवती।
+
+**इरावती।** रशनासन्दितचरणा[^451] व्रजत्येव।
+
+[^451]: # "F °सन्दानितचरणा."
+
+**राजा।** सुन्दरि न शोभते प्रणयिजननिरपेक्षता।
+
+**इरावती।** ^(**४**)सठ[^452] अविस्ससणी[^453]अहिअओसि।
+
+[^452]: # "A सट."
+
+[^453]: # "A C अविस्ससणीज्ज°; B has विस्ससणीज्ज° corrected from अविस्ससणीज्ज°."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** विश्वसनीयोसि। मया न विज्ञातमेतादृशं विनोदवस्त्वार्यपुत्रेणोपलब्धमिति। अन्यथा दुःखतरमेवं न करोमि।  
+**२.** मा तावदत्रभवत्यत्रभवतो दाक्षिण्यस्योपरोधं भणतु। समापत्तिदृष्टेन देव्याः परिजनेन सङ्कथापि यद्यपराधी स्थाप्यतेत्र त्वमेव प्रमाणम्।  
+**३.** ननु सङ्कथा नाम भवतु। कियन्तं कालमात्मानमायासयिष्यामि।  
+**४.** शठ अविश्वसनीयहृदयोसि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।**
+
+**शठ इति मयि तावदस्तु ते  
 परिचयवत्यवधीरणा प्रिये।  
-चरणपतितया न चण्डिकां  
-विसृजसि मेखलयापि याचिता॥२०॥
+चरणपतितया न चण्डतां  
+विसृजसि मेखलयापि याचिता॥१९॥**
 
-**इरावती—¹²¹**इयमपि हताशा त्वामेवानुसरति! ( रशनामादाय राजानं ताडयितुमिच्छति)
+**इरावती।** ^(**१**)इअम्पि[^454] हदासा तुमम् एव्व अणुसरदि। रशनामादाय राजानं ताडयितुमिच्छति।
 
-**राजा—** इयमिरावती
+[^454]: # "F. इअवि."
 
-बा
+**राजा।** एषा
 
-ष्पासारा हेमकाञ्चीगुणेन  
-श्रोणी
+**बाष्पासारा हेमकाञ्चीगुणेन  
+श्रोणीबिम्बादव्यपेक्षा[^455]च्युतेन।  
+चण्डी चण्डं हन्तुमभ्युद्यता[^456] मां  
+विद्युद्दाम्ना मेघराजीव विन्ध्यम्॥२०॥**
 
-विम्वादप्युपेक्षाच्युतेन।  
-चण्डी चण्डं हन्तुमभ्युद्यता मां  
-विद्युद्दाना मेघराजीव विन्ध्यम्॥२१॥
+[^455]: # "A B C D E अभ्युपेक्षा°."
 
-**इरावती—**^(**122**) किं मामेव भूयोऽप्यपराद्धां करोषि?
+[^456]: # "E अभ्युद्युता."
 
-**राजा**— ( सरशनं हस्तमवलम्बयति )
+**इरावती।** ^(**२**)किं मं[^457] भूओवि[^458] अवरध्धं[^459] करेसि। इति सरशनहस्तमालम्बते।
 
-अपराधिनि मयि दण्डं संहरसि किमुद्यतं कुटिलकेशि।  
-वर्धयसि विलसिंत त्वं दासजनायाद्य कुप्यसि च ॥२२॥
+[^457]: # "A मां for "
 
-नूनमिदमनुज्ञातम् !
+[^458]: # "A B C D E भूयोवि."
 
-(इति पादयोः पतति )
+[^459]: # "F अवरुध्धं, translated in its छाया by अवरोधं."
 
-**इरावती— ¹²³**न खल्विमौ मालविकाचरणौ यौ ते हर्षदोहदं पूरयिष्यतः।
+**राजा।**
 
-(इति निष्क्रान्ता सह चेट्या)
+**अपराधिनि मयि दण्डं संहरसि किमुद्यतं कुटिलकेशि।  
+वर्धयसि विलसितं त्वं दासजनायात्र कुप्यसि च॥२१॥**
 
-**विदूषकः— ¹²⁴**उत्तिष्ठ।कृतप्रसादोऽसि
+आत्मगतम्। नूनमिदानीमनुज्ञातम्। पादयोः पतति।
 
-**राजा—** (उत्थाय, इरावतीमपश्यन्) कथं गतैव प्रिया!
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** इयमपि हताशा त्वामेवानुसरति।  
+**२.** किं मां भूयोप्यपराद्धां करोषि।
 
-**विदूषकः—** ^(**125**)वयस्य, दिष्ट्या अनेनाविनयेनाप्रसन्नागतैषा। तद्वयं शीघ्रमपक्रमामः, यावदङ्कारको राशिमिवानुवक्रं प्रतिगमनं न करोति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा—** अहो मदनस्य वैषम्यम् !
+**इरावती।** ^(**१**)ण हु इमे मालविआए चलणा जे दे परिसदोहलं[^460] पूरइस्सन्दि[^461]।
 
-मन्ये प्रियाहृतमनास्तस्याः प्रणिपातलङ्घनं सेवाम्।  
-एवं हि प्रणयवती सा शक्यमुपेक्षितुं कुपिता ॥ २३॥
+[^460]: # "F हरिसदोहलं."
 
-(इति निष्क्रान्तः सह वयस्येन)
+[^461]: # "A C E पूरइस्सदि."
 
-इति तृतीयोऽङ्कः
+\ससखी निष्क्रान्ता।
 
-**अथ चतुर्थोऽङ्कः**
+**विदूषकः।** ^(**२**)[भो[^439] उठ्ठेहि उठ्ठेहि। किदप्पसादोसि।
 
-(ततः प्रविशति पर्युत्सुको राजा प्रतीहारी च)
+**राजा।** उत्थायेरावतीमपश्यन्। कथं गतैव प्रिया।
 
-**राजा—** (आत्मगतम्)
+**विदूषकः।** ^(**३**)दिठ्ठिआ इमस्स अविणअस्स[^463] अप्पसादिदा[^464] गदा। ता वअं सिघ्घं[^465] अवक्कमाम जाव अङ्गारओ रासिं विअ सा अणुवक्कं ण करेइ।
 
-तामाश्रित्य श्रुतिपथगतामास्थया बद्धमूलः  
-संप्राप्तायां नयनविषयं रूढरागः प्रवालः।  
-हस्तस्पर्शैर्मुकुलित इव व्यक्तरोमोद्गमत्वा-  
-त्कुर्यात्कान्तं मनसिजतरूर्मेरसज्ञं फलस्य॥१॥
+[^463]: # "D E अविणयस्स."
 
-(प्रकाशम्) सखे गौतम !
+[^464]: # "A B C D अपसादिदा."
 
-**प्रतीहारी—¹**जयतु जयतु भर्ता ! असंनिहितो गौतमः।
+[^465]: # "F दाव सिघ्घं for "
 
-**राजा—** (आत्मगतम्) आ, मालविका वृत्तान्तज्ञानाय मया प्रेषितः।
+**राजा।** अहो मनसिजवैषम्यम्।
 
-(प्रविश्य) **विदूषकः —²**वर्धनां भवान्  
-**राजा —** जयसेने, जानीहि तावत्क्क देवी धारिणी सरुजचरणत्वाद्विनोद्यत इति।
+**मन्ये प्रियाहृतमनास्तस्याः प्रणिपातलङ्घनं सेवाम्।  
+एवं हि प्रणयवती सा शक्यमुपेक्षितुं कुपिता॥२२॥**
 
-( इति निष्क्रान्ता)
+॥इति परिक्रम्य निष्क्रान्ताः सर्वे॥
 
-**प्रतीहारी —³**यद्देव आज्ञापयति।
+**॥इति तृतीयोङ्कः॥**
 
-**राजा—**गौतम को वृत्तान्तस्तत्रभवत्यास्ते सख्याः ?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** न खल्विमौ मालविकायाश्चरणौ यौ ते स्पर्शदोहदं पूरयिष्यतः।  
+**२.** भो उत्तिष्ठोत्तिष्ठ। कृतप्रसादोसि।  
+**३.** दिष्ट्यैतस्याविनयस्याप्रसादिता गता। तदावां शीघ्रमपक्रमावो यावदङ्गारको राशिमिव सानुवक्रं न करोति।
 
-**विदूषकः—** **⁴**यो बिडालगृहीतायाः परभृतिकायाः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा —** (सविषादम् ) कथमिव?
+।ततः प्रविशति पर्युत्सुको राजा प्रतीहारी च।
 
-**विदूषकः—⁵**सा खलु तपस्विनी तया पिङ्गलाक्ष्या सारभाण्डभूगृहे गुहायामिव निक्षिप्ता।
+**राजा।** आत्मगतम्।
 
-**राजा—**ननु मत्सम्पर्कभुपलभ्य?
+**तामाश्रित्य श्रुतिपथगतामास्थया लब्धमूलः  
+सम्प्राप्तायां नयनविषयं रूढरागप्रवालः।  
+हस्तस्पर्शे मुकुलित इव व्यक्तरोमोद्गतत्वात्[^466]  
+कुर्यात्क्लान्तं मनसिजतरुर्मां रसज्ञं फलस्य॥१॥**
 
-**विदूषकः—⁶**अथ किम्।
+[^466]: # "B D F °रोमोद्गमत्वात्."
 
-**राजा—**क एवं विमुखोऽस्माकम् ? येन चण्डीकृता देवी।
+**प्रकाशम्।** सखे गौतम।
 
-**विदूषकः—⁷**शृणोतु भवान्। परिव्राचिकया मे कथितम्। ह्यः किल तत्रभवतीरावती रुजाक्रान्तचरणां देवीं सुख
+**प्रतीहारी।** ^(**१**)जेदु भट्टा[^467]। असण्णिहिदो गोदमो।
 
-पृच्छिकागता।
+[^467]: # "B भट्टो."
 
-**राजा**— ततस्ततः?
+**राजा।** आत्मगतम्। अये मालविकावृत्तान्तज्ञानाय प्रेषितः।
 
-**विदूषकः—⁸**ततः सा देव्या पृष्टा। किंन्ववलोकितो वल्लभजन इति। तयोक्तम्। मन्दो व उपचारः, यत्परिजने संक्रान्तं वल्लभत्वं न ज्ञायते।
+**विदूषकः।** प्रविश्य। ^(**२**)जेदु भवम्।
 
-**राजा—** निर्भेदादृतेऽपि मालविकायामयमुपन्यासः शङ्कयति।
+**राजा।** जयसेने जानीहि क्व देवी धारिणी कथं वा सरुजचरणत्वाद्विनोद्यत इति।
 
-**विदूषकः—⁹**ततस्तयानुखिद्यमाना सा भवतोऽविनयमन्तरेण परिगतार्था कृता
+**प्रतीहारी।** ^(**३**)जं देवो आणवेदि।
 
-**राजा**— अहो दीर्घशेषता तत्रभवत्याः! अतः परं कथय।
+\इति निष्क्रान्ता।
 
-**विदूषकः—¹⁰**किमतः परम्?मालविका बकुलावलिका च निगलपद्यावदृष्टसूर्यपादं पातालवासं नागकन्यके इवानुभवतः।
+**राजा।** सखे को वृत्तान्तस्ते सख्यास्तत्रभवत्याः।
 
-**राजा—** कष्टं कष्टम्!
+**विदूषकः।** ^(**४**)जो बिडाल[गहीदाए[^468] परहुदिआए।
 
-मधुरस्वरा परभृता भ्रमरी च विबुद्धाचूतसङ्गिन्यौ।  
-कोटरमकालवृष्टया प्रबलपुरोवातया गमिते॥२॥
+[^468]: # "A B C D E °गहिदाए."
 
-अप्यत्र कस्यचिदुपक्रमस्य गतिः स्यात् ?
+**राजा।** सविषादम्। कथमिव।
 
-**विदूषकः—¹¹**कथं भविष्यति? यत्सारभाण्डगृहे व्यापृता माधविका देव्या संदिष्टा।ममाङ्गुलीयकमुद्रामद्दष्ट्वान मोक्तव्या मालविका बकुलावलिका चेति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** जयतु भर्ता। असन्निहितो गौतमः।  
+**२.** जयतु भवान्।  
+**३.** यद्देव आज्ञापयति।  
+**४.** यो बिडालगृहीतायाः परभृतिकायाः।
 
-**राजा—** ( निःश्वस्य सपरामर्शम् ) सखे, किमत्र कर्तव्यम्?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः**— (विचिन्त्य ) **¹²**अस्त्यत्रोपायः।
+**विदूषकः।** ^(**१**)सा ख्खु तवस्सिणी ताए पिङ्गलछ्छीए सारभण्डभूमिघरए मिच्चुमुहे विअ णिख्खित्ता।
 
-**राजा**—क्त इव ?
+**राजा।** ननु मत्सम्पर्कमुपलभ्य[^469]।
 
-**विदूषकः—** (सदृष्टिक्षेपम् )**¹³**कोऽप्यदृष्टः शृणोति।कर्णे ते कथयामि। ( इत्युपश्य कर्णे ) एत्रमिव ( इत्यावेदयति )
+[^469]: # "F उपलभ्यते."
 
-**राजा—**(सहर्षम् ) सुष्ठु। प्रयुज्यतां सिद्धये।
+**विदूषकः।** ^(**२**)अह इं[^470]।
 
-( प्रविश्य**)प्रतीहारी—¹⁴**देव, प्रवातशयने देवी निषण्णा रक्तचन्दनधारिणा परिजन हस्तगतेन चरणेन भगवत्या कथामिर्विनोद्यमाना तिष्ठति।
+[^470]: # "A C ईं for "
 
-**राजा—** तेन ह्यस्मत्प्रवेशयोग्योयमवसरः।
+**राजा।** गौतम क एवं विमुखोस्माकं येन चण्डी कृता देवी।
 
-**विदूषकः—¹⁵**तद्गच्छतु भवान्। अहमपि देवीं द्रष्टुमरिक्तपाणिर्भविष्यामि।
+**विदूषकः।** ^(**३**)सुणादु भवम्। परिव्वाजिआ[^471] मे कहेइ। हिओ किल तत्तहोदी[^472] इरावदी रुजाविहथ्थचलणं देविं सुहं[^473] पुछ्छिदुम् आअदा। तदो सा देवीए पुछ्छिदा। किं ण लख्खिदो जणो वल्लहोत्ति। ताए उत्तम्। मन्दो वो[^439] उवआरो। जं दे परिअणस्स वल्लहत्तणं तं ण[^475] जाणासित्ति।
 
-**राजा—** जयसेनायास्तावदस्मद्रहस्यं विदितं कुरु।
+[^471]: # "F पडिव्वाजिआ. [सुहं."
 
-**विदूषकः —¹⁶**तथा। ( इति कर्णे) एवमिव भवति। (इत्यावेचनिष्क्रान्तः)
+[^472]: # "A ततहोदी."
 
-**राजा—**जयसेने, प्रवातशयनमार्गमादेशय।
+[^473]: # "A देवीसुहं; C देविसुहं"
 
-**प्रतीहारी—¹⁷**इत इतो देवः।
+[^475]: # "A णं for "
 
-(ततः प्रविशति शयनस्था देवी परिव्राजिका विभवतश्च परिवारः)
+**राजा।** भो निर्भेदादृतेपि मालविकायामयमुपन्यासः शङ्कयति।
 
-**देवी—¹⁸** भगवति, रमणीयं कथावस्तु। ततस्ततः?
+**विदूषकः।** ^(**४**)तदो ताए अणुणिब्बन्धिज्ज[^476]माणाए भवदो अविणअम् अन्तरेण परिगहीद[^477]थ्था किदा देवी।
 
-**परिव्राजिका—**(सदृष्टिक्षेपम् ) देवि, अतः परं पुनः कथयिष्यामि। अत्र भगवान्विदिशेश्वरः संप्राप्तः।
+[^476]: # "A B C D E अणुबन्धिज्ज°."
 
-**देवी—¹⁹**अहो भर्ता! (इत्युत्थातुमिच्छति )
+[^477]: # "A B C D E परिगहिद°."
 
-**राजा—**अलमलमुपचारयन्त्रणया।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** सा खलु तपस्विनी तया पिङ्गलक्ष्म्या सारभाण्डभूमिगृहे मृत्युमुख इव निक्षिप्ता।  
+**२.** अथ किम्।  
+**३.** शृणोतु भवान्। परिव्राजिका मे कथयति। ह्यः किल तत्रभवतीरावती रुजाविहस्तचरणां देवीं सुखं प्रष्टुमागता। ततः सा देव्या पृष्टा। किं न लक्षितो जनो वल्लभ इति। तयोक्तम्। मन्दो व उपचारः। यत्ते परिजनस्य वल्लभत्वं तन्न जानासीति।  
+**४.** ततस्तयानुनिर्बध्यमानया भवतोविनयमन्तरेण परिगृहीतार्था कृता देवी।
 
-अनुचितनूपुरविरहं नार्हसि तपनीयपीठिकालम्बि।  
-चरणं रुजा परीतं कलभाषिणि मां च पीडयितुम्॥३॥
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**देवी—²⁰**जयत्वार्यपुत्रः!
+**राजा।** अहो दीर्घरोषता तत्रभवत्याः[^478]। अतः परं कथय।
 
-**परिव्राजिका—**विजयतां देवः।
+[^478]: # "B अत्रभवत्यां for "
 
-**राजा—**(परिव्राजिकां प्रणम्योपविश्य) देवि, अपि सह्या वेदना?
+**विदूषकः।** ^(**१**)अदो वरं किम्। मालविआ बउलावलिआ अ णिअलवदीओ अदिठ्ठसूज्ज[^479]पादं पादालवासं णाअकण्णआ विअ अणुहोन्ति।
 
-**देवी—²¹**अद्यास्ति मे विशेषः।
+[^479]: # "A B C D E °सुज्ज.°"
 
-(ततः प्रविशति यज्ञोपत्रीतबद्धाङ्गुष्ठः संभ्रान्तो विदूषकः)
+**राजा।** कष्टम्।
 
-**विदूषकः— ²²**परित्रायतां परित्रायतां भवान्। सर्पेणास्मि दष्टः। ( सर्वे विषण्णाः )
+**मधुररवा परभृतिका[^480] भ्रमरी च विबुद्धचूतसङ्गिन्यौ।  
+कोटरमकालवृष्ट्या प्रबलपुरोवातया गमिते॥२॥**
 
-**राजा—**कष्टं कष्टम्! के भवान्परिभ्रान्तः?
+[^480]: # "F मधुरस्वरापरभृति : as the first pâda."
 
-**विदूषकः—²³**देवीं द्रक्ष्यामीत्याचारपुष्पग्रहणकारणात्प्रमदवनं गतोऽस्मि।
+वयस्य अप्यत्रोपक्रमस्य[^481] कस्यचिद्गतिः स्यात्।
 
-**देवी —²⁴**हा धिक्, हा धिक्! अहमेव ब्राह्मणस्य जीवितसंशयनिमित्तं जातास्मि।
+[^481]: # "F वयस्य अप्यस्य कस्यचिदुपक्रमस्य &c."
 
-**विदूषकः—²⁵**तस्मिन्नशोकस्तबककारणात्प्रसारिते दक्षिणहस्ते कोटरनिर्गतेन सर्परूपेण कालेन दष्टोऽस्मि। नन्वेते द्वे दंशपदे। ( इति दंशं दर्शयति)
+**विदूषकः।** ^(**२**)कहं भविस्सदि। जं सारभण्डवाउदा माहविआ देवीए सन्दिठ्ठा मह[^356] अङ्गुलीअमुद्दं अदेख्खिअ[^483] ण मोत्तव्वा तुए हदासा मालविएत्ति।
 
-**परिव्राजिका—** तेन हि दंशच्छेदः पूर्वकर्मेति श्रूयते। स तावदस्य क्रियताम्!
+[^483]: # "F अदख्खिअ."
 
-छेदो दंशस्य दाहो वा क्षतेर्वा रक्तमोचनम्।  
-एतानि दष्टमात्राणामादूष्याः प्रतिपत्तयः॥४॥
+**राजा।** निःश्वस्य। सखे किमत्र प्रतिकर्तव्यम्।
 
-**राजा—**संप्रति विषवैद्यानां कर्म। जयसेने, ध्रुवसिद्धिः क्षिप्रमानीयताम्।
+**विदूषकः।** विचिन्त्य। ^(**३**)अथ्थि अथ्थ उवाओ[^484].")।
 
-**प्रतीहारी— ²⁶**यद्देव आज्ञापयति।
+[^484]: # " E एथ्थ. But it seems to have originally read अथ्थ.—F अथ्थि एव उवाओ (=अस्त्येवोपायः
 
-(इति निष्क्रान्ता)
+**राजा।** क इव।
 
-**विदूषकः—**^(**27**)अहो, पापेन मृत्युना गृहीतोऽस्मि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अतः परं किम्। मालविका बकुलावलिका च निगडवत्यावदृष्टसूर्यपादं पातालवासं नागकन्यके इवानुभवतः।  
+**२.** कथं भविष्यति। यत्सारभाण्डव्यापृता माधविका देव्या सन्दिष्टा ममाङ्गुलीयमुद्रामदृष्ट्वा न मोक्तव्या त्वया हताशा मालविकेति।  
+**३.** अस्त्यत्रोपायः।
 
-**राजा—**मा कातरो भूः ! अविषोऽपि कदाचिद्दंशोभवेत्।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः—²⁸**कथं न भेष्यामि ? सिमसिमायन्ति मेऽङ्गानि। (इति विषवेगं रूपयति)
+**विदूषकः।** सदृष्टिक्षेपम्। ^(**१**)कोवि अदिट्टो सुणादि। ता कण्णे दे कहेमि। उपश्लिष्य कर्णे। एव्वं विअ।
 
-**देवी—²⁹**हा, दर्शितमशुभं विकारेण।अवलम्बध्वं ब्राह्मणम्।
+**राजा।** सष्ठु चिन्तितं प्रयुज्यतां सिद्धये।
 
-(परिव्राजिका ससंभ्रममवलम्बते)
+**प्रतीहारी।** प्रविश्य। ^(**२**)देव पवादसअणे[^485] देवी णिसण्णा[^486] रत्तचन्दणधारिणा परि अणहथ्थगहीदेण[^487] चलणेण भअवदीए परिव्वाजिआए कहाहिं विणोदिअमाणा चिठ्ठइ।
 
-**विदूषकः**—( राजानं विलोक्य) **³⁰**भोः, भवतो बाल्यादपि प्रियवयस्योऽस्मि। तं विचार्यांपुत्राया मे जनन्या योगक्षेमं वह।
+[^485]: # "B पादसअणे."
 
-**राजा**— मा भैषीगौतम। स्थिरो भव। अचिरात्त्वां वैद्यश्चिकित्सयति।
+[^486]: # "A C णिस्सण्णा."
 
-(प्रविश्य) **प्रतीहारी—³¹**देव, आज्ञापितो ध्रुवसिद्धिर्विज्ञापयति। इहैवानीयतां स गौतम इति।
+[^487]: # "A B C D E °गहिदेण."
 
-**राजा—**तेन हि प्रतिगृहीतमेनं तत्रभवतः सकाशं प्रापय।
+**राजा।** अस्मत्प्रवेशयोग्योयमवसरः।
 
-**प्रतीहारी—³²**तथा।
+**विदूषकः।** ^(**३**)ता गछ्छदु[^488] भवम्। अहंवि देविं देख्खिदुं[^489] अरित्तपाणि[^490] भविस्सम्।
 
-**विदूषकः—**( देवीं विलोक्य) **³³**भवति, जीवेयं वा न वा। यन्मयात्रभवन्तं सेवमानेन तेऽपराद्धं तन्मृष्य
+[^488]: # "B गछ्छेदु."
 
-स्व।
+[^489]: # "F देवीं दख्खिदुं."
 
-**देवी—³⁴**दीर्घायुर्भव !
+[^490]: # "D F °पाणो."
 
-(निष्क्रान्तौ विदूषकः प्रतीहारी च)
+**राजा।** जयसेनायास्तावत्संवेद्य[^491] गच्छ।
 
-**राजा**—प्रकृतिभीरुस्तपस्वी ध्रुवसिद्धिमपि यथार्थनामान सिद्धिमन्त न मन्यते।
+[^491]: # "F सम्पाद्य for "
 
-(प्रविश्य) **प्रतीहारी —** **³⁵**जयतु भर्ता ! ध्रुवसिद्धिर्विज्ञापयति। उदकुंभवि धानेन सर्पमुद्रितं किमपि कल्पयितव्यम्। तदन्विष्यतामिति।
+**विदूषकः।** कर्णे। ^(**४**)होदि[^96] एव्वं[^493] विअ।
 
-**देवी—³⁶**इदं सर्पमुद्रितमङ्गुलीयकम्। पश्चान्मम हस्ते देह्मेतत् (इत्यङ्गुलीयकं ददाति। प्रतीहारी गृहीत्वा स्थिता )
+[^493]: # "A C E F एवं."
 
-**राजा—**जयसेने, कर्मसिद्धावाशु प्रतिपत्तिमानय।
+\इति निष्क्रान्तः।
 
-**प्रतीहारी—³⁷**यद्देव आज्ञापयति।
+**राजा।** जयसेने प्रवातशयनमार्गमादेशय।
 
-**परिव्राजिका**—यथा मे हृदयमाचष्टे तथा निर्विषो गौतमः।
+**प्रतीहारी।** ^(**५**)[इदो इदो[^494]।
 
-**राजा—**भूयादेवम्।
+[^494]: # "D does not repeat "
 
-(प्रविश्य)**प्रतीहारी**— ^(**38**)जयतु देवो भर्ता। निवृत्तविषवेगो गौतमो मुहूर्तेन प्रकृतिस्थः संवृत्तः।
+।ततः प्रविष्टा शयनस्था देवी परिव्राजिका विभवतश्च परिवारः[^495]।
 
-**देवी**— ^(**39**)दिष्ट्या वचनायान्मुक्तास्मि।
+[^495]: # "B परीवारः."
 
-**प्रतीहारी**—^(**40**)एष पुनर्वाहनकोऽमात्यो विज्ञापन्यति। राजकार्यंबहुमन्त्रयितव्यं; दर्शनेनानुग्रहमिच्छामीति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** कोप्यदृष्टः शृणोति। तत्कर्णे ते कथयामि। एवमिव।  
+**२.** देव प्रवातशयने देवी निषण्णा रक्तचन्दनधारिणापरिजनहस्तगृहीतेन चरणेन भगवत्या परिव्राजिकया कथाभिर्विनोद्यमाना तिष्ठति।  
+**३.** तद्गच्छतु भवान्। अहमपि देवीं प्रेक्षितुमरिक्तपाणिर्भवामि।  
+**४.** भवति एवमिव।  
+**५.** इत इतः।
 
-**देवी**—^(**41**)गच्छत्वार्यपुत्रः कार्यसिद्धये।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा**—
+**देवी।** ^(**१**)भअवदि अदिरमणिज्जं[^496] कहावथ्थु। तदो तदो।
 
-देवि, आतपक्रान्तोयमुद्देशः। शीतक्रिया चास्यारुजः प्रशस्ता। तदन्यत्र नीयतांशयनम्।
+[^496]: # "C रमाण्णज्जं ; F रमणीज्जं."
 
-**देवी**—
+**परिव्राजिका।** सदृष्टिक्षेपम्। अतःपरं पुनः कथयिष्यामि। अत्रभवानीश्वरः सम्प्राप्तः।
 
-⁴²
+**देवी।** ^(**२**)अम्हो अज्ज[^257]उत्तो। इत्युत्थातुमिच्छति।
 
-बा
+**राजा।** अलमलमुपचारयन्त्रणया।
 
-लिकाः, आर्यपुत्रवचनमनुतिष्ठत।
+**अनुचितनूपुरविरहं नार्हसि[^498] तपनीयपीठकालम्बि।  
+चरणं रुजापरीतं कलभाषिणि मां च पीडयितुम्॥३॥**
 
-**परिजन**—^(**43**) तथा। (निष्क्रान्ता देवी परिव्राजिका परिजनश्च )
+[^498]: # "A B C E नार्हति."
 
-**राजा**— जयसेने, मां गूढेन पथा प्रमदवनं प्रापय।
+**परिव्राजिका।** विजयतां देवः।
 
-**प्रतीहारी**— ^(**44**)इत इतो देवः!
+**देवी।** ^(**३**)जेदु अज्ज[^499]उत्तो।
 
-**राजा**— जयसेने, ननु समाप्तकाम्यो गौतमः?
+[^499]: # "E अ-अ°."
 
-**प्रतीहारी**— ^(**45**)अथ किम्।
+**राजा।** परिव्राजिकां प्रणम्योपविश्य। देवि अपि सह्या वेदना।
 
-**राजा** —
+**देवी।** ^(**४**)अथ्थि मे दाणिं[^500] विसेसो।
 
-**इष्टाधिगमनिमित्तं प्रयोगमेकान्तसाध्यमपि मत्वा।  
-संदिग्धमेव सिद्ध्यैकातरमाशङ्कते हृदयम्॥५॥**
+[^500]: # "F omits “दाणिं” altogether"
 
-(प्रविश्य)**विदूषकः**— ^(**46**)वर्धतां भवान्! सिद्धानि ते मङ्गलकार्याणि।
+।ततः प्रविशति यज्ञोपवीतबद्धाङ्गुष्ठः
 
-**राजा**— जयसेने, त्वमपि स्वं नियोगमशून्यं कुरु।
+सम्भ्रान्तो विदूषकः।
 
-**प्रतीहारी**— ^(**47**)यद्देव आज्ञापयति। (इति निष्क्रान्ता)
+**विदूषकः।** ^(**५**)अवि हा अवि हा[^501]। सप्पेण सन्दठ्ठोम्हि।
 
-**राजा**— गौतम, क्षुद्रा माधविका। न खलु किञ्चिद्विचारितमनया?
+[^501]: # "E omits the repeated "
 
-**विदूषक**— ^(**48**)देव्या अङ्गुलीयकमुद्रां दृष्ट्वा कथं विचारयति?
+।सर्वे विषण्णाः।
 
-**राजा** — न खलु मुद्रामधिकृत्य ब्रवीमि। एतयोर्द्वयोः किं निमित्तो मोक्षः। किं वा देव्याः परिजनमतिक्रम्य भवान्संदिष्ट इत्येवमनया प्रष्टव्यम्।
+**राजा।** कष्टम्। क्व भवान्परिभ्रान्तः।
 
-**विदूषकः** — ^(**49**)ननु पृष्टोस्मि। पुनर्मन्दस्य मे तस्मिन्प्रत्युत्पन्ना मतिः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भगवति अतिरमणीयं कथावस्तु। ततस्ततः।  
+**२.** अहो आर्यपुत्रः।  
+**३.** जयत्वार्यपुत्रः।  
+**४.** अस्ति म इदानीं विशेषः।  
+**५.** अपि हा अपि हा। सर्पेण सन्दष्टोस्मि।
 
-**राजा**— कथ्यताम्।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः—**⁵⁰मणितं मया। दैवचिन्तकैर्विज्ञापितो राजा। सोपसर्गं वो नक्षत्रम्। तदवश्यं सर्वबन्धमोक्षः क्रियतामिति।
+**विदूषकः।** ^(**१**)देविं देख्खिस्सन्ति[^502] आआरपुफ्फग्गहणकालणादो प्पमद[^503]वणं गदोम्हि। परित्ताअदु परित्ताअदु।
 
-**राजा**—(सहर्षम्) ततस्ततः?
+[^502]: # "F देवीं दख्खिदुन्ति."
 
-**विदूषकः**—^(**51**)तच्छ्रुत्वा देव्या इरावत्याश्चित्तं रक्षन्त्या राजा किल मोचयतीत्यहं सन्दिष्ट इति। ततो युज्यते इति तयैवं संपादितोऽर्थः।
+[^503]: # "A C D E पमद°."
 
-**राजा**—विदूषकं परिष्वज्यसखे, प्रियोऽहं खलु तव।
+**देवी।** ^(**२**)हध्धि हध्धि। अहम् एव्व बम्हणस्स जीविदसंसए णिमित्तं[^504] जादा।
 
-**न हि वुद्धिगुणेनैव सुहृदामर्थदर्शनम्।  
-कार्यसिद्धिपथः सूक्ष्मः स्नेहेनाप्युपलभ्यते॥६॥**
+[^504]: # "F जीविदसंसअणिमित्तं."
 
-**विदूषकः**— ^(**52**)त्वरतां भवान्। समुद्रगृहे सखीसहितां मालविकां स्थापयित्वा भवन्तं प्रत्युद्गतोऽस्मि।
+**विदूषकः।** ^(**३**)तहिं असोअथ्थवअस्स[^505] कालणादो मए प्पसारिदे अग्गहथ्थे[^506] कोडरणिग्गदेण कालेण सप्परूविणा[^507] दठ्ठो। णम् एदाइं दुव्वे दन्तपदाइम्। इति दंशं दर्शयति।
 
-**राजा**—अहमेनां संभावयामि। गच्छाग्रतः।
+[^505]: # "B आसोअथ्थवयस्स; D असोअ°."
 
-**विदूषकः**—^(**53**)एतु भवान् (परिक्रम्य) इदं समुद्रगृहम्।
+[^506]: # "F हथ्थे for “अग्गहथ्थे”."
 
-**राजा**—(साशङ्कम्) वयस्य, एषा कुसुमावचयव्यग्रहस्ता सख्यास्ते परिचारिक्रा चन्द्रिका संनिकृष्टमागच्छति। इतस्तावदावां मित्तिगूढौ भवावः।
+[^507]: # "F सव्वरूविणा."
 
-**विदूषकः—**^(**54**)अहो, कुम्भीलकैः कामुकैश्च परिहरणीया खलु चन्द्रिका। 
+**परिव्राजिका।** तेन हि दंशच्छेदः पूर्वकर्मेति श्रूयते। स तावदस्य क्रियताम्।
 
-(उभे यथोक्तं कुरुतः)
+**छेदो[^508] दंशस्य दाहो वा क्षतेर्वा रक्तमोक्षणम्।  
+एतानि दष्टमात्राणामायुषः प्रतिपत्तयः॥४॥**
 
-**राजा**—गौतम, कथं नु ते सखी मां प्रतिपालयति? एहि एनां गवाक्षमाश्रित्य विलोकयामि।
+[^508]: # "Our MSS., and even G, make the couplet “छेदो” &c. a part of the following speech of the king.we with Tullberg."
 
-**विदूषकः**—^(**55**)तथा। उभौ विलोकयन्तौ तिष्टतः। (ततः प्रविशति मालविका बकुलावलिका च)
+**राजा।** सम्प्रति विषवैद्यानां कर्म। जयसेने क्षिप्रमानीयतां ध्रुवसिद्धिः।
 
-**बकुलावलिका**—⁵⁶सखि, प्रणम भर्तारम्।
+**प्रतीहारी।** ^(**४**)जं देवो आणवेदि[^509]।
 
-**मालविका**—⁵⁷नमस्ते।
+[^509]: # "A C अण्णवेदि."
 
-**राजा**— शङ्के मे प्रतिकृतिं निर्दिशति।
+\इति निष्क्रान्ता।
 
-**मालविका**— (सहर्षंद्बारमवलोक्य)^(**58**) सखि, मां विप्रलम्भयसि?
+**विदूषकः।** ^(**५**)अहो पावेण [मिच्चुणा[^510] गहीदोम्हि[^511]।
 
-**राजा**—हर्षविषादाभ्यामत्रभवत्याः प्रीतोऽस्मि।
+[^510]: # "A C म्मिच्चुणा ; F मिथ्थुणा."
 
-सूर्योदये भवति या सूर्यास्तममे च पुण्डरीकस्य।  
-वदनेन सुवदनायास्ते समवस्थे क्षणाद्ढे॥७॥
+[^511]: # "A B C D E गहिदो."
 
-**बकुलावलिका—**⁵⁹नन्वेष चित्रगतो भर्ता!
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** देवीं द्रक्ष्यामीत्याचारपुष्पग्रहणकारणात् \[i. e. °ग्रहणाय \] प्रमदवनं गतोस्मि। परित्रायतां परित्रायताम्।**२.** हा धिक् हा धिक्। अहमेव ब्राह्मणस्य जीवितसंशये निमित्तं जाता।  
+**३.** तत्राशोकस्तबकस्य कारणात् \[i.e. अशोकस्तवकाय\] मया प्रसारितेग्रहस्ते कोटरनिर्गतेन कालेन सर्वरूपिणा दष्टः। नन्वेते द्वे दन्तपदे।  
+**४.** यद्देव आज्ञापयति।  
+**५.** अहो पापेन मृत्युना गृहीतोस्मि।
 
-**उभे—**(प्रणिपत्य)^(**60**)जयतु भर्ता!
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**मालविका—** ⁶¹सखि,तदा संभ्रमदृष्टे भर्तृ रूपे यथा न वितृष्णास्मि तथाद्यापि मया भावितोऽवितृष्णदर्शनो भर्ता।
+**राजा।** मा कातरो भूः। अविषः[^512] कदाचिद्दंशो भवेत्।
 
-**विदूषकः—**^(**62**)श्रुतं भवता? तत्रभवती चित्रे यथा दृष्टस्तथा दृष्टो भवानिति मन्त्रयति। मुधेदानीं मञ्जूषेव रत्नभाण्डं यौवनगर्वं वहसि।
+[^512]: # "F अविषोपि."
 
-**राजा—**सखे, कुतूहलवानपि निसर्गशालीनः स्त्रीजनः। पश्य।
+**विदूषकः।** ^(**१**)कहं ण भाइस्सं[^513]। सिमिसिमाअन्ति मे अङ्गाइम्। विषवेगं निरूपयति[^514]।
 
-कार्त्स्न्येन निर्वर्णयितुं च रूप-  
-मिच्छन्ति तत्पूर्वसमागमानाम्।  
-न च प्रियेष्वायतलोचनानां  
-समग्रवृत्तीनि विलोचनानि॥८॥
+[^513]: # "A C भाईस्सं."
 
-**मालविका—**⁶³सखि, कैषा पार्श्वपरिवृत्तमुखेन भर्त्रा मे स्निग्धया दृष्ट्या निध्यायते?
+[^514]: # "D रूपयति."
 
-**बकुलावलिका—**⁶⁴नन्वियं पार्श्वगतेरावती!
+**देवी। **उपसृत्य। ^(**२**)ही ही असुंह दंसिदं विआरेण[^515]। हला अवलम्बह णम्।
 
-**मालविका**—⁶⁵सखि अदक्षिण इव भर्तामे प्रतिभाति। यः सर्वं देवीजनमज्झित्वैकस्या मुखे बद्धलक्ष्यः।
+[^515]: # "Our MSS. अहिअं दंसिदं विअ विआरेण for “असुहं”&c. we according to G."
 
-**बकुलावलिका—**(आत्मगतम्)^(**66**) चित्रगतं भर्तारं परमार्थतः संकल्प्यासूयति। भवतु। क्रीडिष्यामि तावदेतया। ( प्रकाशम् ) सखि, भर्तुवर्ल्लभैषा।
+**परिजनः।** ससम्भ्रममवलम्बते।
 
-**मालविका—**^(**67**)ततः किमिदानीमात्मानमायासयिष्यसि? (इति सासूयं परावर्तते)
+**विदूषकः।** राजानमवलोक्य। ^(**३**)भो भवदो बालत्तणादोवि पिअवअस्सोम्हि। तं विआरिअ मुध्धाए[^516] मे जणणीए ओअ-ख्वेमं वहेहि।
 
-**राजा—**सखे, पश्य
+[^516]: # "E बुध्धाए."
 
-**भ्रूभङ्गमिन्नतिलकं स्फुरिताधरोष्ठं**  
+**राजा।** मा भैषीः। अचिरात्त्वां वैद्यश्चिकित्सते। स्थिरो भव।
 
-**सासूयमाननमितः परिवर्तयन्त्या।**
+।प्रविश्य प्रतीहारी।
 
-**कान्तापराधकुपितेष्वनया विनेतुः  
-संदर्शितेव ललिताभिनयस्य शिक्षा॥९॥**
+**प्रतीहारी।** ^(**४**)देव धुवसिध्धी विण्णवेदि[^517]। इह ज्जेव[^518] आणीअदु[^519] गोदमोत्ति।
 
-**विदूषकः**—^(**68**)अनुनयसज्ज इदानीं भव।
+[^517]: # "A विणवेदि."
 
-**मालविका**—^(**69**)आर्यगौतमोऽत्रैव संसेवत एनाम्। (पुनःस्थानान्तराभिमुखी भवितुमिच्छति)
+[^518]: # "F इह एव्व."
 
-**बकुलावलिका**—(मालविकां रुद्ध्वा) ^(**70**)न खलु कुपितेदानीं त्वम्?
+[^519]: # "A B C आणीयदु."
 
-**मालविका**—^(**71**) यदि चिरं कुपितामेव मां मन्यसे, एष प्रत्यानीयते कोपः।
+**राजा।** तेन हि वर्षवर[^520]परिगृहीतमेनं तत्रभवतः सकाशं प्रापय।
 
-**राजा**—(उपेत्य)
+[^520]: # "E वर्षधर°."
 
-**कुप्यसि कुवलयनयने चित्रार्पितचेष्टया किमेतन्मे।**  
-**ननु तव साक्षादयमहमनन्यसाधारणो दासः॥१०॥**
+**प्रतीहारी।** ^(**५**)तह।
 
-**बकुलावलिका**— ^(**72**)जयतु जयतु भर्ता!
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** कथं न भेष्यामि। सिमिसिमायन्ति मेङ्गानि।  
+**२.** हा हा। असुखं दष्टं विषारेण। हला अवलम्बध्वमेनम्।  
+**३.** भो भवतो बाल्यादपि प्रियवयस्योस्मि। तद्विचार्य मुग्धाया मे जनन्या योगक्षेमं वहस्व।  
+**४.** देव ध्रुवसिद्धिर्विज्ञापयति। इहैवानीयतां गौतम इति।  
+**५.** तथा।
 
-**मालविका**—(आत्मगतम्)^(**73**) कथं चित्रगतो भर्ता मयासूयितः? (प्रकाशं सप्रणयवदनमञ्जलिं करोति। राजा मदनकातर्यं रूपयति।)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**विदूषकः**—^(**74**)किं भवानुदासीन इव दृश्यते?
+**विदूषकः।** देवीं विलोक्य। ^(**१**)भोदी[^521] जीवेअं वा ण वा जं मए अत्तभवन्तं सेवमाणेण दे अवरध्धं तं सव्वं[^522] अवराहं मरिसेहि[^523]।
 
-**राजा**—अविश्वसनीयत्वात्सख्यास्तव।
+[^521]: # " A C भोदि.—F reads thus : जं मए अत्तभवन्तं सेवमाणेण दे अवरध्धं तं सव्वम् अवराहं मरिसेहि। होदि जीवेअं वा ण वा."
 
-**विदूषकः**—^(**75**) अत्रभवत्यामयं कथं तवाविश्वासः?
+[^522]: # "A तस्सव्वं ; B त्तं सव्वं."
 
-**राजा**— श्रूयताम्।
+[^523]: # "B मरिस्सेहि."
 
-**पथि नयनयोः स्थित्वा स्थित्वा तिरोभवति क्षणा-**  
-**त्सरति सहसा बाह्वोर्मध्यं गतापि सखी तव।**  
-**मनसिजरुजा क्लिष्टस्यैवं समागममायया**  
-**कथमिव सखे विस्रब्धं स्यादिमां प्रति मे मनः॥११॥**
+**देवी।** ^(**२**)दीहाऊ होहि।
 
-**बकुलावलिका**—^(**76**) सखि, बहुशः किल भर्ता विप्रलब्धः। तत्त्वयात्मा विश्वसनीयः क्रियताम्।
+\निष्क्रान्तो विदूषकः प्रतीहारी च।
 
-**मालविका**—^(**77**) सखि, मम पुनर्मन्दभाग्यायाः स्वप्नसमागमोऽपि भर्तुर्दुर्लभ आसीत्।
+**राजा।** प्रकृतिभीरुस्तपस्वी। ध्रुवसिद्धेरपि यथार्थनाम्नः [सिद्धिं न मन्यते[^524]।
 
-**बकुलावलिका**—^(**78**)भर्ता कथयत्वस्या उत्तरम्।
+[^524]: # "Our MSS. सिद्धिं मन्ये. We with Tullberg."
 
-**राजा—**
+**प्रतीहारी।** प्रविश्य। ^(**३**)जेदु भट्टा। धुवसिध्धी[^525] विण्णवेदि[^517] उदकुम्भविहाणे सप्पमुद्दिअं कम्पि अण्णेसीअदुत्ति।
+
+[^525]: # "A C ध्रुवसिध्धि; B ध्धुवसिध्धी ; D ध्रुवसिद्धी."
+
+**देवी।** ^(**४**)इदं सप्पमुद्दिअं[^527] अङ्गुलीअअम्। पछ्छा मह[^528] हथ्थे देहि णम्। इति[^529] प्रयच्छति।
+
+[^527]: # "B सप्पमुद्दीअं; C °मुद्दीअं"
+
+[^528]: # "E F मम for "
+
+[^529]: # "B D E omit "
+
+**राजा।** जयसेने कर्मसिद्धावाशु प्रतिपत्तिमानय।
+
+**प्रतीहारी।** ^(**५**)जं देवो आणवेदि।
+
+\इति निष्क्रान्ता।
+
+**परिव्राजिका।** यथा मे हृदयमाचष्टे तथा निर्विषो गौतमः।
+
+**राजा।** भूयादेवम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भवति जीवेयं वा न वा यन्मयात्रभवन्तं सेवमानेन तेपराद्धं तं सर्वमपराधं मर्षय।  
+**२.** दीर्घायुर्भव।  
+**३.** जयतु भर्ता। ध्रुवसिद्धिर्विज्ञापयति। उदकुम्भपिधाने सर्पमुद्रिकां कामप्यन्विष्यतामिति।  
+**४.** इदं सर्पमुद्रीयमङ्गुलीयकम्। पश्चान्मम हस्ते देह्येतत्।  
+**५.** यद्देव आज्ञापयति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**प्रतीहारी।** प्रविश्य। ^(**१**)जेदु भट्टा। [णिवुत्तविस[^530]वेओ गोदमो पकिदिथ्थो एव्व संवुत्तो।
+
+[^530]: # "F निव्वुत्तविस°."
+
+**देवी।** ^(**२**)दिठ्ठिआ वअणीआदो मुत्तम्हि।
+
+**प्रतीहारी।** ^(**३**)एसो अमच्चो वाहदवो[^531] विण्णवेदि। राअकज्जं[^532] बहु मन्तिदव्वम्। ता दंसणेण अणुग्गहीदुं[^533] इच्छामित्ति।
+
+[^531]: # "B C D वाहदव्वो"
+
+[^532]: # "B राजकज्जं."
+
+[^533]: # "A C अणुगहिदुं."
+
+**देवी।** ^(**४**)गछ्छटु अज्ज[^534]उत्तो कज्जसिध्धीए।
+
+[^534]: # "D E F अ-अ.°"
+
+**राजा।** देवि आतपाक्रान्तोयमुद्देशः। शीतक्रिया चास्य प्रशस्ता। तदन्यत्र नीयतां शयनीयम्।
+
+**देवी।** ^(**५**)बालिआ[^535].") अज्ज[^257]उत्तवअणम् अणुचिठ्ठह।
+
+[^535]: # "B वालिअ; F बालिसा (= बालिशाः
+
+**परिजनः।** ^(**६**)तह।
+
+\[इति निष्क्रान्ता देवी परिव्राजिका परिजनश्च।
+
+**राजा।** जयसेने गूढपथेन प्रमदवनं प्रापय।
+
+**प्रतीहारी।** ^(**७**)इदो इदो देवो।
+
+**राजा।** जयसेने ननु समाप्तकृत्यो गौतमः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** जयतु भर्ता। निवृत्तविषवेगो गौतमः प्रकृतिस्थ एव संवृत्तः।  
+**२.** दिष्ट्या वचनीयान्मुक्तास्मि।  
+**३.** एषोमात्यो वाहतवो विज्ञापयति। राजकार्यं बहु मन्त्रितव्यम्। तद्दर्शनेनानुग्रहीतुम् \[i. e. दर्शनानुग्रहम् \] इच्छामीति।  
+**४.** गच्छत्वार्यपुत्रः कार्यसिद्ध्यै।  
+**५.** बालिका आर्यपुत्रवचनमनुतिष्ठत।  
+**६.** तथा।  
+**७.** इत इतो देवः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**प्रतीहारी।** ^(**१**)अह इम्।
+
+**राजा।**
+
+**इष्टाधिगमनिमित्तं प्रयोगमेकान्तसाधुमपि मत्वा।  
+सन्दिग्धमेव सिद्धौ कातरमाशङ्कते चेतः॥५॥**
+
+।प्रविश्य विदूषकः।
+
+**विदूषकः।** ^(**२**)जेदु जेदु[^537] भवम्। सिध्धाइं मे मङ्गलकज्जाइं[^538]।
+
+[^537]: # "A D E F do not repeat"
+
+[^538]: # "A C D E °कम्माइ."
+
+**राजा।** जयसेने त्वमपि नियोगमशून्यं कुरु।
+
+**प्रतीहारी।** ^(**३**)जं देवो आणवेदि।
+
+\इति निष्क्रान्ता।
+
+**राजा।** [वयस्य क्षुद्रा माधविका। न किञ्चिद्विचारितमनया।[^539]
+
+[^539]: # "F reads thus : वयस्य क्षुद्रमाधविकया न किञ्चिद्विचारितमनया।"
+
+**विदूषकः।** ^(**४**)देवीए अङ्गुली[^540]अमुद्दं देख्खिअ[^541] कहं विआरीआदि।
+
+[^540]: # "B अङ्गुलि°."
+
+[^541]: # "B देख्खीअ; F दख्खिअ."
+
+**राजा।** न खलु मुद्रामधिकृत्य ब्रवीमि। तयोर्बद्धयोः किन्निमित्तोयं मोक्षः। किं देव्याः परिजनमतिक्रम्य भवान्सन्दिष्ट इत्येवमनया प्रष्टव्यम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अथ किम्।  
+**२.** जयतु जयतु भवान्। सिद्धानि मे मङ्गलकार्याणि।  
+**३.** यद्देव आज्ञापयति।  
+**४.** देव्या अङ्गुलीयमुद्रां दृष्ट्वा कथं विचार्यते।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**विदूषकः।** ^(**१**)णं पुछ्छिदोम्हि। पच्चुप्पण्णबुध्धिणा[^542]") मए कहिदम्। देव्वचिन्तएहिं राआ भणिओ। सोवसग्गं वो णख्खन्तम्। ता सव्वबन्धणमोख्खो करिअदुत्ति। तं सुणिअ[^543] देवीए धारिणीए इरावदीचित्तं रख्खन्तीए राआ[^544] किल मोएदित्ति तुमं एव्व[^545] मोएहित्ति अहं सन्दिठ्ठोम्हि। तदो जुज्जइत्ति ताए सम्पादिओ अथ्थो।
+
+[^542]: # "B प्पच्चुपण्ण°; F पच्चुत्तरपच्चुप्पण्णवुध्धिणा (=प्रत्युत्तरप्रत्युत्पन्नबुद्धिना.
+
+[^543]: # "A B C सुणीअ."
+
+[^544]: # "A राओ."
+
+[^545]: # "A B C D E omit "
+
+**राजा।** विदूषकं परिष्वज्य। सखे प्रियोहं तव।
+
+**न हि बुद्धिगुणेनैव सुहृदामर्थदर्शनम्।  
+कार्यसिद्धिपथः सूक्ष्मः स्नेहेनाप्युपलभ्यते[^546]॥६॥**
+
+[^546]: # "B F उपलक्ष्यते."
+
+**विदूषकः।** ^(**२**)तुवरदु[^547] भवम्। समुद्दघरए ससहिं मालविअं ठाविअ भवन्तं पच्चुग्गदोम्हि।
+
+[^547]: # "E तुवरेदु."
+
+**राजा।** अहमेनां सम्भावयामि। गच्छाग्रतः।
+
+**विदूषकः।** ^(**३**)एदु भवम्। एदं समुद्दघरअम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** ननु पृष्टोस्मि। प्रत्युत्पन्नबुद्धिना मया कथितम्। दैवचिन्तकै राजा भणितः। सोपसर्गं वो नक्षत्रम्। तत्सर्वबन्धनमोक्षः क्रियतामिति। तच्छ्रुत्वा देव्या धारिण्येरावतोचित्तं रक्षन्त्या राजा किल मोचयतीति त्वमेव मोचयेत्यहं सन्दिष्टोस्मि। ततो युज्यत इति तया सम्पादितोर्थः।  
+**२.** त्वरतां भवान्। समुद्रगृहे ससखीं मालविकां स्थापयित्वा भवन्तं प्रत्युद्गतोस्मि।  
+**३.** एतु भवान्। एतत्समुद्रगृहम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** साशङ्कम्। एषा कुसुमावचय[^548]व्यग्रहस्ता सख्यास्त इरावत्याः परिचारिका चन्द्रिका समागच्छति। इतस्तावदावां भित्तिगूढौ[^549] भवावः।
+
+[^548]: # "Our MSS., and even G, कुसुमापचय.° We with Tullberg."
+
+[^549]: # "B. °गूढं."
+
+**विदूषकः।** ^(**१**)कुम्भिलएहिं कामुएहिम् अ पलिहलणीआ[^550] चन्दिआ।
+
+[^550]: # "F पडिहलणीआ."
+
+।उभौ यथोक्तं कुरुतः।
+
+**राजा।** गौतम कथं नु[^439] ते सखी मां प्रतिपालयति। एह्येनां गवाक्षमाश्रित्य विलोकयावः[^552] in place of our ")।
+
+[^552]: # "F reads प्रतिपालयावः अवलोकयावः (the latter most likely intended to be an explanation of the former
+
+।इति[^529] विलोकयन्तौ स्थितौ।
+
+।ततः प्रविशति मालावका बकुलावलिका च।
+
+**बकुलावलिका।** ^(**२**)हला पणम[^554] भट्टारं जो पस्सदो पिठ्ठदो देख्खीअदि[^555]।
+
+[^554]: # "A C D E पणम."
+
+[^555]: # "A C देखी°; F दख्खिअदि."
+
+**राजा।** मन्ये प्रतिकृतिं मे दर्शयति।
+
+**मालविका।** सहर्षम्। ^(**३**)णमो दे। द्वारमवलोक्य[^556] सविषादम्। कहिं भट्टा। हला विप्पलम्भेसि मम्।
+
+[^556]: # "B आलोक्य."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** कुम्भीलकैः कामुकैश्च परिहरणीया चान्द्रका।  
+**२.** हला प्रणम भर्तारं यः पार्श्वतः पृष्ठतो दृश्यते।  
+**३.** नमस्ते। क्व भर्ता। हला विप्रलभसे माम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** सखे हर्षविषादाभ्यामत्रभवत्याः प्रीतोस्मि।
+
+**सूर्योदये भवति या सूर्यास्तमये च पुण्डरीकस्य।  
+वदनेन सुवदनायास्ते समवस्थे क्षणादूढे[^557]॥७॥**
+
+[^557]: # "F reads the fourth pâda thus: ते समवस्थे क्षणादुपारूढे, thus turning the âryâ into a gîti."
+
+**बकुलावलिका।** ^(**१**)णम् एसो चित्तगओ भट्टा।
+
+**उभे।** प्रणिपत्य। ^(**२**)जेदु भट्टा।
+
+**मालविका।** ^(**३**)हला तदा[^545] सम्मुहठ्ठिदा[^559] अहं भट्टिणो रूवदंसणेण तह ण[^545] वितिण्हम्हि जह अज्ज। विभाविदो[^561] चित्तगददंसणो एव्व[^562] भट्टा।
+
+[^559]: # "Our MSS. ससम्भर्म उक्कण्ठिआ for "
+
+[^561]: # "B C सम्भाविदो."
+
+[^562]: # "F omits “एव्व.”"
+
+**विदूषकः।** ^(**४**)सुदं भवदा। अत्तहोदीए दिठ्ठो जह चित्ते ण तह दिठ्ठो भवन्ति मन्तिदं[^563]। मुधा दाणिं मञ्जूसा विअ रअणभण्डं जोव्वण[^564]गव्वं वहेसि।
+
+[^563]: # "Our MSS. अत्तहोदीए [F अत्तहोदी] चित्ते जह दिठ्ठो भवं तह अदिठ्ठोत्ति मन्तेदि. We according to G."
+
+[^564]: # "E जोब्बण°."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** नन्वेष चित्रगतो भर्ता।  
+**२.** जयतु भर्ता।  
+**३.** हला तदा सम्मुखस्थिताहं भर्तू रूपदर्शनेन तथा न वितृष्णास्मि यथाद्य। विभावितश्चित्रगतदर्शन एव भर्ता।  
+**४.** श्रुतं भवता। अत्रभवत्या दृष्टो यथा चित्रे न तथा दृष्टो भवानिति मन्त्रितम्। मुधेदानीं मञ्जूषेव रत्नभाण्डयौवनगर्वं बहसि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** सखे कुतूहलवानपि निसर्गशालीनः स्त्रीजनः। पश्य।
+
+**कार्त्स्न्येन निर्वर्णयितुं च[^565] रूपम्  
+इच्छन्ति तत्पूर्वसमागतानाम्।  
+न च प्रियेष्वा[^566]यतलोचनानां  
+समग्रपातीनि विलोचनानि॥८॥**
+
+[^565]: # "A B C D E हि for "
+
+[^566]: # "A B C D E प्रियेप्या°."
+
+**मालविका।** ^(**१**)का एसा ईसिपरि[^567]उत्तवअणा भट्टिणा सिणिध्धाए दिठ्ठीए[^568] णिझ्झाइअदि।
+
+[^567]: # "D ईसीपरि°."
+
+[^568]: # "B D दिठ्ठीए."
+
+**बकुलावलिका।** ^(**२**)णम् इअं पस्सगदा[^569] इरावदी[^570]।
+
+[^569]: # "A C पस्सङ्गदा."
+
+[^570]: # "D E इरावई."
+
+**मालविका।** ^(**३**)सहि अदख्खिणो[^571] विअ मे पडिभाइ[^572]। जो सव्वं देवीजणं उझ्झिअ[^240] एदाए मुहे बध्धलख्खो।
+
+[^571]: # "A B C अदखिणो."
+
+[^572]: # "E पइभाइ."
+
+**बकुलावलिका।** आत्मगतम्। ^(**४**)चित्तगदं भट्टारं परमथ्थं[^574] गेण्हिअ[^575] असूएदि[^576]। होदु। कीलिस्सं[^577] दाव एदाए। प्रकाशम्। भट्टिणो वल्लहा एसा।
+
+[^574]: # "F परमथ्थदो."
+
+[^575]: # "A C गिण्हिअ."
+
+[^576]: # "A C असूअदि."
+
+[^577]: # "B C कीलिसं."
+
+**मालविका।** ^(**५**)तदो किं दाणिं[^315] अत्ताणम् आआसेमि । सासूयं परावर्तते।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** कैषेषत्परिवृत्तवदना भर्त्रा स्निग्धया दृष्ट्या निध्यायते।  
+**२.** नन्वियं पार्श्वगतेरावती।  
+**३.** सखि अदक्षिण इव मे प्रतिभाति। यः सर्वं देवीजनमुज्झित्वैतस्या मुखे बद्धलक्षः।  
+**४.** चित्रगतं भर्तारं परमार्थं गृहीत्वासूयति। भवतु। क्रीडिष्यामि तावदेतया। भर्तुर्वल्लभैषा।  
+**५.** ततः किमिदानीमात्मानमायासयामि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** पश्य सखे ते सख्या मुखम्।
+
+**भ्रूभङ्गभिन्नतिलकं स्फुरिताधरोष्ठं  
+सासूयमाननमितः परिवर्तयन्त्या[^579]।  
+कान्तापराधकुपितेष्वनया विनेतुः  
+सन्दर्शितेव ललिताभिनयस्य शिक्षा॥९॥**
+
+[^579]: # "B C °वर्तयन्त्मः."
+
+**विदूषकः।** ^(**१**)अणुणअसज्जो दाणिं होहि।
+
+**मालविका।** ^(**२**)अज्जगोदमोवि एथ्थ एव्व सेवेदि णं[^580]। पुनः स्थानान्तराभिमुखी भवितुमिच्छति।
+
+[^580]: # "D E अ-अ°.—Our MSS. अज्जगोदमो एथ्थ ण सेवेदि. We with G."
+
+**बकुलावलिका।** मालविकां रुद्ध्वा। ३ण हु[^581] कुविदा दाणिं तुमम्।
+
+[^581]: # " E णं हि; ABCD हि for “हु.”"
+
+**मालविका।** ^(**४**)जइ चिरं कुविदं[^582] मण्णेसि एसो पच्चाणीअदि कोवो।
+
+[^582]: # "A F कुविदां."
+
+**राजा।** उपेत्य[^583]।
+
+[^583]: # "A omits "
+
+**कुप्यसि कुवलयनयने चित्रार्पितचेष्टया किमेवमयि।  
+ननु तव साक्षादयमहमनन्यसाधारणो दासः॥१०॥**
+
+**बकुलावलिका।** ^(**५**)जेदु भट्टा।
+
+**मालविका।** आत्मगतम्। ^(**६**)कहं चित्तगदो भट्टा मए असूइदो। सव्रीडवदनाञ्जलिं करोति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अनुनयसज्ज इदानीं भव।  
+**२.** आर्य गौतमप्यत्रैव सेवत एनम्।  
+**३.** न खलु कुपितेदानीं त्वम्।  
+**४.** यदि चिरं कुपितां मन्यसे एष प्रत्यानीयते कोपः।  
+**५.** जयतु भर्ता।  
+**६.** कथं चित्रगतो भर्ता मयासूयितः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** मदनकातर्यं निरूपयति।
+
+**विदूषकः।** ^(**१**)किं भवं उदासीणो[^584] विअ।
+
+[^584]: # "A उदासिणो."
+
+**राजा।** अविश्वसनीयत्वात्सख्यास्ते।
+
+**विदूषकः।** ^(**२**)मा दाव अत्तहोदीअं[^585] तुह अविस्सासो।
+
+[^585]: # "F अत्तहोदिअं."
+
+**राजा।** श्रूयताम्।
+
+**पथि नयनयोः स्थित्वा स्वप्ने[^586] तिरोभवति क्षणात्  
+सरति सहसा बाह्वोर्मध्यं गताप्यबला सती।  
+मनसिजरुजा क्लिष्टस्यैवं समागममायया  
+कथमिव सखे विश्रब्ध्रं[^587] स्यादिमां प्रति मे मनः॥११॥**
+
+[^586]: # "G स्थित्वा स्थित्वा for "
+
+[^587]: # "E F विस्रब्धं."
+
+**बकुलावलिका।** ^(**३**)सहि बहुसो किल भट्टा विप्पलध्धो। दाव एथ्थ[^588] विस्ससणिज्जो अप्पा[^589] करीअदु।
+
+[^588]: # "F अथ्थ."
+
+[^589]: # "D E आप्पा ; F अत्ता."
+
+**मालविका।** ^(**४**)सहि मम उण मन्दभाआए[^590] सिविणअसमाअमोवि[^591] भट्टिणो दुल्लहो आसी[^592]।
+
+[^590]: # "B मन्दहाआए."
+
+[^591]: # "F सिविणसमागमो."
+
+[^592]: # "A C D E F आसि."
+
+**बकुलावलिका।** ^(**५**)भट्टा देहि[^593] से उत्तरम्।
+
+[^593]: # "B C D भट्टा अ देहि &c."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** किं भवानुदासीन इव।  
+**२.** मा तावदत्रभवत्यां तवाविश्वासः।  
+**३.** सखि बहुशः किल भर्ता विप्रलब्धः। तावदत्र विश्वसनीय आत्मा क्रियताम्।  
+**४.** सखि मम पुनर्मन्दभाग्यायाः स्वप्नसमागमोपि भर्तुर्दुर्लभ आसीत्।  
+**५.** भर्तर्देह्यस्या उत्तरम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।**
 
 **उत्तरेण किमात्मैव पञ्चबाणाग्निसाक्षिकम्।  
-तवसख्यै मया दत्तो न सेव्यः सेविता रहः॥१२॥**
+तव सख्यै मया दत्तो न सेव्यः सेविता रहः॥१२॥**
 
-**बकुलावलिका**— ^(**79**)अनुगृहीतास्मि।
+**बकुलावलिका।** ^(**१**)अणुग्गही[^594]दम्हि।
 
-**विदूषकः**— (परिक्रम्य ससंभ्रमम्)^(**80**) बकुलावलिके, एष बालाशोकवृक्षस्य पल्लवानि लङ्घयति हरिणः। एहि निवारयाम एनम्।
+[^594]: # "A C D E अणुगहि° ; B अनुग्गहि°."
 
-**बकुलावलिका**—^(**81**)तथा (इति प्रस्थिता)
+**विदूषकः।** परिक्रम्य ससम्भ्रमम्। ^(**२**)बउलावलिए एसो[^595] बालासोअरुख्खस्स पल्लवा[^596]णि हरिणो लङ्घिदुम् आअछ्छइ। ता एहि णिवारेम णम्।
 
-**राजा**— वयस्य, एवमेवास्मिन्रक्षणेऽवहितेन त्वया भवितव्यम्।
+[^595]: # "A B C D E एस for "
 
-**विदूषकः**—^(**82**)एवमपि गौतमः सन्दिश्यते?
+[^596]: # "Our MSS. पल्लवा. We with G."
 
-**बकुलावलिका—**(परिक्रम्य) **⁸³**आर्य गौतम, अहमप्रकाशे तिष्ठामि। त्वं द्वाररक्षको भव।
+**बकुलावलिका।** ^(**३**)तह। प्रस्थिता।
 
-**विदूषकः**—^(**84**)युज्यते। (निष्क्रान्ता बकुलावलिका) इमं तावत्स्फटिकस्तम्भमाथितो भवामि। ( तथा कृत्वा) अहो सुखस्पर्शता शिलाविशेषस्य!
+**राजा।** एवमस्मद्रक्षणेवहितेन भवितव्यम्।
 
-(इति निद्रायते। मालविका ससाध्वसा तिष्ठति)
+**विदूषकः।** ^(**४**)एन्दवि[^597] गोदमो णं[^545] सन्दिस्सीअदि।
 
-**राजा—**
+[^597]: # "F एवंवि."
+
+**बकुलावलिका।** ^(**५**)अज्ज[^599]गोदम अहम् अप्पआसे चिठ्ठामि। तुमं दुवाररख्खओ होहि।
+
+[^599]: # "E F अ-अ°."
+
+**विदूषकः।** ^(**६**)जुज्जइ[^600]।
+
+[^600]: # "D जूज्जइ; E जुज्जई."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अनुगृहीतास्मि।  
+**२.** बकुलावलिके एष बालाशोकवृक्षस्य पल्लवान्हरिणो लङ्घितुमागच्छति। तदेहि निवारयाव एनम्।  
+**३.** तथा।  
+**४.** एतदपि गौतमो ननु सन्दिश्यते।  
+**५.** आर्यगौतम अहमप्रकाशे तिष्ठामि। त्वं द्वाररक्षको भव।  
+**६.** युज्यते।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\[निष्क्रान्ता[^601] बकुलावलिका।
+
+[^601]: # "E inserts इति before "
+
+**विदूषकः।** ^(**१**)इमं दाव फलिअथ्थलम् आस्सिदो होमि। तथा कृत्वा। अहो सुहप्परिसदा[^602] सिलाविसेसस्स। निद्रायते।
+
+[^602]: # "A C सुहेपरिस°; E has °प्फंसदा as a marginal gloss on °परिसदा."
+
+**मालविका।** ससाध्वसं तिष्ठति।
+
+**राजा।**
 
 **विसृज सुन्दरि सङ्गमसाध्वसं  
-तव चिरात्प्रभृति प्रणयोन्मुखे।  
+ननु चिरात्प्रभृति प्रणयोन्मुखे।  
 परिगृहाण गते सहकारतां  
 त्वमतिमुक्तलताचरितं मयि॥१३॥**
 
-**मालविका—**^(**85**)देव्या भयेनात्मनोऽपि प्रियं कर्तुं न पारयामि।
+**मालविका।** ^(**२**)देवीए भएण अत्तणोवि प्पिअं[^603] कादुं ण पारेमि।
 
-**राजा—**अयि न भेतव्यम्।
+[^603]: # "A D E पिअं"
 
-**मालविका—**(सोपालम्भम्)^(**86**) यो न बिभेति स मया भट्टिनीदर्शने दृष्टसामर्थ्यो भर्ता!
+**राजा।** अयि[^604] न भेतव्यं न भेतव्यम्।
 
-**राजा—**
+[^604]: # "A B C D अपि for "
 
-**दाक्षिण्यं नाम बिम्बोष्टि नायकानां कुलव्रतम्।  
-तन्मे धीर्घाक्षि ये प्राणास्ते त्वदाशानिबन्धनाः॥१४॥**
+**मालविका।** ^(**३**)जो ण भाएदि सो मए भट्टिणीदंसणे[^605] दिठ्ठसमवथ्थो भट्टा[^606]।
 
-तदनुगृह्यनां चिरानुरक्तोयं जनः (इति संश्लेषमुपजनयति। मालविका नाट्येन परिहरति)
+[^605]: # "B °दंसणो; F °दस्सणे."
 
-**राजा**—(आत्मगतम्) रमणीयः खलु नवाङ्गनानां मदनविषयावतारः। तथा हि। इयम्—
+[^606]: # "F दिठ्ठो समवथ्थो भट्टा."
 
-**हस्तं कम्पयते रुणद्धि रशनाव्यापारलोलाङ्गुलीः  
-स्वौ हस्तौ नयति स्तनावरणतामालिङ्ग्यमाना बलात्।  
-पातुं पक्ष्मलनेत्रमुन्नमयतः साचीकरोत्याननं  
-व्याजेनाप्यभिलाषपूरणसुखं निर्वर्तयत्येव मे॥१५॥**
+**राजा।**
 
-(ततः प्रविशतीरावती निपुणिका च)
+**दाक्षिण्यं नाम बिम्बोष्ठि बैम्बिकानां कुलव्रतम्।  
+तन्मे दीर्घाक्षि ये प्राणास्ते त्वदाशानिबन्धनाः॥१४॥**
 
-**इरावती**—^(**87**)हञ्जे निपुणिके, सत्यं त्वं परिगतार्था चन्द्रिकया। समुद्रगृहालिन्दशयित एकाकी आर्यगौतमो दृष्ट इति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** इदं तावत्स्फटिकस्थलमाश्रितो भवामि। अहो सुखस्पर्शता शिलाविशेषस्य।  
+**२.** देव्या भयेनात्मनोपि प्रियं कर्तुं न पारयामि।  
+**३.** यो न विभेति स मया भट्टिनोदर्शने दृष्टसमवस्थो भर्ता।
 
-**निपुणिका**—^(**88**)अन्यथा कथं भट्टिन्यै विज्ञपयामि!
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**इरावती**— ^(**89**)तेन हि तत्रैव गच्छामः संशयान्मुक्तं प्रियवयस्यं प्रष्टुं च।
+तदयम[^607]नुगृह्यतां चिरानुरक्तो जनः। इति संश्लेषमभिनयति।
 
-**निपुणिका**—^(**90**)नावशेषमिव भट्टिन्या वचनम्।
+[^607]: # "A B C D E omit “अयम्.”"
 
-**इरावती**—^(**91**)अन्यच्च चित्रगतमार्यपुत्रं प्रसादयितुम्!
+**मालविका।** नाट्येन परिहरति।
 
-**निपुणिका**—^(**92**)अथेदानीं कथं नु भर्तैवमनुनीयते?
+**राजा।** आत्मगतम्। रमणीयः खलु नवाङ्गनानां मदनविषयव्यापारः[^608]। एषा हि
 
-**इरावती**—^(**93**)मुग्धे, यादृशश्चित्रगतो ननु तादृश एवान्यसंक्रान्तहृदय आर्यपुत्रः? केवलमुपचारातिक्रमं प्रमार्जितुमयमारम्भः।
+[^608]: # "F मदनविषयावतारः."
 
-**निपुणिका**—^(**94**)इत इतो भट्टिनी। (उभे परिक्रामतः)
+**हस्तं कम्पवती[^609]") रुणद्धि रशनाव्यापारलोलाङ्गुलिं[^610]  
+हस्तौ स्वौ नयति स्तनावरणतामालिङ्ग्यमाना बलात्।  
+पातुं पक्ष्मलचक्षुरुन्नमयतः[^611] साचीकरोत्याननं  
+व्याजेनाप्यभिलाषपूरणसुखं निर्वर्तयत्येव मे॥१४॥**
 
-(प्रविश्य) **चेटी**—^(**95**)जयतु जयतु भट्टिनी! भट्टिनि, देवी भणति। “न मेमत्सरस्यैष कालः! तेन खलु बहुमानं वर्धयितुं वयस्यया सह निगलबन्धने कृता मालविका। यद्यनुमन्यसे आर्यपुत्रस्य प्रियं कर्तुं तथा करोमि। यत्तवेष्टं तन्मे भण।" इति।
+[^609]: # "5. A B C D E कम्पयती (कम्पयते ?
 
-**इरावती**—^(**96**) नागरिके, विज्ञापय देवीम्। "का वयं भट्टिनीं नियोजयितुम् परिजननिग्रहेण दर्शितो मय्यनुग्रहः। कस्य वा प्रसादेनायं जनो वर्धते?" इति।
+[^610]: # "A B C D E °लोलांशुकम्."
 
-**चेटी**—^(**97**)तथा। (इति निष्क्रान्ता)
+[^611]: # "F °नेत्रमुन्नमयतः."
 
-**निपुणिका**— (परिक्रम्यावलोक्य च) ^(**98**)भट्टिनि, एष द्वारोद्देशे समुद्रगृहस्य विपणिगत इव बलीवर्द आर्यगौतम आसीन एव निद्रायते।
+।ततः प्रविशतीरावती
 
-**इरावती**—^(**99**) अत्याहितम्! न खलु सावशेषो विषविकारो भवेत्!
+निपुणिका च।
 
-**निपुणिका**—^(**100**) प्रसन्नमुखवर्णो दृश्यते। अपि च ध्रुवसिद्धिना चिकित्सितः। तदस्याशङ्कनीयं पापम्।
+**इरावती।** ^(**१**)हञ्जे णिउणिए सच्चं तुह चन्दिआए सन्दिठ्ठं समुद्दघरा[^612]लिन्दए अज्जगोदमो एआई दिठ्ठोत्ति।
 
-**विदूषकः**— (उत्स्वप्नायते) ^(**101**)भवति मालविके!
+[^612]: # "Our MSS. °घरए. We with G. D E F अ-अ°."
 
-**निपुणिका**—^(**102**)श्रुतं भट्टिन्या, कस्यैष आत्मनियोगसंपादने विश्वसनीयो हताशः? सर्वकालमित एव स्वस्तिवाचनमोदकैः कुक्षिं पूरयित्वा सांप्रतं मालविकां स्वप्नायते।
+**निपुणिका।** ^(**२**)किं अण्णहा[^613] भट्टिणीए विण्णविदम्।
 
-**विदूषकः**—^(**103**) इरावतीमतिक्रामन्ती भव।
+[^613]: # "F अलीअं for "
 
-**निपुणिका**—^(**104**)एतदत्याहितम्! इमं भुजङ्गभीरुं ब्रह्मबन्धुमनेन भुजङ्गकुटिलेन दण्डकाष्ठेन स्तंभान्तरिता मीषयिष्यामि।
+**इरावती।** ^(**३**)तेण हि तहिम् एव्व गछ्छामो संसआदो णिम्मुत्तम् अज्जउत्तस्स पिअवअस्सं पिअं पुछ्छिदुम्। च[^614]—
 
-**इरावती**—^(**105**)अर्हत्येव कृतघ्न उपद्रवस्य।
+[^614]: # "A B C D E अ for “च”— None of our MSS. read"
 
-(निपुणिका विदूषकस्योपरि दण्डकाष्ठं पातयति)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** हञ्जे निपुणिके सत्यं तव चन्द्रिकया सन्दिष्टं समुद्रगृहालिन्द आर्यगौतम एकाकी दृष्ट इति।  
+**२.** किमन्यथा भट्टिन्यै विज्ञापितम्।  
+**३.** तेन हि तत्रैव गच्छावः संशयान्निर्मुक्तमार्यपुत्रस्य प्रियवयस्यं प्रियं प्रष्टुम्। च—
 
-**विदूषकः**— (सहसा प्रबुद्ध्य)^(**106**)अविधा अविधा! भो वयस्य, सर्पो म उपरि पतितः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा**— (सहसोपसृत्य) सखे, न भेतव्यम्! न भेतव्यम्!
+**निपुणिका।** ^(**१**)सावसेसं विअ भट्टिणीए वअणम्।
 
-**मालविका**— (अनुसृत्य)^(**107**) भर्तः, मा तावत्सहसा निष्क्राम । सर्प इति भण्यते।
+**इरावती।** ^(**२**)अण्णं च चित्तगदं[^615] अज्ज[^336]उत्तं पसादेदुं[^617]।
 
-**इरावती**—^(**108**) हा धिक्! हा धिक्! भर्ता इत एव धावति।
+[^615]: # "G reads चित्तगदं भट्टारं पसादेदुम् अ for "
 
-**विदूषकः**— (सप्रहासम्)^(**109**) कथं दण्डकाष्टमेतत्! अहं पुनर्जाने यन्मया केतकीकण्टकैर्दंशं कृतम्सर्पस्योपर्ययशः कृतम् तन्मे फलितमिति।
+[^617]: # "G reads चित्तगदं भट्टारं पसादेदुम् अ for “अण्णं च” &c. "
 
-(प्रविश्य पटाक्षेपेण) **बकुलावलिका**—^(**110**) मा तावद्भर्ता प्रविशतु। इह कुटिलगतिः सर्प इव दृश्यते।
+**निपुणिका।** ^(**३**)अह दाणिं भट्टा एव्व किं[^618] ण पच्चणुणीअदि।
 
-**इरावती**— (स्तम्भान्तरिता राजानं सहसोपेत्य)^(**111**) अपि निर्विघ्नमनोरथो दिवासंकेतो मिथुनस्य? (सवें इरावतीं दृष्ट्वासंभ्रान्ताः)
+[^618]: # "G reads कहं for "
 
-**राजा**— प्रिये, अपूर्वोऽयमुपचारः।
+**इरावती।** ^(**४**)मुध्धे जारिसो[^619] चित्तगदो तारिसी एव्व अण्णसङ्कन्तहिअओ अज्ज[^257]उत्तो। केवलम् उवआरादिक्कमं पमज्जिदुं[^621] अम्हाणम् आरम्भो।
 
-**इरावती**—¹¹²बकुलावलिके, दिष्ट्या दूत्यामिसारविषया संपूर्णा ते प्रतिज्ञा!
+[^619]: # "F जादिसो for "
 
-**बकुलावलिका**—¹¹³प्रसीदतु भट्टिनी! किं मया कृतमिति देवः प्रष्टव्यः। दर्दुरा व्याहरन्तीति किं देवः पृथिव्यां वर्षितुं विरमति?
+[^621]: # "A B C पमजिदुं; F पमजिअदुं."
 
-**विदूषकः**—¹¹⁴मा तावत्। भवत्या दर्शनमात्रेणात्रभवान्प्रणिपातलङ्घनं विस्मृतः। त्वं पुनरद्यापि प्रसादं न गृह्णासि।
+**निपुणिका।** ^(**५**)इदो भट्टिणी। इति[^529] परिक्रामतः।
 
-**इरावती**—¹¹⁵कुपितेदानीमहं किं करिष्यामि?
+।प्रविश्य चेटी।
 
-**राजा—**अस्थाने कोप इत्यनुपपन्नं त्वयि। तथा हि—
+**चेटी।** ^(**६**)जेदु भट्टिणी। देवी भणादि। एसो ण मे मछ्छरस्त कालो।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** सावशेषमिव भट्टिन्या वचनम्।  
+**२.** अन्यच्च चित्रगतमार्यपुत्रं प्रसादयितुम्।  
+**३.** अथेदानीं भर्तैव किं न प्रत्यनुनीयते।  
+**४.** मुग्धे यादृशश्चित्रगतस्तादृश एवान्यसङ्क्रान्तत्हृदय आर्यपुत्रः। केवलमुपचारातिक्रमं प्रमार्ष्टुमस्माकमारम्भः।  
+**५.** इतो भट्टिनी।  
+**६.** जयतु भट्टिनी। देवी भणति। एष न मे मत्सरस्य कालः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+in this passage णिम्मुत्तुं or मुत्तुं, the latter of which is read by Dr. Tullberg. Supposing it were possible for मुत्तुं to be the Prâkṛit form of the infinitive, the omission of a word like अत्ताणं as its object would speak much against that reading. G has altogether a different version. It reads “संसआदो मुत्तंसम्। दंसवुत्तन्तम् अ=अउत्तस्स पिअवअस्सं पुछ्छिदुम्अ।” But मुत्तंसं for मोक्ष्ये or मुक्ता भविष्यामि is at least very suspicious. See our Notes.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+तुह बहुमाणं वढ्ढिदुं[^623] वअस्सिआए सह णिअलबन्धणे किदा मालविआ। जइ अणुमण्णेसि अज्जउत्तस्स पिअं कादुं तह करेमि। जं तुह इछ्छिदं तं भणाहित्ति।[^624]
+
+[^623]: # "A B C वट्टिदुं, E वठ्ठिदुं."
+
+[^624]: # "A B C D E मण्णेमि for “अणुमण्णेसि.” —D E अ=अ°.—F reads as follows, after “मालविआ”। जइ अणुमण्णेसि अ=अउत्तंवि तुह किदे धिण्णावइस्सम्॥ एवं कल्लम्। तह करेमि॥ जं तुह इछ्छिदं तं मे भणाहित्ति॥"
+
+**इरावती।** ^(**१**)णाअरिए विण्णवेहि भट्टिणीम्। का वअं भट्टिणीं णिओजेदुं[^625]। परिअणणिग्गहेण[^626] after °ग्गहेण. We with G.") मइ दंसिदो[^627] अणुग्गहो। कस्स वा अण्णस्स प्पसादेण[^628] अअं जणो वढ्ढदित्ति[^629] भणाहि।
+
+[^625]: # "F णिओएदुं."
+
+[^626]: # "Our MSS. insert वि (= अपि
+
+[^627]: # "F दस्सिदो."
+
+[^628]: # "A B C प्रसादेण."
+
+[^629]: # "B C वट्टदित्ति; D वठ्ठदित्ति."
+
+**चेटी।** ^(**२**)तह।
+
+\इति निष्क्रान्ता।
+
+**निपुणिका।** परिक्रम्यावलोक्य च। ^(**३**)भट्टिणी एस दुवारुछ्छङ्गे समुद्द-
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+तव बहुमानं वर्धयितुं वयस्यया सह निगडबन्धने कृता मालविका। यद्यनुमन्यसे आर्यपुत्रस्य प्रियं कर्तुं तथा करोमि। यत्तवेष्टं तद्वणेति।
+
+**१.** नागरिके विज्ञापय भट्टिनीम्। का वयं भट्टिनीं नियोजयितुम्। परिजननिग्रहेण मयि दर्शितोनुग्रहः। कस्य वान्यस्य प्रसादेनायं जनो वर्धत इति भण।  
+**२.** तथा।  
+**३.** भट्टिनि एष द्वारोत्सङ्गे समुद्रगृहस्य विपणिगतो वृषभ इव विश्रब्ध आर्यगौतम आसीन एव निद्रायते।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+घरस्स [विपणिगओ[^630] वुसहो[^631] विअ विस्सध्धो[^439] अज्ज[^336]गोदमो आसीणो एव्व णिद्दाअदि[^634]।
+
+[^630]: # "E विपणिठाओ, F विपणिणिलयो, for “विपणिगओ.”"
+
+[^631]: # "A B C D E om. "
+
+[^634]: # "B D णिद्दायदि; E णिदायदि."
+
+**इरावती।** ^(**१**)अच्चाहिदं[^635]। ण ख्खु[^636] सावसेसो विसवेओ भवे[^637]।
+
+[^635]: # "F अच्चहिदं."
+
+[^636]: # "B D णं खु."
+
+[^637]: # "F सावसेसविसो भवे."
+
+**निपुणिका।** ^(**२**)पसण्णमुहो दीसइ। अवि अ धुवसिध्धिणा चिइस्सिदो। ता से असङ्कणीअं[^638] पावम्।
+
+[^638]: # "A B C D असक्कणीअं ; E असङ्क्कणीअं."
+
+**विदूषकः।** उत्स्वप्नायते। ^(**३**)होदि[^639] मालविए–।
+
+[^639]: # "A C D E होदी."
+
+**निपुणिका।** ^(**४**)सुदं भट्टिणीए। कस्स एसो अत्तणीणो। अम्भवहार[^640]संवादापेख्खी हदासो ओदरिओ[^641] इदो ससक्कारं[^642] सोथ्थिवाअणमोदएहिं कुख्खिं भरिअ सम्पदं मालविअं उस्सिविणावेदि[^643]।
+
+[^640]: # "A C अभवहार°."
+
+[^641]: # "B ओदरीओ."
+
+[^642]: # "A B C D ससकारं; F सव्वकालं for "
+
+[^643]: # "A B C उस्सिविणम् आइवेदि ; E उस्सिविणआइवेदि."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अत्याहितम्। न खलु सावशेषो विषवेगो भवेत्।  
+**२.** प्रसन्नमुखो दृश्यते। अपि च ध्रुवसिद्धिना चिकित्सितः। तदस्याशङ्कनीयं पापम्।  
+**३.** भवति मालविके—।  
+**४.** श्रुतं भट्टिन्या। कस्यैष आत्मनीनः। अभ्यवहारसंवादापेक्षो हताश औदरिक इतः ससत्कारं स्वस्तिवायनमोदकैः कुक्षिं पूरयित्वा साम्प्रतं मालविकामुत्स्वप्नायते।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**विदूषकः।** ^(**१**)इरावदिं[^644] अदिक्कमन्दी होहि।
+
+[^644]: # "A C D E इरावदीं."
+
+**निपुणिका।** ^(**२**)सुदम् अच्चाहिदम्। भुअङ्गभीरुअं बम्हबन्धुम् इमिणा भुअङ्गमकुडिलेण[^645] अत्तणो[^646] दण्डकठ्ठेण[^647] तम्भन्तरिदा[^648] भाअआमि[^649]।
+
+[^645]: # "E °कुठिलेण."
+
+[^646]: # "F om. “अत्तणो.”"
+
+[^647]: # "A °काठ्ठेण."
+
+[^648]: # "E तम्भन्तरिअ; F थ्थम्भन्तरिआ."
+
+[^649]: # "A C भआआमि."
+
+**इरावती।** ^(**३**)अरुहदि किल किदवो उवद्दवस्स[^650]।
+
+[^650]: # "A उवद्दव्वस्स."
+
+**निपुणिका।** विदूषकस्योपरि दण्डकाष्ठं पातयति।
+
+**विदूषकः।** सहसा प्रतिबुध्य। ^(**४**)अवि हा अवि हा। णं[^545] दव्वीकरो मे उवरि पडिदो[^652]।
+
+[^652]: # "A C वडिदो."
+
+**राजा।** सहसोपसृत्य। सखे न भेतव्यं न भेतव्यम्।
+
+**मालविका।** अनुसृत्य। ^(**५**)भट्टा मा दाव सहसा णिक्कम[^653]। सप्पोत्ति भणादि।
+
+[^653]: # "E निक्कम."
+
+**इरावती।** ^(**६**)हध्धि हध्धि। भट्टा इदो एव्व धावइ[^654]।
+
+[^654]: # "A C धावई."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** इरावतीमतिक्रामन्ती भव।  
+**२.** श्रुतमत्याहितम्। भुजङ्गभीरूकं ब्रह्मबन्धुमनेन भुजङ्गकुटिलेनात्मनो दण्डकाष्ठेन स्तम्भान्तरिता भीषयामि।  
+**३.** अर्हति किल कितव उपद्रवम्।  
+**४.** अपि हा अपि हा। ननु दर्वीकरो ममोपरि पतितः।  
+**५.** भर्तर्मा तावत्सहसा निष्क्रम। सर्व इति भणति।  
+**६.** हा धिक् हा धिक्। भर्तेत एव धावति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**विदूषकः।** सप्रहासम्। **^(१)**कहं[^655] दण्डकठ्ठम् इदम्। अहम् उण जाणे जं मए केअइकण्डएहिं सप्पस्स विअ[^656] दंसो किदो तं फलिदन्ति[^657]।
+
+[^655]: # "A C D कधं."
+
+[^656]: # "A B C D वि for "
+
+[^657]: # "F तम् एदं मे फलिदन्ति."
+
+।प्रविश्य पटाक्षेपेण बकुलावलिका।
+
+**बकुलावलिका।** ससम्भ्रमम्। **^(२)**कहिं सप्पो[^658]। मा ख्खु भट्टा पविस। इह कुडिलगइ[^659] सप्पो विअ दीसइ[^660]।
+
+[^658]: # "F सवो for "
+
+[^659]: # "D कुटिलगई."
+
+[^660]: # "D E दीसई."
+
+**इरावती।** राजानमुपसृत्य। ^(**३**)अवि सिध्धा मणोरहा दिवासङ्केदमिहुणस्स।
+
+**सर्वे।** इरावतीं दृष्ट्वा सम्भ्रान्ताः।
+
+**राजा।** अपूर्वोयमुपचारः।
+
+**इरावती।** ^(**४**)बउलावलिए दिठ्ठिआ[^661] दोच्चाहिआरविसआ सम्पुण्णा दे पडिण्णा[^662]।
+
+[^661]: # "A C D E दिठ्ठिया."
+
+[^662]: # "A C पडिणा."
+
+**बकुलावलिका।** ^(**५**)पसीददु[^663] भट्टिणी। किं दद्दुरा[^664] वाहरन्तित्ति देव्वो पुडविं विसुमरदि।
+
+[^663]: # "A B C D E पसीद."
+
+[^664]: # "Our MSS. किं मए किदम्। देषो पुछ्छिदवो for "
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** कथं दण्डकाष्ठमिदम्। अहं पुनर्जाने यन्मया केतकीकण्टकैः सर्पस्येव दंशः कृतस्तत्फलितमिति।  
+**२.** क सर्पः। मा खलु भर्तः प्रविश। इह कुटिलगतिः सर्प इच दृश्यते।  
+**३.** अपि सिद्धा मनोरथा दिवासङ्केतमिथुनस्य।  
+**४.** बकुलावलिके दिष्ट्या दौत्याधिकारविषया सम्पूर्णा ते प्रतिज्ञा।  
+**५.** प्रसीदतु भट्टिनी। किं दर्दुरा व्याहरन्तीति देवः पृथिवीं विस्मरति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**विदूषकः।** ^(**१**)मा दाव। अत्तहोदीए दंसणमेत्तएण अत्तभवं पणिपादलङ्घणं विसुमरिदो। तुमम् उण अज्जवि[^545] पसादं ण गेण्हेसि[^666]।
+
+[^666]: # "A गण्हसि ; C गेण्हसि."
+
+**इरावती।** ^(**२**)कुविदावि दाणिं[^545] अहं किं करिस्सम्।
+
+**राजा।** अस्थाने कोप इत्यनुपपन्नं त्वयि। तथा हि।
 
 **कदा मुखं वरतनु कारणादृते  
 तवागतं क्षणमपि कोपपात्रताम्।  
 अपर्वणि ग्रहकलुषेन्दुमण्डला  
-विभावरी कथय कथं भविष्यति॥१६॥**
+विभावरी कथय कथं भविष्यति॥१५॥**
 
-**इरावती**—¹¹⁶अस्थान इति सुष्ठु व्याहृतमार्यपुत्रेण। अन्यसंक्रान्तेष्वस्माकं भागधेयेषु यदि पुनः कुप्येयम्, ततो नन्वहं हास्या भवेयम्।
+**इरावती।** ^(**३**)अठ्ठाणेत्ति सुठ्ठु भणिदं अज्ज[^336]उत्तेण। अण्णसङ्क्कन्तेसु अम्हाणं भाअहेएसु[^669] जइ[^670] उण कुप्पिस्सं तदो हस्सा भविस्सम्।
 
-**राजा—**त्वमन्यथा कल्पयसि। अहं पुनः सत्यमेव कोपस्थानं न पश्यामि। कुतः
+[^669]: # "A B C F भाअहेयेसु."
 
-**नार्हति कृतापराधोऽयुत्सवदिवसेषु परिजनो दण्डम्।**  
-**इति मोचिते मयैते प्रणिपतितुं मामुपगते च॥१७॥**
+[^670]: # "C जई."
 
-**इरावती**—¹¹⁷निपुणिके, गच्छ देवीं विज्ञापय, दृष्टो भवत्याः पक्षपातो नन्वद्येति।
+**राजा।** त्वमन्यथा कल्पयसि[^671]। अहं पुनः सत्यमेव कोपस्थानं न[^672] पश्यामि[^673]। कुतः।
 
-**निपुणिका**—¹¹⁸तथा। (इति निष्क्रान्ता)
+[^671]: # "B कलयसि for "
 
-**विदूषकः—**(आत्मगतम्) ^(**119**)अहो, अनर्थः संपतितः! बन्धनभ्रष्टो गृहकपोतो बिडालिकाया आलोके पतितः।
+[^672]: # "E omits “न” altogether."
 
-**निपुणिका—**(प्रविश्यापवार्य)^(**120**) भट्टिनि, यदृच्छादृष्टया माधविकयाख्यातम्। एवं खल्वेतन्निर्वृत्तमिति। (इति कर्णे कथयति)
+[^673]: # "Our MSS. गृह्णामि for "
 
-इरावती—
+**नार्हति कृतापराधोप्युत्सवदिवसेषु परिजनो बन्धम्।  
+इति मोचिते मयैते प्रणिपतितुं मामुपगते च॥१६॥**
 
-(आत्मगतम्)^(**121**)उपपन्नम्। सत्यमयमत्र ब्रह्मबन्धुना कृतः प्रयोगः। (विदूषकं विलोक्य) इयमस्य कामतन्त्रसचिवस्य नीतिः।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** मा तावत्। अत्रभक्त्या दर्शनमात्रेणात्रभवान्प्रणिपातलङ्घनं विस्मृतः। त्वं पुनरद्यापि प्रसादं न गृह्णासे।  
+**२.** कुपितापीदानीमहं किं करिष्ये।  
+**३.** अस्थान इति सुष्ठु भणितमार्यपुत्रेण। अन्यसङ्क्रान्तेष्वस्माकं भागधेयेषु यदि पुनः कुप्ये ततो हास्या भविष्यामि।
 
-**विदूषकः**—¹²²
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+15. Our MSS. दण्डम्. We with G.
 
-भवति, यदि नीतिगतमेकमप्यक्षरं पठेयम्, ननु मयात्रभवान्प्रेषितो भवेत्।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा—**
+**इरावती।** ^(**१**)णिपुणिए देवीं[^674] विण्णवेहि[^675]। दिठ्ठं भवदीए पख्खवादित्तणन्ति[^676]।
 
-(आत्मगतम्) कथं नु खल्वस्मात्संकटादात्मानं मोचयिष्यामि?
+[^674]: # "A देवीए."
 
-(प्रविश्य) **प्रतीहारी**—¹²³
+[^675]: # "F विणवेहि."
 
-देव, कुमारी वसुलक्ष्मीः कन्दुकमनुधावन्ती पिङ्गलवानरेण बलवत्त्रासिताङ्कनिषण्णा देव्याः प्रवातकिसलयमिव वेपमाना न किञ्चित्प्रकृतिं प्रतिपद्यते।
+[^676]: # "F पख्खवादित्तणम् अज्जेत्ति."
 
-राजा—
+**निपुणिका।** ^(**२**)तह।
 
-कष्टं कष्टम्! कातरो बालभावः।
+\इति निष्क्रान्ता।
 
-**इरावती—**
+**विदूषकः।** आत्मगतम्। ^(**३**)अहो अणथ्थो सम्पडिदो। [बन्धणभ्भट्टो[^677] गिहकपोदो चिल्लाए मुहे पडिदो।
 
-(सावेगम्)^(**124**)त्वरतामार्यपुत्र एनां समाश्वासयितुम्। मास्याः संत्रासजनितो विकारो वर्धताम्।
+[^677]: # "Our MSS. मन्दारलदालग्गो विअ for “बन्धणभ्भट्टो,” which we read with Tullberg."
 
-**राजा—**
+।प्रविश्य निपुणिका।
 
-अयमेनामहं संज्ञापयामि। (इति सत्वरं परिक्रामति)
+**निपुणिका।** ^(**४**)भट्टिणी जदिछ्छादिठ्ठाए माहविआए आचख्खिदम्। एव्वं खु एदं णिव्वुत्तम्। इति कर्णे कथयति।
 
-**विदूषकः**—¹²⁵
+**इरावती।** आत्मगतम्। **^(५)**उववण्णम्। सअम् एव्व बम्हबन्धुणा उभ्भिण्णो दुग्गप्पओओ[^678].")। विदूषकं विलोक्य। प्रकाशम्। इअम् इमस्स कामतन्तसइवस्स णीई[^679]।
 
-साधु रे पिङ्गलवानर, साधु! परित्रातस्त्वया स्वपक्षः। (निष्क्रान्तो राजा विदूषकश्च। इरावती निपुणिका प्रतीहारी च)
+[^678]: # "B C D दुग्गपआओ (= दुर्गप्रकाशः
 
-**मालविका**—¹²⁶
+[^679]: # "E णिइ ; A B C D णिई."
 
-सखि, देवीं चिन्तयित्वा वेपते मे हृदयम्। न जानेऽतः परं किं वानुभवितव्यं भविष्यतीति।
+**विदूषकः।** ^(**६**)होदी[^680] जदि णीइए एक्कम्पि अख्खरं पढेअं[^681] तदो गाअत्तिम्पि विसुमरेइम्।
 
-(नेपथ्ये) ^(**127**)आश्चर्यमाश्चर्यम्! अपूर्ण एव पञ्चरात्रे दोहदस्य मुकुलैः संनद्धस्तपनीयाशोकः। यावद्देव्यै निवेदयामि।
+[^680]: # "D E होदि."
 
-(उभे श्रुत्वा प्रहृष्टे)
+[^681]: # "A C D पढअं; E पठअं."
 
-**बकुलावलिका**—^(**128**) आश्वसितु सखी। सत्यप्रतिज्ञा देवी।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** निपुणिके देवीं विज्ञापय। दृष्टं भवत्याः पक्षपातित्वमिति।  
+**२.** तथा।  
+**३.** अहो अनर्थः सम्पतितः। बन्धनभ्रष्टो गृहकपोतश्चिल्लाया मुखे पतितः।  
+**४.** भट्टिनि यदृच्छादृष्टया माधविकयाख्यातम्। एवं खल्वेतन्निर्वृत्तमिति।  
+**५. **उपपन्नम्। स्वयमेव ब्रह्मबन्धुनोद्भिन्नो दुर्गप्रयोगः। इयमेतस्य कामतन्त्रसचिवस्य नीतिः।  
+**६.** भवति यदि नीत्या एकमप्यक्षरं पठेयं ततो गायत्रीमपि विस्मरेयम्।
 
-**मालविका**—^(**129**)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-तेन हि प्रमदवनपालिकायाः पृष्ठतो भवामि।
+**राजा।** आत्मगतम्। कथं नु सङ्कटादस्मादात्मानं मोक्ष्यामि।
 
-**बकुलावलिका**—¹³⁰
+।प्रविश्य सावेगं[^682] जयसेना।
 
-तथा (इति निष्क्रान्ते)
+[^682]: # "E सवेगं."
 
-इति चतुर्थोऽङ्कः
+**जयसेना।** ^(**१**)देव्व कुमारी वसुलछ्छी कन्दुअम् अणुधावन्ती[^683] पिङ्गलवाणरेण बलिअम् उत्तासिदा अङ्कणिसण्णा[^684] देवीए पवादे किसलअं विअ वेवमाणा दाणिम्पि[^685] पकिदिं ण पडिवज्जइ[^686]।
 
-<MISSING_FIG href="../books_images/U-IMG-1723640610Screenshot2024-08-14183248.png"/>
+[^683]: # "B °धावदी ; C D E °धावती; F धावन्दी."
 
-**अथ पञ्चमोऽङ्कः**
+[^684]: # "A C °णिस्सण्णा ; F अङ्के णिसण्णा."
 
-(ततः प्रविशत्युद्यानपालिका)
+[^685]: # "A C दाणीं°."
 
-**उद्यानपालिका**—^(**1**)उपक्षिप्तो मया कृतसत्कारविधेस्तपनीयाशोकस्य वेदिकाबन्धः। यावदनुष्ठितनियोगमात्मानं देव्यै निवेदयामि। (परिक्रम्य) अहो दैवस्यानुकम्पनीया मालविका! तस्यां तथा चण्डी देव्यनेनाशोककुसुमवृत्तान्तेन प्रसादसुमुखी भविष्यति। कुत्र नु खलु देवी भवेत्! (विलोक्य) अहो, एष देव्याः परिजनाभ्यन्तरः किमपि जतुमुद्रालाञछितां मञ्जूषां गृहीत्वा चतुःशालातः कुब्जः सारसिको निष्कामति। प्रक्ष्यामि तावदेनम्। (ततः प्रविशति यथानिर्दिष्टहस्तः कुब्जः) (उपसृत्य) सारसिको, कुत्र प्रस्थितोऽसि?
+[^686]: # "A पडिवज्जई."
 
-**सारसिकः**—^(**2**)मधुकरिके, विद्याभरितानां ब्राह्मणानां नित्यदक्षिणां मासिकीपुरोहितस्य हस्तं प्रापयिष्यामि।
+**राजा।** कथं[^687] कातरो बालभावः।
 
-**मधुकरिका**—^(**3**)अथ किंनिमित्तम्?
+[^687]: # "F कष्टं for "
 
-**सारसिकः**—^(**4**)यदा प्रभृति सेनापतिर्यज्ञतुरङ्गरक्षणे नियुक्तो भर्तृदारको वसुमित्रस्ततः प्रभृति तस्यायुर्निमित्तं निष्कशतसुवर्णपरिमाणां दक्षिणां देवी दक्षिणीयैः परिग्राहयति।
+**इरावती।** सावेगम्। ^(**२**)तुवरेदु[^688] अज्ज[^689]उत्तो णं समस्सासइदुम्। मा से सन्दावजणिओ विआरो वढ्ढदु[^690]।
 
-**मधुकरिका**—^(**5**)अथ कुत्र देवी? किं वानुतिष्ठति?
+[^688]: # "B D E तुवरदु."
 
-**सारसिकः**—^(**6**)मङ्गलगृह आसनस्था भूत्वा विदर्भविषयाद्भ्रात्रा वीरसेनेन प्रेषितं लेखं लेखकरैर्वाच्यमानं शृणोति।
+[^689]: # "D E अ=अ.°"
 
-**मधुकरिका**— ^(**7**)कः पुनर्विदर्भराजवृत्तान्तः श्रूयते?
+[^690]: # "A वट्टदु; E वठ्ठदु ."
 
-**सारसिकाः**—^(**8**)वशीकृतः किल वीरसेनप्रमुखैर्भर्तुर्विजयदण्डैर्विदर्भनाथः। मोचितोऽस्य दायादो माधवसेनः। दूतश्च तेन महासाराणि रत्नानि वाहनानि शिल्पकारिकाभूयिष्ठं परिजनमुपायनीकृत्य भर्तुः सकाशं प्रेषित इति।
+**राजा।** अहमेनां[^691] सञ्ज्ञापयामि। सत्वरं परिक्रामति।
 
-**मधुकरिका**—^(**9**) गच्छानुतिष्टात्मनो नियोगम्। अहमपि देवीं प्रेक्षिष्ये। 
+[^691]: # "C D E एतां."
 
-(इतिनिष्क्रान्तौ)
+**विदूषकः।** आत्मगतम्[^692]। ^(**३**)साहु रे पिङ्गलवाणर साहु। परित्तादो तुए सपख्खो।
 
-इति प्रवेशकः
+[^692]: # "We read “आत्मगतम्” with G."
 
-(ततः प्रविशति प्रतीहारी)
+\निष्क्रान्तो वयस्येन राजा इरावती प्रतीहारी च।
 
-**प्रतीहारी**—^(**10**)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** देव कुमारी वसुलक्ष्मीः कन्दुकमनुधावन्ती पिङ्गलवानरेण बलवदुत्त्रासिताङ्कनिषण्णा देव्याः प्रवाते किसलय इव वेपमानेदानीमपि प्रकृतिं न प्रतिपद्यते।  
+**२.** त्वरतामार्यपुत्र एनां समाश्वासयितुम्। मास्याः सन्तापजनितो विकारो वर्धताम्।  
+**३.** साधु रे पिङ्गलवानर साधु। परित्रातस्त्वया सपक्षः।
 
-आज्ञप्तास्म्यशोकसत्कारव्यापृतया देव्या। विज्ञापय आर्यपुत्रेण सहाशोकवृक्षस्य प्रसूनलक्ष्मीं प्रत्यक्षीकर्तुमिति। तद्यावद्धंर्मासनगतं देवं प्रतिपालयामि। (इति परिक्रामति)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(नेपथ्ये वैतालिकौ)
+**मालविका।** ^(**१**)हला [देविं चिन्तअन्तीए[^693] वेवइ मे हिअअम्। ण जाणे अदोवरं किं अणुहोदव्वन्ति[^694]।
 
-**प्रथमः**—
+[^693]: # "F देवीं चिन्दयन्दीए."
 
-दिष्ट्यादण्डैरेव रिपुशिरस्सु वर्तते देवः।
+[^694]: # "F inserts सत्वरं परिक्रामति after “अणुहोदव्वन्ति.”"
 
-परभृतकलव्याहारेषु त्वमात्तरतिर्मधुं  
+।नेपथ्ये।
+
+^(**२**)अच्चरिअम् अच्चरिअम्। अपुण्णे एव्व पञ्चरत्ते दोहलस्स मुउलेहिं सण्णध्धो तवणीआसोओ। जाव देवीए णिवेदेमि।
+
+**उभे।** श्रुत्वा प्रहृष्टे।
+
+**बकुलावलिका।** ^(**३**)अस्ससदु पिअसही। सच्चप्पडिण्णा देवी।
+
+**मालविका।** ^(**४**)तेण हि पमदवणपालिआए पिठ्ठदो[^695] होम्म।
+
+[^695]: # "C पिट्टदो."
+
+**बकुलावलिका।** ^(**५**)तह।
+
+\इति निष्क्रान्ताः सर्वे।
+
+**॥इति चतुर्थोङ्कः॥**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** हला देवीं चिन्तयन्त्या वेपते मे हृदयम्। न जानेतः परं किमनुभवितव्यमिति।  
+**२.** आश्चर्यमाश्चर्यम्। अपूर्ण एव पञ्चरात्रे दोहदस्य मुकुलैः सन्नद्धस्तपनीयाशोकः। यावद्देव्यै निवेदयामि।  
+**३.** आश्वसितु प्रियसखी। सत्यप्रतिज्ञा देवी।  
+**४.** तेन हि प्रमदवनपालिकायाः पृष्ठतो भवावः।  
+**५.** तथा।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+। ततः प्रविशत्युद्यानपालिका।
+
+**उद्यानपालिका।** ^(**१**)उवख्खित्तो मए किदसक्कारविहिणो [तवणीआ[^696]सोअस्स भित्तिबन्धो। जाव अणुठ्ठिअणिओअम् अप्पाणं देवीए णिवेदेमि। परिक्रम्य। अहो देव्वस्त अणुकम्पणिज्जा मालविआ। तस्सिं तह चण्डिआ देवी इमिणा[^439] असोअकुसुमउत्तन्तेण[^698] पसादाहिमुही भविस्सदि। कहिं णु ख्खु भवे देवी। विलोक्य। एसो देवीपरि[^699]अणम्भन्तरो किंवि जदु[^700]मुद्दालञ्छिअं चीर[^701]मञ्जूसं करे गेण्हिअ कुज्जो सारसओ[^702], and retains the same form of the proper name in the succeeding speeches.") चउस्सालादो णिक्कमेदि। पुछ्छिस्सं[^703] दाव णम्।
+
+[^696]: # "B D E तवणीया°."
+
+[^698]: # "F °कुसुमथ्थवएण."
+
+[^699]: # "F देवीए परि°. [बन्धनं."
+
+[^700]: # "A B C जवु°; F जउ°."
+
+[^701]: # "F चीर-"
+
+[^702]: # "F सारओ (= सारकः
+
+[^703]: # "A B C पुछ्छिसं."
+
+।ततः प्रविशति यथानिर्दिष्टः कुब्जः।
+
+**उद्यान॰।** उपसृत्य। ^(**२**)सारसअ कहिं पथ्थिदोसि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** उपक्षिप्तो मया कृतसंस्कारविधेस्तपनीयाशोकस्य भित्तिबन्धः। यावदनुष्ठितनियोगमात्मानं देव्यै निवेदयामि। अहो दैवस्यानुकम्पनीया मालविका। तस्यां तथा चण्डिका देव्यनेनाशोककुसुमवृत्तान्तेन प्रसादाभिमुखी भविष्यति। क्व नु खलु भवेद्देवी। एष देवीपरिजनाभ्यन्तरः कामपि जतुमुद्रालाञ्छितां चीरमञ्जूषां करे गृहीत्वा कुब्जः सारसकश्चतुःशालाया निष्क्रमति। प्रक्ष्यामि तावदेनम्।  
+**२.** सारसक कुत्र प्रस्थितोसि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**सारसकः।** ^(**१**)मधुअरिए[^704] विज्जापारआणं[^705] अणुचिठ्ठन्ताणं बम्हणाणं इमा[^706] णिच्चदख्खिणा मासिआ दादव्वा। तं अज्ज[^336]पुरोहिदस्स हथ्थं पाविदुम्।
+
+[^704]: # "F महुअरिए."
+
+[^705]: # "A. °पारअणां, C °पारआणां ; F विज्जापारअणं."
+
+[^706]: # "F इअं for "
+
+**मधुकरिका।** ^(**२**)किण्णिमित्तम्।
+
+**सारसकः।** ^(**३**)जदप्पहुदि सुदं सेणावइणा जण्णतुरअरख्खणे णिउत्तो[^708] भट्टिदारओ वसुमित्तओत्ति तदप्पहुदि तस्स आउसो णिमित्तम् अठ्ठादससुवण्णपरिमाणं दख्खिणं देवी दख्खिण्णेहिं[^709] पडिग्गाहेइ[^710]।
+
+[^708]: # "A C णिवुत्तो."
+
+[^709]: # "B D E दाख्खिणेहिं ; C दख्खिणेहिं."
+
+[^710]: # "F पडिग्गाहीअइ."
+
+**मधुकरिका।** ^(**४**)जुज्जइ। अह कहिं देवी।
+
+**सारसकः।** ^(**५**)मङ्गलघरए आसणथ्था विदभ्भविसआदो भादुणा वीरसेणेण पेसिदं लिविकरेहिं[^711] वाचिअमाणं लेहपत्तं सुणादि।
+
+[^711]: # "A E लिविङ्करेहिं."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** मधुकरिके विद्यापारगाणामनुतिष्ठतां ब्राह्मणानामियं नित्यदक्षिणा मासिका दातव्या। तामार्युपुरोहितस्य हस्तं प्रापयितुम्।  
+**२.** किन्निमित्तम्।  
+**३.** यतःप्रभूति श्रुतं सेनापतिना यज्ञतुरगरक्षेण नियुक्तो भर्तृदारको वसुमित्र इति ततःप्रभृति तस्यायुषो निमित्तमष्टादशसुवर्णपरिमाणां दक्षिणां देवी दक्षिण्यैः परिग्राहयति।  
+**४.** युज्यते। अथ क्व देवी।  
+**५.** मङ्गलगृह आसनस्था विदर्भाविषयाद्द्रात्रा वीरसेनेन प्रेषितं लिपिकारैर्वाच्यमानं लेखपत्रं शृणोति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**मधुकरिका।** ^(**१**)को उण विदम्भराअवुत्तन्तो।
+
+**सारसकः।** ^(**२**)वसीकिदो किल वीरसेणप्पमुहेहिं[^712] भट्टिणो विअअदण्डेहिं विदभ्भणाहो। मोइदो से दाआदो माहवसेणो। तेण हि महासाराणि रअणवाहणाणि सिप्पिदारिआभूइठ्ठं परिअणम् अ उवाअणीकरिअ[^713] दूदो भट्टिणो सआसं पेसिदो। सुवो[^714] किल भट्टारं देख्खि[^715]स्सदित्ति।
+
+[^712]: # "A C D E °पमुहेहिं."
+
+[^713]: # "Our MSS. परिअणम् उवाअणीकरिअ दूदो अ. We with G.--B E करीअ."
+
+[^714]: # "B सुव्वो."
+
+[^715]: # "F दख्खि°."
+
+**मधुकरिका।** ^(**३**)गछ्छ अणुचिठ्ठ अत्तणो णिओअम्। अहंवि देवीं पेख्खिस्सं[^716]।
+
+[^716]: # "B पेख्खीस्सं; F पख्खिस्सं ."
+
+\निष्क्रान्तौ।
+
+॥प्रवेशकः॥
+
+।ततः प्रविशति प्रतीहारी।
+
+**प्रतीहारी।** ^(**४**)आणत्तम्हि देवीए। विण्णवेहि [अज्ज[^717]उत्तम्। इछ्छामि अज्ज[^336]उत्तेण सह असोअरुख्खपसूणलछ्छीं पच्चख्खीकरेदुन्ति[^719]। जाव धम्मासणगदं देवं पडिवालेमि।
+
+[^717]: # "E F अ=अ°."
+
+[^719]: # "F °लछ्छिं पच्चख्खीकरिदुन्त्ति."
+
+।इति परिक्रामति।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** कः पुनर्विदर्भराजवृत्तान्तः।  
+**२.** वशीकृतः किल वीरसेनप्रमुखैर्भर्तुर्विजयदण्डैर्विदर्भनाथः। मोचितोस्य दायादो माधवसेनः। तेन हि महासाराणि रत्नवाहनानि शिल्पिदारिकाभूयिष्ठं परिजनं, चोपायनीकृत्य दूती भर्तुः सकाशं प्रेषितः। श्वः किल भर्तारं द्रक्ष्यतीति।  
+**३.** गच्छानुतिष्ठात्मनो नियोगम्। अहमपि देवीं प्रेक्षिष्ये।  
+**४.** आज्ञप्तास्मि देव्या। विज्ञापयार्य पुत्रम्। इच्छाम्यार्यपुत्रेण सहाशोकवृक्षप्रसूनलक्ष्मीं प्रत्यक्षीकर्तुमिति। यावद्धर्मासनगतं देवं प्रतिपालयामि।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+।नेपथ्ये वैतालिकौ।
+
+दिष्ट्या दण्डेनैवारिशिरःसु वर्तते देवः।
+
+**प्रथमः।**
+
+**परभृतकलव्याहारेषु त्वमात्तरतिर्मधुं  
 नयसि विदिशातीरोद्यानेष्वनङ्ग इवाङ्गवान्।  
-विजयकरिणामालानत्वं गतैः प्रबलस्य ते  
-वरद वरदारोधोवृक्षैः सहावनतो रिपुः॥१॥
+विजयकरिणामालानाङ्कैरुपोढबलस्य ते  
+वरद वरदारोधोवृक्षैः सहावनतो रिपुः॥१॥**
 
-**द्वितीयः**—
+**द्वितीयः।**
 
-विरचितपदं वीरप्रीत्या सुरोपमसूरिभि-  
-श्चरितमुभयोर्मध्येकृत्य स्थितं कथकैशिकान्।  
+**विरचितपदं वीरप्रीत्या सुरोपमसूरिभिश्  
+चरितमुभयोर्मध्येकृत्य स्थितं क्रथकैशिकान्।  
 तव हृतवतो दण्डानीकैर्विदर्भपतेः श्रियं  
-परिघगुरुभिर्दोर्भिर्विष्णोः प्रसह्य च रुक्मिणीम्॥२॥
+परिघगुरुभिर्दोर्भिः शौरेः प्रसह्य च रुक्मिणीम्॥२॥**
 
-प्रतीहारी—^(**11**)
+**प्रती॰।** ^(**१**)एसो जअसद्द[^720]सूइअपथ्थाणो इदो एव्व आअछ्छदि[^721] देवो। अहंवि दाव इमस्स पमुहादो किंवि ओसरिअ एदं मुहालिन्दतोरणं समस्सिदा होमि। एकान्ते स्थिता।
 
-एष जयशब्दसूचितप्रस्थानो भर्तेत एवागच्छति। अहमपि तावदस्य प्रमुखाल्लोकादपसृत्य स्तम्भान्तरिता भवामि। (इत्येकान्ते स्थिता)
+[^720]: # "B जयसद्द°."
 
-(प्रविश्य सवयस्यः)
+[^721]: # "F आअछ्छइ."
 
-**राजा**—
+।ततः प्रविशति सवयस्यो राजा।
 
-कान्तां विचिन्त्य सुलभेतरसंप्रयोगां  
+**राजा।**
+
+**कान्तां विचिन्त्य सुलभेतरसम्प्रयोगां  
 श्रुत्वा विदर्भपतिमानमितं बलैश्च।  
 धाराभिरातप इवाभिहतं सरोजं  
-दुःखायते मम मनः सुखमश्नुते च॥३॥
+दुःखायते च हृदयं सुखमश्नुते च॥३॥**
 
-**विदूषकः**—^(**12**)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** एष जयशब्दसूचितप्रस्थान इत एवागच्छति देवः। अहमपि तावदस्य प्रमुखतः किञ्चिदपसृत्यैतन्मुखालिन्दतोरणं समाश्रिता भवामि।
 
-यथाहं पश्यामि। एकान्तसुखितो भवान्भविष्यति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा**—
+**विदूषकः।** ^(**१**)जह देख्खामि[^722] तह[^723] सव्वहा एक्कन्तसुहिदो[^724] भवं भविस्सदि[^725]।
 
-कथमिव?
+[^722]: # "F दख्खामि."
 
-**विदूषकः**—^(**13**)
+[^723]: # "Our MSS. do not give “तह” "
 
-अद्य किल देव्यैवं पण्डितकौशिकीं भणिता।—‘‘
+[^724]: # "we according to G—B°सुहितो."
 
-भगवति,यत्त्वं प्रसाधनगर्वं वहसि, तद्दर्शय मालविकायाः शरीरे विवाहनैपथ्यम्।’ इति। तया स विशेषालङ्कृता मालविका। तत्रभवती कदा चिन्पूरयेद्भवतोऽपि मनोरथम्।
+[^725]: # "A B C D E read त्ति after "
 
-**राजा**—
+**राजा।** सखे कथमिव।
 
-सखे, मदपेक्षामनुप्राप्य अनया धारिण्या पूर्वाचरितैः संभाव्यत एवैतत्।
+**विदूषकः।** ^(**२**)अज्ज किल देवीए धारिणीए पण्डिदकोसिई[^726] भणिदा। भअवदि जइ तुमं पसाहणगव्वं वहेसि[^727] तं दंसेहि मालविआए सरीरे वेदभ्भअं विवाहणेवथ्थन्ति[^728]। ता सविसेसालङ्किदा मालविआ। तत्तहोदी कदाविभ्भवदो[^729] मणोरहं पूरेइ[^730]।
 
-**प्रतीहारी**— (उपगम्य)^(**14**) जयतु भर्ता! देवी विज्ञापयति। तपनीयाशोकस्य कुसुमहदर्शनेन ममारम्भः सफलः क्रियतामिति।
+[^726]: # "B E °कोसिइ."
 
-**राजा**—
+[^727]: # "A C D E F वहसि."
 
-ननु तत्रैव तिष्ठति ?
+[^728]: # "A D E °णेबछ्छं; F °णेपछ्छं."
 
-**प्रतीहारी**—^(**15**)
+[^729]: # "D कदाचि for "
 
-अथ किम्। यथार्हसंमानसुखितमन्तःपुरं विसृज्य मालविकापुरोगेणात्मनः परिजनेन सह देवं प्रतिपालयति।
+[^730]: # "A B C D E पुराएइ."
 
-**राजा**— (सहर्षं विलोक्य विदूषकम्) जयसेने, गच्छाग्रतः।
+**राजा।** सखे मदपेक्षानुवृत्त्या निवृत्तेर्ष्याया धारिण्याः पूर्वचरितैः सम्भाव्यत एतत्।
 
-**प्रतीहारी**—^(**16**)एत्वेतु देवः। (इति परिक्रामति)
+**प्रती॰।** उपगम्य। ^(**३**)जेदु भट्टा। देवी विण्णवेदि[^517] तवणीआसोअस्स कुसुमसोहादंसणेण[^732] मह आरम्भो[^733] सफलो[^734] करीअदुत्ति।
 
-**विदूषकः**— (विलोक्य) ^(**17**)भो वयस्य, किञ्चित्परिवृत्तयौवन इव वसन्तः प्रमदवने लक्ष्यते।
+[^732]: # "F सोहादस्सणेण."
 
-**राजा**— यथाह भवान्।
+[^733]: # "A B C D E महारम्भो for "
 
-अग्रे विकीर्णकुरबकफलजालकभिद्यमान सहकारम्।  
-परिणामाभिमुखमृतोरुत्सुकयति यौवनं चेतः॥४॥
+[^734]: # "A B C D सफलं ."
 
-**विदूषकः**—(परिक्रम्य) ^(**18**)अहो, अयं स दत्तनेपथ्य इव कुसुमस्तवकैस्तपनीवाशोकः! अवलोकयतु भवान्।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** यथा पश्यामि तथा सर्वथैकान्तसुखितो भवान्भविष्यति।  
+**२.** अद्य किल देव्या धारिण्या पण्डितकौशिकी भणिता। भगवति यदि त्वं प्रसाधनगर्वं वहसि तद्दर्शय मालविकायाः शरीरे वैदर्भकं विवाहनेपथ्यमिति। तत्सविशेषालङ्कृता मालविका। तत्रभवती कदाचिद्भवतो मनोरथं पूरयेत्।  
+**३.** जयतु भर्ता। देवी विज्ञापयति। तपनीयाशोकस्य कुसुमशोभादर्शनेन ममारम्भः सफलः क्रियतामिति।
 
-**राजा**— स्थाने खलु प्रसवमन्थेरोऽयमभूत्! यदिदानीमनन्यसाधारणीं शोभामुद्रहति। पश्य।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-सर्वाशोकतरूणां प्रथमं सूचितवसन्तविभवानाम्।  
-निर्वृत्तदोहदेऽस्मिन्संक्रान्तानीव कुसुमानि॥५॥
+**राजा।** ननु तत्रैव देवी।
 
-**विदूषकः**—^(**19**)
+**प्रतीहारी।** ^(**१**)अह इम्। जहारुहसम्माणसुहिदं[^735] अन्तेउरजणं विसज्जिअ[^736] मालविअ[^737]पुरोगेण अत्तणो परिअणेण सह देवं पडिवालेदि।
 
-तथा। भोः, विस्रब्धो भव। अस्मासु संनिहितेष्वपि धारिणी पार्श्वपरिवर्तिनीं मालविकामनुमन्यते।
+[^735]: # "F °सुहं for "
 
-**राजा**—
+[^736]: # "B विसज्जीअ."
 
-(सहर्षम्) सखे, पश्य।
+[^737]: # "B C E F मालविआ°."
 
-**मासियमभ्युत्तिष्ठति देवी विनयादुपस्थिता प्रियया।  
+**राजा।** सहर्षम्। विदूषकं विलोक्य। जयसेने गच्छाग्रतः।
+
+**प्रतीहारी।** ^(**२**)इदो इदो देवो।
+
+।सर्वे परिक्रामन्ति।
+
+**विदूषकः।** विलोक्य। ^(**३**)भो वअस्स[^738] किंवि परिवुत्त[^739]जोव्वणो[^740] विअ वसन्दो पमदवणे लख्खीअदि।
+
+[^738]: # "B वयस्य."
+
+[^739]: # "A C किंवि; D E किञ्चि; F किञ्चिप्परिवुत्त°."
+
+[^740]: # "A C E °जोवणो."
+
+**राजा।** यथावृत्तं भवानाह।
+
+**अग्रे विकीर्णकुरबकफलजालविभुज्यमानसहकारम्।  
+परिणामाभिमुखमृतोरुत्सुकयति यौवनं चेतः॥४॥**
+
+**विदूषकः।** ^(**४**)भो अअं सो दिण्णणेवथ्थो[^741] विअ कुसुमथ्थबएहिं तवणीआसोओ। ओलोअदु भवम्।
+
+[^741]: # "A D E °णेवछ्छो."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अथ किम्। यथार्हसम्मानसुखितमन्तःपुरजनं विसर्ज्य मालविका पुरोगेणात्मनः परिजनेन सह देवं प्रतिपालयति।  
+**२.** इत इतो देवः।  
+**३.** भो वयस्य किमपि परिवृत्तयौवन इव वसन्तः प्रमदवने लक्ष्यते।  
+**४.** भो अयं स दत्तनेपथ्य इव कुसुमस्तवकैस्तपनीयाशोकः। आलोकयतु भवान्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** स्थाने खल्वयं[^742] प्रसवमन्थरोभूत्। यदयमिदानीमनन्यसाधारणां शोभामुद्वहति। पश्य।
+
+[^742]: # "Our MSS. omit अयं after "
+
+**सर्वाशोकतरूणां प्रथमं सूचितवसन्तविभवानाम्।  
+निर्वृत्तदोहदे[^743]-")स्मिन्सङ्क्रान्तानीव कुसुमानि॥५॥**
+
+[^743]: # "B C D F °दौहदे (°दोर्हदे?
+
+**विदूषकः।** ^(**१**)भो विस्सध्धो होहि। अम्हेसु उवगदेसु[^744] धारिणी पस्सपरिवट्टिणीं मालविअम् अणुणेइ।
+
+[^744]: # "Our MSS. अम्हेसु उवगदेसु &c. as given above. G reads otherwise. See Notes."
+
+**राजा।** सहर्षम्। पश्य सखे।
+
+**मामियमभ्युत्तिष्ठति देवी विनयादुपस्थिता प्रियया[^745]।  
 विस्मृतहस्तकमलया नरेन्द्रलक्ष्म्या वसुमतीव॥६॥**
 
-(ततः प्रविशति धारिणी मालविका परिव्राजिका विभवतश्च परिवारः)
+[^745]: # "F विनयादनु - [नू ?]- त्थिता प्रियया."
 
-**मालविका**—
+।ततः प्रविशति परिव्राजिका देवी
 
-(आत्मगतम्) ^(**20**)जानामि निमित्तं कौतुकालङ्कारस्य। तथापि मे हृदयं बिसिनीपत्रगतामिव सलिलं वेपते। अपि च दक्षिणेतरमपि मे नयनं बहुशः स्फुरति।
+मालविका विभवतश्च परिवारः[^746]।
 
-**विदूषकः**—^(**21**)भो वयस्य, विवाहनेपथ्येन सविशेषं खलु शोभते मालविका।
+[^746]: # "B D E परीवारः"
 
-**राजा**— पश्याम्येनाम्। यैषा।
+**मालविका।** आत्मगतम्। ^(**२**)जाणामि णिमित्तं कोदुआलङ्कारस्स। तहवि मम हिअअं विसिणीपत्तगअं[^747] सलिलं विअ वेवदि। दख्खिणेदरंवि[^748] णअणं पफ्फूरइ।
 
-**अनतिलम्बिदुकूलनिवासिनी बहुभिराभरणैः प्रतिभाति मे।  
-उडुगणैरुदयोन्मुखचन्द्रिका हतहिमैरिव चैत्रविभावरी॥७॥**
+[^747]: # "B °पत्तगदं; F विसिणीपत्तगदं."
 
-**देवी**— (उपेत्य) ^(**22**)जयत्वार्यपुत्रः !
+[^748]: # "A C दखिणेदरं."
 
-**विदूषकः**— ^(**23**)वर्धतां भवती।
+**विदूषकः। ^(३)**भो असन्देहं वैवाहिअणेवथ्थेण[^749] सविसेसं सोहइ अत्तहोदी मालविआ।
 
-**परिव्राजिका**— विजयतां देवः।
+[^749]: # "A D E °णेवछ्छेण."
 
-**राजा**— भगवति, अभिवादये।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भो विश्रब्धो भव। आवयोरूपगतयोर्धारिणी पार्श्वपरिवर्तिनीं मालविकामनुनयति।  
+**२.** जानामि निमित्तं कौतुकालङ्कारस्य। तथापि मम हृदयं विसिनीपत्तगतं सलिलमिव वेपते। दक्षिणेतरमपि नयनं प्रस्फुरति।  
+**३.** भो असन्देहं वैवाहिकनेपथ्येन सविशेषं शोभतेत्रभवती मालविका।
 
-**परिव्राजिका**—अभिप्रेतसिद्धिरस्तु।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**देवी**— (सस्मितम्) ^(**24**)आर्यपुत्र, एष तेस्मामिस्तरुणीजनसहायस्याशोकः संकेतगृहं कल्पितः।
+**राजा।** पश्याम्याभरणालङ्कृतामेनाम्।
 
-**विदूषकः**—^(**25**)भोः, आराधितोऽसि।
+**अनतिलम्बिदुकूलनिवासिनी  
+लघुभिराभरणैः प्रतिभाति मे।  
+उडुगणैरुदयोन्मुखचन्द्रिका  
+गतहिमैरिव चैत्रविभावरी॥७॥**
 
-**राजा**— (सव्रीडमशोकमथितः परिक्रामन्)
+**देवी।** उपेत्य[^750]। ^(**१**)जेदु अज्ज[^717]उत्तो।
 
-**नायं देव्या भाजनत्वं न नेयः सत्काराणामीदृशानामशोकः।  
-यः सावज्ञो माधवश्रीनियोगे पुष्पैः शंसत्यादरं त्वत्प्रयत्ने॥**
+[^750]: # "B उपसृत्य."
 
-**विदूषकः**—^(**26**)भोः, विस्रव्धो भूत्वा त्वं यौवनवतीमिमां पश्य।
+**विदूषकः।** ^(**२**)वढ्ढदु होदी।
 
-**देवी**— ^(**27**)
+**परिव्राजिका।** विजयतां देवः।
 
-काम्?
+**राजा।** भगवत्यभिवादये।
 
-**विदूषकः**—^(**28**)
+**परिव्राजिका।** अभिप्रेतसिद्धिरस्तु।
 
-भवति, तपनीयाशोकस्य कुसुमशोभाम्।(सर्व उवविशन्ति)
+**देवी।** सस्मितम्। ^(**३**)अज्ज[^336]उत्त एस दे तरुणीजणसहाअस्स असोओ सङ्केदघरओ[^753] अम्हेहिं विसज्जिदो[^754].")।
 
-**राजा** —
+[^753]: # "E सङ्केतघरए corrected from an original सङ्केतघरओ."
 
-(मालविकां विलोक्य, आत्मगतम्) कष्टः खलु सन्निधिवियोगः!
+[^754]: # "F सज्जिदो (= सज्जितः
 
-**अहं रथाङ्गनामेव प्रिया सहचरीव मे।  
-अजनुज्ञातसंपर्काधारिणी रजनीव नौ॥९॥**
+**विदूषकः।** ^(**४**)भो तुमं आराहिदोसि[^755]।
 
-(प्रविश्य) **कञ्चुकी**—
+[^755]: # "A C अराहिदो°."
 
-विजयतां देवः। देव, अमात्यो विज्ञापयति।“विदर्भविषयोपायने द्वे शिल्पकारिके मार्गपरिश्रमादलघुशरीरे इति पूर्वं न प्रवेशिते। संप्रति देवोपस्थानयोग्ये संवृत्ते। तदाज्ञां देवो दातुमर्हति” इति।
+**राजा।** सव्रीडमशोकमभितः परिक्रामन्।
 
-**राजा**—
+**नायं देव्या भाजनत्वं न नेयः  
+सत्काराणामीदृशानामशोकः।  
+यः सावज्ञो[^756] माधवश्रीनियोगे  
+पुष्पैः शंसत्यादरं त्वत्प्रयत्ने॥८॥**
 
-प्रवेशय ते।
+[^756]: # "B C D सावेक्षो; A E too so originally, but they afterwards correct it into सापेक्षो."
 
-**कञ्चुकी**—
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** जयत्वार्यपुत्रः।  
+**२.** वर्धतां भवती।  
+**३.** आर्यपुत्र एष ते तरुणीजनसहायस्याशोकः सङ्केतगृहकोस्माभिर्विसर्जितः।  
+**४.** भो त्वमाराधितोसि।
 
-यदाज्ञापयति देवः। (इति निष्क्रम्य, ताभ्यां सह प्रविश्य) इत इतो भवत्यौ।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**प्रथमा**—
+**विदूषकः।** ^(**१**)भो विस्सध्धो भविअ[^757] इमं[^758] जोव्वणवदिं पेख्ख।
 
-(जनान्तिकम्)^(**29**)सखि मंदनिके, अपूर्वमिदं राजकुलं प्रविशन्त्याः प्रसीदति मे हृदयम्।
+[^757]: # "B विस्सधो भवीअ."
 
-**द्वितीया**—^(**30**)
+[^758]: # "Our Mss. तुमं for "
 
-ज्योत्स्निके, अस्ति खलु लोकप्रवादः— ‘‘
+**देवी।** ^(**२**)कम्।
 
-आगामि सुखं दुःखं वा हृदयसमवस्था कथयति’ इति।
+**विदूषकः।** ^(**३**)तवणीआसोअकुसुमसोहं[^759]।
 
-**प्रथमा**—^(**31**)
+[^759]: # "D कुसूमसोहं ; F तवणीआसोअस्स कुसुम°."
 
-स सत्य इदानीं भवतु।
+**सर्वे।** उपविशन्ति।
 
-**कञ्चुकी**—
+**राजा।** मालविकां विलोक्यात्मगतम्। कष्टं खलु सन्निधिवियोगो ममाद्य।
 
-एष देव्या सह देवस्तिष्ठति। उपसर्पतां भवत्यौ।
+**अहं रथाङ्गन्नामेव प्रिया सहचरीव मे।  
+अननुज्ञातसम्पर्का धारिणी रजनीव नौ॥९॥**
 
-(उभे उपसर्पतः। मालविका परिव्राजिका च चेट्यौ विलोक्य परस्परमवलोकयतः)
+।ततः प्रविशति कञ्चुकी।
 
-**उभे**—
+**कञ्चुकी।** जयतु[^760] जयतु देवः। अमात्यो विज्ञापयति। तस्मिन्विदर्भविषयोपायने द्वे शिल्पि[^761]दारिके मार्गपरिश्रमाद[^762]लसशरीरे इति कृत्वा न प्रवेशिते। सम्प्रति देवोपस्थानयोग्ये[^763]। तदाज्ञां देवो दातुमर्हतीति।
 
-(प्रणिपत्य) ^(**32**)जयतु भर्ता! जयतु भट्टिनी! (राजाज्ञया उभेउपविष्टे)
+[^760]: # "A C F do not repeat "
 
-**राजा**—
+[^761]: # "A B C D E शिल्प°."
 
-कस्यां कलायाममिविनीते भवत्यौ?
+[^762]: # "B C D E F °परिक्रमात्."
 
-**उभे**—^(**33**)
+[^763]: # "A देवोपस्थाने योग्ये."
 
-भर्तः, संगीतेऽभ्यन्तरे स्वः।
+**राजा।** प्रवेशय ते।
 
-**राजा**—
+**कञ्चुकी।** यदाज्ञापयति देवः। इति निष्क्रम्य ताभ्यां सह पुनः प्रविश्य। इत इतो भवत्यौ।
 
-देवि, गृह्यतामनयोरन्यतरा।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भो विश्रब्धो भूत्वेमां यौवनवततीं प्रेक्षस्व।  
+**२.** काम्।  
+**३.** तपनीयाशोककुसुमशोभाम्।
 
-**देवी**—^(**34**)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-मालविके, इतः पश्य। कतरा ते संगीतसहचारिणी रोचते?
+**॥पञ्चमोङ्कः॥**
 
-**उभे**— (मालविकां दृष्ट्वा) ^(**35**)अहो भर्तृदारिका! (इति प्रणम्य) जयतु जयतु भर्तृदारिका! (तया सह बाष्पं विकिरतः। सर्वे सविस्मयमवलोकयन्ति)
+**प्रथमा।** जनान्तिकम्। ^(**१**)हला रअणिए अपुव्वम् इमं राअउलं पविसन्तीए पसीदइ मे अभ्भन्दरगदो[^764] अप्पा।
 
-**राजा**—
+[^764]: # "A C D E F अभ्भन्तरं."
 
-के वा भवत्यौ? का वा इयम्?
+**द्वितीया।** ^(**२**)हञ्जे जोसणीए महवि एव्वम् एव्व[^765]। अथिथ ख्खु एसो लोअवादो आआमि सुहं वा दुख्खं वा हिअअसमवथ्था कहेदित्ति।
 
-**उभे**—^(**36**)
+[^765]: # "A B C D E महवि अ एव्व."
 
-भर्तः, एषास्माकं भर्तृदारिका।
+**प्रथमा। ^(३)**सो सच्चो दाणिं णो होदु।
 
-**राजा**—
+**कञ्चुकी।** एष देव्या सह देवस्तिष्ठति। तावदुपसर्पेतां[^766] भवत्यौ।
 
-कथमिव?
+[^766]: # "F उपसर्पताम्."
 
-**उभे**—^(**37**)
+।उभे उपसर्पतः।
 
-शृणोतु भर्ता। यः स भर्त्रा विजयदण्डैर्विदर्भनाथं वशीकृत्य बन्धनान्मोचितः कुमारो माधवसेनो नाम, तस्येयं कनीयसी भगिनी मालविका नाम।
+।मालविका परिव्राजिका च चेट्यौ दृष्ट्वा परस्परमवलोकयतः।
 
-**देवी**—^(**38**)
+**उभे।** प्रणिपत्य। ^(**४**)जेदु भट्टा जेदु भट्टा। जेदु भट्टिणी जेदु भट्टिणी[^767]।
 
-कथम्, राजदारिकेयम्! चन्दनं खलु मया पादुकोपयोगेन दूषितम्।
+[^767]: # "A C D E F जेदु भट्टा। जेदु भट्टिणी."
 
-**राजा**—
+**राजा।** स्वागतम्। इतो निषीदतम्।
 
-अथात्रभवती कथमित्थंभूता?
+**उभे।** उपविष्टे।  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** हला रजनिके अपूर्वमिदं राजकुलं प्रविशन्त्याः प्रसीदति मेभ्यन्तरगत आत्मा।  
+**२.** हञ्जे ज्योत्स्निके ममाप्येवमेव। अस्ति खल्वेष लोकवाद आगामि सुखं वा दुःखं वा हृदयसमवस्था कथयतीति।  
+**३.** स सत्य इदानीमावयोर्भवतु।  
+**४.** जयतु भर्ता जयतु भर्ता। जयतु भट्टिनी जयतु भट्टिनी।
 
-**मालविका**—
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(निःश्वस्यात्मगतम्)^(**39**) विधिनियोगेन!
+**राजा।** कस्यां कलायामभियोगो भवत्योः।
 
-**द्वितीया**—^(**40**)
+**उभे।** ^(**१**)सङ्गीदए[^768] अभ्भन्तरम्ह।
 
-शृणोतु भर्ता। दायादवंशगते भर्तृदारके माधवसेने तस्यामात्येनार्थमुमतिनास्मादृशं परिजनमुज्झित्वा गूढमानीतैषा।
+[^768]: # "D E सङ्गीतए."
 
-**राजा**—
+**राजा।** देवि गृह्यतामनयोरन्यतरा।
 
-श्रुतपूर्वं मयैतत्। ततस्ततः?
+**देवी।** ^(**२**)मालविए इदो देख्ख[^413] कदरा सङ्गीदसहाइणी[^770] रुच्चइ।
 
-**द्वितीया**—^(**41**)
+[^770]: # "B सङ्गीत°. —A C °सहायिणी. "
 
-भर्तः, अतः परं न जानामि।
+**उभे।** मालविकां दृष्ट्वा। ^(**३**)अम्हो भट्टिदारिआ[^771]। प्रणिपत्य सह तया वाष्पं विसृजतः।
 
-**परिव्राजिका**—
+[^771]: # "A B C D E भट्टदारिआ."
 
-ततः परं मन्दभागिनी कथयिष्यामि।
+।सर्वे सविस्मयमालोकयन्ति।
 
-**उभे**—^(**42**)
+**राजा।** के भवत्यौ का चेयम्।
 
-भर्तृदारिके, आर्थिकौशिक्या इव स्वरसंयोगः। नंनु सैव?
+**प्रथमा।** ^(**४**)देव इअं[^772] अम्हाणं भट्टिदारिआ[^773]।
 
-**मालविका**—^(**43**)
+[^772]: # "A ईअं; D इयं."
 
-अथ किम्।
+[^773]: # "A C भट्टार°; B D E भट्ट°."
 
-**उभे**—^(**44**)
+**राजा।** कथमिव।
 
-यतिवेषधारिण्यार्यकौशिकी दुःखेन विभाव्यते। भगवंति, नमस्ते।
+**उभे।** ^(**५**)सुणादु भट्टा। जो सो भट्टिणा विअअदण्डेहिं विदभ्भणाहं वसीकरिअ[^774] बन्धणादो मोइदो कुमारो माहवसेणो णाम तस्स इअं कणीअसी भइणी मालविआ णाम।
 
-**परिव्राजिका**—
+[^774]: # "B °करोअ."
 
-स्वस्ति भवतीभ्याम्।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** सङ्गीतकेभ्यन्तरे स्वः।  
+**२.** मालाविके इतः प्रेक्षस्व कतरा सङ्गीतसखी रोचते।  
+**३.** अहो भर्तृदारिका।  
+**४.** देव इयमावयोर्भर्तृदारिका।  
+**५.** शृणोतु भर्ता। योसौ भर्त्रा विजयदण्डैर्विदर्भनाथं वशीकृत्य बन्धनान्मोचितः कुमारो माधवसेनो नाम तस्येयं कनीयसी भगिनी मालविका नाम।
 
-**राजा**—
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-कथम्,आप्तवर्गोऽयं भगवत्याः?
+**देवी।** ^(**१**)अम्हो[^775] राअदारिआ इअम्। चन्दणं ख्खु मए पादुआपरिभोएण दूसिदम्।
 
-**परिव्राजिका**—
+[^775]: # "A B C D E अहो for "
 
-एवमेतत्।
+**राजा।** अथात्र[^776]भवती कथमिवेत्थम्भूता।
 
-**विदूषकः**—^(**45**)
+[^776]: # "B अथ तत्र°."
 
-तेन हि कथयतु भगवत्यत्रभवत्या वृत्तान्ते तावदशेषम्।
+**मालविका।** निःश्वस्यात्मगतम्। ^(**२**)विहिणो णिओएण[^777]।
 
-**परिव्राजिका**—
+[^777]: # "D णीओएण "
 
-(सवौक्लव्यम्) तावच्छ्रयताम्। माधवसेनसचिवं ममाग्रजं सुमतिमवगच्छ।
+**द्वितीया।** ^(**३**)भट्टा सुणादु। दाआदवसङ्गदे अम्हाणं भट्टदारए माहवसेणे तस्स अमच्चेण[^778] अज्ज[^779]सुमइणा अम्हारिसं परिअणं उझ्झिअ[^780] गूढम् अवणीदा एसा।
 
-**राजा**—
+[^778]: # "B अमाच्चेण."
 
-उपलक्षितः। ततस्ततः?
+[^779]: # "D E F अ=अ॰."
 
-**परिव्राजिका**—
+[^780]: # "B C D उझ्झिआ."
 
-सं इमां तथागतभ्रातृकां मया सार्धमपवाह्य भवत्संबन्धापेक्षया पथिकसार्थं विदिशागामिनमनुप्रविष्टः।
+**राजा।** श्रुतपूर्वं मयैतत्। ततस्ततः[^96]।
 
-**राजा**—
+**उभे।** ^(**४**)एत्तिअं[^782] एव्व। अदो वरं ण आणीमो।
 
-ततस्ततः?
+[^782]: # "D E एत्तयं."
 
-**परिव्राजिका**—
+**परिव्राजिका।** अतः परमहं मन्दभागिनी कथयिष्यामि।
 
-स चाटव्यन्तरे निविष्टो गताध्वा वणिग्गणः।
+**उभे।** ^(**५**)भट्टिदारिए[^783] अज्जाए[^784] कोसिईए[^785] विअ सरओओ[^786] सुणीअदि[^787]।
 
-**राजा**—
+[^783]: # "A B C भट्टार°; D E भट्ट°."
 
-ततस्ततः?
+[^784]: # "D E F अ-आए."
 
-**परिव्राजिका**—
+[^785]: # "A C कोसीइए; B कोसिइए ; D कोसीईए."
 
-ततः किं वान्यत्?
+[^786]: # "A सूरओओ; B C D सरिओओ."
 
-**तूणीरपट्टपरिवद्धभुजान्तराल-  
-मापार्ष्णिलम्विशिखि वर्हिकलापधारि।  
-कोदण्डपाणि विनदत्प्रतिरोधकाना-  
-मापातदुष्प्रसहमाविरभूदनीकम्॥१०॥**
+[^787]: # "F omits सुणीअदि."
 
-(मालविका भयं रूपयति)
+**मालविका।** ^(**६**)णं सा एव्व।
 
-**विदूषकः**—^(**46**)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अहो राजदारिकेयम्। चन्दनं खलु मया पादुकापरिभोगेण दूषितम्।  
+**२.** विधेर्नियोगेन।  
+**३.** भर्ता शृणोतु। दायादवशं गत आवयोर्भर्तृदारके माधवसेने तस्यामात्येनार्यसुमतिनास्मादृशं परिजनमुज्झित्वा गूढमपनीतैषा।  
+**४.** एतावदेव। अतः परं न जानीवः।  
+**५.** भर्तृदारिके आर्यायाः कौशिक्या इव स्वरयोगः श्रूयते।  
+**६.** ननु सैव।
 
-भवति मा बिमेहि! अतिक्रान्तं खलु तत्र भवती कथयति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा**—
+**उभे।** ^(**१**)जइवेसधारिणी अज्जकोसिई[^788] दुख्खेण विभाविअदि। दुवे[^789]वि अम्हे भअवदिं[^790] वन्दामहे।
 
-ततस्ततः?
+[^788]: # "D E F अ=अ°. —A C °कोसिइ."
 
-**परिव्राजिका**—
+[^789]: # "A दूवे°."
 
-ततो मुहूर्तं बद्धायुधास्ते पराङ्मुखीभूताः सार्थवाहयोद्धारस्तस्करैः।2
+[^790]: # "F भअवदीं."
 
-**राजा**—
+**परिव्राजिका।** स्वस्ति भवतीभ्याम्।
 
-हन्त, इतःपरं कष्टतरं श्रोतव्यम्।
+**राजा।** कथमाप्तवर्गोयं भवत्याः[^791]।
 
-**परिव्राजिका**—
+[^791]: # "E भगवत्याः."
 
-ततः सुमतिः!
+**परिव्राजिका।** एवमेतत्।
 
-इमां परीप्सुर्दुर्जाते पराभिभवकातराम्।  
-भर्तृप्रियः प्रियैर्भर्तुरानृण्यमसुर्भिगतः॥११॥
+**विदूषकः।** ^(**२**)तेण हि कहेहि[^792] दाणिं अत्तहोदीए[^793] उत्तन्तावसेसम्।
 
-**प्रथमा**—^(**47**)
+[^792]: # "F कहेहि २, i.e. कहेहि कहेहि."
 
-अहो, हतः सुमतिः!
+[^793]: # "A C D E अत्तहोदिए."
 
-**द्वितीया**—^(**48**)
+**परिव्राजिका।** सवैक्लव्यम्। श्रूयतां तावत्। माधवसेनसचिवं सुमतिं ममाग्रजमवगच्छ[^794]।
 
-अतः खलु भर्तृदारिकाया इयं समवस्था संवृत्ता।
+[^794]: # "F उपगच्छ for "
 
-(परिव्राजिका बाष्पं विसृजति)
+**राजा।** उपलब्धम्। ततस्ततः।
 
-**राजा**—
+**परिव्राजिका।** स इमां तथागतभ्रातृकां मया सार्धमपवाह्य भवत्सम्बन्धापेक्षया पथिकसार्थं वैदिश[^795]गामिनमनुप्रविष्टः।
 
-भगवति, तनुत्यजामीदृशांलोकयात्रा। न शोच्यस्तत्र भवान्सफलीकृतभर्तृपिण्डः। ततस्ततः?
+[^795]: # "A, as an after-correction, विदिश° ; F विदेश°."
 
-**परिव्राजिका**—
+**राजा।** ततस्ततः।
 
-ततोऽहं मोहमुपगता यावत्संज्ञां लभे, तावदियं दुर्लभदर्शना संप्रवृत्ता।
+**परिव्राजिका।** स चाटव्यन्ते निविष्टो गताध्वा वणिग्जनोध्वश्रमार्तो विश्रामितुम्[^796]।
 
-**राजा**—
+[^796]: # "B C D E F विश्रमितुम्."
 
-महत्खलु कृच्छ्रमनुभूतं भगवत्या।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** यतिवेषधारिण्यार्यकौशिकी दुःखेन विभाव्यते। द्वे अप्यावां भगवतीं वन्दावहे।  
+**२.** तेन हि कथयेदानीमत्रभवत्या वृत्तान्तावशेषम्।
 
-**परिव्राजिका**—
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ततो भ्रातृशरीरमग्निसात्कृत्वा पुनर्नवीभूतवैधव्यदुःखया मया त्वदीयदेशमवतीर्य इमे काषाये गृहीते।
+**राजा।** ततस्ततः।
 
-**राजा**—
+**परिव्राजिका।** ततश्च
 
-युक्तः सज्जनस्यैष पन्थाः। ततस्ततः?
+**तूणीरबन्ध[^797]परिणद्धभुजान्तरालम्  
+आकर्णलम्बिशिखिपिच्छकलापधारि।  
+कोदण्डपाणि निनदत्प्रतिरोधकानाम्  
+आपातदुष्प्रसहमाविरभूदनीकम्॥१०॥**
 
-**परिव्राजिका**—
+[^797]: # "B C D तूणीरबद्ध° ; F तूणीरपट्ट°."
 
-सेयमाटविकेभ्यो वीरसेनं, वीरसेनाच्च देवीं गता। देवीगृहे लब्धप्रवेशया मया चानन्तरं दृष्टेत्येतदवसानं कथायाः।
+**मालविका।** भयं निरूपयति।
 
-**मालविका**—
+**विदूषकः।** ^(**१**)मा भआहि[^798]। अदिक्कन्तं ख्खु भअवदी कहेदि[^799]।
 
-(आत्मगतं) ^(**49**)किंनु खलु सांप्रतं भर्ता भणति!
+[^798]: # "B D E भयाहि."
 
-**राजा**—
+[^799]: # "E कहेइ; A C F कहेहि."
 
-अहो, परिभवोपहारिणो विनिपाताः। कुतः—
+**राजा।** ततस्ततः।
 
-प्रेष्यभावेन नामेयं देवीशब्दक्षमा सती।  
-स्नानीयवस्त्रक्रियया पत्रोर्णं वोपयुज्यते॥१२॥
+**परिव्राजिका।** ततो मुहूर्तं बद्धयुद्धास्ते पराङ्मुखीकृतास्तस्करैः सार्थवाहयोद्धारः।
 
-**देवी** —^(**50**)
+**राजा।** भगवति अतः परमिदानीं कष्टं श्रोतव्यम।
 
-भगवति, त्वयामिजनवतीं मालविकामनाचक्षाणयाऽसांप्रतं कृतम्।
+**परिव्राजिका।** ततः स मत्सोदर्यः
 
-**परिव्राजिका**—
+**इमां परीप्सुर्दुर्जातेः पराभिभवकातराम्।  
+भर्तृप्रियः[^800] प्रियैर्भर्तुरानृण्यमसुभिर्गतः॥११॥**
 
-शान्तं पापम्। केन च कारणेन मया नै र्घृण्यमवलम्बितम्।
+[^800]: # "F भर्तुः प्रियः."
 
-**देवी**—^(**51**)
+**प्रथमा।** ^(**२**)हंहो गदो तादो[^801] मरणम्।
 
-किमिव तत्कारणम्?
+[^801]: # "F तदो for "
 
-**परिवाजिका**—
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** मा भीः। अतिक्रान्तं खलु भगवती कथयति।  
+**२.** हंहो गतस्तावो मरणम्  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+4. F आपाष्णि°. – F °शिखिवर्ह°.
 
-इयं पितरि जीवति केनापि देवयात्रागतेन सिद्धादेशकेन साधुना मत्समक्षं समादिष्टा। आसंवत्सरमात्रमिय प्रेष्यभावमनुभूय ततः सदृशभर्तृगामिनी भविष्यतीति। तदेवंभाविनमादेशमस्यास्त्वत्पादशुश्रूषया परिणमन्तमवेक्ष्य कालप्रतीक्षया मया साधुकृतमित्ति पश्यामि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**राजा**—
+**द्वितीया।** ^(**१**)अदो ख्खु भट्टि[^802]दारिआए इअं समवथ्था संवुत्ता।
 
-युक्ता प्रतीक्षा
+[^802]: # "A B C D E भट्ट°."
 
-**कञ्चुकी**—
+**परिव्राजिका।** वाष्पं विकिरति।
 
-देव, कथान्तरेणान्तेरितम्। अमात्यो विज्ञापयति। विदर्भगतमनुष्ठेयमनुष्ठितमभूत्। देवस्य तावदभिप्रायं श्रोतुमिच्छामीति।
+**राजा।** तनुभृतामी[^803]दृशी लोकयात्रा। न शोचितव्यस्तत्रभवान्सफलीकृतभर्तृपिण्डः।
 
-**राजा**—
+[^803]: # "Our MSS. तनुत्यजाम्. We according to G."
 
-मौद्गल्य, तत्र भवतोर्यज्ञसेनमाधवसेनयोर्द्वौराज्यमिदानीमवस्थापयितुकामोऽस्मि।
+**परिव्राजिका।** ततोहं मोहमुपागता[^804] यावत्सञ्ज्ञामुपलभे तावदियं दुर्लभदर्शना संवृत्ता।
 
-तौ पृथग्वरदाकूले शिष्टामुत्तरदक्षिणे।  
-नक्तंदिवं विभज्योभौ शीतोष्णकिरणाविव॥१३॥
+[^804]: # "Our MSS. add अस्मि after "
 
-**कञ्चुकी**—
+**राजा।** महत्खलु कष्टम[^805]नुभूतं भगवत्या।
 
-देव, एवममात्यपरिषदे निवेदयामि।
+[^805]: # "F कृच्छ्रम् for "
 
-(राजाङ्गुल्यानुमन्यते। निष्क्रान्तः कच्चुकी)
+**परिव्राजिका।** ततो भ्रातृशरीरमग्निसात्कृत्वा पुनर्नवीकृतवैधव्यदुःखया मया[^545] त्वदीयं देशमवतीर्येमे काषाये[^807] गृहीते।
 
-**प्रथमा**—
+[^807]: # "F कषाये."
 
-(जनान्तिकम्) ^(**52**)भर्तृदारिके, दिष्टया भर्त्रा भर्तृदारकोऽर्धराज्ये प्रतिष्ठां गमयिष्यते।
+**राजा।** युक्तः सज्जनस्यैष पन्थाः। ततस्ततः।
 
-**मालविका**—
+**परिव्राजिका।** तत इयमप्याटविकेभ्यो वीरसेनं[^808] वीरसेनाद्देवीं गता देवीगृहे लब्ध[^809]प्रवेशया मया पुनर्दृष्टा। इत्येतदवसानं कथायाः।
 
-**⁵³**एतत्तावद्वहु मन्तव्यम्, यज्जीवितसंशयान्मुक्तः।
+[^808]: # "F omits वीरसेनम्"
 
-(प्रविश्य) **कञ्चुकी**—
+[^809]: # "B °गृहलब्ध°."
 
-विजयतां देवः। देव, अमात्यो विज्ञापयति। कल्याणी देवस्य वुद्धिः। मन्त्रिपरिषदोऽप्येतदेव दर्शनम्। कुतः—
+**मालविका।** आत्मगतम्। ^(**२**)किं णु ख्खु[^545] सम्पदं भट्टा भणादि।
 
-द्विधा विभक्तां श्रियमुद्वहन्तौ धुरं रथाश्वाविव सङ्ग्रहीतुः।  
-तौ स्थास्यतस्ते नृपते निदेशे परस्परोपग्रहनिर्विकारौ॥१४॥
+**राजा।** अहो परिभवोपहारिणो विनिपाताः[^811]। कुतः।
 
-**राजा**—
+[^811]: # "E परिभवप्रहारिणः, F परिभावोपनिपातिनो."
 
-तेन हि मन्त्रिपरिषदं ब्रूहि। सेनान्ये वीरसेनाय लेख्यतामेवं क्रियतामिति।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अतः खलु भर्तृदारिकाया इयं समवस्था संवृत्ता।  
+**२.** किं नु खलु साम्प्रतं भर्ता भणति।
 
-**कञ्चुकी**—
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-यदाज्ञापयति देवः। (इति निष्क्रम्य, सप्राभृतकं लेखं गृहीत्वा पुनः प्रविष्टः) अनुष्ठिता प्रभोराज्ञा। अयं देवस्य सेनापतेः पुष्पमित्रस्य सकाशात्सोत्तरीय प्राभृतको लेखः प्राप्तः। प्रत्यक्षीकरोत्वेनं देवः।
+**प्रेष्यभावेन नामेयं देवीशब्दक्षमा सती।  
+स्नानीयवस्त्रक्रियया पलोर्णं वोपयुज्यते[^812]॥१२॥**
 
-(राजोत्थाय सप्राभृतकं लेखं सोपचारं गृहीत्वा परिजनयार्पयति।  
-परिजनो लेखं नाट्यतोद्घाटयति)
+[^812]: # "Our MSS. पत्त्रोर्णेवोपयुज्यते. We with Tullberg."
 
-**देवी**—
+**धारिणी।** ^(**१**)भअवदि तुए अभिजणवदिं मालविअम् अणाचख्खन्तीए असम्पदं किदं[^813]।
 
-(आत्मगतम्) ^(**54**)अहो, ततोमुखमेव नो हृदयम्। श्रोष्यामि तावद्रुरुजनस्य कुशलानन्तरं वसुमित्रस्य वृत्तान्तम्। अतिघोरे खलु पुत्रकः सेनापतिना नियुक्तः।
+[^813]: # "E omits "
 
-**राजा**—
+**परिव्राजिका।** शान्तं पापं शान्तं पापम्। कारणेन खलु मया नैभृत्यम[^814]वलम्बितम्।
 
-(उपविश्य लेखं सोपचारं गृहीत्वा वाचयति) “स्वस्ति। यज्ञशरणात्सेनापतिः पुष्पमित्रो वैदिशस्थं पुत्रमायुष्मन्तमग्निमित्रं स्नेहात्परिष्वज्येदमनुदर्शयति। विदितमस्तु! योऽसौ राजयज्ञदीक्षितेन मया राजपुत्रशतपरिवृतं वसुमित्रं गोप्तारमादिश्य वत्सरोपात्तनियमो निरर्गलस्तुरंगो विसृष्टः, स सिन्धोर्दक्षिणरोधसि चरन्नश्वानीकेन यवनेन प्रार्थितः। तत उभयोः सेनयोर्महानासीत्संमर्दः। (देवी विषादं नाटयति)
+[^814]: # "A B C D E नैर्भृत्यम्."
 
-**राजा**—
+**धारिणी।** ^(**२**)किं विअ अत्त कारणम्।
 
-कथमीदृशं संवृत्तम्! (शेषं पुनर्वाचयति)
+**राजा।** यदि वक्तव्यं कथ्यताम्।
 
-“ततः परान्पराजित्य वसुमित्रेण धन्विना।  
-प्रसाह्यह्रियमाणो मे वाजिराजो निवर्तितः॥१५॥
+**परिव्राजिका।** इयं पितरि जीवति केनापि लोकयात्रागतेन सिद्धादेशेन साधुना मत्समक्षमादिष्टा[^815] संवत्सरमात्रं प्रेष्यभावमनुभूय ततः सदृशभर्तृगामिनी भविष्यतीति। तमवश्यं[^816] भाविनमादेशमस्यास्त्वत्पादशुश्रूषया परिणमन्तमवेक्ष्य कालप्रतीक्षया मया तत्साधु कृतमिति पश्यामि।
 
-**देवी**— ^(**55**)अनेनाश्वस्तं मे हृदयम्।
+[^815]: # "A B C आदिष्टम्."
 
-**राजा**— (शेषं पुनर्वाचयति) “सोऽहमिदानीमंशुमता सगरपुत्रेणेव प्रत्याहृताश्वो यक्ष्ये। तदिदानीमकालहीनं विगतरोषचेतसा भवता वधूजनेन सह यज्ञसेवनायागान्तव्यमिति।” अनुगृहीतोऽस्मि!
+[^816]: # "F omits अवश्यम्"
 
-**परिव्राजिका**—दिष्टया पुत्रविजयेन दम्पती वर्तेते।
+**राजा।** युक्तोपेक्षा।
 
-भर्त्रासिवीरपत्नीनां श्लाघ्यानां स्थापिता धुरि।  
-वीरसूरिति शब्दोऽयं तनयात्त्वामुपस्थितः॥१६॥
+।प्रविश्य कञ्चुकी।
 
-**देवी**—^(**56**)भगवति, परितुष्टास्मि यत्पितरमनुजातो मे बत्सकः।
+**कञ्चुकी।** देव कथान्तरेणान्तरितमिदममात्यो विज्ञापयति[^817]।
 
-**राजा**— मौद्गल्य, ननु कलमेन यूथपतेरसुकृतम्?
+[^817]: # "B विज्ञापयामि for“ निवेदयामि.”"
 
-**कञ्चुकी**— देव, अयं कुमारः
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भगवति त्वयाभिजनवतीं मालविकामनाचक्षाणयासाम्प्रतं कृतम्।  
+**२.** किमिवात्र कारणम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+विदर्भगतमनुष्ठेयमवधारितमस्माभिः। देवस्य तावदभिमतं[^818] श्रोतुमिच्छामीति।
+
+[^818]: # "G's reading, अभिप्रेतं, for "
+
+**राजा।** मौद्गल्य तत्रभवतोर्भ्रात्रोर्यज्ञसेनमाधवसेनयोर्द्वैराज्यमवस्थापयितुकामोस्मि।
+
+**तौ पृथग्वरदाकूले शिष्टामुत्तरदक्षिणे।  
+नक्तं दिवं विभज्योभौ शीतोष्णकिरणाविव॥१३॥**
+
+**कञ्चुकी।** एवममात्यपरिषदे निवेदयामि।
+
+**राजा।** अङ्गुल्यानुमन्यते।
+
+\[निष्क्रान्तः[^819] कञ्चुकी।
+
+[^819]: # "A C insert इति before "
+
+**प्रथमा।** जनान्तिकम्। ^(**१**)भट्टिदारिए[^820] दिठ्ठिआ[^821] भट्टिदारओ[^822] अध्धरज्जे पइठ्ठं गमिस्सदि।
+
+[^820]: # "A B C D E भट्टदारए."
+
+[^821]: # "D E दिठ्ठिया."
+
+[^822]: # "A B C D E भट्टदारओ."
+
+**मालविका।** ^(**२**)एदं[^823] दाव बहु मन्तव्वं जं[^813] जीविदसंसआदो मुत्तो।
+
+[^823]: # "A B C D E एवं for "
+
+।प्रविश्य कञ्चुकी।
+
+**कञ्चुकी।** विजयतां देवः। अमात्यो विज्ञापयति। कल्याणी देवस्य बुद्धिः। मन्त्रिपरिषदोप्येतदेव दर्शनम्।
+
+**द्विधा विभक्तां श्रियमुद्वहन्तौ  
+धुरं रथाश्वाविव[^825] सङ्ग्रहीतुः।  
+तौ स्थास्यतस्ते नृपती निदेशे  
+परस्परावग्रहनिर्विकारौ॥१४॥**
+
+[^825]: # "Our MSS. “यथाश्वाविव.” we with G"
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भर्तृदारिके दिष्ट्या भर्तृदारकोर्धराज्ये प्रतिष्ठां गमिष्यति।  
+**२.** एतत्तावद्बहु मन्तव्यं यज्जीवितसंशयान्मुक्तः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**राजा।** तेन हि मन्त्रिपरिषदं ब्रूहि सेनापतये वीरसेनाय लिख्यतामेवं क्रियतामिति[^826]।
+
+[^826]: # "E omits “इति” after "
+
+**कञ्चुकी।** तथा। इति निष्क्रम्य सप्राभृतकं[^827] लेखं गृहीत्वा पुनः प्रविश्य। अनुष्ठिता प्रभो[^828]राज्ञा। अयं पुनरिदानीं देवस्य सेनापतेः पुष्पमित्रस्य सकाशात्सप्राभृतको[^829] लेखः प्राप्तः। प्रत्यक्षीकरोत्वेनं[^830] देवः।
+
+[^827]: # "A B C D E सप्राभृतिकम्."
+
+[^828]: # "B inserts भो before "
+
+[^829]: # "Our MSS. सोत्तरीयप्राभृतिकः [F °प्राभृतम्]. We with G."
+
+[^830]: # "B °करोत्वेतद्."
+
+**राजा।** सहसोपसृत्य प्राभृतकं[^831] सोपचारकं शिरसि कृत्वा परिजनायार्पयति। लेखं च नाट्येनोद्वेष्टयति।
+
+[^831]: # "A C प्राभृतिकम्."
+
+**देवी।** ^(**१**)अम्हहे तदोमुहं[^832] for ") एव्व णो हिअअम्। सुणिस्सं दाव गुरुअणकुसलाणन्तरं वसमित्तस्स वुत्तन्तं[^833]। अहिआरे ख्खु मे पुत्तओ सेणावइणा[^834] णिउत्तो[^835]।
+
+[^832]: # "B तदोहमुहं (?
+
+[^833]: # "B D उत्तन्तं."
+
+[^834]: # "G’s reading is worth noticing, viz, अधिआरे खु सेणावइणो णिउत्तो."
+
+[^835]: # "B C णिवुत्तो."
+
+**राजा।** उपविश्य वाचयति। स्वस्ति। यज्ञशरणात्सेनापतिः पुष्पमित्रो वैदिशस्थं[^836] पुत्रमायुष्मन्तमग्निमित्रं स्नेहात्परिष्वज्यानुदर्शयति। विदितमस्तु। योसौ राजसूययज्ञे दीक्षितेन
+
+[^836]: # "B वैदेशस्थम् ; E वैदिश्यम्."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अम्महे ततोमुखमेव नो हृदम्। श्रोष्यामि तावद्गुरूजनकुशलानन्तरं वसुमित्रस्य वृत्तान्तम्। अधिकारे खलु मे पुत्रकः सेनापतिना नियुक्तः।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+मया राजपुत्रशतपरिवृतं वसुमित्रं गोप्तारमादिश्य संवत्सरोपावर्तनीयो निरर्गलस्तुरगो[^837] विसृष्टः स सिन्धोर्दक्षिणरोधसि चरन्नश्वानीकेन यवनानां प्रार्थितः। तत उभयोः सेनयोर्महानासीत्सम्मर्दः[^838]।
+
+[^837]: # "F तुरङ्ग."
+
+[^838]: # "F विमर्दः for "
+
+**देवी।** विषादं निरूपयति[^839]।
+
+[^839]: # "B रूपयति."
+
+**राजा।** कथमीदृशं संवृत्तम्। शेषं पुनर्वाचयति।
+
+**ततः परान्पराजित्य वसुमित्रेण धन्विना।  
+प्रसह्य ह्रियमाणो मे वाजिराजो निवर्तितः॥१५॥**
+
+**देवी।** ^(**१**)दाणिं अस्ससइ[^840] मे हिअअम्।
+
+[^840]: # "E आस्ससइ."
+
+**राजा।** लेखशेषं वाचयति। सोहमिदानीमंशुमतेव सगरः पौत्रेण प्रत्याहृताश्वो यक्ष्ये। तदिदानीं कालहीनं[^841] विगतरोषचेतसा भवता वधूजनेन सह यज्ञसन्दर्शनायागन्तव्यमिति[^842]।
+
+[^841]: # "G reads अकालहीनम्."
+
+[^842]: # "We read “इति” here from G."
+
+**राजा।** अनुगृहीतोस्मि।
+
+**परिव्राजिका।** दिष्ट्या पुत्रविजयेन दम्पती वर्धेते। देवीं विलोक्य।
+
+**भर्त्रासि वीरपत्नीनां श्लाघ्यायां स्थापिता धुरि।  
+वीरसूरिति शब्दोयं तनयात्त्वामुपस्थितः॥१६॥**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** इदानीमाश्वसिति मे हृदयम्।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**विदूषकः।** ^(**१**)होदि[^843] परितुठ्ठोम्हि जं पिदरम् अणुगदो वछ्छो।
+
+[^843]: # "A होदी."
+
+**राजा।** मौद्गल्य कलभेन खलु यूथपतिरनुकृतः।
+
+**कञ्चुकी।**
 
 **नैतावता वीरविजृम्भितेन  
 चित्तस्य नो विस्मयमादधाति।  
-यस्याप्रधृष्यः प्रभवस्त्वमुच्चै-  
-रग्नेररपांदग्धुरिवोरुजन्मा॥१७॥**
+यस्याप्रधृष्यः प्रभवस्त्वमुच्चैर  
+वह्नेरपां दग्धुरिवोरुजन्मा॥१७॥**
 
-**राजा**— मौद्गल्य, यज्ञसेनश्यालमूरीकृत्य मोच्यन्तां सर्वे बन्धनस्थाः।
+**राजा।** मौद्गल्य यज्ञसेनश्यालमुररीकृत्य मुच्यन्तां सर्वे बन्धनस्थाः।
 
-**कञ्चुकी**— यदाज्ञापयति देवः। (इति निष्क्रान्तः)
+**कञ्चुकी।** तथा।
 
-**देवी**—^(**57**)जयसेने, गच्छ। इरावतीप्रमुखेभ्योऽन्तःपुरेभ्यः पुत्रस्य वृत्तान्तं निवेदय। (प्रतीहारी प्रस्थिता)
+\इति निष्क्रान्तः।
 
-**देवी**—^(**58**)एहि तावत्। 
+**देवी।** ^(**२**)जअसेणे गछ्छ। [इरावदीप्प[^844]मुहाणम् अन्तेउराणं पुत्तस्स विअअवु[^845]त्तन्तं णिवेदेहि।
 
-**प्रतीहारी**—^(**59**)इबमस्मि।
+[^844]: # "B इरावदिप्प° ; C D इरावदिप°."
 
-**देवी**— (जनान्तिकम्)^(**60**)
+[^845]: # "B D E विअयउ°."
 
-यन्मयाशोकदोहदनियोगे मालविकायै प्रतिज्ञातम्, तदस्या अभिजनं च निवेद्य मम वचनेनेरावतीमनुनय। त्वयाहं सत्यान्न विभ्रंशयितव्येति।
+**प्रतीहारी।** ^(**३**)तह। इति प्रस्थिता।
 
-**प्रतीहारी**—^(**61**)मद्देव्याज्ञापयति। (इति निष्क्रम्य, पुनः प्रविश्य) भट्टिनि, पुत्रविजयनिमित्तेन परितोषेणान्तःपुराणामाभरणानां मञ्जुषास्मि संवृत्ता।
+**देवी।** ^(**४**)एहि दाव।
 
-**देवी**—^(**62**)एतत्किमाश्चर्यम्। साधारणः खलु तासां मम चायमभ्युदयः।
+**प्रतीहारी।** प्रतिनिवृत्य[^846]। ^(**५**)इअम्म्हि[^847]।
 
-**प्रतीहारी**— (जनान्तिकम्) ^(**63**)भट्टिनि, इरावती पुनर्विज्ञापयति। सदृशं देव्याः प्रभवन्त्याः। तव वचनं संकल्पितं न युज्यतेऽन्यथा कर्तुमिति।
+[^846]: # "Our MSS. उपसृत्य. We with G."
 
-**देवी**—^(**64**)भगवति, त्वयानुमतेच्छाम्यार्यसुमतिना प्रथमसंकल्पितां मालविकामार्यपुत्राय प्रतिपादयितुम्।
+[^847]: # "B इयम्हि."
 
-**परिव्राजिका**— इदानीमपि त्वमेवास्याः प्रभवसि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भवति परितुष्टोस्मि यत्पितरमनुगतो वत्सः।  
+**२.** जयसेने गच्छ। इरावतीप्रमुखाणामन्तःपुराणां पुत्रविजयवृत्तान्तं निवेदय।  
+**३.** तथा।  
+**४.** एहि तावत्।  
+**५.** इयमस्मि।
 
-**देवी**— (मालविकां हस्ते गृहीत्वा)^(**65**)इदमार्यपुत्रः प्रियनिवेदनानुरूपं पारितोषिकं प्रतीच्छत्विति। (राजा व्रीडां नाटयति)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**देवी**— (सस्मितम्)^(**66**)किमवधीरयत्वार्यपुत्रः?
+**देवी।** जनान्तिकम्। ^(**१**)जं मए असोअदोहलणिओए पडिण्णादं मालविआए तं च[^848] से अभिअणं च णिवेदिअ मह[^356] वअणेण इरावदिम् अणुणेहि। तुएहं सच्चादो ण परिभ्भंस[^850]इदव्वेत्ति।
 
-**विदूषकः**—^(**67**)भवति,एष लोकव्यवहारः। सर्वो नववरो लज्जातुरो भवतीति। (राजा विदूषकमवेक्षते)
+[^848]: # "A B तत्तं for "
 
-**विदूषकः**—^(**68**)अथ देव्यैव कृतप्रणयविशेषां दत्तदेवीशब्दां मालविकामत्रभवान्प्रतिगृहीतुमिच्छति?
+[^850]: # "D परिभंस°."
 
-**देवी**—^(**69**)एतस्या राजदारिकाया अभिजनेनैव दत्तो देवीशब्दः; किं पुनरुक्तेन?
+**प्रतीहारी।** ^(**२**)तह। इति निष्क्रम्य पुनः प्रविश्य। भट्टिणी पुत्तविअएण दिण्णपारितोसिआणं[^851] अन्तेउराणं आभलणाणं[^852] रअणमञ्जूसिआ संवुत्तम्हि।
 
-**परिवाजिका**—मा मैवम्।
+[^851]: # "C °पारितोसिअणं."
 
-**अप्याकरसमुत्पन्नो रत्नजातिपुरस्कृतः।  
-जातरूपेण कल्याणि मणिः संयोगमर्हति॥१८॥**
+[^852]: # "B अबलाजणाणं for F आभलणरअण° ."
 
-**देवी**— (स्मृत्वा) ^(**70**)मर्षयतु भगवती। अभ्युदयकथयोचितं न लक्षितम्। जयसेने, गच्छ तावत्। कौशेयपत्रोर्णयुगलमुपनय।
+**देवी।** ^(**३**)किं अथ्थ[^853] अच्चरिअम्। णं[^545] साहारणो ताणं[^855] मम अ अअम् अभ्भूदओ।
 
-**प्रतीहारी**—^(**71**)यद्देव्याज्ञापयति। (इति निष्क्रान्ता पत्रोर्णं गृहीत्वा पुनः प्रविश्य) देवि, एतत्।
+[^853]: # "F एथ्थ for "
 
-**देवी**—(मालविकामवगुण्ठनवतीं कृत्वा)^(**72**)आर्यपुत्र, इदानीमिमां प्रतीच्छतु।
+[^855]: # "F अन्तेउराणं for "
 
-**राजा**— त्वच्छासना त्प्रवृत्ता एव वयम्। (अपवार्य) हन्त, प्रतिगृहीता।
+**प्रतीहारी।** जनान्तिकम्। ^(**४**)इरावदी उण विण्णवेदि। सरिसं[^856] ख्खु[^545] देवी[^858] णिवेदेदि। पुढमं सङ्कप्पिदं[^859] अण्णहा कादुं ण जुज्जइत्ति।
 
-**विदूषकः**—^(**73**)अहो देव्या अनुकूलता! (देवी परिजनमवलोकयति)
+[^856]: # "A C सरीसं, E सरिस्सं."
 
-**परिजनः**—(मालविकामुपेत्य) **⁷⁴**जयतु भट्टिनी! (देवी परिव्राजिकां निरीक्षते)
+[^858]: # "B D देवि."
 
-**परिव्राजिका**— नैतच्चित्रं त्वयि।
+[^859]: # "A सङ्कल्पिदं."
 
-प्रतिपक्षेणापि पतिंसेवन्ते भर्तृवत्सलाः साध्व्यः।  
-अन्यसरितामपि जलं समुद्रगाः प्रापयन्त्युदधिम्॥१९॥
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** यन्मयाशोकदोहदनियोगे प्रतिज्ञातं मालविकायै तच्चास्या अभिजनं च निवेद्य मम वचनेनेरावतीमनुनय। त्वयाहं सत्यान्न परिभ्रंशयितव्येति।  
+**२.** तथा। भट्टिनि पुत्रविजयेन दत्तपारितोषिकाणामन्तः पुराणामाभरणानां रत्नमञ्जूषिका संवृत्तास्मि।  
+**३.** किमत्राश्चर्यम्। ननु साधारणस्तासां मम चायमभ्युदयः।  
+**४.** इरावती पुनर्विज्ञापयति। सदृशं खलु देवी निवेदयति। प्रथमं सङ्कल्पितमन्यथा कर्तुं न युज्यत इति।
 
-(प्रविश्य) **निपुणिका**—^(**75**)जयतु भर्ता। इरावती विज्ञापयति। “यदुपचारातिक्रमेण तदा भर्त्रे अपराद्धा, तत्स्वयमेव भर्तुरनुकूलं नाम मयाचरितम्। सांप्रतं पूर्णमनोरथेन भर्त्रा प्रसादमात्रेण संभावयितव्या” इति?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**देवी**—^(**76**)निपुणिके, अवश्यमस्याः सेवितमार्यपुत्रो ज्ञाम्यति।
+**देवी।** ^(**१**)भअवदि तुए अणुमदम् इछ्छामि अज्ज[^336]सुमदिणा पुढमदो सङ्कप्पिदं अज्ज[^336]उत्तस्स मालविअं पडिवादेदुम्।
 
-**निपुणिका**—^(**77**)अनुगृहीतास्मि।
+**परिव्राजिका।** इदानीमपि त्वमेवास्याः प्रभवसि।
 
-**परिव्राजिका**— देव, अमुना युक्तसंबन्धेन चरितार्थं माधवसेनं सभाजयिनुं गच्छामः।
+**देवी।** मालविकां हस्ते गृहीत्वा। ^(**२**)अज्ज[^336]उत्तो इमं पिअणिवेदणाणुरूवं पारितोसिअं मालविअं पडिछ्छदु।
 
-**देवी**—^(**78**)भगवत्या न युक्तमस्मान्परित्यक्तुम्।
+**राजा।** सव्रीडं जोषमास्ते।
 
-**राजा**— भगवति, मदीयेष्वेव लेखेषु तत्र भवतस्त्वामुद्दिश्य सभाजनाक्षराणि पातयिष्यामः।
+**देवी।** सस्मितम्। ^(**३**)तं किं अवधीरेदि[^863].—E अवधारेदि.") मं अज्ज[^336]उत्तो।
 
-**परिव्राजिका**— युवयोः स्नेहात्परवानयं जनः।
+[^863]: # "F अवधीरेहि = (अवधीरयसि
 
-**देवी**—^(**79**)आर्यपुत्र, किं ते भूयः प्रियमुपहरामि ?
+**विदूषकः।** ^(**४**)होदि एवं लोअप्पवादो सव्वोवि णववरो लज्जालुओ[^865] होदि।
 
-**राजा**—
+[^865]: # "B लज्जलुओ."
 
-**त्वं मे प्रसादसुमुखी भव देवि नित्य-  
-मेतावदेव हृदये प्रतिपालनीयम्।**
+**राजा।** विदूषकमवेक्षते।
 
-तथापीदमस्तु। (भरतवाक्यम्)
+**विदूषकः।** ^(**५**)अह वा[^866] इमं[^867] देवीए दिण्णदेवीसद्दं[^868] मालविअं अत्तभवं[^869] पडिग्गहीदुं[^870] इछ्छदि।
 
-**आशास्यमभ्यधिगमात्प्रभृति प्रजानां  
-संपद्यते न खलु गोप्तरि नाग्निमित्रे॥२०॥**
+[^866]: # "Our MSS. do not give अह वा ; and they read अरूहर्दि for इछ्छदि in 1. 12. We with G."
 
-(इति निष्क्रान्ताः सर्वे)
+[^867]: # "B इन्द for “इमं.”"
 
-इति पञ्चमोऽङ्कः
+[^868]: # "B देवीसज्जं."
 
-इति श्रीमहाकवि**कालिदास**विरचितं **मालविकाग्निमित्रम्** संपूर्णम्।
+[^869]: # "A B C D E तत्तभवं."
 
-<MISSING_FIG href="../books_images/U-IMG-1723883305Screenshot2024-08-17135653.png"/>
+[^870]: # "A B C D E पडिग्गहिदुं."
 
-|                                |                               |
-|:------------------------------:|:-----------------------------:|
-| **Index to Verses—श्लोकसूची.** |                               |
-|    **अग्रे** विकीर्णकुरवक०     |    **एकैश्वर्ये** स्थितोपि    |
-|      अङ्गैरन्तनिहितवचनैः       |  **औत्सुक्यहेतुं** विवृणोषि   |
-|       अचिराधिष्ठितराज्यः       |      **कदा** मुखं वरतनु       |
-|       अतिमात्रभासुरत्वं        |   कान्तां विचिन्त्य सुलभे०    |
-|        अनतिलम्बिदुकूल०         |  कार्त्स्न्येन निर्वर्णयितुं  |
-|       अनातुरोत्कण्ठितयोः       |       किसलयमृदोविलासिनि       |
-|     अनिमित्तमिर्न्दुेवदने      |       कुप्यसि कुवलयनयने       |
-|        अनुचितनूपुरविरहं        |    क्व रुजा हृदयप्रमाथिनी    |
-|         अनेन तनुमध्यया         |     **चरणान्त**निवेशितां      |
-|       अपराधिनि मयि दण्डं       |       चित्रगतायामस्यां        |
-|       अप्याकरसमुत्पन्नो        |    **छेदो** दंशस्य दाहो वा    |
-|       अर्थं सप्रतिबन्धं        |       **जनमिमम**नुरक्तं       |
-|       अलमन्यथा गृहीत्वा        |      जीमूतस्तनितविशङ्कि०      |
-|       अव्याजसुन्दरीं तां       |     **ततः** परान्पराजित्य     |
-|        अहं रथाङ्गनामेव         |     तामाश्रित्य श्रुतिपथ०     |
-|      **आदाय** कर्णकिसलय०       |      तूणीर पट्टपरिबद्ध०       |
-|        आमत्तानां श्रवण०        |       तौ पृथग्वरदाकूले        |
-|         अद्रक्तकमस्यां         |       त्वदुपलभ्य समीप०        |
-|    **इमां** परीप्सुदुर्जाते    |     त्वं मे प्रसादमुमुखी      |
-|       इष्टाधिगमनिमित्तं        | **दाक्षिण्यं** नाम बिम्बोष्ठि |
-|      **उचितः** प्रणयो वरं      |  दीर्घाक्षं शरदिन्दुकान्ति०   |
-|       उत्तरेण किमात्मैव        |       दुर्लभः प्रियो मे       |
-|      उपदेशं विदुः शुद्धं       |        दुल्लहो पिओ मे        |
-|       उभावभिनयाचार्यां०        |       देवानामिदमामनन्ति       |
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** भगवति तवानुमतमिच्छाम्यार्यसुमतिना प्रथमतः सङ्कल्पितामार्यपुत्रस्य मालविकं प्रतिपादयितुम्।  
+**२.** आर्यपुत्र इमां प्रियनिवेदनानुरूपं पारितोषिकं मालविकां प्रतीच्छतु।  
+**३.** तत्किमवधरियति मामार्यपुत्रः।  
+**४.** भवति एवं लोकप्रवादः सर्वोपि नववरो लज्जालुर्भवति।  
+**५.** अथ वेमां देव्या दत्तदेवीशब्दां मालविकामत्रभवान्प्रतिग्रहीतुमिच्छति।
 
-|                           |                            |
-|---------------------------|----------------------------|
-| द्वारे नियुक्तपुरुषाभिमत० | मन्दोऽप्यमन्दतामेति        |
-| द्विधा विभक्तां श्रियमु०  | मन्ये प्रियाहृतमना०        |
-| **धृतिपुष्प**मयमपि        | महासारप्रसवयोः             |
-| धैर्यावलम्बिनमपि          | मामियमभ्युत्तिष्ठति        |
-| **न च न** परिचितो         | मौर्यसचिवं विमुञ्चति       |
-| नवकिसलयरागेणाग्र०         | **यद्य**त्प्रयोगविषये      |
-| न हि वुद्धिगुणेनैव        | **रक्ता**शोकरुचा           |
-| नायं देव्या भाजनत्वं      | **लब्धा**स्पदोऽस्मीति      |
-| **नार्हति** कृतापराधोऽपि  | **वामं** सन्धिस्तिमित०     |
-| नेपथ्यपरिगताया            | विपुलं नितम्बबिम्बे        |
-| नैतावता वीरविजृम्भितेन    | विरचितपदं वीरं             |
-| **पत्र**च्छायासु हंसा     | विवादे दर्शयिष्यामि        |
-| पथि नयनयोः स्थित्वा       | विसृज सुन्दरि सङ्गम०       |
-| परभृतकलव्याहारेषु         | वोढा कुरबकरजसां            |
-| पात्रविशेषे न्यस्तं       | **शठ** इति मयि तावद्०      |
-| पुराणमित्येव न साधु       | शरकाण्डपाण्डुगण्ड०         |
-| प्रतिपक्षेणापि पतिं       | शरीरं क्षामं स्यादसति      |
-| प्रेष्यभावेन नामेयं       | शिरसा प्रथमगृहीतां         |
-| **वाष्पसारा** हेमकाञ्ची०  | लिष्टा क्रिया कस्यचिदात्म० |
-| **भर्चासि** वीरपत्नीनां   | **सर्वान्तः**पुरवनिता०     |
-| भाग्यास्तमयमिवाक्ष्णोः    | सर्वाशोकतरूणां             |
-| भावज्ञानानन्तरं           | सूर्योदये भवति             |
-| भ्रूभङ्गमिन्नतिलकं        | स्मयमानमायताक्ष्याः        |
-| **मङ्गला**लङ्कृता भाति    | हस्तं कम्पयते रुणद्धि      |
-| मधुरस्वरा परभृता          |                           |
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Prakrit Passages which are substituted by the SANSKRIT CHAYA in the Text.**
+**देवी।** ^(**१**)जदा राअदारिआ इअम् अभिअणेण एव्व तदा दिण्णो एव्व से देवीसद्दो। ता किं पुणरुत्तेण[^871]।
 
-ACT I
+[^871]: # "B उणरुत्तेण."
 
- 1 आणत्तम्हि देवीए धारिणीए। अइरप्पउत्तोवदेसं छलिअं णाम
+**परिव्राजिका।** मा मैवम्।
 
-णदर्अंअन्दरेण कीरिसी मालविअत्ति पट्टाअरिअं अज्जगणदासं पुच्छिदं। ता दाब संगीतसालं गच्छम्हि 2 हला कोमुदीए, कुदो दे इअं धीरदा। जं समीवेण विं अदिक्कमन्ती इदो दिट्ठि ण देसि। 3 अम्होबउलावलिआ। सहि, इदं देवीए सिध्पिसआसादो आणीदं णाअमुद्दासणा-हंअङ्गुलीअअं सिणिद्धिं णिज्झाअन्ती तुह उवालम्भे पडिदम्हि 4 ठाणे सज्जदि दिट्टी। इमिणा अङ्गुलीअएण उब्भिण्णकिरणकेसरेण कुसुमिदो विअ दे अग्गहत्थो 5 हला कहिं पत्थिदासि 6 देवीए एव्व वअणेणनाडआआरीअं अज्जगणदासं देक्खिदुं। उवदेंसग्गहणे कीरिसी मालविअत्ति7 सहि, ईरिसेण वावारेण असंणिहिदा वि सा कहंभठ्रिणादिठ्ठा 8 आम। सो जणो देवीए पास्सगदो चित्ते दिट्टो9 कहं विअ 10 मुणु। चित्तसालं गदा देवी पञ्चग्गवण्णाराअं चित्तलेहंआआरिअस्स ओलोअन्ती चिठ्ठदि। भट्टा अ उवट्टिदो 11 तदो तदो 12 उवआराणन्तरं एक्कासणोवविट्टेणभट्टणा चित्तगदाए देवीए परिअणमज्झयदं आमणदारिअं देक्खिअ देवी पुच्छिदा 13 किं ति 14 अपुव्वा इअं दारिआ, आसण्णा अ देवीए आलिहिदा किंणामहेएत्ति 15 आकिदिविसेसेसु आअरो पदं करेदि। तदो तदो 16 तदो अवहीरिअवअणो भट्टा देवीं पुणो अणुबन्धिदुं सङ्किदो। तदो कुमारीए वसूलच्छीए आचक्खिदम्। अज्ज, एसा मालविएत्ति 17 सरिसं खु बालभावस्स। अदो वरं कहेहि 18 किं अण्णं। संपदं मालविआ मविसेसं भट्टुणोदंसणपहादो रक्खीअदि 19 हला, अत्तणो णिओअं। अणुचिट्ट।अहं वि एदं अङ्गुलीअअं देवीए उवणइस्सम् 20 एसो णट्टाअरिओ संगीदसालादो णिग्गच्छदि। जाव से अत्ताणं दंसेमि 21 अज्ज, वन्दाभि 22 अज्ज, देवी पुच्छदि। अवि उवदेसग्गहणे णादिकीलिस्मदि वो सिस्सा मालविएति 23 अदिक्कन्तंविअ इरावदिं पेक्खामि ! किदत्थदाणि वो सिस्सा। जाए गुरुअणो एवं तुस्सदि 24 अस्थि देवीए वण्णावरी भादा वीरसेणो णम भट्ट्णाणम्मदातीरे अन्तवालदुग्गे ठाविदो।तेण सिप्पाहिआरे जोग्गा इअं दारिएत्ति
+**अप्याकरसमुत्पन्ना मणिजातिरसंस्कृता।  
+जातरूपेण कल्याणि न हि संयोगमर्हति॥१८॥**
 
-भणिअ भइणीये देवीए उवाअणंपेसिदा 25 अह इं। अह कहिं वो सिस्स 26 तेण हि पुणो अणुजाणादु मं अज्जो। जाव से अज्जस्स परितोसणिवेदणेण उस्साहं वड्डेमि 27 आणत्तोहि तत्तभवदा रण्णा। गोदम, चिन्तेहि दाव उवाअं। जहा मे जदिच्छादट्टपदिकिदी मालविआ पच्छक्खदंसणा होदित्ति। मए अ तत्तहा किंद। दाव से णिवेदेमि 28 वढ्ढदुभवं 29 पवोअसिद्धिं पुच्छ 30 एव्वमिव 31 फलं वि अइरेण दक्खिस्ससि 32 समत्थं पइण्णादं 33 सुट्टु भवं भणादि 34 मअवदि, हरदत्तस्स गणदासस्त अ संरम्भे कहं पेक्खसि 35 ज इवि एव्वंराअपरिग्गहोसे पहाणत्तणं उवहरइ 36 अइ, उअठ्ठिदा देवी पीठमद्दिअं पण्डिअकं सिइं पुरोकरिअ धारिणी 37 जेदु अज्जउत्तो 38 जइ मं पुच्छसि, एदाणं विवाद एव्व ण मे रोअदि 39 भोदि, पेक्खामो उरंब्भसवादं। किं मुहा वेअणदागेण 40 णं कलहप्पिओसि 41 मा एव्वं। अण्णोण्णकलहप्पिअणि मत्तहत्थीणं एक्कदरस्सि अणिज्जिदे कुदो उवसमो 42 सुदं अज्जेहिं भअवदीए वअणं। एसो पिण्डितत्यो उक्देसदंसणदो णिण्णओत्ति 43 जदा उण मन्दमेधा सिस्सा उवदेसं मलिणेन्ति, तदा आअरिअस्स दोसो 44 कहं दाणिं ? अंलं अज्जउत्तस्स ऊसाहकारणं मणोरहं पूरिअ। विरम णिरत्थ आदोआरम्भादो 45 सुट्रु भोदि भणादि। भो गणदास, संगीदपदं लम्भिअ सरस्सईए उवाअणमोदआणं खादमाणस्स किं दे सुहणिग्गहेण विवादेण 46 अइरोवणीदाए सिस्साए उण पडिट्ठिदस्स उवदेसस्स अण्णास्यं पआसणं 47 तेण हि दुवेवि उवदेसं भअवदीए दंसेध 48 मूढे परिव्वाजिए, मं जाम्गतिंपि सुत्तं विअ करेसि 49 णं सकारणं एव्व। अत्तणो पक्खो रक्खिदव्वो। दिट्टिआ कोवव्वाजेण देवीए परित्तादो भवं। सुसिक्खिदो विसच्चोउवदेसेण णिण्हादो होदि 50 का गई। पहवदि आआरिओ सिस्सजणस्स 51 भण वीसद्धं। पहवदि प्पहू अत्तणो परिणस्स 52 भअवदि, भणेदाणीम् 53 तेण हि दुवेवि वग्गा पेक्खाघरे संगीदरअणं करिअ नतभवदो दूदं पेसअह। अहवा मुदङ्गसद्दो एव्व णो उत्थावइस्सदि। 54 विअई होहि 55 जइ राअकज्जेसु ईरिसी उवाअणि उणदा अज्जउत्तस्स, तदो सोण्णहं भवे 56 अहो अविणओ अज्जउत्तस 57 भो, धीरं गच्छह्म। तत्तभोदी धारिणी विसंबादइस्सदि।
+**देवी।** ^(**२**)मरिसेदु भअवदी अभ्भुदअकहाए[^872] मए लङ्घिदेत्ति[^873]। जअसेणे गछ्छ तुमं दाव कोसेअपत्तोण्णं[^874] से सिघ्घम् उवणे हि।
 
-––––––––––
+[^872]: # "A C अभ्भूदअ°."
 
-ACT II
+[^873]: # "F लङ्घिदं for "
 
- 1 उबठ्ठिदं णअणमहु संणिहिदमक्खिअं च। ता अप्पमत्तो दाणिं पेक्ख 2 पेक्खदु भवं। ण खु से परिच्छन्दादो परिहिअदि महुरदा 3 भो, चउप्पदक्त्थुअं दुवारीकरिअ तुइ उवट्ठाविदो अप्पा तत्तहोदीए 4 भोदि, चिट्ट। वो विनुमरिदोकम्ममेदो। तं दाव पुच्छिस्सम्। 5 णं गोदमवअणं वि अज्जो हिअए करेदि। 6 कोसिइं दाव पुच्छ। पच्छा जो मए कम्मभेदो दिट्टो तं भणिस्मं 7 दिठ्ठिआ अपरिक्खदाराहणेण अज्जो बढ्ढइ 8 पढमोपदेसदंसणे पढमं ब्रह्मणस्स पूआ कादव्वा। सा णं वो विसुमरिंदा 9 मए णाम मुद्धचादएग विअ सुक्खघणगज्जिदे अन्तरिक्खे जलपागं इच्छिदं। अहवा पण्डिदसंतोसपच्चया भं मूढजादी ज्दो अत्तहोदीए सोहणं भणिदं तदों से इमं पारितोसिअं पअच्छामि 10 चिट्ट दाव गुणन्तरं अजाणन्तो किंणिमित्तं तुमं आहरणं देसि 11 परकेरअंति करिअ 12 अज्जगणदास, दंसिदोवदेंसा दे सिस्सा 13 एत्तिओं मेमदिविहवो भवन्तं सेविदुं 14 दलिद्दो विअ आदुरो वेज्जेण ओसदं दीअमाणं इच्छसि 15 अविहा। अविहा। अह्माणं उण भोअणवेला उवठ्ठिदा। उइदवेलादिक्कमे चिइच्छआ दोसं उदाहरन्ति। किं दाणिं भणसि 16 णिव्वट्टदुअज्जउत्तो मज्जणविहिम् 17 भोदि, विसेसेण पाणभोअणं तुवरावेहि 18 भो वअस्स, ण केवलं रूवे, सिप्पेवि अद्दुदीआ मालविआ 19 भवदावि अहं। दिढं विषणिकन्दु विग्न मे ऊअरब्भन्तरं दज्झइ 20 गहीदो खणो। किं तु मेहावलीणिरुद्धा जोण्हा विअ पराहीणदंसण तंत्तहोदी। भवं वि सूणापरिसरचरो विअ विहंगो आमिसलोलुओ भीरुओ अ। ता अणादुरों भविअ कज्जसिद्धिं पत्थेन्तो मे रोअसि।
+[^874]: # "B D E F कोसेअं पत्तोण्णं."
 
-——————
+**प्रतीहारी।** ^(**३**)तह। इति[^813] निष्क्रम्य पत्त्रोर्णं[^876] गृहीत्वा प्रविश्य। देवि इदं तं[^877]।
 
-ACT III
+[^876]: # "Our MSS. पत्त्रोर्णकौशेयम्. We with G."
 
- 1 आणत्तह्मिभअवदीए। समाहिदिए, देवीए उवायणत्थं वीअऊरअं गेण्हिय आअच्छत्ति। जाव पमदवणपालिअं महुअरिअं अण्णोसामि। एसा तवणीआसोअं ओलोअन्ती चिट्टदि। जाव णं उवसप्पामि 2 महुअरिए, अवि सुहो दे उज्जा-
+[^877]: # " A C D देवी इयम् अम्हि, B E F इअम्म्हि, for "
 
-णव्वावारो 3 अह्मो समाहिदिआ। सहि, सागदं दे 4 हला, भगवदी आणवेदि। अरित्तपाणिणा अह्मारिसजणेण तत्तहोदी देवी देक्खिदव्वा। ता बीअपूरएण सुस्सूसिदुंइच्छामित्ति 5 णं संणिहिदं वीजपूरअं। कहेहि दाव अगोण्यसंघरिसिदाणं णट्टाअरिआणं उवदेसं देक्खिअकदरो भवदीए पसंसिदो 6 दुवेवि किल आअमिणा पओअणिउणा अ। किंतु सिस्सागुणविसेसेण मालविआए उवदेसो पसंसिदो। 7 अह मालविआगदं कोलीणं किंति सुणीअदि 8 दिढं किल तस्सि साहिलासो भट्टा। किंतु केवलं धारिणीए चित्तं रक्खन्तो पहुत्तणं दंसेदि मालविआ वि इमेनुं दिअसेसु अणुहूदमुत्ता विअ मालदीमाला मिलाणा लक्खिअदि। अदो वरं ण जाणे। विसज्जेहि म9 एदं साहावलम्बिदं बीअपूरअं गेण्ह 10 तह। हला तुमं वि अदो पेसलदरं साहुजणसुस्साए फलं पावेहि 11 हला, सहं एव्वगच्छह्म। अहं वि इमस्सचिराअम्राणकुसुमोग्गमस्स तवणीआसोअस्स दोहलणिमित्तं देवीए विण्णावेमि 12 जुज्जइ। अहिआरो क्खु तुह 13 अलं भवदो धीरं उज्झिअ परिदेविदेण। दिठ्ठा मए तत्तहोदीए मालविआए पिअसही बउलावलिआ। सुणाविदो अअं अत्थो जो भवदा संदिठ्ठो 14 विष्णावेहि। अणुगहीदह्मि इमिणा णिओएण किंतु सा तवस्सिणी देवीए अहिअं रक्खन्तीए णाअरक्खिदो विअ णिही ण सुहं समासादइदव्या। तह्नवि घटइस्सं ति 15 णं भणामि तसि्सं साहणिज्जे किदो उक्खोओ। पज्जवत्थावेदु भवं अप्पाणं16 अज्ज एव्व पुढमावदारसुहआणि रक्तकुरबआणि उवाअणं पेसिअ णववसन्तावदारव्ववदेसेण इरावदीए णिउणिआमुहेण पत्थिदो भवं। इच्छामि अज्जउत्तेण सह दोलाहिरोहणं अणुहविदुं ति। भवदावि से पडिण्णादं। ता पमदवणं एव्व गच्छह्म17 कहं विअ 18 णारिहदि भवं अन्तेउरपडिठ्ठिदं दक्खिणं एक्कपदे पिट्ठदो कादुम् 19 इदो इदो भवं 20 एदं पमदवणं पवणदरचलाहिं पल्लवङ्गुलीह्विंतुबरेदि विअ भवन्तं पवेसितुं 21 पविप्त णिव्वुदिलाहाअ। अवहाणेण दिट्ठि देहि। एवं खु भवन्तं विअ विलोहइदुकामाए महुलच्छीए जुवइत्रेसलज्जापइत्तअं वसन्तकुसुमणेवत्थं महीदं 22 अविण्णादहिअअं भट्टारं अहिलसन्ती अप्पणो वि दाव लज्जेमि। कुदो विहबो सिणिद्धस्स सहीजणस्स इमं बुत्तान्तं आचक्खिदुं। ण जाणे अप्पडिआरगरुअं वेअणं केन्तिअं कालं मअणो
+**देवी।** मालविकामवगुण्ठनवतीं कृत्वा। ^(**४**)दाणिं अज्ज[^878]उत्तो पडिछ्छदु।
 
-म णइस्सदिति। आ, कहिं खु पत्थिदह्नि। आदिट्ठह्मिदेवीए। गोदमचावलादो दोलापरिब्भट्टाए सरुजो मह चलणो। तुमं दाव गदुअ तवर्णाआसोअस्स दोहलं णिवेट्टेहि त्ति। जदि सो पञ्चरत्तब्भन्तरे कुसुमं दंसेदि, तदो अहं अहिलासपूरइत्तअं पसादं दाइस्सं ति। जाब णिओअभूमिं पुढमं गदा होमि, ताव अणुपदं मम चलणालंकारहत्थाए बउलावलिआए आअन्तव्वं, परिदेवइस्संताव वीसद्धं मुहुत्तअं 23 वअस्स, एदं खु सीहुपाणुव्वेजिदस्स मच्छण्डिआ उवणदा 24 एसा णादिपरिआरवेसा ऊमुअवअणा एआइणी मालविआ अदूरे वट्टदि 25 अह इं 26 एसा तरुराइमज्झादो णिक्कन्ता इदो एव्व अहिबट्टन्ती दीसइ27 एसावि भवं विअ मअणव्वाहिणा परिमुठ्ठा भविस्सदि 28 अअं सो सुउमालदोहलापेक्खी अगिहीदकुसुमणेवच्छो उक्कण्ठिदाए मह असोओ अणुकरेदि। जाव एदस्स पच्छायसीदले सिलापट्टए णिमण्णा अप्पाणं विणेदेमि 29 सुदं भवदा। उक्वण्ठिदम्मिति तत्तहोदी मन्तेदि 30 इरावदिं विअ अदूरे समद्धेमि 31 हिअम, णिरवलम्बणादो अदिभूमिलङ्घिणी ते मणोरहादो विरम। किं मं आआसिअ 32 संपदं भवदो णिस्संमअं भविस्सदि। एसा अप्पिदमअणसंदेसा विवित्ते णं बउलावलिआ ऊवठ्ठिदा33 किं दाणिं एसा दासीए दुहिदा तुह गरुअं संदेसं विसुमरेदि। अहं दाव ण विसुमरेमि 34 अवि सुहं सहीए 35 अह्मो बउलावलिआ। सहि, साअदं ते। उवविस36 हला, तुमं दाणिं जोग्गदाए णिउत्ता। ता एक्कं चलणं उवणेहि। जाव सालत्तअ समूत्तरं च करेमि 37 हिअअ, सुहिदाए अलं उवठ्ठिदो अअं विहवेत्ति। कहं दाणीं अत्लाणं मोचेअं। अहवा दाणिं एदंएव्व मिच्छुमण्डणं मे भविस्सदि 38 किं विआरेसि। ऊसुआ खु इमस्स तवणीआसोअस्स मुडलुग्गमे देवी 39 किंणु खु जाणासि तुमं। मह कालणादो देवी इमं अन्तेउरणेवच्छेणजोअईस्सदित्ति 40 हला, मरिसेहि दाव णं 41 अइ, सरीरअं सि मे 42 चलणाणुरूओ तत्तहोदीए अहिआरो उवक्खित्तो 43 पहरिस्सदि तत्तहोदी तुमं अवरुद्धम् 44 हञ्जे णिउणिए, सुणोमि बहुसोमदो किल इत्थिआजणस्स मण्डणंत्ति। अवि सच्चो लोअवाओ अअं 45 पढमं लोअवाओएव्व। अज्ज सच्चो संवुत्तो 46 संकित्तणसंसिणा अलं सिणेहेण।
+[^878]: # "D E F अ=अ°"
 
-कहेहि कुदो दाणिं ओगमिदव्वो दोलाघरं पुढमं गदो भट्टा णवेत्ति 47 भट्टिणाए अखण्डिदादो पणआदो। 48 अलं सेवाए। मज्झत्थदं परिगाहिअ भणाहि। 49 वसन्तोआअणलोलुवेण अज्जगोदमेण कहिअं तुवरदु भट्टिणी। 50 हजे, मदेण किलामिअमाणं अत्ताणं अज्जउत्तदंसणे हिअअं तुवरेदि। चलणा उण ण मह पसरन्ति 51 णं पत्तह्मदोलाघरं 52 णिउणिए, अज्जउत्तो एत्थ ण दीसदि 53 भट्टिणीए ओलोअदु। परिहासणिमित्तं कहिं वि अदिट्टेण भत्तुणा होदव्वं। इंम पिअङ्गुलदापरिक्खित्तं असोअसिलापट्टंपविसामो 54 तह 55 ओलोअदु भट्टिणी। चूदङ्कुरं विचिण्णन्तीणं पिवलिआहिं दंसिदं 56 कहंविअ 57 एसा असोअपाअवच्छाआए मालविआए बउलावलिआ चलणालंकारं णिव्वट्टेदि 58 अभूमी इअं मालविआए। कहं एत्थ तक्केसि 59 तक्केमि दोलापरिब्भसिदाए सरुअचलणाए देवीए असोअदोहलाहिअरे मालविआ णिवुत्तेत्ति। अण्णहा कहं देवी सअं धारिअं णूउरजुउलंपरिअणस्स अब्भणुजाणिस्सदि 60 महदी क्खु से संभवणा 61 किं अण्णेसीअदि भट्टा 62 हला, ण मे चलणा अण्णदो प्रवट्ठति। मदो मं विआरेदि। आसङ्किदस्स दावअन्तं गमिस्सं। ठाणे क्खु कादरं मे हिअअं 63 अवि रोअदि ते राअरेहाविण्णासो 64 हला, अत्तणो चलणं ति लज्जेमि णं पसंसिदुं। तेण पसाहणकलाए अहिविणीदासि 65 एत्थ अहं भत्तुणो सीसह्मि 66 तुवरेहि दाव णं गुरुदक्खिणाए 67. दिट्टिआ ण गव्विदासि 68 उबदेसाणुरूवा चलणा लम्भिअ अज्ज दाव गव्विदाभविस्सं। हन्त, सिद्धं मे दुत्थम्। सहि, एक्कस्स दे चलणास अवसिदो राअणिक्खेवो केवलं मुहमारुदो लम्भइदव्वो। अहवा पवादं एदं ठाणं 69 कुदो दे अणुसओ। चिरं भवदा एदं कमेण अणुहुचिदव्वं 70 सहि, अरुणसदपत्तं विअ सोहदि दे चलणं। सव्वहा भत्तुणो अङ्कपरि-
+**राजा।** देवि त्वच्छासनादप्रत्युत्तरा वयम्।
 
-एदंएवं मइ णति78 सच्चं तुइ णत्ति। भत्तुणो किसेसु वरपण्डुरेसु दीसइ अङ्गेस 79 पुढमं गुणिदं विअ हदासाए उत्तरं 80 अणुराओ अणुराएण पच्चेट्टव्वो त्ति सुअणवअणं पमाणीकरेहि 81 किं अत्तणो छन्देण मन्तेसि 82 णहि णहि। भत्तुणो खु एदाइंपणअमिदुआइंअक्खराइंवत्तन्तरिदाइं83 हला, देविं चिन्तिअ ण मे हिअअं विस्सतदि 84 मुदे, भमरसंपादो भविस्सदित्ति वसन्तावदारसव्वस्सं किं ण चूदप्पसवो ओदंसिदव्वो 85 तुमं दाव दुज्ज दे अच्चंतं सहाया होहि 86 विमद्दसुरही बउलावलिआ खु अहं 87 पेक्ख। कारिदं एव्व बउलावलिआए एदं पदं मालविआए 88 भट्टिणि, अहिआरस्स उइदो उवदेसो 89 ठाणे खु संकिदं मे हिअअं। गहीदत्था अणन्तरं चिन्तइस्सं 90 एसो दुदी ओवि दे णिव्वुत्तपरिकम्मा चलणो।जाव णं सणूउरं करोमि। हला, उट्टेहि। असोअविआसइत्तअं देवीए णिओअं अणुचिट्ट 91 सुदोदेवीए णिओओ। होदु दाणिं 92 एसो उवारूढराओ उअभोअक्खमो पुरदो दे वट्टइ 93 किं भट्टा 94 णदाव भट्टा। एसोअमोअसहावलम्बि पल्लवगुच्छओ। ओदंसेहि णं 95 सुदं भवदा 96 हला, णत्थि दे दोसो। णिग्गुणो अअं अमोओ जइ कुसुमोव्भेदमन्धरो हवे, जो दे चलणसक्वारं लम्भिअ 97 एहि। णं परिहासइस्सं 98 भट्टिणि भट्टिणि, भट्ठा एत्थ पविसदि 99 एव्वं पुढमं मम चिन्तिदं हिअएण 100 जुत्तं णाम अत्तहोदो पिअवअस्सो अअं असोओ णं वामपादेण ताडिदुं 101 अह्मो, भट्टा 102 बउलावलिए, गहीदत्थाए तुएं अत्तहोदी ईरिसं अविणअं करन्ती कीस ण णिवारिदा 103 भट्टिणि, पेक्ख। किं पउत्तं अज्जगोदमेण 104 कहं खु बह्मबन्धु अण्णहा होदि 105 अज्ज एसा देवीए णिओअं अणुचिट्टदि। एदस्सिं अदिक्कमे परवदी इअं। पसीददु भट्टा। 106 जुज्जइ। देवी एत्थ माणइदव्वा 107 अहो णवणीदकप्पहिअओ अज्जउत्तो। 108 बउलावलिए, एहि। अणुचिट्टिदं अत्तणो णिओअं देवीए णिवेदेह्म109 विण्णावेहि भट्टांरं विसज्जेहि त्ति 110 अवहिदा सुणाहि। आणवेदु भट्टा 111 पूरेहि पूरेहि। असोओ
+**परिव्राजिका।** हन्त प्रतिगृहीता।
 
-कुसुमं ण दंसेदि। अअं उण पुप्फदि एव्व 112 किं अण्णं। जङ्घाबलं एव्व 113 बउलावलिए, तुए साहु उवक्कन्तं। दाणिं सफलब्भत्थणं करेहि उज्जउत्तं 114 पसीददु भट्टिणी। काओ अह्मे भत्तुणो पणअपरिग्गहस्स 115 अविस्ससणीआ पुरिसा। अत्तणोवञ्चणवअणं पमाणीकरिअ अक्खित्त ए वाहजणगीदगहीदचित्ताए वि हरिणीए एदं ण विण्णादं 116 पडिजोएहि दाणिं किंपि। कम्मग्गहीदेण वि कुम्मीलएण संधिच्छेदे सिक्खिओम्मित्ति वत्तव्यं होदि 117 विस्ससणीओसि। मए ण विण्णादं ईरिसं विणोदवत्थुअं अज्जउत्तेण उवलद्ध ति। अण्णहदुक्खभाइणीए एव्वं ण करीअदि 118 मा तावदा तत्तभवदोदक्खिण्णस्स उअरोहं भणितुं समाव त्तदिट्टेण देवीए परिअणेण संकहाअव्वर हेण संधावीअदु। एत्थ तुमं एव्वपमाणं 119 णं संकहा णाम होदु। किंति अत्ताण आआसइस्सं 120 सठ, अविस्ससणीअहिअओसि 121 इअं पि हदासातुमं एव्वअणुसरदि 122 किं मं एव्व भूओ वि अवरद्धं करेसि 123 ण खु इमे मालविआचलणा, जा दे हरिसदोहलं पूरयिस्सन्ति 124 उट्टेहि। किदप्पासादोसि 125 वअस्स, दिट्टिआइमस्स अविणअस्स अप्पसण्णा गदा एसा। ता वअं सिग्ध अवक्कमाम। जाव अङ्गारओ रासिं विअ अणुवक्कं परिगमणं ण करेदि।
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** यदा राजदारिकेयमभिजनेनैव तदा दत्त एवास्या देवीशब्दः। तत्किं पुनरुक्तेन।  
+**२.** मर्षयतु भगवती अभ्युदयकथया मया लङ्घितेति। जयसेने गच्छ त्वं तावत्कौशेयपत्त्रोर्णमस्याः शीघ्रमुपनय।  
+**३.** तथा। इदं तत्।  
+**४.** इदानीमार्यपुत्रः प्रतीच्छतु।
 
-—————
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ACT IV
+**विदूषकः।** ^(**१**)अहो देवीए[^879] अत्तहोदो अणुऊलदा[^880]।
 
- 1 जेदु जेदु भट्टा। असंणिहिदो गोदमो 2 वढ्ढदुभवं 3 ज देवो आणवेदि 4 जो बिडालगहीदाए परह्वुदिआए 5 सा खु तवस्सिणी ताए पिङ्गलच्छीए सारभाण्डभूघरए गुहाए विअ णिक्खित्ता 6 अह इं 7 सुणादु भवं। परिव्वाजिआए मेकहिदं। हिओ किल तत्तहोदी इरावदी रुअक्कन्तचलणं देविं सुहपुच्छिआ आअदा 8 तदो सा देवीए पुच्छिदा। किंणु ओवलोइदो वल्लहजणो त्ति। ताए उत्तं। मन्दो वो उवआरो जं परिजणे संकन्तं वल्लहत्तणं ण जाणीअदि। 9 तदो ताए अणुखिज्जमाणा सा भवदो अविणअं अन्तरेण परिगदत्था किदा। 10 किं अदोवरं। मालविआ बउलाबलिआ अ णिअलपदीओ अदिट्टसुज्जपादं
+[^879]: # "A C D देविए."
 
-पादालवासंणाअकण्णआओ विअ अणुहोन्ति 11 कहं भविस्सदि। जं सारभाण्डघरए वाउदा माहविआ देवीए संदिठ्ठा। मह अंङ्गुलीअअमुद्दंअदेक्खिअ ण मोत्तव्वा, मालविआ बउलावलिआ अ त्ति 12 अस्थि एत्थ उवाओ 13 को वि अदिट्ठो सुणोदि। कण्णेदे कहेमि। एव्वं विअ 14 देव, पवादसयणम्मिदेवी णिसण्णा रत्तचन्दणधारिणा परिअणहत्थगदेण चलगेण भअवदीए कहाहिं विणोदिज्जमाणा चिट्टदि 15 ता गच्छदु भवं। अहं वि देवीं पेक्खिदुंअरित्तपाणी भविस्सं 16 तह। एव्वं विअ होदि 17 इदो इदो देवो 18 भअवदि, रमणिज्जं कहावत्थु। तदो तदो 19 अह्यो, भट्टा 20 जेदु अज्जउत्तो 21 अज्ज अत्थि मे विसेसो 22 परित्ताअदुपरित्तअदु भवं। सप्पेणह्मि दट्टो 23 देविंदेक्खिरसं त्तिआआरपुप्फग्गहणकारणादो पमदवणं गदोह्मि24 हद्धि हद्धि। अहं एव्व बह्मणस्स जीविदसंसअणिमित्तं जादह्मि25 तहिं असोअत्थवअकालणादो पसारिदे दक्सिणहत्थे कोडरणिग्गदेण सप्परूवेण कालेण दट्टोह्मि। णं एदें दुबे दंसणपदाणि 26 जं देवो आणवेदि 27 अहो, पावेण मिच्छुणा गहीदोह्मि 28 कहं ण भाइस्सं ? सिमसिमाअन्ति मे अङ्गाई 29 हा दंसिदेअसुहं विआरेण। अवलम्भथ बह्मणं 30 भोः, भवदो बाल्लादो वि पिअवअस्सोह्मि। तं विआरिभ अपुत्ताए मे जणणीए जोगक्खेमं वहेहि 31 देव, आणाविदो धुवसिद्धी विण्णावेदि। इह एव्व आणीअदु सो गोदमो ति32 तहा 33 भोदि जीवेअं वा ण वा। जं मएं अत्तभवन्तं सेवमाणेण ते अवरद्धं तं मरिसेहि 34दीहाऊ होहि 35 जेदु भट्टा। धुवसिद्धी विण्णवेदि। उदकुम्भविहाणेण सप्पमुद्दिअं किंपि कप्पिदव्वं। तं अण्णेसीअदु त्ति 36 इदं सप्पमुद्दिअं अड्गुलीअअं। पच्छा मम हत्थे देहि णं 37 जं देवो आणवेदि 38 जेदुदेवो। णिवुत्तविसवेगो गोदमो मुहुत्तेण पकिदित्थो संवुत्तो39 दिट्टिआ वअणीआदो मुत्तह्मि40 एसो उण अमच्चोवाहतओ विण्णवेदि। राअकज्जं बहु मन्तिदव्वं। दंसणेण अणुग्गह इच्छामि त्ति 41 गच्छदुअज्जउत्तो क्कज्नसिद्धीए 42 बालिआओ, अज्जउत्तवअणं अणुचिट्टह 43 तह 44 इदो इदो देवो 45 अह इं 46 वढ्ढदु भवं। सिद्धाइंदे मङ्गेलकम्माइं47 जं देवो आणवेदि 48 देवीए अङ्गुलीअ-
+[^880]: # "A B C अणुऊलदा."
 
-अअमुद्दिअं देक्खिअ कहं विआरेदि 49 णं पुच्छिदोह्मि। पुणो मन्दस्स मे तस्सिं पच्चुप्पण्णा मदी 50 भणिदा मए। देव्वचिन्तएहिं विण्णविदो राआ। सोवसग्गं वो णक्खत्तं। सव्वबन्धणमोक्खो करीअदु त्ति 51 तं सुणिअ देवीए इरावदीचित्तं रक्खन्तीए राआ किल मोएदित्ति अह संदिट्ठो त्ति। तदो जुज्जदि त्तिताए एव्वंसंपादिदो अत्थो 52 तुवरदु भवं। समुद्दधरए सहीसहिदं मालविअं ठाविभ भवन्तं पच्चुग्घदोह्मि53 एदु भवं। एदं समुद्दघरं 54 अहो कुम्भीलएहिं कामुएहिं च परिहरणीआ खु चन्द्रिआ 55 तह 56 सहि, पणम भट्टारं 57 णमो दे 58 हला, मं विप्पलम्भेसि 59 णं एसो चित्तगदो भट्टा 60 जेदु भट्टा 61 हला, तदा संभमदिट्टे भट्टिणोरूवे जहा ण वितिण्हह्मि, तहा अज्जवि मए भाविदो अवितिण्हदंसणो भट्टा 62 सुदं भवदा। तत्तहोदी चित्ते जहा दिट्टो तहा दिट्टो भवं ति मन्तेदि। मुद्धा दाणिं मञ्जूसा विअ रअणभण्डअं जोव्वणगव्वं वहेसि 63 हला, का एसा पासपरिउत्तमुहेण भट्टिणा सिणिद्धिए दिट्टीए णिज्झाईअदि 64 णं इअं पासगदा इरावदी 65 सहि, अदक्खिणो विअ भट्टा मे पडिभादि। जो सव्वं देवीजणं उज्झिअ एक्काए मुहें बद्धलक्खो 66 चित्तगदं भट्टारं परमत्थदो संकप्पिअ असूअदि। होदु। क्रीडिस्सं दाव एदाए। हला भट्टिणो वल्लहा एसा 67 तदो किं दाणिं अत्ताणं आआसइस्सं 68 अणुणअसज्जो दाणिं होहि 69 अज्जगोदमो एत्थ एव्व ण संसेवदि 70 ण खु कुविदा दाणिं तुमं 71 जइ चिरं कुविदं एव्व मं मण्णेसि, एसो पच्चाणीअदि कोवो 72 जेदु जेदु भट्टा 73 कुहं चित्तगदो भट्टा मए असुइदो 74 क्रिं भवं उदासीनो विअ दीसइ 75 अत्तहोदीए अअं कहं तुह अविस्सासो 76 सहि, बहुसो क्खु भट्टा विप्पलद्धो। ता तुए अत्ता विस्सासणिज्जो करीअदु 77 सहि, मह उण मन्दभाग्गाए सिविणसमाअमो वि भट्टिणो दुल्लहोआसि 78 भट्टा कहेदु से उत्तरं 79 अणुगहीदह्मि 80 बउलावलिए, एसो बालासोअरुक्खस्स पल्लवाइंलङ्घेदि हरिणो। एहि णिवारेम णं 81 तह 82 एवं वि गोदमो संदिसेअदि 83 अज्ज गोदमं, अहं अप्पआसे चिट्टामि। तुमं दुवाररक्खओहोहि 84 जुज्जइ। इमं दाव फलिहक्खम्भं अस्सिदो होमि। अहो सुहप्फरिसदा सिला-
+**देवी।** परिजनमवलोकयति[^881]।
 
-विसेसस्स 85 देवीए भएंण अत्तणोवि पिअं कादुं ण पारेमि86 जो ण भाअदि, सो मए भट्टिणीदंसणे दिट्टसामत्थो भट्टा 87 हञ्जेणिउणिएसच्चं तुमं परिगदत्था चन्दिआए। ससुद्दघरअलिन्दसइदो एआई अज्जगोदमो दिट्ठो ति। 88 अण्णहा कहंभट्टिणीए विण्जावेमि 89 तेण हि तहिं एव्व गच्छामो। संसआदो मुत्तं पिअवअस्सं पुच्छिदुं च 90 सावसेसं विअ भट्टिणीए वअणं 91 अण्णं च चित्तगदं अज्जउत्तं पसादेदुं 92 अह दाणिं कहं णु भट्टा एव्व अणुणीअदि 93 मुद्वे, जारिसो चित्तगदो णं तारितो एव्व अण्णसंकन्तहिअओ अज्जउत्तो। केवलं उअआरादिक्कमं पमज्जिदुंअअं आरम्भो 94 इदो इदो भट्टिणी 95 जेदु भट्टिणी। भट्टिणि, देवी भणादि। ण मे मच्छरस्स एसो कालो। तेण खु बहुमाणं वड्डेदुं वअस्साए सह णिअलबन्धणे किदा मालविआ।जइ अणुमण्णसि अज्जउत्तस्स पिअं कादु तहा करेमि। जं तुह इच्छिअं तं मे भणाहि त्ति 96 णाअरिए, विण्णवेहि देविं। का वअं भट्टिणिं णिओजेदुं। परिअणणिग्गहेन दंसिदो मइ अणुग्गहो। कस्स वा पसारेण अअं जणो वढ्ढदित्ति 97 तह 98 भट्टिणि, एसो दुचारुद्देसे समुद्दवरअस्स विपणिगदो विअ बलीवद्दोअज्जगोदमो आसीणो एव्व णिद्दाअदि 99 अच्चाहिदं। ण खु सावसेसो विसविआरो इवे 100 पसण्णुहमण्णो दीसइ। अविअ धुवसिद्धिणा चिइच्छिदो। ता से असङ्कणिज्जं पावं 101 भोदि मालविए 102 सुदं भट्टिणीए कस्स एसो अत्तणिओअसंपादगे विस्ससणिज्जोहदातो।सव्वकालं हो एव्व सोत्थिवाअणमो दएहिं कुच्छिं पूरिअ संपदं मालविअं सिविणावेदि 103 इरावदीं अदिक्वमन्ती होहि 104 एदंअच्चांहिदं। इमं भुअङ्ग नीरूअं बह्मबन्धुं इमिणा भुअङ्गकुडिलेंण दण्डकट्टेण खम्भन्तरिदा भाअइस्सं 105 अरुहदि एव्व किदग्धो उवद्दवस्स 106 अविहा अविहा। भो वअस्स, सप्पो मे उवरि पडिदो 107 भट्टा, मा दाव सहसा णिक्वम।सप्पोत्ति भणीअदि 108 हद्धि हद्धि। भट्टा इदो एव्व धावदि 109 कहं दण्डकट्टं एंद। अहं उण जाणे जं मए केदईंकण्टएहिं डंस करिअ सप्पस्सं उवरि अअसो किदं, तं मे फलदं110 मा दाव भट्टा पविसदु ।कुडिलगई सप्पो विअ दीसदि 111 अवि णिव्विग्घमणोरहो दिवा-
+[^881]: # "F omits this and the following speech."
 
-संकेदो मिहुणस्स112 बउलावलिए, दिट्टिआ दुच्चाहिआरविसआ संपूण्णा दे पइण्णा 113 पसीददु भट्टिणी। दद्दुरा वाहरन्ति त्ति किं देव्वो पुढवीए वरिसिढुं विरमदि 114 मा दाव। भोदीए दंसणमत्तेण अत्तभवं पणिवादलङ्घणं विसुमरिदो। तुमं उण अज्जवि पसादं ण गेण्हसि 115 कुविदा दाणिं अहं किं करिस्सं 116 अट्टाणेति सुष्ठु वाहरिदं अज्जउत्तेण। अण्णसंकन्तेसु अह्माणं भाअहेएसु जदि उण कुप्पेअं, तदो णं अहं हस्सा भवेअं 117 णिउणिए, गच्छ। देवीं विण्णावेहि। दिट्टो भवदीए पक्खवादो णं अज्जत्ति 118 तह 119 भो, अणत्थो संपडिदो। बन्धब्भट्टा गिहकवोदो विडालिआए आलोए पडिदो 120 भट्टिणि, जदिच्छादिट्टाए माहविआए आचक्विदं। एव्वं खु एदं णिव्वुत्तंति 121 उववण्णं। सच्चं अअं एत्थ ब्रह्मबन्धुणा किदो पओओ। इअं इमस्स कामतन्तमचिवस्स णीदी 122 भोदि, जदि णीदिगदं एक्वंवि अक्खरं पढेअं, णं मए अत्तभवं पेसिदो हवे 123 देव, कुमारी वसूलच्छी कन्दुअं अणुधावन्तीपिङ्गलवारेण बलिअं तासिदा अङ्कणिसण्णा देवीए पवादकिसलअं विअ वेवमाणा ण किं वि पकिदिं पडिवज्जर 124 तुवरदु अज्जउत्तो णं समासा सिदुं। मासे संतासजणिदो विआरो वड्डदु 125 साहु रे पिङ्गलवाणर, साहु। परित्तादो तुए सपक्खो 126 हला, देविं चिन्तिअवेवदि मे हिअअं। ण जाणे अदो वरं किं वा अणुहविदव्वं हविस्सदित्ति 127 अच्चरिअं अच्चरिअं। अणुण्णेएव्व पञ्चरत्ते दोहलस्समुउलेंहिं संणद्धो तवणीआसोओ। जाव देवीए णिवेदेमि 128 आससिदु सही। सच्चाप्पइण्णा देवी 129 तेण हि पमद
+**परिजनः।** मालविकामुपेत्य। ^(**२**)जेदु भट्टिणी।
 
-वणपालिआए पुठ्ठदोहोमि 130 तह।
+**देवी।** परिव्राजिकामवेक्षते।
 
-**ACTV**
+**परिव्राजिका।** नैतच्चित्रं त्वयि[^439]। तथा हि।
 
- 1 उवक्खित्तो मए किदसक्वारविहिणो तवणीआसोअस्स वेदिआबन्धो। जाव अणुठ्ठिदणिओअं अत्ताणं देवीए णिवेदेमि। अहो देवस्सअणुकम्पणीआ मालविआ। तस्सि तह चण्डिआ देवी इमिणा असोअकुसुमबुत्तन्तेण पसादसुमुही हविस्सदि। कहिं णु खु देवी हवे। अह्मो, एसो देवीए परिअणब्भन्तरो किंवि जदुमुद्दालच्छिदं मञ्जूपं गेण्हिअ चदुस्सालादो कुज्जो सारसिओ णिक्कमदि। पुच्छिस्सं दाव णं।
+**प्रतिपक्षेणापि पतिं सेवन्ते भर्तृवत्सलाः साध्व्यः।  
+अन्यसरितां शतानि हि[^883] समुद्रगाः प्रापयन्त्यब्धिम्[^884]॥१९॥**
 
-सारसिअ, कहिं पत्थिदोसि 2 महुअरिए, विज्जाभरिआणं बह्मणाणं णिच्छदक्खिणं म सिईं पुरोहिदस्स हत्थं पावइस्सं 3 अह किंणिमित्त 4 जदप्पहुदि सेणावदी जण्णतुरंगरक्खणे णिउत्तो भट्टिदारओ वसुमित्तो, तदप्पहुदि तस्स आऊसणिमित्तं णिक्कसदसुवण्णपरिमाणं दक्खिणं देवी दक्खिनणी एहिं परिग्गाहेदि 5 अह कर्हि देवी। किं वा अणुचिट्टदि 6 मङ्गलधरे आसणत्था भविअ विदब्भविसआदो भादुणा वीरसेणेण पेसिदं लेहं लेहकरेहिंवाइअमाणं सुणादि 7 को उण विदब्भराअउत्तन्तोसुणीअदि 8 वसीकिदो किल वीरसेणप्पमुहेहीं भत्तुणो विजअदण्डेहि विदब्भणाहोमोइदो से दाआहो माहवसेणोदूदो अ तेण महासाराणि रअणाणि वाहणार सिप्पआरिआभूइट्टंपरिअणं उवाअणीकरिअ भट्टिणो सआसं पेसिदोत्ति 9 गच्छ अणुचिट्ट अन्तणो णिओअं। अहं वि देवीं पेक्खिस्सं 10 आणत्तह्मि असोअसक्कारवावुदाए देवीए। विण्णावेहि अज्जउत्तेण सह असोअरुक्खस्स पसूणलाच्छिं पच्चक्खीकादुंति। ता जाव धम्मासणागदं देवं पडिवालेमि 11 एसो जअसद्दसूइदप्पत्थ णो भट्टा इदो एव्व आअच्छदि।अहं वि दाव इमस्स पमुहादो लोआदो ओसरिअ खम्भन्तरिदा होमि 12 जह अहं पेक्खामि।एक्कान्तसुहिदो भवं हविस्सदि 13 अज्ज किल देवीए एव्व पण्डितकौशिकी भणिदा।भवअदि, जं तुमं पसाहणगव्वं वहसि, तं दंसेहि मालविआए सुरीरे विवाहणेवच्छं ति। ताए सविसेसालंकिदा मालविआ।तत्तहोदी कदावि पूरए भवदोवि मणोरहं 14 जेदु भट्टा। देवी विण्णवेदि। तवणी आसोअस्स कुसमसमदंसणेण मह आरम्भो सफलो करीअदु त्ति 15 अह इं। जहारहसंमाणसुहिअं अन्तेडरं विसज्जिअ मालविआपुरोएण अत्तणो परिअणेण सह देवं पडिवालेंदि 16 एदु एदु देवो 17 भो वअस्स, किंचि परिवुत्तजोव्वणो विअ वसन्तो पमदवणे लक्खीअदि 18 अहो अअं सो दिण्णणेवच्छो विअकुसुमत्थवएहि तवण्णीआसोओ।ओलोअदु भवं 19 तह। भो, वीसद्धो होहि। अह्मेसुसंणिहिदेसु विधारिणी पासपरिवट्टिणि मालविअं अण्णुमण्णेदि 20 जाणामि णिमित्तं कोदुआलकारस्स।तह वि मे हिअअं बिसिणीपत्तगदं विअ सलिलं वेवदि। अविअ दक्खिणेदरं वि मे णअणं बहुसो फुरदि 21 भो
+[^883]: # "F शतान्यपि for "
 
-वअस्स, विवाहणेवच्छेण सविसेसं खु सोहदि मालविआ 22 जेदु अज्जउत्तो 23 वढ्ढदुभोदी 24 अज्जउत्त, एस ते अह्मेहिं तरुणीजणसहाअस्स असोओ संकेदघरो कप्पिदो 25 भो, आराहिओसि 26 भो, वीसद्धो भविअ तुमं जोव्वणवदिं इमं पेक्ख. 27 कं 28 भोदि, तवणीआसोअस्स कुसुमसोहम् 29 हला मजणिए, अपुव्वं इमं राअडलं पविसन्तीए पसीददि मे हिअअं 30 जोसिणीए, अत्थिखु लोअप्पवादो। आआमि सुहं दुक्खं वा हिअअसमवत्था कहेदित्ति 31 सो सच्चो दाणिं होदु 32 जेदु भट्टा। जेदु भट्टिणी 33 भट्टा, संगीदे अब्भन्तरह्म34 मालविए, इदो पेक्ख। कदरा ते संगीदसहआरिणी रुच्चदि 35 अह्मो भट्टदारिआ। जेदु जेदु भट्टदारिआ 36 भट्टा, एसा अह्माणं भट्टदारिआ 37 सुणादु भट्टा। जोसो भट्टिणा विजअदण्डेहिं विदब्भणाहं वसीकरिअ बन्धणादो मोइओ कुमारो माहवसेणो णाम, तस्स इअं कणीअसी भइणी मालविआ णाम 38 कहं राअदारिआ इअं। चन्दणं खु मए पादुओवओएण दूसिदं 39 विहिणिओएग 40 सुणादु भट्टा। दाआदवसंगदे भट्टदारए माहसेणे तस्स अमच्चेण अज्जसुमदिणा अह्मारिसं परिअणं उज्झिअ गूढं आणीदा एसा 41 भट्टा, अदो वरं ण आणीमो 42 अञ्जकोसिईए विअ सरसंजोओ 43 णं सा एव्व 44 जदिवेसधारिणी अज्जकोसिई दुक्खेण विभावीअदि। भअवदि, णमो दे 45 तेण हि कहेदु भअवदी अत्तहोदीए उत्तन्तं दाव असेसं 46 भोदि, मा भग्राहि। अदिक्वन्तं खु तत्तहोदी कहेदि 47 अहो, हदो सुमदी 48 अहो खु भट्टिदारिआए इअं समवत्था संवुत्ता 49 किं णु खु संपदं भट्टा भणादि 50 भअवदि तुए अभिजणवदिं मालविअं अणाचक्खन्तिए असंपदं किदम् 51 किं विअ तं कारणम् 52 भट्टदारिए, दिट्टिआ भट्टिणा भट्टदारओ अद्धरज्जे पडिठ्ठं गमइस्सदि 53 एदं दाव बहु मण्णिदव्वं, जं जीविदसंसआदो मुत्तो 54 अह्महे, तदोमुहं एव्व णो हिअअं। सुणिस्सं दाव गुरुअणस्स कुसलाणन्तरं वसुमित्तस्स वुत्तन्तं। अदिघोरे खु पुत्तओ सेनावदिणा णिउत्तो
+[^884]: # "F उदधिम् for “अब्धिम्”"
 
-55 इमिणा आससिदं मे हिअअं 56 भअवदि, परितुट्टह्मि। जं पिदरं अणुजादो मे वच्छओ 57 जयसेणे, गच्छ। इरावदिप्पमुहाणं अन्तेपुरांणं पुत्तस्स वुत्तन्तं णिवेदेहि 58 एहि दाव 59 इअं ह्मि 60 जं मए असोअदोहलएणिओए मालविआए पइण्णादं, तं से अभिजणं च णिवेदिअ मह वअणेण इरावदिं अणुणेहि। तुए अहं सच्चादो णविब्भंसिदव्वे त्ति 61 जं देवी आणवेदि। भट्टिणि, पुत्तविजअणिमित्तेण परितोसेण अन्तेउराणं आहरणाणं मज्जूसह्मि संवृत्ता 62 एदं किं अच्चरिअं। साहारणो खु ताणं मह अ अअं अब्भुदओ 63 भट्टिणि इरावदि, उण विब्णवेदि। सरिसं देवीए पहवन्तीए।तुह वअणं संकण्णिदं ण जुज्जदि अण्णहाकादुं त्ति 64 भअवदि तुए अणुमदा इच्छामि अज्जसुमदिणा पढमसंकप्पिदं मालविअं अज्जउत्तस्सपडिवादेदुं 65 इदं अज्जउत्तो पिअणिवेदणाणुरूवं पारितोसिअं पडिच्छदु 66 किं अवधीरेदि अज्जउत्तो 67 भोदि, एसो लोअव्ववहारो।सव्वो णववरो लज्जादुरो होदि 68 अह देवीए एव्व किदप्पणअविसेसं दिण्णदेवीसद्दं मालविअं अत्तभवं पडिग्गहीदुं इच्छदि 69 एदाए राजदारिआए अहिजणेण एव्व दिण्णो देवीसद्दो। किं पुणरुत्तेम70 मरिसेदु भअवदी।अब्भुदअकहाए उइदं ण लक्खिदं। जअसेणे, गच्छ दाव।कोसेअपत्तोण्णजुअल उवणेहि 71 जं देवी आणवेदि। देवि, एदम् 72 अज्जउत्तो दाणिं इमं परिच्छदु 73 अहो देवीए अणुऊलद। 74 जेदु भट्टिणी 75 जेदु भट्टा। इरावदी विण्णावेदि। जं उवआरादिक्वर्मेण तदा भट्टिणो अवरद्धा, तं सअं एव्व भत्तुणो आणुऊलं णाम मए आअरिदं। संपदं पुण्णमणोरहेण भत्तुणा पसादमेत्तेण संभावइदव्वेत्ति 76 णिउणिए, अवस्सं से सेविदं अज्जउत्तो जाणिस्सदि 77 अणुग्गहीदह्मि78 भअवदीए ण जुत्तं अह्मे परिच्चइदुं 79 अज्जउत्त, किं ते भूओ पिअं उवहरामि।
+।प्रविश्य निपुणिका।
 
-—————
+**निपुणिका।** ^(**३**)जेदु भट्टा। इरावदी विण्णवेदि। उवआरादि[^885]क्कमेण तदा अहम् अवरध्धा। सम्पदं पुण्णमणोरहो भट्टा। अहंवि भट्टिणा पसादमेत्तेण[^886] सम्भावइदव्वेत्ति।
 
-**MALAVIKA AND AGNIMITRA**
+[^885]: # "A B C E F उअआरादि°."
 
-**(English Translation)**
+[^886]: # "“पसादमेत्तेण” taken from G"
 
-————
+**देवी।** ^(**४**)णिउणिए अ[^415]वस्सं ताए सन्देसम् अणुजाणिस्सदि अज्जउत्तो[^888]।
 
- May that Siva who, although established in sole supremacy which confers various favours on those that bow to him, yet himself wears the garment of (elephant) skin, who, although with his body closely united with that of his beloved, yet is higher than the sages whose minds are away from the objects of sense; in whom although supporting the enrire world with his eight[^2]. cf. the Nandi sloka of the Abhijana Sakuntalam.")forms, there is no egotism;— may He dispel your state of darkness for (your) beholding the right path.                       
-         (**1**)
+[^888]: # "F ताए सेविदुं जाणिस्सिदि अ-अउत्तो, for "
 
-[^2]: "The eight forms are Earth, Water. Fire, Wind, Sky Sun, Moon and the Yajamana (i.e. one who performs a sacrifice and meets all the expenses thereof
+**निपुणिका।** ^(**५**)जं देवी आणवेदि[^889]।
 
-*(At the end of the Nandi)*
+[^889]: # "D E अणवेदि."
 
-**STAGE-MANAGER**—
+\इति निष्कान्ता।
 
-(*Looking towards the green room*) O worthy person! come here, please.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अहो देव्या अत्रभवतोनुकूलता।  
+**२.** जयतु भट्टिनी।  
+**३.** जयतु भर्ता। इरावती विज्ञापयति। उपचारातिक्रमेण तदाहमपराद्धा। साम्प्रतं पूर्णमनोरथो भर्ता। अहमपि भर्त्रा प्रसादमात्रेण सम्भावयितव्येति।  
+**४.** निपुणिके अवश्यं तवः सन्देशमनुज्ञास्यत्यार्यपुत्रः।  
+**५.** यद्देव्याज्ञापयति।
 
-(*Entering*) **ASSISTANT MANAGER**—
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Sir, here I am.
+**परिव्राजिका।** देव अहममुना भवत्सम्बन्धेन [चरितार्थं[^890] माधवसेनं सभाजयितुमिच्छामि यदि मयि[^891] तव प्रसादः।
 
-**STAGE-MANAGER**—
+[^890]: # "B चरितार्थमा°."
 
-I am told by the learned assembly that the play called *Malavikagnimitr*a, the plot of which is constructed by Kalidasa, must be staged at this vernal festival. Therefore let music begin.
+[^891]: # "F मे for "
 
-**ASSISTANT**—
+**देवी।** ^(**१**)अवसिदक[^892]ज्जाए भअवदीए अम्हे परिच्चइदुं ण जुत्तम्।
 
-Not so, please. Neglecting the works of such illustrious writers as Shasa, Saumilla, Kaviputra, how could there be any respect for the work of a modern poet, Kalidasa?
+[^892]: # "B अवसीदक°."
 
-**MANAGER**—
+**राजा।** भगवति मदीयेषु लेखेषु तत्रभवते त्वामुद्दिश्य सभाजनाक्षराणि पातयिष्यामि।
 
-Ey! you have spoken without discernment. Consider;
+**परिव्राजिका।** युवयोः स्नेहेन परवानयं जनः।
 
-All is not good, merely because it is old; nor is a poem to be despised that it is new. Wise men accept anything after scrutinizing carefully; an ignorant person has his judgement guided by the opinion of others.(2)
+**देवी।** ^(**२**)आणवेदु अज्ज[^257]उत्तो भूओवि[^894] किं पिअम् अणुचिठ्ठामि।
 
-**ASSISTANT—**
+[^894]: # "B भूयोवि."
 
-The respectable persons (spectators) are the best judges.
+**राजा।** किमतः परम्। तथापि भवत्वेवं तावत्।
 
-MANAGER
+**त्वं मे प्रसादसुमुखी भव चण्डि नित्यम्  
+एतावदेव मृगये प्रतिपक्षहेतोः।  
+आशास्यमीतिविगम[^895]प्रभृति प्रजानां  
+सम्पत्स्यते न खलु गोप्तरि नाग्निमित्रे॥२०॥**
 
-**—**
+[^895]: # "Our MSS. आशास्यमित्यधिगम° ; G आशास्यमभ्यधिगम.° We with Tullberg."
 
-Now please make haste.
+\[इति निष्क्रान्ताः सर्वे।
 
- I wish to execute the order of the assembly, which I have first received with a bow of (my) head, just like this attendant, skilful in service, of queen Dharini.(3)
+**॥इति पञ्चमोङ्कः॥**
 
-*(Exeunt ambo)*
+**॥इति कालिदासविरचितं मालविकाग्निमित्रं  
+नाम नाटकं समाप्तम्॥**
 
-END OF THE PROLOGUE
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**१.** अवसितकार्यया भगवत्या वयं परित्यक्तुं न युक्तम्।  
+**२. **आज्ञापयत्वार्यपुत्रो भूयोपि किं प्रियमनुतिष्ठामि।
 
-*(Then enter Bakulavalika)*
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-BAKULAVALIKA
+**N O T E S.  
+<MISSING_FIG href="../books_images/U-IMG-1728234940pic1.jpg"/>  
+ACT I.**
 
-**—**
+**P. 1, 1.1.—**एकैश्वर्यस्थितोपि. The opposition shown by अपि between this epithet and प्रणतबहुफलः is merely verbal, the figure being an instance of what is called शब्दविरोध. एक, opposed to बहु in the other epithet, is used in a double sense, viz., that of ‘supreme’ and ‘one.’
 
-I have been ordered by Queen Dharini to enquire the dancing master, the respectable Ganadasa, how Malavika is in the dance called *chalika*, the instruction of which is being imparted to her since recently. Therefore I shall go to the music hall.
+**P. 1, 1. 3.—**अष्टाभिः. Cf. the introductory stanza of the S'âkuntala.
 
-*(Walks about.Then enter a second maid with an ornament in hand)*
+**P. 1, l. 4.—**सन्मार्गालोकनाय,** ‘**to see the good paths’ (of morality, religion &c.), *i.e., that we may see &c.*
 
-**THE FIRST MAID—**
+**P. 1, 1.7—**मारिषः. By this name the Sûtradhâra usually addresses his assistant (पारिपार्श्विकः), who in his turn uses भाव as a term of respect in addressing his master.
 
-(*Seeing the second*) Friend Kaumudika, whence this gravity in you that you do not cast a glance this way, although you are passing close by!
+**P. 1, 1, 10.—**वसन्तोत्सवे.** **The Vasanta Festival comes annually on the first day of the dark or second half of the month of Phâlguna, *i.e.*, on the first day of Spring, to welcome the advent of which was the original object of the festival. This holiday, now so much abused by the vulgar classes in the form of the *holi* enormities, appears to have been more soberly enjoyed in olden times. The observances enjoined for the Vasantotsava day are: 1, That a man shall touch a Mahâr, and shall then bathe, to secure freedom from all sin, from sorrows and diseases. 2, That he shall worship the *holi* spot, to secure the destruction of all pain, with this mantra : वन्दितासि सुरेन्द्रेण ब्रह्मणा शङ्करेण च। अतस्त्वं पाहि नो देवि भूते भूतिप्रदा भव। 3, That he shall eat the blossom of the mango-tree mixed with sandal-wood, to secure the highest happiness, with this mantra : चूतमग्रयं वसन्तस्य माकन्द कुसुमं तव। सचन्दनं पिवाम्यद्य सर्वकामार्थसिद्धये. See *Nirṇayasindhu*, under ‘Vasantotsava.’ During the *holi* festival dramatic representations of all sorts are still very common. See also the opening of the first Act of Ratnâvalî.
 
-THE SECOND
+**P. 1, 1. 12.—**भास &C. Bhâsa and Saumilla were two dramatic writers, but nothing is known about them or the works they composed. None of our MSS. read धावक in place of भास. MS. G reads भाससौमिल्लकविपुत्रादीनां. See Preface.
 
-**—**
+**P. 2, 1. 14.**—MS. G inserts the word उपदेसग्गहणे after “अन्दरेण.”
 
-Oh Bakulavalika! Friend, intently looking at this Queen's ring on which the seal of a snake has been engraved and which has been brought from the engraver, I have fallen into your reproof.
+**P. 2, 1.18.—**धीरदा ‘Whence this seriousness?’ What are you contemplating so deeply?’ The word signifies a pensive and contemplating mood of the mind when the person is so serious, and engaged so much in reflection, that he fails to mark what passes around or beside him.
 
-**FIRST—
+**P. 3, 1. 3.—**उवालम्भे, viz. “समीवेवि अदिक्कमन्दी इदो दिठ्ठिं ण देसि.”
 
-*(Observing*) Your eyes are rightly fixed (on it). The forepart of your palm appears blossomed as it were,
+**P. 3, 1. 7.—**कहिं. Cf. note *infra* on p. 72, 1. 14.
 
-on account of this ring from which filaments of rays have burst forth.
+**P. 3, 1. 10.—**ईदिस,** **referring to her studies in music and dancing.
 
-**SECOND**— Friend, where are you going?
+**P. 3, 1, 12.—**सो जणो referring to Mâlavikâ.
 
-**FIRST**— At the behest of the queen, to see the respectable Ganadasa (and enquire) how Malavika is in grasping instructions.
+**P. 5, 1. 2.—**णिब्बन्धिदुं ‘to press,’ ‘to importune.’ Cf. Raghuvaṁs'a V. 21—वसुलछ्छीए. Vasulakshmî was the younger sister of Dhâriṇî. MS. G.'s reading after पवुत्तो is worthy of note : जाव ण कहेदि देवी दाव कुमारिए &c.
 
-**SECOND**— Friend, although away with such an employment, how was she seen by the king?
+**P. 5, 1. 11.—**MS. G reads, very desirably, से after “जाच.”
 
-**FIRST**— Yes. She was seen standing by the side of the queen, in a picture.
+**P. 5, 1. 12.—**गणदासः। प्रविश्य। The MSS. read प्रविश्य गणदास : in this place and similarly in almost every other place subsequently throughout the play, where the stage-direction, प्रविश्य So-and-So, occurs. But I have in all cases inverted the order, and given the name of the character first for the sake of uniformity.
 
-**SECOND**— How exactly was it?
+**P. 5, 1. 13.—**न पुनरस्माकं तु. With the use here of the two adversative particles, cf. S'âkuntala, Act VII., “किन्तु अछ्छरासम्बन्धेण उण इमस्स बालअस्स जणणी इधज्जेव देवगुरुणो तबोवणे पसूदा,” p. 176, 1. 14, Calc. Ed. 1860.
 
-**FIRST**— Listen; having gone to the picture gallery, the queen was beholding a painting drawn by the (painting.) master, and which was quite fresh with the hues of colouring. And the king came in.
+**P. 6, 1. 2.—**रुद्रेणेदमुमाकृतव्यतिकरे &c. The duality in unity of S'iva and his wife Pârvatî is represented as having but two sides between them, the left side of S'iva being the same as the person of Pârvatî, and *vice versa*, that is, S'iva and Pârvatî are one individual, the left portion of whose body is female (representing the goddess), and the right one male (representing the god). And as S'iva is fond of music and dancing, he is represented as dancing and singing with his consort thus united with him.
 
-**SECOND**— Then, then?
+**P. 6, 1.4.—**बहुधा. Construe with भिन्नरुचैः.
 
-**FIRST**— After, the formal reception. the queen was asked by the king who was seated on the same seat with her’ after beholding a maid close to the queen in a painting, amidst her attendants.
+**P. 6, 1. 9.—** विभाव्यताम्. ‘Let (the Queen) be made to understand,’ *i.e.* let her be informed, &c.
 
-**SECOND**— What did he ask?
+**P. 7, 1, 2.—**मन्दायणीदीरे. is Mandâkinî is a name that usually signifies ‘the river of the air or heaven’ (the Ganges or a feeder of it before it reaches the plains?); but it is also the name of an actual river flowing, according to the Vâyu Purâṇa, from the Riksha mountain. (See Vishṇu Purâṇa, p. 184. n. 70.) There is no doubt that the Mandâkinî of the present passage is a river of the Deccan. And further, it is probable that it may here stand for the *Narmadâ*, in conformity with a practice, still very common all over India, of designating any sacred river by the most sacred river-name, as Gangâ, &c. The apparent difficulty, however, would disappear by our reading with G, णम्मदा-\[कूले\] for “मन्दायणी”-\[दीरे\].
 
-**FIRST**— ‘This maiden, not seen before, has been painted close to the queen: what is her name?’
+**P. 7, 1. 7.—**जलमिव समुद्रशुक्तौ. Referring to the notion that drops of rain fallen under the auspices of the asterism or star *Arcturus* into the sea-shells produce pearls.
 
-**SECOND**— Curiosity sets foot with regard to persons of remarkable beauty. Then?
+**P. 7, 1. 14.—**लब्धक्षणः,** **‘who have obtained recess.’ In क्षण the Marâṭhî reader will doubtless recognise his own word, सण, a festival. For one of the secondary senses of क्षण is ‘leisure,’ ‘vacation.’ See note *infra* on p. 31, 1. 1.
 
-**FIRST**— Then the king, whose words were not paid heed to, hesitated to importune the queen again. Then it was told by princes Vasulakshmi— ‘Papa, this is Malavika,’
+**P. 8, 1. 2.—**किं प्रपद्यते वैदर्भः, ‘What is the king of the Vidarbhas about ?’ *i. e.* ‘what does he mean?’, प्रतिपद्यते as read by G and also by Tullberg, would mean ‘what does the Vidarbha say in reply?’
 
-**SECOND**— *(Smiling)* it is indeed befitting (her) childhood what next? Tell me.
+**P. 8, 1. 4.—**MS. G reads लिखितम् in place of निदेशम्.
 
-FIRST—
+**P. 8, 1. 5.—**पूज्येन. A term of respect applied to the person addressed, who is king Agnimitra in the present passage.
 
-What else? At present Malavika is being particularly guarded against coming within the range of the king's sight.
+**P. 8, 1. 6.—**प्रतिश्रुतसम्बन्धः,** **who had promised to become my relation.’
 
-SECOND—
+**P. 8, 1.8,—**मदपेक्षया,** ‘**having regard to me,’ *i. e.* ‘if you do not wish to incur my displeasure.’—सकलत्रसोदर्यः, ‘together with his wife and sister.’
 
-Friend, you go to your business. I too will take this ring to the queen. (*Exit*)
+**P. 8, 1. 14.—**मौर्यसचिवं मम श्यालम्. The name of this brother-in-law of the king of the Vidarbhas is not known. As, however, he was the minister of the Maurya king of Pâṭaliputra, it seems probable that he was imprisoned by Agnimitra to prevent him from exciting the people to rebel against his (Agnimitra’s) father, Pushpamitra, who had murdered the last of the Mauryas, Bṛihadratha, and usurped his throne in his son’s favour. The imprisonment of Mâdhavasena, the intended brother-in-law of Agnimitra, by his cousin the king of the Vidarbhas, was only a retaliation for his brother-in-law’s imprisonment by Agnimitra.
 
-FIRST—
+**P. 9, 1. 1.—**अनात्मज्ञः, ‘foolish,’ ‘silly.’ Cf. S'âkuntala Act VI., “प्रविश्य सक्रोधम्। मा तावदनात्मने! देवेन प्रतिषिद्धेपि मधूत्सवे चूतकलिकाभङ्गमारभसे.”
 
-(*Walking about and noticing*) Here, the dancing. master comes out of the concert-hall. I shall just go to him. *(Walks forth*)
+**P. 9, 1. 3.—**यातव्यपक्षे** **&c. The following is the natural order of the sentence: तत् यातव्यपक्षे स्थितस्य (वैदर्भस्य) उन्मूलनाय पूर्वसङ्कल्पितं वीरसेनप्रमुखं दण्डचक्रमाज्ञापय. यातव्यपक्षे स्थितः means ‘standing under the category of those that make themselves liable to be attacked,’ by provocation &c.
 
-(*Entering*) **GANADASA**
+**P. 9, l. 10.—**तन्त्रकारवचनम्, viz. that quoted, or supposed to be quoted, by the minister in stanza 8. The Tantras do not usually teach politics, but they enjoin practices and ceremonies connected with the worship of S'akti. See Wilson's *Essays on the Religion of the Hindus,* Vol. I., pp. 247–250. It is perhaps possible, though by no means quite necessary, to understand तन्त्रकार in the present passage generally in the sense of शास्त्रकार.
 
-—
+**P. 10, l.10.—**प्रभुः, predicated of सहायवानेव.
 
-Verily indeed, the heriditory lore is of great regard in the case of all. But mine is not a baseless estimation in respect of dancing. For,
+**P. 10, l. 14.—**व्यक्तिः.** **Cf. Raghuvaṁs'a, I. 10.
 
-—
+**P. 10, l. 15.—**त्वन्नीतिपादपस्य** **The Nîti or intrigue here referred to is the creating of a feud between the two teachers of music as to their comparative merits, resulting in an actual exhibition of their powers of teaching by a dramatic representation, which gave the king an opportunity of seeing Mâlavikâ. Vidûshaka had also given the Parivrâjikâ her cue.
 
- Sages say that this is to the gods a sacrifice which is peaceful and pleasing to the eyes. By Rudra this has been divided into two in his own body united with that of Uma; in this, the behaviour of man arising from the three qualities is seen in the various sentiments; in many ways dancing is the one entertainment to people who are of different tastes.
- (**4**)
+**P. 11, l. 12.—**पुरुषाधिकारमिदं ज्योतिः, equivalent to एतन्त्पुरुषाधिकारं ज्योतिः=एष पुरुषः अधिकारः अधिकरणं स्थानं यस्य तत्. None of our MSS. give the apparently easier reading ‘पुरुषाकारं ज्योतिः,’ as found in Tullberg's edition. On the contrary, cf. the following, as read by MS. G—‘महत् खलु पुरुषाधिकरणमिदं ज्योतिः.’
 
-**BAKULAVALIKA**
+**P. 12, l. 2.—**शिष्योपदेशकाले, ‘at this time of the day, when you ought to be teaching your respective pupils.’
 
-—
+**P. 12, l. 3.—**तीर्थात्, ‘गुरोः,’ ‘from my preceptor.’ तीर्थ is another name for ‘guru,’ because he is ‘one to whom honour is due.’ It is not, I think, a proper name here, as Prof. Weber supposes.
 
-(*Going near*) Sir, I salute you.
+**P. 12, l. 4.—**दत्तप्रयोगोस्मि, ‘I have given lessons in the art of theatrical representation,’ *i.e.* I am an experienced teacher of the art. प्रयोग has here the same sense as क्रिया in Act I., stanza 12.
 
-GANA—
+**P. 12, l. 6.—**सोहम्‚ ‘That I,‘ *i.e.*, and yet I, &c.
 
-Good girl, live long.
+**P. 12, l. 8.—**अत्रभवतः किल. This is said ironically of Gaṇadâsa, who, we must suppose, used the simile at first to disparage his rival.
 
-**BAKULA**
+**P. 12, l. 12.—**समथ्थं पडिण्णादं. ‘Well challenged,’ ‘a good challenge that.’ समथ्थं is reasonably.
 
-—
+**P. 12, l. 13.—**प्रथमः कल्पः. 'That is the best course to follow.’ Cf. S'âkuntala पुढमो कप्पो Act IV., p. 75, l. 8; and प्रथमः कल्पः Act V., p. 114, l. 2; and Act. VII., p. 169, l. 11; Calc. Ed. 1860.
 
-Sir, the queen asks (you) whether your pupil Malavika does not feel it hard to grasp (your) instructions.
+**P. 12, l. 14.—**तिष्ठतु तावत्. ‘Let it be (lit. stand) a little while,’ *i.e. wait a moment.* मन्यते for मन्येत, as very often.
 
-**GANA.**
+**P. 12, l. 18.—**अमुं प्रस्तावं निवेद्य, ‘mentioning this subject.’ प्रस्ताव is उपस्थितं वस्तु. ग्रस्तु is ‘to put forth.’ Cf. *infra*, p. 51, l. 10. Also Ratnâvalî, Act IV., “भद्र प्रस्तूयतां बहुविधमिन्द्रजालम्” p. 55, l. 10, Calc. Ed. Sam. 1921.
 
-—
+**P. 13, l. 6.—**G's reading प्रतिद्वन्द्विनो for केनचित् is certainly worthy of attention.
 
-My good girl, let the queen be informed that she is very clever and intelligent. To be brief
+**P. 13, l. 8.—**राज्ञीशब्दभाजनम्, agreeing with आत्मानम्, which is always masculine singular, whatever the gender and number of the noun it refers to.
 
-—
+**P. 13, l. 10.—**भानोः परिग्रहादनलः. It is easy to see that this alludes to the supposed interest of the king in the cause of Haradatta, and the words चन्द्रोपि निशापरिगृहीतः to the queen’s interest in the success of Gaṇadâsa.
 
- Whatever thing expressive of feeling in the pantomimic representation is taught to her by me, that girl seems to teach me back by executing that in an excellent way.   (**5**)
+**P. 13, l. 12.—**पीठमादिअम्. पीठमर्द means one who assists the Nâyaka, or lover, to obtain his mistress. And accordingly पीठमर्दिका means a woman who assists the Nâyikâ, or the mistress, in her endeavours to gain her lover. The Pratâparudra says, तत्सहायाः (= नायकस्य सहायाः) पीठमर्दविटचेटविदूषकाः नायिकानुकूलने. And it defines पीठमर्द as being किञ्चिदूनः, ‘somewhat short of stature.’ See *Pratâparudra*, Nâyaka Prakaraṇa, 40. In the present instance, also, the term पीठमर्दिका, as applied to the female ascetic, has the same sense that the Pratâparudra attaches to it. Having been previously taught by Vidûshaka what part she was to play in deciding the case of the two professors of music and dancing, the Parivrâjikâ is sent for by the King (p. 12, l. 18). She tells the Queen Dhâriṇî, when questioned by her, that Gaṇadâsa may safely venture on a competition with his rival (अलं स्वपक्षवसादशङ्कया &c. p. 13, l. 5). Further, she declares that it will be no sufficient criterion to examine the teachers orally, but that they must be judged by the performances of their respective pupils also (प्रयोगप्रधानं हि नाट्यशास्त्रं किमत्र वाग्व्यवहारेण &c., p. 14, l. 18, and शिष्टा क्रिया &c., p. 15, l. 12, *et seq*). Again when the Queen says the teachers might make their pupils perform before the Parivrâjikâ alone, the latter replies that it would be unjust to make the decision of the case dependent upon a single individual’s judgment (नैतन्न्याय्यम् &c., p. 17, l. 13). Having thus prevailed upon the Queen that she should allow Gaṇadâsa to prove his abilities by making Mâlavikâ, his pupil, perform before an assembly where the King should be present, she orders, taking as good care to avoid suspicion as an interested party could, that the teachers should bring forward their pupils unencumbered by their stage-dresses (निर्णयाधिकारे ब्रवीमि &c., p. 20, ll. 8,9), thus contriving that the King should see Mâlavikâ in a state that would impress him most favourably. Further the Parivrâjikâ, to avoid any mischance, decides, doubtless somewhat partially, that so far as knowledge was concerned the teachers being equally old—though this was the very matter in dispute—Gaṇadâsa deserved precedence on the ground of his seniority by years (ननु समानेपि ज्ञानवृद्धभावे &c., p. 22, l. 5), and gives him the opportunity of presenting Mâlavikâ first. And lastly the ascetic, being questioned as to what she thought of the performance of Mâlavikâ, pronounces it to be a complete success (अङ्गैरन्तर्निहितवचनैः &c., p. 26, ll. 2-5). Having thus far contributed to the development of the King’s passion for Mâlavikâ, she subsequently comes to the assistance of the girl by informing Vidûshaka of the consignment to a dark room of Mâlavikâ and her friend Bakulâvalikâ, and thus causing them to be liberated. It is on account of these her services to Mâlavikâ that the ascetic Kaus´ikî is called पीठमर्दिका.
 
-**BAKULA**
+**P. 13, l. 15.—**मङ्गलालङ्कृता, ‘decorated with such dress and ornaments as she must wear as the wife of a living husband.’ Cf. Vikramorvas´î, Act III., “सितांशुका मङ्गलमात्रभूषणा.”
 
-—
+**P. 13, l. 16.—**अध्यात्मविद्यया, *i. e.* by the Upanishads, which abound in disquisitions on the nature &c. of the soul; *i.e.* ‘like stern Simplicity accompanied by Wisdom.’
 
-(*To herself*) Methinks she has already eclipsed even Iravati. (*Aloud*) Your pupil has now acheived
+**P. 14, l. 4.—**धारिणीभूतधारिण्योः, ‘of Dhâriṇî the queen, and of the earth, the supporter of the creation.’
 
-her object, as her teacher is so much satisfied with her.
+**P. 14, l. 15.—**परिच्छेत्तुम् ‘to distinguish,’ (lit. *to measure*).
 
-**GANA.**— My good girl, as such persons are rarely found, I ask you; 'Whence was this person got by the queen?'
+**P. 14, l. 19.—**वाग्व्यवहारेण. Cf. above, p. 12. l. 15.
 
-**BAKULA.**— The queen's brother, Virasena by name and of inferior caste, has been stationed by the king in the frontier fortress on the banks of the Narmada. By him this girl was sent as a present to his sister, the queen, thinking that she was fitted for (skilled) fine arts.
+**P. 14, l. 20.—**कथं वो देवी मन्यते. MS. G makes these words a part of the preceding speech of the Parivrâjikâ, an arrangement which has certainly something to recommend it.
 
-**GANA.**—*(To himself)* Because of her remarkable personality, I think that she is of no low stuff. *(Aloud)* My good girl, I too shall become famous. For—
+**P. 15, l. 2.—**अनुमन्तुमर्हति &c. ‘I pray that you may not allow or cause me to be beaten by one who is only my equal.’ Gaṇadâsa means that, if the queen should not permit him to accept the challenge of Haradatta, he would be considered as inferior to his rival, whom he considers, at the most, his equal. मन्तुम् as read by MS. G, gives an equally good sense. समानविद्यतः परिभवनीयं मन्तुं नार्हति, ‘Your Majesty ought not to be afraid lest I should be defeated by my rival.’
 
- The skill of a teacher, when transferred to a worthy pupil, attains quite a different excellence just as the water of a cloud deposited in a sea-shell gains the state of a pearl, **(6)**
+**P. 15, l. 8.—**उभयोः स्वाङ्गसौष्ठवाभिनयम्; *i.e.* उभयकर्तृकम् &c., exhibited by the teachers themselves in their own persons.
 
-**BAKULA.**—Quite so. Now, where is your pupil ?
+**P. 15, l. 12.—**शिष्टा क्रिया कस्यचिदात्मसंस्था. ‘Of some the acting is excellent in their own persons,’ *i.e.*, some excel as actors when they act personally, but they cannot teach others how to act well.
 
-**GANA.**—After teaching her the art of gesticulation with the movement of five limbs, I asked her to take rest; and she stands enjoying the free air in the balcony commanding a view of the pond.
+**P. 16, l. I.—**पिण्डिदथ्यो, *i.e.* गर्भितार्थः, ‘her real sense.’
 
-**BAKULA.**—Then sir, please permit me to go. I shall just stimulate her zeal by communicating to her your satisfaction.
+**P. 16, l. 5.—**अमेहाविणी. ‘मन्दमेधाविणी,’ G's reading, deserves attention.
 
-**GANA.**— You may see your friend. Now that I have got leisure, I will go home. (*Exeunt Omnes*)
+**P. 16, l. 8.—**अद्रव्यपरिग्रहः. One of our MSS., E, has on its margin सूक्ष्मबुद्धिः शिष्यो द्रव्यम्। तद्भिन्नो जडबुद्धिरद्रव्यम्.
 
-MISRA-VISHKAMBHAKA
+**P. 16, l. 9.—**This speech is made quite intelligible by our reading it as follows with G :—जनान्तिकम्। गणदासं विलोक्य। कहं दाणिम्। अलम् अज्जउत्तस्स उछ्छाहकालणं मणोरहं पूरिअ। प्रकाशम्। विरम णिरथ्थआदो आरम्भादो. This is doubtless the true reading. The existence as well as the position of the direction प्रकाशम् is of vital importance to the proper understanding of the passage, and its connection with what follows. The absence of प्रकाशम् would make it impossible to explain how Vidûshaka comes to hear what the Queen whispers to Gaṇadâsa. Nor are the words “कहं दाणिम्। अलम् अज्जउत्तस्स उछ्छाहकालणं मणोरहं पूरिअ,” embodying a suspicion of Dhâriṇî as to the King's motives, intended to be heard by the latter. It is also evident that कहं दाणिं forms part of the whisper, and ought to follow the stagedirection जनान्तिकम्। गणदासं विलोक्य।
 
-(Then enter the king with attendants standing at a distance, and the minister with a letter in his hand and sitting beside the king).
+**P. 17, l. 2.—**सरस्सइउवाअणमोदआइं. The ‘modaka,’ a dishful of which is offered as a present to the goddess Sarasvatî, and which is in reality given to the teacher, the minister of the goddess, is a round ball of a slightly conical shape at the top,made of rice or wheat flour stuffed with sugar, thin slices of the kernel of the cocoanut, together with spices, and then either boiled over steam, or fried in clarified butter. Such presents are not only made when the ceremony of giving the first lessons in an art is performed, but on many subsequent occasions when the goddess may be worshipped.
 
-**KING**—*(Looking at the minister who has read the letter)*
+**P. 17, l. 6.—**परेण. Supply कृताम्.
 
-Vahataka, what course does the king of Vidarbha take up?
+**P. 17, l. 9.—**अइरोवणीदा**, ‘**but lately made over to the preceptor for instruction.’ उपनयनम् is lit. *‘bringing up to’* (the tutor), ‘initiation,’ the beginning of a course of study.—All our MSS. except F, corroborated as they are by MS. G, assign this speech to the Queen (देवी). Attributed to Vidûshaka it must be taken to be ironical.
 
-**MINISTER**— His own ruin, my lord.
+**P. 17, l. 11.—** अत एव, *i.e.* ‘in order the more creditably to show my skill in teaching.’—On निर्बन्धः, cf. *infra*, p. 62, l. 13. Also S'âkuntala, Act III., “सहि अदो ज्जेव णिब्बन्धो” &c., p. 52, l. 13, Calc. Ed. 1860.
 
-**KING**— 
+**P. 18, l. 6.—**प्रभवन्त्योपि, ‘even when governing, even when allowed to domineer over their husbands.’ The Parivrâjikâ does not mean that Dhâriṇî is not such a प्रभवन्ती, but that she should not abuse her privilege to such an extent as to be offended without cause.
 
-Now I wish to hear his despatch.
+**P. 18, l. 11.—**क्रियासङ्क्रान्तिम्, ‘my ability to pass over to my pupil my skill in representation.’
 
-**MINISTER**—
+**P. 18, l. 13.—**आसनादुत्तिष्ठति. Quite characteristic of the irascibility of the Brâhmaṇ character.
 
-This is the reply written by him now— "I have been ordered by your honour thus— 'Prince Madhavasena, your uncle's son, who had promised (a matrimonial) alliance with me was attacked and taken prisoner on the way while proceeding to me, by your frontier-guard. Out of consideration for me, you must release him with his wife and sister.' Surely it is known to you that the conduct of kings towards kings of an equal descent is equal. Hence your honour will do well to be impartial in this affair. As for his sister she was lost in the confusion of the capture. I shall strive to find her out. If you must secure the release of Madhavasena from me definitely, please listen to the condition;
+**P. 18, l. 14.—**अज्जो, said of Gaṇadâsa.
 
- If your majesty releases my brother-in-law, theMauryan minister whom you have detained, then I shall forthwith set free Madhavasena from imprisonment. **(7)**
+**P. 19, l. 6.—**प्पहविस्सं &c. ‘I shall be still mistress of my attendant.’ That is, propose freely anything you like: if it be any way objectionable, I would still be able to check it, as Mâlavikâ is my servant.
 
-**KING**—*(Angrily*) What! the foolish fellow writes to me of an exchange of business. Vahataka, the king of Vidarbha is my natural enemy and acts contrary to my interests. Therefore issue orders to the avenging army headed by Virasena for uprooting him as already determined, as he stands within the group of those who are to be attacked.
+**P. 19, l. 7.—**मम चेति ब्रूहि. A fine stroke of gallantry.
 
-**MINISTER**—As my lord commands.
+**P. 19, l. 11.—**उपदेशान्तरम्. MS. G reads उपदेशतारतम्यम्.
 
-**KING**—Or rather, what do you think of it?
+**P. 20, l. 4.—**ण हि &c. Translate: ‘No, I am not hostile to your success, Gaṇadâsa,’ *i.e*. ‘Go, I wish you all success, Gaṇadâsa.’ MS. G has a shorter and simpler reading : “देवी। विजअप्पथ्थिणी अहम् आअरिअस्स.”
 
-**MINISTER—**
+**P. 20, l. 8.—**निर्णयाधिकारे ब्रवीमि. This is said to avoid being misunderstood by the suspicious Queen.—सर्वाङ्ग &c. ‘Let your pupils appear without their stage dresses, to enable us to discern more clearly the comparative excellences of their limbs’ motions.’ The reading of MS. G is perhaps an easier one, viz. “सर्वाङ्गाभिनयसौष्ठवाभिव्यक्तये विरलनैपथ्ययोः पात्रयोः प्रवेशोस्तु.”
 
-Your Majesty speaks what is seen in the political treatises.
+**P. 20, l. 12.—**जइ इदरेसु** **&c. Though this reading is quite intelligible, that found in G is certainly preferable, viz, “जइ ईरिसेसु विअ राजकज्जेसुवि ईरिसो उवाअणिउणदा अज्जउत्तस्स णं सोहणं हवे.”
 
- An enemy, who has lately gained kingship, is easy to extirpate because of not having taken root in (the hearts of) the subjects, like a tree that is loose being lately planted. **(8)**
+**P. 20, l. 16.—**परस्परयशःपुरोभागाः. This is equivalent to परस्परस्य यशसि (=यशोविषये) पुरोभागो येषां तैः *i.e.* परस्परस्य यशसि पुरोभागिनः. ‘not brooking the renown of each other,’ or ‘jealous of each other’s fame.’
 
-**KING—**
+**P. 21, l. 4.—**उपहितमध्यमस्वरोत्था. It is difficult to say what उपहित means in this compound. May it mean highly-pitched’ (scil. मध्यम) ?
 
-Then, surely, the words of the compilers of treatises are not untrue. Taking this very thing as the cause, let the general be set to action.
+**P. 21, l. 9.—**भो &c. 'I say, do not be impatient, put on a grave mood and walk slowly; lest the Queen Dhâriṇi should find (or let not the Queen find) you inconsistent with yourself,' *i.e.* lest she should discover, by your impatience to go to the Sangîtas'âlâ, that the indifference you showed as to the result of the contest of the two masters of dancing and music was merely assumed, and that an intrigue lay at the bottom of the affair.**\*** But adopting this
 
-**MINISTER—**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**\*** Ms. G reads “विसंवारइस्सदि,” but that reading may have arisen from writing र for द, as the two letters are so similar to each other in Telagu, especially in the Manuscripts: <MISSING_FIG href="../books_images/U-IMG-1729234769ह.png"/>
 
-Yes. (*Exit)* *(The retinue of the king stand round him in the* *order required by their duties)*
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(Entering*) **THE VIDUSHAKA—**
+interpretation, we must read, with MSS. A B D E, “तुमं” in the passage as object to विसंवादइस्सदि. Another interpretation, however, is possible, and supported by one or two parallel passages from Kâlidâsa himself. It is this: ‘walk slowly, lest the Queen Dhâriṇî should cause you to be disappointed;’ *i.e.* ‘having unwillingly given permission to Gaṇadâsa to bring Mâlavikâ before the King, she may yet withdraw her permission, seeing that you are so impatient to go to the music saloon as if you were interested in the matter of the examination.’ In this case we must supply गणदासेन as the direct agent of the disappointment (विसंवाद) विसंवादइस्सदि is the causal of विसंवद्, to fail in fulfilling one’s promise: *fidem fallere,* to promise and then not to do the thing promised. Cf. S'âkuntala, Act VI. “रमणोओ ख्खु अवही विहिणा विसंवदिदो” scil. रण्णा (p. 143, l. 11, Calc. Ed. 1860.) Also Vikramorvas'î, Act II., “तदो किं दाणिं तथ्थभोदी सव्वसी भवदो मणोरहकुसुमं दंसिअ फले विसंवददि.” On the use of मा with the future, cf. S'âkuntala, p. 39, l. 14; p. 67, l. 5; p. 92, l. 10, Calc. Ed. 1860.
 
-I have been ordered by His Highness the king**—**
+**P. 21, l. 13.—**स्वमनोरथस्येव शब्दः, ‘as the sound of my desire that is going to be fulfilled.’ In मनोरथ lurks a little pun, as the word literally means ‘the chariot of (*i.e.* consisting of) the mind,’ and as thus only can मनोरथ have a sound.
 
-"Gautama, just think of an expedient by which Malavika, whose portrait was beheld by chance, becomes visible in person to me." I shall just report to him that it has been done so byme. (*Walks round*)
+\_\_\_\_\_\_\_\_\_\_
 
-**KING—**
+**ACT II.  
+<MISSING_FIG href="../books_images/U-IMG-1728316392pic1.jpg"/>**
 
-(*Seeing the Vidushaka*) Here has come to me another minister in charge of another department.
+**P. 22, l.1.—**MS. B has the following note in its margin on the opening of this Act :—
 
-**VIDU.—**
+एष उत्तराङ्कस्य पूर्वाङ्कानुसङ्गतत्वादङ्कावतारः प्रवेशकविष्कम्भकादिशून्यः। प्रथमाङ्के विदू°। तेण हीत्यारभ्य अह वा मिअङ्गसद्दो ज्जेव्व उठ्ठावइस्सदीत्युपक्रमे मृदङ्गशब्दश्रवणानन्तरं सर्वाण्येव पात्राणि प्रथमाङ्कप्रकान्तानि पात्रसङ्क्रान्तदर्शनं द्वितीयाङ्कादावारम्भः। अङ्कावतारलक्षणं प्रतापरुद्रे।
 
-*(Going near*) May you prosper !
+**यत्र स्यादुत्तराङ्कार्थः पूर्वाङ्कार्थानुसङ्गतः।  
+अमूचिताङ्कपात्रं तदङ्कावतरणं मतम्॥**
 
-**KING—**
+**P. 22, l. 7.—**तेन हि, ‘well then,’ ‘ if so.’ तेन हि corresponds here exactly with the Marâṭhî बरें तर मग.
 
-(*With a nod of his head*) Please sit here. (*The Vidushaka sits down*)
+**P. 22, l. 7.—**अत्रभवतोः, scil. आचार्ययोः.—एवमवेद्य स्वनियोगमशून्यं कुरू, ‘tell them so, and go thou about thy business.’ Lit. ‘execute the command given to thee.’ अशून्यं कुरु=अनुतिष्ठ. This means that he is to deliver the message to the teachers, and is not to return again to the king. No particular command (नियोग) is referred to. For similar instances of स्वनियोगमशून्यं कुरु, cf. S'âkuntala, p. 36, l. 19; p. 46, l. 13; p. 136, l. 7, Calc. Ed. 1860.
 
-**KING—**
+**P. 22, l. 12.—**तस्याश्चतुर्थवस्तुकप्रयोगं श्रोतुम्, ‘to hear one-fourth of the whole piece performed with the gestures belonging to it.’ MS. G reads चतुर्थवस्तुकं प्रयोगम्, which perhaps is a clearer reading than ours.
 
-Has your eye of wisdom been employed for finding out an expedient to achieve (my) object?
+**P. 22, l. 19.—**MS. F, having given मक्षिकं as the Sanskrit of मख्खिअं, very properly remarks : “मक्षिकाशब्देन धारिणी कथ्यते.” —अप्पमत्तो being cautious,’ *i.e.* cautiously.
 
-**VIDU**.**—**
+**P. 23, l. 6.—**सत्त्वस्था भव. ‘Be well composed,’ ‘do not be bashful.’
 
-Ask about the success of the application of my expedient.
+**P. 23, l. 9.—**प्रमृष्टे इव, ‘as if they were planed off,’ like boards that are thinned off by the plane, *i.e.* that were so smooth.
 
-**KING—**
+**P. 23, l. 10.—**मध्यः पाणिभितः, ‘Her waist so narrow as that it may be *measured* (*i. e.* encompassed) by the fingers of the hand.’—G reads दुल्लहे पिए तस्सिं.
 
-How is that?
+**P. 24, l. 9.—**प्रणयगतिमदृष्ट्वा, ‘not seeing how to tell me that she loves me.’
 
-**VIDU.—**
+**P. 24, l. 10.—**इव, ‘it seems as if.’
 
-*(Whispers*) Thus.
+**P. 25, l. 1.—**अहो &c. Cf. S'âkuntala, Act VI. “अहो सर्वास्ववस्थासु रामणीयकमाकृतिविशेषाणाम्” p. 134, l. 16, Calc. Ed. 1860.
 
-**KING—**
+**P. 25, l. 3.—**सन्धिस्तिमितवलयम्, ‘with the bangles collected round the wrist.’
 
-Very good, friend. A clever beginning. I am hopeful of this enterprise, although success-in it is hard to achieve. For—
+**P. 25, l. 4.—**श्यामाविटपसदृशम्, ‘like a branch of the s'yâmâ.’ The s'yâmâ is commonly identified in this part of India with the वाघाण्टी. On the simile cf. Ritusaṁhâra, III. 18:—
 
- He alone, who has the help of another, is able to accomplish an object attended with obstacles; a person although endowed with eyes, does not see an object in the darkness, without the help of a lamp.
-**(9)**
+**“श्यामा लताः कुसुमभारनतप्रवालाः  
+स्त्रीणां हरन्ति धृतभूषणबाहु कान्तिम्।”**
 
- *(Behind the curtain)* Enough of boasting much. The superiority or inferiority of us both shali: be made clear in the presence of the king himself.
+Cf. also S'âkuntala, p. 68, l. 8, Calc. Ed. 1860.
 
-**KING—**
+**P. 25, l. 6.—**ऋज्वायतार्धम्, = ऋजुः आयतार्धो यस्य तत्, 'in which the middle or the trunk is straight.' For आयतार्ध seems here to be applied to the trunk of the body from the neck to the waist.
 
-(*Listening*) Friend, a flower of the tree of your good policy has burst forth.
+**P. 25, l. 7.—**अज्जो. Referring to Gaṇadâsa.
 
-**VIDU.—**
+**P. 25, l. 11.—**पङ्कच्छिद् also called कतक, is what is known in Marâṭhî by the name of निवळी, whose dry fruit, reduced to powder, is still mixed with muddy water, when this is required to be freed from its impurities.
 
-Even the fruit, you will see before long.
+**P. 26, l. 1.—**MS. G reads यथादर्शनम् in place of यथाशास्त्रम्.
 
-*(Then enter the chamberlain).*
+**P. 26, l. 10.—**श्यामायते Cf. Raghuvaṁs'a, I. 8. Also S'âkuntala, Act I., “आ परितोषाद्विदुषां न साधु मन्ये प्रयोगविज्ञानम्” &c., p. 2, l. 6, Calc. Ed. 1860.
 
-**CHAMBERLAIN—**
+**P. 26, l. 12.—**वृद्धिहेतुः, ‘the cause of my success.’ Lit. ‘of my prosperity.’
 
-My lord! the minister reports that your Majesty's orders have been executed. But these two Haradatta and Ganadasa,—
+**P. 27, l. 1.—**MS. G. has अहो प्रयोगाभ्यान्तरप्रश्नः. The same MS. has the following speech of Vidûshaka, in answer to the ridicule of the ascetic : **\***अयि पण्डितमण्णे किम् अण्णम्। मोदअखण्डणेवि ण समथ्थातुमं किं जाणासि। पसण्णचन्दपादसरिसेहिं केसपासेहिम् एदाणं भोसिआसि।
 
- Both professors of dancing and each desirous of gaining victory over the other, like two sentiments in personal form, are trying to interview you. **(10)**
+**P. 28, l. 2.—**परकीअन्ति करिअ, 'why, because it belongs to another,' because it is not mine. The other reading noticed in our critical foot-notes "परकेरन्ति करिअ," is also what G reads. Adopting this latter version, we must, I think, supply some such word as 'करणिज्जं.' 'Why, because I have to do another person's work,' Vidûshaka referring to the Parivrâjikâ, who should give the reward to Mâlavikâ. It is not improbable that a covert allusion to the King might lurk in पर, and to his love to Mâlavikâ in केरं.
 
-**KING—**
+**P. 28, l. 7.—**एत्तिओ मे विहवो भवन्तं सेविदुं, ‘thus far, and no more can my genius go to serve you,’ *i.e.* this is all I can do for you, for the rest you must shift for yourself. Cf. Vikramorvas'î, Act II, “भो णं भणामि चिन्तिदो मए दुल्लहजणसमागमोवाओ.....सिविणअसमागमकारिणं णिद्दं सेवदु भवं........एत्तिओ मे मदिविहवो.”
 
-Usher them in.
+**P. 28, l. 9.—**अलमलं परिच्छेदेन. That is, ‘away with the supposition that what you have done already is all that you can do’; your ingenuity is not to stop here, but has to be exercised still further.
 
-**CHAMBERLAIN—**
+**P. 28, l. 11.—**द्वारपिधानमिव धृतेः, ‘like a shutter of the entrance to pleasure.’ On धृति, cf. *infrá*, p. 56, l. 7, ‘धृतिपुष्पमयम्’ &c.
 
-As my lord bids. (*Exit and re-enter with them*) This way, this way, both of you.
+**P. 29, l. 8.—**सौधानि अत्यर्थतापात् वलभिपरिचयद्वेषिपारावतानि. That is, अत्यर्थतापात् वलभिपरिचये द्वेषशीलाः पारावताः येषां तादृशानि सौधानि (वर्तन्ते). This means, that the sun had so much heated the sloping roofs of the palaces that the pigeons had left them, the place where, when the sun is not hot, they gather (परिचय) in large numbers. वलभि is the sloping roof of a house (especially that part of
 
-**GANA.—**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\* That is, अयि पण्डितमन्ये किमन्यत्। मोदकखण्डनेपि न समर्था त्वं किं जानासि। प्रसन्नचन्द्रपादसदृशैः केशपाशैरेतान्भीषयसि।
 
-*(Seeing the king*) Ah! Unparalleled is the king's splendour !
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- It is not that he is not familiar to me; nor is he a disagreeable person; yet I go near him trembling. Like the ocean, this same king appears quite new to my eyes every moment. **(11)**
+it which is near the eaves) on which, there is nothing more common than to see large flocks of the green pigeons collected in the cool hours of the morning and evening in this country. Cf. Vikramorvas´î, Act III., “धूपैर्जालाविनिःसृतैर्वडभयः सन्दिग्धपारावताः.” सौध in this passage is any large house, a palace. In *valabhi* the Marâṭhâ will recognise the origin of his word पडवी.
 
-**HARA.—**
+**P. 29, l. 9.—**बिन्दूत्क्षेपान्पिपासुः, ‘desirous of drinking the small drops of water,’ thrown out by the wheel. For the भ्रान्तिमद् वारियन्त्रम् (=भ्राम्यत् or भ्रमणं कुर्वत् वारियन्त्रम्) here referred to is doubtless the Persian wheel.
 
-Great indeed is this splendour in man's form. For**—**
+**P. 30, l. 2.—**होदि &c. It is also possible to render this speech thus: भवती विशेषेण पानभोजनं त्वरयतु, ‘May your Majesty be pleased to order that the dinner be quickly served.’ This, however, though favoured by the form तुवरदु, would hardly be a suitable request to the Queen.
 
- Advancing towards the king, with the person that waits at the throne, my entrance being permitted by the guard employed at the door, I am, as it were, kept back without the utterance of any word, by the lustre
+**P. 31, l. 1.—**गहीदख्खणोम्हि ‘I have pledged my word, and will of course strive to redeem it at all hazards, and will not do any thing else till I have done so.’ The word क्षण originally means ‘a moment,’ hence ‘leisure,’ ‘vacation,’ in which last sense our own Marâṭhî word सण, a festival, is derived from it. The phrase गहीदख्खणोम्हि has its origin in the following formula addressed to a Brahman, who, having been invited to a *s'râddha*, has come and is seated ceremoniously near the dish in which he is to dine at the end of the rite. The formula is :—
 
-of this (king) which repels my sight. **(12)**
+**गृहीत्वामुकसञ्ज्ञस्यामुकगोत्रस्य चामुके।  
+श्राद्धे तु वैश्वदेवार्थं करणीयः क्षणस्त्वया।  
+इत्येवं श्राद्धकृद् ब्रूयात्तं प्राप्नोतु भवानिति।  
+स वदेत्प्राप्नवानीति इतरस्तं प्रति द्विजः।  
+पित्रादेरप्यनेनैव वृणीत विधिना द्विजान्।**
 
-**CHAMBERLAIN—**
+*S'aunakasmṛiti*, 96, 11—
 
-Here is the king. You may go near him.
+where the commentator observes: गृहीत्वेत्यत्र दक्षिणं जानु इति शेषः, दक्षिणं जानुमालभ्येति स्मृत्यन्तरानुरोधात्, and where I think, we have to translate करणीयः क्षणस्त्वया by ‘May it please you to be at leisure for the s'râddha of’ &c. (*i.e.* to be freed from every engagement,**\*** *and attend to the S'râddha* &c.). The same formula is thus given by Gâlava, as quoted by Hemâdri :—
 
-**BOTH—**
+**ॐ तथेति द्विजा ब्रूयुस्ते प्राप्नोतु भवानिति।  
+कर्ता ब्रूयात्ततो विप्रः प्राप्नवानीति वै वदेत्॥**
 
-*(Going near)* May the king be victorious !
+After the formula is addressed, the Brahman is not to leave his seat or attend to any thing else, but is to remain seated and attentive to the S'râddha ceremony until it is finished. person who addresses in the words of the formula (the श्राद्धकृत्) is said to *give the* क्षण, and the Brahman to whom it is addressed to *take the *क्षण, in the language of ignorant priests. Hence, because the word क्षण is so often used in the formula, so it has come, in the common parlance of Brâhmaṇs, who subsist mostly upon such occasional dinners at s'râddhas, and to which class our Vidûshaka belonged, to signify ‘an engagement at a s'râddha, which, when once begun, must be carried out, on pain of incurring a sin.’ It may be observed that Vidûshaka’s way of expressing his obligation to accomplish what he has undertaken is perfectly in keeping with his character. क्षण घेणें, however, is still used in Marâṭhî in the sense of pledging one's self for the performance of a thing.’ As, त्या कामाविषयीम् आह्मीं क्षण घेतला आहे. *I have pledged myself to do that work, and am bound to do it at all hazards.* Gf. also S'âkuntala, Act II., p. 33, Calc. Ed. 1860.
 
-**KING—**
+**P. 31, l. 2.—**सुणोपरिचरो विअ विहङ्गमो, ‘like a bird hovering over the shop of a butcher.’
 
-Welcome to you both. *(Looking at his attendant*) Seats please for these two gentlemen.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\* On this meaning of क्षण, cf. Dakshasmṛiti, *v*. 16, उदयास्तमयं यावन्न पिप्रः क्षणिको भवेत्, on which passage Nâgoji Bhaṭṭa (Âhnikas'ekhara, II. *adinit*.) observes : “क्षणो निर्व्यापारः स्थितिः तद्युक्तो न भवेत्.” Cf. also *supra*, p. 7, l. 14.
 
-*(Both sit on the seats brought by the attendants)*
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**KING—**
+**ACT III.  
+<MISSING_FIG href="../books_images/U-IMG-1728321051pic1.jpg"/>**
 
-How is it both of you (professors) have come here together at a time fixed for instruction to *(*your) pupils?
+**P. 32, l. 6.—**सम्भावेमि, ‘I will greet her,’ ‘ask her how she is doing.’ सम्भावय् is what we mean by our समाचार घेणें. Cf. p. 71, l. 12.
 
-**GANA.—**
+**P. 33, l. 5.—**G reads “गणदासो उण्णमिदो उवदेसे.”
 
-Listen, my lord! The art of dancing was learnt by me at the hands of a worthy teacher. I have also given demonstrations. And I am patronised by Your Highness and the queen.
+**P. 33, l. 6.—**“किं” as read by G in place of our किन्ति is a good reading.
 
-**KING—**
+**P. 34, l. 8.—**तवणीआसोअस्स. This seems to mean an As'oka tree bearing flowers of golden colour. It was this As'oka only that had held off its blossom, as the red As'oka had already burst into flowers. See p. 38, l. 8, “रक्ताशोकरुचाविशेषित°.” &c. Cf. also Ratnâvalî, Act I., “मअरन्दुज्जाणं गदुअ रत्तासोअपाअवतलसण्ट्ठाविदस्स भअदो कुसुमाऊहस्स पूआ णिव्वत्तिदव्वा” &c., p. 7. l, 22, Calc. Ed. Sam. 1921. Also Act I., “दाणिं सो रत्तासोअपादवो” &c., p. 9, l. 7, Id. Also p. 9, ll. 12, 16.
 
-I know (these) well; what next?
+**P. 35, l. 6.—**प्रसक्ते निर्वाणे. ‘The object of thy greatest desires being in thy embraces.’
 
-**GANA.—**
+**P. 35, l.7.—**अलं भवदो धीरदम् उझ्झिअ परिदेविएण. Cf. Vikramorvas'î, Act II., “अलं भवदो परिदेविएण। अइरेण” &c.
 
-I, of such credentials, was insulted by this Haradatta in the presence of distinguished persons thus**—**
+**P. 35, l. 12.—**तवस्सिणी. Used simply as a word of pity, applied to Mâlavikâ in the present instance. It corresponds to the English ‘poor’ and the Latin ‘miser.’ Cf. also below, p. 53, l. 12.
 
-‘You are not a match for even the dust of my feet.’
+**P. 35, l. 13.—**मणी &c. This refers to the notion that the cobra has a gem in his head. णिधी as read by G is a very good reading.
 
-**HARA.—**
+**P. 36 l. 2.—**कालान्तरक्षमः, ‘able to bear delay.’
 
-My lord, he was the first abuser saying that the gulf between him and me was so much as that between the ocean and a puddle. Therefore may your highness personally examine him and me in both theory and practice of the art. Your Highness alone is for both of us a judicious examiner.
+**P. 36, l. 4.—**ते विश्वसनीयमायुधम्, ‘thy weapon apparently so harmless, being made of flowers.’ Lit. विश्वसनीयम्, ‘deserving to be trusted,’ ‘safe.’ As a parallel passage, cf. S'âkuntala, कुतस्ते कुसुमायुधस्य सतस्तैक्ष्ण्यम्”
+&c., p. 48, l. 5, Calc. Ed. 1860.
 
-**VIDU.—**
+**P. 36, l. 7.—**ता पज्जव्वथ्थावेदु अत्ताणं तत्तभवं. ‘Be pleased, Sir, to have patience,’ ‘Pray compose yourself.’ Cf. Vikramorvas'î, Act I., हला उव्वसी पज्जुवथ्थावेहि अत्ताणअं” &c.
 
-An excellent proposal.
+**P. 36, l. 10.—**वसन्दपुढमावदारसूअआणि &c., ‘indicative of the first manifestation (on earth) of spring.’ पुढम, ‘first,’ in the year. Cf. Vikramorvas’î, Act II. “वसन्तावदारसूइदस्स अहिरामत्तं पमदवणस्स.”
 
-**GANA.—**
+**P. 37, l. 6.—**विहन्तुम्. Used passively.—बहवः खण्डनहेतवो हि दृष्टाः, ‘Many are the pretexts under which I can disappoint her.’—उपचारविधिर्मनस्विनीनां न तु पूर्वाभ्यधिकोपि भावशून्यः. On this passage, cf. Vikramorvas’î, Act II, “प्रियवचनकृतोपि योषितां दयितजनानुनयो रसादृते प्रविशति हृदयं न तद्विदाम्” &c.— मनस्विनीनाम्. Objective genitive.
 
-The best course (to adopt). May my lord listen with attention.
+**P. 37, l. 7.—**न तु.....भावशून्यः. Supply वरं as predicate from the preceding line.
 
-**KING—**
+**P. 37, l. 9.—**G reads चित्तप्पडिठ्ठिदं for our “अन्तेउरपडिठ्ठिदं.”
 
-Just wait. The queen will suspect partiality in this matter. Therefore it is proper that the investigation of this case be only in the presence of the queen associated with the learned Kausiki.
+**P. 38, l. 1.—**अभिजातः, ‘nobly sympathising.’ On the meaning of this word compare also the following from the Kuvalayânanda :—
 
-**VIDU.—**
+**प्रदानं प्रच्छन्नं गृहमुपगते सम्भ्रमविधिः  
+निरुत्सेको लक्ष्म्यामनभिभवगन्धाः परकथाः।  
+प्रियं कृत्वा मौनं सदसि कथनं चाप्युपकृतेः  
+श्रुतेत्यन्तासक्तिः पुरुषमभिजातं कथयति॥**
 
-Your highness speaks aright.
+**P. 38, l. 5.—**दक्षिणो मारुतः, ‘the south wind.’ Cf. Vikramorvas'î, Act II., “अणालविअ....अगन्तुकेण दख्खिणमारुएण.”
 
-**BOTH THE TEACHERS—**
+**P. 38, l. 13.—**रक्ताशोकरुचाविशेषितगुणो विम्बाधरालक्तकः= बिम्बसदृशोधरो यस्याः सा विम्बाधरा स्त्री। विम्बसदृशोधरो वा बिम्बाधरः। तस्यास्तस्य वा अलक्तकः विम्बाधरालक्तकः। स रक्ताशोकस्य रुचा रक्तिम्ना अविशेषितगुणः अविशेषितः नीचीकृतः जितो वा गुणो रक्तत्वरूपो यस्य सः। ‘By the beauty of the (flowers of the) red-flowered As'oka the red dye of women's lips is defeated.’ अविशेषितगुणः is the predicate here, and बिम्बाधरालक्तकः the subject. It is also possible, though not so good, to read रक्ताशोकरुचा विशेषितगुणो बिम्बाधरालक्तकः, ‘The red colour of the bimba-lip of the Vernal Beauty is heightened in quality (विशेषितगुणः) by that of the red-flowered As'oka.’ In this case बिम्बाधरालक्तकः must be considered to mean बिम्बमेव बिम्बरूपी वा माधव्याः श्रियः योधरस्तस्य अलक्तकःरक्तिमा. But, as suggested above, this latter interpretation is not so good. बिम्बाधरालक्तकः must refer to the red lac women apply to their lips, as do विशेषक and तिलकक्रिया in the following lines to the marks on the forehead and on the intervening space between the brows, respectively.
 
-As it pleases my lord.
+**P. 38, l. 14.—**Vis'eshaka is the mark on the forehead.—कुरवकं &c. Cf. Vikramorvas'î, Act II., “कुरवकं श्यामं द्वयोर्भागयोः” &c.
 
-**KING—**
+**P. 38, l. 15.—**Tilaka signifies the Tila-like mark between the brows.
 
-Maudgalya, please invite the queen together with the learned Kausiki, after relating to them this matter.
+**P. 38, l. 16.—**श्रीर्माधवी. On this personification of the Vernal Beauty, cf. Vikramorvas'i, Act II., “निषिञ्चन्माधवीं लक्ष्मीं लतां कौन्दीं च लासयन्.” Also many other passages *passim* in Raghuvaṁs'a and Ritusaṁhâra.
 
-**CHAMBERLAIN—**
+**P. 40, l. 2.—**सीधुपाणुव्वेजिअस्स &c. Vidûshaka seems to mean that the King, who is already maddened by his passion for Mâlavikâ, will be still more so, when he sees her alone, just as a man that is already intoxicated by drink and is helpless under its influence is rendered still more helpless by drinking or eating anything that is sweet. On Vidûshaka’s simile, see S'âkuntala, Act II., “भो जधा पिण्डीखज्जूरेहिं” &c., p. 38, Calc. Ed. 1860.
 
-As my lord bids. (*Exit and re-enter with the queen* *accompanied by the Parivrajika*). This way, this way, your ladyship.
+**P. 41, l. 1.—**नितम्बबिम्बे. Cf. p. 49, l. 10.
 
-**DHARINI—**
+**P. 41, l. 4.—**शरकाण्डपाण्डुगण्डस्थला, ‘with her cheeks turned pale white like the inner part of the S'ara grass.’
 
-(*Looking at the Parivrajik*a) Venerable lady, how do you view the quarrel between Ganadasa and Haradatta?
+**P. 41, l. 8.—**एवम्, scil. ‘मअणवाहिणा परिमिठ्ठा’ इति.
 
-**PARIVRAJIKA—**
+**P. 41, l. 9.—**ललिअदोहलापेख्खी. See p. 54, l. 5.
 
-Enough of fearing of the defeat of your *protege*. Ganadasa won't prove inferior to his rival.
+**P. 41, l. 5.—**किसलयपुटभेदसीकरानुगतः, ‘किसलयपुटभेदेभ्यो निर्गतैः सीकरैरन्वितः’.
 
-**DHARINI—**
+**P. 42, l. 3.—**अवेक्षते, ‘cares for,’ ‘gives heed to.’ Lit. ‘sees,’ ‘looks at.’ On the fondness of the elephant for the lotus, cf. the following from the Kuvalayânanda :—
 
-Although it is so, the patronage of the king accords importance to him.
+**रात्रिर्गमिष्यति भविष्यति सुप्रभातं  
+भास्वानुदेष्यति हसिष्यति पङ्कजश्रीः।  
+इत्थं विचिन्तयति कोशगते द्विरेफे  
+हा हन्त हन्त नलिनीं गज उज्जहार॥**
 
-**PARI.—**
+Also—
 
-O, let your ladyship remember yourself as the holder of the title 'Queen'. Look**—**
+**रवितप्तो गजः पद्मांस्तद्गृह्यान्बाधितुं ध्रुवम्।  
+सरो विशति न स्नातुं गजस्नानं हि निष्फलम्॥**
 
- Fire develops excessive brightness by the patronage of the sun. The moon too attains greatness, being favoured by the night. **(13)**
+G’s reading deserves notice : “न हि कमलिनीं सरितं दृष्ट्वाग्राहं गणयति मतगजः”
 
-**VIDU.—**
+**P. 42, l. 10.—**तत्त्वावबोधैकरसो न तर्कः, ‘Nor does conjecture like to acquaint me with that only which is true;’ *i.e.* it is no use to try my skill in conjecture, as this may as probably lead me to what is not the truth.
 
-Lo, Queen Dharini has arrived being led by the learned Kausiki, her companion.
+**P. 42, l, 14.—**अप्पिअमअणसन्देसा, ‘अर्पितो मदनसन्देशो यस्यै सा.’ ‘Charged with your message of love.’ She had not yet delivered the message to Mâlavikâ, and so we cannot say, अर्पितो मदनसन्देशो यया.
 
-**KING—**
+**P. 43, l. 2.—**अहंवि दाणिम् एदं ण विसुमरेमि. ‘Even I have not forgotten it.’ It is easy to see the ludicrousness of the remark.
 
-I see her. She**—**
+**P. 43, l. 7.—**G reads, not perhaps undesirably, simply “जोग्गदाए,” and not दोहलकरणजोग्गदाए.
 
- Adorned with auspicious ornaments, appears in the company of Kausiki in an ascetic dress, like the Vedas in personal form accompanied by the knowledge of the Supreme Soul. **(14)**
+**P. 43, l. 8.—**सालत्तअं. It was not only the sole of the foot that was to be besmeared with the red dye, but the whole foot up to the ankle. See p. 49, l. 7, “आर्द्रालक्तकं चरणं.” Cf. also Ratnâvali, Act III., आताम्रतामपनयामि विलक्ष एष लाक्षाकृतां चरणयोस्तव दोब मूर्ध्ना,” p. 42, ll. 9, 10, Calc. Ed. Sam. 1921.
 
-**PARI.—**
+**P. 43, l. 10.—**अलं सुहिददाए. ‘Do not consider thyself happy that,’ &c. सुहिददाए is the reading of all our MSS. corroborated by G. सुखितता would seem to be the same as सुखिता. On the latter, cf. S'âkuntala, Act VII,, “अनेन कस्यापि कुलाङ्कुरेण स्पृष्टस्य गात्रे सुखिता ममैवम्” &c., p. 175, l. 11, Calc. Ed. 1860.
 
-*(Going near*) May the king be victorious !
+**P. 43, l. 11.—**कहं दाणिम् अत्ताणं मोएअं ? ‘How shall now free myself?’ Mâlavikâ means that she feels her life to be a burden, from which she would fain be free.—अह वा &c. ‘Or why should I devise a means of putting an end to this life? Death is soon to follow of its own accord; and this decoration is only like that which a Satí or any other devoted woman undergoes as a preparation for death.’
 
-**KING—**
+**P. 44, l. 13.—**G has “अलङ्कारो” in place of our अहिआरो.
 
-Venerble lady, I salute you.
+**P. 45, l. 4.—**आर्द्रापराधम्. This can either mean, ‘who has committed a gentle fault,’ *i.e.* who has tripped in the matter of some delicate subject; or ‘whose fault is fresh,’ *i.e.* not yet forgotten. I prefer the latter.
 
-**PARI.—**
+**P. 45, l. 5.—**पारइस्ससि &c. That is, ‘You will marry her, so as one day or other to be able to ask her forgiveness’ for a fault; an opportunity so much coveted by lovers. G reads very differently; *i.e.*, पसादइस्ससि अत्तभोदीए अवरध्धम् अत्ताणं (= प्रसादयिष्यसि अत्रभवत्याः अपराद्धमात्मानम्). But प्रसादयिष्यसि आत्मानम् in the sense of ‘you will appease her’ is hardly satisfactory. पारय् in the sense of. ‘being able,’ is a word of very frequent occurrence in Prâkrit. Cf. S'âkuntala, p. 62, l.9; p. 81, l. 14; p. 140, l. 13; Calc. Ed. 1860. Also Ratnâvalî, p. 33, l. 11; p. 46, l. 24; p. 51, l. 3; Calc. Ed. Sam. 1921.
 
-May you be for a hundred years the husband of Dharini and the Earth, whose productions \[(1) son (2) vegetables and minerals\] are excellent and whose patience is worthy of them. **(15)**
+**P. 45, l. 6.—**परिगृहीतम् &c. This does not refer to any knowledge that Vidúshaka possessed of the art of foretelling, but simply to the notion that a blessing given by a Brahman is fulfilled by the gods. Cf. Vikramorvas'î, Act II., “प्रतिगृहीतं ब्राह्मणवचनम्.”
 
-**DHARINI—**May my lord be victorious !
+**P.45, l. 7.—**G reads युक्तमदा instead of उन्मत्तवेषा.
 
-**KING—**Welcome to the queen. (*Looking at the Parivrajika*) Venerable lady, please take your seat. (*All sit down*)
+**P. 46, l. 1.—**वसन्दोवाआणलोलुवेण. See note on सोथ्थिवाअणमोदएहिं, p. 82, l. 11.
 
-**KING—**Revered lady, you must take the place of an examiner of these two respectable persons, Haradatta and Ganadasa, who are disputing with one another about their learning.
+**P. 47, l. 3.—**पिपीलिआदंसणं. It is doubtless the red ants living on trees that are meant here. They are known in Konkaṇ by the name of हुमले. The mango-tree is a very favourite abode of them. They configure its leaves into hollow globular nests for themselves.
 
-**PARI.—**Enough of taunting. Is a jewel tested in a village when a town is nearby !
+**P. 47, l. 13.—**महदी ख्खु से सम्भावणा. ‘This is indeed a great honour conferred upon her by Dhâriṇî.’ सम्भावय् is ‘to honour,’ ‘to pay regard to,’ ‘to attend to,’ ‘to visit.’ Cf. S'âkuntala, Act II., “अम्हे सम्भावइदव्वत्ति,” p. 45, l. 5; Act VI., “अनुगृहीतास्मि अनया मघवतः सम्भावनया,” p. 163, l. 13; Calc. Ed. 1860. Also Ratnâvalî, p. 3, l. 22; p. 60, l. 21; Calc. Ed. Sam. 1921. Raghuvams'a V. ll.
 
-**KING—**
+**P. 48, l. 4.—**ठाणे**,** because she is struck with Mâlavikâ’s beauty.
 
-Not so. You are the *learne*d Kausiki, indeed. I and the queen are (likely to be) partial.
+**P. 49, l. 2.—**सिध्धं मे दौच्चं, 'I have done my work,' referring to her commission of painting Mâlavikâ’s feet. G reads णेवछ्छं for our “दौच्चं.”
 
-**BOTH PROFESSOR—**
+**P. 49, l. 8.—**प्रतिपन्न : &c. The king means that the present were a very fit opportunity for him to serve the lady Mâlavikâ, but that he regrets he cannot avail himself of it, as he does not yet know whether she loves him. G has किं नावकाश : for सेवावकाश :.
 
-Your Majesty speaks rightly. The divine lady, being impartial, will do well to judge our merits and defects.
+**P. 49, l. 9.—**कुदो दे अणुसओ &c. ‘Why do you regret that you could not use this occasion and show yourself ready to serve her? You will be able shortly to do all this, and will then continue to do so for a long time.’ Unless we suppose that Vidûshaka is not very classical in the use of his words, अनुशय does not seem here to be used in its usual sense. It properly means the regret felt at having done or having omitted to do something that a person might not or might have done. (See S'âkuntala, e.g., p. 137, l. 1 ; p. 145, l.1; p. 182, l. 17: Calc. Ed. 1860.) In the present passage, however, the King might not, with any propriety, have presented himself before, and made himself serviceable to, Mâlavikâ.
 
-**KING—**
+**P. 49, l. 15.—**अवचणोअं मन्तेसि, ‘You talk nonsense.’ मन्त्रय् is properly ‘to mutter in a low voice,’ as a mantra, from which word the verb is derived. But in the present passage, as also very often in Prâkṛit, मन्त्रय् means simply ‘to speak.’ When Bakulâvalikâ says, in answer to Mâlavikâ’s remark, मन्तिदव्वम् एव्व मए मन्तिदं, she plays upon the word मन्तिदव्वं, which means both ‘that which deserves to be said,’ and also 'that which one has to say,’ *i.e.* is commissioned to say. As for Bakulâvalikâ’s commission on the present occasion, see p. 35, l. 8 *et seqq*.
 
-Then let the trial begin.
+**P. 50, l. 8.—**पुढमं भणिदं विअ हदासाए उत्तरं. ‘The wench has her answers, as it were, learned by rote.’ Nipuṇikâ means that Bakulâvalikâ’s answers to the questions of Mâlavikâ are given in such a ready way, as if she had been taught by some one previously what answers to give if such and such questions should be asked, and such and such difficulties started, by Mâlavikâ. गुणिदं as read by MS. G, as well as by Tullberg in place of our “भणिदं,” has the same meaning, ‘repeated,’ ‘got or learned by rote, by repetition.’—हदासा is a slang word corresponding to the Marâṭhî मेलो, so often used by our illiterate women.
 
-**PARI.—**My lord, the art of dancing is essentially an art for demonstration. What is the good of a controversy in words? Or how does the queen view this?
+**P. 51, l. 1.—**अप्पणो छन्देण इति. Cf. Vikramorvas'î, Act III., “विज्ञाप्यतां देवीं यस्तव छन्द इति.”
 
-**QUEEN—**
+**P. 51, l. 7.—**दुज्जादा. An abusive word of endearment (though not always), like हदासा.— अच्चन्तसहाइणो. अच्चन्त, because the enterprise is so difficult.
 
-If you ask me, I don't like the very dispute between them,
+**P. 51, l, 8.—**विमद्दसुरही, 'giving more and more fragrance the closer it comes in contact with us.' Bakulâvalikâ puns upon her own name, which literally means a garland of Bakula flowers. And she means, that as such a garland gives more and more fragrance the longer it is worn in close contact with the body, so her serviceableness will be known by degrees, as Mâlavikâ comes more and more in contact with her, *i.e.*, becomes better acquainted with her. On विमर्द cf. S'âkuntala, p. 178, l. 8, Calc. Ed. 1860.
 
-**GANA—**Your majesty, pray, do not think that I will be beaten out even by a learning equal to mine.
+**P. 51, l, 10.—**प्रस्तुतेन (वाक्येन) ‘putting forth her errand.’ Literally, ‘with her words put forth.’ Cf. note on p. 12, l. 18, *suprá*.
 
-**VIDU.—**
+**P. 51, l. 11.—**प्रत्याख्याने, such as “अवचणोअं मन्तेसि,” “एदम् एव्व मइ णथ्थि’ &c.
 
-Madam. let us witness the despute between these Why pay their salaries in vain?
+**P. 51, l. 12.—**स्थापिता स्वे निदेशे, *i.e*. ‘वशीकृता.’ G. has नियोगे in place of our “निदेशे.”
 
-**QUEEN—**You indeed take delight in quarrels.
+**P. 52, l. 1.—**कारिदम् एव्व &c. ‘Bakulâvalikâ has already induced Mâlavikâ to enter upon the enterprise of trying to become the King’s bride.’ पदं कृ is ‘to set foot upon,’ ‘to enter.’ And so in the present passage कारिदं पदं means ‘has induced her to go with her to do as she (Bakulâvalikâ) would direct.’ See S'âkuntala, p. 81, ll. 8, 9, Calc. Ed., for a similar though not quite parallel passage. The Banglaore MS. G has quite a different reading in this place; हञ्जे पेख्ख असम्पोख्खिअकारित्तणं बउलावलिआए एदं पदं मालविआए।
 
-**VIDU.—**
+**P. 53, l. 5.—**एतावता, scil. सादरोत्कण्ठितायुक्तेन “किं भट्टा” इति प्रश्नेन. On पर्याप्तम्, cf. Vikramorvas'î, Act II., “सुदं ण उण पब्जत्तं हिअअस्स.”
 
-Not so. Of two ruttish elephants fond of quarreling with one another, until one is vanquished, how can there be tranquility?
+**P. 53, l. 6.—**अनादरोत्कण्ठितयो : &c. The King means, that now that he has learned that Mâlavikâ is as anxious and love-sick as he himself, and that he is himself the object of her passion, he would not care even if he and his mistress should die without ever being joined in actual wedlock. For he had rather that two persons loving each other equally should never be able to marry, than that, if they are not really passionate of each other, but one of them indifferent (अनादर), and the other panting with love, they should come in contact and be married. G reads अनातुरोत्कण्ठितयोः for अनादरोत्कण्ठितयोः.
 
-**KING—**
+**P. 53, l. 10.—**सलीलम्**, ‘**playfully,’ ‘gracefully.’
 
-I hope your ladyship has seen the excellence of the suppleness of the limbs of these two.
+**P. 53, l. 12.—**अत्र चरणमर्पयति ‘Blesses him with her foot,’ *i.e.* touches or kicks him with her foot. Here अत्र=अस्मिन्.
 
-**PARI.—**Quite so.
+**P. 53, l. 13.—**सदृशविनिमयात्. सदृश, because both were red.—आत्मानं वञ्चितं मन्ये. ‘I consider myself as the only unfortunate one.’ The King means, that both the As'oka and the lady Mâlavikâ have honoured each the other, the As'oka having been favoured by the latter with the graceful touch of her lovely foot, and the lady having received in return a bud or sprout of young leaves to make a pendant of for her ear; but that he (the King) himself has unfortunately exchanged nothing as yet with the object of his love. वञ्चित means ‘passed over’ or ‘disregarded in distribution,’ ‘void of,’ ‘wanting in.’ Cf. Raghuvaṁs'a, VII. 8, “तद्वञ्चितवामनेत्रा.” Cf. also S'âkuntala, p. 17, stanza 1, “चलापाङ्गां” &c., Calc. Ed. 1860.
 
-**KING—**
+**P. 54, l. 3.—**सम्भावितः ‘honoured.’ See note on p. 47, l. 13.
 
-Then what else is now to be shown by way o proof by these?
+**P. 54, l. 5.—**दोहलं ललितकामिसाधारणम् ‘a desire common with persons fond of the graceful actions of young women,’ viz., the desire to be kicked by them. ललितकामी, ‘स्त्रीविलसितकामी’ ‘विलसनशीलः कामी’ वा. Cf. also stanza 12, above.
 
-**PARI.—**
+**P. 54, l. 6.—**प्रवेष्टुमिच्छामि. Cf. the very similar scene in S'âkuntala, Act. III., “अवसर : खल्वयमात्मानं दर्शयितुम्.” &c., p. 58, l. 4, Calc. Ed. 1860.
 
-That is just what I wish to say. Personal performance of an action is excellent in a certain person, where as in another, the power of imparting his knowledge to others is remarkable. He, in whom both (these excellences) are, is rightly to be placed foremostamong teachers.
-**(16)**
+**P. 54, l. 14.—**गहीदथ्थाए, ‘who knewest the fact, namely, that the As'oka belongs to His Majesty the King.’ गहीदथ्था means ‘informed,’ ‘made aware of.’ It is used absolutely, however, and does not always require to be joined, like the Latin ‘certior factus,’ to its object. Lit. it signifies, ‘one who has taken the sense.’ See above p. 52, l. 15. Also S'âkuntala, p. 132, l. 3, Calc. Ed. 1860. Also Vikramorvas'î, Act II., “णं गहीदथ्था होहि.”
 
-**VIDU.—**
+**P. 55, l. 10.—**सम्प्रति बाधा. Supply अस्ति किम्.
 
-Have both of you, gentlemen, heard the words of the divine lady? This is the substance of it. The decision is to be arrived at, after witnessing what you have taught  (to your pupils).
+**P. 56, l. 7.—**धृतिपुष्पम्, ‘यादृशं \[=पादताडनानुभवसुखानन्तरम्\] पुष्पमशोको बद्धा तादृशं धृतिपुष्पं \[पादताडनाद्यनुभवसुखरूपं पुष्पम्\]. The पुष्प as referred to the King is the gratification he will feel after Mâlavikâ should comply with his entreaty.
 
-**HARA.—**
+**P. 56. l. 9.—**णम् असोओ &c. We have here adopted the reading of G, as being probably more correct than that of our MSS., which read: “णम् असोओ कुसुमं ण दंसेदि। अअम् उण ण केवलं फुल्लइ फलइ एव.”
 
-It is most agreeable to us.
+**P. 56, l.10.—**फलइ अ. This refers to the children that Mâlavikâ would bear to the King. The coarseness of the allusion is in keeping with the character of Irâvatî.
 
-**GANA.—**
+**P. 56, l. 12.—**प्रतिपत्तिः. Cf. Raghuvaṁs'a, III. 45, “विषादलुप्तप्रतिप्रत्ति” &c.
 
-Queen, it stands thus.
+**P. 56, l. 13.—**जङ्घाबलम् एव्व. ‘No other way of getting out of this scrape but by taking to our heels.’
 
-**QUEEN—**
+**P. 57, l. 9.—**सन्धिछ्छेअस्सिख्खको, ‘One that punishes or wants to punish a crime of house-breaking.’ With सन्धिच्छेद. cf. सन्धिचौर, a housebreaker. शिक्षक, properly a teacher, is used here in its modern sense, ‘a chastiser,’ or ‘punisher.’ G. reads “सन्धिच्छेअसिख्खी होमि” &c. On the simile, cf. Vikramorvas'î, Act II., “लोत्तेण सूइदअस्स कुम्भीलअस्स णथ्थि वाआ पलिविधाणं.”
 
-If dull-witted pupils stain the instruction, is it the fault of the teacher ?
+**P. 57, l. 11.—**मया. This is to be construed with विनोदितः, and not with चिरायसि.
 
-**KING—**
+**P. 58, l. 2.—**अण्णहा दुःखतरम् एव्वं ण करेमि. ‘Otherwise (*i.e.* had I known that you have obtained such a thing to while away your time with), I would not have been the cause of so much annoyance to you' by intruding upon your privacy. दुख्खतरम् एव्वं ण करेमि seems to be rather a difficult passage. This is, however, the reading of all our MSS.**\*** If the reading is not corrupt, the poet appears to have intended that Irâvati’s words should express the sense of the easier speech of Queen Aus'înarî in Vikramorvas'î, Act II., “दुरागदं दाणिं मे संव्वुत्त.”
 
-Queen, it is interpreted thus**—**
+**P. 58, l. 5.—**समापत्तिदिठ्ठेण, ‘यदृच्छया दृष्टेन’
 
-'The acceptance of an unworthy pupil exhibits the want of discernment in the teacher.
+**P. 58, l. 6.—**एथ्थ तुमम् एव्व प्पमाणं. ‘You only are an authority for such a doctrine.’ Or ‘do as you like, we must obey.’
 
-**QUEEN—**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**\* **G reads दुख्खरं &c.
 
-(*To herself*) How now? (*Looking at Ganadasa, aside*) Cease to fulfil the desire of my husband, which is inciting him. (*Aloud*) Desist from this useless undertaking.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**VIDU.—**Your Highness speaks rightly. OGanadasa, of a contest in which you may be easily defeated, where is any good to you who are used to eat the sweet-meats offered to Sarasvati in worship, as you have secured the post of a musician.
+**P. 59, l. 3.—**परिचयवति मयि. ‘Against me, who am so familiar with you.’ He means that the entreaties of the zone in his favour, being not an ordinary intercession, should be minded by Irâvatî. The pun upon the word चरणपतित is apparent. Το read परिचयवती, and construe it with अवधीरणा, would be to suppose, that the King was always similarly upbraided by Irâvatî for his intrigues.
 
-**GANA.—**Surely, this only is the meaning of the queen's words. May you now, listen to this necessitated by the occasion.**—**
+**P. 59, l. 10.—**अव्यपेक्षाच्युतेन, ‘fallen or dropped unexpectedly.’
 
- The person, who is afraid of a contest seeing that he has secured a worthy patronage, who bears the insults of his rival and whose learning is only for (earning) a livelihood,— him (people) call a merchant who has his learning as a comodity for sale. **(**17**)**
+**P. 59, l. 14.—**आलम्बते, ‘holds up as if to strike the King with it.’ G reads “रशनां हस्तमालम्बते.”
 
-**QUEEN—**
+**P. 60, l. 4.—**किदप्पसादोसि. Ironical.
 
-But again it is unfair to exhibit the instruction of a reputed teacher (through a pupil) while she has been lately entrusted to him.
+**P. 60, l. 7.—**जाव अङ्गारओ रासिं विअ सा अणुवक्कं ण करेइ, 'as long as she does not return with vengeance like the planet *Mars,'* which, when it turns back retrogressively to any sign of the zodiac, exercises a malignant influence upon the fortunes of any one that may have been born under the auspices of that sign. It is not only *Mars* that performs such a retrogressive journey in the zodiac, but all the planets except the Sun and the Moon. But why *Mars* in particular is mentioned by the author is uncertain.
 
-**GANA.—**My pressing demand is just for that reason.
+**P. 60, l.10.—**प्रियाहृतमनाः. This alludes to the King’s passion for Mâlavikâ.—प्रणिपातलङ्घनं सेवाम्, because Irâvatî thereby affords him a pretext for neglecting her. Cf. Vikramorvas'î, Act II. *ad fin*. “किं तु प्रणिपातलङ्घनादहमपि तस्यां धैर्यमवलम्बिष्ये.”
 
-**QUEEN—**
+**ACT IV.  
+<MISSING_FIG href="../books_images/U-IMG-1728356700pic1.jpg"/>**
 
-Then both of you exhibit your instructions to the divine lady.
+**P. 61, l. 3.—**तामाश्रित्य &c. That is, श्रुतिपथगतायां तस्यां विषये या आस्था तया करणेन लब्धं मूलं येन सः= श्रुतिपथगतमालविकासम्बन्धिनी या आस्था तदेव मूलं यस्य सः. The agent to आश्रित्य is आस्थया.
 
-**PARI.—**
+**P. 61, l. 4.—**रूढरागप्रवालः *i.e.*, रूढो रागः प्रीतिरेव प्रवालो येन सः.
 
-Queen, this is not fair. Arriving at adecision by asingleperson, although he be omnicient,is likely to be, faulty.
+**P. 61, l. 5.—**हस्तस्पर्शे मुकुलित इव &c. Cf. Vikramorvas'î, Act I. “स्पृष्टं सरोमकण्टकमङ्कुरितं मनसिजेनेव.” MS. G has “हस्तस्पर्शैर्मुकुलित इव.”
 
-**QUEEN—**
+**P. 61, l. 16.—**बिडालगहीदाए परहुदिआए. This must probably refer to a tame cuckoo kept in a cage, as it is otherwise difficult to see how a cat can catch a wild one.
 
-*(Aside*) You dunce of a *Parivrajika,* although I am wide awake, you drive me to sleep, as it were.
+**P. 62, l. 1.—**पिङ्गलछ्छीए (= पिङ्गलाक्ष्या). This refers to Queen Dhâriṇî.
 
-*(Indignantly turns away. The king points out the queen to the Parivrajika.)*
+**P. 62, l. 1.—**सारभण्डभूमिघरए. A भूमिघर is a cellar, or a compartment under ground. सारभण्डभूमिघर seems to mean a cellar which was used as a storehouse, or as a room to keep provisions in. The cellars are of course dark.
 
-PARI.
+**P. 62, l. 3.—**मत्सम्पर्कम् &c. MS. G reads “मत्सम्बन्धमुपलक्ष्य.”
 
-**—**
+**P. 62, l. 7.—**देविं सुहं पुछ्छिदुं, ‘inquire after the Queen’s health,’ as she was suffering from the fall. MS. G has “सहपुछ्छिआ.”
 
-O moon-faced lady, why do you turn your face away from his majesty, without reason? For, wives get angry upon their husbands only when there is a reason, although they are all powerful with them. **(**18**)**
+**P. 62, l. 8.—**किं ण लखिखदो &c. This is a somewhat difficult passage, if not corrupt. The meaning, however, is pretty clear. Translate : ‘Why is it I have not seen lately our dear one?’ referring to the King. The other said, ‘Little is the regard he pays you now, since he is no longer *your* beloved, but of your maid-servant. Do you not know that?’ मन्दो वो उवआरो literally means, ‘scanty is his salutation to you,’ *i.e.* he does not care to come and pay his respects to you. परिजणस्स वल्लहत्तणं does not mean परिजणो रण्णो वल्लहो जादो, but is equivalent to ‘राआ परिजणस्स वल्लहो, ण उण तुह.’ MS. G’s reading is worthy of attention, as throwing some light on our interpretation of the passage: “तदो देवीए \[सा\] पुछ्छिदा किम् आलख्खिदो वल्लहोत्ति। ताए उत्तं जं देवि -\[दे ?\]- परिअणस्स वल्लहत्तणं ण जाणिअ पुछ्छसित्ति,” where “किम् आलख्खिदो वल्लहो”. Did you see the dear one?’
 
-**VIDU.—**
+**P. 62, l. 11.—**शङ्कयति, scil. शृण्वन्तं जनं, राज्ञीसदृशम्.
 
-Surely, with reason only (she is angry). Her own side is to be supported. (*Looking at Ganadasa*) Luckily you are saved by the queen, under the pretext of anger. Although well-trained, all won't be efficient in (imparting) instructions (to pupils).
+**P. 62, l. 13.—**अविणअम् अन्तरेण=‘अविनयविषये,’ ‘with reference to your fault or misconduct.’ The अविनय here referred to is the conversation between the King and Mâlavikâ in the last preceding Act. See pp. 55, 56 *suprâ*. On अन्तरेण cf. S'âkuntala, Act V., “देवीं हंसवतीमन्तरेण” &c., p. 104, l. 4, Calc. Ed. 1860.
 
-**GANA—**
+**P. 62, l. 14.—**परिगहीदथ्था. See note on p. 51, l. 14, *suprâ*.
 
-Queen**,**please listen. People interpret it thus. Hence, now**—**  
+**P. 63, l. 1.—**तत्रभवत्याः, referring to Irâvatî.
 
- In this contest, I shall exhibit my skill in impartinginstructions in the art of dancing. If you do not permit
+**P. 63, l. 3.—**पादालवासं, humourously applied to the cellar. —णाअकण्णआ विअ, 'like the daughters of the Nâgas,’ a race of fabled beings, distinguished for their beauty, and supposed to live in the nether regions (पातालं).
 
-my doing so. I consider myself forsaken by you. **(19)**
+**P. 63, l. 7.—**प्रबलपुरोवाता, ‘accompanied by a violent gale.’ Cf. Vikramorvas´î, Act IV., “प्रबलपुरोवातनर्तितशिखण्डः.”
 
-*(Desires to leave his seat)*
+**P. 63, l. 11.—**G has, very desirably, “मालविआ बउलावलिएत्ति.”
 
-**QUEEN—
+**P. 64, l. 1.—**सुणादि (=शृणोति), for शृणुयात्.
 
-*(To herself)* What go! (*Aloud*) The teacher has every authority over his pupils.
+**P. 64, l. 4.―**रत्तचन्दणधारिणा. The रक्तचन्दन or red sandal is devoid of any fragrance. Slight wounds and bruises are supposed to be healed when besmeared with it. The principal effect said to be secured by the use of the red sandal, however, is the relief it gives to the inflamed part. See p. 69, l. 7, शीतक्रिया चास्य प्रशस्ता.
 
-**GANA.—
+**P. 64, l. 8.—**अरित्तपाणि &c. ‘Shall get some flowers to present the Queen with.’
 
-I was entertaining a suspicion all along by mistake. *(Looking at the king*) The queen has permitted (me). Hence, may the lord command as to the sort of dramatic representation by which I shall show the (skill of my) instruction.
+**P. 64, l. 10.—**जयसेनाया संवेद्य. Jayasenâ’s assistance was to be used in putting into practice the dodge for bringing the Queen’s ring, and thereby liberating Mâlavikâ and her friend Bakulâvalikâ.
 
-KING
+**P. 65, l. 2.—**अतः परं पुनः कथयिष्यामि. ‘From this point I will resume it afterwards.’
 
-**—
+**P. 65, l. 7.—**मां च पीडयितुम्. See note on p. 19, l. 7.
 
-As the divine lady orders.
+**P. 65, l. 11.—**दाणिं विसेसो. ‘It is a little better now.’ Literally विसेसो or विशेषः means ‘difference,’ ‘a change,’ viz. for the better. see an exactly similar passage in S'âkuntala, Act III., “अम्मो अथ्थि विसेसो,” p. 71, l. 6, Calc. Ed. 1860. MS. G omits altogether.
 
-**PARI—
+**P. 66, l. 1.—**आआरपुफ्फ° &c. With this compound compare आचारलाजा : &c., so often occurring in Raghuvaṁs’a and elsewhere. Raghuvaṁs’a, II. 10, “आचारपुष्पाणि,” ‘flowers which it is required by the custom of the good (आचार = शिष्टाचार) to take with one's self when on a visit to a god or great personage.’
 
-There is something in the heart of the queen.Therefore, I hesitate.
+**P. 66, l, 3.—**जीविदसंसए, ‘to this danger to his life.’ जीविदसंसओ would literally mean, ‘doubt whether the life will be preserved or no.’ Cf. *infrâ* p. 79, l. 14, and p. 105, l. 12. See also Ratnâvalî, p. 41, l. 20; p. 60, l. 16, Calc. Ed. Sam. 1921.
 
-**QUEEN—
+**P. 67, l, 2.—**सिमिसिमाअन्ति.** **This is an imitative verb, expressive of a tremulous and aching sensation, probably convulsive. Probably our Marâṭhî शिंवशिंवणें may owe its origin to this word.
 
-Speak without fear. The king has every authority over his retinue.
+**P. 67, l. 6.—**प्रकृतिभीरूस्तपस्वी. ‘The poor Brahman is naturally timid. On ‘तपस्वी,’ see note on p. 35, l. 12 above.—ध्रुवसिद्धेरपि &c ‘He has no confidence in the success of even Dhruvasiddhi, blessed as the latter always is with success.’ For Dhruvasiddhi literally means, *one who is always successful* (ध्रुवा सिद्धिर्यस्य सः).
 
-**KING—
+**P. 67, l. 8.—**ओअख्खेमं वहेहि, ‘take upon yourself the care of the welfare of my old mother.’ मुध्धा, ‘simple,’ ‘silly,’ and therefore unable to support herself. MS. G reads थविराए for “मुध्वाए.”
 
-Say**—
+**P. 68, l. 8.—**उदकुम्भविहाणे सप्पमुहिअं कम्पि अण्णेसीअदुत्ति. This seems to mean, that Dhruvasiddhi was to take a ring having the image of a snake engraved on it, and put it upon the lid of a pitcher full of water, and then having encharmed the pitcher with his mantras, was to use the water as a specific to effect the cure of the snake-bite. The use of encharmed water for curing a snake-bite is a well known recipe. But I have found the particular mode, here referred to as followed by Dhruvasiddhi, noticed nowhere else. MS. G reads the passage somewhat differently: “ध्रुवसिध्धी विण्णेवदि उदकुम्भपिहाणे सप्पमुद्दिअं कप्पिइदव्वं \[कप्पइदव्वं?\]। तम् अण्णेसिअदुत्ति.” If our interpretation is correct, this reading seems to be easier than our own. Prof. Weber, I do not know on what authority, considers उदकुम्भ as a proper noun.
 
-‘and me’
+**P. 68, 1. 12.—**कर्मसिद्धौ. ‘After the business is done.’ That is, as soon as Gautama is cured of the snake-bite.
 
-**QUEEN—
+**P. 69, 1. 2.—**पकिदिथ्थो, ‘प्रकृतिं प्रतिपन्नः.’ That is, ‘he is made as sound as he was before the accident.’ Cf. p. 87, ll. 5, 6. Cf. also S'âkuntala, p. 176, l. 1; p. 179, l. 15 : Calc. Ed. 1860.
 
-Divine lady, speak now.
+**P. 69, 1. 4.—**एसो अमच्चो &c. A contrivance for the King to bring his interview to an end. G very properly inserts ‘उण’ after एसो.— अणुग्गहीदुं. Used passively.
 
-**PARI.—
+**69, 1. 14.—**समाप्तकृत्यो गौतमः. Alluding to the liberation of Mâlavikâ and her friend by means of the Queen’s ring.
 
-O king, the (wise) say that the *chalika* composed by Sharmishtha in *four* lines is difficult to perform. Let me see the demonstration of both parties relating to the same subject. By that much shall be known the difference between the teaching of the two gentllmen.
+**P. 70, 1. 3.—**प्रयोगम्. Referring to the contrivance by which the Queen was made to give the ring.
 
-**THE TEACHERS—
+**P. 70, l. 6.—**मङ्गलकज्जाइं A *mangala kârya* is any religious work, the performance of which is associated with joy and prosperity ; e. g., the marriage ceremony, the thread ceremony, &c. All precautions are taken that no obstacle of any kind should interrupt the progress of such ceremonies or works. Vidûshaka by applying the term to what he has done means, that he has fortunately performed his great mission without any let or hindrance. Works that are not *mangalakâryâṇi* are such as the funeral ceremonies.
 
-As the divine lady bids.
+**P. 70, l. 7.—**नियोगमशून्यं कुरु, ‘thou, go about thy business.’ Cf. note on p. 22, l. 7.
 
-**VIDU.—
+**P. 70, l. 13.—**देव्याः. MS. G reads “देव्या,” more correctly, perhaps, than our MSS.
 
-Then both of you, after making arrangements relating to musical accompaniments in the auditorium, please send a messenger to His Highness. Or why, the very sonnd of the drum will rouse us up.
+**P. 71, l. 4.—**इरावदीचित्तं रख्खन्तीए, who had put the girls into confinement only to please Irâvatî, and not because she herself wanted to punish them. For it was at the instance of Irâvatî that the Queen had confined them.—राआ किल मोएदित्ति &c. Vidûshaka was to say to Mâdhavikâ, that the Queen was requested (lit. caused) by the King to set Mâlavikâ at liberty. And when delivering the message, he added that the Queen easily complied with the King’s desire, because that she had put the girls into confinement only to please Irâvatî.—राआ किल &c. G reads, “राआ किल मोचेदि मालविअन्ति.”
 
-**HARA.—
+**P. 71, l. 10.—**समुद्दघरए. This refers to a pleasure-house, probably so called from some ponds of water being attached to it. All manner of names are given to pleasure-houses by the poets. The student will recollect the मणिहर्म्य of King Purûravas in the Vikramorvas'î.
 
-Let it be so. *(Rises up. Ganadasa looks at Dharini*).
+**P. 71, l. 12.—**सम्भावयामि, *i.e. *‘सत्करोमि,’ ‘go to receive her.’ Cf. note on p. 47, l. 13.
 
-**QUEEN—
+**P. 71, l. 13.—**MS. G inserts “परिक्रम्य” after “एदु भवं.”
 
-*(Seeing Ganadasa*) Come out victorious!
+**P. 72, l. 4.—**पलिहलणीआ चन्दिआ. Vidûshaka, true to his character, puns upon the word चन्द्रिका, which, while the King uses it as a proper noun, he takes to mean *the moonlight*. One of our MSS. (E) has the following on its margin opposite the present line :—“विटचोरतमश्चक्रपद्माद्याश्चन्द्रशत्रवः.”
 
-*(The two teachers move to go).*
+**P. 72, l. 11.—**पस्सदो पिठ्ठदो देख्खीअदि, ‘whom you see at your side behind you.’ Bakulâvalikâ refers to a likeness of the King painted on the wall with his harem.
 
-**PARI.—**Just come here please,
+**P. 72, l. 14.—**कहिं . This is merely the locative कस्मिन्, used to signify ‘rest where,’ analogously to the ablative कस्मात् or कुतः, which shows ‘motion whence.’ The form कहिं, like many others belonging to pure Sanskrit and the Prâkṛit, is still preserved in the Konkaṇî dialect, spoken about Malvan, in the word खईं or खैं ‘where.’
 
-**BOTH TEACHERS—**
+**P. 73, l. 2.—**या. Supply समवस्था.
 
-*(Returning*) Here we are.
+**P. 73, l. 6.—**हला तदा &c. This also appears to be a passage that has not been preserved to us in its original purity, especially the last part of it. I would translate thus :— 'Being then in the presence of the King, I had not the boldness to take a full view of him so as to satisfy myself; to-day, however, I am fully satisfied. For I have now looked on him attentively, though this look of him is obtained only as he stands in the picture.’ विभाविदो चित्तगददंसणो एव्व भट्टा is added to explain why she was not वितृष्ण, when she had seen him actually. एव्व. The force of this is, ‘ण उण पच्चख्खदंसणो (भट्टा **विभाविदो**).’ विभावय् usually means ‘to recognise,’ ‘to perceive. Cf., e.g., S'âkuntala, p. 14, l. 3; p. 79, l. 5: Calc. Ed. 1860. Vikramorvas'î, Act IV., “स्पर्शविभावितप्रियः,” Act V. “वर्णविभावनसहा दृष्टिः.” In the present passage it appears to be used in the sense of ‘considering,’ ‘contemplating.’ MS. G omits. एव्व.
 
-**PARI.—**I speak with the authority of a Judge. Let your pupils be introduced without stage dresses in order to reveal the supplenes of every one of their limbs.
+**P. 73, l. 10.—**मुधा दाणिं &c. Vidûshaka means, that whatever might be the beauty of the King’s person and his youth, it did not at least impress Mâlavikâ favourably, and if he should be proud of his beauty and his youth, a casket might be equally proud of the lustre of the gems it contains. MS. G reads “रअणं” simply, for रअणभण्डं.
 
-**BOTH—**No need for this advice to us. *(Exeunt ambo)*.
+**P. 74, l. 2.—**कार्त्स्न्येन &c. ‘Though they (women) desire to take a full view of the appearance of their lovers that meet them for the first time, still their looks do not fall fully upon them, possessed as they are of large eyes.’ This means that though women do desire to have a full glance of their lovers who come within their view for the first time, yet they will not look such persons full in the face and satisfy themselves. Such is their modesty.—च....च means ‘though—yet.’
 
-**QUEEN—***(Looking at the king*) It would be splendid if my husband employed such skill-ful expedients as this, in state affairs.
+**P. 74, l. 10.—**MS. G has अन्तेवुरजणं” for देवीजणं.
 
-**KING—**Do not think otherwise, Oproud lady, this was surely not brought about by me. Generally persons of equal learning vie with one another in (gaining) fame. **(20)**
+**P. 75, l. 4.—**कान्तापराधकुपितेषु *i.e.* ‘कान्तेन कृते अपराधे आगतेषु कोपेषु.'— विनेतुः, ‘of her teacher.’ To be construed with शिक्षा, and not with सन्दर्शिता. विनेतुः शिक्षा, subjective genitive. ‘The lesson she had received from her preceptor.’
 
-*(Sound of the drum behind the screen. All listen)*.
+**P. 75, l. 10.—**पच्चाणीअदि *i.e.* त्यज्यते. प्रति has here the sense of ‘*undoing.*’ प्रति आनी, lit. ‘to send back.’
 
-**PARI.—**
+**P. 75, l. 13.—**किमेवमयि . It were also possible to divide this into किमेव मयि, and construe एव with चित्रार्पित चेष्टया.
 
-Ah! music has begun. For, this drum-sound resembling the cry of a peacock delights the mind; — the sound of the drum, magnified by peacocks with necks erect suspecting it to be the thunder of a rain-cloud, and arising from the deep-sounding middle note. **(21)**
+**P. 76. l. 6.—**MS. G reads "स्थित्वा स्थित्वा" for स्थित्वा स्वप्ने.
 
-**KING—**
+**P. 76, l. 7.—**अबला सती. These are both common epithets of a woman. In the present passage the pun in अबला सती, ‘though she is an *abalâ*’ (=weak), is apparent enough.
 
-Queen**,** let us form the audience for it.
+**P. 76, l. 8.—**समागममायया, ‘by the delusion of a meeting.’
 
-**QUEEN—**(*To herself*) How uncivil is my husband!
+**P. 77, l. 6.—**लङ्घिदुं, 'to bite,' 'to browse the sprouts of.' Cf. S'âkuntala, p. 172, l. 14, Calc. Ed. 1860. On the poet's artifice of withdrawing any character when no longer wanted on the stage, cf. S'âkuntala, p. 62, ll. 5—8, Calc. Ed. 1860.
 
-*(All stand up).*
+**P. 77, l. 9.—**एवम्, viz. बालाशोकस्य पल्लवानां हरिणलङ्घनाद्रक्षणे यथा.
 
-**VIDU.—**
+**P. 77, l. 10.—**MS. G altogether omits the two speeches एवमस्मद्रक्षणे &c. and एदंवि &c.
 
-(*Aside*) Sir, let us go gravely. Her ladyship Dharini will find you inconsistent with yourself.
+**P. 78, l. 3.—**सिलाविसेसस्स, ‘of this excellent stone.’ On this meaning of विशेष at the end of compounds, see Vikramorvas'î, Act IV., ‘आकिदिविसेसा चिरं दुख्खभाइणो &c.
 
-**KING—**Although I am grave, this drum sound hastens me like the sound of the chariot of my own desire descending the path of fulfilment.
-**(22)**
+**P. 78, l. 9.—**अतिमुक्तलता. This plant is identified with what is known in Marâṭhî by the name of Kusarî or Kastûrî Mogarâ. The act of the Kusarî (अतिमुक्तलताचरितम्) that the poet alludes to is the coiling itself by the plant round, or grasping with its tendrils, the mango tree, on which it is propped up.
 
-*(Exeunt omnes)*
+**P. 78, l. 13.—**जो ण भाएदि &c. Mâlavikâ refers to such passages as those at p. 17, l. 15; p. 56, l. 12, *et seqq*.
 
-**HERE ENDS THE FIRST ACT**
+**P. 78, l. 16.—**वैम्बिकानाम्, ‘धूर्तानाम्,’ ‘of lovers,’ ‘of persons versed in love matters.’ वैम्बिक is derived from बिम्ब which is, though not by itself, used to signify the loins. Cf. श्रोणीबिम्ब &c. above Act III. St. 20.—कुलव्रतम्. A *kulavrata* is a family custom inherited from generation to generation, such as the celebration, for instance, of a festival in honour of any deity on a particular day, annually. A *kulavrata* is observed by every member of a family when divided, whereas a common *vrata* does not descend from father to son and need not be taken up by the members of a divided family. By calling दाक्षिण्य a *kulavrata* the king means that it is common to all lovers and must necessarily be observed by them.
 
-**ACT II**
+**P. 79, l. 5.—**रशनाव्यापार, viz. that of unclasping it.—पातुम् &c. Construe : पक्ष्मलचक्षुः आननं पातुम्, \[तद् आननम्\] उन्नमयतः मम सतः, \[तद्\] साचीकरोति.—व्याजेनापि. 'Though all this is but pretended.’ The king means that Mâlavikâ’s opposition was not real, but merely a playful excuse.
 
-(The musical accompaniments being arranged, then enter the king with his friend, Dharini, the Parivrajika, and retinue of a suitable rank).
+**P. 79, l. 11.—**हञ्जे सच्चं तुह &c. Compare with these two speeches a similar dialogue between Queen Aus'înarî and her maid in Vikramorvas´î, Act II., “हञ्जे णिउणिए सच्चं लदाघरं वीसन्तो अज्जमाणवसहाओ दिठ्ठो महाराओत्ति” &c.
 
-**KING—**
+**P. 79, l. 14.—**संसआदो णिम्मुत्तं, ‘just rescued from the jaws of death,’ referring to Vidûshaka’s late escape from death from the snakebite. संशय is used here in the sense of जीवितसंशय, ‘a peril.’ Compare the passages referred to in the note on p. 66, l. 3, *suprâ*.—तहिं. Cf. the Konkaṇi थईं or थैं. See also note above on p. 72, l. 14.
 
-Revered lady, the instruction of which of these two respectable teachers shall we behold first?
+**P. 80, l. 2.—**चित्तगदम् अज्जउत्तं, referring to the king’s picture in the *Samudragṛiha*. Cf. note on p. 72, l. 11. Irâvatî did not know that the king was there in person.
 
-**PARI.—**
+**P. 80, l. 5.—**उवआरादिक्कमं. Irâvatî refers to her haughty behaviour towards the king at the end of the third Act, the particular act, that formed the उपचारातिक्रमं, being that she went angrily away unreconciled with the king, with the words ण हु इमे मालविआए चलणा &c. (p. 60, l. 1), even though he had prostrated himself at her feet.
 
-Although superiority in respect of attainments be equal, Ganadasa deserves preference by virtue of his elderliness in age.
+**P. 80. l. 9.—**एस ण मे &c. Dhâriṇi means that her act of putting Mâlavikâ and her friend in irons was simply to show how much she honoured Irâvatî, and not because she herself was jealous of Mâlavikâ. But if Irâvatî would like to join her in obliging the king, who, as we must suppose, had requested permission to set the two poor girls at liberty on the ground of there being a holiday, she (Dhâriṇî) would free them. Of course, when Dhâriṇî sent this message she did not know, any more than Irâvatî, that Mâlavikâ and her friend had already been rescued from their confinement by the designing Vidûshaka. MS. G reads the passage thus : “जइ अणुमण्णेसि अ=अउत्तंवि तव किदे विण्णावइस्सन्ति.”
 
-**KING—**
+**P. 81, l. 11.—**MS. G has “दुवारदेसे” for ‘दुवारुछ्छङ्गे.’
 
-Maudgalya, after conveying this (view of ours), you attend to your duty.
+**P. 82, l. 2.—**जं मए केअइकण्डएहिं सप्पस्स विअ दंसो किदो. This refers to his pretended snake-bite at the commencement of this Act.
 
-**CHAMBERLAIN—**
+**P. 82, l. 5.—**असङ्कणीअं पावं, ‘nothing evil need be suspected.’ पाप here is ‘अमङ्गलम्,’ ‘अनिष्टम्,’ ‘a misfortune,’ evil.’ Cf. S'âkuntala, p. 97, l. 1, Calc. Ed. 1860.
 
-As my lord bids. *(**Exit**)*
+**P. 82, l. 7.—**अत्तणीणो, answering to our बेटा or साला used abusively. For आत्मनीनः means both, ‘a son’ and ‘a brother-in-law.’—अभ्भवहारसंवादापेख्खी, ‘eagerly catching any talk about eating.’ On this and the other epithet, ओदरिओ, cf. Vikramorvas'î, Act I., “पञ्चविहस्स अभ्भवहारस्स” &c. Also Ratnâvalì, p. 20, l. 22, Calc. Ed. Sam. 1921.—सोथ्थिवाअणमोदएहिं. On मोदक see note on p. 17, l. 2. स्वस्तिवायन is a present of sweetmeats, such as that given to Vidûshaka by Queen Aus'înarî in Vikramorvas'î, Act III., or that given by Queen Vâsavadattâ in Ratnâvalî, Act I. (see p. 12, Calc. Ed. Sam. 1921).
 
-***(Entering)* GANA.—**
+**P. 83, l. 2.—**अच्चाहिदं, ‘Alas! O misfortune.’ Cf. S'âkuntala, Act I., “अज्ज ण किम्पि अच्चाहिदं &c.” p. 18, l. 7, Calc. Ed. 1860.
 
-My lord, the composition of Sharmishtha is of four padas and of the middle musical time. Your lordship should be pleased to listen with attention the *chalika* dance demonstration of that composition.
+**P. 83, l. 3.—**भुअङ्गमकुडिलेण. Cf. Ratnâvalî Act, II., “पिसुणहिअअकुडिलेण दण्डअठ्ठेण” &c., p. 20, l. 15, Calc. Ed. Sam. 1921.
 
-**KING—**
+**P. 83, l. 7.—**दव्वीकरो मे उवरि पडिदो. Kâlidâsa everywhere represents his Vidûshaka as being afraid of snakes. Cf. Vikramorvas'î, Act II., “भो किण्णेदं भुअङ्गणिमोअअं किं मं खादिदुं णिवडिदं.”
 
-Professor, out of regard for you I am all attention.(*Exit Ganadasa*) (*Aside*) Friend, my eyes are eagerlydesirous of beholding Malavika in the green room and are as it were, endeavouring to draw away the curtain, through impatience. **(1)**
+**P. 84, l. 1.—**अहम् उण जाणे &c. जाणे is here used for the past tense. 'I thought the pretended snake-bite was going to be followed by a true one.' Vidûshaka refers to the common notion, that a person who falsely assumes an evil is visited by the fates with a reality of it in retribution.
 
-**VIDU.—**
+**P. 84, l. 7.—**दिवासङ्केद &c. It is the unguarded words of Vidûshaka above (“होदि मालविए,” “इरावदिम् अदिक्कमन्दी होहि”), and the appearance of Mâlavikâ with the words भट्टा मा दाव सहसा णिक्कम &c., said while Irâvatî was observing all, without herself being observed,—that give rise to this question of Irâvatî. Before that she had even no suspicion that Mâlavikâ was in the Samudragṛiha with the king. MS. G’s reading of the passage is अणिव्विघ्घमणोरहो दिवासङ्केदो मिहुणस्स.
 
-Here is the honey to your eyes; but nearby is the The
+**P. 84, l. 10.—**अपूर्वोयमुपचारः. This should be construed as an answer to Irâvatî’s sarcastic congratulation, अवि सिध्धा &c., and be translated ‘This is an extraordinary manner of salutation.’
 
-bee. Therefore look now, cautiously
+**P. 84, l. 13.—**किं दद्दुरा वाहरन्तित्ति &c. Bakulâvalikâ means, that whatever she and her poor friend Mâlavikâ might have said (see pp. 49–55) about the King, that talk would have no more effect on the king’s love to Irâvatî, than the croaking of the frogs on the desire of the cloud to refresh the earth.
 
-*(Then enter Malavika, the suppleness of her limbs being closely observed by her teacher)*
+**P. 85, l. 2.—**विसुमरिदो, as shown by his giving her an answer in the words “अपूर्वोयमुपचारः” to her cutting and bitter salutation.
 
-**VIDU.—**
+**P. 85, l. 2.—**पसादं ण गेण्हेसि, ‘are not yet reconciled,’ ‘प्रसन्ना न भवसि.’ अनुनयं ग्रह् is used in the same sense. Cf. S'âkuntala, p. 77, l. 15, Calc. Ed. 1860.
 
-(*Aside*) Look, sir. The sweetness of her beauty does not fall short of that of her portrait.
+**P. 85, l. 8.—**ग्रह, scil. Râhu.
 
-**KING—**
+**P. 85, l. 11.—**G has “कक्कसा” for हस्सा.
 
-*(Aside*) Friend,
+**P. 86, l. 1.—**णिपुणिए... दिठ्ठं भवदीए पख्खवादित्तणं. This is of course ironical. Irâvatî now suspects, that the Queen Dhâriṇî had really liberated Mâlavikâ and her friend, not to oblige the King, who was alleged to desire their freedom on the ground of the day being a festive occasion, but that she had done so designedly to aid the King’s intrigue with her. पख्खवादित्तणं, as shown at first by the confinement of Mâlavikâ and her friend.
 
- My heart feared a disappointment with regard to her beauty when she was (seen) in the portrait. Now I  
+**P. 86, l. 6.—**चिल्लाए मुहे पडिदो &c. Vidûshaka alludes to what may probably befal poor Mâlavikâ when the Queen Dhâriṇî comes to learn through Irâvatî's message of what took place in the Samudragṛiha. He expects some such punishment to be inflicted upon Mâlavikâ with her friend and upon himself, as that awarded by Queen Vâsavadattâ to Sâgarikâ and Vasantaka. Cf. Ratnâvalî, Act III. *ad fin.* “वासवदत्ता। सकोपम्। हञ्जे कञ्चणमाले एदेण एव्व लदापासेण बन्धिअ गेण्ह एणं बम्हणं दुव्विणीदकण्णआम् अ अग्गदो करेहि” &c. (P. 46, l. 19 *et seqq*. Calc. Ed. Sam. 1921.)—कपोदो. This word is still preserved in the Konkaṇî कौडो or कवडो, the spotted dove.
 
- think the person by whom she was painted, is of a flacid concentration. (2)
+**P. 86, l. 10.—**उभ्भिण्णो दुग्गप्पओओ. This seems to mean: ‘this rogue of a Brahman himself concocted and carried out the design of taking the fortress,’ *i.e.*, of liberating Mâlavikâ and her friend from the safe custody of Mâdhavikâ. All our MSS., and also G, have दुग्ग. G reads, however, ओछ्छिण्णो for उभ्भिण्णो.
 
-**GANA**.— My child, leave off timidity and be composed.
+**P. 86, l. 13.—**G has “णं मए अत्तभवं पवेसिदो हवे,” for तदो गाअत्तिम्पि &c.
 
-**KING**— (*To himself*) Ah, the flawlessness in every limb of this extraordinary form ! For—
+**P. 87, l. 12.—**सपख्खो, ‘your friend,’ ‘your caste-fellow.’ Vidûshaka means, that the storm which was going to burst on his own head was averted by the monkey, who, by frightening the girl Vasulakshmî, made Irâvatî to forget her revenge and to tell the king to depart, and thus to give him an opportunity of leaving the place without further trouble. Vidûshaka is not only regarded by others as belonging to the fraternity of animals, but even he himself does so in keeping with his character as a buffoon. Cf. Vikramorvaśî, Act V., “किन्ति मे सङ्कदि। अस्समं परिदो परिचिदा एदस्स साहामिआ.”—परित्तादो. See above note on p. 86, l. 6.
 
- Her face with long eyes has the splendour of the autumnal moon; her arms are curved at the shoulders; her chest with firm and erect breasts is compact; her sides are (smooth) as if they were planed off; her waist is (thin) such that it can be spanned by the hand; the hips are plumpy; and the feet have curved toes. Her body just corresponds with the form conceived by the dancing master in his mind.(3)
+**P. 88, l. 4.—**दोहलस्स. Construe with पञ्चरत्ते.
 
-**MALAVIKA**— (*After humming, sings the composition of the four padas*) O heart, it is difficult to obtain my lover; do not entertain any hope with regard to him. O ! the corner of my left eye slightly throbs. How is this person, seen long before, to be obtained again ? Olord ! consider me, a dependent on others, as longing for you.(4)
+**P. 88, l. 8.—**सच्चप्पडिण्णा See p. 39, ll. 11, 12.
 
-(*Then gesticulates in accordance with the sentiment*)
+**ACT V.**  
+**<MISSING_FIG href="../books_images/U-IMG-1728358385pic1.jpg"/>**
 
-**VIDU**.— (*Aside*) O Sir, her ladyship has deposited her soul in you through the means of the song of the four padas.
+**P. 89, l. 3.—**उवख्खित्तो.... भित्तिबन्धो, ‘I have thrown up a wall round. It was this short wall erected round the As'oka that made that tree सङ्केदघरओ (see p. 96, l. 12 ). MS. G reads वेदिआबन्धो for “भित्तिबन्धो.”
 
-**KING**— Friend, my heart too says the same. Surely by her,—
+**P. 89, l. 6.—**पसादाहिमुही. G has पसादसुमुही.
 
- When she pantomimically demonstrated the meaning of these words-"O lord, know this person to be in love with you" of the song by pointing out her own self; I have been addressed under the pretext of praying to a fair youth, not finding any (other) way to express her love owing to the proximity of Dharini. (5)
+**P. 89, l. 8.—**चीरमञ्जूसं, ‘a leather box.’ G reads simply मञ्जूसं.
 
-(*Malavika prepares to go at the close of the song*)
+**P. 90, l. 1.—**अणुचिठन्ताणं (अनुतिष्ठताम्) *i.e.* ‘अनुष्ठानं कुर्वाणानाम्’ अनुष्ठानं ‘जपहोमपारायणादि करणम्.’ Among other things the word means the recital of certain Vedic verses for a certain number of times within a definite period. For instance, the muttering of the couplet त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्, which is known by the name of मृत्युञ्जयमन्त्र, Rigveda VII., 4, 59, 12, accompanied by three nights' fast and a hundred oblations of cooked rice in honour of S'iva, makes a man live for one full century. Such an observance would be an अनुष्ठान. The word is also applied to the chanting of texts other than those of the Vedas. Thus the recitation of the chapter called *S'ivakavacha Adhyâya* (Skanda Purâṇa, Brahmottara Khaṇḍa, Adhyâya 12) is enjoined as an observance for the prolongation of life (आयुर्वृद्ध्यर्थमनुष्ठानम्). The performance of an अनुष्ठान is supposed to lead to many supernatural results. To avert an imminent calamity or danger, to restore a sick man to health, to make the heavens send down showers of rain, are among purposes for which an अनुष्ठान may be, or may be ordered to be, performed.
 
-**VIDU**.— Lady, stop. An item of duty has been forgotten by you. I Just question you about that.
+**P. 90, l. 2.—**णिच्चदख्खिणा मासिआ दादव्वा, ‘the daily dakshiṇâ accumulated for a month,’ or ‘for one month in advance.’ MS. G has this speech very differently : महुअरिए विद्दापारगामीणं बम्हणाणम् इमाणि दख्विणाणिक्काणि। ता पुरोहिदस्स हथ्थे पावइस्सं.
 
-**GANA**.— My child, please go after you are declared to beof faultless training. (*Malavika returns and stops*)
+**P. 90, l. 5.—**सेणावइणा, *i.e.* पुप्षमित्रेण. He is called सेनापति, not because he was Agnimitra’s general, but because he still retained his title of Senâpati of the Maurya kings, the last of whom he had deposed, and usurping his throne, put his own son Agnimitra on it. See note on p. 8, l. 14. This retention of the old title by Pushpamitra is analogous to that of 'Peshvâ' by the late Brahman rulers of the Deccan, who, instead of being the Peshvâs or ministers of the descendants of S'ivâji, were in reality their masters.
 
-**KING**— (*To himself*) Ab, beauty develops fresh splendourin all postures. For,—
+**P. 90, l. 10.—**मङ्गलघरए. This refers to a part of the palace set apart for sacred purposes, the apartment, most likely, where the gods were worshipped. With मङ्गलगृह cf. मध्यगृह, ‘the middle hall,’ and not ‘the middle house,’ as the word would literally signify.
 
- Her standing posture,—placing on her hip her left hand with the bracelets motionless at the wrist, allowing the other hand hang down droopingly like a branch of the priyangu creeper, with her glance cast on the pavement where the flowers are being pushed aside by her toe, and with her upper body erect,—is more pleasing than her dancing (posture).(6)
+**P. 90, l. 11.—**लेहपत्तं G has simply लेहं.
 
-**QUEEN**— Your reverence seems to take to heart even Gautama's words!
+**P. 91, l. 4.—**तेण, viz. by Mâdhavasena, and not by Yajñasena.सिप्पिदारिआ° G has सिप्पिकारिआ°.
 
-**GANA**.— O Queen ! nay, not so. Wisdom in Gautama (too) is quite possible by (the force of) Destiny.
+**P. 91, l. 12.—**देवीए. MS. G has an adjective, असोअसक्कारव्वावुदाए (=अशोकसत्कारव्यापृतया) after “देवीए.”
 
- Even a dunce gains the state of a clever man by the association of the learned, just as turbid water becomes clear by the contact of the mud-destroying fruit.(7)
+**P. 92, l. 4.—**आत्तरतिः, ‘आत्तप्रीतिः,’ ‘delightfully,’ pleasantly.’ In रति there lurks an allusion to the wife of the god of love (‘अनङ्ग’).
 
- (*Looking at the Vidushaka*) So, let us listen to what you have to say.
+**P. 92, l. 5.—**विदिशातीरोद्यानेषु. ‘In the gardens situate on the banks of the Vidis'â.’ This river is in Malva, and Professor Wilson identified it with the Bess, a small stream that joins the Betwa where the modern Bhilsa (identified by some with the ancient city of the name of Vidis'â) is situated. Vidis'â, the city, is supposed by some to have been the capital of Agnimitra. But there does not seem to be any other authority for that opinion than the fact of Vidis'â being made by Kâlidâsa the scene of this play. The Purâṇas do not mention that the S'ungas, after their usurpation of the throne of the Mauryas, transferred the capital of their empire from Pâṭaliputra in Magadha to Vidis'â in Mâlava.
 
-**VIDU**.— (*Seeing Gana.*) Just ask Kausiki. I will afterwards mention that violation of duty which I have noticed.
+**P. 92, 1. 7.—**वरदारोधोवृक्षैः The Varadâ is the modern Wurda, a tributary of the Godâvarî. The whole verse means, that while the king was enjoying the spring on the banks of the Vidis'â, his armies, encamped on the banks of the Varadâ, subjected the chief of the Vidarbhas to his dominion.
 
-**GANA**.— Divine lady, please speak out the merits or defects as observed by you.
+**P. 92, 1. 9.—**विरचितपदं &c. It is also possible to take सुरोपम and सूरिभिः as separate words and refer the former to the king—चरितम् &c. Construe: क्रथकैशिकान् मध्येकृत्य स्थितं (यद्) उभयोश्चारितं (तद्) विरचितपदम् (अस्ति): where विरचितपदं is the predicate. विरचितपदं means, ‘is celebrated by song,’ ‘is made the subject of panegyric,’ ‘विरचितानि पदानि पद्यानि यस्मिंस्तत्.’ It is, perhaps, equally correct to take स्थितं with विरचितपदं, and to consider it as a mere copula.—क्रथकैशिकान् मध्येकृत्य, ‘making the Krathakais'ikas the middle;’ *i.e.*, putting them as it were in the middle, and the two heroes, Kṛishṇa and Agnimitra, on the two sides, they sing of their exploits, which were both achieved over the Krathakais'ikas. Shortly we may render क्रथकैशिकान्मध्येकृत्य by, ‘over the Krathakais'ikas.’ The Krathakais'ikas are the same as Vidarbhas. See our note on Raghuvaṁs'a V., stanza 39.—तव and शौरेः. are together exegetical of उभयोः. Supply हृतवतः after शौरेः. On the seizure of Rukmiṇî by Kṛishṇa, here alluded to, see Vishṇu Purâṇa, Cap. XXVI.
 
-**PARI**.— Everything has been flawless, as far as was observed by me. For,—
+**P. 92, 1. 12.—**शौरेः. MS. G reads विष्णोः.
 
- The meaning was well indicated through her limbs with expressions held within them; the placing of her
+**P. 92, 1. 13.—**जअसद्दसूइदपथ्थाणो. The जअसद्द, here referred to, is the customary formula ‘इत इतो देवः.’ We may, however, as well take ‘जअसद्द’ to refer to the panegyric stanzas “परभृत°” &c. and “विचितन्द” &c., sung by the bards as the King left his throne.
 
-foot was in keeping with the time;she was merged in sentiments; her acting with the help of the branch-like hand, was very gentle. In the representation of its varieties, each guesture prompted another. The harmony of the emotions was quite exquisite through the subject matter.(8)
+**P. 92, 1. 15.—**मुहालिन्दतोरणं समस्सिदा होमि. ‘Let me put myself under this arch of the terrace.’ मुहालिन्द is the terrace or veranda at the first entrance of the palace, and the मुहालिन्दतोरण is an arch cut into the wall adjoining such a terrace.
 
-**GANA**.— How does the king think ?
+**P. 92, l. 19.—**सुलभेतरसम्प्रयोगां *i.e.* ‘दुर्लभसङ्गमाम्.’
 
-**KING**— I have lost regard for my *protege.*
+**P. 93, l. 5.—**पसाहणगव्वं. G reads पसाहणणेउणं (= प्रसाधननैपुण्यम्).
 
-**GANA**.— Today I am a dancing-master.
+**P. 93, l. 12.—**मह आरम्भो, ‘my labours,’ viz. of causing the *dohada* to be made by Mâlavikâ upon the As'oka, that it might put forth flowers.
 
- Virtuous men consider *that* instruction of an instructor pure, which does not turn dark (when presented) before (persons like) you, just like gold (when thrown) in (to) fire. (9)
+**P. 94, l. 2.—**जहारूहसम्माणसुहिदं &c. The Queen Dhâriṇi had invited also the other ladies of the King's harem to come and see the As'oka which had just burst into flowers. Having shown them the tree with its flowers, she had just dismissed them, says the Pratîhârî, and they had gone home highly pleased with the courteous reception which the Queen gave them severally according to their merits (जहारुहसम्माणसुहिदं).
 
-**QUEEN**— I congratulate you on the flawless entertainment given.
+**P. 94, l. 8.—**परिवुत्तजोव्वणो, ‘to whom his youth has come back’, *i.e.* renovated, restored to youth.
 
-**GANA**.— The patronage of the queen is just the reason for my success. (*Looking at the Vidushaka*) Gautama now speak out what you have in your mind,
+**P. 94, l. 11.—**MS. G reads विकीर्णकुरवकफलजालकभज्यमानसहकारम्.
 
-**VIDU**.— While exhibiting an instruction for the first time, at first the worship of a Brahmin must be performed. That has been evidently forgotten by you.
+**P. 94, l. 13.—**दिण्णणेवथ्थो विअ, ‘as if adorned with so many ornaments.’ Lit. ‘to whom ornaments are given,’ or, ‘who is made to wear them.’
 
-**PARI**.— Ah, the question is on the innermost point relating to demonstration ! (*All laugh. Malavika smiles*)
+**P. 95, l. 6.—**पस्सपरिवट्टिणीं मालविअं, ‘Malavikâ, who stands by.’ Cf. S'âkuntala, p. 15, ll. 20, 21; p. 26, l. 10; p. 58, l. 15: Calc. Ed. 1860.
 
-**KING**— (*To himself*) My eye has obtained the essence of the object of my (desire). For—
+**P. 95, l. 6.—**मालविअम् अणुणेइ, ‘is instructing Mâlavikâ,’ ‘is getting her consent.’ Cf. *infra*, p. 109, l. 3. MS. G reads, अम्हेसु दूरगदेसुवि धारिणी पस्सपरिवत्तिणिं मालविअम् अणुमण्णेदि.
 
- The smiling face of that long-eyed lady, beautiful with the teeth slightly revealed, is seen as if it were a blossoming lotus with filaments not fully visible. (10)
+**P. 95, l. 9.—**विस्मृतहस्तकमलया. This means, that nothing was wanting to make Mâlavikâ completely resemble Lakshmî, except that she had no lotus in her hand. Lakshmî, when she was churned out of the ocean, is supposed to have come out with a lotus in her hand. Cf. Mâgha, VIII. 64:—
 
-**GANA**.— O great Brahmin, this is not the first demonstration. Otherwise, how could we omit worshipping you worthy of worship?
+**दीव्यानामपि कृतविस्मयां पुरस्ताद्  
+अम्भस्तः स्फुरदरविन्दचारुहस्ताम्।  
+उद्वीक्ष्य श्रियमिव काञ्चिदुत्तरन्तीम्  
+अस्मार्षीज्जलनिधिमन्थनस्य शौरिः॥**
 
-**VIDU**.— I have been like a stupid chataka bird desiring to drink water, when the sky is resounding with dry clouds. Or, the class of ignorant persons indeed depends upon the satisfaction of the learned. As her ladyship has spoken well, hence I offer this present to this lady.
+On Lakshmî attending upon a king with the lotus in her hand, cf. Raghuvams'a, IV. 5, “छायामण्डललक्ष्येण” &c.
 
-(*Draws out the bracelet from the king's hands*)
+**P. 96, l. 11.—**तरुणीजणसहाअस्स. No direct reference is made hereby to Mâlavikâ. Dhâriṇî is delighted that her application of the *dohada* has been successful, and presents the As'oka to the king, that he may resort thither to pass his time with his young wives. तरुणीजण refers ostensibly to such young ladies of the harem as Irâvatî, but there is also an occult reference to Mâlavikâ, of whom she is about to make a present to the king.
 
-**QUEEN**— Wait a bit. Not knowing the merits of the other (teacher), why do you give the ornament ?
+**P. 96, l. 12.—**सङ्केदघरओ, ‘serving as a rendezvous.’ सङ्केतगृह is, lit., ‘a *house* that is a rendezvous of a secret meeting;’ and सङ्केदघरओ is ‘having a house for a rendezvous,’ which house consisted in the present instance of a simple enclosure. Cf. note on p. 89, l. 2. MS. G reads : अ-अउत्त एसो दे अम्हेहिं तरुणीजणसहाअस्स असोओ सङ्गेदघरअं सज्जिदो। पविसदु भवम्।
 
-**VIDU**.— Because it belongs to another person.
+**P. 97, l. 1.—**इमं जोव्वणवदिं. This alludes really to Mâlavikâ, though not ostensibly, which latter fact allows Vidûshaka to make a shift to the तवणीआसोअकुसुमसोहा.
 
-**QUEEN**— (*Looking at the teacher*) Revered Ganadasa, your pupil has exhibited her training.
+**P. 97, 1. 2.—**कं. The Queen puts the question, because she has not yet made a declaration of her wish to present Mâlavikâ to the king.
 
-**GANA**.— Child, you go now.
+**P. 97, l. 7.—**रथाङ्गनामेव, ‘like him who is called by the name that is borne by a member of a chariot,’ *i.e.* the *chakra* or *chakraváka* bird. The poets say, that the chakravâka, though having his mate all night beside him, can never, as long as the night lasts, come in close contact with her.
 
-(*Exit Malavika with the teacher*)
+**P. 97, l. 11.—**विदर्भविषयोपायने, ‘in the present from the country of the Vidarbhas.’—शिल्पिदारिके, ‘शिल्पिन्यौ च ते दारिके च शिल्पिदारिके’ Cf. Pâṇini, VI., 3, 42. MS. G reads शिल्पकारिके.
 
-**VIDU**.— (*Aside*) Thus much is the power of my brains to serve you.
+**P. 98, l. 4.—**आआमि &c. MS. G has : आआमि सुहं वा दुख्खं वा हिअअं समथ्थोकरेदि.
 
-**KING**.— No, no; do not put (such) a limitation. For, I Consider her disappearance as the setting of the good fortune of my eyes, as the end of the great festivity of my heart and as the shutting of the door of my bliss. (11)
+**P. 98, l. 10.—**मालविका परिव्राजिका च &c. It is not correct to read this stage-direction thus : मालविकां परिव्राजिकां च चेट्यौ दृष्ट्वा परस्परमवलोकयतः. Though we have not yet been told by the author that Mâlavikâ and the Parivrâjikâ knew each other, as they really did (cf. p. 100, 1. 13), we must still read the words as they are given in the present edition, on the authority of all our MSS.**\*** For if the चेट्यौ looked at each other to imply, that they recognised Mâlavikâ and Parivrâjikâ, they would rather burst into surprise immediately than subsequently, when the Queen calls Mâlavikâ by her name.
 
-**VIDU**.— (*Aside*) You are like a poor patient, wishing forthe medicine given by the doctor.
+**P. 99, l. 1.—**G has अभिविनीते भवत्यौ for “अभियोगो भवत्योः;” and it reads the following answer thus : भट्टा सङ्गीदे अभिविणीदेम्ह.
 
-(*Entering*) **HARADATTA**.— Be pleased to behold now the demonstration of mine.
+**P. 100, l. 1.—**पादुआपरिभोएण दूसिदं, ‘defiled by being made into shoes.’ G reads पादुपयोगेण.
 
-**KING**.— (*To himself*) The purpose of seeing is over.(*Outof courtesy, aloud)* We are indeed very eager.
+**P. 100, l. 11.—**सरओओ, ‘voice.’ Lit. ‘a harmony of several sounds or notes.’ G reads सरजोओ. Cf. S'âkuntala, Act V. “वीणाए सलसञ्जोओ सुणिअदि,” p. 103, 1. 5, Calc. Ed. 1860.
 
-**HARA**.— I am obliged to you.
+**P. 101, l. 6.—**अत्तहोदीए, *i.e.* of Mâlavikâ.
 
-(*Behind the curtain*) **A BARD**— May the king be victorious ! It is mid-day. For—
+**P. 101, l. 11.—**वैदिशगामिनम्, ‘going to the Vaidis'a country. Vaidis'a means the country in which Vidis'â was a city. See above, note on page 67, 1. 3.
 
- The swans are with closed eyes under the shade of the leaves of the lotuses of the oblong pond. Pigeons shun,
+**P. 101, l. 14.—**स चाटव्यन्ते, ‘encamped in a forest.’ Cf. Raghuvaṁs’a II., 58, “वृत्तः स नौ सङ्गतयोर्वनान्ते” &c., and our note *ad loc*. MS. G, however, reads स चाटव्यन्तरे.
 
-out of familiarity with the sloping roofs, the palace on account of the excessive heat. The peacock moves round the revolving fountain, desirous of drinking the water drops thrown out. And the Sun, full with all his rays is ablaze like yourself full with all kingly virtues. (12)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**\*** G, however, reads “मालविकां परिव्राजिकां च” &c.
 
-**VIDU**.— Oh ! oh! our food-time has come up. The doctors speak of the defects of transgressing the proper time. (*Looking at Haradatta*) What do you say now?
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**HARA**.— There is no room for any other words.
+**P. 102, l. 6.—**आपातदुष्प्रसहम् ‘terrifying by its very first appearance.’
 
-**KING**— Then, we will witness your instruction tomorrow. Please take rest.
+**P. 102, l. 14.—**G reads दुर्जाते for “दुर्जातेः,” and भर्तृप्रियां for. भर्तृप्रियः.
 
-**HARA**.— As my lord bids.
+**P. 102, l. 14.—**इमां परीप्सुः, ‘desirous of defending this girl.’ —दुर्जातेः, ‘प्रतिरोधकानामनीकात्.’
 
-**QUEEN**—Let my lord take his bath,
+**P. 103, l. 4.—**सकलीकृतभर्तृपिण्डः, ‘who showed that he had not in vain eaten his master’s salt.’ Lit. पिण्ड, ‘food,’ ‘a morsel of rice.’ MS. G reads सफलीकृतभर्तृप्रतिज्ञः.
 
-**VIDU**.— Lady, hasten special drinks and food.
+**P. 103, l. 10.—**MS. G reads युक्तः सुजनस्यैवं पन्थाः.
 
-**PARI**— (*Rising*) Hail to you.
+**P. 104, l. 2.—**स्नानीयवस्त्रक्रियया उपयुज्यते, ‘is used as a bathing-cloth.’ A स्नानीयवस्त्र is any piece of old and worn out cloth tied round the waist (the Hindus never bathe naked) at the time of bathing. It may likewise refer to such a cloth used to wipe the body with after bath.
 
-(*Exit with the queen and her retinue*)
+**P. 104, l. 3.—**अणाचख्खन्तीए &c. Cf. Ratnâvalî, Act IV., “भो अणाचख्खिदोवि एदस्स अभिप्पाओ मए जाणिदो” &c., p. 64, l. 22, Cal. Ed. Sam. 1921.
 
-**VIDU**.— O friend, not merely in beauty, but also in artistic skill, Malavika is without a second.
+**P. 104, l. 9.—**पितरि जीवति. MS. G has परिदीव्यन्ती for “पितरि जीवति.”—लोकयात्रागतेन सिद्धादेशेन साधुना, ‘by a certain divine personage of infallible preternatural powers, who had assumed the human form.’ सिद्धादेश means, ‘whose order is *effectual*,’ *i.e.* prosperous, ‘one whose word, whether conveying a prediction, command, or wish, is infallibly fulfilled.’ A Sâdhu is one who, by holy works and abstinence from all worldly concerns, has acquired supernatural powers to work miracles. One, in short, who is a divine person. Persons like Kabîra, Râmadâsa, Tukârâma, and others of more modern ages, are popularly called Sâdhus. लोकयात्रागतेन, ‘while living in this mortal world.’ Lit. लोकयात्रा is the ‘fair or show of this life.’ Cf. *supra* p. 103, l. 3. On सिद्धादेश and आदिष्टा cf. Ratnâvalî, Act IV. (pp. 58, 64, Calc. Ed. Sam. 1921); where the whole scene seems to be borrowed from the present one of our play.
 
-**KING**— Friend,
+**P. 104, l. 16.—**कथान्तरेणान्तरिन्तम्, ‘this which I was going to say, but which I could not say on account of the introduction of another subject’. Lit. कथान्तरेणान्तरितम्, ‘separated or put off by a different story.’
 
- By the Creator who endowed that artlessly beautiful lady with fine accomplishments, the arrow of Cupid has been smeared with poison. (13)
+**P. 105, l. 1.—**विदर्भगतम्, ‘the matter concerning the Vidarbha.’
 
- In brief, O friend, I have to be thought of by you.
+**P. 105, l. 8.—**MS. G has मौद्गल्यमनुमन्यते.
 
-**VIDU**.— I also by you. The interior of my stomach burns like the oven in the market place.
+**P. 105, l. 12.—**जीविदसंसआदो. Cf. note on p. 66, l. 3.
 
-**KING**— May you speed up in the same manner, also in the matter of your friend.
+**P. 105, l. 18.—**MS. G reads नृपतेः for “नृपती.”
 
-**VIDU**.— My liesure is at your disposal. But her ladyship (Malavika) is such that her sight depends on others, like the moonlight obstructed by a row of clouds. You
+**P. 106, l. 4.—**देवस्य सेनापतेः. Cf. note on p. 90, l. 5. Mark the addition of देवस्य to the name of सेनापतिः पुष्पमित्रः, whereas वीरसेन in l. 1 is styled simply सेनापतिः
 
-again, are like a bird, eager to get meat bnt timid, and only hovering round a slaughter-house. Therefore I would like you seek the accomplishment of your task without being impatient.
+**P. 106, l. 7.—**सोपचारकम्. An adverb. G has सोपचारम्.
 
-**KING**— How shall I be without impatience?
+**P. 106, l. 9.—**अम्हहे तदोमुहम् एव्व णो हिअअं. ‘My heart has already been eagerly expecting to hear some news about my son’ तदोमुहम्, lit. ‘looking towards that,’ ‘with face turned towards that.’ तदो, scil., the affairs of her son.
 
- That fair-eyed lady has become the sole object of the love of me whose heart has returned from all dealings of the ladies of the harem.(14)
+**P. 106, l. 12.—**यज्ञशरणात्. Construe with “अनुदर्शयति.” यज्ञशरणात्, ‘from the sacrificial compound,’ ‘यज्ञस्थानात्’ ‘यज्ञमण्डपाद्वा.’ This marks the place whence the epistle was despatched. Cf. “अग्निशरणम्” S'âkuntala, p. 105, l. 17, Calc. Ed. 1860. Also “अग्निशरणाद्गच्छता महेन्द्रमन्दिरम्,” Vikramorvas'î, Act III.
 
-(*Exeunt omnes*)
+**P. 106, l. 13.—**वैदिशस्थम्. See note on p. 92, l. 5.
 
-END OF THE SECOND ACT
+**P. 107, l. 2.—**सिन्धोः. G's reading, सिद्धार्थो for “सिन्धोः,” is, if correct, deserving of particular attention.
 
-ACT III
+**P. 107, l, 10.—**अंशुमतेव सगरः See Wilson's Vishṇu Purâṇa, p. 377 *et seqq*.
 
-(*Then enter Samahitika, the maid of the Parivrajika*)
+**P. 107, l. 11.—**कालहीनम्, ‘without delay.’ Lit. *without time.*
 
-**SAMAHITIKA**— I have been ordered by the divine lady, thus— ‘Samahitika, bring me a citron for presenting it to the queen.' I shall just find out the gardener, Madhukarika. Here she stands looking at the golden Asoka tree. I'll just go near her.
+**P. 107, l. 11.—**विगतरोषचेतसा. It is not known whether there was any misunderstanding or quarrel between Agnimitra and his father. We can only understand the propriety of विगतरोषचेतसा by supposing that Agnimitra had disapproved of his father’s having sent out the boy Vasumitra as champion of the courser. And in support of this supposition, it may be added, that the words, योसौ .... वसुमित्रं गोप्तारमादिश्य....तुरगो विसृष्टः, clearly imply that Agnimitra knew already of young Vasumitra’s mission. See also p. 90, ll. 5, 6.
 
-(*Then enter the gardener*)
+**P. 108, l. 1.—**होदि, referring to the Parivrâjikâ.
 
-**FIRST**— (*Going near*) Madhukarika, is your gardenduty going on well.
+**P. 108, l. 4.—**वीरविजृम्भितेन, ‘अनया वीरचेष्टया.’
 
-**SECOND**— O Samahitika ! Friend, welcome to you.
+**P. 108 l. 7.—**वह्नेरपां दग्धुरिवोरुजन्मा,** ‘**as the Thigh-born of that fire, the consumer of the waters.’ For the myth of Aurva’s birth from his mother’s thigh, and for the destructive flame which afterwards proceeded from him and was made to abide in the waters of the ocean, with the mouth of a horse, see Wils. V. P. p. 290, Note 1.
 
-**SAMA**.— Friend, the revered lady has ordered—“Her Majesty the Queen has to be interviewed by persons like us with a hand that is not empty.Hence I wish to wait on her with a citron."
+**P. 108, l. 8.—**यज्ञसेनश्यालमुररीकृत्य, ‘पुरस्कृत्य,’ यज्ञसेनश्यालादय इत्यर्थः.
 
-**MADHU**.— The citron is indeed closeby. Tell me, after seeing the instruction of the two dancing masters disputing with one another, which of them was praised by her reverence.
+**P. 109, l. 3.—**मह वअणेण. MS. G has मह अणुणएण.—अणुणेहि. See note on p. 95, l. 6.
 
-**SAMA**.— It is reported that both of them are learned and skilled in demonstration. But, the instruction imparted to Malavika was praised on account of her superior excellence.
+**P. 109, l.10.—**सरिसं, ‘right,’ ‘proper.’ MS. G reads : सरिसं खु देवीए पहवदीए पुढमं सङ्कप्पिदं &c.
 
-**MADHU**.— How goes the gossip relating to Malavika?
+**P. 110, l. 3.—**इदानीमपि, *i.e*., as hitherto.
 
-**SAMA**— It is reported that the king is very much in love with her. But just to respect the feelings of Dharini, he does not exercise his powers. Malavika too appears, in these days, like a faded jasmine garland worn and cast aside. I know no more.Leave me to go.
+**P. 110, l. 4.—**पिअणिवेदणाणुरूवं. The पिअं, here referred to, is the good news of Vasumitra’s success.
 
-**MADHU**.— Take the citron hanging from this branch.
+**P. 110, l. 11.—**देवीए दिण्णदेवीसहं. Cf. Ratnâvalî, Act IV., “रत्नावलीमङ्गुल्या देवीशब्देन प्रसादं करोति,” p. 65, l. 23, Calc. Ed. Sam. 1921.
 
-**SAMA**.— Yes. (*Gesticulates taking the citron*) Friend, you too will obtain a more delightful fruit than this, for your service to pious persons. (*Rises to go*)
+**P. 111, l. 4—**अप्याकर° &c. Construe अपि with ‘मणिजातिः.’
 
-**MADHU**.— Friend, we will go together. I also will report to the queen the need for offering *dohada* to the golden Asoka tree which is delaying to put forth blossoms.
+**P. 111, l. 6.—**लङ्घिदेत्ति. MS. G reads ण लख्खिदं instead.
 
-**SAMA**.— Right. That is indeed your office.
+**P. 112, l. 6.—**प्रतिपक्षेणापि, ‘even by giving new brides to their husbands who thereby become their rivals.’
 
-(*Exeunt ambo.*)
+**P. 112, l. 11.—**अहंविभट्टिणा पसादमत्तेण सम्भावइदव्वोत्ति, ‘that I also should be honoured by reconciliation and pardon;’ *i.e*. the king should pardon her haughty conduct. See p. 60. MS. G reads thus: इरावदी विण्णवेदि। जम् उवआरादिक्कमेण तदा अहम् अवरध्धा भट्टिणो ता अणणुरूपं मए आअरिदम्। सम्पढं सम्पुण्णमणोरहेण भट्टिणा अहंवि पसादमेत्तेण सम्भावइदव्वत्ति.
 
-END OF THE INTERLUDE
+**P. 113, l. 1.—**चरितार्थम्, ‘who has got what he wanted,’ *i.e.* happy.
 
-(*Then enter the king in a love-lorn state and the Vidushaka)*
+**P. 113, l. 2.—**सभाजयितुमिच्छामि. ‘I wish to salute him,’ ‘I wish to pay him my respects.’ Cf. S'âkuntala, Act V., “इसीओ देवं सभाजइदुम् आअदेत्ति,” p. 106, l. 8, Calc. Ed. 1860.
 
-**KING**— *(Looking at himself*) The body may grow lean when there is not the happiness of embracing the beloved. The eye may be with tears that she is not seen even for a moment. Oh, heart, you have never been separated from that fawn-eyed lady. Yet how is it that you undergo affliction when the highest bliss is obtained?
+\_\_\_\_\_\_\_\_\_\_
 
-**VIDU**.— No more lamenting having cast off all your fortitude. Bakulavalika, the friend of her ladyship Malavika,
 
- was seen by me. The message sent by you was delivered to her.
 
-**KING**— What did she say to that?
 
-**VIDU**.— "Inform that I am favoured by this duty entrusted to me. But that poor girl, guarded by the queen, is not easily to be got at like a treasure guarded by a serpent. Yet I will bring about a meeting."
 
-**KING**—O mind-born god ! creating an earnest desire for even objects that are beset with obstacles, why do you strike thus, such that this person (myself) is unable to put up any delay ? (*with astonishment*)
-
- Where is this agony torturing the heart ? and where your trust-worthy weapon (of flowers)? O God of love ! in you is seen that which is said to be (both) soft and extremely sharp. (2)
-
-**VIDU**.— I tell you, a beginning has been made in the direction of achieving the object. You just comfort yourself.
-
-**KING**—Then, where indeed shall I pass the rest of the day with a mind averse to the proper duties ?
-
-**VIDU**.— Just to-day you were requested by Iravati through Nipunika, by sending you under the pretext of the advent of fresh spring, a present of the red Asoka flowers beautiful on account of recent appearance, thus— “I desire to enjoy swinging on the swing in the company of my husband." You also have promised her. Therefore we will go to the pleasure garden itself.
-
-**KING**— That is not possible.
-
-**VIDU**.— How?
-
-**KING**— Friend, women are shrewd by nature. How will not your friend (Iravati) mark me as one with a heart
-
-attached to another, although I might be caressing her? Therefore, I see—
-
- It is better to reject the request, fitting although it be; for, many reasons for declining it are seen.In the case of proud women, the mode of attention although beter than before, is of no avail, if it is devoid of sincere love. (3)
-
-**VIDU**.— You should not all at once set aside your courtesy to the ladies of the harem.
-
-**KING**— (*Reflecting*) Then, lead me to the pleasure garden.
-
-**VIDU.**— This way, this way, your honour. (*Both move on*) This pleasure garden appears to hasten you to enter with its fingers of tender leaves moving gently by the wind.
-
-**KING**—(*Gesticulating the joy of its touch*) The Spring is indeed agreeable. Friend, look.—
-
- The southern wind fragrant with mango-blossoms and of pleasing touch appears like the palm of hand employed by Spring who seems to enquire compassionately the bearableness of the anguish of love through the notes, melodious to the ear, of the intoxicated cuckoos. (4)
-
-**VIDU**.— Enter, to get mental ease. (*Both enter*) With attention, direct your eyesHere surely, Vernal Beauty, as if desirous of tempting you, has put on the dress of Vernal flowers which would put to shame any young woman of distinction.
-
-**KING**— (*In astonishment*) Here, I see—
-
- The *alaktaka* dye, on the bimba-like lower lip is transcended in excellence by the splendour of the red Asoka; the dark whitish-red Kurabaka has out-beaten the *Viseshaka* painting on the face; the *tilaka* mark (on the
-
-forehead) is surpassed by the tilaka flowers which have the collyrium of the bees adhering to them : (thus) Vernal beauty seems to be scorning women's mode of decorating their faces.(5)
-
-(*Both gesticulate observing the beauty of the garden. Then enter Malavika agitated*)
-
-**MALAVIKA**— I am ashamed of even myself for loving the king whose heart is not known. Where have I the power to disclose this matter even to my intimate friend ? I know not how long Cupid would lead me with this torment, severe, being irremediable. (*Advancing a few steps*) Oh, where have I set out ? (*Gesticulating recollection*) I have been ordered by the queen—“By the carelessness of Gautama as I had a fall from the swing, my foot is paining. You go and discharge the *dohada*of the golden Asoka tree. If it shows blossoms within five days, then I shall bestow on you a favour which will fulfil your desire”. I shall first go to the spot of duty; as Bakulavalika holding the decorations of the feet in her hand, is due to come presently, I will for a moment give vent to my grief, undisturbed.
-
-(*Walks about*)
-
-**VIDU**— (*Beholding*) O friend, here has come unrefined sugar to one fed up with the drinking of old wine
-
-**KING**— Ey, what is itn ?
-
-**VIDU**— Not far from here is Malavika, not very gaudily dressed, alone and with an uneasy look.
-
-**KING**— (*Joyfully*) What ! Malavika ?
-
-**VIDU**.— Quite so.
-
-**KING**— It is now possible to sustain my life.
-
- Learning from you that my beloved is nearby, my
-
-afflicted heart has heaved a sigh of satisfaction, just like the heart of a thirsty traveller on inferring that a river covered by trees is near, from the cry of the *sarasa* birds.(6)
-
- Now where is her ladyship?
-
-**VIDU**.— Here, emerging out of the grove of trees, she is seen coming this very way.
-
-**KING**— (*Seeing her, with joy*) Friend, I see.
-
- Here comes my very life, expansive in the circular hips, slender at the waist, elevated at the breasts and very long in the eyes. (7)
-
- Friend, her ladyship has gained a different state which is far more charming than the former. For—
-
- With her cheeks as pale-white as the stalk of the reeds, and with limited ornaments, she appears like the *Kunda* creeper with its leaves ripened by spring and having only a few flowers.(8)
-
-**VIDU**.— She too must have been affected by love-sickness like you.
-
-**KING**— Your friendship views thus,
-
-**MALAVIKA**— This is that Asoka, coveting for a graceful fulfilment of its longing and not putting on the dress of flowers, is imitating me who has been longing. I will just divert myself seated on this stone-slab, cool with the shade of this tree.
-
-**VIDU**.— Did you hear ? Her ladyship says that she has been longing.
-
-**KING**— By just this much, I do not consider you as rightly conjecturing. For,—
-
- The Malayan breeze, bearing the *Kurabaka* pollenand followed by the thin drops of water of the tender
-
-leaves the folds of which are just opening, does produce in the mind a longing even without any cause.(9)
-
-(*Malavika sits*)
-
-**KING**— Friend, this way please. Let us conceal ourselves behind the creepers.
-
-**VIDU**.— I believe that not far away is that some one like Iravati.
-
-**KING**— The elephant, having secured a lotus plant, does not surely care for the alligator.(*Stands seeing*)
-
-**MALA**.— O heart, desist from your desire which has no support and which has gone too far. Why torture me?
-
-(*The Vidushaka looks at the king*)
-
-**KING**— O my dear, look at the perversity of love.
-
- You do not disclose the real cause for your anxiety, nor has conjecture the sole purpose of teaching the truth. Yet, O lady with fair thighs, I am making myself the object of these lamentations.(10)
-
-**VIDU**.— Now, your doubts will be cleared. Here Bakulavalika, to whom your message of love was entrusted, has come to attend on her in this private place.
-
-**KING**— Does she remember at all my request ?
-
-**VIDU**.— What ? Will this whore's-daughter now forgetyour important message? I, at any rate,don'tforget it.
-
-(*Entering, with the decorations of the feet in hand*)
-
-**BAKULAVALIKA**— Is my friend happy?
-
-**MALA**.— Oh Bakulavalika ! friend, welcome to you. Sit down,
-
-**BAKULA**.— (*Sitting*) Friend, now you have been employed for a worthy duty. Therefore stretch one foot, so that I may dye it with *alaktaka* and deck it with the anklet.
-
-**MALA**.— (*To herself*) O heart, do not feel happy that this good fortune-has come up. How shall I extricate myselfnow ? or else, this very thing will now be my funeral decoration.
-
-**BAKULA**.— What are you considering ? The queen is indeed anxious with regard to the appearance of buds on the golden Asoka tree.
-
-**KING**— Oh ! then is all this a preparation for fulfilling the longing of the Asoka tree ?
-
-**VIDU**.— Why ? Did you think— "The queen is adorning her (Malavika) with the harem-decorations, on my account ?"
-
-**MALA**— Friend, excuse me for this. (*Stretches her foot*)
-
-**BAKULA**.— Ey, you are to me (as dear) as my own body.
-
-(*By gesticulation starts painting the foot*)
-
-**KING**— Friend, behold the glossy lines of colour painted on the extremeties of the feet of my beloved, which look like the very first appearance of tender leaves of the tree of Cupid scorched by (the fire of) Siva. (11)
-
-**VIDU**.— A duty, quite befitting her feet, has been entrusted to her ladyship.
-
-**KING**— You have spoken rightly.
-
- With this tip of her foot bearing the hue of a fresh sprout and with the flashing splendour of her nails, this girl deserves to strike two things, viz. (1) the Asoka tree which has not put forth blossoms with a desire to have its longing fulfilled, or (2) her lover who has committed an offence and is with his head bowing down.(12)
-
-**VIDU**.— Her ladyship will strike you guilty of an offence.
-
-**KING**— With a bowed down head, I accept the words of a Brahmin who foresees the fulfilment of my desires.
-
-(*Then enter Iravati in an intoxicated state and an attendant*)
-
-**IRAVATI**— My dear maid Nipunika, I have heard that intoxication is an ornament to women mostly. Is this popular saying true ?
-
-**NIPUNIKA**— It was a popular saying before this. Now it has become a truth,
-
-**IRA**.— Enough of these praising words of affection. Tell me whence to know whether the king has gone to the swing-house before me or not.
-
-**NIPU**.— By your Majesty's unceasing love (for him).
-
-**IRA**.— No more flattery. Speak taking up an unconcerned attitude.
-
-**NIPU**.— The revered Gautama, eager for spring-gifts, told me so. May Your Highness hurry up,
-
-**IRA**.— (*Walking in accordance with her state*) Maid, my heart hastens me overpowered by intoxication to behold my husband, But my feet do not advance at all.
-
-**NIPU**.— We have, verily, come to the swing-house.
-
-**IRA.**— Nipunika, my husband is not seen here.
-
-**NIPU**.— May your Majesty look well. The king must be hiding some where in order to play a trick. Let us just proceed to this stone-slab, under the Asoka tree and over grown with the Priyangu creepers.
-
-**IRA**.— Yes.(*They do so*)
-
-**NIPU**.— (*Observing*) Queen, please behold. While we have been searching for the mango-sprout, we are bitten by red ants.
-
-**IRA**.— What do you mean?
-
-**NIPU**.— Here, under the shade of the Asoka tree, Bakulavalika has been decorating the foot of Malavika.
-
-**IRA**.— (*Showing fear*) This is not the place for Malavika. How do you view this matter ?
-
-**NIPU**— I think that Malavika has been appointed to the office of offering *dohada* to the Asoka, by the queen whose foot is paining, as she had a fall from the swing. Otherwise how would the queen permit ber attendant to wear the pair of anklets which was put on by herself ?
-
-**IRA**.— Great, indeed, is this honour to her !
-
-**NIPU**.— Would you search for the king ?
-
-**IRA**.— Friend, my feet do not advance anywhere else. The intoxication is bringing a change upon me. I will just go to the very end of what I suspect. (*Observing Malavika, to herself*) My heart has been rightly apprehensive.
-
-**BAKULA**.—(*Pointing out the foot to Malavika*) Is the display of the lines of colour to your taste?
-
-**MALA**.— Friend, I hesitate to praise this, as it is on my own foot. By whom were you trained in the art of decoration ?
-
-**BAKULA**.— I am the pupil of the king in this matter.
-
-**VIDU.**— Just hasten her for the teacher's fee.
-
-**MALA**.— Itis strange you are not proud.
-
-**BAKULA**— Having obtained a pair of feet befitting my instructions, to-day I shall feel proud. (*Seeing the colour; to herself*) Ah, my commission has been accomplished. (*Aloud*) Friend, the display of colour on one of your feet is finished. Only the breath from the mouth has to be passed on it. Or why, this place is quite airy.
-
-**KING**— Friend, look—
-
- Now has come to me an excellent opportunity for
-
-service to fan her foot, wet with red lac dye, with the breath of my mouth.(13)
-
-**VIDU**.— Why do you feel sorry ? This will have to be enjoyed by you for a long time, in due course.
-
-**BAKULA**.— Your foot shines like a red lotus. By every means, may you repose on the king's lap.
-
-(*Iravati looks side-ways at Nipunika*)
-
-**KING**— That is my wish.
-
-**MALA**.— Do not say what is not fit to be said.
-
-**BAKULA.**— I have said only what should be said.
-
-**MALA**.— I am dear to you, is it not?
-
-**BAKULA**.— Not only to me.
-
-**MALA**.— To whom else then?
-
-**BAKULA**.— To the king also, who admires merits.
-
-**MALA**.— You are uttering a lie. That exactly is not in me.
-
-**BAKULA.**—Truly it is not in you. It is seen in the emaciated and very pale limbs of the king.
-
-**NIPU**.— The reply of the wretch is previously calculated, as it were.
-
-**BAKULA.**— Establish a proof for the maxim of good peoplethat love should be tested by love.
-
-**MALA**.— Why do you talk as you please?
-
-**BAKULA**.— Not at all. These are, indeed, the king's words soft with love and spoken through another's mouth.
-
-**MALA**— Friend, my heart does not believe it, when I think of the queen.
-
-**BAKULA**.— Silly girl ! Should not the mango-blossoms, the essence of the advent of Spring, be used as an earornament, just because the bees would hover round them ?
-
-**MALA**.— You just help me to the utmost, in distress.
-
-**BAKULA.**— I am surely Bakulavalika, whose fragrance
-
-(help) increases when pressed (more and more).
-
-**KING**— Very good, Bakulavalika, very good !
-
- By means of a speech, which was introduced after knowing the state of her mind and in which suitable answers were given to contradictions, this lady (Malavika) has been brought within the range of her commission (by Bakulavalika). Rightly are the lives of lovers in the hands of the female messengers.(14)
-
-**IRA**.— Look; Malavika has been induced by Bakulavalika to take this step.
-
-**NIPU**.— Queen, her advice is in accordance with her commission.
-
-**IRA**.— Rightly, indeed, has my heart been apprehensive.After getting at the facts, I shall think (of what to do),
-
-**BAKULA**.— Here is your second foot also with decoration completed. I just put the anklets on it. (*Gesticulates putting the anklets*) Friend, get up; execute the queen's order of causing the Asoka to blossom. (*Both rise*)
-
-**IRA**.— The queen's order has been heard (by me) Let it be (executed) now.
-
-**BAKULA**.— Here, in front of you, is this with *raga* (1, redness; 2. passion) increased and fit for enjoyment.
-
-**MALA**.— (*Joyfully*) Who? The king.?
-
-**BAKULA**— (*With a smile*) Not the king. (I mean) this cluster of tender leaves hanging from the branch of the Asoka. Wear it on your ear.
-
-**VIDU**.— Did you hear?
-
-**KING**— Friend, this much is enough for lovers.
-
- There would be no delight for me even in a union. that is being accomplished, of two lovers one of whom is indifferent and the other ardent; far better would be
-
-even the destruction of the physical bodies of an equally loving couple having no hope of meeting each other. (15)
-
-(*Malavika, wearing the tender leaves as her ear-ornament, stretches her foot towards the Asoka tree*)
-
-**KING**— Friend,
-
- Having taken from this tree, a tender leaf (to wear) on her ear, she deposits her foot on that (very tree). Since the two have exchanged similar gifts, I consider myself deprived (of my desired object). (16)
-
-**BAKULA**— Friend, it is no fault of yours (now). This Asoka would be worthless if it should delay in putting forth blossoms even after obtaining the honour of the touch of your foot.
-
-**KING**— Even after being honoured by this slender-waisted lady with her foot, tinkling with noisy anklets and tender like a fresh lotus, if you do not bear immediately a wealth of flowering buds, OAsoka, you cherish, in vain, a longing in common with sportive lovers. (17)
-
- Friend, I desire to make my appearance there, with a (suitable) occasion for speaking.
-
-**VIDU**.— Come along. I will make fun of her. (*Both enter*)
-
-**NIPU**.— O Queen ! the king is appearing here.
-
-**IRA**.— At first, my mind had contemplated this.
-
-**VIDU**— (*Going near*) Is it proper that you should kick with your left foot this Asoka, a dear friend of His Majesty ?
-
-**BOTH**— (*In a confused state*) Oh, the king !
-
-**VIDU**— Bakulavalika, why was this lady not prevented from doing such an immodest act, (at least) by you who knew her purpose? (*Malavika shows fear*)
-
-**NIPU**.— Queen, see what the worthy Gautama has started?
-
-**IRA**.— How else would that wretch of a Brahmin behave?
-
-**BAKULA**.— Sir, she has been executing the queen's orders. In this transgression she is a dependent on another. May the king be graceful (*With these words she makes Malavika also prostrate to the king along with herself*)
-
-**KING**— When it is thus, you are not guilty. Rise up, good maiden : (*Saying these words, he raises her taking her by the hand*)
-
-**VIDU**— It is but right.The queen has to be respected in this.
-
-**KING**— O charming girl, endowed with beautiful thighs, has there been any pain now to your left foot, soft as a tender leaf, placed on the hard trunk of the tree? (18)
-
-(*Malavika blushes*)
-
-**IRA**.— Oh! my lord is with a heart, soft as fresh butter.
-
-**MALA**.— Bakulavalika, come along. Let us report to the queen that her command has been executed.
-
-**BAKULA**— Request the king (your lord) to let you go.
-
-**KING**— Good girl, would you go ? Then please listen to supplication, the proper occasion for whichhas come.
-
-**BAKULA**.—Listen attentively. May my lord speak out.
-
-**KING**— This person (1) too does not bear since a long time such a flower of happiness. With the nectar of your touch, fulfil the longing also of this person who has no interest in anything else. (19)
-
-**IRA**.— (*Suddenly approaching*) Fulfil, fulfil. The Asoka does not put forth flowers, but this (person) surely blossoms. (*All are confused seeing Iravati*)
-
-**KING**— (*Aside*) Friend, what is the go, now ?
-
-**VIDU**.— What else ? Only to take to our heels.
-
-**IRA.**— Bakulavalika, you have begun well. Now make my lord gratified of his request (to you).
-
-**BOTH**— Be pleased, O queen ! Who are we (two) to acceptthe king's love ?  
-(*Exeunt ambo*)
-
-**IRA.**— Men are not trust-worthy. As I trusted your deceitful words, this was not known by me like an unsuspicious deer whose mind is captivated by the song of a hunter.
-
-**VIDU.**— (*Aside*) Answer something in reply. A burglar, although caught red-handed, will have to say— 'I am just practising house-breaking.’
-
-**KING**— Fair one, I had nothing to do with Malavika. I was diverting myself in some manner, as you were late.
-
-**IRA.**— You are to be trusted. I did not know that such an object of diversion was obtained by my husband. Otherwise, this unfortunate person (I) would not act thus.
-
-**VIDU.**— By this much, please do not say that there has been a breach of politeness in the case of the king. You may reconcile yourself with the (king's) offence of conversing with the queen's attendant seen by chance. You are the best judge in this matter.
-
-**IRA.**— Why not the conversation go on ! Why should I trouble myself ? (*Sets out in anger*)
-
-**KING**— (*Going after her*) Let your lady-ship be appeased. (*Iravati keeps on going although her foot is held up by her girdle*) O fair one, indifference towards a loving person does not look well.
-
-**IRA.**— Rogue, you are with a faithless heart.
-
-**KING**— In me, familiar with you, O dear one, let your coutempt indicated with the word 'Rogue' rest. But don't you give up your anger although entreated by your girdle fallen at your feet? (20)
-
-**IRA.**— Even this wretched thing sides with you. (*Taking up the girdle, wishes to strike the king with it.*)
-
-**KING**— This Iravati,
-
- Angry and suffused with tears, is preparing to strike me with her golden girdle slipped down from her round hips through carelessness, just as an array of clouds ready to strike the Vindhya mountain with a streak of lightning.(21)
-
-**IRA.**— Once again, do you make me alone guilty ?
-
-**KING**— (*Holds her hand together with the girdle*)
-
- O curly-haired one ! would you withdraw (your) punishment from me, a guilty person ? You develop your fascination and at the same time you are angry now with this slave of yours.(22)
-
- Surely this is permitted. (*Falls at her feet*)
-
-**IRA.**— These are not Malavika's feet that would fulfil yourfelicitous longing.  
-(*Exit with her attendant*)
-
-**VIDU.**— Get up; you have been favoured.
-
-**KING**— (*Rising and not seeing Iravati*) Has my beloved really gone ?
-
-**VIDU.**— Friend, fortunately she has gone away, displeased with this impolite act (of yours). Let us therefore, move away soon, before she returns like Mars to the zodiacal sign with retrograde motion.
-
-**KING**— Oh the un-evenness of love !
-
- I, with my mind attracted by my beloved, consider (this) rejection of my supplication as a service; for, it is here by possible to ignore that angry (Iravati), full of love for me. (23) (*Exit with his friend*)
-
-**END OF THE THIRD ACT.**
-
-ACT IV
-
-(*Then enter the king and a Portress*)
-
-**KING**— (*To himself*) The tree of (my) love set its roots in the form of interest relating to her, when she came within the range of my ears; it put forth sprouts of a welldeveloped passion when she became the object of my vision (*lit.* eyes); and it was covered with buds, when there was the visible horripilation (on me), owing to the touch of her hand. May that tree make me, the lover, experience the taste of its fruit.(1)
-
- (*Aloud*) Friend Gautama !
-
-**PORTRESS**— Hail my lord ! Gautama is not present here.
-
-**KING**— (*To himself*) O, he has been sent by me to learn the news relating to Malavika.
-
-(*Entering*) **VIDUSHAKA**— Prosperity to your honour !
-
-**KING**—Jayasena, just find out where queen Dharini is being diverted, as her foot is injured.
-
-**PORTRESS**— As my lord bids. (*Exit*)
-
-**KING**— Gautama, what news of your esteemed friend ?
-
-**VIDU**.— Just the same as of a cuckoo caught by a cat.
-
-**KING**— (*Sorrowfully*) How?
-
-**VIDU**.— Indeed that poor lady has been confined in the under-ground safe-room, as if in a cave, by that tawnyeyed woman.
-
-**KING**— Was it after coming to know of my contact with her?
-
-**VIDU**.— Just so.
-
-**KING**— Who is that person, so adverse to me, by whom the queen was put to rage (against me) ?
-
-**VIDU**.— Please listen. The Parivrajika told me,—"It is reported that her ladyship Iravati went yesterday to
-
-ask the queen whose foot has been injured, if there was any relief.
-
- KING— Then?
-
- VIDU.— "Then she was asked by the queen— 'Was (your) dear husband seen (by you) ?' She replied— ‘Gentle is your civility as it is not known to you that 'the state of being the beloved' has passed on to a maid-servant.'
-
- KING— Although without any specific mention, this statement causes suspicion about Malavika.
-
-VIDU.— "Then, being continuously pressed by her, she acquainted her with your misdemeanour.
-
- KING— Oh, the continued resentment of her ladyship ! What next ? Tell me.
-
- VIDU.— What next ! Malavika and Bakulavalika, with feet fettered, are like two Naga maidens, experiencing residence in the under-world where sun's rays are not at all seen.
-
- KING— Alas !
-
- The sweet-voiced cuckoo and the bee, even as they just got attached to the blossomed mango tree, have been driven into the hollow by an untimely shower associated with a strong driving wind. (2)
-
- Can there be scope for any expedient in this matter ?
-
- VIDU.— How can there be ? For, Madhavika, the keeper of the safe-room, has been ordered by the queen— ‘Malavika and Bakulavalika are not to be set free without seeing my seal ring.'
-
- KING— (*Sighing and reflecting*) Friend, what has to be done in this matter?
-
- VIDU.— (*Considering*) There is a way for this.
-
- KING— Howplease?
-
- VIDU.— (*Casting his look all round*) Some one may bear un-noticed. I will whisper it in your ear. (*Gettingclose to him, whispers*) Thus, thus. (*Communicates it to him*.)
-
- KING— (*Joyfully)* Very good. Employ it for success.
-
- (*Entering*) PORTRESS— My lord, reposing on a couch set in an airy place, the queen, her foot bearing red sandalpaste being held in the hands of an attendant, is being diverted with stories by the revered (Parivrajika).
-
- KING— Then, the time is suitable for my visit.
-
- VIDU.— Hence, you go, I too will make my hands contain a present (*lit.* be with hands not empty) in order to see the queen.
-
- KING— Make our secret known to Jayasena also.
-
- VIDU.— Very well, (*Whispers in her ear*) It is thus, lady.
-
-(*Exit after communicating it.*)
-
- KING— Jayasena, show me the way to the couch set in the airy place.
-
- PORTRESS— This way, this way, my lord.
-
-(*Then enter the queen lying on a couch, the Parivrajika and retinue of a suitable rank*.)
-
- QUEEN— Revered lady, the plot of the story is interesting. What next?
-
- PARI.— (*Casting a glance*) I will continue (the story) later.
-
-Here has come His Majesty, the Lord of Vidisa.
-
- QUEEN— Oh, my husband ! (*Desires to rise up*)
-
- KING— Enough, enough of straining yourself to be civil to me.
-
- O sweet-voiced one, you should not cause pain to me and to your foot which is un-used to be without anklets and which is resting on a golden stool. (3)
-
- QUEEN— Victory to my husband !
-
- PARI.— Prosperity to the king !
-
- KING— (*After saluting the Parivrajika, sits down*) Queen, is the pain bearable ?
-
- QUEEN— Now, it is better.
-
-(*Then enter the Vidushaka in fright, his thumb tied with the sacred thread.*)
-
- VIDU.— Save me, save me, sir. I am bitten by a serpent.
-
-(*All are dejected*.)
-
- KING— Alas ! alas ! Where were you loitering?
-
- VIDU.— As I thought of seeing the queen, I went to the pleasure-garden in order to gather flowers (for presenting them to her) as per custom.
-
- QUEEN— O fie ! alas ! I myself have become the cause of danger to the life of a Brahmin,
-
- VIDU.— There, when my right hand was stretched for (plucking) a cluster of the Asoka, I was bitten by Deathin the form of a serpent. Here are the two marks of thebite. (*Shows the bite*)
-
- PARI.— If so, the excision of the bitten limb is the first remedy, it is said. Let that be done.
-
- Excision or canterization of the bitten limb, or letting of blood from the wound,—these are unblamable remedies (to be adopted) in the case of persons who are just bitten by serpents. (4)
-
- KING— Now, this is a case for poison-doctors. Jayasena, let Dhruvasiddhi be brought soon,
-
- PORTRESS— As my lord bids. (*Exit*)
-
- VIDU.— Ah ! I have been seized by the wicked Death.
-
- KING— Do not be alarmed. The bite may be even without poison.
-
- VIDU.— How shall I not be alarmed ? My limbs are experiencing a convulsive sensation.
-
-(*Shows the effect of poison*)
-
- QUEEN— Ha ! An evil end is shown by the affection. You support the Brahmin.
-
-(*The Parivrajika supports him hastily*)
-
- VIDU.— (*Looking at the king*) Sir. I have been your dear friend ever since boy-hood. Considering that, undertake the maintenance and protection of my childless mother,
-
- KING— Do not be afraid, Gautama. Be composed. Very soon the physician will treat you.
-
- (*Entering*) PORTRESS— My lord, Dhruvasiddhi ordered by you, says— ‘Let that Gautama be brought here’.
-
- KING— If so, please take him supported (well) to that noble (physician).
-
- PORTRESS— Be it so.
-
- VIDU.— (*Looking at the queen*) Lady, I may or may not live. Please pardon all the offences caused to you by me while serving His Highness.
-
- QUEEN— May you be long-lived.
-
-(*Exeunt Vidushaka and Portress*)
-
- KING— The poor fellow, timid by nature, has no confidence even in Dhruvasiddhi, of a significant name and unfailing success.
-
- (*Entering*) PORTRESS— Hail, my lord ! Dhruvasiddhi sends word—“Something bearing the impression of a serpent has to be provided for the process of the 'Udakumbha.’ Let such a thing be secured”
-
- QUEEN— This is a ring bearing the seal of a serpent. Give it into my hands afterwards. (*Gives the ring. The portress, taking it, starts to go*)
-
- KING— Jayasena, bring soon the news of the success in the business (undertaken).
-
- PORTRESS— As my lord bids.
-
- PARI.— As my heart says, Gautama is freed from poison.
-
- KING— May it be so.
-
- (*Entering*) PORTRESS— Victory to my lord, the king !
-
- The effect of the poison on him being reversed, Gautama has come back to normal condition.
-
- QUEEN— Luckily, I am free from blame,
-
- PORTRESS— Here this minister Vahataka begs to state— ‘Many state-affairs are to be consulted. I wish to be favoured with an interview.'
-
- QUEEN— My lord may go to achieve success in business.
-
- KING— Queen, this place is penetrated by the sun. A cooling treatment is most suited for this ailment. Therefore let the bed be removed to some other place.
-
- QUEEN— Girls, carry out the order of my husband.
-
- ATTENDANTS— We obey.
-
-(*Exeunt Queen, Parivrajika and attendants*)
-
- KING— Jayasena, take me by the secret path to the pleasure-garden.
-
- PORTRESS— This way, this way, my lord.
-
- KING— Jayasena, I hope Gautama has finished his business.
-
- PORTRESS— Quite so.
-
- KING— Even after believing that the plan adopted for the attainment of the desired object is a sure means, yet, my heart, quite diffident of success, is timidly entertaining a doubt.(5)
-
- (*Entering*) VIDUSHAKA— Prosperity to you ! Your auspicious affairs have been accomplished.
-
- KING— Jayasena, you too attend to your business.
-
- PORTRESS— As my lord bids.(*Exit*)
-
- KING— Gautama, Madhavika is a dunce. I hope she did not hesitate in the least.
-
- VIDU.— How could she hesitate, after seeing the queen's signet-ring.
-
- KING— I do not speak about the seal at all. 'What is the reason for the release of these two' ? How is it you have been deputed with this message, in preference to the queen's own attendants ?’— Such questions, she ought to have put.
-
- VIDU.— Why, I was indeed asked (thus). But, dunce that I am, my wit rose to my help (in answering her).
-
- KING— Relate (all that to me).
-
- VIDU.— I said— "The king was informed by the astrologers; — ‘Your star is with an evil portent,Therefore, let all the prisoners be released.'
-
- KING— (*With joy*) Then, what further ?
-
- VIDU.—“Having heard this, the queen, sparing the feelings of Iravati, deputed me with the message to show that the king was setting them free." Thereupon, saying— 'It is right,' she granted our object.
-
- KING— (*Embracing the Vidushaka*) Friend, I am really dear to you.
-
- For, it is not by virtue of intellect only that one sees (the way of accomplishing the object of friends; the subtle path leading to the success of a business is perceived even by affection. (6)
-
- VIDU.— You please hurry up. After stationing Malavika with her friend in the '*Ocean house*,' I have come to meet you.
-
- KING— I will do her honour. Lead me.
-
- VIDU.— May you come along.(*Advancing*) This is the *Ocean-house*.
-
- KING— (*With fear*) Friend, here comes close to us, this Chandrika, the maid-servant of your friend (Iravati), with her hands busy in plucking flowers. Let us just get ourselves concealed behind this wall.
-
- VIDU.— Oh ! Chandrika (moon-light) is surely to be avoided by thieves and gallants. (*Both do as stated*)
-
- KING— Gautama, how, indeed, is your friend waiting for me ? Come along; standing by the side of this window, I will look in.
-
- VIDU.— Yes. (*Both stand looking in*)
-
-(*Then enter Malavika and Bakulavalika*)
-
- BAKULA,— Friend, bow down to the lord.
-
- MALA.— Salutation to you.
-
- KING— I think she is pointing my portrait to her.
-
- MALA.— (*With joy, looking at the door-way*) Friend, do you deceive me?
-
- KING— I am amused by the joy and sorrow of her ladyship. Both the states of the lotus, viz. the one it assumes at sun-rise and the other at sun-set, have been put on, in a moment, by the face of the fair-faced lady.
-
-\(7\)
-
- BAKULA,— Why, here is the lord in painting !
-
- BOTH— (*Having bowed down*) May the lord be victorious !
-
- MALA— Friend, on that occasion when the king's beauty was beheld by me in confusion, I was not at all quenched of my thirst (to see him) ; in the same way, the lord, with whose sight I am not fully gratified, has been gazed at, even now.
-
- VIDU.— Did Your Highness hear ? Her ladyship says that
-
-you were not found so (hand some) in person as in the picture. In vain you bear the pride of youth like a casket holding a treasure of jewels.
-
- KING— Friend, women, although full of curiosity, are bashful by nature. Look—
-
- They wish to observe fully the beauty (of their lovers) ; and yet, the eyes of the long-eyed women do not function fully on their lovers, while meeting them for the first time.(8)
-
- MALA— Friend, who is this lady looked at intently with an affectionate glance by my lord whose face is a little turned aside ?
-
- BAKULA.— Why, this is Iravati standing by his side.
-
- MALA.— Friend, the king seems to me to be dis-courteous, as he, leaving all the queens, has fixed his gaze on only one.
-
- BAKULA— (*To herself*) Taking the king in the picture to be the real one, she is feeling jealous. Well. I'll just play a joke on her. (*Aloud*) Friend, she is the favourite of the king.
-
- MALA.— Then, why do you trouble yourself now, (with all this) ? (*Turns away jealously*).
-
- KING— Friend, behold:—
-
- By this (maiden), jealously turning away her face, the *tilaka* mark on which is furrowed by her frown and the lower lip of which is quivering, the instruction received from her teacher in the graceful jesticulations (when) under fits of anger at the faults of the lover has been exhibited, as it were. (9)
-
-VIDU.— Now, get ready to propitiate her.
-
-MALA.— The revered Gautama is waiting on her just here.
-
-(*Malavika desires to turn her face to another side*)
-
- BAKULA.— (*Preventing her*) Surely, are you not angry now ?
-
- MALA.— If you think me angry for a long time, here (my) anger shall be recalled.
-
- KING— (*Going near*) How is it, Olotus-eyed one, you get angry on me for an act represented in the picture? Here, indeed, I am in person your slave, devoted exclusively to you alone. (10)
-
- BAKULA.— Victory to the king !
-
- MALA.— (*To herself*)How is it the king in the portrait was scorned by me? (*Outwardly folds her hands, her face indicating love. The king shows uneasiness of love*).
-
- VIDU.— How is it you appear to be indifferent ?
-
- KING— Owing to the un-trustworthi-ness of your friend.
-
- VIDU.— How comes this distrust of yours in her ladyship ?
-
- KING— Listen—
-
- (In dreams) having stood within the range of both my eyes, your friend disappears in a moment ; although come between my arms, she moves away all at once : O friend, how at all can the mind of me, teased by love-sickness with delusions of union in this manner, be with confidence in her ? (11)
-
- BAKULA.— Friend, the king is often deceived. Therefore let your self be made trust-worthy.
-
- MALA.— Friend, a union with the king even in a dream was difficult to obtain in my case, unfortunate that I am.
-
- BAKULA.— Let my lord give an answer to this.
-
- KING— What is the good of an answer ? My own self has been given by me to your friend with the fire of love as witness ; I am not to be served by her ; (on the other hand), I will serve her in private. (12)
-
- BAKULA.— I am obliged.
-
- VIDU.—(*Moving about, hurriedly*) Bakulavalika, here is a deer destroying the sprouts of the young Asoka plant. Come along ; let us drive it off.
-
- BAKULA— O yes. (*Exit*)
-
- KING— Friend, in this very way, you should be vigilant with regard to this affair which ought to be guarded.
-
- VIDU.— Should Gautama be instructed even thus ?
-
- BAKULA.— (*Walking about*) Respectable Gautama, I will remain in a concealed place. You keep watch at the door.
-
- VIDU.— That is right. (*Exit Bakula*.) I will just recline on this crystal pillar. (*Having done so*) Oh, how pleasing is the touch of this excellent stone !
-
-(*He goes to sleep. Malavika stands in a timid manner*)
-
- KING— Leave off, O fair maiden, the timidity at union (with me) ; you put on the role of an *Atimukta* creeper towards me, who am seeking your love since a long time and have come to the state of a mango-tree (round which the Atimukta creeper has to twine itself). (13)
-
- MALA.— I am unable to do even what is dear to me, out of fear of the queen.
-
- KING— Ey, you should not be afraid.
-
- MALA.— (*Tauntingly*) The power of my lord, who is not afraid, has been witnessed by me, while beholding the (young) queen.
-
- KING—O(maiden) endowed with *bimba*-like lips, courtesy is, indeed, the family vow of heroes. Hence, O long-eyed one, my life depends on the hope of your favour(14)
-
- Therefore, let this person in love with you since long, be favoured. (*Embraces her. Malavika avoids him*)
-
- KING— (*To himself*) Charming, indeed, is the advent of the influence of love on young maidens. For,—
-
- She trembles and obstructs my hand and fingers active in the work (of untying) her girdle ; she brings both her hands to the state of a covering of the breasts, while being embraced by force ; she turns away her face, with eyes endowed with (fair) eyelashes, as I raise it to kiss ; yet, even though under some pretext, she does accord to me the joy of the fulfilment of my longing. (15)
-
-(*Then enter Iravati and Nipunika*)
-
- IRAVATI— My girl, Nipunika, were you really informed by Chandrika that the revered Gautama was seen sleeping all alone in the verandah of the *Ocean-house* ?
-
- NIPUNIKA— If otherwise, how would I report it to your ladyship?
-
- IRA.— Then, we will go there alone to enquire my dear lord's friend, rescued from great peril ; and........
-
- NIPU.— Your ladyship's sentence looks incomplete.
-
- IRA.— And also to propitiate my husband in the portrait.
-
- NIPU— Now, how at all can the king be propitiated in such a way?
-
- IRA.— O silly girl, is not my husband the same as the one in the portrait, with his heart fixed on another ? This attempt (of mine) is only to make amends for my breach of civility (towards him).
-
- NIPU.— This way, this way, your ladyship.
-
-(*Both move along*)
-
- (*Entering*) MAID— May your Highness be victorious ! The queen sends word— "This is not the occasion to show my jealousy. Yet, in order to enhance (your) respect, to be sure, that Malavika, together with her friend,
-
-was put in shackles. If you approve of doing what is agreeable to my husband, I will do it. Tell me what is desirable to you."
-
- IRA.— Nagarika, convey to the queen— "Who am I to direct the queen ? Favour to me has been shown by punishing the servants. By the favour of which other person, is this person (myself) getting on ?
-
- MAID— I obey.(*Exit*)
-
- NIPU— (*Walking about and looking*) Here, at the doorway of the *Ocean-house* is the Revered Gautama, sleeping even as he is sitting, like a buil in the market-place.
-
- IRA.— Oh calamity ! I hope the evil effects of the poison is not still remaining.
-
- NIPU.— He appears with a bright facial expression. Moreover he has been treated by Dhruvasiddhi. Therefore, no evil can be feared in his case.
-
- VIDU.—(*Dreams*) O lady, Malavika !
-
- NIPU.— Did your ladyship hear ? By whom can this wretch be trusted in the accomplishment of his commission. Having filled his belly all along with the sweets offered by you at the time of pronouncing blessings, he now dreams of Malavika.
-
- VIDU.— May you surpass Iravati.
-
- NIPU.— This is a great villainy ! Concealing myself behind this pillar, I shall frighten this wretched Brahmin afraid of serpents, with this long stick crooked like a serpent.
-
- IRA.— The ungrateful fellow surely deserves the violence.
-
-(*Nipunika lets fall the long-stick on the Vidushaka*)
-
- VIDU.— (*Waking up suddenly*) Alas ! Alas ! a serpent has fallen on me !
-
- KING— (*Going near him at once*) Don't fear friend, don't fear.
-
- MALA.— (*Following him*) My lord, do not go out all atonce.‘A serpent’— he says.
-
- IRA .— O fie ! O fie ! My husband rushes this very way !
-
- VIDU.— (*With a loud laughter*) Oh, this is after all a stick ! But I thought that I had reaped the fruit of throwing the bame on a serpent, having myself made the appearance of a bite with the *Ketaki* thorn.
-
- (*Entering with a toss of the curtain*) BAKULA.— Let not my lord enter (this place). Here is something, with a crooked motion, like a serpent.
-
- IRA.— (*Advancing towards the king from behind the pillar*) Has the day-meeting of the couple, been blessed with the fulfilment of the desired end, without any obstacle ?
-
-(*Seeing Iravati, all are confused*)
-
- KING— My beloved, strange is this civility (towards me).
-
- IRA.— Bakulavalika, I congratulate you on the fulfilment of your promise in the matter of your mission as a go-between.
-
- BAKULA.— Be pleased, your Highness. The king is to be asked about what has been done by me. Does the lord (Indra) cease to pour rain, just because the frogs croak ?
-
- VIDU.— Do not say that. At the very sight of you, His Highness has forgotten your slighting even his prostration before you. And you, again, do not get reconciled even now.
-
- IRA.— Though angry, what can I do at present ?
-
- KING— Needless anger is incompatible with you; for,— O fair-bodied one ! When has your face become the
-
-object of anger, without cause ? Tell me, how at all will the night be with the moon's orb dimmed by the planet (Rahu) when it is not a full-moon day? (16)
-
- IRA.— ‘Needless (anger) !'—rightly observed by my husband. When our good-fortunes have been transferred to another, if I should still get angry, then I would surely become an object of ridicule.
-
- KING— You imagine things wrongly.But I, to be sure, do not see at all any cause for anger. For,—
-
- These two were set free by me, with the view that servants, although guilty, should not be made to undergo punishment on festive occasions; and they have come to me to bow down (in gratefulness). (17)
-
- IRA,— Nipunika, go and tell the queen that her partiality has been really seen to-day.
-
- NIPU.— I obey.(*Exit*)
-
- VIDU.— (*To himself*) Oh, a calamity has befallen us ! The house-pigeon, escaping from confinement, has fallen into the sight of a cat,
-
- NIPU.— (*Entering, aside*) Queen, Madhavika who was met by chance, said that it came to pass thus. (*Whispers*)
-
- IRA.— (*To herself*) It is clear. Surely this is a device employed by this base Brahmin, in this affair. (*Looking at the Vidushaka*) This is the policy of this minister of love-affairs.
-
- VIDU.— Lady, if I had studied even a single syllable of Policy, surely the king would have been sent away by me.
-
- KING— (*To himself*) How shall I liberate myself from this difficult situation ?
-
- (*Entering*) PORTRESS— My lord, Princess Vasulakshmi,
-
-while running after her (play) ball, was sorely frightened by a tawny monkey ; she is (now) reposing on the queen's lap, trembling like a tender leaf (caught) in a strong wind and does not regain composure even slightly.
-
- KING— Alas ! alas ! Timid is the nature of children.
-
- IRA.— (*With agitation*) Let my lord hurry up to comfort her, so that her affection caused by the fear may not increase.
-
- KING— Here I will bring her back to senses.
-
-(*Moves out in haste*)
-
- VIDU.— Good, Otawny ape, good ! Your own party has been (really) saved by you. (*Exit King and Vidushaka : so also Iravati, Nipunika and the Portress*).
-
-MALA.— Friend, my heart shudders at the thought of the queen. I do not know what experience will have to be gone through next.
-
-(*Behind the curtain*)
-
- Wonderful, wonderful ! Even before the completion of five days after the *dohada*, the golden Asoka is richly laden with buds. I will report this to the queen.
-
-(*Both are highly delighted on hearing this*)
-
- BAKULA.— Let my friend take heart. The queen is ever true to her promises.
-
- MALA.— Then I will follow the keeper of the pleasuregarden.
-
- BAKULA, —Yes; (do so).
-
-(*Exeunt ambo*)
-
-END OF THE FOURTH ACT.
-
-ACT V.
-
-(*Then enter the female gardener*)
-
- GARDENER— The construction of a dais round the golden Asoka tree, whose decoration is made, has been completed by me. I will just report to the queen that I have executed her order. (*Walking along*) Oh, Malavika is being pitied upon by Destiny ! The queen, who was so angry on her, will be with a favourable countenance on (hearing) this news of the blossoming of the Asoka tree. Where can the queen be ! (*Looking*) Oh ! here is the hump-back Sarasika, a trusted servant of the queen, coming out of the court-yard holding a box sealed with red lac. I will just ask him, (*Then enter the hump-back with his bands as described. Going near him*) O Sarasika, where are you going ?
-
- SARASIKA— Madhukarika, I am going to place in the hands of the preceptor, this one month's accumulated daily *dakshina* (gift) meant for the learned Brahmins.
-
- MADHU.— What is the reason?
-
- SARA.— Since the time Prince Vasumitra was employed to guard the sacificial horse as a General, the queen has been giving to persons worthy of gifts, *dakshina*amounting to one hundred gold coins, with the object of securing long life to him.
-
- MADHU.— Where is the queen, now ? What is she doing?
-
- SARA.— Seated on a seat in the Auspicious Hall, she is listening to the letter sent by her brother Virasena from the Vidarbha country, which is being read out to her by the clerks.
-
- MADHU.— What, again, is the news of the king of Vidarbha ?
-
- SARA.— It is reported that the Vidarbha-king has been subjugated by the king's victory-securing army headed by Virasena; his cousin Madhavasena has been released; and a messenger has been sent by him to the king, with a present of very costly jewels, vehicles and servants consisting mostly of accomplished girls.
-
- MADHU.— Go; attend to your duty. I too will look up the queen. (*Exeunt ambo*)
-
-END OF THE INTERLUDE
-
-(*Then enter a portress*)
-
- PORTRESS— I have been ordered by the queen engaged in honouring the Asoka tree, thus ;— 'Inform my lord that I wish to behold the wealth of flowers of the Asoka tree, together with my husband'. Therefore I shall just wait for the king who is now on the judgement-seat. (*She walks about)*
-
-(*Behind the curtain two Bards sing*)
-
- FIRST— Happily Your Majesty is triumphant over the heads of your foes, only by inflicting punishment.
-
- You, delighted in the sweet notes of the cuckoos, pass the spring in the gardens at the skirts of *Vidisa,*like the bodiless Cupid in bodily form. Obestower of boons! Mighty as you are, your enemy, along with the trees on the banks of the river Varada which have become the tie-posts for your all-conquering elephants, has bent down.(1)
-
-SECOND— The victory achieved over the Krathakaisikas by you two,— viz. (1) you, who have taken away the royal glory from the Vidarbha-king through your
-
-avenging army, and (2) Vishnu (Krishna), who carried away Rukmini from the Vidarbha-king (her father), by force with bis (four) arms stout like clubs ;–that victory has been made the subject of a panegyric by the godly poets out of their love for heroism. (2)
-
- PORTRESS— Here, this very way, comes the king, whose setting forth is indicated by the shouts of victory. I, too, just moving away from his direct path, will remain concealed behind the pillar. (*Stands aside*)
-
- (*Entering with his friend*) KING— When I think of my beloved, with whom union is not easy, and when I hear of the Vidarbha-king subdued by my forces, my mind, like a lotus in the sun beaten down by showers of rain, is distressed and expriences joy at the same time. (3)
-
- VIDU.— As I fore-see, your Highness will be extremely happy.
-
- KING— How?
-
- VIDU.— To-day, it is reported, the learned Kausiki was told by the queen thus;— " Revered lady, as you are proud of (your skill in) decorating, display on the person of Malavika, the wedding robes." Malavika has been specially decked by her. Her ladyship may fulfil even your desire,
-
- KING— Friend, in view of the previous conduct of this Dharini in conformity with my wishes, this is quite probable.
-
- PORTRESS— (*Going near*) Hail my lord ! The queen sends word ‘May my endeavour be rendered fruitful by beholding the blossoms of the golden Asoka, together with me.'
-
- KING— She is *there* alone, I believe.
-
- PORTRESS— Yes. Having dismissed the ladies of the harem pleased at the honour done to them in a fitting manner, she, in the company of her own servants headed by Malavika, is awaiting Your Majesty.
-
- KING— (*Joyfully having looked at the Vidushaka)* Jayasena, lead the way.
-
- PORTRESS— May Your Majesty come along. (*Moves on*)
-
- VIDU.— (*Seeing*) Ofriend, the spring appears a little advanced in youth, in the pleasure-garden.
-
- KING— It is just as you say—
-
- The youth of the season, which is tending towards ripening and in which the Kurabaka flowers are scattered here and there and the mango-trees are almost breaking down with a load (net-work) of fruits, makes the mind entertain a longing. (4)
-
- VIDU—. (*Walking forth*) Oh, here is that golden Asoka with clusters of flowers, appearing as if decked in robes. May Your Highness behold,
-
- KING— Rightly, indeed, this (tree) has delayed in yielding flowers, as it exhibits unrivalled splendour now. See—
-
- It looks as though the flowers of all the Asoka trees that first displayed the splendour of Spring, have been transferred to this tree (now), as its longing has been fulfilled. (5)
-
- VIDU,— Just so. Be of good cheer, Sir. Although we are near, Dharini allows Malavika to remain by her side.
-
- KING— (*With joy*) Friend, see—
-
- Here is the queen waited upon by my beloved, rising up to receive me out of civility, just likeEarth
-
-attended upon by the Lakshmi of king-ship who has forgotten (to hold) the lotus in her hand.(6)
-
-(*Then enter Dharini, Malavika, Parivrajika and the Attendants according to their rank*)
-
- MALA.— (*To herself*) I know the purpose of my wedding dress; yet, my heart trembles like (a drop of) water lying on a lotus leafMoreover, even my left eye throbs again and again.
-
- VIDU.— Friend, Malavika looks supremely beautiful in her marriage attire.
-
- KING— I see her. Here,
-
- Wearing a silk-garment which does not trail behind very far, she appears to me (adorned) with her many ornaments, like a night in the Chaitra month with the moon-light about to make its appearance and (adorned) with the constellation of stars free from mist.(7)
-
- QUEEN— (*Going near*) Victory to my husband !
-
- VIDU.— May your ladyship prosper !
-
- PARI.— Victory to the king !
-
- KING— Revered lady, I salute you.
-
- PARI.— May you obtain your desired object !
-
- QUEEN— (*With a smile*) My lord, this Asoka has been fixed by us as a rendezvous for you in the company of young consorts.
-
- VIDU.— Oh, you are favoured !
-
- KING— (*Shyly walking round the Asoka*) This Asoka is surely worthy of being made the recipient of such honours at the hands of the queen, since it shows its regard for your efforts through its blossoms, with indifference to the command of Vernal Beauty.(8)
-
- VIDU.— Sir, being steady, look at this, who is youthful.
-
- QUEEN— Whom ?
-
- VIDU,— Your ladyship, (I mean) the splendour of the blossoms of the golden Asoka tree. (All sit down)
-
- KING— (*Looking at Malavika, to himself*) Separation in presence, is really painful !
-
- I am like the chakravaka bird; mybeloved is like its mate; and Dharini, who has not permitted our union, is like the night to us, (9)
-
- (*Entering*) CHAMBERLAIN— Victory to the king ! My lord, the minister begs to say— "Two maidens accomplished in art, who were (included) among the presents sent from the Vidarbha country, were not introduced to Your Majesty, as they were physically wearied by the fatigue of the journey. Now they are in a fit condition to wait on Your Majesty. Therefore Your Majesty should be pleased to issue orders (with regard to them)."
-
- KING— Introduce them.
-
- CHAMBER.— As my lord bids. (*Exit and re-enter with both of them*) This way, this way, ladies.
-
- FIRST— (*Aside*) Dear Madanika, my heart feels delighted as I enter this new royal house.
-
- SECOND— Jyotsnika, there is in fact a proverbial saying that ’the state of the heart fore-tells the forth-coming happiness or misery."
-
- FIRST— Let that become true now.
-
- CHAMBER.— Here is His Majesty with the queen; you may both go near. (*Both move near. Malavika and the Parivrajika look at each other, on seeing the maids)*
-
- BOTH— (*Bowing down*) Victory to the king ! Victory to the queen! (*Both are seated by the king's orders*)
-
- KING— In which art are both of you trained ?
-
- BOTH— My lord, we are versed in music.
-
- KING— Queen, you take one of these two.
-
- QUEEN— Malavika, look this side. Which of these do you like as a companion in singing ?
-
- BOTH— (*Beholding Malavika*) Oh Princess ! (*Bowing down*) Hail, hail Princess ! (*They both shed tears along with her. All look at them in amazement*)
-
- KING— Who are you two ? And who is this lady ?
-
- BOTH— My lord, she is our princess.
-
- KING— bHow?
-
- BOTH— Your Majesty may listen. She is Malavika by name, the younger sister of Prince Madhavasena who was released from prison by Your Majesty after subduing the Vidarbha-king, through your victorysecuring forces.
-
- QUEEN— How ? She is then a princess ! Sandal-wood has been mis-used by me for slippers.
-
- KING— Then, how did her ladyship come to this state ?
-
- MALA,— (*Sighing to herself*) By the decree of fate !
-
- SECOND— Your Majesty may listen. When Prince Madhavasena fell into the hands of his kins-folk, this (princess) was secretly brought away by his minister, the noble Sumati, leaving behind attendants like us.
-
- KING— This was heard by me before. What next ?
-
- SECOND— My lord, I do not know beyond that.
-
- PARI.— Beyond that, I, unfortunate woman, will relate.
-
- BOTH— Princess, the voice appears to be of the Revered Kausiki. I believe, it is she only.
-
- MALA.— Quite so.
-
- BOTH— The Revered Kausiki, dressed as an ascetic, is recognised with difficulty. Divine lady, salutations to you !
-
- PARI.— May good things befall you both !
-
- KING— How ? Is this a group of the friends of Your Reverence?
-
- PARI.— It is so.
-
- VIDU.— Then, let Your Reverence relate to us fully the account of her lady-ship (Malavika).
-
- PARI.— (*With emotion*) Please listen. Know Sumati, the minister of Madhavasena, as my elder brother.
-
- KING— I see. Then, then?
-
- PARI.— He, having taken away together with me this princess whose brother was brought to such a state, joined a gang of travellers proceeding to Vidisa, with the desire for an alliance with you.
-
- KING— Then?
-
- PARI.— And that troop of merchants encamped in a forest, at the end of the day's journey.
-
- KING— Then?
-
- PARI.— Then, what else?
-
- There appeared a host of way-layers, shouting and irresistible even at the outset, with bow in hand, with their chests (between the arms) bound with quiverstraps and wearing a plumage of peacock-feathers that hung down to their heels.(10)
-
-(*Malavika shows fear*)
-
- VIDU.— Good lady, do not fear ! Her ladyship is just relating what is past.
-
- KING— Then, next?
-
- PARI.— Then the merchant-warriors, who fought for a while, were put to flight by the robbers.
-
- KING— Alas ! A more painful account has to be heard next.
-
- PARI.— Then Sumati,—
-
- Desirous of rescuing this princess who was frightened at the attack by the strangers, in that hard circumstance, paid the debt he owed to his master with his dear life, devoted as he was to his master. (11)
-
- FIRST— Oh, Sumati died !
-
- SECOND— That is why, *this* has become the state of the Princess (*Parivrajika sheds tears*)
-
- KING— Divine lady, such is the end of the worldly life of (all) beings with transient bodies. Your honourable brother, who has proved worthy of the salt of his master, is not to be lamented for. What next ?
-
-PARI.— Then, before I, who had fainted, regained consciousness, this (Malavika) had become invisible,
-
- KING— Your Reverence has gone through a great hardship !
-
- PARI.— Then having cremated 'my brothers's body, I, with renewed grief of widow-hood, came into your country and put on these two reddish robes.
-
- KING— This course is proper for a virtuous person. Then?
-
- PARI.— This (Malavika) went into the hands of Virasena from the foresters and from Virasena to the queen; and later, she was seen by me, when I obtained admission into the queen's apartment. That is the end of the tale,
-
- MALA.— (*To herself*) I wonder what the king will say now ?
-
- KING— Oh, how calamities bring on humiliation ! For,—
-
- This (princess), worthy of the title 'Queen' is being used for servitude, just as a silk-garment is for the purpose of the cloth to be worn while bathing. (12)
-
- QUEEN— Divine lady, a mistake has been committed by you in not telling me about the high birth of Malavika.
-
- PARI.— Heaven forbid ! With reason enough, I assumed hard-heartedness.
-
- QUEEN— What is that reason ?
-
- PARI.— When her father was living, she was fore-told in my presence, by a pious and unfallible fortune-teller, who had come on a pilgrim's tour, that after undergoing servitude for just a year, she will be married to a suitable husband. Seeing that that unfailing prophesy was being fulfilled by her servitude at your feer, I think I have done well in waiting for the (end of the prescribed) period of time.
-
- KING— Your waiting is quite justified.
-
- CHAMBER.— My lord, the other narration prevented me. The minister begs to say— "The matter relating to Vidarbha, has been gone through. I Just wish to know the view of Your Highness”.
-
-KING— Maudgalya, I wish now to establish a divided Government between those honourable cousins Yajnasena and Madhavasena.
-
- Let those two (cousins) govern separately, the northern and the southern banks of the Varada river; just as the cool-rayed (moon) and the hot-rayed (sun), dividing between themselves, rule over the night and the day. (13)
-
- CHAMBER.— My lord, I shall report this to the council of ministers. (*The king consents by the motion of his fingers, Exit Chamberlain*)
-
- FIRST— (*Aside*) Princess, it is a happy thing that the prince gets established in half the kingdom.
-
- MALA.— That he has been rescued from a perilous situation is in the first place to be considered a great thing.
-
- (*Entering*) CHAMBER.— Victory to Your Highness ! My lord, the minister submits—‘Your Highness's idea is a
-
-happy one. The opinion of the council of ministers also is the same. For,—
-
- Just as two horses of a chariot bearing the yoke that is equally divided and having no affectedness being mutually restrained, remain under the control of the driver ; so also those two kings, bearing royalty divided between them, and having no prejudices being mutually restrained remain under the control of Your Highness, their over-lord. (14)
-
- KING— Then, say to the council of ministers that a letter should be sent to the General Virasena to do so.
-
- CHAMBER.— As my lord bids. (*Exit; re-enter with a letter together with a present*) Your Majesty's order has been carried out. Here has come a letter together with a present of an upper-garment from Pushpamitra, the General of Your Highness. Your Majesty may just look into it. (*The king rising up, receives with civility the letter and the present and gives it to an attendant. He jesticulates opening it.*)
-
- QUEEN— (*To herself*) Oh, my mind is drawn towards that very thing. I will just hear, after the welfare of the elders, the news of Vasumitra. My dear boy has been employed on a very terrible task, indeed, by the General,
-
- KING— (*Sitting and taking the letter in a polite way, reads*) “Hail to you ! From the sacrificial ground the Commander-in-chief Pushpamitra informs his long-lived son Agnimitra who is in Vidisa, after embracing him affectionately, thus— 'Be it known to you. The horse, which was let loose unbridled by me. consecrated for the Rajasuya sacrifice after ordering as its protector Vasumitra surrounned by hundreds of Princess,
-
-with a period of one year being fixed for it to return,—. that horse, while moving on the Southern bank of the Indus river, was attacked by a Yavana Cavalry. Thereupon, came up a fierce fight between the two.
-
-(*The Queen shows dejection*)
-
- KING— How is it, such a thing happened ! (*Reads the rest of the letter*)
-
- Then my noble horse that was being carried off by force was rescued by that bow-man Vasumitra after defeating the enemies.(15)
-
- QUEEN— My heart has been comforted by this.
-
- KING— (*Reads further the rest of the letter*) I will now offer the sacrifice, the horse being brought back (to me), just as Amsumat, the grand son of Sagara, did (formerly). Therefore, you, with mind free from anger, should come together with my daughters-in-law without delay, to be present at the sacrifice.
-
- PARI.— Icongratulate you couple, on the victory of your son.
-
- You have been placed at the head of the wives of heroes, by your husband ; and this title‘Mother of a hero' has come to you from your son.(16)
-
- QUEEN— Divine lady, I am much pleased that my dear boy has followed his father.
-
-KING— Maudgalya, the young elephant has imitated the lord of tuskers,—is it not ?
-
-CHAMBER.— My lord, this Prince,―
-
- Whose lofty and irresistible father *you* are, like the thigh-born one is of the fire that consumes water, does not produce surprise to our mind by such display of heroism. (17)
-
- KING— Maudgalya, let all prisoners inclusive of the brother-in-law of Yajnasena, be set free-
-
- CHAMBER.— As my lord bids. (*Exit*)
-
- QUEEN— Jayasena, go. Convey the news of my son to the ladies in the harem such as Iravati.
-
-(*The portress starts*)
-
- QUEEN— Just come here.
-
- PORTRESS— Here I am.
-
- QUEEN— (*Aside*) After reminding Iravati of my promise to Malavika while appointing her for offering *dohada* to to the Asoka and after informing her also of the high birth of this (Malavika), request her, on my account, that I should not be made to fall off from truth by her.
-
- PORTRESS— As the queen bids. (*Exit, re-enter*) Your Majesty, I have become a (veritable) trunk (to hold) the ornaments of the harem-ladies (presented to me) in their joy at the victory of (your) son.
-
- QUEEN— Where is any wonder in this ? This good event is, indeed, common to them as also to me.
-
- PORTRESS— (*Aside*) Queen, Iravati again begs to say— ‘This is becoming of the all-powerful queen. It is not proper to change your promise, already resolved upon.
-
- QUEEN— Divine lady, permitted by you, I wish to present to my husband, this Malavika as originally intended by the noble Sumati,
-
- PARI.— Even now, you have every authority over her.
-
- QUEEN— (*Taking Malavika by the hand*) Let my husband accept this present befittingthe communication of the pleasant news, (*The king shows bashfulness*)
-
- QUEEN— (*With a smile*) Does my lord reject (this) ?
-
- VIDU.— Lady, this is the custom of the world. Every
-
-new bridegroom is affected by bashfulness. (*The king looks at the Vidushaka*).
-
- VIDU.— Then does Your. Highness wish to accept Malavika after the title of 'Queen' is bestowed on her as a mark of great affection, by the queen herself ?
-
- QUEEN—The title ‘Queen' is bestowed on this princess by her very high birth. Why a repetition?
-
- PARI.— No, not so.
-
- A jewel, although produced in a mine and honoured just because it belongs to the class of jems, yet deserves to be united with gold (by a person) to shine well, O blessed lady!
-
- QUEEN— (*Remembering*) Your Divinity should forgive me. Because of the talk about the happy event, the proper procedure has been over-looked. Jayasena, just go ; bring a pair of silken veils.
-
- PORTRESS— As the queen bids.(*Exit, re-enter with a veil)* Queen, here it is.
-
- QUEEN— (*Veiling Malavika*) My lord, may you accept her, now.
-
- KING— At your behest, I interest myself in this. (*Aside*) Thank god ! She has been accepted.
-
- VIDU.— How favourable is the queen !
-
-(*The queen looks at the attendants*)
-
- ATTENDANTS— (*Going near Malavika*) Hail to the queen !
-
-(*The queen looks at the Parivrajika*)
-
- PARI.— This is not surprising in you.
-
- Virtuous wives, loving their husbands, oblige them even by (allowing) a rival wife, For, the rivers flowing into the ocean lead along with themselves the water of other rivers also into the sea. (19)
-
-(*Entering)* NIPUNIKA— Victory to my lord ! Iravati begs to say— 'On that occasion, when I offended Your Majesty by overstepping all civility, I myself behaved in a way favourable to you. At present, by Your Highness gratified of your desire, I should be honoured with just a favourable disposition?
-
- QUEEN— Nipunika, my lord will surely bear in mind her service.
-
- NIPU.— Thank you.
-
- PARI.— My lord, let me go to greet Madhavasena whose object is fulfilled by this alliance with you.
-
- QUEEN— It is not right on the part of Your Reverence to leave us.
-
- KING— Divine lady, I will mention your compliments also to that worthy person in my letters to him.
-
- PARI.— On account of the affection of you both, I am not independent to do anything.
-
- QUEEN— My lord, what other agreeable service shall I do for you?
-
- KING— Be you, Oqueen ! ever with a favourable and pleasing countenance towards me. Just this much is to be cherished in (my) mind.
-
- May this also come to pass
-
- (*Epilogue*) In the case of the subjects, no wish such as acquiring of property etc. shall remain un-accomplished, while Agnimitra is their ruler.(20)
-
-(*Exeunt ambo*)
-
-END OF THE FIFTH ACT.
-
-Here Ends the Malavikagnimitra
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+BOMBAY: PRINTED AT THE EDUCATION SOCIETY’S PRESS, BYCULLA.
 
 \]

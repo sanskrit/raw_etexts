@@ -3,10 +3,9 @@ title = "अङ्गारकस्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2838"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2Mzk5NTMzNzM0Mjcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अङ्गारकस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjM2Mzk5NTMzNzM0Mjcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -52,7 +51,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2Mzk5NTMzNzM
 
 सर्वा नश्यति पीडा च तस्य ग्रहकृता ध्रुवम् ॥ ७॥  
 ॥  
-इति श्रीस्कन्दपुराणे अङ्गारकस्तोत्रं संपूर्णम् ॥
+इति श्रीस्कन्दपुराणे अङ्गारकस्तोत्रं सम्पूर्णम् ॥
 
 
 

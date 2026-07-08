@@ -3,10 +3,9 @@ title = "आश्रयाष्टकम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2871"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY1Mzk5MTEyNTA2NTcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[आश्रयाष्टकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjY1Mzk5MTEyNTA2NTcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -15,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY1Mzk5MTEyNTA
 
 
 
-आश्रयाष्टकम्
+आश्रयाष्टकं
 
 
 
@@ -31,7 +30,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY1Mzk5MTEyNTA
 
 प्रणतमादिगुरुं सुरशिल्पकम् ।
 
-प्रणवरञ्जित मञ्जुलतल्पकं  
+प्रणवरञ्जित मञ्जुळतल्पकं  
 हरिहरात्मजमीश्वरमाश्रये ॥ २ ॥
 
 अरिसरोरुहशङ्खगदाधरं

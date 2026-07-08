@@ -1,67 +1,67 @@
 +++
 title = "गोदवर्मयशोभूषणम्"
 author = "अरुणगिरिः"
-publisher = "युनिवर्सिटि मानुस्क्रिप्ट्स् लैब्ररि त्रिवाण्ड्रम्"
+publisher = "युनिवर्सिटि-मानुस्क्रिप्ट्स्-लैब्ररि-त्रिवाण्ड्रम्"
 "publish year" = "1810"
 domain = "साहित्यम्"
 sub-domain = "अलङ्कारशास्त्रम्"
 pages = "40"
 language = "संस्कृतम्"
-printer = "गवर्नमेन्ट् प्रेस् त्रवन्कोर्"
+printer = "गवर्नमेण्ट् प्रेस् त्रवन्कोर्"
 "serial no." = "Ebharati-5961"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1NzcwMTA2MzMyMjc1&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गोदवर्मयशोभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1NzcwMTA2MzMyMjc1&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 
-# Please dont Edit this page (Blank Page)
+# 
+
+
 
 [TABLE]
+
+
 
 **INTRODUCTION**
 
  *Godavarmayaśobhūṣana* of Arunagirikavi is a short work dealing with the arthālankāras, modelled on the *arthālaṅkāraprakaraṇa* of Vidyānātha's *Pratāparudrayaśobhūṣana*, the illustrative verses being composed in praise of King Godavarma of Bimbali.  
 
- The author Arunagiri, we understand from the colophon to the work, was a Brahmin hailing from Coladeśa, and was the son of one Śeṣādri and disciple of Venkatādri, and belonged to the Kaundinyagotra. There are three Arunagirisknown to students of the Sanskrit literature of South India. Two of them were the protéges of Vijayanagar kings; Dindimakavisārvabhauma Arunagirinātha I, the protégé of Devarāya ॥ (A.D. 1422—1448) and the author of *Somavallīyogānanda-prahasana*[^1], and Kumāradindima Arunāgirinātha ॥, the protége of Krṣnadevarāya (A.D. 1509—1530) and the author of *Vīrabhadravijaya*[^2].The third Arunagiri is Arunagirinātha *alias* Arunācalanātha, the author of the commentaries *Pṛakāśikā* on Kālidāsa's *Raghuvaṁśa* and *Kumārasambhava*[^3]. But none of these Arunagiriis can be identified with the author of this *Yaśobhūṣana*, for the details supplied by the author regarding himself do not apply to any of these. The Ḍinḍima Arunagiriis belonged to the Gautamagotra[^4], and also lived before our author[^5], and the commentator Arunagiri was the
+ The author Arunagiri, we understand from the colophon to the work, was a Brahmin hailing from Coladeśa, and was the son of one Śeṣādri and disciple of Venkatādri, and belonged to the Kaundinyagotra. There are three Arunagiris known to students of the Sanskrit literature of South India. Two of them were the protéges of Vijayanagar kings; Dindimakavisārvabhauma Arunagirinātha I, the protégé of Devarāya ॥ (A.D. 1422—1448) and the author of *Somavallīyogānanda-prahasana*[^1], and Kumāradindima Arunāgirinātha ॥, the protége of Krṣnadevarāya (A.D. 1509—1530) and the author of *Vīrabhadravijaya*[^2]. The third Arunagiri is Arunagirinātha *alias* Arunācalanātha, the author of the commentaries *Pṛakāśikā* on Kālidāsa's *Raghuvaṁśa* and *Kumārasambhava*[^3]. But none of these Arunagiri is can be identified with the author of this *Yaśobhūṣana*, for the details supplied by the author regarding himself do not apply to any of these. The Ḍinḍima Arunagiri is belonged to the Gautamagotra[^4], and also lived before our author[^5], and the commentator Arunagiri was the son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikavi is different from these. Nothing more is known about him except that he is also the author of a stotra *Gaurīśataka*. from which he quotes a śloka in this work[^8], but no manuscript of this work seems to have been known.
 
-[^1]: "M. Krishnamachariar, History of Classical Sanskrit Literature. p. 222"
+[^1]: # "M. Krishnamachariar, History of Classical Sanskrit Literature. p. 222"
 
-[^2]: "Ibid p.223"
+[^2]: # "Ibid p.223"
 
-[^3]: "The commentary on the first six cantos of Raghuvamśa has been published by the Mangalodayam Press, Trichur, and that on Kumārasambhava in the Trivandrum Sanskrit Series, Nos 27, 32 and 36"
+[^3]: # "The commentary on the first six cantos of Raghuvamśa has been published by the Mangalodayam Press, Trichur, and that on Kumārasambhava in the Trivandrum Sanskrit Series, Nos 27, 32 and 36"
 
-[^4]: "M Krishnamachariar, op cit, p 221"
+[^4]: # "M Krishnamachariar, op cit, p 221"
 
-[^5]: "Vide infra, p iv"
+[^5]: # "Vide infra, p iv"
 
-son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikavi is different from these. Nothing more is known about him except that he is also the author of a stotra *Gaurīśataka*. from which he quotes a ślokain this work[^8], but no manuscript of this work seems to have been known.
+[^6]: # "Cf. Raghuvamsa, Trichur Edn., p 87. इति रामदत्तसूनुना अरुणगिरिनाथेन विरचितायां रघुवंशप्रकाशिकायां प्रथमसर्गः।"
 
-[^6]: "Cf. Raghuvamsa, Trichur Edn., p 87.  इति रामदत्तसूनुना अरुणगिरिनाथेन विरचितायां रघुवंशप्रकाशिकायां प्रथमसर्गः।"
+[^7]: # "Cf अरुणाचलनाथेन द्विजपादाब्जसेविना। शिवदासापराख्येन मया टीका वितन्यते॥(ibid,p 8.
 
-[^7]: "Cf अरुणाचलनाथेन द्विजपादाब्जसेविना। शिवदासापराख्येन मया टीका वितन्यते॥(ibid,p 8.
+[^8]: # "Vide infra, p18"
 
-[^8]: "Videinfra, p18"
+ Godavarma eulogised in this work was a king of Uttarabimbali[^9], राजग्नुत्तरबिम्बलेश etc., (p 45), प्रख्यातकीर्त्युत्तरबिम्बलेश etc., (p. 46), etc."), that is Vatakkumkūr, a small principality in medieval Kerala, annexed to Travancore by Mārtāṇdavarma Mahārāja in A.D. 1754 Though small, Vatakkumkūr was a powerful and prosperous country during the days of the Portuguese and the Dutch in Malabar, and was one of the four subordinate kingdoms under Cochin, the other three being Porakad, Parur and Alangad[^10] and South-Vempoli (Tekkumkur). Vide Travancore Archaeological Series, Vol. II, p.141"). In Dutch records it is mentioned as Berkenkoor, and was wellknown among the foreigners for its abundance of pepper. A large portion of the modern Kottayam Division in Travancore seems to have been under the sway of Vaṭakkumkūr in those days. As for the identity of the king Godavarma. we find a Godavarma of Bimbali eulogised by Vāsudeva in his *Bhṛṅgasandeśa* in the verse[^11]:
 
- Godavarma eulogised in this work was a king of Uttarabimbali[^9],राजग्नुत्तरबिम्बलेश etc., (p 45), प्रख्यातकीर्त्युत्तरबिम्बलेश etc., (p. 46), etc."), that is Vatakkumkūr, a small principality in medieval Kerala, annexed to Travancore by Mārtāṇdavarma Mahārāja in A.D. 1754 Though small, Vatakkumkūr was a powerful and prosperous country during the days of the Portuguese and the Dutch in Malabar, and was one of the four subordinate kingdoms under Cochin, the other three being Porakad, Parur and Alangad[^10] and South-Vempoli (Tekkumkur). Vide Travancore Archaeological Series, Vol. II, p.141"). In Dutch records it is mentioned as Berkenkoor, and was wellknown among the foreigners for its abundance of pepper. A large portion of the modern Kottayam Division in Travancore seems to have been under the sway of Vaṭakkumkūr in those days. As for the identity of the king Godavarma. we find a Godavarma of Bimbali eulogised by Vāsudeva in his *Bhṛṅgasandeśa* in the verse[^11]:
+[^9]: # "Vide infra: उत्तरबिम्बलधरणीवलशासन etc., (p. 42
 
-[^9]: "Vide infra:उत्तरबिम्बलधरणीवलशासन etc., (p. 42
+[^10]: # "Vide Patappattu, edited by Mahakavi Rao Sahib Ulloor S. Parameswara Aiyar, Sri Mulam Malayalam Series, Trivandrum, No. 5: p. iv. Bimbali is the Sanskritised form of Vempoli, by which name the country was known before it was bifurcated into North-Vempoli (Vațakkumkur
 
-[^10]: "Vide Patappattu, edited by Mahakavi Rao Sahib Ulloor S. Parameswara Aiyar, Sri Mulam Malayalam Series, Trivandrum, No. 5: p. iv. Bimbali is the Sanskritised form of Vempoli, by which name the country was known before it was bifurcated into North-Vempoli (Vațakkumkur
+[^11]: # "Bhrigasandesa, Trivandrum Sanskrit Series, No. 128, p. 8."
 
-[^11]: "Bhrigasandesa, Trivandrum Sanskrit Series, No. 128, p. 8."
-
-इत्थं नत्वा गिरिवरसुतां गोदवर्मक्षितीन्दो-
-
-रग्रेसम्भावयपुरवरं प्रस्फुरद्धेमसालम्।
+इत्थं नत्वा गिरिवरसुतां गोदवर्मक्षितीन्दो-  
+रग्रे सम्भावय पुरवरं प्रस्फुरद्धेमसालम्।
 
 यद्युद्धेषु त्रुटितविमतस्तोमकण्ठान्त्रदाम्  
 प्रच्छन्नाशेष्वसिलतिकया दिद्युते विद्युतेव॥
 
- and by Melputtūr Nārāyana Bhattatiriin the following verses[^12]:
+ and by Melputtūr Nārāyana Bhattatiri in the following verses[^12]:
 
-[^12]: "Palace Library, Trivandrum, Ms. No. 1658 N,"
+[^12]: # "Palace Library, Trivandrum, Ms. No. 1658 N,"
 
 त्वत्कीर्तिप्रसरे नितान्तधवले प्रौढां त्रिलोकीवधूं  
 द्रागालिङ्गति विम्बलीश ! किमिव ब्रूमस्तदीयां दशाम्।  
@@ -74,16 +74,16 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 न्नरेन्द्र(व)त्सौवपदे करोषि॥२॥
 
 कृपाणीयं (वि)म्बल्यधिप ! रणमत्तारिपटली-  
-गलोत्कृ(त्ति. ? त्तिं)कत्री रुधिरकणसिक्तीतव भुजे।  
+गलोत्कृ(त्ति. ? त्तिं)कत्री रुधिरकणसिक्ती तव भुजे।  
 जगद्याथाकामकिवलनकणेघातकलना-  
-रसार्ताकार्तान्तीं परमनुसरसर्ति रसनाम्॥३॥
+रसार्ता कार्तान्तीं परमनुसरसर्ति रसनाम्॥३॥
 
 कालाम्भोदालिकेशी कुलगिरिकुचभाराञ्चितेयं त्रिलोकी-  
-विम्वोष्ठींविम्बलीश ! त्वदुपगमसमुत्कण्ठया ताम्यतीव।  
+विम्वोष्ठीं विम्बलीश ! त्वदुपगमसमुत्कण्ठया ताम्यतीव।  
 अन्तस्सन्तापभारं कलयति यदियं त्वत्प्रतापोष्मरूपं  
 कीर्तिछायापदेशाद्वहति च नितरां सर्वतः पाण्डिमानम्॥४॥
 
-त्वद्धाम्ना काञ्चनादौद्रवति सुरगणाः प्रापुरार्ता विरिञ्चं  
+त्वद्धाम्ना काञ्चनादौ द्रवति सुरगणाः प्रापुरार्ता विरिञ्चं  
 सोऽयं प्रागेव शम्भुं शरणमुपगतः पङ्कजम्लानिखिन्नः।  
 शम्भुः प्रागेव यातो रजतगिरिविनाशाकुलः पद्मनाभं  
 सोऽपि क्षीराब्धिशोषादवशमतिरगात्त्वन्मनीषां विशालाम्॥५॥
@@ -94,155 +94,163 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 विदलितरिपुमर्भा गोदवर्मा सुकर्मा॥६॥
 
 त्वय्युद्दामप्ररूढप्रणयरसमयं साधु पाथेयजातं  
-संगृह्णन्तो दिगन्तप्रसर(ण)निपुणैस्त्वद्यशोभिस्सहायैः।  
+सङ्गृह्णन्तो दिगन्तप्रसर(ण)निपुणैस्त्वद्यशोभिस्सहायैः।  
 त्वत्संवासोत्सवानां चिग्मननुभवात् खेदयन्तोऽपि राजन् !  
 सद्यस्सम्प्राप्तिसङ्कल्पनकुतुकवशादाश्वसन्तो ब्रजामः॥७॥
 
- The qualities attributed to Godavarma by these two poets, especially his unique swordsmanship, which stands out as his most prominent characteristic, well apply to the Godavarma described by Arunagiri[^13], तवबाहुभुजङ्ग etc, (p. 13), उद्दण्डबाहुदण्डाग्रे etc. (p. 31), कण्ठं द्विषा etc. (p. 36), कराग्रजाग्रत् etc. (p. 37), and कराला कापि etc. (p. 40) where hisswordsmanship is particularly emphasised."). Therefore it is likely that the Godavarma of Arunagiri is the same as the king extolled by Vāsudeva and Bhaṭtatiri. If this identification is correct², Arunagiri and hispatron can be placed in the latter half of the 16th and the formerhalf of the 17th centuries A.D. when Bhaṭtatiri and Vasudevalived[^14]").
+ The qualities attributed to Godavarma by these two poets, especially his unique swordsmanship, which stands out as his most prominent characteristic, well apply to the Godavarma described by Arunagiri[^13], तव बाहुभुजङ्ग etc, (p. 13), उद्दण्डबाहुदण्डाग्रे etc. (p. 31), कण्ठं द्विषा etc. (p. 36), कराग्रजाग्रत् etc. (p. 37), and कराला कापि etc. (p. 40) where his swordsmanship is particularly emphasised."). Therefore it is likely that the Godavarma of Arunagiri is the same as the king extolled by Vāsudeva and Bhaṭtatiri. If this identification is correct², Arunagiri and his patron can be placed in the latter half of the 16th and the former half of the 17th centuries A.D. when Bhaṭtatiri and Vasudeva lived[^14]").
 
-[^13]: "Vide, for instance the slokasश्रीमद्विम्बलetc. (p. 11
+[^13]: # "Vide, for instance the slokas श्रीमद्विम्बल etc. (p. 11
 
-[^14]: "videIntroduction to theMatsyāvatāra-prabandha in I. 2 of this Journal, where the date of Bhaṭṭatirias 1560—1666 A.D.Vasudeva was acontemporary ofBhaṭṭatiri, as he mentions him in the Bhrngasandeśa(p. 17
+[^14]: # "vide Introduction to the Matsyāvatāra-prabandha in I. 2 of this Journal, where the date of Bhaṭṭatiri as 1560—1666 A.D. Vasudeva was a contemporary of Bhaṭṭatiri, as he mentions him in the Bhrngasandeśa (p. 17
 
- The importance of *Godavarmayaśobhūṣaṇa* consists, not in its historical information, of which there is little, but in its being a manual on the *arthālaṅkāras* generally recognised by Sanskrit rhetoricians, and in its fairly good poetry. In this respect it is very much like the Pratāparudrīya, which, as alreadymentioned, it follows in the main. But the following differencesmay, however, be noted between the two works:
+ The importance of *Godavarmayaśobhūṣaṇa* consists, not in its historical information, of which there is little, but in its being a manual on the *arthālaṅkāras* generally recognised by Sanskrit rhetoricians, and in its fairly good poetry. In this respect it is very much like the Pratāparudrīya, which, as already mentioned, it follows in the main. But the following differences may, however, be noted between the two works:
 
- Firstly, Godavarmayaśobhūṣaṇa mentions threealañkāras more than *Pratāparudrīya,* namely*parikaraṅkura*, *tatkara* and *praśnottara*. Of these
+ Firstly, Godavarmayaśobhūṣaṇa mentions three alañkāras more than *Pratāparudrīya,* namely* parikaraṅkura*, *tatkara* and *praśnottara*. Of these
 
-  -------------------------------------------------------
+**——————————**
 
-2. Our identification of Godavarmais only conjectural, as there are certain literary records in Malayalam which speak of a Godavarma of Bimbali (of. Mahakavi, Rao Sahib Ullur S. Paramaswara Aiyar: *Sahityaparisat Trsimāsikam,* Ernakulam, Vol ।, pp. 138–39) and also certainPortuguese records which speak of a king of the same name inhigh terms (of. M. R. Balakrishna Warrier, *Prabandhamañjari* Pt. II, Trivandrum, pp 156-57), Ithas not been possible to identify these Godavarmas.
+2\. Our identification of Godavarma is only conjectural, as there are certain literary records in Malayalam which speak of a Godavarma of Bimbali (of. Mahakavi, Rao Sahib Ullur S. Paramaswara Aiyar: *Sahityaparisat Trsimāsikam,* Ernakulam, Vol ।, pp. 138–39) and also certain Portuguese records which speak of a king of the same name in high terms (of. M. R. Balakrishna Warrier, *Prabandhamañjari* Pt. II, Trivandrum, pp 156-57), It has not been possible to identify these Godavarmas. *parikarāṅkura* is seen in Appayya Dīkṣita's *Kuvalayānanda,* but the other two are not regarded as independent alaṅkāras in any of the common works on the subject *Tathara* is the same as what Vidyānātha illustrates as another variety of *samuccaya*, and it is noteworthy that Aruṇagiri himself calls it only as a variety of *samuccaya*[^15], though he gives it a separate name. *Praśnottara* is usually included in, *uttara*. Jayadeva in his *Candrāloka*, however, speaks of a *praśnottara*[^16], but it is the same as Arunagiri's *uttara,*
 
-*parikarāṅkura* is seen in Appayya Dīkṣita's *Kuvalayānanda,* but the other two are not regarded as independent alaṅkāras in any of the common works on the subject *Tathara* is the same as what Vidyānātha illustrates as another variety of *samuccaya*, and it is noteworthy that Aruṇagiri himself calls it only as a variety of *samuccaya*[^15], though he gives it a separate name. *Praśnottara* is usually included in, *uttara*. Jayadeva in his *Candrāloka*, however, speaks of a *praśnottara*[^16], but it is the same as Arunagiri's *uttara,*
+[^15]: # "Vide infra p. 45 स समुच्चयभेद एव।"
 
-[^15]: "Vide infra p. 45 स समुच्चयभेद एव।"
+[^16]: # "Candraloka, V.108"
 
-[^16]: "Candraloka, V.108"
+ Secondly, the order in which the alaṅkaras are dealt with in the two works is slightly different. There is a logical sequence in the order adopted in *Pratāparudrīya*, but not so much in *Godavarmayaśobhūṣaṇa.*  
 
- Secondly, the order in which the alaṅkaras are dealt with in the two works is slightly different. There isa logical sequence in the order adopted in*Pratāparudrīya*, but not so much in *Godavarmayaśobhūṣaṇa.*  
+  Thirdly, certain items dealt with in *Pratāparudrīya* are not seen in the *Godavarmayaśobhūṣaṇa* the variety of *śleṣa* called *prakrtāprakṛtaśleṣa,* *arthāntaranyāsa* through *kāryakāraṇabhāva*, *virodha* without *śleṣa*, and *virodha* and *ekāvalī* through *niṣedha* are instances.  
 
-  Thirdly, certain items dealt with in *Pratāparudrīya* are not seen inthe *Godavarmayaśobhūṣaṇa* the variety of *śleṣa* called *prakrtāprakṛtaśleṣa,* *arthāntaranyāsa* through *kāryakāraṇabhāva*, *virodha* without *śleṣa*, and *virodha* and *ekāvalī* through *niṣedha* are instances.  
 
- Lastly, certain items not dealt with in *Pratāparudriya* are seen in *Godavarmayaśobhūṣana*: the variety of*upamā* called *varnyavācakaluptopamā* (i-e. *upamā* in which both the *upameya* and the *upamāvācakaśabda* are omitted), *upameyopamā* by *vastuprativastubhāva*, the division of each of the three varieties of *dīpaka* into two according to *guna* and *kriyā,* *nidarśanā* by *sambhavaddharmayoga*, the threefold division of *arthāpatti,* and the variety of uttara through obscurity in the answer, are instances
+ ** **Lastly, certain items not dealt with in *Pratāparudriya* are seen in *Godavarmayaśobhūṣana*: the variety of *upamā* called *varnyavācakaluptopamā* (i-e. *upamā* in which both the *upameya* and the *upamāvācakaśabda* are omitted), *upameyopamā* by *vastuprativastubhāva*, the division of each of the three varieties of *dīpaka* into two according to *guna* and *kriyā,* *nidarśanā* by *sambhavaddharmayoga*, the threefold division of *arthāpatti,* and the variety of uttara through obscurity in the answer, are instances
 
- Among the works on alañkāra quoted from in this *Yaśobhūṣana* areKāvyāprakāśa[^17] (of Mammata) and *Bindvalaṅkāra*²(of Harihara), which are quoted in it by name, and *Kāvyādarśa* of Dandin[^18]")and *Kāvyālaṅkārasāṛasaṅgraha* of Udbhata[^19]."), which are quoted anonymously[^20],but it has not been possible to trace its source.")^(.)The other quotations in the work are theverse कुटिलालीकलसन्तींetc[^21]from the author's own *Gaurīśataka*, andthe verses तद्वल्गुनाetc.[^22].")and अत्रानुगोदं etc[^23]")from Kālidāsa's *Raghuvaṁśa*
+ ** **Among the works on alañkāra quoted from in this *Yaśobhūṣana* are Kāvyāprakāśa[^17] (of Mammata) and *Bindvalaṅkāra*² (of Harihara), which are quoted in it by name, and *Kāvyādarśa* of Dandin[^18]") and *Kāvyālaṅkārasāṛasaṅgraha* of Udbhata[^19]."), which are quoted anonymously[^20], but it has not been possible to trace its source.")^(.) The other quotations in the work are the verse कुटिलालीकलसन्तीं etc[^21] from the author's own *Gaurīśataka*, and the verses तद्वल्गुना etc.[^22].") and अत्रानुगोदं etc[^23]") from Kālidāsa's *Raghuvaṁśa*
 
-[^17]: "Vide infra, p 29."
+[^17]: # "Vide infra, p 29."
 
-[^18]: "Vide infra, p 17 मन्ये शङ्केetc (Kavyādarśà, II 234
+[^18]: # "Vide infra, p 17 मन्ये शङ्के etc (Kavyādarśà, II 234
 
-[^19]: "Ibid, लोकातिक्रान्तविषयाetc (Kāvyālankārasārasangraha, III 5
+[^19]: # "Ibid, लोकातिक्रान्तविषया etc (Kāvyālankārasārasangraha, III 5
 
-[^20]: "Another verse यथारुचि यथार्थित्वं etc has also been quoted (p 16
+[^20]: # "Another verse यथारुचि यथार्थित्वं etc has also been quoted (p 16
 
-[^21]: "Vide infra, p 18."
+[^21]: # "Vide infra, p 18."
 
-[^22]: "Vide infra, p10 (Raghuvamśa, V 68
+[^22]: # "Vide infra, p10 (Raghuvamśa, V 68
 
-[^23]: "Ibid, (Raghuvamśa,XIII 35
+[^23]: # "Ibid, (Raghuvamśa, XIII 35
 
- The present edition is based on a single paimleaf munuscript of the work in the Curator's Office collection in thisLibrary, No 164 It was procured from Sri Subrahmanyau Moothatu, Puttyil, Haripad, and is written in Malayalam script.
+ The present edition is based on a single paimleaf munuscript of the work in the Curator's Office collection in this Library, No 164 It was procured from Sri Subrahmanyau Moothatu, Puttyil, Haripad, and is written in Malayalam script.
 
----------------------------------------------------------
+**——————————**
 
-2. Videinfra, P 23, It is uncertain whether *Bindvalankara* is quotedfrom its original or from the quotation cited from it in Vidyadhara's *Ekāvali*, for the stanza quoted is the same as in *Ekavalī*, and no other work is known to have any quotation fromthis rare work, nor is any manuscript of it known. Even in *Ekāvali* this is the only verse quoted from this work *Vide Ekāvalī* of Vidyādhara, edited by K P Trivedi, Bombay, 1903, P 242
+2\. Vide infra, P 23, It is uncertain whether *Bindvalankara* is quoted from its original or from the quotation cited from it in Vidyadhara's *Ekāvali*, for the stanza quoted is the same as in *Ekavalī*, and no other work is known to have any quotation from this rare work, nor is any manuscript of it known. Even in *Ekāvali* this is the only verse quoted from this work *Vide Ekāvalī* of Vidyādhara, edited by K P Trivedi, Bombay, 1903, P 242
 
 यदुक्तं विन्द्वलङ्कारे कविचक्रवर्तिना हरिहरेण
 
 यु प्रस्तुताप्रस्तुतयोर्वर्गे कुत्रापि सङ्गत।  
-समानो धर्म एकोऽन्यद्दीपयेत्तत्तु दीपकम्॥'इति।
+समानो धर्म एकोऽन्यद्दीपयेत्तत्तु दीपकम्॥' इति।
+
+**—————————**
+
+
 
 **॥ विषयानुक्रमणा ॥**
 
-|                      |
-|----------------------|
-| **मङ्गलाचरणम्**      |
-| **उपमा **            |
-| **अनन्वयः**          |
-| **उपमेयोपमा**        |
-| **स्मृतिः**          |
-| **रूपकम्**           |
-| **परिणामः**          |
-| **सन्देहः**          |
-| **भ्रान्तिमान्**     |
-| **अपह्वनः**          |
-| **उल्लेखः**          |
-| **उत्प्रेक्षा**      |
-| **अतिशयोक्तिः**      |
-| **तुल्ययोगिता**      |
-| **दीपकम्**           |
-| **प्रतिवस्तूपमा**    |
-| **दृष्ठान्तः**       |
-| **निदर्शना**         |
-| **व्यतिरेकः**        |
-| **सहोक्तिः**         |
-| **विनोक्तिः**        |
-| **समासोक्तिः**       |
-| **परिकरः**           |
-| **परिकराङ्कुरः**     |
-| **श्लेषः**           |
+| |
+|-----------------|
+| **मङ्गलाचरणम्** |
+| **उपमा** |
+| **अनन्वयः** |
+| **उपमेयोपमा** |
+| **स्मृतिः** |
+| **रूपकम्** |
+| **परिणामः** |
+| **सन्देहः** |
+| **भ्रान्तिमान्** |
+| **अपह्वनः** |
+| **उल्लेखः** |
+| **उत्प्रेक्षा** |
+| **अतिशयोक्तिः** |
+| **तुल्ययोगिता** |
+| **दीपकम्** |
+| **प्रतिवस्तूपमा** |
+| **दृष्ठान्तः** |
+| **निदर्शना** |
+| **व्यतिरेकः** |
+| **सहोक्तिः** |
+| **विनोक्तिः** |
+| **समासोक्तिः** |
+| **परिकरः** |
+| **परिकराङ्कुरः** |
+| **श्लेषः** |
 | **अप्रस्तुतप्रशंसा** |
 
-|                     |
-|---------------------|
-| **अर्थान्तरन्यासः** |
-| **पर्यायोक्तम्**    |
-| **व्याजस्तुतिः**    |
-| **आक्षेपः**         |
-| **विरोधः**          |
-| **विभावना**         |
-| **विशेषोक्तिः**     |
-| **असङ्गतिः**        |
-| **विशेषः**          |
-| **अधिकः**           |
-| **विचित्रम्**       |
-| **अन्योन्यः**       |
-| **विषमः**           |
-| **समः**             |
-| **अनुमानम्**        |
-| **काव्यलिङ्गम्**    |
-| **यथासङ्ख्यम्**     |
-| **कारणमाला**        |
-| **एकावली**          |
-| **मालादीपकम्**      |
-| **सारः**            |
-| **परिवृत्तिः**      |
-| **परिसङ्ख्या**      |
-| **अर्थापत्तिः**     |
-| **विकल्पः**         |
-| **समुच्चयः**        |
-| **तत्करः**          |
-| **समाधिः**          |
 
-|                  |
+
+| |
 |------------------|
-| **प्रत्यनीकम्**  |
-| **ब्याघातः**     |
-| **पर्यायः**      |
-| **प्रतीपम्**     |
-| **मीलनम्**       |
-| **सामान्यस्**    |
-| **तद्गुणः**      |
-| **अतद्गुणः**     |
-| **उत्तरः**       |
+| **अर्थान्तरन्यासः** |
+| **पर्यायोक्तम्** |
+| **व्याजस्तुतिः** |
+| **आक्षेपः** |
+| **विरोधः** |
+| **विभावना** |
+| **विशेषोक्तिः** |
+| **असङ्गतिः** |
+| **विशेषः** |
+| **अधिकः** |
+| **विचित्रम्** |
+| **अन्योन्यः** |
+| **विषमः** |
+| **समः** |
+| **अनुमानम्** |
+| **काव्यलिङ्गम्** |
+| **यथासङ्ख्यम्** |
+| **कारणमाला** |
+| **एकावली** |
+| **मालादीपकम्** |
+| **सारः** |
+| **परिवृत्तिः** |
+| **परिसङ्ख्या** |
+| **अर्थापत्तिः** |
+| **विकल्पः** |
+| **समुच्चयः** |
+| **तत्करः** |
+| **समाधिः** |
+
+
+
+| |
+|----------------|
+| **प्रत्यनीकम्** |
+| **ब्याघातः** |
+| **पर्यायः** |
+| **प्रतीपम्** |
+| **मीलनम्** |
+| **सामान्यस्** |
+| **तद्गुणः** |
+| **अतद्गुणः** |
+| **उत्तरः** |
 | **प्रश्नोत्तरः** |
-| **सूक्ष्मः**     |
-| **व्याजोक्तिः**  |
-| **वक्रोक्तिः**   |
+| **सूक्ष्मः** |
+| **व्याजोक्तिः** |
+| **वक्रोक्तिः** |
 | **स्वभावोक्तिः** |
-| **भावकः**        |
-| **उदात्तः**      |
-| **संसृष्टिः**    |
-| **सपुरः**        |
+| **भावकः** |
+| **उदात्तः** |
+| **संसृष्टिः** |
+| **सपुरः** |
 
 —————————————
+
+
 
 **॥श्रीः॥**
 
 **अरुणगिरिकविकृतं**
 
-**गोदवर्मयशोभूषणम्।**
-
-—————
+**गोदवर्मयशोभूषणम्।**  
+**———————————————————**
 
 कल्याण कलयन्तु भूरि शिवयोः कल्याणवेद्यां मिथो  
 लज्जाकूतदरोदयादसकलं पर्यायतः पश्यतोः।  
@@ -268,16 +276,14 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 **हृद्यं साधर्म्यमुभयोरेकदा यत्र वर्ण्यते।  
 मिथस्तत्रोपमा प्रोक्ता सूरिभिः सूक्ष्मवेदिभिः॥१॥**
 
- यत्र हृद्यं सहृदयहृदयाह्लादि साधर्म्यं धर्मतः सादृश्यम् उभयोर्वस्तुनोः मिथः परस्परमेव एकदा सकृदेव वर्ण्यते तत्र उपमा उपमालङ्कृतिरिति सूक्ष्मार्थवेदिभिः सूरिभिः प्रोक्तेत्यर्थः। हृद्यमित्यनेन अश्वः श्वेव प्रधावति,
-
-'प्रसन्नमाननं तस्याः प्रभातेन्दुरिवैधते'।
+ यत्र हृद्यं सहृदयहृदयाह्लादि साधर्म्यं धर्मतः सादृश्यम् उभयोर्वस्तुनोः मिथः परस्परमेव एकदा सकृदेव वर्ण्यते तत्र उपमा उपमालङ्कृतिरिति सूक्ष्मार्थवेदिभिः सूरिभिः प्रोक्तेत्यर्थः। हृद्यमित्यनेन अश्वः श्वेव प्रधावति, 'प्रसन्नमाननं तस्याः प्रभातेन्दुरिवैधते'।
 
 इत्यादिदुष्टन्यूनोपमादीनां व्यावृत्तिः। साधर्म्यमिति श्लेषालङ्कारव्यावृत्तिः। तत्र धर्मतस्सादृश्याभावात्। किन्तु शब्दत एव। उभयोरित्यनन्वयव्यावृत्तिः। तत्र एकस्यैव स्वेनैव साम्यवर्णनात्। एकदेति उपमेयोपमा व्यवच्छिद्यते। तत्र द्वयोः पर्यायेण साम्यकथनात्। मिथ इत्यनेन शृङ्खलोपमादिव्यावृत्तिः। वर्ण्यत इति गम्यौपम्यानां रूपकपरिणामसन्देह- भ्रान्तिमदुल्लेखापह्नवतुल्ययोगितादीपकप्रतिवस्तूपमादृष्टान्तसहोक्तिव्यतिरेकनिदर्शनानां वैलक्षण्यमुक्तम्। हृद्यं साधर्म्यमिति सहृदयसम्मतेन कविकल्पितेन धर्मेण साम्यं विवक्षितं, न तु वस्तुत्त्वप्रमेयत्वादिना। तेन हि उपमादयः कविकल्पिता एवालङ्कारतां भजन्ते। नतु गोसदृशो गवय इति उपमा, आदित्यो यूप इति रूपकं, स्थाणुर्वा पुरुषो वेति सन्देहः, इदं रजतमिति भ्रान्तिमान्, नायं सर्प इत्यपह्नुतिः, पीनो देवदत्तो दिवा न भुङ्क्ते इति पर्यायोक्तिः, समुद्रः कुण्डिकेत्यतिशयोक्तिः, पर्वतोऽग्निमानित्यनुमानं, स देवदत्त इति स्मरणं, तस्थस्थमिपां तान्तन्ताम इति यथासङ्ख्यं, पुत्रेण सहागतः पितेति सहोक्तिः, पुत्रेण विनागत इति विनोक्तिः, श्वेतो धावतीति श्लेषः, इत्यादि द्रष्टव्यम्।
 
 **उपमा द्विविधा पूर्णा लुप्ता चेति प्रभेदतः।  
 पूर्णा श्रौती पुनश्चार्थी द्विविधेति प्रकीर्तिता॥२॥**
 
-**त्रिविधे तेपुनर्वाक्यसमासपदतद्धितैः। **
+**त्रिविधे ते पुनर्वाक्यसमासपदतद्धितैः।**
 
  यत्र उपमानोपमेयसाधारणधर्मोपमावाचकानां चतुर्णामुपादानं तत्र पूर्णा। तत्राप्युपमावाचकयथेवादिशब्दानां प्रयोगे श्रौती। धर्मिव्यवधानेन सदृशसङ्काशादिशब्दानां प्रयोगे त्वार्थी। तत्र वाक्यगा श्रौती पूर्णा यथा—
 
@@ -358,9 +364,9 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
  कर्मणमुलि यथा—
 
 विलोकन्ते नित्यं निजसुतविलोकं हरिणकान्    
-प्रियादर्शंपश्यन्त्युरुविपिनभागेषु चमरीः।  
+प्रियादर्शं पश्यन्त्युरुविपिनभागेषु चमरीः।  
 स्मरन्त्यत्र स्वीयं नगरमटवीस्मारमरय-  
-स्त्वदीयाः खेलन्तो गिरिषुबहुधा बिम्बलपते !॥
+स्त्वदीयाः खेलन्तो गिरिषु बहुधा बिम्बलपते !॥
 
  अत्र हरिणवान् निजसुतविलोकं निजसुतानिव विलोकन्त इत्यर्थः। एवमुत्तरत्रापि। अत्रापि वाचकमात्रलोपः। विलोकनं दर्शनं स्मरणं च साधारणधर्मः।
 
@@ -368,6 +374,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
 मित्रीयत्यखिलभटान् पुत्रीयति च प्रजाश्चिराय निजाः।  
 अमरीयति बुधलोकानतुलो भुवि गादेवर्मभूपालः॥  
+
 
  अत्र भटान् मित्रीयति मित्राणीवाचरति। पुत्रीयति पुत्रानिवाचरति, अमरीयति अमरानिवाचरतीत्यर्थः। अत्र सर्वत्र आचरणं समानधर्मः। वाचकस्यैव लोपः। 'उपमानादाचारे' 'अधिकरणाच्चेति वक्तव्यम्' इति कर्माधिकरणयोः क्यच्प्रत्ययः।
 
@@ -380,14 +387,14 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
  अत्र क्रीडागिरीयन्ति क्रीडागिरिष्विव आचरन्ति इत्येवमर्थो द्रष्टव्यः। अत्राप्याचरणं समानधर्मः। इवमात्रलोपः।
 
- कर्तृक्यङियथा—
+ कर्तृक्यङि यथा—
 
 दावायन्ते विमतनगरीधोरणीनिष्कुटानां  
 दीपायन्ते शबरपरिषत्सुन्दरीणां दरीषु।  
 अर्कायन्ते विबुधनलिनीपुष्कराणामजस्रं  
 धीरक्षोणीपरिवृढभुजादण्डचण्डप्रतापाः॥
 
- अत्र दावायन्ते दावा इवाचरन्ति, दीपायन्ते दीपा इवाचरन्ति, अर्कायन्ते अर्का इवाचरन्तीत्यर्थः। 'कर्तुः क्यङ्सलोपश्च' इति क्यङ्प्रत्ययः। अत्राचरणं समानधर्मः। इवशब्दस्य लोपः।
+ अत्र दावायन्ते दावा इवाचरन्ति, दीपायन्ते दीपा इवाचरन्ति, अर्कायन्ते अर्का इवाचरन्तीत्यर्थः। 'कर्तुः क्यङ् सलोपश्च' इति क्यङ्प्रत्ययः। अत्राचरणं समानधर्मः। इवशब्दस्य लोपः।
 
  णिनिप्रत्यये यथा—
 
@@ -401,16 +408,16 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 प्रवालपेशलौ पादौ गोदवर्मक्षमापतेः।  
 कथं सहेते कोटीरमणीषु स्खलनं द्विषाम्॥
 
- अत्र प्रवालाविव पेशलौ मृदुलौइति समासेवाचकलुप्ता। 'उपमानानि सामान्यवचनैः' इति समासः। पेशलत्वं समानधर्मः।
+ अत्र प्रवालाविव पेशलौ मृदुलौ इति समासे वाचकलुप्ता। 'उपमानानि सामान्यवचनैः' इति समासः। पेशलत्वं समानधर्मः।
 
 **द्विधोपमानलुप्ता च प्रोक्ता वाक्यसमासयोः॥५॥**
 
  वाक्यगा उपमानलुप्ता यथा—
 
-द्वारे मत्तद्विरदनिवहायत्कटाक्षेक्षितानां  
+द्वारे मत्तद्विरदनिवहा यत्कटाक्षेक्षितानां  
 दूरे वाचामपि च सुधियां सम्पदो यद्दुरन्ताः।  
 श्रीमद्बिम्बल्यधिपतिमणेस्तस्य तुल्यस्त्रिलोक्यां  
-भूतो भावी पुनरथभवन्नस्ति नान्यो वदान्यः॥
+भूतो भावी पुनरथ भवन्नस्ति नान्यो वदान्यः॥
 
  अत्र बिम्बल्यधिपतेस्तुल्यो नास्ति इत्युपमानस्यानुपादानाद् वदान्य इति सामान्यधर्मग्रहणाच्च वाक्यगा।
 
@@ -468,9 +475,9 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 अयमन्तकीयति पुरो विरोधिना-  
 मिह गोदवर्मनृपती रणाङ्कणे॥
 
- अत्र विरोधिनां पुरःअयमन्तकीयति आत्मानमन्तकमिवाचरतीत्यर्थात् 'सुप आत्मनः क्यच्' इति क्यचि प्रत्यये आत्मन उपमेयस्य इवशब्दस्यापि लोपः। आचारः समानधर्मो गृहीत इति वर्ण्यवाचकलुप्ता॥
+ अत्र विरोधिनां पुरः अयमन्तकीयति आत्मानमन्तकमिवाचरतीत्यर्थात् 'सुप आत्मनः क्यच्' इति क्यचि प्रत्यये आत्मन उपमेयस्य इवशब्दस्यापि लोपः। आचारः समानधर्मो गृहीत इति वर्ण्यवाचकलुप्ता॥
 
-**उपमानेवादिधर्मलुप्ताकापि समासगा॥७॥**  
+**उपमानेवादिधर्मलुप्ता कापि समासगा॥७॥**  
 **एवं विंशतिधा प्रोक्ता लुप्ता विबुधसत्तमैः।**
 
  उपमानवाचकधर्मलुप्ता यथा—
@@ -480,7 +487,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 कीर्त्त्या समुत्सारितसज्जनार्त्या  
 हरित्पतीनप्यधरीकरोति॥
 
- अत्र पुष्पेषुमूर्तिरित्यत्र पुष्पेषोर्मन्मथस्य मूर्तिरिव मूर्तिर्यस्येति 'सप्तम्युपमानपूर्वपदे'त्यादिना समासाद् उपमानवाचकशब्दयोर्लोपः। सौन्दर्यादिसाधारणधर्मस्यानुपादानाच्चउपमानवाचकधर्मलुप्ता। एवं विंशतिविधा लुप्ता प्रदर्शिता॥
+ अत्र पुष्पेषुमूर्तिरित्यत्र पुष्पेषोर्मन्मथस्य मूर्तिरिव मूर्तिर्यस्येति 'सप्तम्युपमानपूर्वपदे'त्यादिना समासाद् उपमानवाचकशब्दयोर्लोपः। सौन्दर्यादिसाधारणधर्मस्यानुपादानाच्च उपमानवाचकधर्मलुप्ता। एवं विंशतिविधा लुप्ता प्रदर्शिता॥
 
 **सामान्यधर्मनिर्देशभेदाद् भिद्येत चोपमा॥८॥**
 
@@ -505,19 +512,19 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
  यत्र एकस्यैव उपमानोपमेयभावः तत्रानन्वयालङ्कारः। एकस्यैवोपमानोपमेयत्वकथनं तादृशस्य द्वितीयस्य व्यवच्छेदाय। एकस्यैव विरुद्धधर्मान्वयात् अनन्वयाभिधानमिति द्रष्टव्यम्। यथा—
 
 कल्याणी बिम्बलपते ! गुणसम्पदियं तव।  
-गुणसम्पदिवाधत्तेकुतुकं तावकी सताग्॥
+गुणसम्पदिवाधत्ते कुतुकं तावकी सताग्॥
 
  अत्र गुणसम्पत् गुणसम्पदिवेत्यनन्वयः। यथा वा—
 
 त्वद्यशस्त्वद्यश इव तव श्रीरपि ते श्रिया।  
 समाना भाति सततं गोदवर्ममहीपते !॥
 
- अत्र धर्मग्रहणाग्रहणाभ्यां अर्थद्वैविध्यमपि सूचितम्॥
+ अत्र धर्मग्रहणाग्रहणाभ्याम् अर्थद्वैविध्यमपि सूचितम्॥
 
 **उपमेयोपमालङ्कारः।**
 
 **उपमानोपमेयत्वं पर्यायेण द्वयोर्यदि॥९॥  
-उपमेयोपमाप्रोक्ता सापि द्वैविध्यभाग्यथा।**
+उपमेयोपमा प्रोक्ता सापि द्वैविध्यभाग्यथा।**
 
  पर्यायेण द्वयोर्यत्र उपमानोपमेयभावः तत्र उपमेयोपमालङ्कारः। द्वयोरित्यनन्वयव्यावृत्तिः। पर्यायेणेत्युपमालङ्कारनिवृत्तिः। सापि धर्मसाधारण्येन वस्तुप्रतिवस्तुभावेन च द्विधा।
 
@@ -543,6 +550,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 श्चक्षुस्तव प्रचलितभ्रमरं च पद्मम्॥"
 
 इत्यत्र उपमेयोपमालङ्कारत्वम्॥  
+
 
 **स्मृत्यलङ्कारः।**
 
@@ -575,35 +583,35 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 **विषय्यभेदारोपेण विषयस्योपरञ्जनम्।  
 अतिरोहितरूपस्य रूपकं प्रोक्तमष्टधा॥११॥**
 
- यत्र अतिरोहितरूपस्य विषयस्य आरोप्यमाणविषय्यभेदारोपेण रञ्जनं क्रियते तत्र रूपकम्। तच्च अष्टधा प्रोक्तम्। आरोपेणेति उत्प्रेक्षोपमादीनां निवृत्तिः। अतिरोहितस्येत्यनेन सन्देहादिनिवृत्तिः, तत्र विषयस्य सन्देहादिना तिरोधानात्। उपरञ्जनमिति परिणामव्यावृतिः। परिणामे आरोप्यमाणस्य प्रकृतकार्योपयोगित्वं, रूपके पुनः प्रकृतोपरञ्जकत्वमात्रमिति द्रष्टव्यम्। तच्च संक्षेपतास्त्रिविधम्— सावयवं, निरवयवं, परम्परितं चेति। सावयवम् अवयविसाकल्यवृति। निरवयवम् अवयवतो निष्क्रान्तम् अवयविमात्रपर्यवसितम्। परम्परा अस्य संजातेति परम्परितम्। तत्र सावयवं द्विविधं— समस्तवस्तुविषयं एकदेशविवर्ति चेति। निरवयवं केवलंमालारूपञ्चेति भेदेन द्विविधम् ; तच्च प्रत्येकं केवलमालारूपेण द्विविधं सत् चतुर्विधम्। आहत्याष्टविधं रूपकम्। तत्र समस्तवस्तुविषयं सावयवं यथा—
+ यत्र अतिरोहितरूपस्य विषयस्य आरोप्यमाणविषय्यभेदारोपेण रञ्जनं क्रियते तत्र रूपकम्। तच्च अष्टधा प्रोक्तम्। आरोपेणेति उत्प्रेक्षोपमादीनां निवृत्तिः। अतिरोहितस्येत्यनेन सन्देहादिनिवृत्तिः, तत्र विषयस्य सन्देहादिना तिरोधानात्। उपरञ्जनमिति परिणामव्यावृतिः। परिणामे आरोप्यमाणस्य प्रकृतकार्योपयोगित्वं, रूपके पुनः प्रकृतोपरञ्जकत्वमात्रमिति द्रष्टव्यम्। तच्च सङ्क्षेपतास्त्रिविधम्— सावयवं, निरवयवं, परम्परितं चेति। सावयवम् अवयविसाकल्यवृति। निरवयवम् अवयवतो निष्क्रान्तम् अवयविमात्रपर्यवसितम्। परम्परा अस्य सञ्जातेति परम्परितम्। तत्र सावयवं द्विविधं— समस्तवस्तुविषयम् एकदेशविवर्ति चेति। निरवयवं केवलं मालारूपञ्चेति भेदेन द्विविधम् ; तच्च प्रत्येकं केवलमालारूपेण द्विविधं सत् चतुर्विधम्। आहत्याष्टविधं रूपकम्। तत्र समस्तवस्तुविषयं सावयवं यथा—
 
 निर्यन्निर्मलचन्द्रकान्तिलहरीनिर्व्यूढमैत्रीभरं  
-क्षीराब्धिं कुरुते विहारसरसी भूचक्रवालाचलम्।  
+क्षीराब्धिं कुरुते विहारसरसी भूचक्रवाळाचलम्।  
 क्रीडाद्रिं ककुभस्सखीसमुदयं केलीवनं नन्दनं  
 श्रीमन् ! सम्प्रति गोदवर्मनृपते ! त्वत्कीर्तिकन्यामणिः॥
 
 यथा वा—
 
 श्रीमद्बिम्बल्यधिपतिकरालङ्क्रियेयं कृपाणी-  
-वी(रु)द्वैरिक्षतजसलिलैः संभृताश्रान्तसेका।  
-संभूतौजःप्रकटविटपा सन्ततोद्यत्समज्ञा-  
+वी(रु)द्वैरिक्षतजसलिलैः सम्भृताश्रान्तसेका।  
+सम्भूतौजःप्रकटविटपा सन्ततोद्यत्समज्ञा-  
 सूनव्यूहैः फलति सुरभिस्वर्गभूमिस्त्रिवर्गम्॥
 
- अत्र अवयवानां विटपादीनां अवयविभूताया लतादेश्चनिरूपणात् समस्तवस्तुविषयत्त्वम्।
+ अत्र अवयवानां विटपादीनाम् अवयविभूताया लतादेश्च निरूपणात् समस्तवस्तुविषयत्त्वम्।
 
  एकदेशविवर्ति यथा—
 
-बरगोदवर्मनृपतौरणाजिरे रिपुशेलमूर्ध्नि शरवारिसन्ततिम्।  
+बरगोदवर्मनृपतौ रणाजिरे रिपुशेलमूर्ध्नि शरवारिसन्ततिम्।  
 सततं विमुञ्चति समग्रगर्जिते परितो विभाति भुजधामकन्दली॥
 
- अत्रअवयवानां शरादीनां वारेत्वादिनिरूपणेन अवयविनो गोदवर्मणः वारिधरत्वं गम्यते। ततः अवयविन्येकदेशे विवर्तनात् एकदेशविवर्तित्वम्।
+ अत्र अवयवानां शरादीनां वारेत्वादिनिरूपणेन अवयविनो गोदवर्मणः वारिधरत्वं गम्यते। ततः अवयविन्येकदेशे विवर्तनात् एकदेशविवर्तित्वम्।
 
  निरवयवं केवलं यथा—
 
-कोणाघातप्रभूतान् गुरुतरसमरारम्भसंभूतभेरी-  
+कोणाघातप्रभूतान् गुरुतरसमरारम्भसम्भूतभेरी-  
 घोरारावान् कृतोद्यत्प्रलयघनततिध्वानकल्पान् प्रतीत्य।  
 धावन्ति त्यक्तयाना विमतनृपतयः कानने दीनचित्ता-  
-स्त्वद्दोर्दण्डप्रताप(द्वि? द्यु)मणिदृढतरोत्तापिता गोदवर्मन् !॥
+स्त्वद्दोर्दण्डप्रताप(द्वि ? द्यु)मणिदृढतरोत्तापिता गोदवर्मन् !॥
 
  अत्र प्रतापस्य (द्वि? द्यु)मणित्वेन निरूपणात् केवलम्।
 
@@ -637,7 +645,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 तव वाहुभुजङ्गखड्गजिह्वा तरलायोधनसीस्न दुर्मदानाम्।  
 ग्रसतेऽसुसमीरणानरीणां जय लक्ष्मीधर ! गोदवर्मभूप !॥
 
- अत्रखड्गे जिह्वात्वनिरूपणं बाहोर्भुजङ्गत्वनिरूपणे हेतुरिति परम्परितम्।
+ अत्र खड्गे जिह्वात्वनिरूपणं बाहोर्भुजङ्गत्वनिरूपणे हेतुरिति परम्परितम्।
 
 अश्लिष्टमालापरम्परितं यथा—
 
@@ -664,6 +672,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 काङ्क्षन्तो भवतः प्रसाधनविधिं काले.. वन्दीकृताः।  
 नम्रास्तावकपादपीठमभितो निर्यन्नखश्रीभरैः  
 पुष्पैर्भूषितकेशपाशनहना धन्या भवन्त्यन्वहम्॥  
+
 
  अत्र नखश्रीभरैः पुष्पैरिति सामानाधिकरण्यं केवलं नख(द्वि?त्वि)षां पुष्पात्मना केशप्रसाधनरूपकार्योपयोगित्वात् परिणामः।
 
@@ -701,6 +710,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
  अत्र तत्तद्भेदकथनात् निश्चयगर्भत्वम्।  
 
+
  निश्चयान्तो यथा—
 
 किं दावानलहेतयः कमलिनीनेतुः करा जृम्भिताः  
@@ -712,7 +722,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
 **भ्रान्तिमदलङ्कारः।**
 
-**प्रकृतेऽप्रकृतभ्रान्तिः सादृश्याद् भ्रान्तिमान् भवेत्।**
+**प्रकृतेऽप्रकृतभ्रान्तिः सादृश्याद् भ्रान्तिमान् भवेत्। **
 
  यत्र प्रकृते सादृश्यादप्रकृतभ्रान्तिः तत्र भ्रान्तिमदलङ्कारः। यथा—
 
@@ -745,6 +755,8 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
  अत्र भटप्रक्ष्वेलितस्य व्याजपदेन असत्यत्वं प्रतिपाद्य दम्भोलिपातत्वमारोप्यत भीषणत्वसाधर्म्यात्॥
 
+
+
 **उल्लेखालङ्कारः।**
 
 **एकस्यार्थरुचिश्लेषैर्निमित्तैर्बहुधा जनैः।  
@@ -770,7 +782,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
 जिष्णुर्वैरिविलुण्ठने जनकभूसंरक्षणे सेतुकृत्  
 भीमो भूरिभुजप्रतापवहने भीष्मः स्वसंरक्षणे।  
-रामः केलिषु योषितां गुरुरसौबुद्धेर्विलासेष्विति  
+रामः केलिषु योषितां गुरुरसौ बुद्धेर्विलासेष्विति  
 श्रीमन्नुत्तरबिम्बलाक्षितिपते ! त्वं कीर्त्त्यसे सूरिभिः॥
 
  अत्र जिष्ण्वादिपदानां श्लिष्टत्वम्॥
@@ -790,9 +802,9 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 "लोकातिक्रान्तविषया भावाभावाभिमानतः।  
 सम्भावनेयमुत्प्रेक्षा वाच्येवादिभिरिष्यते॥"
 
-इति। उक्तस्य अष्टविधस्य सम्भावनस्य गुणनिमित्तकत्वेन क्रियानिमित्तकत्वेन द्वैविध्ये षोडशविधा। अत्र चैतेषां स्वरूपहेतुफलोत्प्रेक्षाभिरपरं त्रैविध्यम्। निमित्तस्य उपादानानुपादानाभ्यांद्वैविध्ये जात्युत्प्रेक्षा चतुर्दशविधा[^24]। ननु चतुर्विंशतिविधत्वेन कथं चतुर्दशविधत्वमिति चेन्न; जातिहेतुफलोत्प्रेक्षयोःहेतूपादानानुपादानद्वैविध्याभावाच्चतुर्दशविधैव। एवं क्रियागुणद्रव्याणामपीति वाच्योत्प्रेक्षा षट्पञ्चाशद्विधा, गम्योत्प्रेक्षा अष्टचत्वारिंशद्भेदा। गम्योत्प्रेक्षायां निमित्तस्य गुणत्वेन क्रियात्वेन वा चारुत्वविशेषाभावाद् एक एव भेद इति द्रष्टव्यम्। केचित्तु वाच्योत्प्रेक्षैव षण्णवतिविधेति वदन्ति। तत्र यथासम्भवमुदाहरणानि।
+इति। उक्तस्य अष्टविधस्य सम्भावनस्य गुणनिमित्तकत्वेन क्रियानिमित्तकत्वेन द्वैविध्ये षोडशविधा। अत्र चैतेषां स्वरूपहेतुफलोत्प्रेक्षाभिरपरं त्रैविध्यम्। निमित्तस्य उपादानानुपादानाभ्यां द्वैविध्ये जात्युत्प्रेक्षा चतुर्दशविधा[^24]। ननु चतुर्विंशतिविधत्वेन कथं चतुर्दशविधत्वमिति चेन्न; जातिहेतुफलोत्प्रेक्षयोः हेतूपादानानुपादानद्वैविध्याभावाच्चतुर्दशविधैव। एवं क्रियागुणद्रव्याणामपीति वाच्योत्प्रेक्षा षट्पञ्चाशद्विधा, गम्योत्प्रेक्षा अष्टचत्वारिंशद्भेदा। गम्योत्प्रेक्षायां निमित्तस्य गुणत्वेन क्रियात्वेन वा चारुत्वविशेषाभावाद् एक एव भेद इति द्रष्टव्यम्। केचित्तु वाच्योत्प्रेक्षैव षण्णवतिविधेति वदन्ति। तत्र यथासम्भवमुदाहरणानि।
 
-[^24]: "चतुर्दशविधत्वं तु जातिभावस्वरूपोत्प्रेक्षाया जात्यभावस्वरूपोत्प्रेक्षायाश्च गुणनिमित्तकत्वक्रियानिमित्तकत्वाभ्यां द्वैविध्यस्य अनङ्गीकारात्। अन्यथा षोडशविथत्वापत्तेः।"
+[^24]: # "चतुर्दशविधत्वं तु जातिभावस्वरूपोत्प्रेक्षाया जात्यभावस्वरूपोत्प्रेक्षायाश्च गुणनिमित्तकत्वक्रियानिमित्तकत्वाभ्यां द्वैविध्यस्य अनङ्गीकारात्। अन्यथा षोडशविथत्वापत्तेः।"
 
  उपात्तगुणनिमित्तजातिभावस्वरूपोत्प्रेक्षा यथा—
 
@@ -817,7 +829,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 बिम्बलेशप्रतापाग्नेः शत्रुकान्तारवर्तिनः।  
 धूमस्तोममहं मन्ये तदीयापयशोभरम्॥
 
- शत्रुराजापयशोभरे धूमस्तोमत्वमुत्प्रेक्ष्यते, निमित्तस्यानुपादानञ्च। यथा वामदीये गौरीशतके—
+ शत्रुराजापयशोभरे धूमस्तोमत्वमुत्प्रेक्ष्यते, निमित्तस्यानुपादानञ्च। यथा वा मदीये गौरीशतके—
 
 कुटिलालीकलसन्तीं  
 कुरुविन्दललन्तिकां तवाद्रिसुते !।  
@@ -848,7 +860,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
  अत्र दिगन्ताद्रिगुहावर्तिनां द्विषामाक्रान्तौ प्रतापभङ्गस्य प्रतापाभावस्य हेतुत्यमुत्प्रेक्ष्यते। अन्धकारेऽन्धकारत्वमपह्नुत्य प्रतापभङ्गत्वोत्प्रेक्षणात् सापह्नवहेतूत्प्रेक्षा।
 
- अत्र गुणश्रेणयस्संख्यातुं न शक्यन्त इति गुणश्रेणीनां संख्यासम्बन्धेऽपि सम्बन्धाभावकथनादतिशयोक्तिः।
+ अत्र गुणश्रेणयस्सङ्ख्यातुं न शक्यन्त इति गुणश्रेणीनां सङ्ख्यासम्बन्धेऽपि सम्बन्धाभावकथनादतिशयोक्तिः।
 
  असम्बन्धे सम्बन्धो यथा—
 
@@ -866,14 +878,14 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 प्रायः फुल्लसरोरुहोदरगतश्रीसोदरा मेदुराः  
 पश्चात्तेषु पतन्ति बिम्बलपतेः स्फाराः कटाक्षाङ्कुराः॥
 
- अत्र सङ्ख्यावतां ऐश्वर्यावाप्तेः बिम्बलपतेः कटाक्षपातानन्तरभाविन्याः पूर्वभावः कविप्रौढोक्त्या कथितः॥
+ अत्र सङ्ख्यावताम् ऐश्वर्यावाप्तेः बिम्बलपतेः कटाक्षपातानन्तरभाविन्याः पूर्वभावः कविप्रौढोक्त्या कथितः॥
 
 **तुल्ययोगितालङ्कारः।**
 
 **अन्येषां प्रस्तुतानां वा तुल्यधर्मान्वये सति।  
 औपम्यगम्यतायां च चतुर्धा तुल्ययोगिता॥१८॥**
 
- यत्र प्रस्तुतानां अप्रस्तुतानां वा एकधर्माभिसम्बन्धः औपम्यं च गम्यते सा तुल्ययोगिता। तुल्येन धर्मेण एकेन धर्मेण योगोऽस्यां इति अन्वर्थसंज्ञेयम्। धर्मश्च द्विविधः— गुणः क्रिया च, तेन चतुर्विधा।
+ यत्र प्रस्तुतानाम् अप्रस्तुतानां वा एकधर्माभिसम्बन्धः औपम्यं च गम्यते सा तुल्ययोगिता। तुल्येन धर्मेण एकेन धर्मेण योगोऽस्याम् इति अन्वर्थसञ्ज्ञेयम्। धर्मश्च द्विविधः— गुणः क्रिया च, तेन चतुर्विधा।
 
  प्रकृतानां यथा—
 
@@ -914,7 +926,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 र्मही यशोभिस्तव गोदवर्मन् !॥
 
 गुम्फितं गुणसामग्र्यं गोदवर्मनृप ! त्वयि।  
-सौरभं सुमनः पुष्पेचन्द्रे ज्योत्स्ना च राजते॥
+सौरभं सुमनः पुष्पे चन्द्रे ज्योत्स्ना च राजते॥
 
  पदार्थगतालङ्कारद्वयनिरूपणानन्तरं वाक्यार्थगतालङ्कारद्वयं निरूप्यते।
 
@@ -951,14 +963,14 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 गोदवर्ममहीभर्तुः स्मितचारुमुखश्रियः।  
 फुल्लेषु परिदृश्यन्ते पङ्कजेष्वखिलेष्वपि॥
 
- अत्र उपमेयप्रकृतराजमुखश्रीरूपधर्माणां उपमानेषु पङ्कजेष्वसम्भवात् तत्सदृशधर्मवत्त्वाक्षेपात् निदर्शनालङ्कारः॥
+ अत्र उपमेयप्रकृतराजमुखश्रीरूपधर्माणाम् उपमानेषु पङ्कजेष्वसम्भवात् तत्सदृशधर्मवत्त्वाक्षेपात् निदर्शनालङ्कारः॥
 
 **व्यतिरेकालङ्कारः।**
 
 **उपमेयस्योपमानादाधिक्यं यत्र वर्ण्यते॥२२॥**  
 **सति भेदप्रधानत्वे व्यतिरेकस्स कीर्तितः।**
 
- यत्र उपमानाद् उपमेयस्याधिक्यं वर्ण्यते तत्र भेदो वैलक्षण्यंतत्प्राधान्यात् व्यतिरेकालङ्कार इत्यर्थः। यथा—
+ यत्र उपमानाद् उपमेयस्याधिक्यं वर्ण्यते तत्र भेदो वैलक्षण्यं तत्प्राधान्यात् व्यतिरेकालङ्कार इत्यर्थः। यथा—
 
 गोदवर्मनृपते त्वमिन्दुरप्यञ्च (तः?थ) कुंवलयैकरञ्जनम्।  
 नो विमुञ्चति कलङ्कितामयं निष्कलङ्कचरितो भवानिह॥
@@ -968,7 +980,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 **सहोक्त्यलङ्कारः।**
 
 **यत्र प्रकृतयोरुक्त्यातिशयिन्या सहार्थतः॥२३॥**  
-**अन्वये कल्पितौपम्यासहोक्तिस्तत्र गीयते।**
+**अन्वये कल्पितौपम्या सहोक्तिस्तत्र गीयते।**
 
  यत्र कार्यकारणपौर्वापर्यविपर्ययरूपया भेदेऽभेदाध्यवसायरूपया वा अतिशयोक्त्या एकस्य प्राधान्येन अपरस्य सहार्थेनान्वयः कल्पितौपम्यपर्यवसायि तत्र सहोक्तिः। अत्र द्वयोरपि प्रकृतत्वान्नोपमाशङ्का।
 
@@ -1025,5 +1037,7 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin[^7]"). So Arunagirikav
 
 **अत्र श्लेषो भवेत्साम्ये विशेषणविशेष्ययोः।**  
 **विशेष्ययोश्च वाच्यत्वे तुल्ययोरेव स द्विधा॥२८॥**
+
+**————————————————**
 
 \]

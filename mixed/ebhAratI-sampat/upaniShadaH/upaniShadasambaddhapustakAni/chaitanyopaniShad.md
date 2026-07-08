@@ -3,10 +3,9 @@ title = "चैतन्योपनिषद्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4267"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NDE0NjY5NTE2OTA0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[चैतन्योपनिषद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NDE0NjY5NTE2OTA0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NDE0NjY5NTE
 
 
 
-चैतन्योपनिषद् ।
+**चैतन्योपनिषद् ।**
 
 
 
@@ -124,9 +123,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NDE0NjY5NTE
 
 
 
-कारणं सर्वम्,
-
-तदत्र श्लोकः
+कारणं सर्वम्, तदत्र श्लोकः
 
 यत्किञ्चिदसद्भुङ्क्ते क्षरं तत्कार्यमुच्यते ।
 
@@ -140,11 +137,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc2NDE0NjY5NTE
 
 य एनं रसयति भजति ध्यायति स पाप्मानं तरति ।
 
-स पूतो भवति,
-
-स तत्त्वं जानाति,
-
-स तरति शोकम् ।
+स पूतो भवति, स तत्त्वं जानाति, स तरति शोकम् ।
 
 गतिस्तस्यास्ते नान्यस्येति ॥१९॥
 

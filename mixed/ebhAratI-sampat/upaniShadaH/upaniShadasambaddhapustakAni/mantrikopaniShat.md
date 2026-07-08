@@ -3,10 +3,9 @@ title = "मन्त्रिकोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4299"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg2MjE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[मन्त्रिकोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg2MjE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -34,7 +33,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg
 
 त्रिवर्त्मानं तेजसोहं सर्वतःपश्यन्न पश्यति ॥ १॥
 
-भूतसंमोहने काले भिन्ने तमसि वैखरे ।
+भूतसम्मोहने काले भिन्ने तमसि वैखरे ।
 
 अन्तः पश्यन्ति सत्त्वस्था निर्गुणं गुणगह्वरे ॥ २॥
 
@@ -86,7 +85,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg
 
 पुरुषं निर्गुणं साङ्ख्यमथर्वशिरसो विदुः ॥ १४॥
 
-चतुर्विंशतिसंख्यातं व्यक्तमव्यक्तमेव च ।
+चतुर्विंशतिसङ्ख्यातं व्यक्तमव्यक्तमेव च ।
 
 अद्वैतं द्वैतमित्याहुस्त्रिधा तं पञ्चधा तथा ॥ १५॥
 

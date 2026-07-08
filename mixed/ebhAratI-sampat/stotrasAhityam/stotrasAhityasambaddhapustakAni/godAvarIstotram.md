@@ -3,10 +3,9 @@ title = "गोदावरीस्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3056"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM2MTQ4NjE1NDYzMzky&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गोदावरीस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM2MTQ4NjE1NDYzMzky&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -27,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM2MTQ4NjE1NDY
 कुन्तलसन्ततिराजितसन्मुख देवकिनन्दन गोविन्द वन्दे ॥ ३॥  
 अद्वयविक्रम गोविन्दकिङ्कर श्रीमध्ववल्लभ गुरुतर नमः ।  
 कुन्तलसन्ततिराजितसन्मुख देवकिनन्दन गोविन्द वन्दे ॥ ४॥  
-॥ इति श्रीमत्कल्याणीदेवी विरचितं गोविन्दस्तोत्रं संपूर्णम् ॥  
+॥ इति श्रीमत्कल्याणीदेवी विरचितं गोविन्दस्तोत्रं सम्पूर्णम् ॥  
 \</poem\>
 
 \</doc\>

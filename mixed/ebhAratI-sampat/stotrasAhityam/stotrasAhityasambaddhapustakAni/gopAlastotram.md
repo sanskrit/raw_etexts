@@ -3,10 +3,9 @@ title = "गोपालस्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3057"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNDgwMzE1MDY0Mzky&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गोपालस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNDgwMzE1MDY0Mzky&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -27,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNDgwMzE1MDY
 गण्डमण्डलसंसर्गिचलत्कुञ्चितकुन्तलम् ।  
 स्थूलं मुक्ताफलोदारहारोद्योतितवक्षसम् ॥ ३॥\<br\>  
 हेमाङ्गदतुलाकोटिकिरीटोज्ज्वलविग्रहम् ।  
-मन्दमारुतसंक्षोभचलिताम्बरसञ्चयम् ॥ ४॥\<br\>  
+मन्दमारुतसङ्क्षोभचलिताम्बरसञ्चयम् ॥ ४॥\<br\>  
 रुचिरौष्ठपुटन्यस्तवंशीमधुरनिःस्वनैः ।  
 लसद्गोपालिकाचेतो मोहयन्तं पुनः पुनः ॥ ५॥\<br\>  
 बल्लवीवदनाम्भोजमधुपानमधुव्रतम् ।  

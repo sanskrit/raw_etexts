@@ -1,17 +1,16 @@
 +++
 title = "बालरामभरतम्"
 author = "बालरामवर्मा"
-publisher = "गवर्नमेण्ट्-आफ्-ट्रवण्कोर्"
+publisher = "गवर्नमेण्ट्-आफ्-ट्रवङ्कोर्"
 "publish year" = "1935"
 domain = "काव्यानि"
 sub-domain = "पद्यम्"
 pages = "321"
 language = "संस्कृतम्"
 editor = "साम्बशिवशास्त्री"
-printer = "गवर्नमेण्ट्-प्रेस्  त्रिवेन्द्रम्"
+printer = "गवर्नमेण्ट्-प्रेस् त्रिवेन्द्रम्"
 "serial no." = "Ebharati-5777"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc1NDU1&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[बालरामभरतम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc1NDU1&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -19,9 +18,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
+
+
+
+[TABLE]
+
+
 
 **INTRODUCTION.**  
 ——————
@@ -38,7 +43,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 एतेष्वेव हि कार्येषु वक्रगो विनियुज्यते॥" (p. 107)**
 
 **"बालराममहीपालचिन्तिताभिनये मुदा।  
-रसनाभिनयो नाट्येचैतेषु विनियुज्यते॥" (p. 191 )**
+रसनाभिनयो नाट्ये चैतेषु विनियुज्यते॥" (p. 191 )**
 
 **"बालराममहीपालचिन्तिताभिनये मुदा।  
 एतेष्वेव हि कार्येषु चाकृष्टा विनियुज्यते॥" (p. 263)**
@@ -47,7 +52,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 
 **"दक्षिणे वामसूची च वामे दक्षिणसूचिका।  
 पदव्यत्यासभावेन पुरतः पृष्ठतः स्थिता॥**  
-**सूची सैव विपर्यासा कीर्त्तिता भरतागमे।" (p. 262)**
+** सूची सैव विपर्यासा कीर्त्तिता भरतागमे।" (p. 262)**
 
  This precious work is incomplete as some folios at the end of the manuscript are not available, and as all my attempts to procure a complete copy have been in vain. I venture to think that the work was left incomplete like Citramimāmsā, Rasagaṅgādhara and other productions.
 
@@ -81,7 +86,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 गजदन्तकरश्चैव कूर्परस्वस्तिकः करः॥**
 
 **गरडो भारतीहस्तः कटकावर्तकर्कटौ।  
-वर्धमानकरश्चैव कलहःशुभशोभनः॥**
+वर्धमानकरश्चैव कलहः शुभशोभनः॥**
 
 **...... ...... ........ .......**  
 **....... ....... ....... .......**
@@ -94,10 +99,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 
 **मुखस्थमञ्जलिपुटं भूपालपितृवन्दने।  
 हृदयस्थाञ्जलिपुटं भूसुराणां च वन्दने।  
-उदरस्थाञ्जलिपुटं स्वमातृृणां च वन्दने॥” **
+उदरस्थाञ्जलिपुटं स्वमातृृणां च वन्दने॥”**
 
-**....... .......     .......   ....... **  
-**....... .......     .......     ...... (p. 75)**
+**....... ....... ....... .......**  
+**....... ....... ....... ...... (p. 75)**
 
  The author thus expanding the system of nātya of Bharata with other systems current in Malabar appears to be an incarnation of Bharata, Kohala and other hoary sages.
 
@@ -117,13 +122,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 
  A life sketch of the author by Rao Sahib MahākaviKavitilaka, Ullur S. Paramesvara Ayyar, M. A., B. L., a life, long student of Kerala antiquities, runs as follows:
 
- "Maharaja Bala Rama Varma, the author of Bālarāmabharata, was one of the greatest and most distinguished sovereigns of Travancore. He was born on the 5th Karkatakam, 899 M. E. (1724 A. D.) The star of his nativity being Krttikā, he is popularly known as Kārtika Tirunāl. His father was Kerala Varma Koil Tampurān of Kilimānūr and mother Rāni Pārvati Bāyi. Maharaja Bāla Mārtānda Varma, the maker of modern Travancore, who ruled from 904 to 933 M. E. (1729—1758) was his maternaluncle.
+ "Maharaja Bala Rama Varma, the author of Bālarāmabharata, was one of the greatest and most distinguished sovereigns of Travancore. He was born on the 5th Karkatakam, 899 M. E. (1724 A. D.) The star of his nativity being Krttikā, he is popularly known as Kārtika Tirunāl. His father was Kerala Varma Koil Tampurān of Kilimānūr and mother Rāni Pārvati Bāyi. Maharaja Bāla Mārtānda Varma, the maker of modern Travancore, who ruled from 904 to 933 M. E. (1729—1758) was his maternal uncle.
 
  Quite early in life, Rama Varma gave remarkable proofs of his versatile genius, and under the fostering care of his uncle, became both an able soldier and an erudite scholar. He attained proficiency in many languages, and particularly in Sanskrit, Persian, Hindustani and Malayalam. Later, he employed Pietro de Vegas, a Portuguese teacher and studied both Portuguese and English under him. He is also known to have possessed a working knowledge of Dutch. He evinced extraordinary talents not only in literature, but also in music, dancing and kindred arts.
 
  Rama Varma assisted his uncle in all the wars undertaken by him, and especially those against the Netherland East India Company, and the Rajas of Kayankulam, Ampalappuzha, Tekkumkur, and Vadakkumkur. When Ampalappuzha succumbed, so absorbing was his interest in culture that he collected all the ancient palm-leaf manuscripts preserved in the palace of the vanquished Raja and brought them over to the capital, leaving Ramayyan Dalawa, the famous minister and generalissimo of Mārtānda Varma, to take charge of the trophies of war. Several of these manuscripts may even now be seen in the Trivandrum Palace Library. In the drama Bālamartāndavijaya, composed by the poet Devaraja of Āśrāmam in South Travancore, in commemoration of the dedication by Mārtānda Varma of his kingdom to Śrī Padmanābha, his tutelary deity, on the 5th Makaram 925 M. E. (1750 A. D.), there are many passages revealing the great regard which the King had for Rāma Varma, as a poet and patron of letters. The following description of Rāni Pārvati Bāyi, occurring in Act IV of that work is worthy of perusal :
 
-** अत एव हि देवस्य श्रीमती सोदरी निरन्तरव्रतोपवासनियमतपःसम्पदनुष्ठानभूततया भूयोऽपि देदीप्यमानदेहश्रीः महिम्ना नाम्ना च महीधरेन्द्रनन्दिनीमनुस्मारयन्ती काङ्क्षितदाने कल्पलतिकामनुवर्तमाना मूर्तिमती श्रीपद्मनाभाश्रयभक्तिरिव सदानन्दमुद्वेलयन्ती श्रीपादनिकेतनाराममध्यमिदमध्यास्ते। इयं किल श्रीपद्मनाभभक्तिलतालवालमानसतया भगवतस्तत्तल्लीलावतारचरितप्रतिपादकपुराणजालपठनाकर्णनसफलीकृतकर्णयुगलोपरिविन्यस्तमृदुलतुलसीमञ्जरीसौरभ्यमाघ्रातुमिव तदुपान्तं नयनभृङ्गीमुपनयन्ती करकमलवलमानतुलसीमणिमालया भगवन्नामावलीमन्त्रमावर्तयन्ती पद्मनाभपदारविन्दसन्ततभजनाय दिवोऽवतीर्णा काचन सिद्धतपस्विनीव विराजते। किञ्च, दोहलविशेषसमर्पणसन्ततकुसुमितनानाविधलतावलीपरिवेष्टनसंशोभमानतरुवर-मण्डिते दर्शनीयतमेऽस्मिन्नारामे हैमन्तिकवासन्तिकग्रैष्मिकवार्षिकशारदिकानि शैशिराणि च विविधानि कुसुमानि तुलसीपल्लवजालानि च मालारूपतया स्वकीयकरकमलाभ्यामेव ग्रथितानि अन्यानि विप्रकीर्णानि नानाविधानि पुष्पनिकरजालानि च भगवच्छ्रीपद्मनाभस्य नृसिंहरामभद्रश्रीकृष्णप्रमुखानां तद्विभूतिभूतानां चालङ्करणाभ्यर्चनार्थं पृथक् पृथक् प्रतिदिनं प्रददाति ।**
+** अत एव हि देवस्य श्रीमती सोदरी निरन्तरव्रतोपवासनियमतपःसम्पदनुष्ठानभूततया भूयोऽपि देदीप्यमानदेहश्रीः महिम्ना नाम्ना च महीधरेन्द्रनन्दिनीमनुस्मारयन्ती काङ्क्षितदाने कल्पलतिकामनुवर्तमाना मूर्तिमती श्रीपद्मनाभाश्रयभक्तिरिव सदानन्दमुद्वेलयन्ती श्रीपादनिकेतनाराममध्यमिदमध्यास्ते। इयं किल श्रीपद्मनाभभक्तिलतालवालमानसतया भगवतस्तत्तल्लीलावतारचरितप्रतिपादकपुराणजालपठनाकर्णनस-फलीकृतकर्णयुगलोपरिविन्यस्तमृदुलतुलसीमञ्जरीसौरभ्यमाघ्रातुमिव तदुपान्तं नयनभृङ्गीमुपनयन्ती करकमलवलमानतुलसीमणिमालया भगवन्नामावलीमन्त्रमावर्तयन्ती पद्मनाभपदारविन्दसन्ततभजनाय दिवोऽवतीर्णा काचन सिद्धतपस्विनीव विराजते। किञ्च, दोहलविशेषसमर्पणसन्ततकुसुमितनानाविधलतावलीपरिवेष्टनसंशोभमानतरुवर-मण्डिते दर्शनीयतमेऽस्मिन्नारामे हैमन्तिकवासन्तिकग्रैष्मिकवार्षिकशारदिकानि शैशिराणि च विविधानि कुसुमानि तुलसीपल्लवजालानि च मालारूपतया स्वकीयकरकमलाभ्यामेव ग्रथितानि अन्यानि विप्रकीर्णानि नानाविधानि पुष्पनिकरजालानि च भगवच्छ्रीपद्मनाभस्य नृसिंहरामभद्रश्रीकृष्णप्रमुखानां तद्विभूतिभूतानां चालङ्करणाभ्यर्चनार्थं पृथक् पृथक् प्रतिदिनं प्रददाति ।**
 
  The king, on hearing these words from the mouth of one of his attendants, says to himself as follows–
 
@@ -131,11 +136,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 
  The king's high estimate of Rāma Varma may be gathered from the following verse put into his mouth by the poet:
 
-**"आचारैकानिधिः समस्तजगतामानन्दवारांनिधि–**
+**"आचारैकानिधिः समस्तजगतामानन्दवारान्निधि–**
 
 **र्दातॄणामपि चाग्रणीर्मम कुलाम्भोधेरयं चन्द्रमाः।**
 
-**एनं सन्ततमाविशन्ति विदुषां सम्पर्कजाः सद्गुणा**
+** एनं सन्ततमाविशन्ति विदुषां सम्पर्कजाः सद्गुणा**
 
 **मद्वत्सं गिरिसम्भवा इव महापाथोधिमम्भोभराः॥**
 
@@ -155,7 +160,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 
  On the death of Mārtānda Varma on the 27th Mithunam 933 (July 1758), Rāma Varma ascended the throne, and reigned for a period of about forty eventful years. His death occurred on the 7th Mithunam 973 M. E. (July 1798). It is not possible here to attempt even a brief resume of his political and administrative career. Suffice it to say that he drove the Zamorin of Malabar from Cochin and compelled him to sue for peace, made Cochin surrender the taluks of Kunnattunad, Alangad, Parur and Shertallay, the Rajas of Alangad and Parur signing separate deeds of renunciation, entered into perpetual alliance with the Nawab of Arcot, relinquishing his trans–ghatian possessions, but securing for Travancore the taluk of Shencotta and the sacred temple of Cape Comorin without further molestation from the Nawab, erected the celebrated Nedumkotta fortifications on the northern frontier, purchased the ports of Cranganore and Ayikkotta from the Dutch as a means of further protection against enemies from that quarter, defeated Tippu Sultan of Mysore, consolidated the whole territory from Tovala to the Parur and executed a treaty of perpetual friendship and alliance with the English East India Company. The extent of Travancore to-day is practically the same as when he died in 1798 A. D. Maharaja Rāma Varma was deeply religiousminded. He performed the Tulāpuruşadāna in 935, Hiraṇyagarbhadāna in 936, Brāhmāṇḍakaṭahadāna and Kalpavṛkṣadāna in 938 and Gosahasradāna, Svarṇakāmadhenudāna, Hiraṇyāśvadāna, Hiraṇyāśvarathadāna, Bhūmidāna, Viṣacakradāna, Kalpakalatādāna, Hemahastirathadāna, Pancalāngaladāna, Saptasāgaradāna, Manidhenudāna and Mahābhutakatahadāna in 340 M. E., thus completing the sixteen Mahādānas or great gifts ordained by the Hindu religion. On the 23rd Mithunam 941 M. E. (1766) he made, following in the wake of his uncle, a dedication to Śrī Padmanābha, of the territories surrendered by Cochin to Travancore. In 945 M. E. (1769), he purchased from the Raja of Ramnad the estate of Kakur in the Ramnad District for the performance of certain services in the Ramesvaram Temple. On his mother's death on the 30th Edavam 957 M. E. (1782), he resolved to proceed on a pilgrimage to Ramesvaram and perform certain religious rites there for her merit. This resolution was carried out in Vrischikam 959 M. E. (1783). In 963 M. E. (1788), be got a yāga (Vedic sacrifice) performed on a grand scale at Alwaye on the northern kank of the Periyar river.
 
- Neither Hyder Ali nor Tippu Sultan was able to devastate Travancore, as they did the other parts of Keral.When Tippu Sultan carried fire and sword into Malabar, innumerable Hindus, high and low, fled to Travancore for shelter, and the Maharaja, true to the traditions of his family, protected every one of them, as befitted his status, the question of cost or consequential risk never for once entering into his calculation. Two Sanskrit verses portraying the general panic which Tippu's invasion created in Malabar have come down to us and they are worthy of quotation here:
+ Neither Hyder Ali nor Tippu Sultan was able to devastate Travancore, as they did the other parts of Keral. When Tippu Sultan carried fire and sword into Malabar, innumerable Hindus, high and low, fled to Travancore for shelter, and the Maharaja, true to the traditions of his family, protected every one of them, as befitted his status, the question of cost or consequential risk never for once entering into his calculation. Two Sanskrit verses portraying the general panic which Tippu's invasion created in Malabar have come down to us and they are worthy of quotation here:
 
 **"तुरुष्को निष्क्रामत्तुरगस्वुरकुद्दालदलित–  
 क्षमाधूलीपालीचुलुकितचतुस्सिन्धुसलिलः।  
@@ -167,14 +172,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MTc0MjkyMDc
 धिक्कुर्वन् माटभूपं सदसि निजभटैः साकमास्ते तुरुष्कः  
 कार्तान्तीं गन्तुकामो दिशमखिलजनान् पाहि वञ्चिक्षितीश!॥"**
 
- The asylum accorded by the Mahraja to those refugees was one of the several reasons advanced by the Sultan for invading Travancore. His first attempt, however, failed miserably. Even the Muhammadan historian Mir Husain Ali Khan Kirmani, admits that, on the 28th December 1789, "the enemy attacked the Sultan's troops on all sides with arrows and musketry and caused incalculable distress and confusion among them............Three or four hundred horsemen, men of good families, gave substantial rpoofs of their valour and were all killed and wounded in front of the Sultan...........In short the Sultan and Kamruddin Khan escaped out of the whirlpool of their misfortunes, and the rest of the Khans..........were never after heard of". When Tippu, maimed for life in that ambush, came again to wreak his vengeance on the Maharaja, the Periyar river, which was in high flood, arrested his advance, illustrating the truth of the observation made in the drama.Pratijñāyaugandhārayaṇa, attributed to Bhāsa.
+ The asylum accorded by the Mahraja to those refugees was one of the several reasons advanced by the Sultan for invading Travancore. His first attempt, however, failed miserably. Even the Muhammadan historian Mir Husain Ali Khan Kirmani, admits that, on the 28th December 1789, "the enemy attacked the Sultan's troops on all sides with arrows and musketry and caused incalculable distress and confusion among them............Three or four hundred horsemen, men of good families, gave substantial rpoofs of their valour and were all killed and wounded in front of the Sultan...........In short the Sultan and Kamruddin Khan escaped out of the whirlpool of their misfortunes, and the rest of the Khans..........were never after heard of". When Tippu, maimed for life in that ambush, came again to wreak his vengeance on the Maharaja, the Periyar river, which was in high flood, arrested his advance, illustrating the truth of the observation made in the drama. Pratijñāyaugandhārayaṇa, attributed to Bhāsa.
 
 **"परचक्रैरनाक्रान्ता धर्मसङ्करवर्जिता।  
 भूमिर्भर्तारमापन्नं रक्षिता परिरक्षति॥"**
 
 and before the flood subsided, Lord Cornwallis was virtually at the gate of Seringapatam. Rāma Varma was loyally served by very able ministers, the foremost among whom were Rāja Keśava Dās, Aiyappan Mārtāṇḍan Pillai and Mahādevayyan Subbayyan, as also his distinguished Flemish general, Eustatius de Lannoy who died in 1777 A. D. On the 2nd July 1774, Pope Clement XIV sent him a message of good–will, in recognition of the kindness and consideration shown by him to his Christian subjects. On the 10th October 1790, the Maharaja was honoured by the Nizam of Hyderabad, in his capacity as the vicegerent of the Muhammadan Emperor of Delhi in South India, with the titles of Kīṛiṭapati Manne Sultan Maharaja Raja Raina Raja Bahadur Shamsher Jung, and these titles are even now borne by his successors.
 
- The charities of the Maharaja were so liberal and widespread that he came to be known as Dharmarāja throughout India. Contemporary writers have left glowing accounts of his high character. Fra Paolino da San Bartolomeo, the Carmelite friar and scholar who lived for several years in Travancore and who knew the Maharaja intimately, has recorded: "He is an affable, polite, contented, prudent, friendly man..........For my part I could not help admiring the goodness of heart, the affability and humanity of this prince as well as the simplicity of his household establishment and way of life". He has further stated: "Public security is again restoredthroughout the whole country; robbery and murder are no longer heard of; no one has occision to be afraid on high ways; religious worship is never interrupted; and people may rest assured that on every occasion justice will be speedily administered". Adriran Moens, the Dutch Governor of Cochin, has observed that he "directs the principal affairs himself, enquires into, and is acquainted with every thing that is of any importance". The English Commissioners appointed to settle the affairs of Malabar in 1792 A. D., have remarked: "We own he left a very favourable impression on our minds both as to his personal qualities and what we consider as the unequivocal sincerity of his attachment to he Honourable Company".
+ The charities of the Maharaja were so liberal and widespread that he came to be known as Dharmarāja throughout India. Contemporary writers have left glowing accounts of his high character. Fra Paolino da San Bartolomeo, the Carmelite friar and scholar who lived for several years in Travancore and who knew the Maharaja intimately, has recorded: "He is an affable, polite, contented, prudent, friendly man..........For my part I could not help admiring the goodness of heart, the affability and humanity of this prince as well as the simplicity of his household establishment and way of life". He has further stated: "Public security is again restored throughout the whole country; robbery and murder are no longer heard of; no one has occision to be afraid on high ways; religious worship is never interrupted; and people may rest assured that on every occasion justice will be speedily administered". Adriran Moens, the Dutch Governor of Cochin, has observed that he "directs the principal affairs himself, enquires into, and is acquainted with every thing that is of any importance". The English Commissioners appointed to settle the affairs of Malabar in 1792 A. D., have remarked: "We own he left a very favourable impression on our minds both as to his personal qualities and what we consider as the unequivocal sincerity of his attachment to he Honourable Company".
 
  The Maharaja was a great lover of culture. When Fra Paolino told him that he had studied Amarakośa, he was greatly pleased. The friar says: "This is the real and principal cause why the king, during the whole time of my residence in Malabar, behaved to me with so much kindness". The Maharaja asked him to explain the parts of speech of the English grammar, and on his doing so, went the length of calling him his *Guru*. He also insisted on his subordinates studying the Dutch language, because of the necessity they had for frequent correspondence with the Netherland East India Company.
 
@@ -202,7 +207,7 @@ and before the flood subsided, Lord Cornwallis was virtually at the gate of Seri
 
  Besides Devarāja, the author of Balamārtāndavijaya already referred to, the most famous scholars and poets in his court were:—(1) Sadasiva Diksita, (2) Kalyānasubrahmanya, (3) Venkatasubrahmanya, (4) Subrahmanya, (5) Pantalam Subrahmanya Sastri, (6) Kunchan Nambiyar, (7) Putiyikkal Tampan, (8) Maptavappalli Ittirarissa Menon. In the centre of this galaxy shone the glorious orb of Asvati Tirunal Rāma Varma, one of the greatest Sanskrit poets of his age, who was the Maharaja's own grand-nephew and who became whose prom "CIr-apparent to the throne in 1796 A. D., but whose promising life was cut off at the all-too-early age of 32. Very soon after in 1788 A. D. Asvati Tirunal, who is referred to as **“भागिनेयः स्वनामा”** “in Balarāmabharata, composed a prašasti of the Maharaja under the title of Vañcīśastava, which I published for the first time in volume II of the Kerala Society Papers. In his drama, Rukmipāparinaya, published in the Kavyamala Series, Asvati Tirunal gives a further description of the Maharaja in the following passage:
 
- **“अस्ति निखिलखलहृदयनिचङ्खन्यमानशोकशल्यस्य, शल्यस्यैव धर्मजातबद्धः चेतसः, प्रचेतस इव पार्श्वपरिभ्राजमानवाहिनसिहस्रस्य, सहस्रदीधितेरिवोन्मुखपद्माकरगृहीतपादपल्लवस्य वैनतेयस्येव भृशमहितापदानवतः, वैनतेयस्येव भृशमहितापदानवत, कार्त्तिकेयस्येवाप्रतिहृतशक्तेः, आखण्डलस्येव प्रकटितशतकोटिदानविस्मयस्य, विशङ्कटभुजविटपिविहरमाणविश्वम्भराशारिकस्य, हरिचरणपरिचरणधुरीणांधिषणस्य, सकलपरिपन्थिमण्डलात्ययविश्रान्तचापगुणकर्मणोऽपि सकलदिगन्त श्रूयमाणगुरुगुणध्वनेः, पार्थिवप्रधानस्यापि गुणमयस्य, राज्ञः श्रीपद्मनाभदासवञ्चिवालकुलशेखररामवर्मणः”**
+ ** “अस्ति निखिलखलहृदयनिचङ्खन्यमानशोकशल्यस्य, शल्यस्यैव धर्मजातबद्धः चेतसः, प्रचेतस इव पार्श्वपरिभ्राजमानवाहिनसिहस्रस्य, सहस्रदीधितेरिवोन्मुखपद्माकरगृहीतपादपल्लवस्य वैनतेयस्येव भृशमहितापदानवतः, वैनतेयस्येव भृशमहितापदानवत, कार्त्तिकेयस्येवाप्रतिहृतशक्तेः, आखण्डलस्येव प्रकटितशतकोटिदानविस्मयस्य, विशङ्कटभुजविटपिविहरमाणविश्वम्भराशारिकस्य, हरिचरणपरिचरणधुरीणान्धिषणस्य, सकलपरिपन्थिमण्डलात्ययविश्रान्तचापगुणकर्मणोऽपि सकलदिगन्त श्रूयमाणगुरुगुणध्वनेः, पार्थिवप्रधानस्यापि गुणमयस्य, राज्ञः श्रीपद्मनाभदासवञ्चिवालकुलशेखररामवर्मणः”**
 
  In another work of his, Śrṅgārasudhākarabhāṇa (unpublished ), the Maharaja is again referred to as **“चतुरर्णवपर्यन्तानन्तासन्ततसमागतराजराजिराजन्म कुटतटखचित हरिन्मणिविसुत्वरदीप्तिच्छटावर्षदेदीप्यमान चरणकन्दलस्य तस्य श्रीकुलशेखरराम वर्मनामधेयस्य”**
 
@@ -238,7 +243,8 @@ and before the flood subsided, Lord Cornwallis was virtually at the gate of Seri
  Kalyāṇasubrahmaṇya also composed a work on rhetoric by name Alaṅkārabhūṣaṇa in praise of the Maharaja on the pattern of Appayya Dīkṣita’s Kuvalayānanda. The following verse occurs in that work:
 
 **शराजन्मधुराधरां प्रविलसच्चोलां कनत्कुन्तलां**  
-**काश्मीराङ्गविभूषणातिललितां काञ्चीगुणालङ्कृताम्।क्षोणीं श्रीरघुरामवन्निरुपमां रत्नाकरोरूर्मिका-**  
+**काश्मीराङ्गविभूषणातिललितां काञ्चीगुणालङ्कृताम्।**  
+**क्षोणीं श्रीरघुरामवन्निरुपमां रत्नाकरोरूर्मिका-**  
 **जालां तामनुरञ्जयत्वनुदिनं श्रीरामवर्मप्रभुः॥**
 
  Venkaṭasubrahmaṇya, son of Venkaṭeśvaramakhin of the family of the celebrated Appayya Dīksita himself, wrote Vasulakṣmīkalyāṇa, a drama in five acts (unpublished). That drama also extols the achievements of the Maharaja and makes reference to the close friendship which subsisted between him and the English East India Company **"हूणराजस्य चिरप्रवृत्तमपि सख्यं देवेन बहुलीभविष्यतीति मन्ये।”)**
@@ -263,7 +269,7 @@ and before the flood subsided, Lord Cornwallis was virtually at the gate of Seri
 
  Itavattikkāṭṭu Nārāyanan Namputiri, the author of Rukmiṇīpariṇayacampu, was a well-known Sanskrit poet who lived during the reign of Rama Varma. He has composed several beautiful verses in praise of the Maharaja, two of which are quoted below:
 
-**“कोऽपि श्रीपद्मनाभप्रचुरतरकृपापूरपीयूषसेक**  
+**“कोऽपि श्रीपद्मनाभप्रचुरतरकृपापूरपीयूषसेक **  
 **स्फीतप्रोत्तुङ्गविद्याविटपिततिलसन्नीतिसारप्रवालः।**  
 **धन्यो धर्मप्रसूनप्रभवनवयशस्सौरभापूरिताशो**  
 **भाति श्रेयः फलौघैर्द्विजकुलशरणं रामराजामरद्रु॥**
@@ -295,7 +301,7 @@ and before the flood subsided, Lord Cornwallis was virtually at the gate of Seri
 **शास्त्रालोकप्रवणमतिभिर्वाच्यमानेतिहास-**  
 **व्याख्यालेख्यादिभिरविरतं पण्डितैर्मण्डितान्तम्।**  
 **कारुण्यार्द्रं करयुगलसच्छृङ्खलाकङ्कणाङ्कै-**  
-**वस्तातङ्रकैरपि परिजनैःसेव्यमानं समन्तात्॥**
+**वस्तातङ्रकैरपि परिजनैः सेव्यमानं समन्तात्॥**
 
 **“द्रष्टुं देशान्तरवसतिभिः सानुगैर्माननीयै-**  
 **रम्यायातैर्नृपतिभिरशुन्वीकृतोपान्तभागम्।**
@@ -319,7 +325,7 @@ and before the flood subsided, Lord Cornwallis was virtually at the gate of Seri
  Among others who found shelter in Travancore from the Tiger of Mysore was Manorama Tampurāṭṭi of the Zamorin's family. She was the most learned woman ofher age in Kerala. It may even be added that, great as the culture of women is in Kerala, no lady has risen to her level in Sanskrit scholarship either before or after. The tradition is that, even before she was twelve years of age, she could recite and explain the whole of Bahṭṭoji Dīksita's Praudhamanorama. Manorama Tampurāṭṭi, on her arrival in Travancore, was accommodated at Kunnattur and subsequently at Ennakkad, and treated as a royal guest. Much epistolatory literature passed between the Maharaja and her, and the following verses furnish a specimen thereof:
 
 **"हेमाम्भोजिनि ! राजहंसनिवहैरास्वाद्यमानासवे**  
-**भृङ्गोऽहं वनमन्जरीकृतपदस्त्वामेव किञ्चिद् ब्रुवे।**  
+**भृङ्गोऽहं वनमञ्जरीकृतपदस्त्वामेव किञ्चिद् ब्रुवे।**  
 **चेतो मे भवदीयपुष्पमकरन्दास्वादने संस्पृहं**  
 **वाच्यावाच्यविचारमार्गविमुखो लोकेषु कामी जनः॥**
 
@@ -379,11 +385,15 @@ K. SĀMBASIVA ŚĀSTRI.
 
 **————————————**
 
+
+
+
+
 **॥श्रीः॥**
 
  असाधारणमिदं किमप्यपूर्वमपदानमस्मद्राजवंशस्य, तदनु वञ्चिमण्डलस्याथ चास्याधिकरणस्य, यत् किल महोन्नतमहामहिमशालिना महाराजधुरन्धरेण श्रीबालरामवर्मकुलशेखरेण जाग्रत्यपि महति महति राज्यभरणपारतन्त्र्ये कस्यचन महाकवेर्महापण्डितस्यापि कृच्छ्रसाध्यं किमपि नाट्यशास्त्रनिबन्धनं कृतमधुना प्रकाशं प्राप्यते। प्रमाणशतपरिनिष्ठितं विज्ञानं प्रायोगिकीं गतिमधिरुह्यानुभविकेन वर्त्मना प्रस्रुतं प्रकाशितं चेदं शास्त्रं किमप्यद्वितीयमाभरणं सामान्यतो नाट्यकलाकुतुकिनां विशेषतश्च केरलीयानां तेषाम्। अत्र—
 
- ‘भावरसार्थक्रियाकारित्वं भरतत्वम्’ इति निष्कृष्टं भरतलक्षणमुक्त्वा तच्च अङ्गेषु शिरःप्रभृतिषूपाङ्गेषुनयनादिषु प्रत्यङ्गेषु ग्रीवादिषु च सङ्गमय्य रागतालादि च बाह्यमङ्गं भावाद्यभिव्यञ्जनौपयिकमभ्युपेत्य विशिष्याभ्यन्तराणामङ्गोपाङ्गप्रत्यङ्गानां शाब्दिकानामार्थिकानां च यावत्सम्भवं भरतोपयोगीनि लक्षणानि विनियोगाश्च विस्तरशः कथितानि। सुतरामेतेषु केरलेषु प्रसिद्धास्तास्ता आङ्गिकसात्त्विकाद्या आभिनयिक्यो गतयस्तादात्त्विकप्रयोगपदवीं प्रतिपन्नाश्चोदादारिषत। तच्चेदं तत्त्वं तत्रतत्र सन्दर्भेषु ग्रन्थकारमुद्राचाक्यै : स्वचिन्तिताभिनयप्रस्तावात् प्रकटमवगम्यते। यथा—
+ ‘भावरसार्थक्रियाकारित्वं भरतत्वम्’ इति निष्कृष्टं भरतलक्षणमुक्त्वा तच्च अङ्गेषु शिरःप्रभृतिषूपाङ्गेषु नयनादिषु प्रत्यङ्गेषु ग्रीवादिषु च सङ्गमय्य रागतालादि च बाह्यमङ्गं भावाद्यभिव्यञ्जनौपयिकमभ्युपेत्य विशिष्याभ्यन्तराणामङ्गोपाङ्गप्रत्यङ्गानां शाब्दिकानामार्थिकानां च यावत्सम्भवं भरतोपयोगीनि लक्षणानि विनियोगाश्च विस्तरशः कथितानि। सुतरामेतेषु केरलेषु प्रसिद्धास्तास्ता आङ्गिकसात्त्विकाद्या आभिनयिक्यो गतयस्तादात्त्विकप्रयोगपदवीं प्रतिपन्नाश्चोदादारिषत। तच्चेदं तत्त्वं तत्रतत्र सन्दर्भेषु ग्रन्थकारमुद्राचाक्यै : स्वचिन्तिताभिनयप्रस्तावात् प्रकटमवगम्यते। यथा—
 
 **“बालराममहीपालचिन्तिताभिनये मुदा।  
 परावृत्तशिरो नाट्ये चैतेषु विनियुज्यते॥”**
@@ -413,7 +423,7 @@ K. SĀMBASIVA ŚĀSTRI.
 **रसिकजन सहस्रैः शोभितायां सभायां**  
 **भरतमिह विधातुं प्रार्थितो वञ्चिराजः॥”**
 
- इति पद्यादभिनयानुगुणपरिकरपरिपोषितो महाराजस्य प्रयोक्तुरिह सङ्गत इति शक्यमूहितुम्। इतश्चात्र कथितानां सर्वेषां लक्षणविनियोगावानुभविके पथि प्रहृताविति सिद्धम्। अतो ग्रन्थकर्त्रामहाराजेन पूर्वाचार्यप्रमाणमनुसरतस्वदेशीयाचारपरिपाटीमुपलक्षयता च समुचितमुपबृंहणं भरतशास्त्रस्य कृतमित्यत्र परस्परतोलनं किमपि प्रघट्टकमुदाह्रियते—
+ इति पद्यादभिनयानुगुणपरिकरपरिपोषितो महाराजस्य प्रयोक्तुरिह सङ्गत इति शक्यमूहितुम्। इतश्चात्र कथितानां सर्वेषां लक्षणविनियोगावानुभविके पथि प्रहृताविति सिद्धम्। अतो ग्रन्थकर्त्रा महाराजेन पूर्वाचार्यप्रमाणमनुसरतस्वदेशीयाचारपरिपाटीमुपलक्षयता च समुचितमुपबृंहणं भरतशास्त्रस्य कृतमित्यत्र परस्परतोलनं किमपि प्रघट्टकमुदाह्रियते—
 
  कोहलमुनिमते—संयुतहस्तप्रकरणे
 
@@ -421,13 +431,13 @@ K. SĀMBASIVA ŚĀSTRI.
 **कटकात्मसमानश्च स्वस्तिको गजदन्तकः।**  
 **दोलावहित्थश्चोत्सङ्गो निषधः पुष्पपुटः करः।**  
 **मकरश्चेति संयुक्ता हस्तास्ते च त्रयोदश।**  
-**पताकस्तलयोःश्लेषादञ्जलिः क्षालनादिषु।**  
+**पताकस्तलयोः श्लेषादञ्जलिः क्षालनादिषु।**  
 **महेश गुरुपूजायामयं स्यादभिवादने।”**
 
  प्रकृते बालरामभरते—
 
 **“अञ्जलि कपोताख्यः करः पुष्पपुटस्तथा।  
-सङ्कल्पताडनपताकोत्सङ्गा डोल एव च॥**
+सङ्कल्पताडनपताकोत्सङ्गा डोळ एव च॥**
 
 **उपचारोऽभयवरदः करो मकरस्तथा।  
 गजदन्तकरश्चैव कूर्परस्वस्तिकः करः॥**
@@ -449,7 +459,7 @@ K. SĀMBASIVA ŚĀSTRI.
 
  इत्यादि।
 
- एतावता सामान्यतः प्रचुरप्रचारं भरततन्त्रं स्वतन्त्रोऽयं निबन्धा महाराजः स्वकीयदेशाचारपरम्परापरिपाटीमनुरूपामपि घटयन् कोऽपि च भरताचार्य एव केरलेषु प्रथते। भरतकोहलादीन पूर्वाचार्यांस्तत्तत्प्रणीताः कृतीश्च प्रमाणयन्नयं महानुभावो ग्रन्थकारस्तेषामिङ्गितमन्तरङ्गरिङ्गितं निस्सृष्टार्थ इव समयोचितं पल्लवयन् मन्ये तेषामंशभूत एव कश्चिदवतारोऽपि नाम। कथमन्यथा मनागप्यन्यैरपरिस्पृष्टांस्तांस्तानपूर्वानभिनयान् भावोदयादयमाविर्भावयतु। समनुगुणा च संज्ञास्य निबन्धनस्य वालरामभरतमितियत् किल—श्रीबालरामवर्मणा प्रणीतम्। उक्तं च ग्रन्थोपक्रम एव।
+ एतावता सामान्यतः प्रचुरप्रचारं भरततन्त्रं स्वतन्त्रोऽयं निबन्धा महाराजः स्वकीयदेशाचारपरम्परापरिपाटीमनुरूपामपि घटयन् कोऽपि च भरताचार्य एव केरलेषु प्रथते। भरतकोहलादीन पूर्वाचार्यांस्तत्तत्प्रणीताः कृतीश्च प्रमाणयन्नयं महानुभावो ग्रन्थकारस्तेषामिङ्गितमन्तरङ्गरिङ्गितं निस्सृष्टार्थ इव समयोचितं पल्लवयन् मन्ये तेषामंशभूत एव कश्चिदवतारोऽपि नाम। कथमन्यथा मनागप्यन्यैरपरिस्पृष्टांस्तांस्तानपूर्वानभिनयान् भावोदयादयमाविर्भावयतु। समनुगुणा च सञ्ज्ञास्य निबन्धनस्य वालरामभरतमितियत् किल—श्रीबालरामवर्मणा प्रणीतम्। उक्तं च ग्रन्थोपक्रम एव।
 
 **“तत्सारसङ्ग्रहं कृत्वा बालराममहीपतिः।  
 लोकानामुपकाराय कृतवान् भरतं मुदा॥”**
@@ -463,7 +473,7 @@ K. SĀMBASIVA ŚĀSTRI.
 **“माप्राणं त्यज मा प्राणं माप्राणसमवल्लभ!।**  
 **मानविक्रमतेजोभिर्मानविक्रमभूपते!॥”**
 
- इति।वंशः।एतेषां च श्रीबालरामवर्ममहाराजानां सूर्यवंशादेव पारम्परिकादवतार इति स्ववंशमहिमापि पूर्वपीठिकायां घटिते—
+ इति। ** ** वंशः। एतेषां च श्रीबालरामवर्ममहाराजानां सूर्यवंशादेव पारम्परिकादवतार इति स्ववंशमहिमापि पूर्वपीठिकायां घटिते—
 
 **“इत्थं हि रामवचनस्तुतदिव्यमूर्ति-**  
 **र्यां भूमिमेव परिपालयति स्म पूर्वम्।**
@@ -490,7 +500,7 @@ K. SĀMBASIVA ŚĀSTRI.
 **आपादमधुरे वस्तुन्यपिचालोचनामृते।  
 सममारमतेऽस्मै वाक् समग्रहृदयास्थिता॥**
 
-**कवयः कालिदासाद्माभोजराजीव राजति।  
+**कवयः कालिदासाद्मा भोजराजीव राजति।  
 भारतीहृदयारामे रामेऽस्मिन् गेयतां गताः॥”**
 
  एतत्प्रसिद्धीकृतेरुपयुक्त आदर्श एक एव महोन्नतमहामहिमश्रीमहाराजीयग्रन्थशालीयः प्रायोऽध्यर्धशतपरिवत्सरीपर्युषित इति जितमेतत्परि पालनेनापि तया ग्रन्थशालया। सर्वथाद्वितीयं भरतशास्त्रमिदमद्वितीयादर्शदृष्टं प्रसिद्धीकृत्य तामिमां महाराजमन्दिरग्रन्थशालामस्मदधिकरणं च कृतज्ञतानुगुणं सकृदप्यनुस्मरन्नस्मि महाजनसमक्षमवतारयामि॥
@@ -502,508 +512,523 @@ K. SĀMBASIVA ŚĀSTRI.
 
 **—————**
 
+
+
 **विषयानुक्रमणी।  
 –––––**
 
-|                                                                          |                                                                   |
-|--------------------------------------------------------------------------|-------------------------------------------------------------------|
-| **विषयः**                                                                | **विषयः**                                                         |
-| मङ्गलाचरणम्                                                              | भरतोत्पत्तिः                                                      |
-| ग्रन्थारम्भप्रतिज्ञा                                                     | श्रीबालराममहीपतेरुक्तिप्रशंसा                                     |
-| वञ्चिराज्यप्रशंसा                                                        | भरतशब्दस्यार्थः                                                   |
-| श्रीबालरामनृपतिप्रशस्तिः                                                 | भरतलक्षणनिर्वचनम्                                                 |
-| भावरागतालेषु कतमत् प्रधानमिति विचारः                                     | भावरागतालेषु अङ्गाङ्गिभावविचारः                                   |
-| तत्र आचार्याणां मतम्                                                     | भावनिरूपणम्                                                       |
-| गायकानां मतम्                                                            | श्रोत्रादीनां भरताङ्गत्वं प्रति विचारः                            |
-| तालज्ञानां मतम्                                                          | अङ्गलक्षणम्                                                       |
-| एतत्पक्षत्रयनिरूपणाय वाद्यस्वरूपकीर्तनम्                                 | उपाङ्गलक्षणम्                                                     |
-| तत्र गात्रभवादीनि पञ्च वाद्यानि                                          | प्रत्यङ्गलक्षणम्                                                  |
-| खण्डाखण्डभेदेन नादस्य द्वैविध्यम्                                        | अनुबन्धचतुष्टये अधिकारिलक्षणम्                                    |
-| तत्प्रपञ्चनम्                                                            | विषयनिरूपणम्                                                      |
-| विविधरागोत्पत्तिप्रकारः                                                  | सम्बन्धप्रयोजनयोः प्रतिपादनम्                                     |
-| श्रुतिस्वरूपकीर्तनम्                                                     | ललाटादीनि चतुर्दशार्थिकन्यङ्गानि                                  |
-| यक्कालादीनि श्रुतिगतानि चत्वारि वाद्यानि                                 | शाब्दिकाङ्गेषु शिरआदीनि षट् साक्षादङ्गानि                         |
-| भेरीमण्यादीनि रागतालद्वयगतानि चत्वारि वाद्यानि                           | नेत्रादीनि षट् उपाङ्गानि                                          |
-| चलवीणादीनि श्रुतितालगतानि दश वाद्यानि                                    | ग्रीवादीनि षट् प्रत्यङ्गानि                                       |
-| वेण्वादीनि रागतालगतानि सप्त वाद्यानि                                     | शाब्दिकाङ्गानां सामान्यतो विनियोगः                                |
-| शङ्खादीनि तालमात्रगतानि चवारि वाद्यानि                                   | तत्र साक्षादङ्गानां विनियोगः                                      |
-| मद्दलादीनि त्रिंशत् चर्मवाद्यानि                                         | उपाङ्गानां विनियोगः                                               |
-| भावस्य प्राधान्यस्थापनम्                                                 | प्रत्यङ्गानां विनियोगः                                           |
+| | |
+|----|----|
+| **विषयः** | **विषयः** |
+| मङ्गलाचरणम् | भरतोत्पत्तिः |
+| ग्रन्थारम्भप्रतिज्ञा | श्रीबालराममहीपतेरुक्तिप्रशंसा |
+| वञ्चिराज्यप्रशंसा | भरतशब्दस्यार्थः |
+| श्रीबालरामनृपतिप्रशस्तिः | भरतलक्षणनिर्वचनम् |
+| भावरागतालेषु कतमत् प्रधानमिति विचारः | भावरागतालेषु अङ्गाङ्गिभावविचारः |
+| तत्र आचार्याणां मतम् | भावनिरूपणम् |
+| गायकानां मतम् | श्रोत्रादीनां भरताङ्गत्वं प्रति विचारः |
+| तालज्ञानां मतम् | अङ्गलक्षणम् |
+| एतत्पक्षत्रयनिरूपणाय वाद्यस्वरूपकीर्तनम् | उपाङ्गलक्षणम् |
+| तत्र गात्रभवादीनि पञ्च वाद्यानि | प्रत्यङ्गलक्षणम् |
+| खण्डाखण्डभेदेन नादस्य द्वैविध्यम् | अनुबन्धचतुष्टये अधिकारिलक्षणम् |
+| तत्प्रपञ्चनम् | विषयनिरूपणम् |
+| विविधरागोत्पत्तिप्रकारः | सम्बन्धप्रयोजनयोः प्रतिपादनम् |
+| श्रुतिस्वरूपकीर्तनम् | ललाटादीनि चतुर्दशार्थिकन्यङ्गानि |
+| यक्काळादीनि श्रुतिगतानि चत्वारि वाद्यानि | शाब्दिकाङ्गेषु शिरआदीनि षट् साक्षादङ्गानि |
+| भेरीमण्यादीनि रागतालद्वयगतानि चत्वारि वाद्यानि | नेत्रादीनि षट् उपाङ्गानि |
+| चलवीणादीनि श्रुतितालगतानि दश वाद्यानि | ग्रीवादीनि षट् प्रत्यङ्गानि |
+| वेण्वादीनि रागतालगतानि सप्त वाद्यानि | शाब्दिकाङ्गानां सामान्यतो विनियोगः |
+| शङ्खादीनि तालमात्रगतानि चवारि वाद्यानि | तत्र साक्षादङ्गानां विनियोगः |
+| मद्दलादीनि त्रिंशत् चर्मवाद्यानि | उपाङ्गानां विनियोगः |
+| भावस्य प्राधान्यस्थापनम् | प्रत्यङ्गानां विनियोगः |
 | शक्त्यादिरूपैस्तालादिभिस्ताण्डवेशस्य सृष्ट्यादिपञ्चकृत्यनिर्वर्तनवर्णनम् | अथैतेषां विशेषतो लक्षणविनियोगचिन्तायां समादय एकादश स्थिरशिरोभेदाः |
-| नाट्यप्रवर्तकानामाचार्याणां नाम—                                         | दीर्घकम्पितादयस्त्रयोदशा स्थिरशिरोभेदाः                           |
-|                                                                         | पुरःखण्डितादयः षट् खण्डितशिरोभेदाः                                |
-|                                                                         | तेषु समशिरसो लक्षणविनियोगः                                        |
+| नाट्यप्रवर्तकानामाचार्याणां नाम— | दीर्घकम्पितादयस्त्रयोदशा स्थिरशिरोभेदाः |
+| | पुरःखण्डितादयः षट् खण्डितशिरोभेदाः |
+| | तेषु समशिरसो लक्षणविनियोगः |
 
-|                                      |                                 |
-|:------------------------------------:|:-------------------------------:|
-|              **विषयः**               |            **विषयः**            |
-|      अधोमुखशिरसो लक्षणविनियोगः       |          तस्य विनियोगः          |
-|     उद्वाहितशिरसो लक्षणविनियोगः      |       अर्धपताकस्य लक्षणम्       |
-|    उत्क्षिप्तशिरसो लक्षणविनियोगः     |          तस्य विनियोगः          |
-|     निकुञ्चितशिरसो लक्षणविनियोगः     | कर्तरीमुखहस्तस्य लक्षणविनियोगः  |
-|     स्कन्धानतशिरसो लक्षणविनियोगः     |    मयूरहस्तस्य लक्षणविनियोगः    |
-|   पार्श्वभिमुखशिरसो लक्षणविनियोगः    | अर्धचन्द्रहस्तस्य लक्षणविनियोगः |
-|     परावृत्तशिरसो लक्षणविनियोगः      |    अरालहस्तस्य लक्षणविनियोगः    |
-|       आधूतशिरसो लक्षणविनियोगः        |  शुकतुण्डहस्तस्य लक्षणविनियोगः  |
-|  तिर्यग्गतोन्नतशिरसो लक्षणविनियोगः   |   मुष्टिहस्तस्य लक्षणविनियोगः   |
-|    दीर्घकम्पितशिरसो लक्षणविनियोगः    |    शिखरहस्तस्य लक्षणविनियोगः    |
-|    शीघ्रकम्पितशिरसो लक्षणविनियोगः    |    सूचीहस्तस्य लक्षणविनियोगः    |
-|      कम्पितशिरसो लक्षणविनियोगः       | त्रिलिङ्गहस्तस्य लक्षणविनियोगः  |
-|        धुतशिरसो लक्षणविनियोगः        |   कपित्थहस्तस्य लक्षणविनियोगः   |
-|       विधूतशिरसो लक्षणविनियोगः       |     कटकामुखहस्तस्य लक्षणम्      |
-|       अवधूतशिरसो लक्षणविनियोगः       |          तस्य विनियोगः          |
-|       चलितशिरसो लक्षणविनियोगः        |   कुटिलहस्तस्य लक्षणविनियोगः    |
-|       लोलितशिरसो लक्षणविनियोगः       | बालचन्द्रहस्तस्य लक्षणविनियोगः  |
-|     आरात्रिकशिरसो लक्षणविनियोगः      |  सर्पशिरोहस्तस्य लक्षणविनियोगः  |
-|     परिवाहितशिरसो लक्षणविनियोगः      |  मृगशिरोहस्तस्य लक्षणविनियोगः   |
-|     कन्धरांसशिरसो लक्षणविनियोगः      |   मुकुलहस्तस्य लक्षणविनियोगः    |
-|    उद्वेष्टितशिरसो लक्षणविनियोगः     |    बाणहस्तस्य लक्षणविनियोगः     |
-|     अपवेष्टितशिरसो लक्षणविनियोगः     |  निरीक्षणहस्तस्य लक्षणविनियोगः  |
-|    पुरःखण्डितशिरसो लक्षणविनियोगः     |       चतुरहस्तस्य लक्षणम्       |
-|   पश्चात्खण्डितशिरसो लक्षणविनियोगः   |          तस्य विनियोगः          |
-|   पार्श्वखण्डितशिरसो लक्षणविनियोगः   |  सिंहाननहस्तस्य लक्षणविनियोगः   |
-|   ऊर्ध्वखण्डितशिरसो लक्षणविनियोगः    |  हंसास्यहस्तस्य लक्षणविनियोगः   |
-|     अधःखण्डितशिरसो लक्षणविनियोगः     |   सन्दंशहस्तस्य लक्षणविनियोगः   |
-|    विषमखण्डितशिरसो लक्षणविनियोगः     |  हंसपक्षहस्तस्य लक्षणविनियोगः   |
-| एषां परस्परमेलनेनोत्पन्नाः शिरोभेदाः |     गाङ्गूलहस्तस्य लक्षणम्      |
-|  अथ पताकादयश्चत्वारिंशदसंयुतहस्ताः   |          तस्य विनियोगः          |
-|    तेषु पताकहस्तस्य लक्षणविनियोगः    |  ताम्रचूडहस्तस्य लक्षणविनियोगः  |
-|       त्रिपताकहस्तस्य लक्षणम्        |  ऊर्णनाभहस्तस्य लक्षणविनियोगः   |
-|                                     |  पद्मकोशहस्तस्य लक्षणविनियोगः   |
-|                                     |  अलपल्लवहस्तस्य लक्षणविनियोगः   |
 
-|                                     |                                       |
-|:-----------------------------------:|:-------------------------------------:|
-|              **विषयः**              |               **विषयः**               |
-|    प्रालम्बहस्तस्य लक्षणविनियोगः    |      संयुक्तपल्लवहस्तस्य लक्षणम्      |
-|     भ्रमरहस्तस्य लक्षणविनियोगः      |             तस्य विनियोगः             |
-|    पुरोन्नतहस्तस्य लक्षणविनियोगः    |     अवहित्थहस्तस्य लक्षण विनियोगः     |
-|   चतुरुन्नतहस्तस्य लक्षणविनियोगः    |   विस्तृतपल्लवहस्तस्य लक्षणविनियोगः   |
-|  पूर्णचन्द्रहस्तस्य लक्षणविनियोगः   | हस्तानां स्त्रीपुंनपुंसकभेदप्रदर्शनम् |
-|    शिलीमुखहस्तस्य लक्षणविनियोगः     |     अथ स्थेमादयः सप्त वक्षोभेदाः      |
-|   उद्वेष्टितहस्तस्य लक्षणविनियोगः   |    तत्र स्थेमवक्षसो लक्षणविनियोगः     |
-|   अपवेष्टितहस्तस्य लक्षणविनियोगः    |      आभुग्नवक्षसो लक्षणविनियोगः       |
-|      भद्रहस्तस्य लक्षणविनियोगः      |     निर्भुग्नवक्षसो लक्षणविनियोगः     |
-| अञ्जल्यादयः सप्तविंशतिः संयुतहस्ताः |     प्रकम्पितवक्षसो लक्षणविनियोगः     |
-|  तेषु अञ्जलिहस्तस्य लक्षणविनियोगः   |        उद्वाहितवक्षसो लक्षणम्         |
-|      कपोतहस्तस्य लक्षणविनियोगः      |             तस्य विनियोगः             |
-|    पुष्पपुटहस्तस्य लक्षणविनियोगः    |       चलितवक्षसो लक्षणविनियोगः        |
-|    सङ्कल्पहस्तस्य लक्षणविनियोगः     |       भ्रमणवक्षसो लक्षणविनियोगः       |
-|    ताडनपताकहस्तस्य लक्षणविनियोगः    |   अथ विवर्तितादयः षट् पार्श्वभेदाः    |
-|    उत्सङ्गहस्तस्य लक्षणविनियोगः     |    तत्र विवर्तितपार्श्वस्य लक्षणम्    |
-|      डोलहस्तस्य लक्षणविनियोगः       |             तस्य विनियोगः             |
-|     उपचारहस्तस्य लक्षणविनियोगः      |     अपसृतपार्श्वस्य लक्षणविनियोगः     |
-|     अभयवरदहस्तस्य लक्षणविनियोगः     |   प्रसारितपार्श्वस्य लक्षणविनियोगः    |
-|      मकरहस्तस्य लक्षणविनियोगः       |      आनतपार्श्वस्य लक्षणविनियोगः      |
-|     गजदन्तहस्तस्य लक्षणविनियोगः     |      समपार्श्वस्य लक्षणविनियोगः       |
-| कूर्परस्वस्तिकहस्तस्य लक्षणविनियोगः |     वलितापार्श्वस्य लक्षणविनियोगः     |
-|      गरुडहस्तस्य लक्षणविनियोगः      |         अथ समादयो नव कटीभेदाः         |
-|     भारतीहस्तस्य लक्षणविनियोगः      |       तत्र समाया लक्षणविनियोगः        |
-|    कटकावर्तहस्तस्य लक्षणविनियोगः    |         छन्नाया लक्षणविनियोगः         |
-|     कर्कटहस्तस्य लक्षणविनियोगः      |        विवृताया लक्षणविनियोगः         |
-|    वर्धमानहस्तस्य लक्षणविनियोगः     |       उद्वाहिताया लक्षणविनियोगः       |
-|      कलहहस्तस्य लक्षणविनियोगः       |       अपवाहिताया लक्षणविनियोगः        |
-|    शुभशोभनहस्तस्य लक्षणविनियोगः     |           रेचिताया लक्षणम्            |
-|   पद्ममुकुलहस्तस्य लक्षणविनियोगः    |            तस्या विनियोगः             |
-|   मल्लयुद्धहस्तस्य लक्षणविनियोगः    |         चलिताया लक्षणविनियोगः         |
-|  पताकस्वस्तिकहस्तस्य लक्षणविनियोगः  |        कम्पिताया लक्षणविनियोगः        |
-| कर्तरीस्वस्तिकहस्तस्य लक्षणविनियोगः |  पुरःपश्चात्कम्पिताया लक्षणविनियोगः   |
-|     गजमुखहस्तस्य लक्षणविनियोगः      |    पार्श्वकम्पिताया लक्षणविनियोगः     |
-|                                    |       विवर्तिताया लक्षणविनियोगः       |
 
-|                                 |                                                              |
-|:-------------------------------:|:------------------------------------------------------------:|
-|            **विषयः**            |                          **विषयः**                           |
-|  अथ समादयः पञ्चदश स्थिरपदभेदाः  |                  निवर्तितस्य लक्षणविनियोगः                   |
-|   तेषु समपदस्य लक्षणविनियोगः    |                    लुठितस्य लक्षणविनियोगः                    |
-|     विषमपदस्य लक्षणविनियोगः     |                    रेचितस्य लक्षणविनियोगः                    |
-|     वक्रपदस्य लक्षणविनियोगः     |                   पर्यायरेचितस्य विनियोगः                    |
-|   तिरश्चीनपदस्य लक्षणविनियोगः   |                     समरेचितस्य विनियोगः                      |
-|   विस्तृतपदस्य लक्षणविनियोगः    |                    दीर्घरेचितस्य विनियोगः                    |
-|   विवर्तितपदस्य लक्षणविनियोगः   |                    एकपदरेचितस्य विनियोगः                     |
-|     वलितपदस्य लक्षणविनियोगः     |                    भ्रमणस्य लक्षणविनियोगः                    |
-|      कुञ्चितपदस्य लक्षणम्       |                   मर्दितस्य लक्षणविनियोगः                    |
-|          तस्य विनियोगः          |                   अग्रगपदस्य लक्षणविनियोगः                   |
-|    अञ्चितपदस्य लक्षणविनियोगः    |                  पार्ष्णिगस्य लक्षणविनियोगः                  |
-|     सूचीपदस्य लक्षणविनियोगः     |                  पार्श्वगस्य लक्षणविनियोगः                   |
-|   पार्ष्णिपदस्य लक्षणविनियोगः   |                    वक्रगस्य लक्षणविनियोगः                    |
-|   पार्श्वपदस्य लक्षणविनियोगः    |      एषां स्थिरास्थिरपदानां सम्मेलनेनोत्पन्नाः पदभेदाः       |
-|  पुरःपृष्ठपदस्य लक्षणविनियोगः   |    इन्द्रियाणां तद्विषयाणां च रसाभिव्यञ्जकत्वप्रतिपादनम्     |
-|  व्यत्यस्तपदस्य लक्षणविनियोगः   |                  अथ नेत्रादीनि षडुपाङ्गानि                   |
-|  उत्क्षिप्तपदस्य लक्षणविनियोगः  |            मतभेदेनोक्तानि श्वासादीनि षडुपाङ्गानि             |
-| उद्घट्टितादयः षोडशास्थिरपदभेदाः |      श्वासादीन्येव केषाञ्चिन्मते आर्थिकाङ्गानीति कथनम्       |
-| तत्र उद्घट्टितस्य लक्षणविनियोगः |                 मतद्वयेऽप्यार्थिकान्यङ्गानि                  |
-|        ताडितस्य लक्षणम्         | त्रयाणामेषामार्थिकाङ्गानां भ्रुकुट्यादिभिरन्यथासिद्धत्वकथनम् |
-|     द्विपदताडितस्य विनियोगः     |          द्वादशसूपाङ्गेषु भावदृष्टेर्लक्षणविनियोगः           |
-|      एकपदताडितस्य विनियोगः      |                   रत्यादयो नव स्थायिभावाः                    |
-|     पर्यायताडितस्य विनियोगः     |                   तत्र रतेर्लक्षणविनियोगः                    |
-|     घट्टितस्य लक्षणविनियोगः     |                     हासस्य लक्षणविनियोगः                     |
-|    विघट्टितस्य लक्षणविनियोगः    |                     शोकस्य लक्षणविनियोगः                     |
-|      चलितस्य लक्षणविनियोगः      |                    क्रोधस्य लक्षणविनियोगः                    |
-|        कम्पितस्य लक्षणम्        |                   उत्साहस्य लक्षणविनियोगः                    |
-|     एकपदकम्पितस्य विनियोगः      |                                                             |
-|    पर्यायकम्पितस्य विनियोगः     |                                                             |
-|      उद्वर्तितस्य लक्षणम्       |                                                             |
-|   पर्यायोद्वर्तितस्य विनियोगः   |                                                             |
-|    पादोद्वर्तितस्य विनियोगः     |                                                             |
+| | |
+|:-----------------------------:|:-------------------------:|
+| **विषयः** | **विषयः** |
+| अधोमुखशिरसो लक्षणविनियोगः | तस्य विनियोगः |
+| उद्वाहितशिरसो लक्षणविनियोगः | अर्धपताकस्य लक्षणम् |
+| उत्क्षिप्तशिरसो लक्षणविनियोगः | तस्य विनियोगः |
+| निकुञ्चितशिरसो लक्षणविनियोगः | कर्तरीमुखहस्तस्य लक्षणविनियोगः |
+| स्कन्धानतशिरसो लक्षणविनियोगः | मयूरहस्तस्य लक्षणविनियोगः |
+| पार्श्वभिमुखशिरसो लक्षणविनियोगः | अर्धचन्द्रहस्तस्य लक्षणविनियोगः |
+| परावृत्तशिरसो लक्षणविनियोगः | अरालहस्तस्य लक्षणविनियोगः |
+| आधूतशिरसो लक्षणविनियोगः | शुकतुण्डहस्तस्य लक्षणविनियोगः |
+| तिर्यग्गतोन्नतशिरसो लक्षणविनियोगः | मुष्टिहस्तस्य लक्षणविनियोगः |
+| दीर्घकम्पितशिरसो लक्षणविनियोगः | शिखरहस्तस्य लक्षणविनियोगः |
+| शीघ्रकम्पितशिरसो लक्षणविनियोगः | सूचीहस्तस्य लक्षणविनियोगः |
+| कम्पितशिरसो लक्षणविनियोगः | त्रिलिङ्गहस्तस्य लक्षणविनियोगः |
+| धुतशिरसो लक्षणविनियोगः | कपित्थहस्तस्य लक्षणविनियोगः |
+| विधूतशिरसो लक्षणविनियोगः | कटकामुखहस्तस्य लक्षणम् |
+| अवधूतशिरसो लक्षणविनियोगः | तस्य विनियोगः |
+| चलितशिरसो लक्षणविनियोगः | कुटिलहस्तस्य लक्षणविनियोगः |
+| लोलितशिरसो लक्षणविनियोगः | बालचन्द्रहस्तस्य लक्षणविनियोगः |
+| आरात्रिकशिरसो लक्षणविनियोगः | सर्पशिरोहस्तस्य लक्षणविनियोगः |
+| परिवाहितशिरसो लक्षणविनियोगः | मृगशिरोहस्तस्य लक्षणविनियोगः |
+| कन्धरांसशिरसो लक्षणविनियोगः | मुकुलहस्तस्य लक्षणविनियोगः |
+| उद्वेष्टितशिरसो लक्षणविनियोगः | बाणहस्तस्य लक्षणविनियोगः |
+| अपवेष्टितशिरसो लक्षणविनियोगः | निरीक्षणहस्तस्य लक्षणविनियोगः |
+| पुरःखण्डितशिरसो लक्षणविनियोगः | चतुरहस्तस्य लक्षणम् |
+| पश्चात्खण्डितशिरसो लक्षणविनियोगः | तस्य विनियोगः |
+| पार्श्वखण्डितशिरसो लक्षणविनियोगः | सिंहाननहस्तस्य लक्षणविनियोगः |
+| ऊर्ध्वखण्डितशिरसो लक्षणविनियोगः | हंसास्यहस्तस्य लक्षणविनियोगः |
+| अधःखण्डितशिरसो लक्षणविनियोगः | सन्दंशहस्तस्य लक्षणविनियोगः |
+| विषमखण्डितशिरसो लक्षणविनियोगः | हंसपक्षहस्तस्य लक्षणविनियोगः |
+| एषां परस्परमेलनेनोत्पन्नाः शिरोभेदाः | गाङ्गूलहस्तस्य लक्षणम् |
+| अथ पताकादयश्चत्वारिंशदसंयुतहस्ताः | तस्य विनियोगः |
+| तेषु पताकहस्तस्य लक्षणविनियोगः | ताम्रचूडहस्तस्य लक्षणविनियोगः |
+| त्रिपताकहस्तस्य लक्षणम् | ऊर्णनाभहस्तस्य लक्षणविनियोगः |
+| | पद्मकोशहस्तस्य लक्षणविनियोगः |
+| | अलपल्लवहस्तस्य लक्षणविनियोगः |
 
-|                                              |                                                         |
-|:--------------------------------------------:|:-------------------------------------------------------:|
-|                  **विषयः**                   |                        **विषयः**                        |
-|            भयानकस्य लक्षणविनियोगः            |             विभावानुभावभयानकदृष्टेर्लक्षणम्             |
-|              जुगुप्साया लक्षणम्              |              वास्तव भयानकदृष्टेर्विनियोगः               |
-|                तस्या विनियोगः                |              कृत्रिमभयानकदृष्टेः विनियोगः               |
-|              विस्मयस्य लक्षणम्               |               बीभत्सदृष्टेर्लक्षणविनियोगः               |
-|          कृत्रिमविस्मयस्य विनियोगः           |            मतान्तरेण बीभत्सदृष्टेः विनियोगः             |
-|            शान्तेर्लक्षणविनियोगः             |            अनुभावविभावबीभत्सदृष्टेर्लक्षणम्             |
-|            रसभावयोर्भेदप्रदर्शनम्            |              वास्तवबीभत्सदृष्टेर्विनियोगः               |
-|   रसानामपि परस्परं जन्यजनकभावप्रतिपादनम्    |              कृत्रिमबीभत्सदृष्टेः विनियोगः              |
-|           कान्तादयोऽष्टौ रसदृष्टयः           |               अद्भुतदृष्टेर्लक्षणविनियोगः               |
-|       तत्र कान्तदृष्टेर्लक्षणविनियोगः        |             मतान्तरेणाद्भुतदृष्टेः विनियोगः             |
-| मतान्तरेणोक्तायाः कान्तदृष्टेः लक्षणविनियोगः |         विभावानुभावाद्भुतदृष्टेर्लक्षणविनियोगः          |
-|    विप्रलम्भशृङ्गारदृष्टेः लक्षणविनियोगः     |               शान्तिदृष्टेः लक्षणविनियोगः               |
-|          हास्यदृष्टेः लक्षणविनियोगः          |          मतान्तरेण शान्तिदृष्टेः लक्षणविनियोगः          |
-|    मतान्तरेणोक्ताया हास्यदृष्टेर्लक्षणम्     |         अनुभावविभावशान्तिदृष्टेः लक्षणविनियोगः          |
-|                तस्या विनियोगः                |             ललितादयो विंशतिर्भावाभासदृष्टयः             |
-|        विहसितापहसितयोर्लक्षणविनियोगः         |               तासु ललिताया लक्षणविनियोगः                |
-|          करुणादृष्टेः लक्षणविनियोगः          |                  मलिनाया लक्षणविनियोगः                  |
-|           मतान्तरेण तस्या लक्षणम्            |                श्रान्ताया लक्षणविनियोगः                 |
-|                तस्या विनियोगः                |               विभ्रान्ताया लक्षणविनियोगः                |
-|       विभावानुभावकरुणादृष्टेर्लक्षणम्        |                  वक्राया लक्षणविनियोगः                  |
-|            विभावदृष्टेर्विनियोगः             |                   विप्लुताया लक्षणम्                    |
-|            अनुभावदृष्टेर्विनियोगः            |                     तस्या विनियोगः                      |
-|          रौद्रदृष्टेर्लक्षणविनियोगः          |                 शङ्किताया लक्षणविनियोगः                 |
-|        मतान्तरेण रौद्रदृष्टेर्लक्षणम्        |                 शून्याया लक्षणविनियोगः                  |
-|                तस्या विनियोगः                |                 विषण्णाया लक्षणविनियोगः                 |
-|    विभावानुभावरौद्रदृष्टेर्लक्षणविनियोगः     |                    लज्जिताया लक्षणम्                    |
-|           वीरदृष्टेः लक्षणविनियोगः           |                     तस्या विनियोगः                      |
-|      मतान्तरेण वीरदृष्टेः लक्षणविनियोगः      |                 आकेकराया लक्षणविनियोगः                  |
-|        विभावानुभाववीरदृष्टेर्लक्षणम्         | आकेकरातः किञ्चिद् भिन्नाया व्याकोशदृष्टेः लक्षणविनियोगः |
-|                तस्या विनियोगः                |                                                        |
-|          भयानकदृष्टेर्लक्षणविनियोगः          |                                                        |
-|     मतान्तरेण भयानकदृष्टेः लक्षणविनियोगः     |                                                        |
 
-|                                  |                                         |
-|:--------------------------------:|:---------------------------------------:|
-|            **विषयः**             |                **विषयः**                |
-|      मदिराया लक्षणविनियोगः       |          पातस्य लक्षणविनियोगः           |
-|     तीव्रमददृष्टेः विनियोगः      |        तत्र शीघ्रपातस्य विनियोगः        |
-|     मध्यममददृष्टेः विनियोगः      |          मन्थरपातस्य विनियोगः           |
-|      अधममददृष्टेः विनियोगः       |          चलनस्य लक्षणविनियोगः           |
-|   सङ्कोचदृष्टेः लक्षणविनियोगः    |      तत्र स्वस्थानचलनस्य विनियोगः       |
-|    वितर्किताया लक्षणविनियोगः     |         सर्वतश्चलनस्य विनियोगः          |
-|      ग्लानाया लक्षणविनियोगः      |        प्रवेशनस्य लक्षणविनियोगः         |
-|     निन्दिताया लक्षणविनियोगः     |        विवर्तनस्य लक्षणविनियोगः         |
-|         जिह्माया लक्षणम्         |           समस्य लक्षणविनियोगः           |
-|          तस्या विनियोगः          |        उद्वृत्तस्य लक्षणविनियोगः        |
-| मतान्तरेण जिह्माया लक्षणविनियोगः |       निष्क्रामस्य लक्षणविनियोगः        |
-|      तप्ताया लक्षणविनियोगः       |  वीक्षणकर्मणि प्रसृतादयो नवाक्षिपुटाः   |
-|     भ्रष्टाया लक्षणविनियोगः      |         तत्र प्रसृतस्य लक्षणम्          |
-|     धिक्कृताया लक्षणविनियोगः     |              तस्य विनियोगः              |
-|   रसेषु अक्षिमूलाः पशुपक्षिणः    |        कुञ्चितस्य लक्षणविनियोगः         |
-|    स्थूलादयस्त्रिविधा दृष्टयः    |        उन्मेषितस्य लक्षणविनियोगः        |
-|   तत्र स्थूलाया लक्षणविनियोगः    |        निमेषितस्य लक्षणविनियोगः         |
-|       समाया लक्षणविनियोगः        |       उद्वर्तितस्य लक्षणविनियोगः        |
-|     सूक्ष्माया लक्षणविनियोगः     |       निवर्तननिवर्तितस्य विनियोगः       |
-|    अष्टविधा बहिर्विषयदृष्टयः     |      निवर्तितोद्वर्तितस्य विनियोगः      |
-|  तत्रालोकनदृष्टेर्लक्षणविनियोगः  |        स्फुरितस्य लक्षणविनियोगः         |
-|      अवलोकनदृष्टेः लक्षणम्       |         विहितस्य लक्षणविनियोगः          |
-|          तस्या विनियोगः          |        विताडितस्य लक्षणविनियोगः         |
-|   प्रलोकनदृष्टेः लक्षणविनियोगः   |           समस्य लक्षणविनियोगः           |
-|   विलोकनदृष्टेः लक्षणविनियोगः    | मतान्तरेणोक्ताः कुटिलादयो नव भावदृष्टयः |
-|   उल्लोकनदृष्टेः लक्षणविनियोगः   |     तासु कुटिलदृष्टेर्लक्षणावनियोगः     |
-|     अनुवृत्तदृष्टेर्लक्षणम्      |       मृदुलदृष्टेः लक्षणविनियोगः        |
-|          तस्या विनियोगः          |      भ्रान्तदृष्टेः लक्षणविनियोगः       |
-|     समदृष्टेः लक्षणविनियोगः      |          चञ्चलदृष्टेः लक्षणम्           |
-|    साचिदृष्टेः लक्षणविनियोगः     |             तस्या विनियोगः              |
-|     भ्रमणादयो नव तारक्रियाः      |        आयतदृष्टेर्लक्षणविनियोगः         |
-|   तत्र भ्रमणस्य लक्षणविनियोगः    |                                        |
-|       वलनस्य लक्षणविनियोगः       |                                        |
 
-|                                        |                                           |
-|:--------------------------------------:|:-----------------------------------------:|
-|               **विषयः**                |                 **विषयः**                 |
-|        घोरदृष्टेः लक्षणविनियोगः        |          खण्डनस्य लक्षणविनियोगः           |
-|       मन्ददृष्टेः लक्षणविनियोगः        |           दलनस्य लक्षणविनियोगः            |
-|       ललितदृष्टेः लक्षणविनियोगः        |        व्यावर्तनस्य लक्षणविनियोगः         |
-|       काकुदृष्टेः लक्षणविनियोगः        |           पतनस्य लक्षणविनियोगः            |
-|   रसानुभवसूचका निमीलनादयो नव दृष्टयः   |          भ्रंशनस्य लक्षणविनियोगः          |
-|    तत्र निमीलनदृष्टेर्लक्षणविनियोगः    |         अनुरञ्जनस्य लक्षणविनियोगः         |
-|       आमीलनदृष्टेः लक्षणविनियोगः       |          मूर्छनस्य लक्षणविनियोगः          |
-|           प्रमीलनस्य लक्षणम्           |      अथ सहजादयः सप्त भ्रुकुटी भेदाः       |
-|             तस्या विनियोगः             |         तेषु सहजाया लक्षणविनियोगः         |
-|     उन्मीलितदृष्टेर्लक्षणविनियोगः      |           पतिताया लक्षणविनियोगः           |
-|       मीलनदृष्टेः लक्षणविनियोगः        |        उत्क्षिप्ताया लक्षणविनियोगः        |
-|       निमेषदृष्टेः लक्षणविनियोगः       |          रेचिताया लक्षणविनियोगः           |
-|      उन्मेषदृष्टेः लक्षणविनियोगः       |        अवकुञ्चिताया लक्षणविनियोगः         |
-|      मुकुलितदृष्टेः लक्षणविनियोगः      |         त्रुटिताया लक्षणविनियोगः          |
-|    अर्धमुकुलितदृष्टेः लक्षणविनियोगः    |           चतुराया लक्षणविनियोगः           |
-|  नवविधाः शोषणादिक्रियार्थाः फलदृष्टयः  | मतान्तरेणोक्ता वलितादयो नव भ्रुकुटी भेदाः |
-|       वीर्यादिभिस्तदुपयोजननियमः        |           तत्र वलिताया लक्षणम्            |
-|       वीर्यशोषणयोर्लक्षणविनियोगः       |              तस्या विनियोगः               |
-|        कोपदाहयोः लक्षणविनियोगः         |           चलिताया लक्षणविनियोगः           |
-|      उपलालनवश्ययोः लक्षणविनियोगः       |          स्तब्धाया लक्षणविनियोगः          |
-|         करुणाप्लावनयोः लक्षणम्         |           आयताया लक्षणविनियोगः            |
-|             तयोर्विनियोगः              |           अवकुण्ठिताया लक्षणम्            |
-|     अद्भुतस्तम्भनयोर्लक्षणविनियोगः     |              तस्या विनियोगः               |
-|      धैर्याकर्षणयोः लक्षणविनियोगः      |         विवर्तिताया लक्षणविनियोगः         |
-|      अनुरागमोहनयोः लक्षणविनियोगः       |            नताया लक्षणविनियोगः            |
-|           मदभ्रमयोर्लक्षणम्            |           वक्राया लक्षणविनियोगः           |
-|             तयोर्विनियोगः             |           ललिताया लक्षणविनियोगः           |
-|           बीभत्सविद्रावणयोः            |       अथ आवर्तादयः षोडश नासिकाभेदाः       |
-| नवविधास्तारकसम्भवाः त्रुटनादयः क्रियाः |        तत्र आवर्ताया लक्षणविनियोगः        |
-|      तत्र त्रुटनस्य लक्षणविनियोगः      |            समावर्ताया विनियोगः            |
-|             हरणस्य लक्षणम्             |        उन्नतावर्ताया लक्षणविनियोगः        |
-|             तस्य विनियोगः              |        अन्तरावर्ताया लक्षणविनियोगः        |
-|                                       |       निःश्वासनासाया लक्षणविनियोगः        |
+| | |
+|:-----------------------------:|:-----------------------------:|
+| **विषयः** | **विषयः** |
+| प्रालम्बहस्तस्य लक्षणविनियोगः | संयुक्तपल्लवहस्तस्य लक्षणम् |
+| भ्रमरहस्तस्य लक्षणविनियोगः | तस्य विनियोगः |
+| पुरोन्नतहस्तस्य लक्षणविनियोगः | अवहित्थहस्तस्य लक्षण विनियोगः |
+| चतुरुन्नतहस्तस्य लक्षणविनियोगः | विस्तृतपल्लवहस्तस्य लक्षणविनियोगः |
+| पूर्णचन्द्रहस्तस्य लक्षणविनियोगः | हस्तानां स्त्रीपुन्नपुंसकभेदप्रदर्शनम् |
+| शिलीमुखहस्तस्य लक्षणविनियोगः | अथ स्थेमादयः सप्त वक्षोभेदाः |
+| उद्वेष्टितहस्तस्य लक्षणविनियोगः | तत्र स्थेमवक्षसो लक्षणविनियोगः |
+| अपवेष्टितहस्तस्य लक्षणविनियोगः | आभुग्नवक्षसो लक्षणविनियोगः |
+| भद्रहस्तस्य लक्षणविनियोगः | निर्भुग्नवक्षसो लक्षणविनियोगः |
+| अञ्जल्यादयः सप्तविंशतिः संयुतहस्ताः | प्रकम्पितवक्षसो लक्षणविनियोगः |
+| तेषु अञ्जलिहस्तस्य लक्षणविनियोगः | उद्वाहितवक्षसो लक्षणम् |
+| कपोतहस्तस्य लक्षणविनियोगः | तस्य विनियोगः |
+| पुष्पपुटहस्तस्य लक्षणविनियोगः | चलितवक्षसो लक्षणविनियोगः |
+| सङ्कल्पहस्तस्य लक्षणविनियोगः | भ्रमणवक्षसो लक्षणविनियोगः |
+| ताडनपताकहस्तस्य लक्षणविनियोगः | अथ विवर्तितादयः षट् पार्श्वभेदाः |
+| उत्सङ्गहस्तस्य लक्षणविनियोगः | तत्र विवर्तितपार्श्वस्य लक्षणम् |
+| डोलहस्तस्य लक्षणविनियोगः | तस्य विनियोगः |
+| उपचारहस्तस्य लक्षणविनियोगः | अपसृतपार्श्वस्य लक्षणविनियोगः |
+| अभयवरदहस्तस्य लक्षणविनियोगः | प्रसारितपार्श्वस्य लक्षणविनियोगः |
+| मकरहस्तस्य लक्षणविनियोगः | आनतपार्श्वस्य लक्षणविनियोगः |
+| गजदन्तहस्तस्य लक्षणविनियोगः | समपार्श्वस्य लक्षणविनियोगः |
+| कूर्परस्वस्तिकहस्तस्य लक्षणविनियोगः | वलितापार्श्वस्य लक्षणविनियोगः |
+| गरुडहस्तस्य लक्षणविनियोगः | अथ समादयो नव कटीभेदाः |
+| भारतीहस्तस्य लक्षणविनियोगः | तत्र समाया लक्षणविनियोगः |
+| कटकावर्तहस्तस्य लक्षणविनियोगः | छन्नाया लक्षणविनियोगः |
+| कर्कटहस्तस्य लक्षणविनियोगः | विवृताया लक्षणविनियोगः |
+| वर्धमानहस्तस्य लक्षणविनियोगः | उद्वाहिताया लक्षणविनियोगः |
+| कलहहस्तस्य लक्षणविनियोगः | अपवाहिताया लक्षणविनियोगः |
+| शुभशोभनहस्तस्य लक्षणविनियोगः | रेचिताया लक्षणम् |
+| पद्ममुकुलहस्तस्य लक्षणविनियोगः | तस्या विनियोगः |
+| मल्लयुद्धहस्तस्य लक्षणविनियोगः | चलिताया लक्षणविनियोगः |
+| पताकस्वस्तिकहस्तस्य लक्षणविनियोगः | कम्पिताया लक्षणविनियोगः |
+| कर्तरीस्वस्तिकहस्तस्य लक्षणविनियोगः | पुरःपश्चात्कम्पिताया लक्षणविनियोगः |
+| गजमुखहस्तस्य लक्षणविनियोगः | पार्श्वकम्पिताया लक्षणविनियोगः |
+| | विवर्तिताया लक्षणविनियोगः |
 
-|                                       |                                |
-|:-------------------------------------:|:------------------------------:|
-|               **विषयः**               |           **विषयः**            |
-|     उच्छ्वासनासायालक्षणविनियोगः      |      स्तम्भितस्य लक्षणम्       |
-|             स्वाभाविक्या              |         तस्य विनियोगः          |
-|                मन्दाया                |   उच्छ्रवासस्य लक्षणविनियोगः   |
-|       विकृष्टाया लक्षणविनियोगः        |          निःश्वासस्य           |
-|    विकृताया लक्षणम्लक्षणविनियोगः     |    एषां रसे विनियोगप्रकारः     |
-|     तस्या विनियोगःलक्षणविनियोगः      | अथ आवर्तादयो द्वादश कपोलभेदाः  |
-|   मताया लक्षणविनियोगःकक्षणविनियोगः   |  तत्र आवर्तस्य लक्षणविनियोगः   |
-|      अवघूर्णितायाकक्षणविनियोगः       |          चलितावर्तस्य          |
-|  संश्लिष्टपुटनासिकायाकक्षणविनियोगः   |           स्फुरितस्य           |
-|  विश्लिष्टपुटनासिकायाकक्षणविनियोगः   |           कम्पितस्य            |
-|        विकसितायाकक्षणविनियोगः        |           कुञ्चितस्य           |
-|          चकायाकक्षणविनियोगः          |          आकुञ्चितस्य           |
-| एषां नासिकाभेदानां रसे विनियोगप्रकारः |            पूर्णस्य            |
-|     अथ स्वस्थादयो नव मासानिलभेदाः     |            श्रामस्य            |
-| मतान्तरेणोकाः समादयो दश नासानिलभेदाः  |            उन्नतस्य            |
-|     तेषु स्वस्थस्य लक्षणविनियोगः      |           सङ्कोचस्य            |
-|          चलस्यलक्षणविनियोगः          |             चलस्थ              |
-|        निरस्तस्यलक्षणविनियोगः        |          उत्फुल्लस्य           |
-|       प्रबद्धस्यलक्षणविनियोगः        |    एषां रसे विनियोगप्रकारः     |
-|       सल्ललितस्यलक्षणविनियोगः        | अथ मीलितादयः पञ्चदश चिबुकभेदाः |
-|       विमुक्तस्यलक्षणविनियोगः        |     तत्र सीलितस्य लक्षणम्      |
-|     विस्मृतश्वासस्यलक्षणविनियोगः     |         तस्य विनियोगः          |
-|        स्खलितस्यकक्षणविनियोगः        |     संहतस्य लक्षणविनियोगः      |
-|        प्रसूतस्यलक्षणविनियोगः        |           श्लिष्टस्य           |
-|          समस्यलक्षणविनियोगः          |             चलस्य              |
-|        विलीनस्यलक्षणविनियोगः         |       कम्पितस्य लक्षणम्        |
-|       भ्रान्तस्यकक्षणविनियोगः        |         तस्य विनियोगः          |
-|          आन्दोलितस्य लक्षणम्          |     वक्रस्य लक्षणविनियोगः      |
-|             तस्य विनियोगः             |          तिर्यग्गतस्य          |
-|        कम्पितस्य लक्षणविनियोगः        |             लोलस्य             |
-|       शूत्कृतस्यकक्षणविनियोगः        |        वलितस्य लक्षणम्         |
-|                                      |         तस्य विनियोगः          |
 
-|                                       |                                     |
-|:-------------------------------------:|:-----------------------------------:|
-|              **विषयः.**               |             **विषयः.**              |
-|      व्यादीर्णस्य लक्षणविनियोगः       |         हीहीकृतस्य विनियोगः         |
-|     दूरनिष्क्रामस्यलक्षणविनियोगः     |         धिक्कृतस्यविनियोगः         |
-|      एकागुलाधः स्थितस्य लक्षणम्       |         एङ्कारस्यविनियोगः          |
-|             तस्य विनियोगः             |          ओंकारस्यविनियोगः          |
-|        संलग्नस्य लक्षणविनियोगः        |         हुङ्कारस्यविनियोगः         |
-|       स्फुरितस्यलक्षणविनियोगः        | अथ असंयुक्तादीनि द्वादश दन्तकर्माणि |
-|        एषां रसे विनियोगप्रकारः        |      असंयुक्तस्य लक्षणविनियोगः      |
-|   अथ विवर्तितादयो द्वादश अधरभेदाः    |        सुसंयुक्तस्य लक्षणम्         |
-|     तेषु विवर्तितस्य लक्षणविनियोग     |            तस्य विनियोगः            |
-|       मुकुलितस्यलक्षणविनियोगः        |       स्वभावस्य लक्षणविनियोगः       |
-|        विकासस्यलक्षणविनियोगः         |      संघर्षणस्यलक्षणविनियोगः       |
-|            आयतस्य लक्षणम्             |       ग्रहणस्यलक्षणविनियोगः        |
-|             तस्य विनियोगः             |       खण्डनस्थलक्षणविनियोगः        |
-|        रोचितस्य लक्षणविनियोगः         |       भिन्नस्यलक्षणविनियोगः        |
-|       सन्दष्टकस्यलक्षणविनियोगः       |       कुट्टनस्यलक्षणविनियोगः       |
-|       विसृष्टत्यलक्षणविनियोगः        |      चुक्रितस्यलक्षणविनियोगः       |
-|        कम्पितस्यलक्षणविनियोगः        |         चलस्यलक्षणविनियोगः         |
-|      विनिगूहितस्यलक्षणविनियोगः       |       दृष्टस्यलक्षणविनियोगः        |
-|       उद्वृत्तस्यलक्षणविनियोगः       |     निष्क्रमणस्यलक्षणविनियोगः      |
-|        समुद्रस्यलक्षणविनियोगः        |       एषां रसे विनियोगप्रकारः       |
-|       पूत्कारस्यलक्षणविनियोगः        | अथ अधोनतादयश्चतुर्विंशती रसनाभेदाः  |
-|        एषां रसे विनियोगप्रकारः        |     तेषु अधोनताया लक्षणविनियोगः     |
-|   अथ उष्णादयश्चत्वारो मुखानिलभेदाः    |      ऊर्ध्वनतायालक्षणविनियोगः      |
-|      तत्र उष्णस्य लक्षणविनियोगः       |       उन्नत्ताम्राया लक्षणम्        |
-|         शीतस्यलक्षणविनियोगः          |           तस्या विनियोगः            |
-|       मन्दोष्णस्यलक्षणविनियोगः       |       निम्नगाया लक्षणविनियोगः       |
-|     अनुष्णाशीतस्यलक्षणविनियोगः      |     मध्योच्चलायालक्षणविनियोगः      |
-| अथ नवविधाः शूत्कृतादयो मुखा निलध्वनयः |   ऊर्ध्वदन्तात्रायालक्षणविनियोगः   |
-|       तत्र शूत्कृतस्य विनियोगः        | अन्तर्निम्नप्रसारितायलक्षणविनियोगः |
-|          सीत्कृतस्यविनियोगः          |      एकभागस्थायालक्षणविनियोगः      |
-|          धुत्कृतस्यविनियोगः          |   दन्तमध्यस्थितायालक्षणविनियोगः    |
-|          पुत्कृतस्यविनियोगः          |         चलायालक्षणविनियोगः         |
 
-|                                       |                                    |
-|:-------------------------------------:|:----------------------------------:|
-|              **विषयः.**               |             **विषयः.**             |
-|         सृक्वानुगाया लक्षणम्          |           तस्य विनियोगः            |
-|            तस्या विनियोगः             |       श्वेतस्य लक्षणविनियोगः       |
-|       अप्रकाशाया लक्षणविनियोगः        |       रक्तस्यलक्षणविनियोगः        |
-|         लेहन्यालक्षणविनियोगः         |      पिशङ्गस्यलक्षणविनियोगः       |
-|          ऋजोःलक्षणविनियोगः           |       धूमलस्यलक्षणविनियोगः        |
-|    व्यक्तास्यस्थायालक्षणविनियोगः     |       धूसरस्यलक्षणविनियोगः        |
-|       सक्तस्यायालक्षणविनियोगः        |      कर्बुरस्यलक्षणविनियोगः       |
-|         वक्रायालक्षणविनियोगः         |       श्यामस्यलक्षणविनियोगः       |
-|        दीर्घायालक्षणविनियोगः         |      स्वभावस्यलक्षणविनियोगः       |
-|         लोहलायालक्षणविनियोगः         |     भावस्वरूपनिरूपणं तद्भेदश्र     |
-|    ईषदुहिश्चलाग्रायालक्षणविनियोगः    |    त्रयस्त्रिंशत् सञ्चारिभावाः     |
-|       ओष्ठस्थायालक्षणविनियोगः        |   अथ ग्रीवादीनि षट् प्रत्यङ्गानि   |
-|       अधराम्रगायालक्षणविनियोगः       |    भुजमूलादीनि षट् अङ्गाङ्गानि     |
-|     अन्तर्मूलचलायालक्षणविनियोगः      |   जान्वादीनि षट् पदयोरङ्गाङ्गानि   |
-|      आसां रसेषु विनियोगप्रकार :       | प्रत्यङ्गेषु समादयो दश ग्रीवाभेदाः |
-|        अथ समादयः सप्त मुखभेदा         |      तत्र समाया लक्षणविनियोगः      |
-|       तेषु समस्य लक्षणविनियोगः        |     प्रवृत्तायालक्षणविनियोगः      |
-|         भग्नत्यलक्षणविनियोगः         |      निवृत्तायालक्षणविनियोगः      |
-|           विधुतस्य लक्षणम्            |       वलितायालक्षणविनियोगः        |
-|             तस्य विनियोगः             |       गलितायालक्षणविनियोगः        |
-|      व्याभुग्नस्य लक्षणविनियोगः       |       रेचितायालक्षणविनियोगः       |
-|        विसृतस्यलक्षणविनियोगः         |     अवकुञ्चितायालक्षणविनियोगः     |
-|      विनिवृत्तस्यलक्षणविनियोगः       |     त्र्यश्रायालक्षणविनियोगः      |
-|       उद्वाहितस्यलक्षणविनियोगः       |      अवनम्रायालक्षणविनियोगः       |
-| अथ प्रसन्नादयश्चत्वारो मुखरागविशेषाः  |       उन्नतायालक्षणविनियोगः       |
-|     तेषु प्रसन्नस्य लक्षणविनियोगः     |        समोन्नताया विनियोगः         |
-|           निर्मलस्य लक्षणम्           |   अथ अपवृत्तादयो नव भुजमूलभेदाः    |
-|             तस्य विनियोगः             |   तेषु अपवृत्तस्य लक्षणविनियोगः    |
-|        श्यामस्य लक्षणविनियोगः         |       अवनतस्यलक्षणविनियोगः        |
-|   श्यामभेदस्य धूमलस्यलक्षणविनियोगः   |         एकोञ्चस्य लक्षणम्          |
-|         रक्तस्यलक्षणविनियोगः         |           तस्य विनियोगः            |
-| मतान्तरोक्ताः पीतादयो नव मुखवर्णभेदाः |     कण्ठलग्नकस्यलक्षणविनियोगः     |
-|         तेषु पीतस्त्र लक्षणम्         |     उद्वत्तितस्य लक्षणविनियोगः     |
-|                                      |    निवर्त्तितस्यलक्षणविनियोगः     |
+| | |
+|:--:|:--:|
+| **विषयः** | **विषयः** |
+| अथ समादयः पञ्चदश स्थिरपदभेदाः | निवर्तितस्य लक्षणविनियोगः |
+| तेषु समपदस्य लक्षणविनियोगः | लुठितस्य लक्षणविनियोगः |
+| विषमपदस्य लक्षणविनियोगः | रेचितस्य लक्षणविनियोगः |
+| वक्रपदस्य लक्षणविनियोगः | पर्यायरेचितस्य विनियोगः |
+| तिरश्चीनपदस्य लक्षणविनियोगः | समरेचितस्य विनियोगः |
+| विस्तृतपदस्य लक्षणविनियोगः | दीर्घरेचितस्य विनियोगः |
+| विवर्तितपदस्य लक्षणविनियोगः | एकपदरेचितस्य विनियोगः |
+| वलितपदस्य लक्षणविनियोगः | भ्रमणस्य लक्षणविनियोगः |
+| कुञ्चितपदस्य लक्षणम् | मर्दितस्य लक्षणविनियोगः |
+| तस्य विनियोगः | अग्रगपदस्य लक्षणविनियोगः |
+| अञ्चितपदस्य लक्षणविनियोगः | पार्ष्णिगस्य लक्षणविनियोगः |
+| सूचीपदस्य लक्षणविनियोगः | पार्श्वगस्य लक्षणविनियोगः |
+| पार्ष्णिपदस्य लक्षणविनियोगः | वक्रगस्य लक्षणविनियोगः |
+| पार्श्वपदस्य लक्षणविनियोगः | एषां स्थिरास्थिरपदानां सम्मेलनेनोत्पन्नाः पदभेदाः |
+| पुरःपृष्ठपदस्य लक्षणविनियोगः | इन्द्रियाणां तद्विषयाणां च रसाभिव्यञ्जकत्वप्रतिपादनम् |
+| व्यत्यस्तपदस्य लक्षणविनियोगः | अथ नेत्रादीनि षडुपाङ्गानि |
+| उत्क्षिप्तपदस्य लक्षणविनियोगः | मतभेदेनोक्तानि श्वासादीनि षडुपाङ्गानि |
+| उद्घट्टितादयः षोडशास्थिरपदभेदाः | श्वासादीन्येव केषाञ्चिन्मते आर्थिकाङ्गानीति कथनम् |
+| तत्र उद्घट्टितस्य लक्षणविनियोगः | मतद्वयेऽप्यार्थिकान्यङ्गानि |
+| ताडितस्य लक्षणम् | त्रयाणामेषामार्थिकाङ्गानां भ्रुकुट्यादिभिरन्यथासिद्धत्वकथनम् |
+| द्विपदताडितस्य विनियोगः | द्वादशसूपाङ्गेषु भावदृष्टेर्लक्षणविनियोगः |
+| एकपदताडितस्य विनियोगः | रत्यादयो नव स्थायिभावाः |
+| पर्यायताडितस्य विनियोगः | तत्र रतेर्लक्षणविनियोगः |
+| घट्टितस्य लक्षणविनियोगः | हासस्य लक्षणविनियोगः |
+| विघट्टितस्य लक्षणविनियोगः | शोकस्य लक्षणविनियोगः |
+| चलितस्य लक्षणविनियोगः | क्रोधस्य लक्षणविनियोगः |
+| कम्पितस्य लक्षणम् | उत्साहस्य लक्षणविनियोगः |
+| एकपदकम्पितस्य विनियोगः | |
+| पर्यायकम्पितस्य विनियोगः | |
+| उद्वर्तितस्य लक्षणम् | |
+| पर्यायोद्वर्तितस्य विनियोगः | |
+| पादोद्वर्तितस्य विनियोगः | |
 
-|                                                   |                                                       |
-|:-------------------------------------------------:|:-----------------------------------------------------:|
-|                    **विषयः**—                     |                      **विषयः**—                       |
-|            उद्वेष्टितस्य लक्षणविनियोगः            |             पुरोत्युन्नतस्य लक्षणविनियोगः             |
-|            अपवेष्टितस्य लक्षणविनियोगः             |              पुरोयुक्तस्य लक्षणविनियोगः               |
-|              लोलितस्य लक्षणविनियोगः               |             पुरोवियुक्तस्य लक्षणविनियोगः              |
-| अथ बाहूपोद्घाततया कूर्परभेदानां निरूपणस्यावश्यकता |            पुरोविमुखोन्नतस्य लक्षणविनियोगः            |
-|  पार्श्वयुक्तादयस्त्रिंशत्सङ्ख्याकाः कूर्परभेदाः  | एषां भ्रमणादिक्रियायोगेन निष्पन्नानां भेदानां निगमनम् |
-|                   तद्विभागक्रमः                   |                    अथ मणिबन्धभेदाः                    |
-|       तन्न पार्श्वयुक्तस्य कूर्परस्य लक्षण—       |        स्थिरमणिबन्धभेदेषु समोत्तानस्य लक्षणम्         |
-|                     विनियोगः                      |                     तस्य विनियोगः                     |
-|            पार्श्ववियुक्तस्य विनियोगः             |              आनतोत्तानस्य लक्षणविनियोगः               |
-|            पार्श्वविस्तृतस्य विनियोगः             |             ऊर्ध्वोत्तानस्य लक्षणविनियोगः             |
-|               भुजमूलसमस्य विनियोगः                |              वक्रोत्तानस्य लक्षणविनियोगः              |
-|             पृष्ठक्षिप्तस्य विनियोगः              |                 विषमस्य लक्षणविनियोगः                 |
-|              पृष्ठसङ्कोचस्य विनियोगः              |               समाधस्तलस्य लक्षणविनियोगः               |
-|            पृष्ठातिसङ्कोचस्य विनियोगः             |              आनताधस्तलस्य लक्षणविनियोगः               |
-|             पार्श्वोदरधुतस्य विनियोगः             |             ऊर्ध्वाधस्तलस्य लक्षणविनियोगः             |
-|             पार्श्वविधुतस्य विनियोगः              |              वक्राधस्तलस्य लक्षणविनियोगः              |
-|              पार्श्वविततस्य विनियोगः              |              विषमाधस्तलस्य लक्षणविनियोगः              |
-|             पार्श्वधोमुखस्य विनियोगः              |                 अथ अस्थिरमणिबन्धभेदाः                 |
-|             पार्श्वाभिमुखस्य विनियोगः             |           तेषु उत्तानभ्रमणस्य लक्षणविनियोगः           |
-|             पार्श्वोन्नतस्य विनियोगः              |              उत्तानलोलस्य लक्षणविनियोगः               |
-|            पार्श्वात्युन्नतस्य लक्षणम्            |                उत्तानकम्पनस्य लक्षणम्                 |
-|                   तस्य विनियोगः                   |                     तस्य विनियोगः                     |
-|           भुजमूलोन्नतस्य लक्षणविनियोगः            |              उत्तानचलनस्य लक्षणविनियोगः               |
-|            भुजमूलाधिकोन्नतस्य विनियोगः            |              उत्तानरेचनस्य लक्षणविनियोगः              |
-|          पार्श्वाभिमुखोर्ध्वस्य लक्षणम्           |             अधस्तलभ्रमणस्य लक्षणविनियोगः              |
-|                   तस्य विनियोगः                   |              अधस्तललोलस्य लक्षणविनियोगः               |
-|              अभिमुखस्य लक्षणविनियोगः              |             अधस्तलकम्पनस्य लक्षणविनियोगः              |
-|           अभिमुखोच्चतरस्य लक्षणविनियोगः           |              अधस्तलचलनस्य लक्षणविनियोगः               |
-|            पार्श्ववक्रोच्चस्य लक्षणम्             |              अधस्तलरेचनस्य लक्षणविनियोगः              |
-|                   तस्य विनियोगः                   |             पार्श्वभ्रमणस्य लक्षणविनियोगः             |
-|             पुरोमुखस्य लक्षणविनियोगः              |              पार्श्वलोलस्य लक्षणविनियोगः              |
-|           पुरोद्वाहितस्य लक्षणविनियोगः            |                                                      |
 
-|                                                                |                                   |
-|:--------------------------------------------------------------:|:---------------------------------:|
-|                           **विषयः**—                           |            **विषयः**—             |
-|                 पार्श्वरेचितस्य लक्षणविनियोगः                  |      कान्तादयः पञ्च करपाटाः       |
-| स्थिराणामस्थिराणां च संयोगादुत्पन्नानां मणिबन्धभेदानां निगमनम् |    तत्र कान्तस्य लक्षणविनियोगः    |
-|    बाहूपयोज्यक्षेत्रदेशकालगतिक्रियास्थानानां स्वरूपमदर्शनम्    |      सुरूपस्य लक्षणविनियोगः       |
-|                   ऊर्ध्वादयः पञ्च बाहुभेदाः                    |       सरसस्य लक्षणविनियोगः        |
-|                  तत्रोर्ध्वस्य लक्षणविनियोगः                   |      प्रसादस्य लक्षणविनियोगः      |
-|                    अधोमुखस्य लक्षणविनियोगः                     |       कोमलस्य लक्षणविनियोगः       |
-|                    पार्श्वस्य लक्षणविनियोगः                    |  बाहूनां वेष्टनादयः पञ्च क्रियाः  |
-|                 पुरःप्रसारितस्य लक्षणविनियोगः                  |      तत्र वेष्टनस्य लक्षणम्       |
-|               पश्चात् प्रसारितस्य लक्षणविनियोगः                |       पुरोवेष्टनस्य लक्षणम्       |
-|                 बाह्रभिनये आश्रयणीया देशभेदाः                  |     पार्श्ववेष्टनस्य लक्षणम्      |
-| तत्तद्देशेषु प्रसारितानां बाहूनां तत्तद्दिङ्निबन्धननामभेदादयः  |     पश्चाद्वेष्टनस्य लक्षणम्      |
-|                       बाहूनां प्रचारदेशः                       |      ऊर्ध्ववेष्टनस्य लक्षणम्      |
-|          तिर्यग्देशावान्तरदेशचरबाहूनां लक्षणविनियोगः           |       विषमवेष्टनस्य लक्षणम्       |
-|             कठिनादयः पञ्च वाहुसम्भवाः प्रयत्नभेदाः             |     तिर्यग्वक्रितस्य लक्षणम्      |
-|                   तत्र कठिनस्य लक्षणविनियोगः                   |     स्वस्थानचक्रितस्य लक्षणम्     |
-|                     शिथिलस्य लक्षणविनियोगः                     |      अधोदेशवेष्टनस्य लक्षणम्      |
-|                    प्रलम्बस्य लक्षणविनियोगः                    |   ऊर्ध्वक्रमादीनि षोडश वीजनानि    |
-|                      सरलस्य लक्षणविनियोगः                      |    तत्र ऊर्ध्वक्रमस्य लक्षणम्     |
-|                       प्रयत्नस्य लक्षणम्                       |        अधः क्रमस्य लक्षणम्        |
-|                         तस्य विनियोगः                          |    द्विपार्श्वक्रमस्य लक्षणम्     |
-|           कूर्परमणिबन्धसम्भवाः ऋज्वादयः पञ्च क्रियाः           |      मतान्तरेण तस्य लक्षणम्       |
-|                    तत्र ऋृजोर्लक्षणविनियोगः                    |     पुरःपृष्ठक्रमस्य लक्षणम्      |
-|                      समस्य लक्षणविनियोगः                       |       पृष्ठक्रमस्य लक्षणम्        |
-|                     ललितस्य लक्षणविनियोगः                      |     द्विबाहुविपरीतस्य लक्षणम्     |
-|                   लघोर्लक्षणम् लक्षणविनियोगः                   |      स्वस्तिकवीजनस्य लक्षणम्      |
-|                                                               |       कोणात् कोणस्य लक्षणम्       |
-|                                                               |      विकोणात् कोणस्य लक्षणम्      |
-|                                                               |       नीचादुच्चस्य लक्षणम्        |
-|                                                               |    क्रमादुच्चतरनीचस्य लक्षणम्     |
-|                                                               |        वक्रोच्चस्य लक्षणम्        |
-|                                                               |     तिर्यगुच्चवक्रस्य लक्षणम्     |
-|                                                               |      विषमवक्रोच्चस्य लक्षणम्      |
-|                                                               | सव्यापसव्यविषमवक्रोच्चस्य लक्षणम् |
 
-|                                              |                                        |
-|:--------------------------------------------:|:--------------------------------------:|
-|                  **विषयः**—                  |               **विषयः**—               |
-|             समविषमनीचस्य लक्षणम्             |           कम्पितस्य लक्षणम्            |
-|           नीचात् समविषमस्य लक्षणम्           |             तस्य विनियोगः              |
-|         दीर्घादीनि वर्तनानि लक्षणम्          |        विह्वलस्य लक्षणविनियोगः         |
-|          तत्र दीर्घवर्तनस्य लक्षणम्          |        सङ्कोचस्य लक्षणविनियोगः         |
-|              सङ्कोचस्य लक्षणम्               |    अथ कुब्जाकारादयः पञ्च पृष्ठभेदाः    |
-|               खर्वस्य लक्षणम्                |    तत्र कुब्जाकारस्य लक्षणविनियोगः     |
-|      पुरःपार्श्वादिप्रयुक्तानि खण्डनानि      |                                       |
-|             पुरःखण्डनस्य लक्षणम्             |          समस्य लक्षणविनियोगः           |
-|           पार्श्वखण्डनम्य लक्षणम्            |      तिर्यग्वक्रस्य लक्षणविनियोगः      |
-|             वक्रखण्डनस्य लक्षणम्             |        कम्पितस्य लक्षणविनियोगः         |
-|             विषमखण्डनस्य लक्षणम्             |    पश्चात्पृष्ठनतस्य लक्षणविनियोगः     |
-|           उच्चनीचखण्डनस्य लक्षणम्            |          अथ समादयो नवोरुभेदाः          |
-|              समखण्डनस्य लक्षणम्              |        तेषु समस्य लक्षणविनियोगः        |
-|             कोणखण्डनस्य लक्षणम्              |         समस्तस्य लक्षणविनियोगः         |
-|            विपरीतखण्डनस्य लक्षणम्            |        व्यस्तस्य लक्षणविनियोगः         |
-|              निरस्तस्य लक्षणम्               |   समस्तव्यस्तकम्पितस्य लक्षणविनियोगः   |
-|        नृत्तादिषु गतागतक्रियालक्षणम्         |       व्यत्यस्तस्य लक्षणविनियोगः       |
-|              नृत्तोपयोगिनः कराः              |      उपरिक्षिप्तस्य लक्षणविनियोगः      |
-| क्रियाप्रचारेषु पुरःपार्श्वप्रचारस्य लक्षणम् |            विवृतस्य लक्षणम्            |
-|        अन्य पार्श्वप्रचारस्य लक्षणम्         |             तस्य विनियोगः              |
-|          पार्श्वभागगतागतस्य लक्षणम्          |        विस्तृतस्य लक्षणविनियोगः        |
-|             पुरोगतागतस्य लक्षणम्             |  पुरःपश्चात् स्थितस्यः लक्षणविनियोगः   |
-|             भुजमूलवलनस्य लक्षणम्             |        स्थानादयः षड् जानुभेदाः         |
-|           ऊर्ध्वाधोगमनस्य लक्षणम्            |      तत्र स्थानस्य लक्षणविनियोगः       |
-|      उभयपार्श्वसंयुक्तगतागतस्य लक्षणम्       |          आसनस्यलक्षणविनियोगः          |
-|          पार्श्वडोलहस्तस्य लक्षणम्           |          करणस्य लक्षणविनियोगः          |
-|          पुरःपश्चाड्डोलस्य लक्षणम्           |           गतेः लक्षणविनियोगः           |
-|                तिर्यगूडोलस्य                 |         मण्डलस्य लक्षणविनियोगः         |
-|               उक्तानामुपसंहारः               |             शयनस्य लक्षणम्             |
-|       अथ पूर्णादीनि सप्तविधान्युदराणि        |             तस्य विनियोगः              |
-|            पूर्णस्य लक्षणविनियोगः            | स्थानाङ्गजानुभेदेषु समदीर्घस्य लक्षणम् |
-|                   क्षामस्य                   |             तस्य विनियोगः              |
-|                    चलस्य                     |         समनतस्य लक्षणविनियोगः          |
+| | |
+|:--:|:--:|
+| **विषयः** | **विषयः** |
+| भयानकस्य लक्षणविनियोगः | विभावानुभावभयानकदृष्टेर्लक्षणम् |
+| जुगुप्साया लक्षणम् | वास्तव भयानकदृष्टेर्विनियोगः |
+| तस्या विनियोगः | कृत्रिमभयानकदृष्टेः विनियोगः |
+| विस्मयस्य लक्षणम् | बीभत्सदृष्टेर्लक्षणविनियोगः |
+| कृत्रिमविस्मयस्य विनियोगः | मतान्तरेण बीभत्सदृष्टेः विनियोगः |
+| शान्तेर्लक्षणविनियोगः | अनुभावविभावबीभत्सदृष्टेर्लक्षणम् |
+| रसभावयोर्भेदप्रदर्शनम् | वास्तवबीभत्सदृष्टेर्विनियोगः |
+| रसानामपि परस्परं जन्यजनकभावप्रतिपादनम् | कृत्रिमबीभत्सदृष्टेः विनियोगः |
+| कान्तादयोऽष्टौ रसदृष्टयः | अद्भुतदृष्टेर्लक्षणविनियोगः |
+| तत्र कान्तदृष्टेर्लक्षणविनियोगः | मतान्तरेणाद्भुतदृष्टेः विनियोगः |
+| मतान्तरेणोक्तायाः कान्तदृष्टेः लक्षणविनियोगः | विभावानुभावाद्भुतदृष्टेर्लक्षणविनियोगः |
+| विप्रलम्भशृङ्गारदृष्टेः लक्षणविनियोगः | शान्तिदृष्टेः लक्षणविनियोगः |
+| हास्यदृष्टेः लक्षणविनियोगः | मतान्तरेण शान्तिदृष्टेः लक्षणविनियोगः |
+| मतान्तरेणोक्ताया हास्यदृष्टेर्लक्षणम् | अनुभावविभावशान्तिदृष्टेः लक्षणविनियोगः |
+| तस्या विनियोगः | ललितादयो विंशतिर्भावाभासदृष्टयः |
+| विहसितापहसितयोर्लक्षणविनियोगः | तासु ललिताया लक्षणविनियोगः |
+| करुणादृष्टेः लक्षणविनियोगः | मलिनाया लक्षणविनियोगः |
+| मतान्तरेण तस्या लक्षणम् | श्रान्ताया लक्षणविनियोगः |
+| तस्या विनियोगः | विभ्रान्ताया लक्षणविनियोगः |
+| विभावानुभावकरुणादृष्टेर्लक्षणम् | वक्राया लक्षणविनियोगः |
+| विभावदृष्टेर्विनियोगः | विप्लुताया लक्षणम् |
+| अनुभावदृष्टेर्विनियोगः | तस्या विनियोगः |
+| रौद्रदृष्टेर्लक्षणविनियोगः | शङ्किताया लक्षणविनियोगः |
+| मतान्तरेण रौद्रदृष्टेर्लक्षणम् | शून्याया लक्षणविनियोगः |
+| तस्या विनियोगः | विषण्णाया लक्षणविनियोगः |
+| विभावानुभावरौद्रदृष्टेर्लक्षणविनियोगः | लज्जिताया लक्षणम् |
+| वीरदृष्टेः लक्षणविनियोगः | तस्या विनियोगः |
+| मतान्तरेण वीरदृष्टेः लक्षणविनियोगः | आकेकराया लक्षणविनियोगः |
+| विभावानुभाववीरदृष्टेर्लक्षणम् | आकेकरातः किञ्चिद् भिन्नाया व्याकोशदृष्टेः लक्षणविनियोगः |
+| तस्या विनियोगः | |
+| भयानकदृष्टेर्लक्षणविनियोगः | |
+| मतान्तरेण भयानकदृष्टेः लक्षणविनियोगः | |
 
-|                            |                                       |
-|:--------------------------:|:-------------------------------------:|
-|         **विषयः.**         |              **विषयः.**               |
-|  कुञ्चितस्य लक्षणविनियोगः  | बामगुल्फसमसूची पदजानुनो लक्षणविनियोगः |
-|       कुञ्चितोच्चस्य       |            विषयांससूच्याः             |
-|      कुञ्चितोच्चतरस्य      |         आकृष्टसूच्या लक्षणम्,         |
-|      कुञ्चितोच्चतमस्य      |             तरुण विनियोगः             |
-| सप्तविध प्रसारणस्य लक्षणम् |                                      |
 
-|                              |                |              |
-|:----------------------------:|:--------------:|:------------:|
-| **स्मृतंवाक्याद्यनुक्रमणी|** |                |              |
-|         **वाक्यानि**         | **ग्रन्थनाम**  | **कर्तृनाम** |
-|                             |    आदिभरतम्    |             |
-|   नृत्तवाद्ययोर्गीतप्रधान    | सङ्गीतरत्नाकरः |             |
-|     भसङ्ख्यया चतुर्भावा      |  शब्दरत्नावली  |             |
-|                             |    ताण्डवम्    |             |
-|                             |               |   भरतमुनिः   |
-|     येन यत् क्रियते तत्      |               |             |
-|                             | सङ्गतिसुधाकरः  |             |
-|    अङ्गसङ्कोचे रससङ्कोचः     |               |             |
-|        दर्शनादभ्रसदसि        |               |             |
-|                             |               |  भरताचार्यः  |
-|     यतो हस्तस्ततो दृष्टः     |    आदिभरतम्    |             |
-|       यतो मनस्ततो भावः       |               |             |
-|                             |               |    कोहलः     |
-|      आत्मसंस्थो रसगुणः       |               |   आचार्याः   |
+
+| | |
+|:----------------------------:|:---------------------------------:|
+| **विषयः** | **विषयः** |
+| मदिराया लक्षणविनियोगः | पातस्य लक्षणविनियोगः |
+| तीव्रमददृष्टेः विनियोगः | तत्र शीघ्रपातस्य विनियोगः |
+| मध्यममददृष्टेः विनियोगः | मन्थरपातस्य विनियोगः |
+| अधममददृष्टेः विनियोगः | चलनस्य लक्षणविनियोगः |
+| सङ्कोचदृष्टेः लक्षणविनियोगः | तत्र स्वस्थानचलनस्य विनियोगः |
+| वितर्किताया लक्षणविनियोगः | सर्वतश्चलनस्य विनियोगः |
+| ग्लानाया लक्षणविनियोगः | प्रवेशनस्य लक्षणविनियोगः |
+| निन्दिताया लक्षणविनियोगः | विवर्तनस्य लक्षणविनियोगः |
+| जिह्माया लक्षणम् | समस्य लक्षणविनियोगः |
+| तस्या विनियोगः | उद्वृत्तस्य लक्षणविनियोगः |
+| मतान्तरेण जिह्माया लक्षणविनियोगः | निष्क्रामस्य लक्षणविनियोगः |
+| तप्ताया लक्षणविनियोगः | वीक्षणकर्मणि प्रसृतादयो नवाक्षिपुटाः |
+| भ्रष्टाया लक्षणविनियोगः | तत्र प्रसृतस्य लक्षणम् |
+| धिक्कृताया लक्षणविनियोगः | तस्य विनियोगः |
+| रसेषु अक्षिमूलाः पशुपक्षिणः | कुञ्चितस्य लक्षणविनियोगः |
+| स्थूलादयस्त्रिविधा दृष्टयः | उन्मेषितस्य लक्षणविनियोगः |
+| तत्र स्थूलाया लक्षणविनियोगः | निमेषितस्य लक्षणविनियोगः |
+| समाया लक्षणविनियोगः | उद्वर्तितस्य लक्षणविनियोगः |
+| सूक्ष्माया लक्षणविनियोगः | निवर्तननिवर्तितस्य विनियोगः |
+| अष्टविधा बहिर्विषयदृष्टयः | निवर्तितोद्वर्तितस्य विनियोगः |
+| तत्रालोकनदृष्टेर्लक्षणविनियोगः | स्फुरितस्य लक्षणविनियोगः |
+| अवलोकनदृष्टेः लक्षणम् | विहितस्य लक्षणविनियोगः |
+| तस्या विनियोगः | विताडितस्य लक्षणविनियोगः |
+| प्रलोकनदृष्टेः लक्षणविनियोगः | समस्य लक्षणविनियोगः |
+| विलोकनदृष्टेः लक्षणविनियोगः | मतान्तरेणोक्ताः कुटिलादयो नव भावदृष्टयः |
+| उल्लोकनदृष्टेः लक्षणविनियोगः | तासु कुटिलदृष्टेर्लक्षणावनियोगः |
+| अनुवृत्तदृष्टेर्लक्षणम् | मृदुलदृष्टेः लक्षणविनियोगः |
+| तस्या विनियोगः | भ्रान्तदृष्टेः लक्षणविनियोगः |
+| समदृष्टेः लक्षणविनियोगः | चञ्चलदृष्टेः लक्षणम् |
+| साचिदृष्टेः लक्षणविनियोगः | तस्या विनियोगः |
+| भ्रमणादयो नव तारक्रियाः | आयतदृष्टेर्लक्षणविनियोगः |
+| तत्र भ्रमणस्य लक्षणविनियोगः | |
+| वलनस्य लक्षणविनियोगः | |
+
+
+
+| | |
+|:---------------------------------:|:----------------------------------:|
+| **विषयः** | **विषयः** |
+| घोरदृष्टेः लक्षणविनियोगः | खण्डनस्य लक्षणविनियोगः |
+| मन्ददृष्टेः लक्षणविनियोगः | दलनस्य लक्षणविनियोगः |
+| ललितदृष्टेः लक्षणविनियोगः | व्यावर्तनस्य लक्षणविनियोगः |
+| काकुदृष्टेः लक्षणविनियोगः | पतनस्य लक्षणविनियोगः |
+| रसानुभवसूचका निमीलनादयो नव दृष्टयः | भ्रंशनस्य लक्षणविनियोगः |
+| तत्र निमीलनदृष्टेर्लक्षणविनियोगः | अनुरञ्जनस्य लक्षणविनियोगः |
+| आमीलनदृष्टेः लक्षणविनियोगः | मूर्छनस्य लक्षणविनियोगः |
+| प्रमीलनस्य लक्षणम् | अथ सहजादयः सप्त भ्रुकुटी भेदाः |
+| तस्या विनियोगः | तेषु सहजाया लक्षणविनियोगः |
+| उन्मीलितदृष्टेर्लक्षणविनियोगः | पतिताया लक्षणविनियोगः |
+| मीलनदृष्टेः लक्षणविनियोगः | उत्क्षिप्ताया लक्षणविनियोगः |
+| निमेषदृष्टेः लक्षणविनियोगः | रेचिताया लक्षणविनियोगः |
+| उन्मेषदृष्टेः लक्षणविनियोगः | अवकुञ्चिताया लक्षणविनियोगः |
+| मुकुलितदृष्टेः लक्षणविनियोगः | त्रुटिताया लक्षणविनियोगः |
+| अर्धमुकुलितदृष्टेः लक्षणविनियोगः | चतुराया लक्षणविनियोगः |
+| नवविधाः शोषणादिक्रियार्थाः फलदृष्टयः | मतान्तरेणोक्ता वलितादयो नव भ्रुकुटी भेदाः |
+| वीर्यादिभिस्तदुपयोजननियमः | तत्र वलिताया लक्षणम् |
+| वीर्यशोषणयोर्लक्षणविनियोगः | तस्या विनियोगः |
+| कोपदाहयोः लक्षणविनियोगः | चलिताया लक्षणविनियोगः |
+| उपलालनवश्ययोः लक्षणविनियोगः | स्तब्धाया लक्षणविनियोगः |
+| करुणाप्लावनयोः लक्षणम् | आयताया लक्षणविनियोगः |
+| तयोर्विनियोगः | अवकुण्ठिताया लक्षणम् |
+| अद्भुतस्तम्भनयोर्लक्षणविनियोगः | तस्या विनियोगः |
+| धैर्याकर्षणयोः लक्षणविनियोगः | विवर्तिताया लक्षणविनियोगः |
+| अनुरागमोहनयोः लक्षणविनियोगः | नताया लक्षणविनियोगः |
+| मदभ्रमयोर्लक्षणम् | वक्राया लक्षणविनियोगः |
+| तयोर्विनियोगः | ललिताया लक्षणविनियोगः |
+| बीभत्सविद्रावणयोः | अथ आवर्तादयः षोडश नासिकाभेदाः |
+| नवविधास्तारकसम्भवाः त्रुटनादयः क्रियाः | तत्र आवर्ताया लक्षणविनियोगः |
+| तत्र त्रुटनस्य लक्षणविनियोगः | समावर्ताया विनियोगः |
+| हरणस्य लक्षणम् | उन्नतावर्ताया लक्षणविनियोगः |
+| तस्य विनियोगः | अन्तरावर्ताया लक्षणविनियोगः |
+| | निःश्वासनासाया लक्षणविनियोगः |
+
+
+
+| | |
+|:---------------------------------:|:---------------------------:|
+| **विषयः** | **विषयः** |
+| उच्छ्वासनासाया लक्षणविनियोगः | स्तम्भितस्य लक्षणम् |
+| स्वाभाविक्या | तस्य विनियोगः |
+| मन्दाया | उच्छ्रवासस्य लक्षणविनियोगः |
+| विकृष्टाया लक्षणविनियोगः | निःश्वासस्य |
+| विकृताया लक्षणं लक्षणविनियोगः | एषां रसे विनियोगप्रकारः |
+| तस्या विनियोगः लक्षणविनियोगः | अथ आवर्तादयो द्वादश कपोलभेदाः |
+| मताया लक्षणविनियोगः कक्षणविनियोगः | तत्र आवर्तस्य लक्षणविनियोगः |
+| अवघूर्णिताया कक्षणविनियोगः | चलितावर्तस्य |
+| संश्लिष्टपुटनासिकाया कक्षणविनियोगः | स्फुरितस्य |
+| विश्लिष्टपुटनासिकाया कक्षणविनियोगः | कम्पितस्य |
+| विकसिताया कक्षणविनियोगः | कुञ्चितस्य |
+| चकाया कक्षणविनियोगः | आकुञ्चितस्य |
+| एषां नासिकाभेदानां रसे विनियोगप्रकारः | पूर्णस्य |
+| अथ स्वस्थादयो नव मासानिलभेदाः | श्रामस्य |
+| मतान्तरेणोकाः समादयो दश नासानिलभेदाः | उन्नतस्य |
+| तेषु स्वस्थस्य लक्षणविनियोगः | सङ्कोचस्य |
+| चलस्य लक्षणविनियोगः | चलस्थ |
+| निरस्तस्य लक्षणविनियोगः | उत्फुल्लस्य |
+| प्रबद्धस्य लक्षणविनियोगः | एषां रसे विनियोगप्रकारः |
+| सल्ललितस्य लक्षणविनियोगः | अथ मीलितादयः पञ्चदश चिबुकभेदाः |
+| विमुक्तस्य लक्षणविनियोगः | तत्र सीलितस्य लक्षणम् |
+| विस्मृतश्वासस्य लक्षणविनियोगः | तस्य विनियोगः |
+| स्खलितस्य कक्षणविनियोगः | संहतस्य लक्षणविनियोगः |
+| प्रसूतस्य लक्षणविनियोगः | श्लिष्टस्य |
+| समस्य लक्षणविनियोगः | चलस्य |
+| विलीनस्य लक्षणविनियोगः | कम्पितस्य लक्षणम् |
+| भ्रान्तस्य कक्षणविनियोगः | तस्य विनियोगः |
+| आन्दोलितस्य लक्षणम् | वक्रस्य लक्षणविनियोगः |
+| तस्य विनियोगः | तिर्यग्गतस्य |
+| कम्पितस्य लक्षणविनियोगः | लोलस्य |
+| शूत्कृतस्य कक्षणविनियोगः | वलितस्य लक्षणम् |
+| | तस्य विनियोगः |
+
+
+
+| | |
+|:--------------------------------:|:------------------------------:|
+| **विषयः.** | **विषयः.** |
+| व्यादीर्णस्य लक्षणविनियोगः | हीहीकृतस्य विनियोगः |
+| दूरनिष्क्रामस्य लक्षणविनियोगः | धिक्कृतस्य विनियोगः |
+| एकागुलाधः स्थितस्य लक्षणम् | एङ्कारस्य विनियोगः |
+| तस्य विनियोगः | ओङ्कारस्य विनियोगः |
+| संलग्नस्य लक्षणविनियोगः | हुङ्कारस्य विनियोगः |
+| स्फुरितस्य लक्षणविनियोगः | अथ असंयुक्तादीनि द्वादश दन्तकर्माणि |
+| एषां रसे विनियोगप्रकारः | असंयुक्तस्य लक्षणविनियोगः |
+| अथ विवर्तितादयो द्वादश अधरभेदाः | सुसंयुक्तस्य लक्षणम् |
+| तेषु विवर्तितस्य लक्षणविनियोग | तस्य विनियोगः |
+| मुकुलितस्य लक्षणविनियोगः | स्वभावस्य लक्षणविनियोगः |
+| विकासस्य लक्षणविनियोगः | सङ्घर्षणस्य लक्षणविनियोगः |
+| आयतस्य लक्षणम् | ग्रहणस्य लक्षणविनियोगः |
+| तस्य विनियोगः | खण्डनस्थ लक्षणविनियोगः |
+| रोचितस्य लक्षणविनियोगः | भिन्नस्य लक्षणविनियोगः |
+| सन्दष्टकस्य लक्षणविनियोगः | कुट्टनस्य लक्षणविनियोगः |
+| विसृष्टत्य लक्षणविनियोगः | चुक्रितस्य लक्षणविनियोगः |
+| कम्पितस्य लक्षणविनियोगः | चलस्य लक्षणविनियोगः |
+| विनिगूहितस्य लक्षणविनियोगः | दृष्टस्य लक्षणविनियोगः |
+| उद्वृत्तस्य लक्षणविनियोगः | निष्क्रमणस्य लक्षणविनियोगः |
+| समुद्रस्य लक्षणविनियोगः | एषां रसे विनियोगप्रकारः |
+| पूत्कारस्य लक्षणविनियोगः | अथ अधोनतादयश्चतुर्विंशती रसनाभेदाः |
+| एषां रसे विनियोगप्रकारः | तेषु अधोनताया लक्षणविनियोगः |
+| अथ उष्णादयश्चत्वारो मुखानिलभेदाः | ऊर्ध्वनताया लक्षणविनियोगः |
+| तत्र उष्णस्य लक्षणविनियोगः | उन्नत्ताम्राया लक्षणम् |
+| शीतस्य लक्षणविनियोगः | तस्या विनियोगः |
+| मन्दोष्णस्य लक्षणविनियोगः | निम्नगाया लक्षणविनियोगः |
+| अनुष्णाशीतस्य लक्षणविनियोगः | मध्योच्चलाया लक्षणविनियोगः |
+| अथ नवविधाः शूत्कृतादयो मुखा निलध्वनयः | ऊर्ध्वदन्तात्राया लक्षणविनियोगः |
+| तत्र शूत्कृतस्य विनियोगः | अन्तर्निम्नप्रसारिताय लक्षणविनियोगः |
+| सीत्कृतस्य विनियोगः | एकभागस्थाया लक्षणविनियोगः |
+| धुत्कृतस्य विनियोगः | दन्तमध्यस्थिताया लक्षणविनियोगः |
+| पुत्कृतस्य विनियोगः | चलाया लक्षणविनियोगः |
+
+
+
+| | |
+|:--------------------------------:|:---------------------------:|
+| **विषयः.** | **विषयः.** |
+| सृक्वानुगाया लक्षणम् | तस्य विनियोगः |
+| तस्या विनियोगः | श्वेतस्य लक्षणविनियोगः |
+| अप्रकाशाया लक्षणविनियोगः | रक्तस्य लक्षणविनियोगः |
+| लेहन्या लक्षणविनियोगः | पिशङ्गस्य लक्षणविनियोगः |
+| ऋजोः लक्षणविनियोगः | धूमलस्य लक्षणविनियोगः |
+| व्यक्तास्यस्थाया लक्षणविनियोगः | धूसरस्य लक्षणविनियोगः |
+| सक्तस्याया लक्षणविनियोगः | कर्बुरस्य लक्षणविनियोगः |
+| वक्राया लक्षणविनियोगः | श्यामस्य लक्षणविनियोगः |
+| दीर्घाया लक्षणविनियोगः | स्वभावस्य लक्षणविनियोगः |
+| लोहलाया लक्षणविनियोगः | भावस्वरूपनिरूपणं तद्भेदश्र |
+| ईषदुहिश्चलाग्राया लक्षणविनियोगः | त्रयस्त्रिंशत् सञ्चारिभावाः |
+| ओष्ठस्थाया लक्षणविनियोगः | अथ ग्रीवादीनि षट् प्रत्यङ्गानि |
+| अधराम्रगाया लक्षणविनियोगः | भुजमूलादीनि षट् अङ्गाङ्गानि |
+| अन्तर्मूलचलाया लक्षणविनियोगः | जान्वादीनि षट् पदयोरङ्गाङ्गानि |
+| आसां रसेषु विनियोगप्रकार : | प्रत्यङ्गेषु समादयो दश ग्रीवाभेदाः |
+| अथ समादयः सप्त मुखभेदा | तत्र समाया लक्षणविनियोगः |
+| तेषु समस्य लक्षणविनियोगः | प्रवृत्ताया लक्षणविनियोगः |
+| भग्नत्य लक्षणविनियोगः | निवृत्ताया लक्षणविनियोगः |
+| विधुतस्य लक्षणम् | वलिताया लक्षणविनियोगः |
+| तस्य विनियोगः | गलिताया लक्षणविनियोगः |
+| व्याभुग्नस्य लक्षणविनियोगः | रेचिताया लक्षणविनियोगः |
+| विसृतस्य लक्षणविनियोगः | अवकुञ्चिताया लक्षणविनियोगः |
+| विनिवृत्तस्य लक्षणविनियोगः | त्र्यश्राया लक्षणविनियोगः |
+| उद्वाहितस्य लक्षणविनियोगः | अवनम्राया लक्षणविनियोगः |
+| अथ प्रसन्नादयश्चत्वारो मुखरागविशेषाः | उन्नताया लक्षणविनियोगः |
+| तेषु प्रसन्नस्य लक्षणविनियोगः | समोन्नताया विनियोगः |
+| निर्मलस्य लक्षणम् | अथ अपवृत्तादयो नव भुजमूलभेदाः |
+| तस्य विनियोगः | तेषु अपवृत्तस्य लक्षणविनियोगः |
+| श्यामस्य लक्षणविनियोगः | अवनतस्य लक्षणविनियोगः |
+| श्यामभेदस्य धूमलस्य लक्षणविनियोगः | एकोञ्चस्य लक्षणम् |
+| रक्तस्य लक्षणविनियोगः | तस्य विनियोगः |
+| मतान्तरोक्ताः पीतादयो नव मुखवर्णभेदाः | कण्ठलग्नकस्य लक्षणविनियोगः |
+| तेषु पीतस्त्र लक्षणम् | उद्वत्तितस्य लक्षणविनियोगः |
+| | निवर्त्तितस्य लक्षणविनियोगः |
+
+
+
+| | |
+|:--:|:--:|
+| **विषयः**— | **विषयः**— |
+| उद्वेष्टितस्य लक्षणविनियोगः | पुरोत्युन्नतस्य लक्षणविनियोगः |
+| अपवेष्टितस्य लक्षणविनियोगः | पुरोयुक्तस्य लक्षणविनियोगः |
+| लोलितस्य लक्षणविनियोगः | पुरोवियुक्तस्य लक्षणविनियोगः |
+| अथ बाहूपोद्घाततया कूर्परभेदानां निरूपणस्यावश्यकता | पुरोविमुखोन्नतस्य लक्षणविनियोगः |
+| पार्श्वयुक्तादयस्त्रिंशत्सङ्ख्याकाः कूर्परभेदाः | एषां भ्रमणादिक्रियायोगेन निष्पन्नानां भेदानां निगमनम् |
+| तद्विभागक्रमः | अथ मणिबन्धभेदाः |
+| तन्न पार्श्वयुक्तस्य कूर्परस्य लक्षण— | स्थिरमणिबन्धभेदेषु समोत्तानस्य लक्षणम् |
+| विनियोगः | तस्य विनियोगः |
+| पार्श्ववियुक्तस्य विनियोगः | आनतोत्तानस्य लक्षणविनियोगः |
+| पार्श्वविस्तृतस्य विनियोगः | ऊर्ध्वोत्तानस्य लक्षणविनियोगः |
+| भुजमूलसमस्य विनियोगः | वक्रोत्तानस्य लक्षणविनियोगः |
+| पृष्ठक्षिप्तस्य विनियोगः | विषमस्य लक्षणविनियोगः |
+| पृष्ठसङ्कोचस्य विनियोगः | समाधस्तलस्य लक्षणविनियोगः |
+| पृष्ठातिसङ्कोचस्य विनियोगः | आनताधस्तलस्य लक्षणविनियोगः |
+| पार्श्वोदरधुतस्य विनियोगः | ऊर्ध्वाधस्तलस्य लक्षणविनियोगः |
+| पार्श्वविधुतस्य विनियोगः | वक्राधस्तलस्य लक्षणविनियोगः |
+| पार्श्वविततस्य विनियोगः | विषमाधस्तलस्य लक्षणविनियोगः |
+| पार्श्वधोमुखस्य विनियोगः | अथ अस्थिरमणिबन्धभेदाः |
+| पार्श्वाभिमुखस्य विनियोगः | तेषु उत्तानभ्रमणस्य लक्षणविनियोगः |
+| पार्श्वोन्नतस्य विनियोगः | उत्तानलोलस्य लक्षणविनियोगः |
+| पार्श्वात्युन्नतस्य लक्षणम् | उत्तानकम्पनस्य लक्षणम् |
+| तस्य विनियोगः | तस्य विनियोगः |
+| भुजमूलोन्नतस्य लक्षणविनियोगः | उत्तानचलनस्य लक्षणविनियोगः |
+| भुजमूलाधिकोन्नतस्य विनियोगः | उत्तानरेचनस्य लक्षणविनियोगः |
+| पार्श्वाभिमुखोर्ध्वस्य लक्षणम् | अधस्तलभ्रमणस्य लक्षणविनियोगः |
+| तस्य विनियोगः | अधस्तललोलस्य लक्षणविनियोगः |
+| अभिमुखस्य लक्षणविनियोगः | अधस्तलकम्पनस्य लक्षणविनियोगः |
+| अभिमुखोच्चतरस्य लक्षणविनियोगः | अधस्तलचलनस्य लक्षणविनियोगः |
+| पार्श्ववक्रोच्चस्य लक्षणम् | अधस्तलरेचनस्य लक्षणविनियोगः |
+| तस्य विनियोगः | पार्श्वभ्रमणस्य लक्षणविनियोगः |
+| पुरोमुखस्य लक्षणविनियोगः | पार्श्वलोलस्य लक्षणविनियोगः |
+| पुरोद्वाहितस्य लक्षणविनियोगः | |
+
+
+
+| | |
+|:--:|:--:|
+| **विषयः**— | **विषयः**— |
+| पार्श्वरेचितस्य लक्षणविनियोगः | कान्तादयः पञ्च करपाटाः |
+| स्थिराणामस्थिराणां च संयोगादुत्पन्नानां मणिबन्धभेदानां निगमनम् | तत्र कान्तस्य लक्षणविनियोगः |
+| बाहूपयोज्यक्षेत्रदेशकालगतिक्रियास्थानानां स्वरूपमदर्शनम् | सुरूपस्य लक्षणविनियोगः |
+| ऊर्ध्वादयः पञ्च बाहुभेदाः | सरसस्य लक्षणविनियोगः |
+| तत्रोर्ध्वस्य लक्षणविनियोगः | प्रसादस्य लक्षणविनियोगः |
+| अधोमुखस्य लक्षणविनियोगः | कोमलस्य लक्षणविनियोगः |
+| पार्श्वस्य लक्षणविनियोगः | बाहूनां वेष्टनादयः पञ्च क्रियाः |
+| पुरःप्रसारितस्य लक्षणविनियोगः | तत्र वेष्टनस्य लक्षणम् |
+| पश्चात् प्रसारितस्य लक्षणविनियोगः | पुरोवेष्टनस्य लक्षणम् |
+| बाह्रभिनये आश्रयणीया देशभेदाः | पार्श्ववेष्टनस्य लक्षणम् |
+| तत्तद्देशेषु प्रसारितानां बाहूनां तत्तद्दिङ्निबन्धननामभेदादयः | पश्चाद्वेष्टनस्य लक्षणम् |
+| बाहूनां प्रचारदेशः | ऊर्ध्ववेष्टनस्य लक्षणम् |
+| तिर्यग्देशावान्तरदेशचरबाहूनां लक्षणविनियोगः | विषमवेष्टनस्य लक्षणम् |
+| कठिनादयः पञ्च वाहुसम्भवाः प्रयत्नभेदाः | तिर्यग्वक्रितस्य लक्षणम् |
+| तत्र कठिनस्य लक्षणविनियोगः | स्वस्थानचक्रितस्य लक्षणम् |
+| शिथिलस्य लक्षणविनियोगः | अधोदेशवेष्टनस्य लक्षणम् |
+| प्रलम्बस्य लक्षणविनियोगः | ऊर्ध्वक्रमादीनि षोडश वीजनानि |
+| सरलस्य लक्षणविनियोगः | तत्र ऊर्ध्वक्रमस्य लक्षणम् |
+| प्रयत्नस्य लक्षणम् | अधः क्रमस्य लक्षणम् |
+| तस्य विनियोगः | द्विपार्श्वक्रमस्य लक्षणम् |
+| कूर्परमणिबन्धसम्भवाः ऋज्वादयः पञ्च क्रियाः | मतान्तरेण तस्य लक्षणम् |
+| तत्र ऋृजोर्लक्षणविनियोगः | पुरःपृष्ठक्रमस्य लक्षणम् |
+| समस्य लक्षणविनियोगः | पृष्ठक्रमस्य लक्षणम् |
+| ललितस्य लक्षणविनियोगः | द्विबाहुविपरीतस्य लक्षणम् |
+| लघोर्लक्षणं लक्षणविनियोगः | स्वस्तिकवीजनस्य लक्षणम् |
+| | कोणात् कोणस्य लक्षणम् |
+| | विकोणात् कोणस्य लक्षणम् |
+| | नीचादुच्चस्य लक्षणम् |
+| | क्रमादुच्चतरनीचस्य लक्षणम् |
+| | वक्रोच्चस्य लक्षणम् |
+| | तिर्यगुच्चवक्रस्य लक्षणम् |
+| | विषमवक्रोच्चस्य लक्षणम् |
+| | सव्यापसव्यविषमवक्रोच्चस्य लक्षणम् |
+
+
+
+| | |
+|:---------------------------------:|:-----------------------------:|
+| **विषयः**— | **विषयः**— |
+| समविषमनीचस्य लक्षणम् | कम्पितस्य लक्षणम् |
+| नीचात् समविषमस्य लक्षणम् | तस्य विनियोगः |
+| दीर्घादीनि वर्तनानि लक्षणम् | विह्वलस्य लक्षणविनियोगः |
+| तत्र दीर्घवर्तनस्य लक्षणम् | सङ्कोचस्य लक्षणविनियोगः |
+| सङ्कोचस्य लक्षणम् | अथ कुब्जाकारादयः पञ्च पृष्ठभेदाः |
+| खर्वस्य लक्षणम् | तत्र कुब्जाकारस्य लक्षणविनियोगः |
+| पुरःपार्श्वादिप्रयुक्तानि खण्डनानि | |
+| पुरःखण्डनस्य लक्षणम् | समस्य लक्षणविनियोगः |
+| पार्श्वखण्डनम्य लक्षणम् | तिर्यग्वक्रस्य लक्षणविनियोगः |
+| वक्रखण्डनस्य लक्षणम् | कम्पितस्य लक्षणविनियोगः |
+| विषमखण्डनस्य लक्षणम् | पश्चात्पृष्ठनतस्य लक्षणविनियोगः |
+| उच्चनीचखण्डनस्य लक्षणम् | अथ समादयो नवोरुभेदाः |
+| समखण्डनस्य लक्षणम् | तेषु समस्य लक्षणविनियोगः |
+| कोणखण्डनस्य लक्षणम् | समस्तस्य लक्षणविनियोगः |
+| विपरीतखण्डनस्य लक्षणम् | व्यस्तस्य लक्षणविनियोगः |
+| निरस्तस्य लक्षणम् | समस्तव्यस्तकम्पितस्य लक्षणविनियोगः |
+| नृत्तादिषु गतागतक्रियालक्षणम् | व्यत्यस्तस्य लक्षणविनियोगः |
+| नृत्तोपयोगिनः कराः | उपरिक्षिप्तस्य लक्षणविनियोगः |
+| क्रियाप्रचारेषु पुरःपार्श्वप्रचारस्य लक्षणम् | विवृतस्य लक्षणम् |
+| अन्य पार्श्वप्रचारस्य लक्षणम् | तस्य विनियोगः |
+| पार्श्वभागगतागतस्य लक्षणम् | विस्तृतस्य लक्षणविनियोगः |
+| पुरोगतागतस्य लक्षणम् | पुरःपश्चात् स्थितस्यः लक्षणविनियोगः |
+| भुजमूलवलनस्य लक्षणम् | स्थानादयः षड् जानुभेदाः |
+| ऊर्ध्वाधोगमनस्य लक्षणम् | तत्र स्थानस्य लक्षणविनियोगः |
+| उभयपार्श्वसंयुक्तगतागतस्य लक्षणम् | आसनस्य लक्षणविनियोगः |
+| पार्श्वडोलहस्तस्य लक्षणम् | करणस्य लक्षणविनियोगः |
+| पुरःपश्चाड्डोलस्य लक्षणम् | गतेः लक्षणविनियोगः |
+| तिर्यगूडोलस्य | मण्डलस्य लक्षणविनियोगः |
+| उक्तानामुपसंहारः | शयनस्य लक्षणम् |
+| अथ पूर्णादीनि सप्तविधान्युदराणि | तस्य विनियोगः |
+| पूर्णस्य लक्षणविनियोगः | स्थानाङ्गजानुभेदेषु समदीर्घस्य लक्षणम् |
+| क्षामस्य | तस्य विनियोगः |
+| चलस्य | समनतस्य लक्षणविनियोगः |
+
+
+
+| | |
+|:---------------------:|:--------------------------------:|
+| **विषयः.** | **विषयः.** |
+| कुञ्चितस्य लक्षणविनियोगः | बामगुल्फसमसूची पदजानुनो लक्षणविनियोगः |
+| कुञ्चितोच्चस्य | विषयांससूच्याः |
+| कुञ्चितोच्चतरस्य | आकृष्टसूच्या लक्षणम्, |
+| कुञ्चितोच्चतमस्य | तरुण विनियोगः |
+| सप्तविध प्रसारणस्य लक्षणम् | |
+
+
+
+[TABLE]
+
+
 
 .
 
@@ -1014,6 +1039,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **——————**
 
+
+
 **॥श्रीः॥**
 
 **महोन्नतमहामहिमश्री**
@@ -1021,23 +1048,23 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **श्रीबालरामवर्भवञ्चिमहाराजप्रणीतं**
 
 **बालरामभरतम्।**  
-**————**
+**————————————**
 
 **यस्याः स्मरणमात्रेण वाग्विभूतिर्विजृम्भते।  
 सा भारती सुखं नित्यं रमतां मन्मुखाम्बुजे॥१॥**
 
 **मदजलमण्डितगात्रो मधुकरमालापरिष्कृतो नित्यम्।  
-पन्नगभूषणशाली सोन्नतनृत्तो विनायकः पायात्[^17]॥२॥**
+पन्नगभूषणशाली सोन्नतनृत्तो विनायकः पायात्[^1]॥२॥**
 
-[^17]: #
+[^1]: #
 
 **मङ्गलं मम तनोतु गजास्यो मन्दभावहरणे वरखड्गः।  
 पण्डितो मधुरमोदकहस्तोमण्डिताश्रितजनाखिलभाग्यः॥३॥**
 
-**झलंझलितकङ्कणं तकतकाङ्घ्रिसन्ताडितं  
-क्वणत्क्वणितनूपुरं हरहरेति शब्दांज्ज्वलम्  
+**झलञ्झलितकङ्कणं तकतकाङ्घ्रिसन्ताडितं  
+क्वणत्क्वणितनूपुरं हरहरेति शब्दाञ्ज्ज्वलं  
 धिमिन्धिमितदुन्दुभिध्वनिघनाकुलं मद्दलै-  
-र्धणंधणधणध्वनज्जयति ताण्डवं शाम्भवम्॥४॥**
+र्धणन्धणधणध्वनज्जयति ताण्डवं शाम्भवम्॥४॥**
 
 **नवनवरससारैर्नाट्यसङ्गीततालै—  
 रभिनयकुशला सा चाद्भुतोल्लासभावा।  
@@ -1057,7 +1084,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **यस्याः शिरोनयनवक्त्रकराङ्घ्रिलीला–  
 मालोक्य मोहसहितो भगवान् रसज्ञः।  
 श्रीमान् हरिर्जयतु तुङ्गफणीन्द्रशायी  
-सा नाटिका चजयताद् वररङ्गलक्ष्मीः॥८॥**
+सा नाटिका च जयताद् वररङ्गलक्ष्मीः॥८॥**
 
 **लास्यतन्त्रमवलोक्य विशालं  
 शास्त्रमारचितमात्मसुखाय।  
@@ -1069,7 +1096,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 त्रिदशनगरतुल्यं देवताभिश्च पूर्णं  
 विजयनृपतिलक्ष्म्या सेवितं विश्वसारम्॥१०॥**
 
-**रिपुजनदुरवापंराजनीतिप्रशस्तं  
+**रिपुजनदुरवापं राजनीतिप्रशस्तं  
 विविधमनुजसङ्घैराश्रितं धर्मरूपम्।  
 अगतिकमनुजानामात्मरक्षाकरं त–  
 ज्जयति हि सततं श्रीवञ्चिराजस्य राज्यम्॥११॥**
@@ -1197,7 +1224,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **गहनपदपदार्थज्ञानविज्ञानदक्षै–  
 रमरगुरुसमानैरर्थशास्त्रप्रवीणैः।  
 सरसगुणकवीन्द्रैर्वाक्प्रसङ्गे विदग्धैः  
-प्रतिदिनमतिरम्याशोभते राजधानी॥३६॥**
+प्रतिदिनमतिरम्या शोभते राजधानी॥३६॥**
 
 **श्रुतिसुखरसगीतैर्वेणुवाद्यैर्मनोज्ञै–  
 श्चिरपरिचयहस्ताभ्यस्तवीणानिनादैः।  
@@ -1229,7 +1256,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  भारत्या अंशसम्भूताः भावरागतालाः। तेषामानन्दरसैरुपेता सम्पूर्णा भारती मुदा सन्तोषेण जयतात् मङ्गलाय भूयादित्यर्थः। अस्मिन् श्लोके भारत्याः प्राधान्यं प्रतिपादितम्। अंशभूतेषु भावरागतालेषु किं प्रधानमित्याकाङ्क्षायाम् अत्र नर्तकाः– भाव एव प्रधानम्। भावं विना रागतालयोः मनोवृत्तिविशेषरसासम्भवात्। ननु मनोवृत्तिविशेषरसासम्भवेऽपि नादस्य नित्यत्वात् नादात्मकः श्रुतिरसः अस्त्येवेति चेत्। तत्रापि चैतन्यसम्बन्धः अस्त्येव। वृत्तिज्ञानं विना नादेषु चैतन्यसम्बन्धो नास्ति। वृत्तिज्ञानस्य मनोधर्मत्वेन भावरूपत्वाद् भाव एव प्रधानमिति आचार्यैः आदिभरते चिन्तितमिति वदन्ति।
 
- गायकास्तु– राग एव प्रधानम्। रागं विना भावतालयोरनिष्पत्तेः। रागस्य आदौ निवेशासम्भवस्तु काकाक्षिन्यायेन उभयान्वयलाभार्थम्। अन्यथा आदौ अन्ते च निविष्टश्चेत् व्यवहितान्वयः स्यात्। एवमेव चिन्तितं सङ्गीतरत्नाकरे "नृत्तवाद्ययोः गीतप्रधानत्वात् त(त्रै?दे) वआदौ विचार्यत" इति। अत एव एतच्छास्त्रस्य सङ्गीतमिति नामधेयं भरतमूलकमिति वदन्ति।
+ गायकास्तु– राग एव प्रधानम्। रागं विना भावतालयोरनिष्पत्तेः। रागस्य आदौ निवेशासम्भवस्तु काकाक्षिन्यायेन उभयान्वयलाभार्थम्। अन्यथा आदौ अन्ते च निविष्टश्चेत् व्यवहितान्वयः स्यात्। एवमेव चिन्तितं सङ्गीतरत्नाकरे "नृत्तवाद्ययोः गीतप्रधानत्वात् त(त्रै?दे) व आदौ विचार्यत" इति। अत एव एतच्छास्त्रस्य सङ्गीतमिति नामधेयं भरतमूलकमिति वदन्ति।
 
  तालज्ञास्तु– ताल एव प्रधानम्। तालं विना भावरागयोः सम्बन्धासम्भवात्। तदुक्तं शब्दरत्नावल्यां–
 
@@ -1241,13 +1268,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **"ताण्डवेशः स्वनटने थैशब्दपदताडनात्।  
 गलितो नूपुरो वेगादुत्प्लुत्य पतने दिवः॥**
 
-**अक्षमा पृथिवीत्येवं चिन्तयन् करुणानिधिः।  
+** अक्षमा पृथिवीत्येवं चिन्तयन् करुणानिधिः।  
 शिरःस्कन्धोर्ध्वदेशस्थजानुना स महेश्वरः॥**
 
-**सन्धार्य नूपुरं भूमौ पातयन् लोकशङ्करः।  
+** सन्धार्य नूपुरं भूमौ पातयन् लोकशङ्करः।  
 तद्धित्तोन्नं तदा शब्दो जातो नूपुरवेगतः॥**
 
-**अनन्ततालशब्दानामुत्पत्तौ मूलकारणम्।"**
+** अनन्ततालशब्दानामुत्पत्तौ मूलकारणम्।"**
 
  इति। तन्मूलादनन्ततालशब्दा उत्पन्नाः। वृत्तादिषु तालस्य प्राधान्यात् ताल एव प्रधानमिति। एतत्पक्षे अस्य शास्त्रस्य आतोद्यमिति नामधेयं भरतमूलकमिति वदन्ति।
 
@@ -1310,7 +1337,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **लोकवेदप्रसिद्धश्च व्यवहारैककारणम्।  
 स्वराणां पूर्णनादस्तु श्रुतिरित्यभिधीयते॥६१॥**
 
-**तत्र श्रुतिगतं वाद्यं यक्कालं चिह्नमेव च।  
+**तत्र श्रुतिगतं वाद्यं यक्काळं चिह्नमेव च।  
 नौरी कर्णेति चत्वारः स्थूलाश्च श्रुतिगोचराः॥६२॥**
 
 **भेरीमणिः करमणिः कांस्यं घण्टा चतुर्विधम्।  
@@ -1332,7 +1359,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 मद्दलः पटहो भेरी ढक्का करटिझिल्लिका॥६८॥**
 
 **तरटिस्तिमिलोटङ्का घटकं च रसध्वनिः।  
-चणप्रंमुरजं चैव तत्तलं तुडुमा तथा॥६९॥**
+चणप्रं मुरजं चैव तत्तलं तुडुमा तथा॥६९॥**
 
 **तठारी दुन्दुभिश्चैव तन्नुमा क्षणवीडि च।  
 चालिन्याकरकं तुम्बुभङ्गी चाङ्गुलिरोहणम्॥७०॥**
@@ -1340,10 +1367,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **तत्तनीझ्झं डमरुकमेकाक्षं मुरजा तथा।  
 चालिनी चन्द्रवलयं नालीकं चान्वरी तथा॥७१॥**
 
-**मुलवोडु प्रसिद्धं च बाद्यं त्रिंशदुदीरितम्।  
+**मुळवोडु प्रसिद्धं च बाद्यं त्रिंशदुदीरितम्।  
 एवं कोशद्वयाज्जातं रागतालश्रुतित्रयम्॥७२॥**
 
-**मनोमयात्तु संजातो भावः सर्वशरीरगः।  
+**मनोमयात्तु सञ्जातो भावः सर्वशरीरगः।  
 स्थूलसूक्ष्मादिदेहेषु व्याप्तः स्वात्मगुणान्वितः॥७३॥**
 
 **ज्ञानकर्मेन्द्रियैरेव बहिरर्थप्रकाशकः।  
@@ -1378,12 +1405,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 ** **इदानीं वाद्यस्वरूपवर्णनेन जगदुत्पत्तिस्थित्यादयः प्रतिपादिताः।
 
-**गौरीशश्च[^18] रमेश्वरोऽखिलगुरुर्वागीश्वरः षण्मुखो  
+**गौरीशश्च[^2] रमेश्वरोऽखिलगुरुर्वागीश्वरः षण्मुखो  
 नन्दी विघ्नविनायकश्च हनुमान् वाचस्पतिः कोहलः।  
 देवर्षिः कलशोद्भवश्च भरतः शक्तिर्मतङ्गो भृगु-  
 र्ये चान्ये मुनयो वसन्ति भुवने तेभ्यो महद्भ्यो नमः॥८४॥**
 
-[^18]: #
+[^2]: #
 
 **बाणो रावणकार्तवीर्यनृपतिः कृष्णो बलश्चार्जुनो  
 भूपालाः सुरनायकश्च वनिताः कृष्णाप्युषा कन्यका।  
@@ -1392,7 +1419,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **––––––––**
 
- इदानीमारप्स्यमानभरतशास्त्रस्य संगतिं दर्शयन्नेव परमेश्वरं प्रस्तौति–
+ इदानीमारप्स्यमानभरतशास्त्रस्य सङ्गतिं दर्शयन्नेव परमेश्वरं प्रस्तौति–
 
 **जगद्भरतनाट्यं हि नाटयन् परमेश्वरः।  
 तद्भावलीलामादाय भरतं कृतवान् पुरा॥८६॥**
@@ -1435,19 +1462,19 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **रागसम्बद्धतालक्रियापरिच्छेद्यभावनानुभवत्वं भरतत्वम्।**
 
- रागसंबद्धा या तालक्रिया तत्परिच्छेद्या या भावना तदनुभवत्वं भरतत्वम् इति लक्षणार्थः। अस्ति चेदं लक्षणं लक्ष्ये। रागसम्बद्धा तालक्रियापरिच्छेद्या या भावना आदितालभावना, तदनुभवत्वं भरतत्वम् इति लक्ष्ये लक्षणसमन्वयः। एवं सर्वरागेषु सर्वतालेष्वपि भावनानुभवे नाट्ये योजनीयम्। पदकृत्यं चिन्त्यते। भावनानुभवत्वं तत्त्वम् इत्युक्ते बालनाट्येऽतिव्याप्तिः। बालस्याप्यात्मभावनानुभवसत्त्वात्। अतः तालक्रियापरिच्छेद्येति। सत्यपि भावनानुभवे बालस्य तालपरिज्ञानाभावाद् नातिव्याप्तिः। यथाकथञ्चित्तालक्रियापरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते भ्रान्तनृत्तेऽतिव्याप्तिः। भ्रान्तस्य बुद्धेरनिश्चयत्वेन यथाकथञ्चित्तालक्रियापरिच्छेद्यभावनानुभवसत्त्वात्। अतः शास्त्रोक्ततालक्रियापरिच्छेद्यभावनानुभवत्वमिति। भ्रान्तनाट्यस्य शास्त्रोक्तत्वाभावात् नातिव्याप्तिः। शास्त्रोक्ततालक्रियापरिच्छेद्यभावनानुभवत्वम् इत्युक्ते भावतालरागात्मके भरते उक्तानुभवे सत्यपि लक्षणे रागपदाभावात् रागांशेऽव्याप्तिः। अतः रागसम्बद्धेति। उक्तविशेषणात् नाव्याप्तिः। रागसम्बद्धभावनानुभवत्वं तत्त्वमित्युक्ते आत्मनि नादभावनानुभवे सत्यपि अङ्गव्यापारचेष्टायास्तालविषयत्वेन तालक्रियापरिच्छेद्यत्वाभावात् असम्भवः। तालक्रियां विना अन्यक्रियानुष्ठाने अवतालनाट्येऽतिव्याप्तिः। अतः तालक्रियापरिच्छेद्येति। अव (तालनाट्ये) तालक्रियापरिच्छेद्यत्वाभावात् नातिव्याप्तिः। रागसंबद्धतालक्रियाभावनानुभवत्वं तत्त्वमित्युक्ते तालक्रियायामतिव्याप्तिः। अतः परिच्छेद्येति। तालक्रियायाः परिच्छेदकत्वेन परिच्छेद्यत्वाभावात् नातिव्याप्तिः। रागसंबद्धतालपरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते नाट्यावलोकनकारिणि सभाजने रागसम्बद्धतालपरिच्छेद्यभावनानुभवसत्त्वात् अतिव्याप्तिः। अतः क्रियेति। तेषां सभाजनानामुक्तानुभवे सत्यपि क्रियानुष्ठानभावनानुभवासम्भवात् नातिव्याप्तिः। रागसम्बद्धक्रियापरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते अवतालनाट्येऽतिव्याप्तिः। अतः तालेति। अवतालनाट्ये क्रियानुभवे सत्यपि तालक्रियानुभवाभावात् नातिव्याप्तिः। संबद्धपदानुपादाने रागतालक्रियापरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते आरोहावरोहक्रमरहितापस्वररागनाट्ये रागासंबद्धत्वेन रागतालक्रियापरिच्छेद्यभावनानुभव–सत्त्वात् अतिव्याप्तिः। अतः सम्बद्धेति। अपस्वर(राग)नाट्यस्य (रागसम्बद्ध)तालक्रियया(म्?) असंबद्धत्वात् नातिव्याप्तिः। रागसम्बद्धतालक्रियापरिच्छेद्यानुभवत्वं तत्त्वमित्युक्ते उक्तानुभवस्य सर्वाङ्गे स(त्य? त्त्वेऽ)पि भावनारसाभावात् रसहीननाट्येऽतिव्याप्तिः। प्रमादनाट्येऽप्यतिव्याप्तिः। अतो भावनेति। अनुभवे सत्यपि भावनारसाभावात् नातिव्याप्तिः। रागसम्बद्धतालक्रियापरिच्छेद्यभावनात्वं तत्त्वम् इत्युक्ते अशिक्षितनाट्ये नाट्यस्मरणे च अतिव्याप्तिः। अतः अनुभवेति। भावनायां स्मरणे च सत्यपि अनुभवाभावात् नातिव्याप्तिः। रागसंबद्धतालक्रियापरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते परकीयभावनापक्षे रागसंबद्धतालक्रियापरिच्छेद्यपरकीयभावनानुभवस्य सालभञ्जिकानाट्ये नाट्यविडम्बने च अतिव्याप्तिः। अतः स्वकीयभावनेति विशेषणं देयम्। स्वकीयभावनापक्षे आन्तरभावना वा बाह्यभावना वा। आद्ये करणापाटवनाट्येऽतिव्याप्तिः। बाह्येन्द्रियैः व्यापारासामर्थ्यात्। द्वितीये कृत्रिमनाट्येऽतिव्याप्तिः। आत्मवञ्चनात्वेन आन्तरभावनाया लुप्तत्वात्। अतः भावना उभयभावनापरा। तथाच (लक्षणं?) रागसम्बद्धतालक्रियापरिच्छेद्यपरकीयभावनारहित–स्वकीयान्तरबाह्यभावनानुभवत्वं तत्त्वम् इति लक्षणं पर्यवसन्नम्।
+ रागसम्बद्धा या तालक्रिया तत्परिच्छेद्या या भावना तदनुभवत्वं भरतत्वम् इति लक्षणार्थः। अस्ति चेदं लक्षणं लक्ष्ये। रागसम्बद्धा तालक्रियापरिच्छेद्या या भावना आदितालभावना, तदनुभवत्वं भरतत्वम् इति लक्ष्ये लक्षणसमन्वयः। एवं सर्वरागेषु सर्वतालेष्वपि भावनानुभवे नाट्ये योजनीयम्। पदकृत्यं चिन्त्यते। भावनानुभवत्वं तत्त्वम् इत्युक्ते बालनाट्येऽतिव्याप्तिः। बालस्याप्यात्मभावनानुभवसत्त्वात्। अतः तालक्रियापरिच्छेद्येति। सत्यपि भावनानुभवे बालस्य तालपरिज्ञानाभावाद् नातिव्याप्तिः। यथाकथञ्चित्तालक्रियापरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते भ्रान्तनृत्तेऽतिव्याप्तिः। भ्रान्तस्य बुद्धेरनिश्चयत्वेन यथाकथञ्चित्तालक्रियापरिच्छेद्यभावनानुभवसत्त्वात्। अतः शास्त्रोक्ततालक्रियापरिच्छेद्यभावनानुभवत्वमिति। भ्रान्तनाट्यस्य शास्त्रोक्तत्वाभावात् नातिव्याप्तिः। शास्त्रोक्ततालक्रियापरिच्छेद्यभावनानुभवत्वम् इत्युक्ते भावतालरागात्मके भरते उक्तानुभवे सत्यपि लक्षणे रागपदाभावात् रागांशेऽव्याप्तिः। अतः रागसम्बद्धेति। उक्तविशेषणात् नाव्याप्तिः। रागसम्बद्धभावनानुभवत्वं तत्त्वमित्युक्ते आत्मनि नादभावनानुभवे सत्यपि अङ्गव्यापारचेष्टायास्तालविषयत्वेन तालक्रियापरिच्छेद्यत्वाभावात् असम्भवः। तालक्रियां विना अन्यक्रियानुष्ठाने अवतालनाट्येऽतिव्याप्तिः। अतः तालक्रियापरिच्छेद्येति। अव (तालनाट्ये) तालक्रियापरिच्छेद्यत्वाभावात् नातिव्याप्तिः। रागसम्बद्धतालक्रियाभावनानुभवत्वं तत्त्वमित्युक्ते तालक्रियायामतिव्याप्तिः। अतः परिच्छेद्येति। तालक्रियायाः परिच्छेदकत्वेन परिच्छेद्यत्वाभावात् नातिव्याप्तिः। रागसम्बद्धतालपरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते नाट्यावलोकनकारिणि सभाजने रागसम्बद्धतालपरिच्छेद्यभावनानुभवसत्त्वात् अतिव्याप्तिः। अतः क्रियेति। तेषां सभाजनानामुक्तानुभवे सत्यपि क्रियानुष्ठानभावनानुभवासम्भवात् नातिव्याप्तिः। रागसम्बद्धक्रियापरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते अवतालनाट्येऽतिव्याप्तिः। अतः तालेति। अवतालनाट्ये क्रियानुभवे सत्यपि तालक्रियानुभवाभावात् नातिव्याप्तिः। सम्बद्धपदानुपादाने रागतालक्रियापरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते आरोहावरोहक्रमरहितापस्वररागनाट्ये रागासम्बद्धत्वेन रागतालक्रियापरिच्छेद्यभावनानुभव–सत्त्वात् अतिव्याप्तिः। अतः सम्बद्धेति। अपस्वर(राग)नाट्यस्य (रागसम्बद्ध)तालक्रियया(म्?) असम्बद्धत्वात् नातिव्याप्तिः। रागसम्बद्धतालक्रियापरिच्छेद्यानुभवत्वं तत्त्वमित्युक्ते उक्तानुभवस्य सर्वाङ्गे स(त्य? त्त्वेऽ)पि भावनारसाभावात् रसहीननाट्येऽतिव्याप्तिः। प्रमादनाट्येऽप्यतिव्याप्तिः। अतो भावनेति। अनुभवे सत्यपि भावनारसाभावात् नातिव्याप्तिः। रागसम्बद्धतालक्रियापरिच्छेद्यभावनात्वं तत्त्वम् इत्युक्ते अशिक्षितनाट्ये नाट्यस्मरणे च अतिव्याप्तिः। अतः अनुभवेति। भावनायां स्मरणे च सत्यपि अनुभवाभावात् नातिव्याप्तिः। रागसम्बद्धतालक्रियापरिच्छेद्यभावनानुभवत्वं तत्त्वमित्युक्ते परकीयभावनापक्षे रागसम्बद्धतालक्रियापरिच्छेद्यपरकीयभावनानुभवस्य सालभञ्जिकानाट्ये नाट्यविडम्बने च अतिव्याप्तिः। अतः स्वकीयभावनेति विशेषणं देयम्। स्वकीयभावनापक्षे आन्तरभावना वा बाह्यभावना वा। आद्ये करणापाटवनाट्येऽतिव्याप्तिः। बाह्येन्द्रियैः व्यापारासामर्थ्यात्। द्वितीये कृत्रिमनाट्येऽतिव्याप्तिः। आत्मवञ्चनात्वेन आन्तरभावनाया लुप्तत्वात्। अतः भावना उभयभावनापरा। तथाच (लक्षणं?) रागसम्बद्धतालक्रियापरिच्छेद्यपरकीयभावनारहित–स्वकीयान्तरबाह्यभावनानुभवत्वं तत्त्वम् इति लक्षणं पर्यवसन्नम्।
 
  अस्मिन् लक्षणे रागतालयोर्भाव एव नाट्ये प्रकाशते। नाट्यस्य स्वार्थपरत्वं नास्तीति अस्वरसमाशङ्क्य लक्षणान्तरमाह–
 
 **भावरसार्थक्रियाकारित्वं भरतत्वम्।**
 
- इदं तु लक्षणं स्वशास्त्रे अङ्गप्रधानसाधारणं प्रधाने भरते च अङ्गेषु च वर्तते। तथाहि– भावः देवतिर्यङ्नरादिभावः। रसः मधुरशृङ्गारादिरसः। अर्थः दिव्यगुणकर्मादयः। क्रिया भावना। एतच्चतुष्टयकारित्वम् इति लक्षणार्थः। इदं लक्षणं रागतालविशिष्टनाट्येऽपि वर्तते। भावः अभिनयः नृत्तं च। रसः रागः। अर्थ (ः?)क्रिया तालः। एतत्त्रितयकारित्वं भरतत्वम् इति वा लक्षणार्थः। अङ्गेषु च इदं लक्षणं वर्तते। शिरसि भावः। नयनयोः रसः। हस्तयोः अर्थः। पदयोः क्रिया। एतच्चतुष्टयकारित्वं भरतत्वम् इति च लक्ष्ये लक्षणसमन्वयः। पदकृत्यं चिन्त्यते। भावकारित्वं तत्त्वमित्युक्ते उपाङ्गस्य नयनादेः रसकारित्वेन भावकारित्वाभावात् तेषु उपाङ्गेषु अव्याप्तम्। अतः रसेति। भावरसकारित्वं तत्त्वम् इत्युक्ते अर्थक्रियाकारिणि प्रत्यङ्गादौ भावरसाभावात् अव्याप्तम्। अतः अर्थक्रियेति। तथाच भावरसार्थक्रियाकारित्वं तत्त्वमिति लक्षणम् अङ्गप्रत्यङ्गोपाङ्गेष्वपि उपपादनीयम्।
+ इदं तु लक्षणं स्वशास्त्रे अङ्गप्रधानसाधारणं प्रधाने भरते च अङ्गेषु च वर्तते। तथाहि– भावः देवतिर्यङ्नरादिभावः। रसः मधुरशृङ्गारादिरसः। अर्थः दिव्यगुणकर्मादयः। क्रिया भावना। एतच्चतुष्टयकारित्वम् इति लक्षणार्थः। इदं लक्षणं रागतालविशिष्टनाट्येऽपि वर्तते। भावः अभिनयः नृत्तं च। रसः रागः। अर्थ (ः?) क्रिया तालः। एतत्त्रितयकारित्वं भरतत्वम् इति वा लक्षणार्थः। अङ्गेषु च इदं लक्षणं वर्तते। शिरसि भावः। नयनयोः रसः। हस्तयोः अर्थः। पदयोः क्रिया। एतच्चतुष्टयकारित्वं भरतत्वम् इति च लक्ष्ये लक्षणसमन्वयः। पदकृत्यं चिन्त्यते। भावकारित्वं तत्त्वमित्युक्ते उपाङ्गस्य नयनादेः रसकारित्वेन भावकारित्वाभावात् तेषु उपाङ्गेषु अव्याप्तम्। अतः रसेति। भावरसकारित्वं तत्त्वम् इत्युक्ते अर्थक्रियाकारिणि प्रत्यङ्गादौ भावरसाभावात् अव्याप्तम्। अतः अर्थक्रियेति। तथाच भावरसार्थक्रियाकारित्वं तत्त्वमिति लक्षणम् अङ्गप्रत्यङ्गोपाङ्गेष्वपि उपपादनीयम्।
 
  इदानीम् अङ्गप्रसङ्गात् अङ्गाङ्गिभावश्चिन्त्यते। भावरागतालात्मकं भरतमिति वाक्ये भावस्य पुरो निर्दिष्टत्वात् रागतालयोरङ्गत्वम्। तेषां समप्राधान्यपक्षे तु एकप्रयोगविनियोगासम्भवात् अङ्गाङ्गिभावाभा (वाच्चा? वः)। तस्मात् रागतालयोरङ्गत्वं, भावस्य प्राधान्यम्।
 
  भावो नाम आत्ममनस्संयोगक्रियाविशेषः सुखदुःखादिनवरसात्मकः। स तु मनोमयो भावः ज्ञानेन्द्रियकर्मेन्द्रियद्वारा बहिर्निर्गच्छति। यदा ज्ञानेन्द्रियद्वारा बहिर्निर्गच्छति, तदा भावात्मकः। यदा तु कर्मेन्द्रियद्वारा बहिर्निर्गच्छति, तदा क्रियात्मकः। स तु आङ्गिकः, सात्त्विकः, वाचिकः, आहार्यरूपश्च। आङ्गिको नाम अङ्गजन्यो भावः लोकधर्मो नाट्यधर्मश्च। सात्त्विको नाम सत्त्वरूपः आत्मजन्यो भावः, चित्तवृत्त्यर्पिता बाह्यवस्त्वनुसारिणी च वृत्तिः। वाचिको नाम वर्णजन्यो भावः काव्यनाटकादिः। आहार्यस्तु कल्पितनाटकादौ हारकेयूरकटकादिभूषणभूष्यभावः। एवं भावश्चतुर्विधः।
 
- आङ्गिकाभिनये आत्मीयभावरसः बाह्यभावरसश्च सम्यक् प्रकाशत इति आङ्गिकभावश्चिन्त्यते। ननु ज्ञानेन्द्रियकर्मेन्द्रियद्वारा भावो निर्गच्छतीत्युक्ते ज्ञानेन्द्रियकर्मेन्द्रिययोः अङ्गत्वं भावस्य प्राधान्यम्। पूर्वं रागतालयोरङ्गत्वं कथमुक्तम् इति चेत्। अङ्गं तु द्विविधं बाह्यमाभ्यन्तरं चेति। बाह्यमङ्गं रागतालादिः। आन्तरमङ्गं ज्ञानेन्द्रियादिः। बाह्यैरङ्गैः भावितोऽपि भावः आन्तरैः ज्ञानेन्द्रियादिभिरेव विविच्यते। बाह्याङ्गभूतरागतालाद्यपेक्षया अन्तरङ्गभूतज्ञानेन्द्रियकर्मेन्द्रियादेः आवश्यकत्वात् आङ्गिकाभिनये ज्ञानेन्द्रियैःकर्मेन्द्रियैरेव भावरसार्थक्रियाप्रवेशनात् श्रोत्रत्वक्चक्षुर्जिह्वाघ्राणेन्द्रियाणाम् अङ्गत्वं प्राप्तम्। नच भावस्य सर्वशरीरव्याप्तत्वात् सर्वावयवानामङ्गत्वमिति वाच्यम्। सर्वावयवानां भावरसबोधकत्वाभावात्। "येन यत् क्रियते तत् तदङ्गं भवतीति न्यायेन भावरसबोधकानामङ्गत्वं, नतु सर्वेषाम्। ननु श्रोत्रेन्द्रियस्य तु नाट्ये अङ्गत्वं स्यादिति चेन्न। तालग्रहणे रागग्रहणे च उपयुक्तत्वात् नाट्ये परम्परया अङ्गत्वं सम्भवति नतु साक्षात्। त्वगिन्द्रियस्य तु स्पर्शग्राहकतया अङ्गेषु स्पर्शनसम्भवाद् अङ्गत्वं सम्भवति। तथापि साक्षात् परम्परया च अङ्गत्वम्। यद्यपि सर्वशरीरव्याप्तत्वात् सामान्यमङ्गत्वं, नतु विशेषाङ्गत्वम्। रसनेन्द्रियस्य तु रसग्राहकतया तालगीत्यादौ उपयुक्तत्वात् बहिरप्रकाशाच्च अधरेण सह उपाङ्गे अन्वयः। नयनेन्द्रियस्य तु गीततालयोः अनुपयुक्तत्वात् रसविशेषकरत्वात् साक्षादङ्गत्वम्। घ्राणेन्द्रियस्य तु क्रोधहर्षप्रसादसूचकतया गीतादिष्वनुपयुक्तत्वात् साक्षादङ्गत्वम्। एवं कर्मेन्द्रियाणामपि वाक्पाणिपादपायूपस्थानाम्। पायूपस्थयोः सुखदुःखाद्यानन्दभावकतया रसबोधकत्वेन अङ्गत्वे सत्यपि परबोधकत्वाभावात् सामान्यम् अङ्गत्वं, नतु विशेषाङ्गत्वम्। वाक्पाणिपादानां भावरसार्थक्रियाकारित्वात् साक्षादङ्गत्वम्। ननु वक्षःपार्श्वकटीतटानां भावरसबोधकत्वासम्भवात् अङ्गत्वं नास्तीति चेन्न। भावरसबोधकत्वाभावेऽपि नृत्तक्रियादिषु चलनादिव्यापारद्वारा अङ्गत्वं सम्भवति। क्रियास्वरूपमेव नाट्यम्। रसः अभिव्यञ्जकः। ननु सर्वेषामङ्गानां क्रियाकारित्वेन अष्टादशत्वकथनवैयर्थ्यं स्यात् इति चेन्न। सर्वाङ्गानामपि रसविशेषक्रियाबोधकत्वासम्भवात् रसविशेषबोधकान्यङ्गानि अष्टादश। नच सङ्गीतसुधाकरे द्वादशाङ्गत्त्वकथनात् अष्टादशत्वकथनवैयर्थ्यं स्यादिति वाच्यम्। “अङ्गसङ्कोचे रससङ्कोच" इति न्यायेन रसविशेषस्य लुप्तत्वात् उक्तान्यङ्गानि अष्टादश।
+ आङ्गिकाभिनये आत्मीयभावरसः बाह्यभावरसश्च सम्यक् प्रकाशत इति आङ्गिकभावश्चिन्त्यते। ननु ज्ञानेन्द्रियकर्मेन्द्रियद्वारा भावो निर्गच्छतीत्युक्ते ज्ञानेन्द्रियकर्मेन्द्रिययोः अङ्गत्वं भावस्य प्राधान्यम्। पूर्वं रागतालयोरङ्गत्वं कथमुक्तम् इति चेत्। अङ्गं तु द्विविधं बाह्यमाभ्यन्तरं चेति। बाह्यमङ्गं रागतालादिः। आन्तरमङ्गं ज्ञानेन्द्रियादिः। बाह्यैरङ्गैः भावितोऽपि भावः आन्तरैः ज्ञानेन्द्रियादिभिरेव विविच्यते। बाह्याङ्गभूतरागतालाद्यपेक्षया अन्तरङ्गभूतज्ञानेन्द्रियकर्मेन्द्रियादेः आवश्यकत्वात् आङ्गिकाभिनये ज्ञानेन्द्रियैः कर्मेन्द्रियैरेव भावरसार्थक्रियाप्रवेशनात् श्रोत्रत्वक्चक्षुर्जिह्वाघ्राणेन्द्रियाणाम् अङ्गत्वं प्राप्तम्। नच भावस्य सर्वशरीरव्याप्तत्वात् सर्वावयवानामङ्गत्वमिति वाच्यम्। सर्वावयवानां भावरसबोधकत्वाभावात्। "येन यत् क्रियते तत् तदङ्गं भवतीति न्यायेन भावरसबोधकानामङ्गत्वं, नतु सर्वेषाम्। ननु श्रोत्रेन्द्रियस्य तु नाट्ये अङ्गत्वं स्यादिति चेन्न। तालग्रहणे रागग्रहणे च उपयुक्तत्वात् नाट्ये परम्परया अङ्गत्वं सम्भवति नतु साक्षात्। त्वगिन्द्रियस्य तु स्पर्शग्राहकतया अङ्गेषु स्पर्शनसम्भवाद् अङ्गत्वं सम्भवति। तथापि साक्षात् परम्परया च अङ्गत्वम्। यद्यपि सर्वशरीरव्याप्तत्वात् सामान्यमङ्गत्वं, नतु विशेषाङ्गत्वम्। रसनेन्द्रियस्य तु रसग्राहकतया तालगीत्यादौ उपयुक्तत्वात् बहिरप्रकाशाच्च अधरेण सह उपाङ्गे अन्वयः। नयनेन्द्रियस्य तु गीततालयोः अनुपयुक्तत्वात् रसविशेषकरत्वात् साक्षादङ्गत्वम्। घ्राणेन्द्रियस्य तु क्रोधहर्षप्रसादसूचकतया गीतादिष्वनुपयुक्तत्वात् साक्षादङ्गत्वम्। एवं कर्मेन्द्रियाणामपि वाक्पाणिपादपायूपस्थानाम्। पायूपस्थयोः सुखदुःखाद्यानन्दभावकतया रसबोधकत्वेन अङ्गत्वे सत्यपि परबोधकत्वाभावात् सामान्यम् अङ्गत्वं, नतु विशेषाङ्गत्वम्। वाक्पाणिपादानां भावरसार्थक्रियाकारित्वात् साक्षादङ्गत्वम्। ननु वक्षःपार्श्वकटीतटानां भावरसबोधकत्वासम्भवात् अङ्गत्वं नास्तीति चेन्न। भावरसबोधकत्वाभावेऽपि नृत्तक्रियादिषु चलनादिव्यापारद्वारा अङ्गत्वं सम्भवति। क्रियास्वरूपमेव नाट्यम्। रसः अभिव्यञ्जकः। ननु सर्वेषामङ्गानां क्रियाकारित्वेन अष्टादशत्वकथनवैयर्थ्यं स्यात् इति चेन्न। सर्वाङ्गानामपि रसविशेषक्रियाबोधकत्वासम्भवात् रसविशेषबोधकान्यङ्गानि अष्टादश। नच सङ्गीतसुधाकरे द्वादशाङ्गत्त्वकथनात् अष्टादशत्वकथनवैयर्थ्यं स्यादिति वाच्यम्। “अङ्गसङ्कोचे रससङ्कोच" इति न्यायेन रसविशेषस्य लुप्तत्वात् उक्तान्यङ्गानि अष्टादश।
 
  अङ्गस्य लक्षणमाह–
 
@@ -1500,7 +1527,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  सम्बन्धं दर्शयति– अङ्गसम्बन्धः, फलसम्बन्धः, रससम्बन्धः, आश्रयाश्रयिभावसम्बन्ध इति (सम्बन्धः ) चतुर्विधः। अङ्गसम्बन्धो नाम अङ्गानां परस्परसम्बन्धः। रागतालश्रुतीनां भावानां च समकालसम्बन्ध इति यावत्। फलसम्बन्धो नाम रागज्ञानं, तालज्ञानं, श्रुतिज्ञानं, भावज्ञानम् इति चतुर्विधं ज्ञानम्। रागतालश्रुतिभावज्ञानानाम् एककालग्रहणं फलम्। अयमेव फलसम्बन्धः। रससम्बन्धस्तु शृङ्गारादिनवरसानां परस्परसम्बन्धः। परस्परसम्बद्धानां रसानां समकाले अङ्गेषु भावेषु च सम्बन्धः। आत्मा आनन्दरूपः। आनन्दावाप्तिर्वा आनन्दस्वरूपो वा फलम्। अङ्गभावसम्बद्धानां रसानामात्मनश्चाश्रयाश्रयिभावः सम्बन्धः।
 
- प्रयोजनं दर्शयति– अस्मिन् शास्त्रे उक्तैरष्टादशाङ्गैः नर्तनवीक्षणकारिणां फलं तावत् प्रत्यक्षसिद्धम् आबालवृद्धं पण्डितपामराणामपि। इतरेषु शास्त्रेषु शास्त्रैकगम्यं फलम्। नच अस्मिन् शास्त्रे फलस्य प्रत्यक्षसिद्धत्वात् आमुष्मिकं फलं नास्तीति वाच्यम्। “दर्शनादभ्रसदसी"ति शास्त्रेणामुष्मिकफलस्यापि सम्भवात्। ननु आबालवृद्धं पण्डितपामराणां फलं नतु विशेषफलम् इति चेन्न। इतरशास्त्रेषु बालानां पामराणां च फलं नास्ति। अस्मिन् शास्त्रे बालानां पामराणामपि फलसम्भवात् विशेषज्ञानवतां विशेषफलं कैमुतिकन्यायसिद्धम्। किञ्च बालपामराणामपि वीक्षणजन्यरसफलं तु पशुपक्षिमृगादिसाधार(ण्य? ण)म्। आत्मैकगम्यो हि रसः। आत्मा सर्वव्यापकः। सर्वजीवात्मनां रसोऽस्ति। सर्वजीवात्मनां भावं प्रत्येकमादाय शास्त्ररूपेण परमेश्वरेणैव कल्पिततया सर्वजीवानन्दसुखजनकमेव भरतम्। सर्वजीवानामपि जन्मान्तरेषु अनुभूतभावस्मारकतयात्मनः एकत्वात् आत्मीयभावं स्वयमेवानुभवति लोकः। यथा–बालस्तु जातमात्रेणरोदिति। तन्निवृत्यै मात्रादिभिः डोले निधाय गानरसेन डोलाचलनेन च रोदनशान्तिसम्भवात्। तस्माद् दुःखनिवृत्तिरपि फलं कैमुतिकन्यायसिद्धम् इतरेषाम्। एवं देवताप्रतिमादीनामपि आवाहनप्रतिष्ठादिभिः शक्तेरधिष्ठितत्वात् आत्मैकगम्यभावरसोऽस्ति। अत एव पुराणागमसिद्धासु पञ्चसभास्वपि चित्रेषु अधिष्ठितशक्तिमतां देवानामपि नटनजन्यरसविशेषग्राहकत्वमपि सम्भवति, आत्मनः सर्वव्यापकत्वेन विभुत्वात्। नतु जन्यशरीरावच्छिन्नदेहिनामेवानन्दः प्रत्यक्षसिद्धः, प्रतिमाकल्पितानाम् इतरेषां तु शास्त्रैकगम्यः आनन्दः इतियद्युच्येत तदा शृणु। पूजितः परमेश्वरः फलं दास्यतीति प्रत्यक्षसिद्धम्। पूजावत् नटनेनापि आराधितः भगवान् न कथं फलं दास्यति। फलदानशक्तिमत्त्वं देवतानाम् आत्मभावनया सङ्गच्छते। आत्मभावनाजन्यमानन्दरूपमपि फलं सर्वेषां प्रत्यक्षसिद्धम्।
+ प्रयोजनं दर्शयति– अस्मिन् शास्त्रे उक्तैरष्टादशाङ्गैः नर्तनवीक्षणकारिणां फलं तावत् प्रत्यक्षसिद्धम् आबालवृद्धं पण्डितपामराणामपि। इतरेषु शास्त्रेषु शास्त्रैकगम्यं फलम्। नच अस्मिन् शास्त्रे फलस्य प्रत्यक्षसिद्धत्वात् आमुष्मिकं फलं नास्तीति वाच्यम्। “दर्शनादभ्रसदसी"ति शास्त्रेणामुष्मिकफलस्यापि सम्भवात्। ननु आबालवृद्धं पण्डितपामराणां फलं नतु विशेषफलम् इति चेन्न। इतरशास्त्रेषु बालानां पामराणां च फलं नास्ति। अस्मिन् शास्त्रे बालानां पामराणामपि फलसम्भवात् विशेषज्ञानवतां विशेषफलं कैमुतिकन्यायसिद्धम्। किञ्च बालपामराणामपि वीक्षणजन्यरसफलं तु पशुपक्षिमृगादिसाधार(ण्य? ण)म्। आत्मैकगम्यो हि रसः। आत्मा सर्वव्यापकः। सर्वजीवात्मनां रसोऽस्ति। सर्वजीवात्मनां भावं प्रत्येकमादाय शास्त्ररूपेण परमेश्वरेणैव कल्पिततया सर्वजीवानन्दसुखजनकमेव भरतम्। सर्वजीवानामपि जन्मान्तरेषु अनुभूतभावस्मारकतयात्मनः एकत्वात् आत्मीयभावं स्वयमेवानुभवति लोकः। यथा–बालस्तु जातमात्रेण रोदिति। तन्निवृत्यै मात्रादिभिः डोले निधाय गानरसेन डोलाचलनेन च रोदनशान्तिसम्भवात्। तस्माद् दुःखनिवृत्तिरपि फलं कैमुतिकन्यायसिद्धम् इतरेषाम्। एवं देवताप्रतिमादीनामपि आवाहनप्रतिष्ठादिभिः शक्तेरधिष्ठितत्वात् आत्मैकगम्यभावरसोऽस्ति। अत एव पुराणागमसिद्धासु पञ्चसभास्वपि चित्रेषु अधिष्ठितशक्तिमतां देवानामपि नटनजन्यरसविशेषग्राहकत्वमपि सम्भवति, आत्मनः सर्वव्यापकत्वेन विभुत्वात्। नतु जन्यशरीरावच्छिन्नदेहिनामेवानन्दः प्रत्यक्षसिद्धः, प्रतिमाकल्पितानाम् इतरेषां तु शास्त्रैकगम्यः आनन्दः इति यद्युच्येत तदा शृणु। पूजितः परमेश्वरः फलं दास्यतीति प्रत्यक्षसिद्धम्। पूजावत् नटनेनापि आराधितः भगवान् न कथं फलं दास्यति। फलदानशक्तिमत्त्वं देवतानाम् आत्मभावनया सङ्गच्छते। आत्मभावनाजन्यमानन्दरूपमपि फलं सर्वेषां प्रत्यक्षसिद्धम्।
 
 —————
 
@@ -1527,7 +1554,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  सम्बन्धं दर्शयति– अङ्गसम्बन्धः, फलसम्बन्धः, रससम्बन्धः, आश्रयाश्रयिभावसम्बन्ध इति (सम्बन्धः ) चतुर्विधः। अङ्गसम्बन्धो नाम अङ्गानां परस्परसम्बन्धः। रागतालश्रुतीनां भावानां च समकालसम्बन्ध इति यावत्। फलसम्बन्धो नाम रागज्ञानं, तालज्ञानं, श्रुतिज्ञानं, भावज्ञानम् इति चतुर्विधं ज्ञानम्। रागतालश्रुतिभावज्ञानानाम् एककालग्रहणं फलम्। अयमेव फलसम्बन्धः। रससम्बन्धस्तु शृङ्गारादिनवरसानां परस्परसम्बन्धः। परस्परसम्बद्धानां रसानां समकाले अङ्गेषु भावेषु च सम्बन्धः। आत्मा आनन्दरूपः। आनन्दावाप्तिर्वा आनन्दस्वरूपो वा फलम्। अङ्गभावसम्बद्धानां रसानामात्मनश्चाश्रयाश्रयिभावः सम्बन्धः।
 
- प्रयोजनं दर्शयति– अस्मिन् शास्त्रे उक्तैरष्टादशाङ्गैः नर्तनवीक्षणकारिणां फलं तावत् प्रत्यक्षसिद्धम् आबालवृद्धं पण्डितपामराणामपि। इतरेषु शास्त्रेषु शास्त्रैकगम्यं फलम्। नच अस्मिन् शास्त्रे फलस्य प्रत्यक्षसिद्धत्वात् आमुष्मिकं फलं नास्तीति वाच्यम्। “दर्शनादभ्रसदसी"ति शास्त्रेणामुष्मिकफलस्यापि सम्भवात्। ननु आबालवृद्धं पण्डितपामराणां फलं नतु विशेषफलम् इति चेन्न। इतरशास्त्रेषु बालानां पामराणां च फलं नास्ति। अस्मिन् शास्त्रे बालानां पामराणामपि फलसम्भवात् विशेषज्ञानवतां विशेषफलं कैमुतिकन्यायसिद्धम्। किञ्च बालपामराणामपि वीक्षणजन्यरसफलं तु पशुपक्षिमृगादिसाधार(ण्य? ण)म्। आत्मैकगम्यो हि रसः। आत्मा सर्वव्यापकः। सर्वजीवात्मनां रसोऽस्ति। सर्वजीवात्मनां भावं प्रत्येकमादाय शास्त्ररूपेण परमेश्वरेणैव कल्पिततया सर्वजीवानन्दसुखजनकमेव भरतम्। सर्वजीवानामपि जन्मान्तरेषु अनुभूतभावस्मारकतयात्मनः एकत्वात् आत्मीयभावं स्वयमेवानुभवति लोकः। यथा–बालस्तु जातमात्रेणरोदिति। तन्निवृत्यै मात्रादिभिः डोले निधाय गानरसेन डोलाचलनेन च रोदनशान्तिसम्भवात्। तस्माद् दुःखनिवृत्तिरपि फलं कैमुतिकन्यायसिद्धम् इतरेषाम्। एवं देवताप्रतिमादीनामपि आवाहनप्रतिष्ठादिभिः शक्तेरधिष्ठितत्वात् आत्मैकगम्यभावरसोऽस्ति। अत एव पुराणागमसिद्धासु पञ्चसभास्वपि चित्रेषु अधिष्ठितशक्तिमतां देवानामपि नटनजन्यरसविशेषग्राहकत्वमपि सम्भवति, आत्मनः सर्वव्यापकत्वेन विभुत्वात्। ननु जन्यशरीरावच्छिन्नदेहिनामेवानन्दः प्रत्यक्षसिद्धः, प्रतिमाकल्पितानाम् इतरेषां तु शास्त्रैकगम्यः आनन्दः इति यद्युच्येत, तदा शृणु। पूजितः परमेश्वरः फलं दास्यतीति प्रत्यक्षसिद्धम्। पूजावत् नटनेनापि आराधितः भगवान् न कथं फलं दास्यति। फलदानशक्तिमत्त्वं देवतानाम् आत्मभावनया सङ्गच्छते। आत्मभावनाजन्यमानन्दरूपमपि फलं सर्वेषां प्रत्यक्षसिद्धम्॥
+ प्रयोजनं दर्शयति– अस्मिन् शास्त्रे उक्तैरष्टादशाङ्गैः नर्तनवीक्षणकारिणां फलं तावत् प्रत्यक्षसिद्धम् आबालवृद्धं पण्डितपामराणामपि। इतरेषु शास्त्रेषु शास्त्रैकगम्यं फलम्। नच अस्मिन् शास्त्रे फलस्य प्रत्यक्षसिद्धत्वात् आमुष्मिकं फलं नास्तीति वाच्यम्। “दर्शनादभ्रसदसी"ति शास्त्रेणामुष्मिकफलस्यापि सम्भवात्। ननु आबालवृद्धं पण्डितपामराणां फलं नतु विशेषफलम् इति चेन्न। इतरशास्त्रेषु बालानां पामराणां च फलं नास्ति। अस्मिन् शास्त्रे बालानां पामराणामपि फलसम्भवात् विशेषज्ञानवतां विशेषफलं कैमुतिकन्यायसिद्धम्। किञ्च बालपामराणामपि वीक्षणजन्यरसफलं तु पशुपक्षिमृगादिसाधार(ण्य? ण)म्। आत्मैकगम्यो हि रसः। आत्मा सर्वव्यापकः। सर्वजीवात्मनां रसोऽस्ति। सर्वजीवात्मनां भावं प्रत्येकमादाय शास्त्ररूपेण परमेश्वरेणैव कल्पिततया सर्वजीवानन्दसुखजनकमेव भरतम्। सर्वजीवानामपि जन्मान्तरेषु अनुभूतभावस्मारकतयात्मनः एकत्वात् आत्मीयभावं स्वयमेवानुभवति लोकः। यथा–बालस्तु जातमात्रेण रोदिति। तन्निवृत्यै मात्रादिभिः डोले निधाय गानरसेन डोलाचलनेन च रोदनशान्तिसम्भवात्। तस्माद् दुःखनिवृत्तिरपि फलं कैमुतिकन्यायसिद्धम् इतरेषाम्। एवं देवताप्रतिमादीनामपि आवाहनप्रतिष्ठादिभिः शक्तेरधिष्ठितत्वात् आत्मैकगम्यभावरसोऽस्ति। अत एव पुराणागमसिद्धासु पञ्चसभास्वपि चित्रेषु अधिष्ठितशक्तिमतां देवानामपि नटनजन्यरसविशेषग्राहकत्वमपि सम्भवति, आत्मनः सर्वव्यापकत्वेन विभुत्वात्। ननु जन्यशरीरावच्छिन्नदेहिनामेवानन्दः प्रत्यक्षसिद्धः, प्रतिमाकल्पितानाम् इतरेषां तु शास्त्रैकगम्यः आनन्दः इति यद्युच्येत, तदा शृणु। पूजितः परमेश्वरः फलं दास्यतीति प्रत्यक्षसिद्धम्। पूजावत् नटनेनापि आराधितः भगवान् न कथं फलं दास्यति। फलदानशक्तिमत्त्वं देवतानाम् आत्मभावनया सङ्गच्छते। आत्मभावनाजन्यमानन्दरूपमपि फलं सर्वेषां प्रत्यक्षसिद्धम्॥
 
 –––––––
 
@@ -1552,7 +1579,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  इदानीम् उक्तानामङ्गानाम् अर्थतः शब्दतश्च सामान्यतो विशेषतश्च लक्षणविनियोगश्चिन्त्यते। प्रथमं तावत् शाब्दिकानामङ्गानां सामान्यतो विनियोगश्चिन्त्यते 'शिरो हस्त' इत्यादिक्रमेण। तात्पर्यप्रकाशकत्वात् शिरसः, अर्थप्रकाशकत्वात् हस्तयोः, नृत्तानुकूलचलनक्रियासाधकत्वात् वक्षसः, तिर्यगाकुञ्चनकम्पनालम्बनहेतुत्वात् पार्श्वयोः, उन्नमनानमनक्रियासाधकत्वात् कटीतटयो (स्तु?ः), कुट्टनताडनगतिकरणादिसाधकत्वात् पादयोः, षण्णामङ्गानामेवं विनियोगः।
 
-  उपाङ्गविनियोगश्च एवम्। उपाङ्गानामपि नेत्रयोः रसविशेषकरत्वात्, त्रुटनहरणच्छलनक्रियाहेतुत्वाद् भ्रुवोः, नासिकयोस्तु कोपहर्षप्रसादसूचकत्वात्, कपोलयोस्तु सम्पूर्णसंकोचावर्तनमुखरसभावप्रकटकत्वात्, अधरयोस्तु मुकुलितविकासघटकत्वात्, चिबुकस्य तु वलितवक्रितहावभावप्रकटकत्वात्। एवमुपाङ्गानां विनियोगः प्रदर्शितः।
+  उपाङ्गविनियोगश्च एवम्। उपाङ्गानामपि नेत्रयोः रसविशेषकरत्वात्, त्रुटनहरणच्छलनक्रियाहेतुत्वाद् भ्रुवोः, नासिकयोस्तु कोपहर्षप्रसादसूचकत्वात्, कपोलयोस्तु सम्पूर्णसङ्कोचावर्तनमुखरसभावप्रकटकत्वात्, अधरयोस्तु मुकुलितविकासघटकत्वात्, चिबुकस्य तु वलितवक्रितहावभावप्रकटकत्वात्। एवमुपाङ्गानां विनियोगः प्रदर्शितः।
 
  प्रत्यङ्गानामपि ग्रीवायाश्च सुन्दरतिर्यक्चलनपरिवर्तनसाधकस्वात्, बाह्वोस्तु अन्तःसंयमनबन्धनाकुञ्चनप्रसारणक्रियाघटकत्वात्, उदरस्य तु ह्रस्वसङ्कोचस्थूल क्रियाप्रकटकत्वात्, पृष्ठस्य तु पश्चाद्वलनतिर्यग्वलनोन्नमनानमनक्रियाघटकत्वात्, ऊर्वोस्तु व्याससमासाकुञ्चनप्रसारणक्रियासाधकत्वात्, जङ्घयोस्तु अन्योन्यबन्धनतिर्यक्चलनशीघ्रचलन–क्रियाप्रकटकत्वात् प्रत्यङ्गानां विनियोगः।
 
@@ -1565,7 +1592,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **अङ्गभावमवलोक्य सुन्दरं रङ्गमध्यवरवञ्चिभूपतिः।  
 अङ्गहाररसिकोत्तमाङ्गतस्त्वङ्गनाट्यमधुनान्वचिन्तयत्॥११०॥**
 
-** **शिरोभेदश्चिन्त्यते?)
+** ** शिरोभेदश्चिन्त्यते?)
 
 **समं शिरश्चाञ्चितं चाधोमुखोद्वाहिते तथा॥१११॥**
 
@@ -1627,7 +1654,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **समस्थितौ स्ववदनं पुरोऽधो नमितं यदि।  
 अधोमुखं शिरस्तावदुदितं नाट्यवेदिभिः॥१२७॥**
 
-** **विनियोगः–
+** ** विनियोगः–
 
 **समस्तवेष्टनटने हस्तेन तु विलेखने।  
 अनेकचिन्ताव्यसने शिरसा मज्जने जले॥१२८॥**
@@ -1718,7 +1745,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 स्त्रीणां विलासभावे च कोपहर्षावलोकने॥१५१॥**
 
 **मोट्टा (धि? यि) ते प्रियकथाश्रवणे तन्मयात्मनि।  
-केशादिग्रहहर्षेण दुःखात् कु(ट्टि?ट्ट) मिते रसे॥१५२॥**
+केशादिग्रहहर्षेण दुःखात् कु(ट्टि? ट्ट) मिते रसे॥१५२॥**
 
 **हर्षात् त्रोटनहासादिचेष्टायां किलिकिञ्चिते।  
 रहस्ये लज्जितमुखे स्तम्भने गर्वमानयोः॥१५३॥**
@@ -1754,7 +1781,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  अष्टमस्य पार्श्वाभिमुखशिरसो लक्षणमाह–
 
-**स्कन्धानतं शिरः किंञ्चिदुन्नम्याभिमुखेक्षितम्।  
+**स्कन्धानतं शिरः किञ्ञ्चिदुन्नम्याभिमुखेक्षितम्।  
 पार्श्वाभिमुखशीर्षं तु विज्ञेयं भरतागमे॥१६२॥**
 
  विनियोगः–
@@ -1786,7 +1813,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **शस्त्रेण पार्श्वस्थनरच्छेदने ताडने तथा।  
 नवोढासङ्गमे कोपकाले प्रौढासु सङ्गमे॥१६९॥**
 
-**जनसंसदि वेश्याभिः संज्ञया रागवीक्षणे।  
+**जनसंसदि वेश्याभिः सञ्ज्ञया रागवीक्षणे।  
 अर्थप्रदानवेलायां लुब्धस्य वदने तथा॥१७०॥**
 
 **पार्श्वे च बालवदनाघ्राणे स्त्रीमुखचुम्बने।  
@@ -1953,7 +1980,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **बालराममहीपालचिन्तिताभिनये मुदा।  
 एतेष्वेव हि कार्येषु विधूतं शिर उच्यते॥२१४॥**
 
- षष्ठस्यअवधूतशिरसो लक्षणमाह–
+ षष्ठस्य अवधूतशिरसो लक्षणमाह–
 
 **पुरः प्रसार्य वदनमन्तरानीयते यदि।**
 
@@ -1968,7 +1995,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 केशमाकृष्य शीघ्रेण तमानय ममान्तिके॥२१७॥**
 
 **नीवीमाकृष्य कोपेन शीघ्रकर्षणकर्मणि।  
-पुंभावस्य प्रकटने श्मश्रु विस्तार्य पाणिना॥२९८॥**
+पुम्भावस्य प्रकटने श्मश्रु विस्तार्य पाणिना॥२९८॥**
 
 **उल्लासगर्वभावेन स्वकीयोरुप्रताडने।  
 स्वबलस्य प्रकटनाद् भुजमूलेषु ताडने॥२१९॥**
@@ -1997,7 +2024,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **चित्ताभिलषितार्थेभ्यो मनोनिरसने तथा॥२२५॥**
 
 **तुषारवर्षवायूनां शीतलेनाङ्गकम्पने।**  
-**भयेन कृतरोमाञ्चेरत्यनन्तसुखे तथा॥२२६॥**
+**भयेन कृतरोमाञ्चे रत्यनन्तसुखे तथा॥२२६॥**
 
 **तीक्ष्णौषधानां प्रक्षेपात् करेणाक्षिद्वये तथा।**  
 **विरहे चन्द्रकिरणासहनान्मुखकम्पने॥२२७॥**
@@ -2017,7 +2044,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**नाट्येच समरेखायां हस्तद्वयनिरीक्षणे॥२३१॥**
+**नाट्ये च समरेखायां हस्तद्वयनिरीक्षणे॥२३१॥**
 
 **गानानन्दरसामोदे सत्कथाश्रवणे मुखे।  
 मदे च मद्यपाने च निषेधे च पुनः पुनः॥२३२॥**
@@ -2105,7 +2132,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  द्वादशस्य उद्वेष्टितशिरसो लक्षणमाह—
 
-**यसे चानम्य वदनमंसात्तंमन्दवेष्टितम्॥२५५॥**
+**यसे चानम्य वदनमंसात्तं मन्दवेष्टितम्॥२५५॥**
 
 **उद्वेष्टितं शिर इति प्रोक्तं भरतवेदिभिः।**
 
@@ -2153,10 +2180,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **पुरः प्रसार्य वदनं पुरतः खण्डितं यदि॥२६७॥**
 
-**पुरःखण्डितमित्येतत् प्रोक्तंहि भरतागमे।**  
-**पश्चात् प्रसारितमुत्वंपश्चात्खण्डिसुच्यते॥२६८॥**
+**पुरःखण्डितमित्येतत् प्रोक्तं हि भरतागमे।**  
+**पश्चात् प्रसारितमुत्वं पश्चात्खण्डिसुच्यते॥२६८॥**
 
-**पार्श्वप्रसारितमुखंपार्श्वखण्डितमुच्यते।**  
+**पार्श्वप्रसारितमुखं पार्श्वखण्डितमुच्यते।**  
 **ऊर्ध्वप्रसारितमुखं चोर्ध्यखण्डितमुच्यते॥२६९॥**
 
 **अधः प्रसारितमुखं त्वधःखण्डितमुच्यते।**  
@@ -2167,7 +2194,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **नाट्ये शृङ्गारगमने चैकतालेन खण्डने।  
 कपोतकुक्कुटाहारे परिहासविडम्बने॥२७१॥**
 
-**मौलिस्थकुम्भनाट्येच किमेतदिति भाषणे।  
+**मौलिस्थकुम्भनाट्ये च किमेतदिति भाषणे।  
 किञ्चित् स्थलान्तरे तिष्ठ कुतस्त्वमिति भाषणे॥२७२॥**
 
 **पश्चात्खण्डितमुक्तप्रायम्।**
@@ -2179,8 +2206,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  ऊर्ध्वखण्डितं—
 
-**कुतस्त्वविति वार्त्तायांपरिहासविडम्बने।  
-कुत्र तिष्ठसि किंतेऽस्ति मुहुराकाशवीक्षणे॥२७४॥**
+**कुतस्त्वविति वार्त्तायां परिहासविडम्बने।  
+कुत्र तिष्ठसि किं तेऽस्ति मुहुराकाशवीक्षणे॥२७४॥**
 
  अधःखण्डितं—
 
@@ -2191,191 +2218,183 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विषमखण्डितं—
 
-**इास्ये च चक्रचलने धिक्कारेनिन्दने तथा॥२७६॥**
+**इास्ये च चक्रचलने धिक्कारे निन्दने तथा॥२७६॥**
 
 **अपयाहीति वचने स एव किमयं किमु।  
 कर्णस्थनाडीत्रुटने पार्श्वस्थाननवीक्षणे॥२७७॥  
-षड्विधं खण्डितं नाट्येचैतेषु विनियुज्यते।**
+षड्विधं खण्डितं नाट्ये चैतेषु विनियुज्यते।**
 
- स्थिराणाम् एकादशशिरसाम्, अस्थिराणाम् एकान्नविंशतिसङ्ख्याकशिरसां परस्परं सम्मेलनेन एकादशद्विशतं (?) शिरः समुत्पन्नं भवति। तत् नाट्येसर्वत्र समुपयुज्यते।
+ स्थिराणाम् एकादशशिरसाम्, अस्थिराणाम् एकान्नविंशतिसङ्ख्याकशिरसां परस्परं सम्मेलनेन एकादशद्विशतं (?) शिरः समुत्पन्नं भवति। तत् नाट्ये सर्वत्र समुपयुज्यते।
 
  इदानीं तेषां शिरसां सङ्ख्यामाह। विनियोगस्तु पूर्वमुक्तप्राय एव।
 
 **बालरामकुलशेखरप्रभोरन्तरङ्गनटनेषु नर्त्तितम्।  
-उत्तमाङ्गशुभलक्षणं क्वचिद्वालरामभरते निरूपितम्॥२७८३॥**
+उत्तमाङ्गशुभलक्षणं क्वचिद् वालरामभरते निरूपितम्॥२७८३॥**
 
-समदीर्घाकम्पितम्।         समलोलितम्।  
-समशीघ्राकम्पितम्।         समारात्रिकम्।  
-समकम्पितम्।            समपरिवाहितम्।  
-समधुतम्।               सगकन्धरांसम्।  
-समविधूतम्।             समोद्वेष्टितम्।  
-समावधूतम्              समापवेष्टितम्।  
+समदीर्घाकम्पितम्। समलोलितम्।  
+समशीघ्राकम्पितम्। समारात्रिकम्।  
+समकम्पितम्। समपरिवाहितम्।  
+समधुतम्। सगकन्धरांसम्।  
+समविधूतम्। समोद्वेष्टितम्।  
+समावधूतं समापवेष्टितम्।  
 समचलितम्।
 
 **समभेदास्त्रयोदश।**
 
-अञ्चितदीर्घाकम्पितम्।        अञ्चितलोलितम्।  
-अञ्चितशीघ्राकम्पितम्।        अञ्चितारात्रिकम्।  
-अञ्चितकम्पितम्।           अञ्चितपरिवाहितम्।  
-अञ्चितधुतम्।              अञ्चितकन्धरांसम्।  
-अञ्चितविधूतम्।             अञ्चितोद्वेष्टितम्।  
-अञ्चितावधूतम्।             अञ्चितापवेष्टितम्।  
+अञ्चितदीर्घाकम्पितम्। अञ्चितलोलितम्।  
+अञ्चितशीघ्राकम्पितम्। अञ्चितारात्रिकम्।  
+अञ्चितकम्पितम्। अञ्चितपरिवाहितम्।  
+अञ्चितधुतम्। अञ्चितकन्धरांसम्।  
+अञ्चितविधूतम्। अञ्चितोद्वेष्टितम्।  
+अञ्चितावधूतम्। अञ्चितापवेष्टितम्।  
 अञ्चितचलितम्।
 
 **अञ्चिनभेदास्त्रयोदश।**
 
-अधोमुखदीर्घाकम्पितम्।      अधोमुखलोलितम्।  
-अधोमुखशीघ्राकम्पितम्।      अधोमुखारात्रिकम्।  
-अधोमुखकम्पितम्।         अधोमुखपरिवाहितम्।  
-अधोमुखघुतम्।            अधोमुखकन्धरांसम्।  
-अधोमुखविधूतम्।          अधोमुखोद्वेष्टितम्।  
-अधोमुखावधूतम्।          अधोमुखापवेष्टितम्।  
+अधोमुखदीर्घाकम्पितम्। अधोमुखलोलितम्।  
+अधोमुखशीघ्राकम्पितम्। अधोमुखारात्रिकम्।  
+अधोमुखकम्पितम्। अधोमुखपरिवाहितम्।  
+अधोमुखघुतम्। अधोमुखकन्धरांसम्।  
+अधोमुखविधूतम्। अधोमुखोद्वेष्टितम्।  
+अधोमुखावधूतम्। अधोमुखापवेष्टितम्।  
 अधोमुखचलितम्।
 
 **अधोमुखभेदास्त्रयोदश।**
 
-उद्वाहितदीर्घाकम्पितम्।      उद्वाहितलौलितम्।  
-उद्वाहितशीघ्राकम्पितम्।      उद्वाहितारात्रिकम्।  
-उद्वाहितकम्पितम्।          उद्वाहितपरिवाहितम्।  
-उद्वाहितधुतम्।            उद्वाहितकन्धरांसम्।  
-उद्वाहितविधूतम्।           उद्वाहितोद्वेष्टितम्।  
-उद्वाहितावधूतम्।           उद्वाहितापवोष्टितम्।  
+उद्वाहितदीर्घाकम्पितम्। उद्वाहितलौलितम्।  
+उद्वाहितशीघ्राकम्पितम्। उद्वाहितारात्रिकम्।  
+उद्वाहितकम्पितम्। उद्वाहितपरिवाहितम्।  
+उद्वाहितधुतम्। उद्वाहितकन्धरांसम्।  
+उद्वाहितविधूतम्। उद्वाहितोद्वेष्टितम्।  
+उद्वाहितावधूतम्। उद्वाहितापवोष्टितम्।  
 उद्वाहितचलितम्।
 
 **उद्वाहितभेदास्त्रयोदश।**
 
-उत्क्षिप्तदीर्घाकम्पितम्।        उत्क्षिप्तलोलितम्।  
-उत्क्षिप्तशीघ्राकम्पितम्।        उत्क्षिप्तारात्रिकम्।  
-उत्क्षिप्त कम्पितम्।           उत्क्षिप्तपरिवाहितम्।  
-उत्क्षिप्तधुतम्।               उत्क्षिप्तकन्धरांसम्।  
-उत्क्षिप्तविधृतम्।            उत्क्षिप्तोद्वेष्टितम्।  
-उत्क्षिप्तावधूतम्।             उत्क्षिप्तापवेष्टितम्।  
+उत्क्षिप्तदीर्घाकम्पितम्। उत्क्षिप्तलोलितम्।  
+उत्क्षिप्तशीघ्राकम्पितम्। उत्क्षिप्तारात्रिकम्।  
+उत्क्षिप्त कम्पितम्। उत्क्षिप्तपरिवाहितम्।  
+उत्क्षिप्तधुतम्। उत्क्षिप्तकन्धरांसम्।  
+उत्क्षिप्तविधृतम्। उत्क्षिप्तोद्वेष्टितम्।  
+उत्क्षिप्तावधूतम्। उत्क्षिप्तापवेष्टितम्।  
 उत्क्षिप्तचलितम्।
 
 **उत्क्षिप्तभेदास्त्रयोदश।**
 
-निकुश्चितदीर्घाकम्पितम्।      निकुश्चितलोलितम्।  
-निकुश्चितशीघ्राकम्पितम्।      निकुञ्चितांरात्रिकम्।  
-निकुञ्चितकम्पितम्।         निकुञ्चितपरिवाहितम्।  
-निकुञ्चितधुतम्।           निकुञ्चितकन्धरांसम्।  
-निकुञ्चितविधूतम्।          निकुञ्चितोद्वेष्टितम्।  
-निकुञ्चितावधूतम्।          निकुञ्चितापवेष्टितम्।  
+निकुश्चितदीर्घाकम्पितम्। निकुश्चितलोलितम्।  
+निकुश्चितशीघ्राकम्पितम्। निकुञ्चितांरात्रिकम्।  
+निकुञ्चितकम्पितम्। निकुञ्चितपरिवाहितम्।  
+निकुञ्चितधुतम्। निकुञ्चितकन्धरांसम्।  
+निकुञ्चितविधूतम्। निकुञ्चितोद्वेष्टितम्।  
+निकुञ्चितावधूतम्। निकुञ्चितापवेष्टितम्।  
 निकुञ्चितचलितम्।
 
 **निकुञ्चितभेदास्त्रयोदश।**
 
-स्कन्धानतदीर्घाकम्पितम्।     स्कन्धानतलोलितम्।  
-स्कन्धानतशीघ्राकम्पितम्।     स्कन्धानतारांत्रिकम्।  
-स्कन्धानतकम्पितम्।         स्कन्धानतपरिवाहितम्।  
-स्कन्धानतधुतम्।           स्कन्धानतकन्धरांसम्।  
-स्कन्धानतविधूतम्।          स्कन्धानतोद्वेष्टितम्।  
-स्कन्धानतावधूतम्।          स्कन्धानतापवेष्टितम्।  
+स्कन्धानतदीर्घाकम्पितम्। स्कन्धानतलोलितम्।  
+स्कन्धानतशीघ्राकम्पितम्। स्कन्धानतारान्त्रिकम्।  
+स्कन्धानतकम्पितम्। स्कन्धानतपरिवाहितम्।  
+स्कन्धानतधुतम्। स्कन्धानतकन्धरांसम्।  
+स्कन्धानतविधूतम्। स्कन्धानतोद्वेष्टितम्।  
+स्कन्धानतावधूतम्। स्कन्धानतापवेष्टितम्।  
 स्कन्धानतचलितस्।
 
 **स्कन्धानतभेदास्त्रयोदश।**
 
-पार्श्वाभिमुखदीर्घाकम्पितम्।       पार्श्वाभिमुखलोलितम्।  
-पार्श्वाभिमुखशीघ्राकम्पितम्।       पार्श्वाभिमुखारात्रिकम्।  
-पार्श्वाभिमुखकम्पितम्।          पार्श्वाभिमुखपरिवाहितम्।  
-पार्श्वाभिमुखघुतम्।             पार्श्वाभिमुखकन्धरांसम्।  
-पार्श्वाभिमुखविधूतम्।           पार्श्वाभिमुखोद्वेष्टितम्।  
-पार्श्वाभिमुखावधूतम्।           पार्श्वाभिमुखापवेष्टितम्।  
+पार्श्वाभिमुखदीर्घाकम्पितम्। पार्श्वाभिमुखलोलितम्।  
+पार्श्वाभिमुखशीघ्राकम्पितम्। पार्श्वाभिमुखारात्रिकम्।  
+पार्श्वाभिमुखकम्पितम्। पार्श्वाभिमुखपरिवाहितम्।  
+पार्श्वाभिमुखघुतम्। पार्श्वाभिमुखकन्धरांसम्।  
+पार्श्वाभिमुखविधूतम्। पार्श्वाभिमुखोद्वेष्टितम्।  
+पार्श्वाभिमुखावधूतम्। पार्श्वाभिमुखापवेष्टितम्।  
 पार्श्वाभिमुखचलितम्।
 
 **पार्श्वाभिमुखभेदास्त्रयोदश।**
 
-परावृत्तदीर्घाकम्पितम्।           परावृत्तविधूतम्।  
-परावृत्तशीघ्राकम्पितम्।           परावृत्तावधूतम्।  
-परावृत्तकम्पितम्।              परावृत्तचलितम्।  
-परावृत्तधुतम्।                 परावृत्तलोलितस्।
+परावृत्तदीर्घाकम्पितम्। परावृत्तविधूतम्।  
+परावृत्तशीघ्राकम्पितम्। परावृत्तावधूतम्।  
+परावृत्तकम्पितम्। परावृत्तचलितम्।  
+परावृत्तधुतम्। परावृत्तलोलितस्।
 
-परावृत्तारात्रिकम्।        परावृत्तोद्वेष्टितम्।  
-परावृत्तपरिवाहितम्।       परावृत्तापवेष्टितम् \।  
+परावृत्तारात्रिकम्। परावृत्तोद्वेष्टितम्।  
+परावृत्तपरिवाहितम्। परावृत्तापवेष्टितम् \।  
 परावृत्तकन्धरांसम्।
 
 **परावृत्तभेदास्त्रयोदश।**
 
-आधूतदीर्घकम्पितम्।     आधूतलोलितम्  
-आधूतशीघ्राकम्पितम्।     आधूतारात्रिकम्।  
-आधूतकम्पितम्।     आधूतपरिबाहितम्।  
-आधूतधुतम्।    आधृतकन्धरांसम्।  
-आधूतविधूतम् !    आधूतोद्वेष्टितम्  
-आधूतावधूतम्।    आधृतापवेष्टितम्।  
+आधूतदीर्घकम्पितम्। आधूतलोलितम्  
+आधूतशीघ्राकम्पितम्। आधूतारात्रिकम्।  
+आधूतकम्पितम्। आधूतपरिबाहितम्।  
+आधूतधुतम्। आधृतकन्धरांसम्।  
+आधूतविधूतम् ! आधूतोद्वेष्टितम्  
+आधूतावधूतम्। आधृतापवेष्टितम्।  
 आधूतचलितम्।
 
 **आधूतभेदास्त्रयोदश।**
 
-तिर्यग्गतोन्नतदीर्घाकम्पितम्।          तिर्यग्गतोन्नतलोलितम्।  
-तिर्यग्गतोन्नतशीघ्राकम्पितम्।         
-तिर्यग्गतोन्नतारात्रिकम्  
-तिर्यग्गतोन्नतकम्पितम्।            
-तिर्यग्गतोन्नतपरिवाहितम्।  
-तिर्यग्गतोन्नतधुतम्।
-तिर्यग्गतोन्नतकन्धरांसम्।  
-तिर्यग्गतोन्नतविधूतम्।             
-तिर्यग्गतोन्नतोद्वोष्टितम्।  
-तिर्यग्गतोन्नतावधूतम्।
-तिर्यग्गतोन्नतापवेष्टितम्।  
+तिर्यग्गतोन्नतदीर्घाकम्पितम्। तिर्यग्गतोन्नतलोलितम्।  
+तिर्यग्गतोन्नतशीघ्राकम्पितम्। तिर्यग्गतोन्नतारात्रिकं  
+तिर्यग्गतोन्नतकम्पितम्। तिर्यग्गतोन्नतपरिवाहितम्।  
+तिर्यग्गतोन्नतधुतम्। तिर्यग्गतोन्नतकन्धरांसम्।  
+तिर्यग्गतोन्नतविधूतम्। तिर्यग्गतोन्नतोद्वोष्टितम्।  
+तिर्यग्गतोन्नतावधूतम्। तिर्यग्गतोन्नतापवेष्टितम्।  
 तिर्यग्गतोन्नतचलितम्।
 
 **तिर्यग्गतोन्नतभेदास्त्रयोदश**
 
-समपुरःखण्डितम्।            स्कन्धानतपुरःखण्डितम्।  
-अञ्चितपुरःखण्डितम्।           पार्श्वाभिमुखपुरःखण्डितम्।  
-अधोमुखपुरःखण्डितम्।        परावृत्तपुरःखण्डितम्।  
-उद्वाहितपुरःखण्डितम्।           आधूतपुरःखण्डितम्।  
-उत्क्षिप्तपुरःखण्डितम्।      
-तिर्यग्गतोन्नतपुरःखण्डितम्।  
+समपुरःखण्डितम्। स्कन्धानतपुरःखण्डितम्।  
+अञ्चितपुरःखण्डितम्। पार्श्वाभिमुखपुरःखण्डितम्।  
+अधोमुखपुरःखण्डितम्। परावृत्तपुरःखण्डितम्।  
+उद्वाहितपुरःखण्डितम्। आधूतपुरःखण्डितम्।  
+उत्क्षिप्तपुरःखण्डितम्। तिर्यग्गतोन्नतपुरःखण्डितम्।  
 निकुञ्चितपुरःखण्डितम्।
 
 **पुरःखण्डितान्येकादश।**
 
-समपार्श्वखण्डितम्[^1]।    
-  स्कन्धानतपार्श्वखण्डितम्।  
-अञ्चितपार्श्वखण्डितम्।      पार्श्वाभिमुखपार्श्वखण्डितम्।  
-अधोमुखपार्श्वखण्डितम्।     परावृत्तपार्श्वखण्डितम्।  
-उद्वाहितपार्श्वखण्डितम्।     आधूतपार्श्वखण्डितम्।  
-उत्क्षिप्तपार्श्वखण्डितम्।      तिर्यग्गतोन्नतपार्श्वखण्डितम्।  
+समपार्श्वखण्डितम्[^3]।      
+स्कन्धानतपार्श्वखण्डितम्।  
+अञ्चितपार्श्वखण्डितम्। पार्श्वाभिमुखपार्श्वखण्डितम्।  
+अधोमुखपार्श्वखण्डितम्। परावृत्तपार्श्वखण्डितम्।  
+उद्वाहितपार्श्वखण्डितम्। आधूतपार्श्वखण्डितम्।  
+उत्क्षिप्तपार्श्वखण्डितम्। तिर्यग्गतोन्नतपार्श्वखण्डितम्।  
 निकुञ्चितपार्श्वखण्डितम्।
 
-[^1]: "इह पश्चात्खण्डितभेदस्तु क्रमप्राप्तः।"
+[^3]: # "इह पश्चात्खण्डितभेदस्तु क्रमप्राप्तः।"
 
 **पार्श्वखण्डितान्येकादश।**
 
-समपश्चात्खण्डितम्।           स्कन्धानतपश्चात्खण्डितम्।  
-अञ्चितपश्चात्खण्डितम्।         पार्श्वाभिमुखपश्चात्खण्डितम्।  
-अधोमुखपश्चात्खण्डितम्।        परावृत्तपश्चात्खण्डितम्।  
-उद्वाहितपश्चात्खण्डितम्।        आधूतपश्चात्खण्डितम्।  
-उत्क्षिप्तपश्चात्खण्डितम्।        
-तिर्यग्गतोन्नतपश्चात्खण्डितम्।  
+समपश्चात्खण्डितम्। स्कन्धानतपश्चात्खण्डितम्।  
+अञ्चितपश्चात्खण्डितम्। पार्श्वाभिमुखपश्चात्खण्डितम्।  
+अधोमुखपश्चात्खण्डितम्। परावृत्तपश्चात्खण्डितम्।  
+उद्वाहितपश्चात्खण्डितम्। आधूतपश्चात्खण्डितम्।  
+उत्क्षिप्तपश्चात्खण्डितम्। तिर्यग्गतोन्नतपश्चात्खण्डितम्।  
 निकुञ्चितपश्चात्खण्डितम्।
 
 **पश्चात्खण्डितान्येकादश।**
 
-समोर्ध्वखण्डितम्।             स्कन्धानतोर्ध्वखण्डितम्।  
-अञ्चितोर्ध्वखण्डितम्।          
-पार्श्वाभिमुखोर्ध्वखण्डितम्।  
-अधोमुखोर्ध्वखण्डितम्।         परावृत्तोर्ध्वखण्डितम्।  
-उद्वाहितोर्ध्वखण्डितम्।          आधूतोर्ध्वखण्डितम्।  
-उत्क्षिप्तोर्ध्वखण्डितम्।          तिर्यग्गतो (न्नतो)र्ध्वखण्डितम्।  
+समोर्ध्वखण्डितम्। स्कन्धानतोर्ध्वखण्डितम्।  
+अञ्चितोर्ध्वखण्डितम्। पार्श्वाभिमुखोर्ध्वखण्डितम्।  
+अधोमुखोर्ध्वखण्डितम्। परावृत्तोर्ध्वखण्डितम्।  
+उद्वाहितोर्ध्वखण्डितम्। आधूतोर्ध्वखण्डितम्।  
+उत्क्षिप्तोर्ध्वखण्डितम्। तिर्यग्गतो (न्नतो)र्ध्वखण्डितम्।  
 निकुञ्चितोर्ध्वखण्डितम्।
 
 **ऊर्ध्वखण्डितान्येकादश।**
 
-समाधःखण्डितम्।            स्कन्धानताघःखण्डितम्।  
-अञ्चिताघःखण्डितम्।          पार्श्वभिमुखाधःखण्डितम्।  
-अधोमुखाधःखण्डितम्।         परावृत्ताधःखण्डितम्।  
-उद्वाहिताधःखण्डितम्।          आधूताधःखण्डितम्।  
-उत्क्षिप्ताधःखण्डितम्।          तिर्यग्गतोन्नताधःखण्डितम्।  
+समाधःखण्डितम्। स्कन्धानताघःखण्डितम्।  
+अञ्चिताघःखण्डितम्। पार्श्वभिमुखाधःखण्डितम्।  
+अधोमुखाधःखण्डितम्। परावृत्ताधःखण्डितम्।  
+उद्वाहिताधःखण्डितम्। आधूताधःखण्डितम्।  
+उत्क्षिप्ताधःखण्डितम्। तिर्यग्गतोन्नताधःखण्डितम्।  
 निकुञ्चिताधःखण्डितम्।
 
 **अधःखण्डितान्येकादश।**
 
-समविषमखण्डितम्।         स्कन्धानतविषमखण्डितम्।  
-अञ्चितविषमखण्डितम्।       पार्श्वाभिमुखविषमखण्डितम्।  
-अधोमुखविषमखण्डितम्।      परावृत्तविषमखण्डितम्।  
-उद्वाहितविषमखण्डितम्।      आधूतविषमखण्डितम्।  
-उत्क्षिप्तविषमखण्डितम्।      तिर्यग्गतोन्नतविषमखण्डितम्।  
+समविषमखण्डितम्। स्कन्धानतविषमखण्डितम्।  
+अञ्चितविषमखण्डितम्। पार्श्वाभिमुखविषमखण्डितम्।  
+अधोमुखविषमखण्डितम्। परावृत्तविषमखण्डितम्।  
+उद्वाहितविषमखण्डितम्। आधूतविषमखण्डितम्।  
+उत्क्षिप्तविषमखण्डितम्। तिर्यग्गतोन्नतविषमखण्डितम्।  
 निकुञ्चितविषमखण्डितम्।
 
 **विषमखण्डितान्येकादश।**
@@ -2411,7 +2430,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **मृगशीर्षश्च मुकुलो बाणहस्तो निरीक्षणः।  
 चतुरः सिंहहंसास्यौ सन्दंशो हंसपक्षकः॥७॥**
 
-**गाङ्गूलस्ताम्रचूडोर्णौपद्मकोशोऽलपल्लवः।  
+**गाङ्गूलस्ताम्रचूडोर्णौ पद्मकोशोऽलपल्लवः।  
 प्रालम्बो भ्रमरश्चैव त्र्युन्नतश्चतुरुन्नतः॥८॥**
 
 **पूर्णः शिलीमुखो भद्रोद्वेष्टितावपवेष्टितः।  
@@ -2458,7 +2477,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 किं कार्यमिह को हेतुरहं वा नाहमित्यपि॥२१॥**
 
 **कोपेन खलाधिक्कारे निषेधे च पुनः पुनः।  
-संयुज्य पाणिना पाणिमज्ञइत्यनुभावके॥२२॥**
+संयुज्य पाणिना पाणिमज्ञ इत्यनुभावके॥२२॥**
 
 **सोपानपरि सोपाने पक्षिपक्षप्रदर्शने।  
 चतुरङ्गुलमाने च कन्दुकोपरि ताडने॥२३॥**
@@ -2467,19 +2486,19 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 प्रहरे पतने पर्णे तरङ्गचलने स्थितौ॥२४॥**
 
 **फलके वटपत्रे च महामार्गप्रदर्शने।  
-कोशादाकृष्य खड्गेन हुंकृत्य रिपुखण्डने॥२५॥**
+कोशादाकृष्य खड्गेन हुङ्कृत्य रिपुखण्डने॥२५॥**
 
 **कोपे व्यसनदुःखेन वक्षस्ताडनकर्मणि।  
 अपराधं क्षमस्वेति कपोलद्वयताडने॥२६॥**
 
 **गुरुभूपालवचनश्रवणे वाक्पिधानतः।  
-एकपार्श्वेन शयने लज्जानतमुखेजने॥२७॥**
+एकपार्श्वेन शयने लज्जानतमुखे जने॥२७॥**
 
 **धूलिशय्याप्रदर्शे च मन्दमारुतवीजने।  
 व्यजनात् पवनोत्पादे चातपश्रान्तिदर्शने॥२८॥**
 
 **अग्रद्वारे कवाटानामुद्घाटनपिधानयोः।  
-सामुद्रिकालक्षणज्ञे वैद्येधातुपरीक्षके॥२९॥**
+सामुद्रिकालक्षणज्ञे वैद्ये धातुपरीक्षके॥२९॥**
 
 **अतितीक्ष्णकरादित्यदर्शने रात्रिदर्शने।  
 आदित्यचन्द्रनक्षत्रमेघादीनां प्रदर्शने॥३०॥**
@@ -2499,28 +2518,28 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **उत्थाप्य पाणिना दीपं नेत्रयोः स्पर्शने तथा।  
 गुरुपादमुपस्पृश्य पाणिभ्यां शिरसोद्वहे॥३५॥**
 
-**शीतार्तेनोज्ज्वलद्वह्नौपाणिभ्यां परितापने।  
+**शीतार्तेनोज्ज्वलद्वह्नौ पाणिभ्यां परितापने।  
 लिङ्गाभिषेकधारायां स्थौल्यौन्नत्यप्रदर्शने॥३६॥**
 
 **पिशाचभ्रमणे पाणिद्वये भूतलसंस्थिते।  
 मनोभिलषितार्थानां सिद्धौ दैवपरीक्षणे॥३७॥**
 
 **रज्जुतन्त्वादिनिर्माणे तूलानां परिलोडने।  
-गरुङालोकनध्यानेपाणिभ्यां दधिमन्थते॥३८॥**
+गरुङालोकनध्याने पाणिभ्यां दधिमन्थते॥३८॥**
 
-**चिन्तामोहमहाव्याधौभूतलोल्लोलिते करे।  
+**चिन्तामोहमहाव्याधौ भूतलोल्लोलिते करे।  
 दाने च याचनेऽत्यन्तविनयेन प्रतिग्रहे॥३९॥**
 
-**होमार्थवह्निज्वलनेहस्तात् फूत्कारकर्मणि।  
+**होमार्थवह्निज्वलने हस्तात् फूत्कारकर्मणि।  
 वामहस्तेन वर्णानामाशीर्वादे द्विजातिभिः॥४०॥**
 
-**अतिद्रुतरतौ शौचे धान्यसंगूहने करे।  
+**अतिद्रुतरतौ शौचे धान्यसङ्गूहने करे।  
 उल्लासताडनं कृत्वा वाजिदेहप्रमार्जने॥४१॥**
 
 **भुजमूले करौ न्यस्य स्वस्तिकौ तट्टिताञ्जलिम्।  
 उत्प्लुत्य स्वोर्ध्वदेशेन चाञ्जलेस्तु प्रसारणात्॥४२॥**
 
-**स्त्रीभिः संघुन्म्य संघुन्म्य ताडने शोभनेऽपि च।  
+**स्त्रीभिः सङ्घुन्म्य सङ्घुन्म्य ताडने शोभनेऽपि च।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥४३॥**
 
 **बालराममहीपालचिन्तिताभिनये मुदा।  
@@ -2571,7 +2590,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  अर्धपताकहस्तस्य लक्षणमाह–
 
-**त्रिपताकाख्यहस्ते तु वक्रिता चेत्कनिष्ठिका।  
+**त्रिपताकाख्यहस्ते तु वक्रिता चेत् कनिष्ठिका।  
 सोऽयमर्धपताकाख्यहस्त इत्यभिधीयते॥५८॥**
 
  विनियोगः–
@@ -2603,7 +2622,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **मित्रस्नेहविरुद्धे च विपरीतगतौ तथा।  
 उद्दिष्टकार्यविच्छेदे धनुर्भञ्जनकर्मणि॥६५॥**
 
-**तीरद्वयप्रभग्नेच शीलाचारविपर्यये।  
+**तीरद्वयप्रभग्ने च शीलाचारविपर्यये।  
 रूपभेदे क्रियाभेदे प्राणिनामन्तरे तथा॥६६॥**
 
 **त्रियम्बकस्य हस्ते च मृगपाणिप्रदर्शने।  
@@ -2622,15 +2641,15 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 नेत्रातिदीर्घाकारे च शाखाग्रद्वयदर्शने॥७१॥**
 
 **नासिकारन्ध्रनिर्युक्तश्वासवायुविसर्जने।  
-द्वौ सहस्रद्वयंलक्षद्वयं चेति प्रदर्शने॥७२॥**
+द्वौ सहस्रद्वयं लक्षद्वयं चेति प्रदर्शने॥७२॥**
 
 **पुनः पुनः समुत्थाने कर्णदेशप्रदर्शने।  
 नदीनिर्झरवृक्षाब्धिवेणुकान्तारदर्शने॥७३॥**
 
-**विषौपवानां वीर्येणस्वमूर्धान्ताधिरोहणे।  
+**विषौपवानां वीर्येण स्वमूर्धान्ताधिरोहणे।  
 वाग्व्यत्यासे मर्मभेदे मनोभेदादिकर्मसु॥७४॥**
 
-**क्रौञ्चगृध्रबकादीनामुड्डीयाभ्रगतौतथा।  
+**क्रौञ्चगृध्रबकादीनामुड्डीयाभ्रगतौ तथा।  
 पिपीलिकाप्रचलने मुखव्यत्ययदर्शने॥७५॥**
 
 **नारीमध्यप्रदेशे च लोहसङ्घट्टनायुधे।  
@@ -2646,7 +2665,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**भूतिदानेऽर्चनायांच हस्ताभ्यां हारधारणे।  
+**भूतिदानेऽर्चनायां च हस्ताभ्यां हारधारणे।  
 हस्तेन मङ्गले सूत्रे हरिद्रालेपने तथा॥७९॥**
 
 **वराङ्गुल्या ++++ सूत्रधारणकर्मणि।  
@@ -2703,7 +2722,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 वृद्धस्त्रीलम्बनकुचे कर्णभूषाविडम्बने॥९५॥**
 
 **पार्श्वद्वयकटिस्थाने कराभ्यामवलम्बने।  
-संज्ञया काकुभावेन नखक्षतकरे तथा॥९६॥**
+सञ्ज्ञया काकुभावेन नखक्षतकरे तथा॥९६॥**
 
 **नतार्धचन्द्रहस्ताभ्यां केशपाशप्रमार्जने।  
 अन्तःपाणितलेनैव प्रस्थग्रहणकर्मणि॥९७॥**
@@ -2716,7 +2735,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  अरालहस्तस्य लक्षणमाह–
 
 **पताके तु करे तावत् तर्जनी वक्रिता यदि॥९९॥  
-अरालाख्यः करो नाट्येनर्तकैः परिकीर्तितः।**
+अरालाख्यः करो नाट्ये नर्तकैः परिकीर्तितः।**
 
  विनियोगः–
 
@@ -2734,7 +2753,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **तर्जनीनखरेणैव किञ्चित् कण्डूयने तथा।  
 सभेशनटनस्थाने कुचाग्रे दक्षिणे करे॥१०४॥**
 
-**केशवेणीषु तर्जन्यारोमकण्डूयने तथा।  
+**केशवेणीषु तर्जन्या रोमकण्डूयने तथा।  
 भ्रान्तनृत्ते मयूराणां हंसानां च प्रदर्शने॥१०५॥**
 
 **एवमादिविशेषेषु सरसाभिनयेषु च।  
@@ -2798,7 +2817,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **किङ्कराणामिति प्रश्ने शिखरस्य प्रदर्शने।  
 मेरुणैव कराङ्गुष्ठैर्हिमाम्बुपरिषेचने॥१३५॥**
 
-**स्थूलदीपे च दीर्घाग्रभाजनात्तैलसेचने।  
+**स्थूलदीपे च दीर्घाग्रभाजनात् तैलसेचने।  
 करकाज्जलपाने च पाणिभ्यामङ्गमर्दने॥१३६॥**
 
 **स्त्रीणां लीलाविशेषेषु नखक्षतनखेषु च।  
@@ -2827,13 +2846,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 अर्केन्दुमण्डले वृत्ते चक्रभ्रमणकर्मणि॥१४३॥**
 
 **प्राकारनगरीलोकान् भ्रमणेन प्रदर्शने।  
-त्वमहंयत्तदोरर्थेचैतदर्थेदमर्थके॥१४४॥**
+त्वमहंयत्तदोरर्थे चैतदर्थेदमर्थके॥१४४॥**
 
 **हृदि मर्म विनिक्षिप्य चैवमस्त्विति भाषणे।  
 भीतिप्रदर्शने चैव काकुवाक्यानुवादके॥१४५॥**
 
 **शत्रुं प्रत्यतिकोपेन वीर्यधैर्यपराक्रमे।  
-कुशाकारप्रकटने संख्यायां च शताधिके॥१४६॥**
+कुशाकारप्रकटने सङ्ख्यायां च शताधिके॥१४६॥**
 
 **सत्ये च निश्चलस्तम्भे भूतले क्षीरलेखने।  
 अङ्गुल्यग्रेण नयनेष्वञ्जनस्य विलेखने॥१४७॥**
@@ -2844,7 +2863,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **शरे छत्रे च नाराचे नेत्राकारप्रदर्शने।  
 मोहिनीनटनस्थाने वक्षःस्थलसमं पुरः॥१४९॥**
 
-**तर्जन्यग्रंविनिर्दिश्य चाधोमुखनिरीक्षणे।  
+**तर्जन्यग्रं विनिर्दिश्य चाधोमुखनिरीक्षणे।  
 नित्ये च पूर्वकाले च नियमे स्नेहकर्मणि॥१५०॥**
 
 **एवमादिविशेषेषु सरसाभिनयेषु च।  
@@ -2924,13 +2943,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **तन्तुमार्गाधिरोहेण क्रीडाचक्रावलम्बने।  
 चणकास्तर (णं?णे) तुद्यस्थूलसूचिप्रकर्षणे॥१७२॥**
 
-**राष्ट्रभ्रमणहस्ते च नाराचाद्दारुवेधने।  
+**राष्ट्रभ्रमणहस्ते च नाराचाद् दारुवेधने।  
 तन्तुवायकरेणैव तुरीधावनकर्मणि॥१७३॥**
 
 **गोक्षीरदोहनकरे बाणाकर्षणनिर्गमे।  
-तृणकाष्ठैर्दन्तशुद्धौकशयाघनताडने॥१७४॥**
+तृणकाष्ठैर्दन्तशुद्धौ कशया घनताडने॥१७४॥**
 
-**मोहेन कामिनीनीवींहस्तेन परिकर्षणे।  
+**मोहेन कामिनीनीवीं हस्तेन परिकर्षणे।  
 स्त्रीणामङ्गमुपस्पृश्य मार्दवस्व निरीक्षणे॥१७५॥**
 
 **कामिनीनां कपोलेषु कामिना त्वक्प्रपीडने।  
@@ -2968,7 +2987,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः–
 
 **उमावाणीरमादीनां निलये शुकदर्शने।  
-जग्गिणीनटनेहस्ते पद्मनालावलम्बने॥१८६॥**
+जग्गिणीनटने हस्ते पद्मनालावलम्बने॥१८६॥**
 
 **उल्लासपाणिना वाजिखलीनस्यावलम्बने।  
 लीलया न्यस्तताम्बूलदाने च ग्रहणे तथा॥१८७॥**
@@ -2983,13 +3002,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 उद्वर्तनकरे कूर्चाद् देवताप्रतिमादिषु॥१९०॥**
 
 **एवमादिविशेषेषु सरसाभिनयेषु च।  
-बालरामहीपालचिन्तिताभिनये मुदा॥१९१॥**
+बालरामहीपालचिन्तिताभिनये मुदा॥१९१॥ **
 
 **एतेष्वेव हि कार्थेषु नियुक्तः कटकाहुखः।**
 
  कुटिलहस्तस्य लक्षणमाह–
 
-**कपित्थस्थिततर्जन्या विरलं द्व्यङ्गुलंयदि॥१९२॥  
+**कपित्थस्थिततर्जन्या विरलं द्व्यङ्गुलं यदि॥१९२॥  
 कुटिलः कर इत्येवं कीर्तितो नाट्यवेदिभिः।**
 
  विनियोगः–
@@ -3025,7 +3044,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **श्लाघ्ये लाङ्गलदण्डे च शरमार्गनिरीक्षणे।  
 वृत्तेन भ्रमणे तालप्रमाणे व्यजनेऽपि च॥२०१॥**
 
-**हास्ये चातिशयाश्चर्येनासाचिबुकहस्तयोः।  
+**हास्ये चातिशयाश्चर्ये नासाचिबुकहस्तयोः।  
 विप्रलम्भानुवादेन समर्थोऽसीति भाषणे॥२०२॥**
 
 **बालैर्विनीदोअश्चास्ये शृङ्गात् पूत्कारपूत्कृतौ।  
@@ -3081,7 +3100,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**नाट्ये रसगुणाह्वानेसखीमिष्टां प्रदर्शने।  
+**नाट्ये रसगुणाह्वाने सखीमिष्टां प्रदर्शने।  
 ललाटोपरि हस्तेन त्रिपुण्ड्रस्यापि धारणे॥२९८॥**
 
 **स्वहस्ते चान्यहस्ते च धातुत्रयपरीक्षणे।  
@@ -3119,10 +3138,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 पञ्चाङ्गुलिप्रमाणेन विध्युक्तसुखभोजने॥२२८॥**
 
 **उपचारकरेणैव स्वर्णदाने द्विजातये।  
-वाचा दैन्योक्तिघटने पञ्चसंख्याप्रदर्शने॥२२९॥**
+वाचा दैन्योक्तिघटने पञ्चसङ्ख्याप्रदर्शने॥२२९॥**
 
 **पञ्च प्राणाश्च पञ्चैते जपे मुकुलिताम्बुने।  
-अहमस्मीति तत्कार्येऽप्यात्मसंकटवेदने॥२३०॥**
+अहमस्मीति तत्कार्येऽप्यात्मसङ्कटवेदने॥२३०॥**
 
 **पञ्चानामपि भूतानां पञ्चीकरणकर्मणि।  
 तोरणानां च गुच्छानामलङ्कारप्रदर्शने॥२३१॥**
@@ -3140,14 +3159,14 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**कमण्डलोरुद्धरणे षट्संख्यायाः प्रदर्शने।  
+**कमण्डलोरुद्धरणे षट्सङ्ख्यायाः प्रदर्शने।  
 अभिषेकार्थगवयशृङ्गाकारप्रदर्शने॥२३५॥**
 
 **तदालोच्य वदामीति क्षणं तिष्ठेति भाषणे।  
 अस्तुनामाभ्युपगमे बाणाकर्षणनिर्गमे॥२३६॥**
 
 **छुरिकाकीलनकरे नखरेण नखक्षते।  
-संज्ञया लीलया नारीमर्मसंसूचने नखे॥२३७॥**
+सञ्ज्ञया लीलया नारीमर्मसंसूचने नखे॥२३७॥**
 
 **पाणिना तुल्यपाने च स्वाङ्गुलीयकवीक्षणे।  
 असम्मतनिषेधे च सन्ध्यानृत्ते च ताण्डवे॥२३८॥**
@@ -3166,7 +3185,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **पाणिद्वयाद् भद्रकालीजटाकारप्रदर्शने॥२४९॥**
 
-**गोपालांसद्वये पृष्ठे हस्ताद्यष्ट्यवलम्बने।  
+**गोपालांसद्वये पृष्ठे हस्ताद् यष्ट्यवलम्बने।  
 करमुन्नम्य नेत्रेण चीनदर्पणवीक्षणे॥२४२॥**
 
 **उपर्यधः सप्तसप्तलोकानां च प्रदर्शने।  
@@ -3232,7 +3251,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 चूतौदुम्बरपर्णेन घृतहोमेऽर्चनाकरे॥२६०॥**
 
 **सिंहासने च शिबिकामञ्चादीनां प्रदर्शने।  
-तैले कषाये लेह्येच पेष्ये चूर्णादिमार्दवे॥२६१॥**
+तैले कषाये लेह्ये च पेष्ये चूर्णादिमार्दवे॥२६१॥**
 
 **एतेषु वैद्यपाके च गजदन्तप्रदर्शने।  
 श्रीचूर्णसिन्दूरादीनां लेखने तूलिकाग्रतः॥२६२॥**
@@ -3296,7 +3315,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **एवमादिविशेषेषु सरसाभिनयेषु च।  
 बालराममहीपालचिन्तिताभिनये मुदा॥२८०॥**
 
-**हंसास्यश्चैवमर्थेषु नाट्येहि विनियुज्यते।**
+**हंसास्यश्चैवमर्थेषु नाट्ये हि विनियुज्यते।**
 
  सन्देशहस्तस्य लक्षणमाह–
 
@@ -3374,7 +3393,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **आलिङ्गने च मेघे च पिधाने नेत्रयोरपि।  
 कृते च कार्ये प्रस्तावे सुप्तेरुत्थानदर्शने॥३०३॥**
 
-**तीरमुल्लङ्घ्यगमने तीक्ष्णभानुनिरीक्षणे।  
+**तीरमुल्लङ्घ्य गमने तीक्ष्णभानुनिरीक्षणे।  
 इन्द्रियस्खलने हस्ते पक्षिपक्षप्रदर्शने॥२०४॥**
 
 **शैत्ये च कुशलप्रश्ने तैलाभ्यञ्जनकर्मणि।  
@@ -3392,7 +3411,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **मित्रस्नेहे च बन्धौ च सत्कुले सारदर्शने।  
 अङ्गलिप्तार्द्रगन्धादिलेपनाभिनये करे॥३०९॥**
 
-**उल्लासपाणिना नाट्येपार्श्वयोर्बाहुवीजने।  
+**उल्लासपाणिना नाट्ये पार्श्वयोर्बाहुवीजने।  
 उपचारेण गच्छेति वचने प्रीतिपूर्वतः॥३१०॥**
 
 **समीपस्थनराह्वाने हंसपक्षप्रदर्शने।  
@@ -3440,17 +3459,17 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **नाट्ये चोल्लासगमने गीते चाभिनये लये॥३२२॥**
 
-**नटने संज्ञया चेटीमिङ्गिताह्वानकर्मणि।  
-सवयस्कनराह्वाने बालाह्वानेस्वसन्निधौ॥३२३॥**
+**नटने सञ्ज्ञया चेटीमिङ्गिताह्वानकर्मणि।  
+सवयस्कनराह्वाने बालाह्वाने स्वसन्निधौ॥३२३॥**
 
 **निमेषकाले निमिषे गच्छागच्छेति भाषणे।  
 आश्चर्येऽतिशये नष्टधनलाभोचितव्यये॥३२४॥**
 
 **शीर्षोपरि करन्यासेऽनुष्ठाने दृष्टिदोषतः।  
-भूतिंप्रक्षिप्य हस्तेन च्छोटने दोषशान्तये॥३२५॥**
+भूतिं प्रक्षिप्य हस्तेन च्छोटने दोषशान्तये॥३२५॥**
 
 **जृम्भणानन्तरं हस्तच्छोटने शुनकाह्वये।  
-दार्वाघाटमयूरास्ये कलविङ्कश्चकुक्कुटः॥३२६॥**
+दार्वाघाटमयूरास्ये कलविङ्कश्च कुक्कुटः॥३२६॥**
 
 **उभयोर्वदने शीघ्रधावने छोटने जये।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥३२७॥**
@@ -3461,7 +3480,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  ऊर्णनाभहस्तस्य लक्षणमाह–
 
 **विरलाङ्गुलिपञ्चानां मध्यपर्वसु कुञ्चनात्।  
-अन्त(र्नि)म्नतलश्चोर्णनाभःसिंहनखोऽपि वा॥३२९॥**
+अन्त(र्नि)म्नतलश्चोर्णनाभः सिंहनखोऽपि वा॥३२९॥**
 
  विनियोगः–
 
@@ -3492,7 +3511,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 कस्तूरिकामृगमदकुङ्कुमस्थूलसम्पुटे॥३३६॥**
 
 **उद्यानावरणादीनां वृत्ताकारप्रदर्शने।  
-पतद्ग्राहे पत्रपुटेशारिकाशुकपञ्जरे॥३३७॥**
+पतद्ग्राहे पत्रपुटे शारिकाशुकपञ्जरे॥३३७॥**
 
 **उत्तुङ्गस्तननारीणां कुचाकारप्रदर्शने।  
 अधोमुखेन चातायिनीडलम्बनदर्शने॥३३८॥**
@@ -3501,7 +3520,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 नालिकेरफले तालकपित्थफलयोरपि॥३३९॥**
 
 **उपलोत्सारणकरे वृत्तपात्रप्रदर्शने।  
-पुष्पप्रकीर्णनकरेसंफुल्लसरसीरुहे॥३४०॥**
+पुष्पप्रकीर्णनकरे सम्फुल्लसरसीरुहे॥३४०॥**
 
 **प्रसूनगुच्छस्तबके स्थूलकोरकदर्शने।  
 पञ्चदीपशिखाकारे पात्रनीराजने करे॥३४१॥**
@@ -3512,7 +3531,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **स्थूलचूतकले कर्णिकारपुष्पप्रदर्शने।  
 कपोताकुक्कुटादीनां स्थूलाण्डस्य प्रदर्शने॥३४३॥**
 
-**प्राकारे पट्टणे वृत्ततटाकेजनसंकुले।  
+**प्राकारे पट्टणे वृत्ततटाके जनसङ्कुले।  
 शिबिकामध्यसम्बद्धस्थूलगुच्छप्रदर्शने॥३४४॥**
 
 **एवमादिविशेषेषु सरसाभिनयेषु च।  
@@ -3523,7 +3542,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  अलपल्लवहस्तस्प लक्षणमाह–
 
 **पद्मकोशकरस्तावदङ्गुष्ठान्तो विवर्तितः॥३४६॥  
-कनिष्ठाद्याश्चविरलाः क्रमादुपरि विस्तृताः।**
+कनिष्ठाद्याश्च विरलाः क्रमादुपरि विस्तृताः।**
 
 **एवंलक्षणसंयुक्तः स्थितोऽयमलपल्लवः॥३४७॥  
 लघुना मणिबन्धेन चलनात् सालकः स्मृतः।**
@@ -3533,7 +3552,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **नाट्ये च पौरीभ्रमणे सन्तोषेऽतिशये तथा॥३४८॥**
 
 **पार्श्वेषु नर्तने भङ्गीनिलये श्लाघने तथा।  
-नाट्यावसानेऽथोंकारेरत्यानन्दविवर्धने॥३४९॥**
+नाट्यावसानेऽथोङ्कारे रत्यानन्दविवर्धने॥३४९॥**
 
 **व्यत्यस्तमणिबन्धेन द्रुतनर्तनचालने।  
 चामराकारचलने तन्तुवायादिवीथिषु॥३५०॥**
@@ -3545,13 +3564,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 जञ्झामारुतघोषे च हिमशीतार्तकम्पने॥३५२॥**
 
 **व्योम्नि विद्युत्प्रचलने शृङ्गाररसमोदने।  
-अनर्घमाणिक्कगुणश्लाघनेमृष्टभोजने॥३५३॥**
+अनर्घमाणिक्कगुणश्लाघने मृष्टभोजने॥३५३॥**
 
 **चक्रराष्णरथाङ्गादिभ्रमणे वम्भरभ्रमे।  
-वह्नौधगधगज्वालाज्वलने चलनायुधे॥३५४॥**
+वह्नौ धगधगज्वालाज्वलने चलनायुधे॥३५४॥**
 
 **उड्डीय पक्षिचलने चक्रवाणप्रदर्शने।  
-चलत्पतत्रिपतने मीनसंकुलवारिषु॥३५५॥**
+चलत्पतत्रिपतने मीनसङ्कुलवारिषु॥३५५॥**
 
 **मथिते दधिपात्रे च सर्वाङ्गुल्या प्रचालने।  
 करस्थनालिकेरस्य चलनाज्जलवीक्षणे॥३५६॥**
@@ -3594,13 +3613,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **नाट्ये शृङ्गारगमने सञ्चारिभावदर्शने।  
 शठस्य नायकस्याग्रे करौ सम्यक् प्रसार्य च॥३६७॥**
 
-**ईर्ष्ययाचालयित्वैव मानभञ्जनकर्मणि।  
-अतिदुःखमहोप्राप्तमत्याहितमिवागतम्॥३६८॥**
+**ईर्ष्यया चालयित्वैव मानभञ्जनकर्मणि।  
+अतिदुःखमहो प्राप्तमत्याहितमिवागतम्॥३६८॥**
 
 **रहस्यवारनारीभिर्विटबीभत्सवीक्षणे।  
 रतिमूल्याप्रदानेन प्रत्यहं जारदर्शने॥३६९॥**
 
-**संकटासहमानेन स्वोरुयुग्मप्रताडने।  
+**सङ्कटासहमानेन स्वोरुयुग्मप्रताडने।  
 प्रालम्बकृतपाणिभ्यामन्योन्यालिङ्गने सुखे॥३७०॥**
 
 **वामहस्तेन चालिङ्ग्य नायिकामुखचुम्बने।  
@@ -3635,9 +3654,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 दीपे पतङ्गपतने गन्धोलीचलने व खे॥३७९॥**
 
 **झिल्लिकाचलने चूतगुच्छे कर्कटके तथा।  
-मत्तभ्रमरपतने संफुल्लकुसुनाकरे॥३८०॥**
+मत्तभ्रमरपतने सम्फुल्लकुसुनाकरे॥३८०॥**
 
-**चीनदर्पणवीक्षायां प्रश्नेगुडगुडध्वनौ।  
+**चीनदर्पणवीक्षायां प्रश्ने गुडगुडध्वनौ।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥३८९॥**
 
 **बालराममहीपालचिन्तिताभिनये मुदा।  
@@ -3665,7 +3684,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **एवमादिविशेषेषु सरसाभिनयेषु च।  
 बालराममहीपालचिन्तिताभिनये मुदा॥३८८॥**
 
-**पुरोन्नतकरो नाट्येचैतेषु विनियुज्यते।**
+**पुरोन्नतकरो नाट्ये चैतेषु विनियुज्यते।**
 
  चतुरुन्नतहस्तस्य लक्षणमाह—
 
@@ -3679,13 +3698,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **चतुर्वेदे चतुर्वर्णे चतुर्यामे चतुष्पथे।  
 चत्वारि चत्वारिंशच्च चतुर्लक्षं चतुःप्ततम्॥३९१॥**
 
-**चतुःसहत्रमित्येवं चतुःसंख्याप्रदर्शने।  
-केशचिक्कणविस्त्रंसेस्त्राङ्गुलीयकवीक्षणे॥३९२॥**
+**चतुःसहत्रमित्येवं चतुःसङ्ख्याप्रदर्शने।  
+केशचिक्कणविस्त्रंसे स्त्राङ्गुलीयकवीक्षणे॥३९२॥**
 
 **पाणिभ्यामातपे धान्यनिचयास्तरणे करे।  
 गवाक्षद्वारमार्गेण भानुमण्डलवीक्षणे॥३९३॥**
 
-**नादस्वरे वेणुगाने विधानांद्बाटनाङ्गुलौ।  
+**नादस्वरे वेणुगाने विधानान्द्बाटनाङ्गुलौ।  
 एवमादिविशेषेषु तरसाभिनयेषु च॥३९४॥**
 
 **बालराममहीपालाविन्तिताभिनये मुदा।  
@@ -3713,11 +3732,11 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **वर्षधाराम्बुपतने पाणिभ्यामग्नितापने।  
 चण्डमारुतघोषे च धान्यविस्तरणे करे॥४०१॥**
 
-**फणीन्द्रपञ्चवदनेपञ्चदीपप्रदर्शने।  
+**फणीन्द्रपञ्चवदने पञ्चदीपप्रदर्शने।  
 नास्तिवाक्ये निषेधे च प्रसवे ग्रहताडने॥४०२॥**
 
 **अर्केन्दुमण्डलाकारे वह्निज्वालाविजृम्भणे।  
-भये च निविडे घोरे पाणिनास्थितिदर्शने॥४०३॥**
+भये च निविडे घोरे पाणिना स्थितिदर्शने॥४०३॥**
 
 **आयासे भूतले हस्तक्षेपणे व्यसनाकुले।  
 वक्षःस्थपाणिना स्वात्मसुखदुःखादिशंसने॥४०४॥**
@@ -3736,7 +3755,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  शिलीमुखहस्तस्य लक्षणमाह–
 
 **अधोमुखेऽङ्गुष्ठमध्ये तर्जन्यग्रेण पीडिते॥४०८॥  
-वक्रिता मध्यमाद्याश्चविरलाः स्वस्वपृष्ठगाः।**
+वक्रिता मध्यमाद्याश्च विरलाः स्वस्वपृष्ठगाः।**
 
 **उपर्युपरि सोपानसदृशाः स शिलीमुखः॥४०९॥**
 
@@ -3751,7 +3770,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **अङ्गुष्ठाग्रेण चोल्लासाल्ललाटे भूतिधारणे।  
 वक्षःस्थलपुरोदेशे षोडशाङ्गुलमानतः॥४१२॥**
 
-**नाट्येच चारिगमने चान्तर्भावप्रदर्शने।  
+**नाट्ये च चारिगमने चान्तर्भावप्रदर्शने।  
 शङ्खे वराटके जालमार्गे स्वाधरदर्शने॥४१३॥**
 
 **कर्कटस्यापि गमने वक्षःकञ्चुकदर्शने।  
@@ -3763,9 +3782,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **बालराममहीपालचिन्तिताभिनये मुदा।  
 शिलीमुखकरो नाट्ये चैतेषु विनियुज्यते॥४१६॥**
 
-उद्वेष्टितकरस्य[^2] लक्षणमाह–
+  उद्वेष्टितकरस्य[^4] लक्षणमाह–
 
-[^2]: "*लक्ष्यनिर्देशानुसारात् तु भद्रद्दस्तः क्रमप्राप्तः"
+[^4]: # "*लक्ष्यनिर्देशानुसारात् तु भद्रद्दस्तः क्रमप्राप्तः"
 
 **अलपल्लवहस्तस्थाः कनिष्ठाद्याः प्रवर्तिनः।**
 
@@ -3815,23 +3834,23 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  भद्रहस्तस्य लक्षणमाह–
 
-**सिंहाननकरेऽङ्गुष्ठः स्वस्थाने संप्रसारितः॥४२९॥  
+**सिंहाननकरेऽङ्गुष्ठः स्वस्थाने सम्प्रसारितः॥४२९॥  
 भद्रहस्त इति प्रोक्तो भरते नाट्यवेदिभिः।**
 
  विनियोगः–
 
 **हृदये च ललाटे च विप्रैश्चन्दनधारणे॥४३०॥**
 
-**संवादे संशये तर्केव्यवहारेऽधिकाधिके।  
+**संवादे संशये तर्के व्यवहारेऽधिकाधिके।  
 सन्ध्यायां प्रोक्षणे विप्रैर्द्वारपालकरे तथा॥४३१॥**
 
 **एवमादिविशेषेषु सरसाभिनयेषु च।  
 बालराममहीपालचिन्तिताभिनये मुदा॥४३२॥**
 
 **एतेष्वेव हि कार्येषु भद्रहस्तो नियुज्यते।  
-एवमेव नवत्रिंशद्धस्ता[^3] नाट्ये मनोहराः॥४३३॥**
+एवमेव नवत्रिंशद्धस्ता[^5] नाट्ये मनोहराः॥४३३॥**
 
-[^3]: "यथाप्रतिज्ञं प्रदर्शितानामसंयुतकराणां गणनायां चत्वारिंशत् सम्भवन्ति।"
+[^5]: # "यथाप्रतिज्ञं प्रदर्शितानामसंयुतकराणां गणनायां चत्वारिंशत् सम्भवन्ति।"
 
 **अर्थप्रकाशाभिनये चात्मानन्दकरा इमे।**
 
@@ -3841,7 +3860,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **युग्मानामपि हस्तानामञ्जलिः प्रथितः करः।  
 तन्मूलभूता इतरे तत्रैवादौ विचार्यते॥४३५॥**
 
-**अञ्जलिश्चकपोताख्यः करः पुष्पपुटस्तथा।  
+**अञ्जलिश्च कपोताख्यः करः पुष्पपुटस्तथा।  
 सङ्कल्पताडनपताकोत्सङ्गा डोल एव च॥४३६॥**
 
 **उपचारोऽभयवरदः करो मकरस्तथा।  
@@ -3875,7 +3894,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **मुखस्थमञ्जलिपुटं भूपालपितृवन्दने।  
 हृयदस्थाञ्जलिपुटं भूसुराणां च वन्दने॥४४५॥**
 
-**उदरस्थाञ्जलिपुटंस्वमातॄणां च वन्दने।  
+**उदरस्थाञ्जलिपुटं स्वमातॄणां च वन्दने।  
 मातुः पितुर्गुरूणां च साष्टाङ्गप्रणतावपि॥४४६॥**
 
 **अष्टाङ्गुलप्रमाणेन हृदयाग्रस्थिताञ्जलिः।  
@@ -3891,7 +3910,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 एवमादिविशेषेषु सरसाभिनयेषु च॥४५०॥**
 
 **बालराममहीपालचिन्तिताभिनये मुदा।  
-अञ्जलिः कर एतेषुनाट्येषु विनियुज्यते॥४५१॥**
+अञ्जलिः कर एतेषु नाट्येषु विनियुज्यते॥४५१॥**
 
  कपोतहस्तस्य लक्षणमाह–
 
@@ -3913,9 +3932,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 उत्तुङ्गस्तननारीणां कुचाकारप्रदर्शने॥४५६॥**
 
 **अतिस्थूलगदाकारे महावातपरिभ्रमे।  
-अवश्यकार्यकर्तव्येप्रमाणवचने तथा॥४५७॥**
+अवश्यकार्यकर्तव्ये प्रमाणवचने तथा॥४५७॥**
 
-**देहसंकुचिताकारे चात्यन्तविनये करे।  
+**देहसङ्कुचिताकारे चात्यन्तविनये करे।  
 गुरुसम्भाषणे वाचा गुरुवाक्यकुतूहले॥४५८॥**
 
 **प्रार्थनायामनुनये सेवायां ध्यानकर्मणि।  
@@ -3937,7 +3956,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 पुष्पप्रदाने ग्रहणे जलदाने प्रतिग्रहे॥४६३॥**
 
 **पुष्पाञ्जलिप्रकीर्णे च मन्त्रपुष्पाक्षतार्पणे।  
-वाक्पिधानेनभूपालवचनश्रवणे तथा॥४६४॥**
+वाक्पिधानेन भूपालवचनश्रवणे तथा॥४६४॥**
 
 **अर्ध्यप्रदाने सन्ध्यायां शङ्खाकारप्रदर्शने।  
 वधूवराणां हस्तेषु शुभकौतुकबन्धने॥४६५॥**
@@ -3994,7 +4013,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **नाट्ये नर्तकहस्तेन ल्यार्थं तालताडने।  
-संज्ञया स्वजनाहाने स्थाने मूत्रपुरीषयोः॥४८०॥**
+सञ्ज्ञया स्वजनाहाने स्थाने मूत्रपुरीषयोः॥४८०॥**
 
 **चण्डेश्वरस्य सेवायामनुष्ठाने श्रिताडने।  
 आनन्दनटने गाने मौनभिक्षासु योगिनाम्॥४८१॥**
@@ -4103,9 +4122,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 मा भैष्टाभीष्टवरदः फलमस्ति ददामि वः॥५०९॥**
 
 **स तत्र तिष्ठति स्वामी चाहमत्रेति भाषणे।  
-देवलोके च विबुधाः पातालेचासुरा इति॥५१०॥**
+देवलोके च विबुधाः पाताले चासुरा इति॥५१०॥**
 
-**उपर्यधःसप्तसप्तलोका इति निदर्शने।  
+**उपर्यधः सप्तसप्तलोका इति निदर्शने।  
 वरदाभयहस्तौ तौ सुब्रह्मण्यरमेश्वरौ॥५११॥**
 
 **एवमादिविशेषेषु सरसाभिनयेषु च।  
@@ -4120,7 +4139,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**युद्धसन्नाहसेनादिसङ्कुले जनसङ्कुले॥५१४॥**
+**युद्धसन्नाहसेनादिसङ्कुळे जनसङ्कुले॥५१४॥**
 
 **उत्प्लुत्य मेषपतने स्तम्भने मकराकृतौ।  
 महिषश्ववराहाणामुत्प्लुत्याक्रमणे रिपुम्॥५१५॥**
@@ -4139,13 +4158,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  गजदन्तहस्तस्य लक्षणमाह–
 
 **अङ्गुष्ठोर्ध्वमुखावर्धचन्द्रावष्टाङ्गुलान्तरे॥५१९॥  
-पुरोवक्षस्त्वभिमुखौदीर्घाग्रौ गजदन्तकः।**
+पुरोवक्षस्त्वभिमुखौ दीर्घाग्रौ गजदन्तकः।**
 
  विनियोगः–
 
-**स्वल्पमार्गे गृहद्वारे चाङ्गुलेच चतुश्चतुः॥५२०॥**
+**स्वल्पमार्गे गृहद्वारे चाङ्गुले च चतुश्चतुः॥५२०॥**
 
-**पङ्किद्वयेमध्यमाग्रेग्रामच्छायादिपङ्क्तिषु।  
+**पङ्किद्वये मध्यमाग्रे ग्रामच्छायादिपङ्क्तिषु।  
 रथवीथ्यां रन्ध्रमार्गे स्थूलकूश्माण्डमानके॥५२१॥**
 
 **प्रमाणे पुस्तकस्यापि स्थूले च पनसे तथा।  
@@ -4172,7 +4191,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 नीचदैवसमावेशे हुङ्कृत्य स्तम्भनस्थितौ॥५२७॥**
 
 **अभ्यस्तविद्यां मुखत आचार्याय प्रबोधने।  
-भग्नेमनोविचारे च स्वात्मानन्दमुखोदये॥५२८॥**
+भग्ने मनोविचारे च स्वात्मानन्दमुखोदये॥५२८॥**
 
 **पराङ्मुखे वक्रदृष्टौ भृत्ये ध्याने च चिन्तने।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥५२९॥**
@@ -4188,7 +4207,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः–
 
 **अम्बरे गरुडध्याने ब्रह्मध्याने च योगिनाम्।  
-महतामुपचारे च संकटस्य प्रबोधने॥५३२॥**
+महतामुपचारे च सङ्कटस्य प्रबोधने॥५३२॥**
 
 **नास्ति किञ्चिन्मय करे विस्मृतद्रव्यमार्गणे।  
 भये व याचने क्केशे वस्त्रमालाप्रतिग्रहे॥५३३॥**
@@ -4234,7 +4253,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 विवादे कन्यकानेत्राच्छादने चातिलज्जया॥५४३॥**
 
 **विघ्नेशवन्दने कर्णौ गृहीत्वा भक्तिपूर्वकम्।  
-वाद्येव्यत्यस्तहस्तस्थदण्डेन धृतताण्डने॥५४४॥**
+वाद्ये व्यत्यस्तहस्तस्थदण्डेन धृतताण्डने॥५४४॥**
 
 **कोलताडनकाष्ठाभ्यां करव्यत्यासताडने।  
 शाखाद्वयस्थितखगे द्विशिरःपक्षिदर्शने॥५४५॥**
@@ -4246,14 +4265,14 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  कर्कटहस्तस्य लक्षणमाह–
 
-**पूर्णचन्द्रकराङ्गुल्योमिथः स्यूताश्च पीडिताः॥५४७॥  
+**पूर्णचन्द्रकराङ्गुल्यो मिथः स्यूताश्च पीडिताः॥५४७॥  
 बलेन दृढसम्बद्धा यदि कर्कटकः करः।**
 
  विनियोगः–
 
 **चोरस्वभावनिलये हिमवातातिकम्पने॥५४८॥**
 
-**उद्युक्तकार्यभग्नेच विचारे दुःखकर्शिते।  
+**उद्युक्तकार्यभग्ने च विचारे दुःखकर्शिते।  
 अन्तर्मुसलहस्ताभ्यां बलाद् भारसमुद्यमे॥५४९॥**
 
 **अङ्गुलिच्छोडने चैव स्त्रीभिर्दुर्भाषणे मिथः।  
@@ -4272,7 +4291,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 जानुद्वयेऽपि चारे च जानौ चालोचनास्वपि॥५५४॥**
 
 **संयुक्तमणिबन्धेन चिबुकस्य च धारणे।  
-भग्नेविचारभावे च चिन्तने चानुमोदने॥५५५॥**
+भग्ने विचारभावे च चिन्तने चानुमोदने॥५५५॥**
 
 **नालीकतालक्रमुकारोहणेऽप्यवरोहणे।  
 दारुरज्ज्ववलम्बेन भूतलोपरि लोलने॥५५६॥**
@@ -4290,7 +4309,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 एवमादिविशेषेषु सरसाभिनयेषु च॥५६०॥**
 
 **बालराममहीपालचिन्तिताभिनये मुदा।  
-करः कर्कटको नाट्येचैतेषु विनियुज्यते॥५६१॥**
+करः कर्कटको नाट्ये चैतेषु विनियुज्यते॥५६१॥**
 
  वर्धमानहस्तस्य लक्षणमाह–
 
@@ -4314,7 +4333,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  कलहहस्तस्य लक्षणमाह–
 
 **दृढः कुटिलहस्तस्थतर्जन्यन्योन्यशृङ्खलात्।  
-कलहःकर इत्येवं कथितो नाट्यवोदिभिः॥५६७॥**
+कलहः कर इत्येवं कथितो नाट्यवोदिभिः॥५६७॥**
 
  विनियोगः–
 
@@ -4324,7 +4343,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **केशाकेशिमहायुद्धे शृङ्खलाकारदर्शने।  
 क्रौञ्चकुक्कुटतुण्डाभ्यामन्योन्यक्रोध(दष्ट?दंश)ने॥५६९॥**
 
-**रशनाबन्धने चैव व्द्यङ्कुशस्यच बन्धने।  
+**रशनाबन्धने चैव व्द्यङ्कुशस्य च बन्धने।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥५७०॥**
 
 **बालराममहीपालचिन्तिताभिनये मुदा।  
@@ -4354,17 +4373,17 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  पद्ममुकुलहस्तस्य लक्षणमाह–
 
 **वामदक्षिणहस्वस्थौ मुकुलौ द्वौ पृथक् पृथक्॥५७७॥  
-समभावेन संदृष्टौस पद्ममुकुलः करः।**
+समभावेन सन्दृष्टौ स पद्ममुकुलः करः।**
 
  विनियोगः–
 
-**कदलीपार्श्वसंभूतनूतनाङ्कुरसञ्जये॥५७८॥**
+**कदलीपार्श्वसम्भूतनूतनाङ्कुरसञ्जये॥५७८॥**
 
 **वंशाङ्कुरसमूहे च तरुणीनां कुचद्वये।  
 कल्हारकुमुदाम्भोजकुड्मलानां गणे तथा॥५७९॥**
 
-**शल्मलीकोशसंघाते तोरणानां च कुञ्जरे।  
-हस्तद्वये द्रव्यसंख्या पञ्च पचेति दर्शने॥५८०॥**
+**शल्मलीकोशसङ्घाते तोरणानां च कुञ्जरे।  
+हस्तद्वये द्रव्यसङ्ख्या पञ्च पचेति दर्शने॥५८०॥**
 
 **समकालप्रदाने च दीनभावप्रदर्शने।  
 यद्किञ्चिदपि दातव्यमिति दैन्येन याचने॥५८१॥**
@@ -4372,7 +4391,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **एवमादिविशेषेषु सरसाभिनन्येषु च।  
 बालराममहीपालचिन्तिताभिनये मुदा॥५८२॥**
 
-**नाट्येच पद्ममुकुलहस्त एतेषु युज्यते।**
+**नाट्ये च पद्ममुकुलहस्त एतेषु युज्यते।**
 
  मल्लयुद्धहस्तस्य लक्षणमाह–
 
@@ -4384,12 +4403,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **धैर्ये बले च भूतादिक्रूरलक्षणदर्शने॥५८४॥**
 
 **बाहुयुद्धसमुत्साहमल्लाकारप्रदर्शने।  
-मुष्टिबद्धैशिशुकरे चन्दनस्य च कर्षणे॥५८५॥**
+मुष्टिबद्धै शिशुकरे चन्दनस्य च कर्षणे॥५८५॥**
 
 **पाणिद्वयमदाभ्यां तु भुजदार्ढ्यप्रचालने।  
 धान्यावहनने हस्तद्यान्मुसलकुन्तने॥५८६॥**
 
-**देहपुष्टौ च धार्ष्ट्येच स्थूलाकारविडम्बने।  
+**देहपुष्टौ च धार्ष्ट्ये च स्थूलाकारविडम्बने।  
 बद्धरज्जुघटं कूपे पाणिभ्यां च विसर्जने॥५८७॥**
 
 **उदरे कुन्तने कोपान्मथने रज्जुकर्षणे।  
@@ -4456,10 +4475,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  संयुक्तपल्लवहस्तस्य लक्षणमाह–
 
-**पल्लवौपाणियुगलौ मणिबन्धद्वयान्वितौ॥६०४॥**
+**पल्लवौ पाणियुगलौ मणिबन्धद्वयान्वितौ॥६०४॥**
 
 **कनिष्ठाङ्गुष्ठकरभबाह्यपार्श्वसुसंयतौ।  
-संयुक्तपल्लवकरः स तु नाट्येप्रकीर्तितः॥६०५॥**
+संयुक्तपल्लवकरः स तु नाट्ये प्रकीर्तितः॥६०५॥**
 
  विनियोगः–
 
@@ -4473,24 +4492,24 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 एवमादिविशेषेषु सरसाभिनयेषु च॥६०८॥**
 
 **बालराममहीपालचिन्तिताभिनये मुदा।  
-संयुक्तपल्लवो नाट्येचैतेषु विनियुज्यते॥६०९॥**
+संयुक्तपल्लवो नाट्ये चैतेषु विनियुज्यते॥६०९॥**
 
  अवहिस्थहस्तस्य लक्षणमाह–
 
 **वक्षसः पुरतो दन्तौ मणिबन्धादधोमुखौ।  
-संमुखान्तस्तलौ नीतौशुकतुण्डावधोमुखौ॥६१०॥**
+सम्मुखान्तस्तलौ नीतौ शुकतुण्डावधोमुखौ॥६१०॥**
 
 **विकृताकारसहितौ सोऽवहित्थोऽभिधीयते।**
 
  विनियोगः–
 
-**ऊर्ध्वश्वासे महारोगे दुर्बलेच विडम्बने॥६११॥**
+**ऊर्ध्वश्वासे महारोगे दुर्बले च विडम्बने॥६११॥**
 
 **वक्राङ्गिनाट्ये विकृतौ विरूपे विकटाङ्गिनि।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥६१२॥**
 
 **बालराममहीपालचिन्तिताभिनये मुदा।  
-अवहित्थकरो नाट्येचैतेषु विनियुज्यते॥६१३॥**
+अवहित्थकरो नाट्ये चैतेषु विनियुज्यते॥६१३॥**
 
  विस्तृतपल्लवहस्तस्य लक्षणमाह–
 
@@ -4518,8 +4537,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  कराणां स्त्रीलिङ्गपुल्लिङ्गनपुंसकलिङ्गभेदमाह–
 
-**पताकः शिखरो मुष्टिः सूचिश्चमृगशीर्षकः।  
-हंसास्यो मुकुलोवाणो भद्रोऽरालोऽपवेष्टितः॥६१९॥**
+**पताकः शिखरो मुष्टिः सूचिश्च मृगशीर्षकः।  
+हंसास्यो मुकुलो वाणो भद्रोऽरालोऽपवेष्टितः॥६१९॥**
 
 **शिलीमुखस्ताम्रचूडो मयूरोऽर्धपताककः।  
 कराः पञ्चदशैवैते पौरुषाः परिकीर्तिताः॥६२०॥**
@@ -4547,8 +4566,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **अञ्जलिर्गरुडो डोलो गजो विस्तृतपल्लवः।  
 कूर्परस्वस्तिककरः सताडनपताककः॥६२५॥**
 
-**संकल्पो गजदन्तश्चवरदाभयहस्तकः।  
-कपोताख्यकरश्चेति पौरुषा रुद्रसंख्यकाः॥६२६॥**
+**सङ्कल्पो गजदन्तश्च वरदाभयहस्तकः।  
+कपोताख्यकरश्चेति पौरुषा रुद्रसङ्ख्यकाः॥६२६॥**
 
 **इति पुल्लिङ्गसंयुक्तहस्तः॥**
 
@@ -4556,12 +4575,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 उत्सङ्गः पद्ममुकुलः कटकावर्त एव च॥६२७॥**
 
 **शुभशोभनहस्तथ करः संयुतपल्लवः।  
-वर्धमानकरश्चेति नत्रस्त्रीलिङ्गहस्तकाः॥६२८॥**
+वर्धमानकरश्चेति नत्र स्त्रीलिङ्गहस्तकाः॥६२८॥**
 
 **इति स्त्रीलिङ्गसंयुतहस्तः॥**
 
-**मकरो मल्लयुद्धश्चकर्तरीस्वस्तिकस्तथा।  
-उपचारश्चकलहः करः कर्कटकस्तथा॥६२९॥**
+**मकरो मल्लयुद्धश्च कर्तरीस्वस्तिकस्तथा।  
+उपचारश्च कलहः करः कर्कटकस्तथा॥६२९॥**
 
 **अवहित्थकरः सप्त नपुंसककराः स्मृताः॥६३०॥**
 
@@ -4574,12 +4593,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  इदानीं संयुतहस्तानामसंयुतहस्तानां कार्यमुखेन विनियोगश्चिन्तितः। नृत्तहस्तानां तु कार्यमुखेन विनियोगासम्भवात् शब्देनैव विनियोगश्चिन्तनीयः। शब्दस्तु इतराङ्गपरिज्ञानं विना (न) प्रवर्तते। तदर्थम् उत्तराङ्गचिन्ता कर्तव्या। अतः क्रमप्राप्तवक्षःपार्श्वकटीतटादीनां लक्षणविनियोगश्चिन्त्यते। वक्षसो लक्षणमाह–
 
-**स्याद्वक्षः स्थेममाभुग्रंनिर्भुग्नं च प्रकम्पितम्।  
+**स्याद्वक्षः स्थेममाभुग्रं निर्भुग्नं च प्रकम्पितम्।  
 उद्वाहितं च चलितं भ्रमणं सप्तधोदितम्॥१॥**
 
- स्थेमलक्षणमाह–
+** ** स्थेमलक्षणमाह–
 
-**दत्त्वावक्षः पुरोभागे तदाकारेण संस्थितम्।  
+**दत्त्वा वक्षः पुरोभागे तदाकारेण संस्थितम्।  
 तद्वक्षः स्थेममित्युक्तं भरतागमवेदिभिः॥२॥**
 
  विनियोगः–
@@ -4600,8 +4619,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**वक्षःकुन्तनवेलायां वक्षस्संकोचकर्मणि।  
-भग्नेमनोविचारे च लज्जयावनतोरसि॥७॥  
+**वक्षःकुन्तनवेलायां वक्षस्सङ्कोचकर्मणि।  
+भग्ने मनोविचारे च लज्जयावनतोरसि॥७॥  
 वक्राङ्गिनाट्येऽति भये चाभुग्नं विनियुज्यते।**
 
  निर्भुग्रस्य लक्षणमाह–
@@ -4611,7 +4630,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**ध्याने च स्तम्भने गर्वेविस्मयेनावलोकने॥९॥  
+**ध्याने च स्तम्भने गर्वे विस्मयेनावलोकने॥९॥  
 अतिकोपेऽप्यहङ्कारे मदान्धे तपसि व्रते।  
 एतेष्वेव हि कार्येषु निर्भुग्नं विनियुज्यते॥१०॥**
 
@@ -4781,7 +4800,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः–
 
 **भृत्यस्य निलये भक्तनिलये विनये श्रमे॥५॥  
-गोपालनिलये छन्ना नाट्येहि विनियुज्यते।**
+गोपालनिलये छन्ना नाट्ये हि विनियुज्यते।**
 
  विद्यतालक्षणमाह–
 
@@ -4797,7 +4816,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  उद्वाहितालक्षणमाह–
 
-**समाकारस्थितकटी पुरश्चोन्नमितायदि।  
+**समाकारस्थितकटी पुरश्चोन्नमिता यदि।  
 उद्वाहिता कटी सेयं कीर्तिता भरतागमे॥९॥**
 
  विनियोगः–
@@ -4826,13 +4845,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **परिहासेन नटने मूलरोगोष्णरोगयोः॥१४॥**
 
-**स्त्रीणां कलभलीलायांरत्यानन्दसुखोदये।  
+**स्त्रीणां कलभलीलायां रत्यानन्दसुखोदये।  
 आसने च तृणाग्रेण खुत्तायां विनियुज्यते॥१५॥**
 
  चलितालक्षणमाह–
 
 **स्वस्थान एव चलनमसकृत् क्रियते यदि।  
-चलिता सा कटीज्ञेया नृत्ते भरतवेदिभिः॥१६॥**
+चलिता सा कटी ज्ञेया नृत्ते भरतवेदिभिः॥१६॥**
 
  विनियोगः–
 
@@ -4859,7 +4878,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विवर्तितालक्षणमाह–
 
 **वामे वा दक्षिणे पार्श्वे चैकभागे विवर्तनात्।  
-विवर्तिता कटीसेयं कीर्तिता भरतागमे॥२१॥**
+विवर्तिता कटी सेयं कीर्तिता भरतागमे॥२१॥**
 
  विनियोगः–
 
@@ -4869,7 +4888,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **तन्द्रीनिर्भञ्जने स्त्रीणां धिक्कारेण पराङ्मुखे।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥२३॥**
 
-**बालराममहीपालचिन्तिताभिनयेमुदा।  
+**बालराममहीपालचिन्तिताभिनये मुदा।  
 विवर्तिता कटी नाट्ये सर्वत्र विनियुज्यते॥२४३॥**
 
 **इति कटीभेदः॥**
@@ -4879,7 +4898,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **समं च विषमं वक्रं तिरश्चीनं च विस्तृतम्।  
 विवर्तितं च वलितं कुञ्चितं चाञ्चितं तथा॥१॥**
 
-**सूचिः पार्ष्णिश्चपार्श्वश्चपुरःपृष्ठस्थितस्तथा।  
+**सूचिः पार्ष्णिश्च पार्श्वश्च पुरःपृष्ठस्थितस्तथा।  
 व्यत्यस्तश्च तथोत्क्षिप्तः पदं पञ्चदशोच्यते॥२॥**
 
  समस्य लक्षणमाह–
@@ -4912,7 +4931,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः–
 
 **नाट्येषु गतिभेदे च गमनश्रान्तिपीडिते॥८॥**  
-**निगलाबद्धचोरस्यपदे च विनियुज्यते।**
+**निगलाबद्धचोरस्य पदे च विनियुज्यते।**
 
  तिरश्चीनपदस्य लक्षणमाह–
 
@@ -4937,7 +4956,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विवर्त्तितस्य लक्षणमाह–
 
-**एकपार्श्वं समुन्नभ्यस्वाग्रभागे विवर्त्तितम्।  
+**एकपार्श्वं समुन्नभ्य स्वाग्रभागे विवर्त्तितम्।  
 विवर्त्तितं पदमिति प्रोक्तं भरतवेदिभिः॥१४॥**
 
  विनियोगः–
@@ -5016,20 +5035,20 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**नाट्ये च गतिविन्यासेत्वावे चापगतावपि।  
+**नाट्ये च गतिविन्यासे त्वावे चापगतावपि।  
 लाङ्गलाकृष्टसुक्षेत्रपङ्कानां च समीकृतौ॥३१॥**
 
-**पदमर्दितपङ्कस्य पदपार्श्वेनकुट्टने।  
-धान्यावहन्त्रीपादाभ्यां धान्यसंगूहने पदे॥३२॥**
+**पदमर्दितपङ्कस्य पदपार्श्वेन कुट्टने।  
+धान्यावहन्त्रीपादाभ्यां धान्यसङ्गूहने पदे॥३२॥**
 
 **व्यत्यस्तपदजानुभ्यां स्वस्तिकाकारबन्धने।  
 मन्थने दधिपात्रस्य घट्टने दारुतक्षणे॥३३॥**
 
-**नाट्ये चैतेषु कार्येषु पादः पार्श्वोनियुज्यते।**
+**नाट्ये चैतेषु कार्येषु पादः पार्श्वो नियुज्यते।**
 
  पुरःपृष्ठपदस्य लक्षणमाह–
 
-**वामं च दक्षिणं भागंसार्धतालप्रमाणतः॥३४॥**
+**वामं च दक्षिणं भागं सार्धतालप्रमाणतः॥३४॥**
 
 **पुरःपृष्टस्थितपदं तन्नाम परिकीर्तितम्।**
 
@@ -5055,12 +5074,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  उत्क्षिप्तपदस्य लक्षणमाह–
 
-**वामस्य वा दक्षिणस्य पादस्यार्धंसमुन्नतम्।  
-पूर्वभागस्त्ववक्षेपउत्क्षिप्तश्चोत्तरःस्मृतः॥४०॥**
+**वामस्य वा दक्षिणस्य पादस्यार्धं समुन्नतम्।  
+पूर्वभागस्त्ववक्षेप उत्क्षिप्तश्चोत्तरः स्मृतः॥४०॥**
 
  विनियोगः–
 
-**जग्गिणीनिलये नाट्येमोहिनीनिलये तथा।  
+**जग्गिणीनिलये नाट्ये मोहिनीनिलये तथा।  
 याचने व विचारे च अपसव्येन वीक्षणे॥४१॥  
 निन्दने परिहासे चाप्युत्क्षिप्तं विनियुज्यते।**
 
@@ -5070,7 +5089,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **उद्घट्टितं ताडितं च घट्टितं च विघट्टितम्॥४२॥  
 चलितं कम्पितं चैवोद्वर्तितं च निवर्तितम्।  
-लुठितं रेचितं चैवभ्रमणं मर्दितं तथा॥४३॥**
+लुठितं रेचितं चैव भ्रमणं मर्दितं तथा॥४३॥**
 
 **अग्रगः पार्ष्णिगश्चैव पार्श्वगो वक्रगस्तथा।  
 पदानि षोडशैतानि चास्थिराणीति कीर्तितम्॥४४॥**
@@ -5078,23 +5097,23 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  उद्घट्टितस्य लक्षणमाह–
 
 **अन्तर्भागेन चलितं वामदक्षिणपादयोः।  
-उद्घट्टितपदं चेदं नाट्येचपरिकीर्तितम्॥४५॥**
+उद्घट्टितपदं चेदं नाट्ये च परिकीर्तितम्॥४५॥**
 
  विनियोगः–
 
 **पिपीलिकाप्रचलने विलासचलने पदे।  
 देशीचारीषु विन्यासतालानुकरणे पदे॥४६॥  
-अग्रतः पृष्ठतश्चार्यामेकतालेनखण्डने।  
-उद्घट्टितपदं नाट्येचैतेषु विनियुज्यते॥४७॥**
+अग्रतः पृष्ठतश्चार्यामेकतालेन खण्डने।  
+उद्घट्टितपदं नाट्ये चैतेषु विनियुज्यते॥४७॥**
 
  ताडितपदस्य लक्षणमाह–
 
-**पदद्वयं पदं वापि समुन्नम्यद्विपादतः।  
+**पदद्वयं पदं वापि समुन्नम्य द्विपादतः।  
 ताडने चैकपादेन पर्यायेणापि ताडितम्॥४८॥**
 
  द्विपदताडितस्य विनियोगमाह–
 
-**उल्लासप्लवने नाट्येलक्ष्येषु प्लवने तथा।  
+**उल्लासप्लवने नाट्ये लक्ष्येषु प्लवने तथा।  
 स्वस्थानतस्ताडने च द्विपदात् ताडितं भवेत्॥४९॥**
 
  एकपदताडितस्य विनियोगः–
@@ -5102,31 +5121,31 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **तालानुकरणं कृत्वा चैकपादेन ताडने।  
 झम्पातालाटतालेषु मात्राविन्यासताडने॥५०॥**
 
-**गतिविन्यासभावेन ताडनेरसभानतः।**
+**गतिविन्यासभावेन ताडने रसभानतः।**
 
  पर्यायताडितस्य विनियोगः–
 
-**आनन्दनटनेनाट्येपेरणौ कालभेदतः॥५१॥  
+**आनन्दनटने नाट्ये पेरणौ कालभेदतः॥५१॥  
 तालशब्दानुकरणताडने चोपसर्पणे।**
 
 **अपसर्पणतः पृष्ठे चावसाने च योङ्कृतौ॥५२॥**  
-**नाट्येचैतेषु कार्येषु ताडितं विनियुज्यते।**
+**नाट्ये चैतेषु कार्येषु ताडितं विनियुज्यते।**
 
  घट्टितस्य लक्षणमाह–
 
-**पदद्वयं प्रविस्तार्यमिथः संघट्टितं यदि॥५३॥  
+**पदद्वयं प्रविस्तार्य मिथः सङ्घट्टितं यदि॥५३॥  
 घट्टितं पदमित्युक्तं भरतागमवेदिभिः।**
 
  विनियोगः–
 
 **समचार्यां च पदयोस्तालकालेषु योजने॥५४॥  
-स्त्रीभिः संघुन्म्य सन्तोषताडने शोभनेऽपि च।**
+स्त्रीभिः सङ्घुन्म्य सन्तोषताडने शोभनेऽपि च।**
 
-**विस्तृतस्यापि संकोचे घट्टितं विनियुज्यते॥५५॥**
+**विस्तृतस्यापि सङ्कोचे घट्टितं विनियुज्यते॥५५॥**
 
  विघट्टितस्य लक्षणमाह–
 
-**उक्तघट्टितपादश्चेद् वि(स्मृ?स्तृ)तो रसमार्गतः।  
+**उक्तघट्टितपादश्चेद् वि(स्मृ? स्तृ)तो रसमार्गतः।  
 विघट्टितं पदमिति प्रोक्तं भरतवेदिभिः॥५६॥**
 
  विनियोगः–
@@ -5136,21 +5155,21 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  चलितस्य लक्षणमाह–
 
-**पदयोरग्रपृष्ठाभ्यां चलितंचेन्मुहुर्मुहुः।  
-चलितं पदमित्युक्तंनृत्ते भरतवेदिभिः॥५८॥**
+**पदयोरग्रपृष्ठाभ्यां चलितं चेन्मुहुर्मुहुः।  
+चलितं पदमित्युक्तं नृत्ते भरतवेदिभिः॥५८॥**
 
  विनियोगः–
 
 **एकतालानुकरणे कुञ्चिते गुल्फताडने।  
 चालयित्वा भुवः स्पर्शपेरणौ जग्गिणीषु च॥५९॥**
 
-**उल्लासगर्वभावेन नटेन चनियुज्यते।**
+**उल्लासगर्वभावेन नटेन च नियुज्यते।**
 
  कम्पितस्य लक्षणमाह–
 
-**एकपादेन वा पर्यायेणवाङ्घ्रिद्वयेन तु॥६०॥  
+**एकपादेन वा पर्यायेण वाङ्घ्रिद्वयेन तु॥६०॥  
 तालद्वयप्रमाणेन समुन्नभ्य ध्रुवं गते।  
-कम्पितं पदमित्युक्तंभरते नृत्तवेदिभिः॥६१॥**
+कम्पितं पदमित्युक्तं भरते नृत्तवेदिभिः॥६१॥**
 
  एकपदकम्पितविनियोगः–
 
@@ -5180,7 +5199,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पादाद्वर्तितविनियोगः–
 
-**वक्राङ्गिनाट्येगर्वेण नटने चैकभागतः।  
+**वक्राङ्गिनाट्ये गर्वेण नटने चैकभागतः।  
 परिहासेन नटने बाललीलाविडम्बने॥६९॥**
 
 **नाट्ये चैतेषु कार्येषु चैकपादो नियुज्यते।**
@@ -5192,7 +5211,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**नाट्येच गतिविश्रान्तौ गमनानुगते पदे॥७१॥**
+**नाट्ये च गतिविश्रान्तौ गमनानुगते पदे॥७१॥**
 
 **तालमात्रानुकरणे पेरणौ क्षितिसंस्थितौ।  
 उन्नम्योन्नम्य गमने रसविश्रान्तिभाविते॥७२॥**
@@ -5239,7 +5258,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **एकतालानुकरणे नाट्ये च गतिभेदतः॥८१॥  
 शृङ्गारनटने नाट्ये विन्यासपदचालने।  
-पृष्ठानुसरणे चैकपादो नाट्येनियुज्यते॥८२॥**
+पृष्ठानुसरणे चैकपादो नाट्ये नियुज्यते॥८२॥**
 
  भ्रमणस्य लक्षणमाह–
 
@@ -5261,7 +5280,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **नटने चैकपादेन मर्दने गतिभेदतः॥८६॥  
 तालानुकरणं कृत्वा चैकतालेन खण्डने।  
-मध्यमे च लये नाट्येमर्दितं विनियुज्यते॥८७॥**
+मध्यमे च लये नाट्ये मर्दितं विनियुज्यते॥८७॥**
 
  अग्रगपदस्य लक्षणमाह–
 
@@ -5277,7 +5296,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पार्ष्णिगस्य लक्षणमाह–
 
-**पार्ष्ण्यापार्ष्णिद्वयेनापि पृष्ठतः सञ्चरे सति॥९०॥  
+**पार्ष्ण्या पार्ष्णिद्वयेनापि पृष्ठतः सञ्चरे सति॥९०॥  
 पार्ष्णिगः पाद इत्युक्तो भरतागमवेदिभिः।**
 
  विनियोगः–
@@ -5291,7 +5310,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  पार्श्वगपदस्य लक्षणमाह–
 
 **पादद्वयस्य पादस्य पार्श्वभागेन सञ्चरे॥९३॥  
-पार्श्वगः पाद इत्युक्तो नृत्तेभरतवेदिभिः।**
+पार्श्वगः पाद इत्युक्तो नृत्ते भरतवेदिभिः।**
 
  विनियोगः–
 
@@ -5304,7 +5323,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  वक्रगस्य लक्षणमाह–
 
 **पादद्वयेन पादेन वक्रतः सञ्चरे सति॥९६॥  
-वक्रगोवापि विषमगो वा नाट्येप्रकीर्तितः।**
+वक्रगो वापि विषमगो वा नाट्ये प्रकीर्तितः।**
 
  विनियोगः–
 
@@ -5319,210 +5338,212 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **बालराममहीपालचिन्तिताभिनयेषु च।  
 एतेष्वेव हि कार्येषु वक्रगो विनियुज्यते॥१००॥**
 
+
+
 स्थिराणामस्थिराणां पदानां सम्मेलनेन उत्पन्नानां पदानां सख्याभेदमाह–
 
-|                      |                        |
-|:--------------------:|:----------------------:|
-|    समोद्घट्टितम्|    |   अञ्चितोद्घट्टितम्|   |
-|   विषमोद्घट्टितम्|   |   सूच्युद्घट्टितम्|    |
-|   वक्रोद्घट्टितम्|   | पार्ष्ण्युद्घट्टितम्|  |
-| तिरश्चीनोद्घट्टितम्| |  पार्श्वोद्घट्टितम्|   |
-| विस्तृतोद्घट्टितम्|  | पुरःपृष्ठोद्घट्टितम्|  |
-| विवर्तितोद्घट्टितम्| | व्यत्यस्तोद्घट्टितम्|  |
-|   वलितोद्घट्टितम्|   | उत्क्षिप्तोद्घट्टितम्| |
-| कुञ्चितोद्घट्टितम्|  |                       |
+| | |
+|:----------------:|:----------------:|
+| समोद्घट्टितम्। | अञ्चितोद्घट्टितम्। |
+| विषमोद्घट्टितम्। | सूच्युद्घट्टितम्। |
+| वक्रोद्घट्टितम्। | पार्ष्ण्युद्घट्टितम्। |
+| तिरश्चीनोद्घट्टितम्। | पार्श्वोद्घट्टितम्। |
+| विस्तृतोद्घट्टितम्। | पुरःपृष्ठोद्घट्टितम्। |
+| विवर्तितोद्घट्टितम्। | व्यत्यस्तोद्घट्टितम्। |
+| वलितोद्घट्टितम्। | उत्क्षिप्तोद्घट्टितम्। |
+| कुञ्चितोद्घट्टितम्। | |
 
 ***उद्घट्टितं १५***
 
-|                  |                    |
-|:----------------:|:------------------:|
-|    समताडितम्|    |   अञ्चितताडितम्|   |
-|   विषमताडितम्|   |    सूचीताडितम्|    |
-|   वक्रताडितम्|   |  पार्ष्णिताडितम्|  |
-| तिरश्चीनताडितम्| |  पार्श्वताडितम्|   |
-| विस्तृतताडितम्|  | पुरःपृष्ठताडितम्|  |
-| विवर्तितताडितम्| | व्यत्यस्तताडितम्|  |
-|   वलितताडितम्|   | उत्क्षिप्तताडितम्| |
-| कुञ्चितताडितम्|  |                   |
+| | |
+|:--------------:|:--------------:|
+| समताडितम्। | अञ्चितताडितम्। |
+| विषमताडितम्। | सूचीताडितम्। |
+| वक्रताडितम्। | पार्ष्णिताडितम्। |
+| तिरश्चीनताडितम्। | पार्श्वताडितम्। |
+| विस्तृतताडितम्। | पुरःपृष्ठताडितम्। |
+| विवर्तितताडितम्। | व्यत्यस्तताडितम्। |
+| वलितताडितम्। | उत्क्षिप्तताडितम्। |
+| कुञ्चितताडितम्। | |
 
 ***ताडितं १५***
 
-|                   |                     |
-|:-----------------:|:-------------------:|
-|    समघट्टितम्|    |   अञ्चितघट्टितम्|   |
-|   विषमघट्टितम्|   |    सूचीघट्टितम्|    |
-|   वक्रघट्टितम्|   |  पार्ष्णिघट्टितम्|  |
-| तिरश्चीनघट्टितम्| |  पार्श्वघट्टितम्|   |
-| विस्तृतघट्टितम्|  | पुरःपृष्ठघट्टितम्|  |
-| विवर्तितघट्टितम्| | व्यत्यस्तघट्टितम्|  |
-|   वलितघट्टितम्|   | उत्क्षिप्तघट्टितम्| |
-| कुञ्चितघट्टितम्|  |                    |
+| | |
+|:--------------:|:--------------:|
+| समघट्टितम्। | अञ्चितघट्टितम्। |
+| विषमघट्टितम्। | सूचीघट्टितम्। |
+| वक्रघट्टितम्। | पार्ष्णिघट्टितम्। |
+| तिरश्चीनघट्टितम्। | पार्श्वघट्टितम्। |
+| विस्तृतघट्टितम्। | पुरःपृष्ठघट्टितम्। |
+| विवर्तितघट्टितम्। | व्यत्यस्तघट्टितम्। |
+| वलितघट्टितम्। | उत्क्षिप्तघट्टितम्। |
+| कुञ्चितघट्टितम्। | |
 
 ***घट्टितं १५***
 
-|                     |                      |
-|:-------------------:|:--------------------:|
-|    समविघट्टितम्|    |  अञ्चितविघट्टितम्|   |
-|   विषमविघट्टितम्|   |   सूचीविघट्टितम्|    |
-|   वक्रविघट्टितम्|   | पार्ष्णिविघट्टितम्|  |
-| तिरश्चीनविघट्टितम्| |  पार्श्वविघट्टितम्|  |
-| विस्तृतविघट्टितम्|  | पुरःपृष्ठविघट्टितम्| |
-| विवर्तितविघट्टितम्| | व्यत्यस्तविघट्टितम्| |
-|   वलितविघट्टितम्|   | उत्क्षिप्तविघट्टितम् |
-| कुञ्चितविघट्टितम्|  |                     |
+| | |
+|:----------------:|:---------------:|
+| समविघट्टितम्। | अञ्चितविघट्टितम्। |
+| विषमविघट्टितम्। | सूचीविघट्टितम्। |
+| वक्रविघट्टितम्। | पार्ष्णिविघट्टितम्। |
+| तिरश्चीनविघट्टितम्। | पार्श्वविघट्टितम्। |
+| विस्तृतविघट्टितम्। | पुरःपृष्ठविघट्टितम्। |
+| विवर्तितविघट्टितम्। | व्यत्यस्तविघट्टितम्। |
+| वलितविघट्टितम्। | उत्क्षिप्तविघट्टितम् |
+| कुञ्चितविघट्टितम्। | |
 
 ***विघट्टितं ५***
 
-|                   |                   |
-|:-----------------:|:-----------------:|
-|     समचलितम्|     |   अञ्चितचलितम्|   |
-|    विषमचलितम्|    |    सूचीचलितम्|    |
-|    वक्रचलितम्|    |  पार्ष्णिचलितम्|  |
-|  तिरश्चीनचलितम्|  |  पार्श्वचलितम्|   |
-|  विस्तृतचलितम्|   | पुरःपृष्ठचलितम्|  |
-| विवर्त्तितचलितम्| | व्यत्यस्तचलितम्|  |
-|    वलितचलितम्|    | उत्क्षिप्तचलितम्| |
-|  कुञ्चितचलितम्|   |                  |
+| | |
+|:--------------:|:-------------:|
+| समचलितम्। | अञ्चितचलितम्। |
+| विषमचलितम्। | सूचीचलितम्। |
+| वक्रचलितम्। | पार्ष्णिचलितम्। |
+| तिरश्चीनचलितम्। | पार्श्वचलितम्। |
+| विस्तृतचलितम्। | पुरःपृष्ठचलितम्। |
+| विवर्त्तितचलितम्। | व्यत्यस्तचलितम्। |
+| वलितचलितम्। | उत्क्षिप्तचलितम्। |
+| कुञ्चितचलितम्। | |
 
 ***चलितं १५***
 
-|                     |                     |
-|:-------------------:|:-------------------:|
-|     समकम्पितम्|     |   अञ्चितकम्पितम्|   |
-|    विषमकम्पितम्|    |    सूचीकम्पितम्|    |
-|    वक्रकम्पितम्|    |  पार्ष्णिकम्पितम्|  |
-|  तिरश्चीनकम्पितम्|  |  पार्श्वकम्पितम्|   |
-|  विस्तृतकम्पितम्|   | पुरःपृष्ठकम्पितम्|  |
-| विवर्त्तितकम्पितम्| | व्यत्यस्तकम्पितम्|  |
-|    वलितकम्पितम्|    | उत्क्षिप्तकम्पितम्| |
-|  कुञ्चितकम्पितम्|   |                    |
+| | |
+|:---------------:|:--------------:|
+| समकम्पितम्। | अञ्चितकम्पितम्। |
+| विषमकम्पितम्। | सूचीकम्पितम्। |
+| वक्रकम्पितम्। | पार्ष्णिकम्पितम्। |
+| तिरश्चीनकम्पितम्। | पार्श्वकम्पितम्। |
+| विस्तृतकम्पितम्। | पुरःपृष्ठकम्पितम्। |
+| विवर्त्तितकम्पितम्। | व्यत्यस्तकम्पितम्। |
+| वलितकम्पितम्। | उत्क्षिप्तकम्पितम्। |
+| कुञ्चितकम्पितम्। | |
 
 ***कम्पितं १५***
 
-|                  |                    |
-|:----------------:|:------------------:|
-|    समरेचितम्|    |   अञ्चितरेचितम्|   |
-|   विषमरेचितम्|   |    सूचीरेचितम्|    |
-|   वक्ररेचितम्|   |  पार्ष्णिरेचितम्|  |
-| तिरश्चीनरेचितम्| |  पार्श्वरेचितम्|   |
-| विस्तृतरेचितम्|  | पुरःपृष्ठरेचितम्|  |
-| विवर्तितरेचितम्| | व्यत्यस्तरेचितम्|  |
-|   वलितरेचितम्|   | उत्क्षिप्तरेचितम्| |
-| कुञ्चितरेचितम्|  |                   |
+| | |
+|:-------------:|:-------------:|
+| समरेचितम्। | अञ्चितरेचितम्। |
+| विषमरेचितम्। | सूचीरेचितम्। |
+| वक्ररेचितम्। | पार्ष्णिरेचितम्। |
+| तिरश्चीनरेचितम्। | पार्श्वरेचितम्। |
+| विस्तृतरेचितम्। | पुरःपृष्ठरेचितम्। |
+| विवर्तितरेचितम्। | व्यत्यस्तरेचितम्। |
+| वलितरेचितम्। | उत्क्षिप्तरेचितम्। |
+| कुञ्चितरेचितम्। | |
 
 ***रेचितं १५***
 
-|                  |                    |
-|:----------------:|:------------------:|
-|    समभ्रमणम्|    |   अञ्चितभ्रमणम्|   |
-|   विषमभ्रमणम्|   |    सूचीभ्रमणम्|    |
-|   वक्रभ्रमणम्|   |  पार्ष्णिभ्रमणम्|  |
-| तिरश्चीनभ्रमणम्| |  पार्श्वभ्रमणम्|   |
-| विस्तृतभ्रमणम्|  | पुरःपृष्ठभ्रमणम्|  |
-| विवर्तितभ्रमणम्| | व्यत्यस्तभ्रमणम्|  |
-|   वलितभ्रमणम्|   | उत्क्षिप्तभ्रमणम्| |
-| कुञ्चितभ्रमणम्|  |                   |
+| | |
+|:-------------:|:-------------:|
+| समभ्रमणम्। | अञ्चितभ्रमणम्। |
+| विषमभ्रमणम्। | सूचीभ्रमणम्। |
+| वक्रभ्रमणम्। | पार्ष्णिभ्रमणम्। |
+| तिरश्चीनभ्रमणम्। | पार्श्वभ्रमणम्। |
+| विस्तृतभ्रमणम्। | पुरःपृष्ठभ्रमणम्। |
+| विवर्तितभ्रमणम्। | व्यत्यस्तभ्रमणम्। |
+| वलितभ्रमणम्। | उत्क्षिप्तभ्रमणम्। |
+| कुञ्चितभ्रमणम्। | |
 
 ***भ्रमणं १५***
 
-|                   |                     |
-|:-----------------:|:-------------------:|
-|    सममर्दितम्|    |   अञ्चितमर्दितम्|   |
-|   विषममर्दितम्|   |    सूचीमर्दितम्|    |
-|   वक्रमर्दितम्|   |  पार्ष्णिमर्दितम्|  |
-| तिरश्चीनमर्दितम्| |  पार्श्वमर्दितम्|   |
-| विस्तृतमर्दितम्|  | पुरःपृष्ठमर्दितम्|  |
-| विवर्तितमर्दितम्| | व्यत्यस्तमर्दितम्|  |
-|   चलितमर्दितम्|   | उत्क्षिप्तमर्दितम्| |
-| कुञ्चितमर्दितम्|  |                    |
+| | |
+|:--------------:|:--------------:|
+| सममर्दितम्। | अञ्चितमर्दितम्। |
+| विषममर्दितम्। | सूचीमर्दितम्। |
+| वक्रमर्दितम्। | पार्ष्णिमर्दितम्। |
+| तिरश्चीनमर्दितम्। | पार्श्वमर्दितम्। |
+| विस्तृतमर्दितम्। | पुरःपृष्ठमर्दितम्। |
+| विवर्तितमर्दितम्। | व्यत्यस्तमर्दितम्। |
+| चलितमर्दितम्। | उत्क्षिप्तमर्दितम्। |
+| कुञ्चितमर्दितम्। | |
 
 ***मर्दितं १५***
 
-|                  |                    |
-|:----------------:|:------------------:|
-|    समाग्रगम्|    |   अञ्चिताग्रगम्|   |
-|   विषमाग्रगम्|   |    सूच्यग्रगम्|    |
-|   वक्राग्रगम्|   |  पार्ष्ण्यग्रगम्|  |
-| तिरश्चीनाग्रगम्| |  पार्श्वाग्रगम्|   |
-| विस्तृताव्रगम्|  | पुरःपृष्ठाग्रगम्|  |
-| विवर्तिताग्रगम्| | व्यत्यस्ताग्रगम्|  |
-|   वलिताग्रगम्|   | उत्क्षिप्ताग्रगम्| |
-| कुञ्चिताग्रगम्|  |                   |
+| | |
+|:-------------:|:-------------:|
+| समाग्रगम्। | अञ्चिताग्रगम्। |
+| विषमाग्रगम्। | सूच्यग्रगम्। |
+| वक्राग्रगम्। | पार्ष्ण्यग्रगम्। |
+| तिरश्चीनाग्रगम्। | पार्श्वाग्रगम्। |
+| विस्तृताव्रगम्। | पुरःपृष्ठाग्रगम्। |
+| विवर्तिताग्रगम्। | व्यत्यस्ताग्रगम्। |
+| वलिताग्रगम्। | उत्क्षिप्ताग्रगम्। |
+| कुञ्चिताग्रगम्। | |
 
 ***अग्रगं १५***
 
-|                                                                                                                                                                                |                         |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------:|
-| (समपार्ष्णिगम्|[^4]| तदनुसारेणात्र वलयान्तरितो भागोऽवश्यमेष्टव्य इति प्रतिभाति") |   अञ्चितपार्ष्णिगम्|    |
-|                                                                                विषमपार्ष्णिगम्|                                                                                |    सूचीपार्ष्णिगम्|     |
-|                                                                                वक्रपार्ष्णिगम्|                                                                                |  पार्ष्णिपार्ष्णिगम्|   |
-|                                                                              तिरश्चीनपार्ष्णिगम्|                                                                              |   पार्श्वपार्ष्णिगम्|   |
-|                                                                               विस्तृतपार्ष्णिगम्                                                                               |  पुरःपृष्ठपार्ष्णिगम्|  |
-|                                                                              विवर्तितपार्ष्णिगम्|                                                                              | व्यत्यस्तपार्ष्णिगम् \| |
-|                                                                                वलितपार्ष्णिगम्|                                                                                | उत्क्षिप्तपार्ष्णिगम्|  |
-|                                                                              कुञ्चितपार्ष्णिगम्|                                                                               |                        |
+| | |
+|:--:|:--:|
+| (समपार्ष्णिगम्।[^6]। तदनुसारेणात्र वलयान्तरितो भागोऽवश्यमेष्टव्य इति प्रतिभाति") | अञ्चितपार्ष्णिगम्। |
+| विषमपार्ष्णिगम्। | सूचीपार्ष्णिगम्। |
+| वक्रपार्ष्णिगम्। | पार्ष्णिपार्ष्णिगम्। |
+| तिरश्चीनपार्ष्णिगम्। | पार्श्वपार्ष्णिगम्। |
+| विस्तृतपार्ष्णिगम् | पुरःपृष्ठपार्ष्णिगम्। |
+| विवर्तितपार्ष्णिगम्। | व्यत्यस्तपार्ष्णिगम् \| |
+| वलितपार्ष्णिगम्। | उत्क्षिप्तपार्ष्णिगम्। |
+| कुञ्चितपार्ष्णिगम्। | |
 
-[^4]: "पदानां परस्परसम्मेलनेनोत्पन्नानि कर्माणि चत्वारिंशदधिकद्विशतसङ्ख्या कानात वक्ष्यति (पृ० ११३
+[^6]: # "पदानां परस्परसम्मेलनेनोत्पन्नानि कर्माणि चत्वारिंशदधिकद्विशतसङ्ख्या कानात वक्ष्यति (पृ॰ ११३
 
 ***पार्ष्णिगं १५***
 
-|                     |                        |
-|:-------------------:|:----------------------:|
-|    समपार्श्वगम्|    |   अञ्चितपार्श्वगम्|    |
-|   विषमपार्श्वगम्|   |    सूचीपार्श्वगम्|     |
-|   वक्रपार्श्वगम्|   |  पार्ष्णिपार्श्वगम्|   |
-| तिरश्रीनपार्श्वगम्| |   पार्श्वपार्श्वगम्|   |
-| विस्तृतपार्श्वगम्|  |  पुरःपृष्ठपार्श्वगम्|  |
-| विवर्तितपार्श्वगम्| |  व्यत्यस्तपार्श्वगम्|  |
-|   वलितपार्श्वगम्|   | उत्क्षिप्तपार्श्वगम्|) |
-| कुञ्चितपार्श्वमम्|  |                       |
+| | |
+|:---------------:|:----------------:|
+| समपार्श्वगम्। | अञ्चितपार्श्वगम्। |
+| विषमपार्श्वगम्। | सूचीपार्श्वगम्। |
+| वक्रपार्श्वगम्। | पार्ष्णिपार्श्वगम्। |
+| तिरश्रीनपार्श्वगम्। | पार्श्वपार्श्वगम्। |
+| विस्तृतपार्श्वगम्। | पुरःपृष्ठपार्श्वगम्। |
+| विवर्तितपार्श्वगम्। | व्यत्यस्तपार्श्वगम्। |
+| वलितपार्श्वगम्। | उत्क्षिप्तपार्श्वगम्।) |
+| कुञ्चितपार्श्वमम्। | |
 
 ***पार्श्वगं १५***
 
  इन्द्रियाणां तद्विषयाणां च रसाभिव्यञ्जकत्वप्रतिपादनम्।
 
-|                  |                    |
-|:----------------:|:------------------:|
-|    समवक्रगम्|    |   अञ्चितवक्रगम्|   |
-|   विषमवक्रगम्|   |    सूचीवक्रगम्|    |
-|   वक्रवक्रगम्|   |  पार्ष्णिवक्रगम्|  |
-| तिरश्चीनवक्रगम्| |  पार्श्ववक्रगम्|   |
-| विस्तृतवक्रगम्|  |  पुःपृष्ठवक्रगम्|  |
-| विवर्तितवक्रगम्| | व्यत्यस्तवक्रगम्|  |
-|   वलितवक्रगम्|   | उत्क्षिप्तवक्रगम्| |
-| कुञ्चितवक्रगम्|  |                   |
+| | |
+|:-------------:|:-------------:|
+| समवक्रगम्। | अञ्चितवक्रगम्। |
+| विषमवक्रगम्। | सूचीवक्रगम्। |
+| वक्रवक्रगम्। | पार्ष्णिवक्रगम्। |
+| तिरश्चीनवक्रगम्। | पार्श्ववक्रगम्। |
+| विस्तृतवक्रगम्। | पुःपृष्ठवक्रगम्। |
+| विवर्तितवक्रगम्। | व्यत्यस्तवक्रगम्। |
+| वलितवक्रगम्। | उत्क्षिप्तवक्रगम्। |
+| कुञ्चितवक्रगम्। | |
 
 **वक्रगं १५**
 
-स्थिराणामस्थिराणांपदानापरस्परसंयोगेनउत्पन्नानिपदकर्माणिद्विशताधिकचत्वारिंशत्सङ्ख्याकानि उक्तानि।
+स्थिराणामस्थिराणाम्पदानापरस्परसंयोगेनउत्पन्नानिपदकर्माणि द्विशताधिकचत्वारिंशत्सङ्ख्याकानि उक्तानि।
 
-**श्रीवञ्चिराजकुलशेखररामवर्म–संजातहर्षहृदयाम्बुजचिन्तितेऽस्मिन्।  
+**श्रीवञ्चिराजकुलशेखररामवर्म–सञ्जातहर्षहृदयाम्बुजचिन्तितेऽस्मिन्।  
 लोकोपकारकृतनाट्यविशेषतन्त्रे  
 श्रीबालरामभरतेऽङ्गकृतिः समग्रा॥१०१॥**
 
 **———————**
 
- एतावता ग्रन्थेन अङ्गेषु चिन्तितः शब्दभावः भावरसार्थक्रियारूपः। शब्दरूपेणार्थरूपेण चाष्टविधोऽपि तत्तत्कार्येषु विनियुज्यते। तथाहि शिरसि (शब्दभावः) अर्थभावः, नयनयोरपि शब्दभावः अर्थभावः, हस्तयोश्च शब्दभावः अर्थभावः, पदयोरपि शब्दभावः अर्थभावः, भावप्रधानतया विचारितः। इदानीं रसप्रधानतया विचार्यते, रसज्ञानं विना उपाङ्गानां प्रयोजनाभावात्। ततश्च रसनिरूपणमेव कर्तव्यम्। तदपि फलमुखेन चारणीयम्। फलं तु रसरूपम्। रसस्तु द्विविधः स्थायिभावः सञ्चारिभावश्चेति। स च भावः इन्द्रियादिभिरेव प्रकाशते। इन्द्रियादिष्वधिष्ठितो रसः वृत्तिज्ञानाश्रितः विषयेष्वपि भावमुखेन प्रकाशते। तदपि विचारितप्रायम्। उपाङ्गमिति संज्ञया किं विचार्यते। अङ्गविचारानन्तरमुपाङ्ग विनियोगश्चिन्त्यत इति। सत्यम्। भावाभिनये इन्द्रियादिभिरभिनयः रसरूपः अर्थादेव सामान्यरूपेण दर्शितः। इदानीम् उपाङ्गेषु विशेषरूपेण चिन्त्यते। ननु अङ्गेषु प्रधानं शिरः। उपाङ्गं नयनादि शिरोभेदभावेनैव नेत्रादिभावोऽपि अर्थात् प्रकाशत इति किमर्थमुपाङ्गचिन्ता। भावरसयोरेकविषयत्वात्। न च एकविषयत्वेऽपि शृङ्गारादिनवरसानां ज्ञानेन्द्रियविषयत्वात् इन्द्रियादिभिरेव रसज्ञानं सम्भवतीति प्रत्येकमेव चिन्तेति वाच्यम्। ‘यतो मनस्ततो भाव' इति सामान्यशास्त्रे भावज्ञानेनैव रसज्ञानस्यापि सम्भवात्। ननु भावस्तु सर्वाङ्गविषयः, रसस्तु ज्ञानेन्द्रियविषय इति भेदसत्त्वात् विशेषचिन्तेति चेन्न। सर्वाङ्गमध्ये ज्ञानेन्द्रियस्याप्येकत्वात्। ननु भावो नाम आत्मधर्मः। रसो नाम इन्द्रियादिवेद्यः आत्मजन्यगुण इति भेदसत्त्वात्शिरोभावप्रकटने स्वात्मनिष्ठगुणानाम् अप्रकाश्यत्वात् गुणभेदग्रहणार्थम् इन्द्रियादिभिरेव उपाङ्गं प्रत्यङ्गमिति भेदचिन्ता। कर्मेन्द्रियादिभिरर्थक्रियागुणनिरूपणं तु विशेषरूपेण प्रत्यङ्गे वक्ष्यामः। ज्ञानेन्द्रियादिभिः श्रोत्रत्वक्चक्षुर्जिह्वाघ्राणादिभिः करणैरेव रसः निरूप्यते। इन्द्रियग्राह्याः शब्दस्पर्शरूपरसगन्धादयः। शब्दग्राहकमिन्द्रियं श्रोत्रम्।यदा शब्दो गृह्यते तदा शब्दनिष्ठगुणागुणभेदोऽपि गृह्यते। तथाहि मधुरशब्देन शृङ्गारः। क्रूरशब्देन कोपः। दीनशब्देन करुणा। उत्तमशब्देन अद्भुतः। निकृष्टशब्देन बीभत्सः। हुङ्कारशब्देन भयम्। निन्दितशब्देन रौद्रः। विनोदशब्देन हास्यम्। स्वभावशब्देन शान्तिः।
+ एतावता ग्रन्थेन अङ्गेषु चिन्तितः शब्दभावः भावरसार्थक्रियारूपः। शब्दरूपेणार्थरूपेण चाष्टविधोऽपि तत्तत्कार्येषु विनियुज्यते। तथाहि शिरसि (शब्दभावः) अर्थभावः, नयनयोरपि शब्दभावः अर्थभावः, हस्तयोश्च शब्दभावः अर्थभावः, पदयोरपि शब्दभावः अर्थभावः, भावप्रधानतया विचारितः। इदानीं रसप्रधानतया विचार्यते, रसज्ञानं विना उपाङ्गानां प्रयोजनाभावात्। ततश्च रसनिरूपणमेव कर्तव्यम्। तदपि फलमुखेन चारणीयम्। फलं तु रसरूपम्। रसस्तु द्विविधः स्थायिभावः सञ्चारिभावश्चेति। स च भावः इन्द्रियादिभिरेव प्रकाशते। इन्द्रियादिष्वधिष्ठितो रसः वृत्तिज्ञानाश्रितः विषयेष्वपि भावमुखेन प्रकाशते। तदपि विचारितप्रायम्। उपाङ्गमिति सञ्ज्ञया किं विचार्यते। अङ्गविचारानन्तरमुपाङ्ग विनियोगश्चिन्त्यत इति। सत्यम्। भावाभिनये इन्द्रियादिभिरभिनयः रसरूपः अर्थादेव सामान्यरूपेण दर्शितः। इदानीम् उपाङ्गेषु विशेषरूपेण चिन्त्यते। ननु अङ्गेषु प्रधानं शिरः। उपाङ्गं नयनादि शिरोभेदभावेनैव नेत्रादिभावोऽपि अर्थात् प्रकाशत इति किमर्थमुपाङ्गचिन्ता। भावरसयोरेकविषयत्वात्। न च एकविषयत्वेऽपि शृङ्गारादिनवरसानां ज्ञानेन्द्रियविषयत्वात् इन्द्रियादिभिरेव रसज्ञानं सम्भवतीति प्रत्येकमेव चिन्तेति वाच्यम्। ‘यतो मनस्ततो भाव' इति सामान्यशास्त्रे भावज्ञानेनैव रसज्ञानस्यापि सम्भवात्। ननु भावस्तु सर्वाङ्गविषयः, रसस्तु ज्ञानेन्द्रियविषय इति भेदसत्त्वात् विशेषचिन्तेति चेन्न। सर्वाङ्गमध्ये ज्ञानेन्द्रियस्याप्येकत्वात्। ननु भावो नाम आत्मधर्मः। रसो नाम इन्द्रियादिवेद्यः आत्मजन्यगुण इति भेदसत्त्वात्शिरोभावप्रकटने स्वात्मनिष्ठगुणानाम् अप्रकाश्यत्वात् गुणभेदग्रहणार्थम् इन्द्रियादिभिरेव उपाङ्गं प्रत्यङ्गमिति भेदचिन्ता। कर्मेन्द्रियादिभिरर्थक्रियागुणनिरूपणं तु विशेषरूपेण प्रत्यङ्गे वक्ष्यामः। ज्ञानेन्द्रियादिभिः श्रोत्रत्वक्चक्षुर्जिह्वाघ्राणादिभिः करणैरेव रसः निरूप्यते। इन्द्रियग्राह्याः शब्दस्पर्शरूपरसगन्धादयः। शब्दग्राहकमिन्द्रियं श्रोत्रम्। यदा शब्दो गृह्यते तदा शब्दनिष्ठगुणागुणभेदोऽपि गृह्यते। तथाहि मधुरशब्देन शृङ्गारः। क्रूरशब्देन कोपः। दीनशब्देन करुणा। उत्तमशब्देन अद्भुतः। निकृष्टशब्देन बीभत्सः। हुङ्कारशब्देन भयम्। निन्दितशब्देन रौद्रः। विनोदशब्देन हास्यम्। स्वभावशब्देन शान्तिः।
 
  एवं ध्वनेरपि रसोत्पत्तिः सम्भवति। शुकध्वनौ मधुरः। कोकिलध्वनौ अद्भुतः। पेचकध्वनौ भयम्। नकध्वनौ बीभत्सः। मयूरध्वनौ वीरः। कपोतध्वनौ करुणा। क्रौञ्चध्वनौ हास्यम्। प्लवध्वनौ कोपः। भारद्वाजध्वनौ शान्तिः। (प्लवः=താറാ. भारद्वाजः=ചെബോ.) एवं गीतश्रवणादपि रसोत्पत्तिः सम्भवति॥
 
  स्पर्शग्राहकमिन्द्रियं त्वक्। यदा स्पर्शो गृह्यते तदा स्पर्शनिष्ठशीतोष्णसुखदुःखादिकमपि गृह्यते। तथाहि शीतेन कम्पनं भयम्। उष्णेन तापः दुःखम्। समत्वे सुखं शृङ्गारः। सुखाधिके धैर्यं वीरता। वीरतायामद्भुतः आनन्दः। वस्त्रादिभिः शीतशान्तौ, शीतेन उष्णशान्तौ शान्तिरसः। वस्त्रादौ जीर्णे हास्यं बीभत्सश्च। एवं त्वगिन्द्रियेणापि रसोत्पत्तिः सम्भवति। वीणातन्त्रीषु अङ्गुलिसंयोगाद्, वेणुनादस्वरवाद्यादिषु फूत्कारेणाङ्गुलिविन्यासेनापि नादोत्पत्तौ रसोत्पत्तिः सम्भवति। एवं स्त्रीपुरुषयोरपि आलिङ्गनचुम्बननखक्षतादिभिः अतिविप्रलम्भहास्यशृङ्गारैश्च रसोत्पत्तिः सम्भवति।
 
- रूपग्राहकमिन्द्रयं चक्षुः। यदा रूपं गृह्यते तदा तभिष्टभेदोऽपि गृह्यते। तथाहि सुरूपदर्शने शृङ्गारः। प्रतिरूपदर्शने कोपः। अतिरूपदर्शने अद्भुतः। विरूपदर्शने हास्यं बीभत्सः भयं च। कुरूपदर्शने रौद्रः। सरूपदर्शने शान्तिः। अयमपि रसः द्विरूपेण वर्तते चेतनाचेतनभेदेन।चेतने मनुष्यादिषु चतुष्पात्सु गोमृगगजाश्वखरशुनकव्याघ्रतरक्ष्वादिषु (अचेतने) प्रतिमायां चित्रे च रूपादिदर्शनभेदेन नवरसोत्पत्तिः सम्भवति। पुत्रदारगुरुबन्धुमित्रामित्रसमदर्शनेन नवरसोत्पत्तिः सम्भवति। गृहक्षेत्रवित्तकनकरजतरत्नादिलाभे सन्तोषः शृङ्गारः। अधिके उत्साहः वीरता। उत्तमद्रव्यलाभे अद्भुतः। नष्टे करुणा रौद्रश्च। दुष्टे बीभत्सः। राजचोराक्रमणे भयम्। धूर्तव्यये हास्यम्। त्यागे शान्तिः।
+ रूपग्राहकमिन्द्रयं चक्षुः। यदा रूपं गृह्यते तदा तभिष्टभेदोऽपि गृह्यते। तथाहि सुरूपदर्शने शृङ्गारः। प्रतिरूपदर्शने कोपः। अतिरूपदर्शने अद्भुतः। विरूपदर्शने हास्यं बीभत्सः भयं च। कुरूपदर्शने रौद्रः। सरूपदर्शने शान्तिः। अयमपि रसः द्विरूपेण वर्तते चेतनाचेतनभेदेन। चेतने मनुष्यादिषु चतुष्पात्सु गोमृगगजाश्वखरशुनकव्याघ्रतरक्ष्वादिषु (अचेतने) प्रतिमायां चित्रे च रूपादिदर्शनभेदेन नवरसोत्पत्तिः सम्भवति। पुत्रदारगुरुबन्धुमित्रामित्रसमदर्शनेन नवरसोत्पत्तिः सम्भवति। गृहक्षेत्रवित्तकनकरजतरत्नादिलाभे सन्तोषः शृङ्गारः। अधिके उत्साहः वीरता। उत्तमद्रव्यलाभे अद्भुतः। नष्टे करुणा रौद्रश्च। दुष्टे बीभत्सः। राजचोराक्रमणे भयम्। धूर्तव्यये हास्यम्। त्यागे शान्तिः।
 
  एवं रसनेन्द्रिये षड्रसान्नवरसोत्पत्तिः। रसग्राहकमिन्द्रियं रसना। यदा रसो गृह्यते तदा रसनिष्ठभेदोऽपि गृह्यते। तथाहि मधुररसास्वादने शृङ्गारः। मधुराधिक्ये मदः गर्वः। अद्भुतमधुरभक्षणे अद्भुतः। मधुरे दुष्टे बीभत्सः। विषसंयुक्तमधुरे भयम्। रसहीनमधुरे हास्यम्। मधुराभावे करुणा। मधुरापहरणे रौद्रम्। मधुरत्यागे शान्तिः। एवं षड्रसादपि नवरसोत्पत्तिः सम्भवति।
 
- एवं घ्राणेन्द्रियादपि नवरसोत्पत्तिः। गन्धग्राहकमिन्द्रियं घ्राणम्। यदा गन्धो गृह्यते तदा तन्निष्ठसौरभमपि गृह्यते। तथाहि मालतीचम्पकाघ्राणे कस्तूरीमृगमदाघ्राणे च शृङ्गारः। गन्धाधिक्ये गर्वोमदः। अतिगन्धाघ्राणे अद्भुतः। नानागन्धाघ्राणने हास्यम्। दुर्गन्धाघ्राणने बीभत्सः। गन्धनाशे कोपः दुःखं च। व्याघ्रगन्धाघ्राणने भयम्। निर्गन्धाघ्राणने शान्तिः। एवं ज्ञानेन्द्रियैः पञ्चभिरपि रसोत्पत्तिचिन्तिता॥
+ एवं घ्राणेन्द्रियादपि नवरसोत्पत्तिः। गन्धग्राहकमिन्द्रियं घ्राणम्। यदा गन्धो गृह्यते तदा तन्निष्ठसौरभमपि गृह्यते। तथाहि मालतीचम्पकाघ्राणे कस्तूरीमृगमदाघ्राणे च शृङ्गारः। गन्धाधिक्ये गर्वो मदः। अतिगन्धाघ्राणे अद्भुतः। नानागन्धाघ्राणने हास्यम्। दुर्गन्धाघ्राणने बीभत्सः। गन्धनाशे कोपः दुःखं च। व्याघ्रगन्धाघ्राणने भयम्। निर्गन्धाघ्राणने शान्तिः। एवं ज्ञानेन्द्रियैः पञ्चभिरपि रसोत्पत्तिचिन्तिता॥
 
  इदानीं कर्मेन्द्रियैर्वाक्पाणिपादैरपि रसोत्पत्तिश्चिन्त्यते। वचनादानगमनानि फलम्। फलैरेव विनियोगः। तथाहि सत्कथालापे शृङ्गारः। असत्कथालापे बीभत्सः। शत्रुकथालापे कोपः। चित्रकथालापे अद्भुतः। विटकथालापे हास्यम्। चोरव्याघ्रसर्पादिकथालापे भयम्। रामायणादिकथालापे विश्वासः दया। अनिष्टकथालापे दुःखम्। विवेककथालापे शान्तिः। प्रमोदवचने शृङ्गारः। वीरवादे वीरः। अद्भुतवाक्ये अद्भुतः। परिहासवाक्ये हास्यम्। सङ्कटवाक्ये दुःखम्। निग्रहवाक्ये भयम्। अनुग्रहवाक्ये दया। अधिक्षेपवाक्ये बीभत्सः। उपरतिवाक्ये शान्तिः। शुभवार्तायां शृङ्गारः। अशुभवार्तायां करुणा। जयवार्तायां वीरः। अतिशुभवार्तायामद्भुतः। अनर्थवार्तायां कोपः। विरुद्धवार्तायां बीभत्सः। अप्रियवार्तायाम् अपहासः। प्रियवातायां विहसितम्। अपवादवार्तायां भयम्। निर्दोषवार्तायां शान्तिः।
 
- एवं हस्तव्यापारयोरपि नवरसोऽस्ति। रसचेष्टायां भृङ्गारः। विरसचेष्टायां विरोधः। रसाभासचेष्टायां बीभत्सः। रसाद्भुतचेष्टायाम् अद्भुतः। वीररसचेष्टायां वीरः। इङ्गितचेष्टायां हास्यम्। सङ्कटचेष्टायां दुःखं भयं च। सङ्कटरहितचेष्टायां शान्तिः। मङ्गलद्रव्यादाने शृङ्गारः। अमङ्गलद्रव्यदाने कोपः। अधिकद्रव्यप्रदाने वीरः। अतिशयवस्तुप्रदाने अद्भुतः। कुत्सितद्रव्यप्रदाने बीभत्सः। विषद्रव्यप्रदाने भयम्। निष्फलद्रव्यप्रदाने हास्यम्। संकटद्रव्यप्रदाने करुणा। सम्मतद्रव्यप्रदाने शान्तिः। सुखदुःखयोरालिङ्गनम्। कोपे च ताडनम्। बीभत्से धिक्कारः। दैन्ये च याचनम्। भये वीरभावः धैर्यं च। अद्भुते श्लाघनम्। शान्तावुपचारः।
+ एवं हस्तव्यापारयोरपि नवरसोऽस्ति। रसचेष्टायां भृङ्गारः। विरसचेष्टायां विरोधः। रसाभासचेष्टायां बीभत्सः। रसाद्भुतचेष्टायाम् अद्भुतः। वीररसचेष्टायां वीरः। इङ्गितचेष्टायां हास्यम्। सङ्कटचेष्टायां दुःखं भयं च। सङ्कटरहितचेष्टायां शान्तिः। मङ्गलद्रव्यादाने शृङ्गारः। अमङ्गलद्रव्यदाने कोपः। अधिकद्रव्यप्रदाने वीरः। अतिशयवस्तुप्रदाने अद्भुतः। कुत्सितद्रव्यप्रदाने बीभत्सः। विषद्रव्यप्रदाने भयम्। निष्फलद्रव्यप्रदाने हास्यम्। सङ्कटद्रव्यप्रदाने करुणा। सम्मतद्रव्यप्रदाने शान्तिः। सुखदुःखयोरालिङ्गनम्। कोपे च ताडनम्। बीभत्से धिक्कारः। दैन्ये च याचनम्। भये वीरभावः धैर्यं च। अद्भुते श्लाघनम्। शान्तावुपचारः।
 
  एवं पदव्यापारयोरपि नवरसोऽस्ति। राजवीथीगमने शृङ्गारः। उल्लासगमने अद्भुतः। युद्धरङ्गगमने वीरः। कण्टकमार्गगमने करुणा। वेश्यावीथीगमने हास्यम्। शत्रुवीथीगमने कोपः। चोरमार्गगमने भयम्। सङ्कटमार्गगमने बीभत्सः स्वेच्छागमने शान्तिः॥
 
- एवमात्मन्यपि नवरसोऽस्ति। इष्टप्राप्तौ शृङ्गारः। अनिष्टप्राप्तौ करुणा। (अभीष्टा[^5]?)। अभीष्टाधिके वीरः। अभीष्टसम्पूर्णे अद्भुतः। इष्टपरित्यागे बीभत्सः। इष्टविरुद्धफलेहास्यम्। इष्टानिष्टसमे शान्तिः। एवं कर्मेन्द्रियैरात्मना च नवरसो निरूपितः। एवमुक्तानां नवरसानां उक्तेषु इन्द्रियेषु विषयेषु च लक्ष्यलक्षणभावचिन्तने गौरवात् उपाङ्गेष्वेव लक्ष्यलक्षणचिन्ता॥
+ एवमात्मन्यपि नवरसोऽस्ति। इष्टप्राप्तौ शृङ्गारः। अनिष्टप्राप्तौ करुणा। (अभीष्टा[^7]?)। अभीष्टाधिके वीरः। अभीष्टसम्पूर्णे अद्भुतः। इष्टपरित्यागे बीभत्सः। इष्टविरुद्धफले हास्यम्। इष्टानिष्टसमे शान्तिः। एवं कर्मेन्द्रियैरात्मना च नवरसो निरूपितः। एवमुक्तानां नवरसानाम् उक्तेषु इन्द्रियेषु विषयेषु च लक्ष्यलक्षणभावचिन्तने गौरवात् उपाङ्गेष्वेव लक्ष्यलक्षणचिन्ता॥
 
-[^5]: "इहभयानकरौद्रयोर्विवरणस्यादर्शनात् कियांश्चिद् ग्रन्थलोपः सम्भाव्यते।"
+[^7]: # "इह भयानकरौद्रयोर्विवरणस्यादर्शनात् कियांश्चिद् ग्रन्थलोपः सम्भाव्यते।"
 
 **शुभाङ्गशोभिवरवञ्चिभूपते–  
 रपाङ्गभावरसतः समुज्ज्वले।  
@@ -5537,7 +5558,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **श्वासोष्ठदन्तजिह्वास्यमुखरागाश्च षट् परे।  
 अङ्गाङ्गानीति च प्राहुरार्थिकानीति केचन॥३॥**
 
-**ललाटश्च हनूकर्णौ चार्थिकानि मतद्वये।  
+**ललाटश्च हनू कर्णौ चार्थिकानि मतद्वये।  
 लक्ष्यलक्षणभावस्तु त्रयाणां न प्रवर्तते॥४॥**
 
 **विनियोगविशेषो हि कारणं लक्षणोद्भवे।  
@@ -5554,7 +5575,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **एकं भावं हृदि स्थाप्य बहुभावः प्रवर्त्तते।  
 तारकाणां च विन्यासाच्चलनादपि कम्पनात्॥८॥**
 
-**भावदृष्टिरिति प्रोक्ता संचारेऽनेकरूपतः।**
+**भावदृष्टिरिति प्रोक्ता सञ्चारेऽनेकरूपतः।**
 
  विनियोगः–
 
@@ -5694,7 +5715,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  एवमुक्तेषु नवरसेषु दृष्टिभेदश्चिन्त्यते।
 
 **कान्ता हास्या च करुणा रौद्री वीरा भयानका।  
-बीभत्सा चाद्भुतेत्येवमष्टौच रसदृष्टयः॥३७॥**
+बीभत्सा चाद्भुतेत्येवमष्टौ च रसदृष्टयः॥३७॥**
 
  एतासां लक्षणविनियोगश्चिन्त्यते।
 
@@ -5786,9 +5807,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  करुणादृष्टेर्लक्षणमाह–
 
-**उपर्यधश्चपतितपुटा सास्रांतिमन्थरा।  
+**उपर्यधश्च पतितपुटा सास्रान्तिमन्थरा।  
 नासाग्रालोकनं कृत्वा शोकपर्याकुला मुहुः॥ ६१॥  
-तारकाग्लानिसंक्षीणा करुणा दृष्टिरुच्यते।**
+तारकाग्लानिसङ्क्षीणा करुणा दृष्टिरुच्यते।**
 
  विनियोगः–
 
@@ -5819,7 +5840,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विभावद्दष्टेर्विनियोगः–
 
 **शत्रुनाशे सुखोत्पत्तौ भयं नास्तीति चिन्तने।  
-शत्रोरनिष्टसम्प्राप्तौबहिर्दुःखप्रदर्शने॥६९॥**
+शत्रोरनिष्टसम्प्राप्तौ बहिर्दुःखप्रदर्शने॥६९॥**
 
  अनुभावस्य विनियोगः–
 
@@ -5844,16 +5865,16 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **सम्यग्वृत्ताकृतिं कृत्वा पाटलश्चातिवक्रितः॥७३॥**
 
 **रेणुभिर्दूषित इव प्रस्फुटः कृष्णतारकः।  
-ऊर्ध्वभागगतिं कृत्वा निश्चलोहुंकृताकृतिः॥७४॥  
+ऊर्ध्वभागगतिं कृत्वा निश्चलो हुङ्कृताकृतिः॥७४॥  
 मनसा कृतकार्याणामेको भ्रूमूलचालितः।  
-तद्भ्रूमूलेन हुंकृत्य मर्मकृन्तनकारिणि॥७५॥**
+तद्भ्रूमूलेन हुङ्कृत्य मर्मकृन्तनकारिणि॥७५॥**
 
 **रौद्री दृष्टिरिति प्रोक्ता नृत्ततन्त्रविचक्षणैः।**
 
  विनियोगः–
 
-**कृतकार्यस्मृतिं कृत्वा हुंकृत्य रिपुखण्डने॥७६॥  
-मानेन प्राणसंत्याज्ये सर्वार्थहरणेषु च।**
+**कृतकार्यस्मृतिं कृत्वा हुङ्कृत्य रिपुखण्डने॥७६॥  
+मानेन प्राणसन्त्याज्ये सर्वार्थहरणेषु च।**
 
  विभावानुभावरौद्रदृष्टेर्लक्षणमाह–
 
@@ -5893,7 +5914,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विभावानुभाववीरदृष्टेर्लक्षणमाह–
 
-**किञ्चिदावेगवलनात् पार्श्वयोश्चगतागता।  
+**किञ्चिदावेगवलनात् पार्श्वयोश्च गतागता।  
 आयतापाङ्गविश्रान्ततारका ललितोज्ज्वला॥८५॥**
 
 **अनुभावविभावाख्या वीरा दृष्टिरिति स्मृता।**
@@ -6022,7 +6043,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विभावानुभावाद्भुतदृष्टेर्लक्षणमाह–
 
 **बहिर्विस्तारितपुटा किञ्चिच्चलिततारका।  
-अनुभावो विभावश्चद्विधादृष्टिः स्मृताद्भुता॥११७॥**
+अनुभावो विभावश्च द्विधा दृष्टिः स्मृताद्भुता॥११७॥**
 
  अनुभावविनियोगः–
 
@@ -6085,8 +6106,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 विप्लुता शङ्किता शून्या विषण्णा लज्जिता तथा।  
 आकेकरा च मदिरा सङ्कोचा च वितर्किता॥१३२॥**
 
-**ग्लाना च निन्दिता जिह्मातप्ता भ्रष्टा च धिक्कृता।  
-रसाभासेषु विषयाभासदृष्टिर्हिविंशतिः॥१३३॥**
+**ग्लाना च निन्दिता जिह्मा तप्ता भ्रष्टा च धिक्कृता।  
+रसाभासेषु विषयाभासदृष्टिर्हि विंशतिः॥१३३॥**
 
  ललितादृष्टेर्लक्षणमाह–
 
@@ -6212,7 +6233,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  व्याकोशविनियोगः–
 
-**अभिमानेऽप्यहङ्कारे गर्वेमानेन वीक्षणे॥१६९॥  
+**अभिमानेऽप्यहङ्कारे गर्वे मानेन वीक्षणे॥१६९॥  
 वीर्ये प्रभावे शौर्ये च व्याकोशो विनियुज्यते।**
 
  मदिरादृष्टेर्लक्षणमाह–
@@ -6252,7 +6273,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**तर्केकलहवार्तायां संशयज्ञानभाषणे।  
+**तर्के कलहवार्तायां संशयज्ञानभाषणे।  
 खलमूर्खादिवार्तायां तर्किता विनियुज्यते॥१६९॥**
 
  ग्लानादृष्टेर्लक्षणमाह–
@@ -6268,7 +6289,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  निन्दितादृष्टेर्लक्षणमाह–
 
 **अन्तःप्रविष्टताराग्राद् बहिः स्फुरणगोचरा।  
-तारका निन्दिता दृष्टिर्नाट्येतु परिकीर्तिता॥१७२॥**
+तारका निन्दिता दृष्टिर्नाट्ये तु परिकीर्तिता॥१७२॥**
 
  विनियोगः–
 
@@ -6290,12 +6311,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  मतान्तरेण जिह्मादृष्टेर्लक्षणमाह–
 
 **निकुञ्चितपुटा तारा तिर्यक्चलितसुन्दरा॥१७६॥  
-भ्रुकुटी रेचिता किञ्चित् जिह्मादृष्टिः प्रकीर्तिता।**
+भ्रुकुटी रेचिता किञ्चित् जिह्मा दृष्टिः प्रकीर्तिता।**
 
  विनियोगः–
 
 **दुष्प्रेक्षे रत्नकिरणे महाकान्तिनिरीक्षणे॥१७७॥  
-अक्षिरोगेण सङ्कोचे जिह्मादृष्टिर्नियुज्यते।**
+अक्षिरोगेण सङ्कोचे जिह्मा दृष्टिर्नियुज्यते।**
 
  तप्तादृष्टेर्लक्षणमाह–
 
@@ -6339,7 +6360,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  मतान्तरेण दृष्टिभेदश्चिन्त्यते। रसेषु अक्षिमूलका जलभूपशुपक्षिणो निरूप्यन्ते—
 
-**एणः सिंहश्चगरुडो गौर्मार्जारस्तथैव च।  
+**एणः सिंहश्च गरुडो गौर्मार्जारस्तथैव च।  
 काकः शफरसारङ्गौ नीलवानर एव च॥१८७॥**
 
 **एते रसप्रमाणेषु दृष्टिमूलाः प्रदर्शिताः।  
@@ -6355,7 +6376,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 स्थूलसूक्ष्मसमैर्भावैर्दृष्टयस्त्रिविधाः स्मृताः॥१९९॥**
 
 **स्थूलस्तु दूरविषयः सूक्ष्मः सन्निधिगोचरः।  
-उभयोर्मध्यविषयः समश्चपरिकीर्तितः॥१९२॥**
+उभयोर्मध्यविषयः समश्च परिकीर्तितः॥१९२॥**
 
  एतेषां लक्ष्यलक्षणविनियोगश्चिन्त्यते–
 
@@ -6449,14 +6470,14 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विषयाभिमुखानि तारकर्माण्युक्तानि। इदानीं स्वनिष्ठतारकर्माणि निरूप्यन्ते। तानि कानीत्याकाङ्क्षायामाह–
 
 **भ्रमणं वलनं पातश्चलनं च प्रवेशनम्।  
-विवर्तनं समोद्वृत्तौ निष्क्रामोनवधा क्रिया॥२२२॥**
+विवर्तनं समोद्वृत्तौ निष्क्रामो नवधा क्रिया॥२२२॥**
 
  एतेषां लक्ष्यलक्षणभावश्चिन्त्यते।
 
  भ्रमणस्य लक्षणमाह–
 
 **मण्डलाकारतो भ्रान्तिस्तारयोर्गोलकान्तरे।  
-चक्राकारतयाचाक्षिलोम सम्यक् प्रसारितम्॥२२३॥  
+चक्राकारतया चाक्षिलोम सम्यक् प्रसारितम्॥२२३॥  
 भ्रमणं तदिति ज्ञेयं भरते रसवेदिभिः।**
 
  विनियोगः–
@@ -6520,7 +6541,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**इङ्गिते च निषेधे च संज्ञया जनभाषणे।**
+**इङ्गिते च निषेधे च सञ्ज्ञया जनभाषणे।**
 
  समस्य लक्षणमाह–
 
@@ -6529,7 +6550,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः–
 
-**समे स्वभावे च सुखे ध्याने शान्तिरसेतथा॥२३६॥**
+**समे स्वभावे च सुखे ध्याने शान्तिरसे तथा॥२३६॥**
 
  उद्वृत्तलक्षणमाह–
 
@@ -6543,7 +6564,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  निष्क्रामलक्षणमाह–
 
 **स्वस्थानात् कार्यमुद्दिश्य बहिर्निष्क्रान्ततारका॥२३८॥  
-निष्क्राम इति स प्रोक्तो नाट्येच रसवेदिभिः।**
+निष्क्राम इति स प्रोक्तो नाट्ये च रसवेदिभिः।**
 
  विनियोगः–
 
@@ -6569,7 +6590,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  कुञ्चितस्य लक्षणमाह–
 
 **अतिस्थूलाकृतिपुटौ तारयोरुपरि स्थितौ।  
-निष्पन्दपक्ष्मलौ नाट्येकुञ्चितौ परिकीर्तितौ॥२४४॥**
+निष्पन्दपक्ष्मलौ नाट्ये कुञ्चितौ परिकीर्तितौ॥२४४॥**
 
  विनियोगः–
 
@@ -6578,8 +6599,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  उन्मेषितपुटस्य लक्षणमाह–
 
-**पुटाक्षिलोमनी तावदूर्ध्वाग्रेचानिमेषगे।  
-स्तब्धे च तारके नाट्येचोन्मेषितपुटौ स्मृतौ॥२४॥**
+**पुटाक्षिलोमनी तावदूर्ध्वाग्रे चानिमेषगे।  
+स्तब्धे च तारके नाट्ये चोन्मेषितपुटौ स्मृतौ॥२४॥**
 
  विनियोगः–
 
@@ -6644,7 +6665,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**हास्ये च चौर्ये च भये संज्ञायां रोगवीक्षणे॥२५८॥**
+**हास्ये च चौर्ये च भये सञ्ज्ञायां रोगवीक्षणे॥२५८॥**
 
  समस्य लक्षणमाह—
 
@@ -6704,7 +6725,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  चञ्चलदृटेर्लक्षणमाह—
 
 **भयसङ्कटभावस्तु छन्नोऽपि दृष्टिसङ्गतः।  
-अकृताक्षिनिमेषेण चान्तर्ल्लींना च तारका॥२७१॥  
+अकृताक्षिनिमेषेण चान्तर्ल्लीन्ना च तारका॥२७१॥  
 चञ्चला दृष्टिरित्युक्ता भरतागमवेदिभिः।**
 
 उपाङ्गेषु मतान्तरेण भावदृष्टयः।
@@ -6722,7 +6743,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **अहमेव महाराजस्त्वहमेव हि रूपवान्॥२७४॥  
-अहमेव समर्थश्चमदन्यो नास्ति भूतले।  
+अहमेव समर्थश्च मदन्यो नास्ति भूतले।  
 आयता दृष्टितेषु कार्येषु विनियुज्यते॥२७५॥**
 
  घोरदृष्टेर्लक्षणमाह—
@@ -6732,13 +6753,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**हुंकृत्या रिपुवीक्षायां कोपेनाप्रियवादिनि।  
+**हुङ्कृत्या रिपुवीक्षायां कोपेनाप्रियवादिनि।  
 आत्मन्यसह्यकोपे च घोरा दृष्टिर्नियुज्यते॥२७७॥**
 
  मन्ददृष्टेर्लक्षणमाह—
 
 **आन्तरो मन्दभावश्चेदलसादक्षिसङ्गतः।  
-संक्षीणतारका दृष्टिर्मन्ददृष्टिरिति स्मृता॥२७८॥**
+सङ्क्षीणतारका दृष्टिर्मन्ददृष्टिरिति स्मृता॥२७८॥**
 
  विनियोगः—
 
@@ -6759,7 +6780,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  काकुदृष्टेर्लक्षणमाह—
 
 **प्रकृतिस्थो हि यो भावो विकल्प नयनं गतः।  
-स्वकीयः परकीयो वाकाकुदृष्टिरिति स्मृतः॥२८२॥**
+स्वकीयः परकीयो वा काकुदृष्टिरिति स्मृतः॥२८२॥**
 
  विनियोगः—
 
@@ -6880,7 +6901,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **शोषणं दाहनं चैव प्लावनं वश्यमेव च॥३०९॥  
 स्तम्भनाकर्षण चैव मोहनोन्मादनं तथा।  
-विद्रावणं चेति फलदृष्टयोनवधा स्मृताः॥३१०॥**
+विद्रावणं चेति फलदृष्टयो नवधा स्मृताः॥३१०॥**
 
  एतेषां हेतुस्वरूपमाह—
 
@@ -6944,7 +6965,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**अग्निस्तम्भेजलस्तम्भे वायुस्तम्ये च बन्धने॥३२५॥  
+**अग्निस्तम्भे जलस्तम्भे वायुस्तम्ये च बन्धने॥३२५॥  
 मृगपक्षिपशूनां च व्याघ्राणां चापि बन्धने।  
 वाग्बन्धने नराणां च बन्धने विनियुज्यते॥३२६॥**
 
@@ -6989,7 +7010,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**मात्रा पित्रा च संत्यक्ते राजकोपेन विद्रुते।  
+**मात्रा पित्रा च सन्त्यक्ते राजकोपेन विद्रुते।  
 अपराधकृते मित्रे नाट्ये हि विनियुज्यते॥३३६॥  
 हास्यनिन्दादीनामनुभवोऽपि स्पष्टः।**
 
@@ -7174,7 +7195,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  चतुरालक्षणमाह—
 
-**विस्तार्य भ्रुकुटी सर्वां तिर्यगायतसुन्दरा॥१५॥  
+** विस्तार्य भ्रुकुटी सर्वां तिर्यगायतसुन्दरा॥१५॥  
 चतुरा भ्रुकुटी चेति कीर्तिता भरतागमे।**
 
  विनियोगः—
@@ -7295,7 +7316,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 बीभत्से कुञ्चिता च भ्रूः शान्तौ तु सहजा स्मृता।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥४४॥  
 बालराममहीपालचिन्तिताभिनये मुदा।  
-नाट्ये चैतेषु कार्येषु भ्रुकुटीविनियुज्यते॥४५॥**
+नाट्ये चैतेषु कार्येषु भ्रुकुटी विनियुज्यते॥४५॥**
 
  क्रमप्राप्तं नासिकालक्षणं लक्षयति—
 
@@ -7313,8 +7334,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**संज्ञया वचने काकुभाषणे प्रेरणे तथा।  
-सरसे संज्ञयाङ्गुल्या कृन्तने विरसे तथा॥५॥**
+**सञ्ज्ञया वचने काकुभाषणे प्रेरणे तथा।  
+सरसे सञ्ज्ञयाङ्गुल्या कृन्तने विरसे तथा॥५॥**
 
 उपाङ्गेषु नासिकाभेदाः।
 
@@ -7437,7 +7458,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  संश्लिष्टपुटनासिकालक्षणमाह—
 
-**किश्चित् संकोचभावेन संश्लिष्टपुटसंस्थिता।  
+**किश्चित् सङ्कोचभावेन संश्लिष्टपुटसंस्थिता।  
 संश्लिष्टपुटनासेति कीर्तिता भरतागमे॥३१॥**
 
  विनियोगः—
@@ -7530,7 +7551,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **दुर्गन्धस्य विसर्गे च कोपवाक्येन हुङ्कृतौ॥५१॥  
 अतिसङ्कटकार्ये च पीनसश्वासनिर्गमे।  
-हुंकृत्य वार्ताश्रवणे निरस्तो विनियुज्यते॥५२॥**
+हुङ्कृत्य वार्ताश्रवणे निरस्तो विनियुज्यते॥५२॥**
 
  प्रबद्धस्य लक्षणमाह—
 
@@ -7546,9 +7567,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **एतेषु विनियोगेषु बद्धश्वामो नियुज्यते।**
 
- उल्ललित[^6]लक्षणमाह—
+  उल्ललित[^8]लक्षणमाह—
 
-[^6]: "'उच्छ्वसित' इति पूर्वनुकम् ।"
+[^8]: # " 'उच्छ्वसित' इति पूर्वनुकम् ।"
 
 **गृहीतमन्दश्वासस्य लघुमार्गविसर्जनात्॥५६॥  
 श्वास उल्ललितः प्रोक्तो भरतागमवेदिभिः।**
@@ -7569,7 +7590,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **चूर्णादिकं गृहीत्वैव क्रमात् श्वासविसर्जने।  
 बलेनाकर्षणे तोये निमज्ज्योत्सृष्टमारुते॥६०॥  
 चिरकालेन च स्तब्धवायूनां क्रममोचने।  
-एतेषु विनियोगेषु विमुक्तोविनियुज्यते॥६१॥**
+एतेषु विनियोगेषु विमुक्तो विनियुज्यते॥६१॥**
 
  विस्मृतश्वासलक्षणमाह—
 
@@ -7764,12 +7785,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  कम्पितस्य लक्षणमाह—
 
 **स्फुरितौ तौ कपोलौ चेत् कम्पितौ च मुहुर्मुहुः।  
-कपोलौ कम्पितौज्ञेयौ भरतागमवेदिभिः॥१०॥**
+कपोलौ कम्पितौ ज्ञेयौ भरतागमवेदिभिः॥१०॥**
 
  विनियोगः—
 
 **केकेति हास्ये शृङ्गारचने चार्धसम्मते।  
-अङ्गीकारे निषेधेच कम्पितो विनियुज्यते॥११॥**
+अङ्गीकारे निषेधे च कम्पितो विनियुज्यते॥११॥**
 
  कुञ्चितस्य लक्षणमाह—
 
@@ -7806,8 +7827,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  क्षामस्य लक्षणमाह—
 
-**स्वभावतः कपोलौतौग्लानिभावं गतौ यदि॥१९॥  
-क्षामौतु तौ कपोलौ च कीर्तितौभरतागमे।**
+**स्वभावतः कपोलौ तौ ग्लानिभावं गतौ यदि॥१९॥  
+क्षामौ तु तौ कपोलौ च कीर्तितौ भरतागमे।**
 
  विनियोगः—
 
@@ -7846,11 +7867,11 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **नाट्ये शृङ्गारनटने सरसाभिनये तथा॥२७॥  
 वाक्प्रसङ्गे वितर्के च सल्लापे चानुमोदने।  
 दयायां याचने चैव निषेधे सम्मतेऽपि च॥२८॥  
-वीरावेशेन वचने चलौ नाट्येनियुज्यते।**
+वीरावेशेन वचने चलौ नाट्ये नियुज्यते।**
 
  उत्फुल्लस्य लक्षणमाह—
 
-**स्वभावतः कपोलौ चेदुत्फुल्लौमुखमण्डले॥२९॥  
+**स्वभावतः कपोलौ चेदुत्फुल्लौ मुखमण्डले॥२९॥  
 प्रसन्नवदनाकार उत्फुल्लाविति कीर्तितौ।**
 
  विनियोगः—
@@ -7900,7 +7921,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**मन्दहासे प्रसन्ने चस्वाधरोष्ठप्रदर्शने॥७॥  
+**मन्दहासे प्रसन्ने च स्वाधरोष्ठप्रदर्शने॥७॥  
 मरी (चि?च) भक्षणोत्पन्नविकारे कोपभाषणे।  
 वाक्प्रसङ्गे वितर्के च भूतावेशे नियुज्यते॥८॥**
 
@@ -7932,7 +7953,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **वार्तायां बृद्धतबने लक्षणे तथा  
-भोजने जलपाने च व्यवहार     ॥१४॥  
+भोजने जलपाने च व्यवहार ॥१४॥  
 एतेषु विनियोगेषु कम्पितै विनियुज्यते।**
 
  वक्रस्य लक्षणमाह—
@@ -7960,27 +7981,27 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  लोकस्य लक्षणमाह—
 
 **सम्पूर्ण चिबुकं तावल्लोलित सर्वतोमुखम्॥२०॥  
-लोलंचिबुकमित्युक्तं भरते रसवेदिभिः।**
+लोलं चिबुकमित्युक्तं भरते रसवेदिभिः।**
 
  विनियोगः—
 
 **दन्तहीनस्य पिष्टादेभक्षणे जलघूर्णने॥२१॥  
-पिशाचनिन्दने लेह्यलक्षणेविनियुज्यते।**
+पिशाचनिन्दने लेह्यलक्षणे विनियुज्यते।**
 
  वलितस्य लक्षणमाह—
 
-**स्वभावतश्चचिबुकं वलितंचैकमागतः॥२२॥  
+**स्वभावतश्च चिबुकं वलितं चैकमागतः॥२२॥  
 वलितं चिबुकं चेति कीर्तितं भरतागमे।**
 
  विनियोगः—
 
 **अनादरेण वचने निषेधे चाप्यसम्भते॥२३॥  
-गर्वेण निन्दने नाट्येवलितंविनियुज्यते।**
+गर्वेण निन्दने नाट्ये वलितं विनियुज्यते।**
 
  चलसंहतस्य लक्षणमाह—
 
 **चिबुकं चालवित्वैवन संहतं चेन्मुहुर्मुहुः॥२४॥  
-चलसंहतमित्युत्कंचिबुकं सरवागमे।**
+चलसंहतमित्युत्कं चिबुकं सरवागमे।**
 
  विनियोगः—
 
@@ -7997,13 +8018,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **कालीकरालवदने राक्षसीवदने तथा॥२८॥  
-कार्कोटकस्यवदने नृसिंहवदने तथा।  
+कार्कोटकस्य वदने नृसिंहवदने तथा।  
 परेण ताडने पूर्णकग्रहणे तथा॥२९॥  
 हाहाशब्देन नटने व्यादीर्णं विनियुज्यते।**
 
  दूरनिष्क्रामस्य लक्षणमाह—
 
-**दूरनिष्कमणंछत्वा कम्पयित्वा मुहुर्मुहुः॥३०॥  
+**दूरनिष्कमणं छत्वा कम्पयित्वा मुहुर्मुहुः॥३०॥  
 संयुतं चियुकं तावद् दूरनिष्काममुच्यते।**
 
  विनियोगः—
@@ -8019,7 +8040,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **परश्रियामसहने कोपे कुटिलवीक्षणे॥३३॥  
-वीरे रसे चाद्भुते च भये चविनियुज्यते।**
+वीरे रसे चाद्भुते च भये च विनियुज्यते।**
 
  संलग्रस्य लक्षणमाह—
 
@@ -8047,7 +8068,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **शृङ्गारवीरयोः श्लिष्टसंलग्रायद्भुतेऽपि च॥३९॥  
 वक्रं कोपे भये कम्पो मीलितं करुणारसे।  
-हास्ये च संहतं शान्तौ स्वमा(वो? वे) वलितं पुनः॥  
+हास्ये च संहतं शान्तौ स्वमा (वो? वे) वलितं पुनः॥  
 बीभत्से च रसे चैवं कीर्तितं रसवर्णनम्।  
 एवमादिविशेषेषु सरसामिलयेषु च॥४१॥  
 वालराममहीपालचिन्तितामिनये मुदा।  
@@ -8056,13 +8077,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  अधरस्य लक्षणमाह—
 
 **विवर्तित मुकुलितो विकासायतरेचिताः।  
-संदष्टको विसृष्टश्चकम्पितोविनिगूहितः॥१॥  
-उद्वृत्तश्चसमुद्रश्चपूत्कारो द्वादशाधराः।**
+सन्दष्टको विसृष्टश्च कम्पितो विनिगूहितः॥१॥  
+उद्वृत्तश्च समुद्रश्च पूत्कारो द्वादशाधराः।**
 
  एतेषां लक्षणविनियोगश्चिन्त्यते। विवर्तितस्य लक्षणमाह—
 
 **अधरोष्ठपुटः कश्चित् सङ्कोचेन विवर्तितः॥२॥  
-विवर्तितोऽधरःप्रोक्तो भरतागमवेदिभिः।**
+विवर्तितोऽधरः प्रोक्तो भरतागमवेदिभिः।**
 
  विनियोगः—
 
@@ -8089,7 +8110,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **मन्दस्मिते च शृङ्गारनटने गतिभेदतः॥८॥  
-खण्डने सौष्ठवाङ्गेचाभिनये रसमोदने।  
+खण्डने सौष्ठवाङ्गे चाभिनये रसमोदने।  
 इङ्गिते विनयाकारे प्रसन्ने विनियुज्यते॥९॥**
 
  आयतस्य लक्षणमाह—
@@ -8103,18 +8124,18 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 विलासोल्लासभावे च वक्रभावेन खण्डने॥११॥  
 एकतालानुकरणे पर्यायपदखण्डने।  
 शृङ्गाररससर्वस्वमिङ्गितेन प्रदर्शने॥१२॥  
-सरसे च नये नाट्ये चायतो विनियुज्यते। **
+सरसे च नये नाट्ये चायतो विनियुज्यते।**
 
  रेचितस्य लक्षणमाह—
 
-**स्वभावतोऽधरस्तावत् पार्श्वभागचलोयदि॥१३॥**  
+**स्वभावतोऽधरस्तावत् पार्श्वभागचलो यदि॥१३॥**  
 **रेचितः स तु विज्ञेयस्त्वधरो भरतागमे।**
 
  विनियोगः—
 
 **साभिप्रायेण वचने नर्मकर्मप्रदर्शने॥१४॥  
 इङ्गितार्थस्य वचने नयनेनैव भाषणे।  
-वारस्त्रीभिर्विटाह्वानेरेचितो विनियुज्यते॥१५॥ **
+वारस्त्रीभिर्विटाह्वाने रेचितो विनियुज्यते॥१५॥**
 
  सन्दष्टकस्य लक्षणमाह—
 
@@ -8151,7 +8172,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनिगूहितस्य लक्षणमाह—
 
-**आस्ये च वायुं सम्पूर्यपिहितश्चेद् दलद्वयात्॥२३॥  
+**आस्ये च वायुं सम्पूर्य पिहितश्चेद् दलद्वयात्॥२३॥  
 विनिगूहित इत्येवमधरः परिकीर्तितः।**
 
  विनियोगः—
@@ -8169,23 +8190,23 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **सुगन्धदुर्गन्धाघ्राणे विषमे विकृताकृतौ।  
 उद्वाहितास्यवचने दूरस्थजनवीक्षणे॥२७॥  
-विरूपहास्ये नटने चोद्वृत्तोविनियुज्यते।**
+विरूपहास्ये नटने चोद्वृत्तो विनियुज्यते।**
 
  समुद्नस्य लक्षणमाह—
 
 **दन्तपङ्क्त्यप्रकाशेन पुटस्तु विकृतो यदि॥२८॥  
-समुद्नःसोऽधरो ज्ञेयो भरते रसवेदिभिः।**
+समुद्नः सोऽधरो ज्ञेयो भरते रसवेदिभिः।**
 
  विनियोगः—
 
 **अन्तःसन्तोषभावेन रसोल्लासप्रदर्शने॥२९॥  
 सङ्कोचमन्दहासे च रसाधिकयप्रदर्शने।**
 
-**चुम्बने च रसास्वादे समुद्रोविनियुज्यते॥३०॥**
+**चुम्बने च रसास्वादे समुद्रो विनियुज्यते॥३०॥**
 
  पूत्कारस्य लक्षणमाह—
 
-**श्वासवायुं सुसंपूर्य मन्दं वा शीघ्रतोऽपि वा।  
+**श्वासवायुं सुसम्पूर्य मन्दं वा शीघ्रतोऽपि वा।  
 पूत्कृतो यदि पूत्कारस्त्वधरः परिकीर्तितः॥३१॥**
 
  विनियोगः—
@@ -8223,23 +8244,23 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**शरीरे शीतलेशीतरोगे शीतरसेऽपि च॥३९॥**
+**शरीरे शीतले शीतरोगे शीतरसेऽपि च॥३९॥**
 
 **शीतलोदकपाने च शीतो नाट्ये नियुज्यते।**
 
  मन्दोष्णस्य लक्षणमाह—
 
-**स्वभावतश्चवदनाद् बहिः श्वासो विनिर्गतः॥४०॥  
-मन्दोष्णश्वासइत्युक्तो भरतै रसवेदिभिः।**
+**स्वभावतश्च वदनाद् बहिः श्वासो विनिर्गतः॥४०॥  
+मन्दोष्णश्वास इत्युक्तो भरतै रसवेदिभिः।**
 
  विनियोगः—
 
 **स्वस्थे स्वभावे रोगादिवर्जिते शरलक्षणे॥४१॥  
-अश्रान्तदेहेचिन्तादिवर्जिते विनियुज्यते।**
+अश्रान्तदेहे चिन्तादिवर्जिते विनियुज्यते।**
 
  अनुष्णाशीतस्य लक्षणमाह—
 
-**विषयोपाधिरहितः श्वासो वकाद्वहिर्गतः॥४२॥  
+**विषयोपाधिरहितः श्वासो वकाद् वहिर्गतः॥४२॥  
 अनुष्णाशीत इत्युक्तः श्वासो भरतवेदिभिः।**
 
  विनियोगः—
@@ -8250,17 +8271,17 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  श्वासानां शब्दानुकरणगतिमाह—
 
 **शूत्कृतं सीत्कृतं चैव धूत्कृतं पूत्कृतं तथा॥४४॥  
-हीहीकृतं धिक्कृतं चाप्येंकारोंकार एव च।  
-हुंकारश्चेति नवधा श्वासध्वनिरिति स्मृतः॥४५॥**
+हीहीकृतं धिक्कृतं चाप्येङ्कारोङ्कार एव च।  
+हुङ्कारश्चेति नवधा श्वासध्वनिरिति स्मृतः॥४५॥**
 
  शूत्कृतस्य विनियोगः—
 
-**आलस्ये च श्रमे मार्गसंचारश्रान्तमानसे।**
+**आलस्ये च श्रमे मार्गसञ्चारश्रान्तमानसे।**
 
  सीत्कृतस्य विनियोगः—
 
 **नायकाषरपाने च हिमतप्ताधरेषु च॥४६॥  
-रसाधिकेऽप्यसह्येच कार्ये चास्यरसग्रहे।**
+रसाधिकेऽप्यसह्ये च कार्ये चास्यरसग्रहे।**
 
  धूत्कृतस्य विनियोगः—
 
@@ -8280,14 +8301,14 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  एङ्कारस्य विनियोगः—
 
-**संकटे च महादुःखे पिशाचव्याघ्रजे भये॥४९॥  
+**सङ्कटे च महादुःखे पिशाचव्याघ्रजे भये॥४९॥  
 विरहे धननाशे च भार्यापहरणेषु च।**
 
- ओंकारस्य विनियोगः—
+ ओङ्कारस्य विनियोगः—
 
 **पित्ताधिक्ये च वमनेऽप्यजीर्णेऽधिकभोजने॥५०॥**
 
- हुंकारस्य (लक्षणमाह?विनियोगः)—
+ हुङ्कारस्य (लक्षणमाह? विनियोगः)—
 
 **अत्याग्रहे महाकोपे भूतावेशे भयङ्करे॥५०½॥  
 शब्दानुकरणविनियोगश्चिन्तितः।**
@@ -8307,13 +8328,13 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **विकारे चित्तविक्षेपे कटुतिक्तरसाधिके॥३॥  
 श्रवणे चाद्भुतार्थे चाप्यधरेऽलक्तकाङ्किते।  
-आवेगे संभ्रमे नाट्येऽप्यसंयुक्तं नियुज्यते॥४॥**
+आवेगे सम्भ्रमे नाट्येऽप्यसंयुक्तं नियुज्यते॥४॥**
 
  सुसंयुक्तस्य लक्षणमाह—
 
-**दन्तपङ्क्तिद्वयं[^7] तावत् सुसंयुज्यैव संस्थितम्।**
+**दन्तपङ्क्तिद्वयं[^9] तावत् सुसंयुज्यैव संस्थितम्।**
 
-[^7]: "११७ पृष्ठे प्रदर्शित प्रतिज्ञानुरोधेन भोष्टलक्षणविनियोगः क्रमप्राप्तः स ब मातृकायां न दृश्यते।"
+[^9]: # "११७ पृष्ठे प्रदर्शित प्रतिज्ञानुरोधेन भोष्टलक्षणविनियोगः क्रमप्राप्तः स ब मातृकायां न दृश्यते।"
 
 **सुसंयुक्तमिति प्रोक्तं दन्तकर्म च नर्तकैः॥५॥**
 
@@ -8334,10 +8355,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **वाक्स्तम्भने च मौने च चिन्तने चाद्भुते रसे।  
 ब्रह्मध्याने च योगे च स्वभावो विनियुज्यते॥९॥**
 
- संघर्षणस्य लक्षणमाह—
+ सङ्घर्षणस्य लक्षणमाह—
 
-**मिथः संघर्षणं कृत्वा दन्तपङ्क्तिद्वयं स्थितम्।  
-संघर्षणं तदित्युक्तं दन्तकर्म च नर्तकैः॥१०॥**
+**मिथः सङ्घर्षणं कृत्वा दन्तपङ्क्तिद्वयं स्थितम्।  
+सङ्घर्षणं तदित्युक्तं दन्तकर्म च नर्तकैः॥१०॥**
 
  विनियोगः—
 
@@ -8368,12 +8389,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 गाढनिद्रासु दन्तस्य खण्डने कोपकर्मणि।  
 तृणादिखण्डने नाट्ये खण्डनं विनियुज्यते॥१७॥**
 
- भिन्नस्य[^8] लक्षणमाह—
+ भिन्नस्य[^10] लक्षणमाह—
 
-[^8]: "छिन्नम्' इति "
+[^10]: # "छिन्नम्' इति "
 
 **मिथः सम्बन्धरहितं भेदेन यदि संस्थितम्।  
-दन्तपङ्क्तिद्वयं तावद् भिन्नं नाट्येप्रकीर्तितम्॥१८॥**
+दन्तपङ्क्तिद्वयं तावद् भिन्नं नाट्ये प्रकीर्तितम्॥१८॥**
 
  विनियोगः—
 
@@ -8391,12 +8412,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 दन्तरोगे च दन्तानां मलापहरणे तथा॥२१॥  
 मनोविकारचिन्तायां कुट्टनं विनियुज्यते।**
 
- चुक्रितस्य[^9] लक्षणमाह—
+ चुक्रितस्य[^11] लक्षणमाह—
 
-[^9]: "'चक्रितम्' इति च पूर्वमुक्तम्।"
+[^11]: # "'चक्रितम्' इति च पूर्वमुक्तम्।"
 
 **आकारोच्चारणं कृत्वा दन्तपङ्क्तिस्तु दूरतः॥२२॥  
-स्थिता चेद्दन्तकर्मैतच्चुक्रितं परिकीर्तितम्।**
+स्थिता चेद् दन्तकर्मैतच्चुक्रितं परिकीर्तितम्।**
 
  विनियोगः—
 
@@ -8406,7 +8427,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  चललक्षणमाह—
 
 **श्लेषविश्लेषणं कृत्वा चलितं चेन्मुहुर्मुहुः॥२४॥  
-चलं तद् दन्तकर्मेति कथितं भरतागमे।**
+चळं तद् दन्तकर्मेति कथितं भरतागमे।**
 
  विनियोगः—
 
@@ -8420,25 +8441,25 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**अतिमोहेन नारीणामधरस्य च दष्टने[^10]॥२७॥  
+**अतिमोहेन नारीणामधरस्य च दष्टने[^12]॥२७॥  
 अनुरागेण नारीणां सर्वावयवदष्टने।  
 अतिकोपेन शत्रूणामङ्गस्यापि च दष्टने॥२८॥  
-रसद्रष्यपदार्थस्य दष्टनेविनियुज्यते।**
+रसद्रष्यपदार्थस्य दष्टने विनियुज्यते।**
 
-[^10]: "१२३४. इह सर्वत्र 'दंशने' इति स्यात्।"
+[^12]: # "१२३४. इह सर्वत्र 'दंशने' इति स्यात्।"
 
  निष्क्रमणस्य लक्षणमाह—
 
-**अधरोष्ठाद् बहिर्भूते दन्तपङ्क्तिप्रकाशिते॥२९॥  
+**अधरोष्ठाद् बहिर्भूते दन्तपङ्क्ति प्रकाशिते॥२९॥  
 संयुतासंयुते वापि दन्तकर्म च निष्क्रमः।**
 
  विनियोगः—
 
-**तृणकाष्ठैश्चदन्तानां धावने निन्दने तथा॥३०॥  
+**तृणकाष्ठैश्च दन्तानां धावने निन्दने तथा॥३०॥  
 विडम्बने च बालानां मर्कटानां विडम्बने।  
 लज्जाविहीनयाच्ञायां हसने चाप्यकारणे॥३१॥  
-हीहीकृत्यच निन्दायां दर्पणे दन्तवीक्षणे।  
-असह्यकोपेनिन्दायां निष्क्रामो विनियुज्यते॥३२॥**
+हीहीकृत्य च निन्दायां दर्पणे दन्तवीक्षणे।  
+असह्यकोपे निन्दायां निष्क्रामो विनियुज्यते॥३२॥**
 
  रसविनियोगः—
 
@@ -8453,11 +8474,11 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  रसनालक्षणविनियोगश्चिन्त्यते—
 
-**अधोनता चोर्ध्वनता चोन्नताग्राच निम्नगा।  
+**अधोनता चोर्ध्वनता चोन्नताग्रा च निम्नगा।  
 मध्योच्चा चोर्ध्वदन्ताग्राप्यन्तर्निम्नप्रसारिता॥१॥  
 वक्रोच्चा चैकभागस्था दन्तमध्यस्थिता चला।  
 सृक्वानुगा चाप्रकाशा लेहिनी ऋजुरेव च॥२॥  
-व्यक्तास्यस्था च सक्तास्या वकादीर्घा च लोहला।  
+व्यक्तास्यस्था च सक्तास्या वका दीर्घा च लोहला।  
 ईषद्वहिश्चलाग्रा चाप्योष्ठस्था चाधराग्रणा॥३॥  
 अन्तर्मूलचला जिह्वा चतुर्विंशतिरुच्यते।**
 
@@ -8488,12 +8509,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**संकटे (च) भयेऽङ्कारे चावशादूर्ध्ववीक्षणे॥९॥  
+**सङ्कटे (च) भयेऽङ्कारे चावशादूर्ध्ववीक्षणे॥९॥  
 ऊर्ध्वश्वासे व चलने चोन्नताग्रा नियुज्यते।**
 
  निम्नगालक्षणमाह—
 
-**संकोचयित्वैव जिहामन्तर्भागे निवेशिता॥१०॥  
+**सङ्कोचयित्वैव जिहामन्तर्भागे निवेशिता॥१०॥  
 निम्नगा चेति सा जिह्वा कीर्तिता भरतागमे।**
 
  विनियोगः—
@@ -8504,18 +8525,18 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  मध्योश्चलालक्षणमाह—
 
 **स्वभावतः स्थिता लिदा मध्यभागसमुन्नता॥१२॥  
-मध्योच्चलाच जिह्वेति कीर्तिता भरतागमे।**
+मध्योच्चला च जिह्वेति कीर्तिता भरतागमे।**
 
  विनियोगः—
 
 **अवशेन मनोनिष्ठजनसन्दर्शने तथा॥१३॥  
-अकाण्डे जनसंप्राप्ते किं कार्यं भवदागमे।  
+अकाण्डे जनसम्प्राप्ते किं कार्यं भवदागमे।  
 कौटिल्यचिन्तने नाट्ये मध्योच्चा विनियुज्यते॥१४॥**
 
  ऊर्ध्वदन्ताग्रालक्षणमाह—
 
 **जिह्वाया अग्रभागश्चेदूर्ध्वदन्तसमन्वितः।  
-सा जिह्वाचोर्ध्वदन्वाग्रा कीर्तिता भरतागमे॥१५॥**
+सा जिह्वा चोर्ध्वदन्वाग्रा कीर्तिता भरतागमे॥१५॥**
 
  विनियोगः—
 
@@ -8525,7 +8546,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  अन्तर्निम्नप्रसारितालक्षणमाह—
 
-**अन्तर्निम्नतला जिह्वाबहिः किश्चित् प्रसारिता॥१७॥  
+**अन्तर्निम्नतला जिह्वा बहिः किश्चित् प्रसारिता॥१७॥  
 सा जिह्वा कीर्तिता नाट्ये चान्तर्निम्नप्रसारिता।**
 
  विनियोगः—
@@ -8533,7 +8554,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **अस्तु नामेति मनसा कोपस्याधिक्यनिग्रहे॥१८॥  
 अपकारप्रतीकारे रिपुधिक्कारनिन्दने।**
 
-**हुंकारे भयचिह्ने चाप्यन्तर्निम्नप्रसारित॥१९॥  
+**हुङ्कारे भयचिह्ने चाप्यन्तर्निम्नप्रसारित॥१९॥  
 एवमादिविशेषेषु नियुक्ता भरतागमे।**
 
  वक्रोच्चालक्षणमाह—
@@ -8612,12 +8633,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **जलदाहेऽतितृष्णायां शुष्कास्ये च श्रमेऽपि च।  
-मूर्छायां सन्निपाते च ऋजुर्नाट्येनियुज्यते॥३६॥**
+मूर्छायां सन्निपाते च ऋजुर्नाट्ये नियुज्यते॥३६॥**
 
  व्यक्तास्यस्थालक्षणमाह—
 
 **व्यक्ते चास्ये च रसना त्वधरोपरि संस्थिता।  
-व्यक्तास्यरसना नाट्यंरसविद्भिः प्रकीर्तिता॥३७॥**
+व्यक्तास्यरसना नाट्यं रसविद्भिः प्रकीर्तिता॥३७॥**
 
  विनियोगः—
 
@@ -8627,7 +8648,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  सक्तास्यालक्षणमाह—
 
 **सक्तास्यस्थोन्नताग्रा न सदन्ताग्रप्रकाशिता।  
-अर्धंबहिर्गता जिह्वासक्तास्या परिकीर्तिता॥३९॥**
+अर्धं बहिर्गता जिह्वा सक्तास्या परिकीर्तिता॥३९॥**
 
  विनियोगः—
 
@@ -8637,7 +8658,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  बक्रालक्षणमाह—
 
 **दीर्घाकारतया जिह्वा बहिर्वक्त्रप्रकाशिता।  
-वक्राजिह्वेति भरते रसविद्भिः प्रकीर्तिता॥४१॥**
+वक्रा जिह्वेति भरते रसविद्भिः प्रकीर्तिता॥४१॥**
 
  विनियोगः—
 
@@ -8668,7 +8689,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  ईषद्बहिश्चलाग्रालक्षणमाह—
 
-**अधरोष्ठौ पुटीकृत्यकिञ्चिज्जिह्वाबहिश्चला।  
+**अधरोष्ठौ पुटीकृत्य किञ्चिज्जिह्वा बहिश्चला।  
 ईषद्बहिश्चलाग्राति सा जिह्वा परिकीर्तिता॥४८॥**
 
  विनियोगः—
@@ -8687,7 +8708,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **चर्वितस्य पदार्थस्य दूरधूत्कारकर्मणि॥५१॥  
 अतिमैत्रेण दम्पत्योरन्योन्याधरपानयोः।**
 
-**रतिसम्भोगसमये चुम्बने च नियुज्यते॥५२॥**
+**रतिसम्भोगसमये चुम्बने च नियुज्यते॥५२॥ **
 
  अधराग्रगालक्षणमाह—
 
@@ -8722,9 +8743,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  वदनलक्षणं चिन्त्यते—
 
-      ननु शिरोभेदाभिनये चिबुकाभिनयेच वदनाभिनयश्चिन्तितः। तथापि प्रसङ्गात् सुखबोधनार्थे किञ्चिश्चिन्त्यते—
+      ननु शिरोभेदाभिनये चिबुकाभिनये च वदनाभिनयश्चिन्तितः। तथापि प्रसङ्गात् सुखबोधनार्थे किञ्चिश्चिन्त्यते—
 
-**समं भग्नंच विधुतं व्यामुग्रं विसृतं तथा।  
+**समं भग्नं च विधुतं व्यामुग्रं विसृतं तथा।  
 विनिवृत्तमिति प्राहुः सप्तधाद्वाहितं मुखम्॥१॥**
 
  (समस्य लक्षणमाह—)
@@ -8749,18 +8770,18 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विधुतस्य लक्षणमाह—
 
-**वामे चदक्षिणे भागे कम्पितं विधुतं यदि।  
+**वामे च दक्षिणे भागे कम्पितं विधुतं यदि।  
 तन्मुखं विधुतं चेति कीर्तितं भरतागमे॥६॥**
 
  विनियोगः—
 
 **हास्ये च शोके च भये निषेधे सम्मते तथा।  
-श्लाघनेचानुवादे च विधुतं विनियुज्यते॥७॥**
+श्लाघने चानुवादे च विधुतं विनियुज्यते॥७॥**
 
  व्याभुग्नस्य लक्षणमाह—
 
 **समं वक्रं च यत्किञ्चिच्चिबुकेन हि वक्रितम्।  
-व्याभुग्नंमुखमित्येवं कीर्तितं भरतागमे॥८॥**
+व्याभुग्नं मुखमित्येवं कीर्तितं भरतागमे॥८॥**
 
  विनियोगः—
 
@@ -8815,9 +8836,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 वर्णो रागविशेषश्च वचनेषु च दृश्यते।  
 अतो वदनरागश्चेत्युक्तं भरतवेदिभिः॥५॥**
 
- इदानींवदनरागलक्ष्यलक्षणभेदश्चिन्त्यते—
+ इदानीं वदनरागलक्ष्यलक्षणभेदश्चिन्त्यते—
 
-**प्रसन्नो निर्मलः श्यामो रक्तश्चेतिचतुर्विधम्।**
+**प्रसन्नो निर्मलः श्यामो रक्तश्चेति चतुर्विधम्।**
 
  प्रसन्नस्य लक्षणमाह—
 
@@ -8881,7 +8902,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**कनकाङ्गयाश्चवदने पद्मिनीवदने तथा।  
+**कनकाङ्गयाश्च वदने पद्मिनीवदने तथा।  
 उत्तमस्त्रीसुवदने पीतो नाट्ये नियुज्यते॥२०॥**
 
  श्वेतस्य लक्षणमाह—
@@ -8933,7 +8954,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**चोराद् भीते सर्पभीते शत्रोर्भीतेनृपादपि।  
+**चोराद् भीते सर्पभीते शत्रोर्भीते नृपादपि।  
 ज्ञातिदायादिभिर्भीते धूसरो विनियुज्यते॥३१॥**
 
  कर्बुरस्य लक्षणमाह—
@@ -8964,7 +8985,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**मार्कण्डेये हनुमति ब्रह्मर्षौनारदे तथा॥३७॥  
+**मार्कण्डेये हनुमति ब्रह्मर्षौ नारदे तथा॥३७॥  
 शिवभक्तौ विष्णुभक्तौ स्वभावो विनियुज्यते॥३७॥**
 
  इदानीं रसविशेषनिरूपणानन्तरं भावं लक्षयति। भावो नाम आत्मधर्मो रतिविशेषः। स च अनेकविधः। अन्तःकरणवेद्यः स्थायी सञ्चारीति। स्थायी नाम शृङ्गारादिनवरसानां मूलभूतो रसः। तत्कार्यभूताः सञ्चारिभावा व्यभिचारिभावाश्च नाट्ये नटैरुद्भावनीयाः स्थायिकार्ये प्रवर्तन्ते। स्थायिनं बिना विपयज्ञानाभावात्। विषयज्ञानं विना प्रदर्शितसञ्चारिभावः भ्रान्तिमूलकः स्यात्। अत एव स्थायिनमन्तरेण सञ्चारिभावानां प्रवृत्तिर्नास्ति। प्रधानभूतः स एव स्थायी पूर्व निरूपितः। इदानी सञ्चारिभावो निरूप्यते। सञ्चारिभावो नाम नाट्ये नटैरुद्भावनीयः अङ्गहारविशेषः। आत्मीयरसः नायिकानायकयोः संयोगविप्रलम्भरूपः। संयोग एकविधः। विप्रलम्भो बहुविधः। विप्रलम्भमूलकाः सञ्चारिभावाः नायिकानायकयोः उत्तममध्यमाधमभेदेन प्रत्येकमेकादशैकादश परिगुणिताः त्रयस्त्रिंशत् सङ्ख्याताः प्रदर्शयिष्यन्ते। तथाहि—
@@ -8973,7 +8994,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 औत्सुक्यमवहित्थं च धृतिः श्रान्तिर्गुणा इमे॥१॥  
 उत्तमस्त्रीगुणा एते प्रशस्ताः पद्मिनीषु च।  
 असूयादैन्यनिर्वेदग्लानिशङ्कामदोग्रताः॥२॥  
-विषादो मौनमाधिश्चव्याधिरेकादशाप्यमी।  
+विषादो मौनमाधिश्च व्याधिरेकादशाप्यमी।  
 मध्यमानां गुणा एते प्रशस्ताश्चित्रिणीषु च॥३॥  
 श्वासो निद्रा वितर्कश्चापस्मारो जडता तथा।  
 अमर्षावेगगर्वाश्च पातः सुप्तो हतिस्तथा॥४॥  
@@ -8988,11 +9009,11 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 श्रीबालरामभरते तदुपाङ्गजन्यं  
 लक्ष्यं च लक्षणमिदं मुदमातनोतु॥७॥**
 
- उपाङ्गविचारानन्तरं वाक्पाणिपादैः अर्थक्रियालक्षणं प्रत्यङ्गंविचार्यते। ननु अङ्गलक्षणे भावरसरहितत्वं प्रत्यङ्गत्वमिति लक्षणमुक्तं, नतु अर्थक्रियाकारित्वमिति। अतो विचारोऽयमनुपपन्न इति चेत न, भावरसरहितत्वं प्रत्यङ्गत्वमिति लक्षणे कृते अर्थात् भावरसार्थक्रियाकारित्वमङ्गत्वमिति लक्षणात् अर्थक्रियाकारित्वं प्रत्यङ्गत्वमिति लक्षणानुवृत्तिरप्यस्ति। सामान्यलक्षणानाक्रान्तस्य विशेषलक्षणासम्भवात्। अतः अर्थक्रियाकारित्वमिति लक्षणेन प्रत्यङ्गस्य सङ्गतिर्बोध्या। ननु अर्थक्रियाकारित्वं वाक्पाणिपादयोर्वर्तते। अनयोरभिनयस्तावत् पूर्व विचारित एव। कथमिदानीं पुनरारभ्यते। पूर्वं तावत् वाक्पाणिपादयोः स्वसाध्यमुखेनाभिनयश्चिन्तितः। इदानीं साधनमुखेनाभिनयश्चिन्त्यत इति फलभेदात् प्रत्यङ्गमिति विशेषचिन्ता बोध्या। न च साध्यविचारे कृते साधनजिज्ञासाया असम्भवात् किमर्थमिदमिति वाच्यम्। पूर्वं साध्यविचारे कृते साधने इतिकर्तव्यताया अभावात्। साध्यं फलम्। साधनं हेतुः। अतः फलमुखेन विचारस्यावश्यकत्वात्। नहि साध्यं विचार्यैव साधनं विचारणीयमिति राजाज्ञास्ति। साध्याकाङ्क्षाविरहे साधनाकाङ्क्षायाः अप्रसिद्धत्वात्। अतः साध्यं विचार्यैव साधनं प्रत्यङ्कं विचार्यते। तथादि—
+ उपाङ्गविचारानन्तरं वाक्पाणिपादैः अर्थक्रियालक्षणं प्रत्यङ्गं विचार्यते। ननु अङ्गलक्षणे भावरसरहितत्वं प्रत्यङ्गत्वमिति लक्षणमुक्तं, नतु अर्थक्रियाकारित्वमिति। अतो विचारोऽयमनुपपन्न इति चेत न, भावरसरहितत्वं प्रत्यङ्गत्वमिति लक्षणे कृते अर्थात् भावरसार्थक्रियाकारित्वमङ्गत्वमिति लक्षणात् अर्थक्रियाकारित्वं प्रत्यङ्गत्वमिति लक्षणानुवृत्तिरप्यस्ति। सामान्यलक्षणानाक्रान्तस्य विशेषलक्षणासम्भवात्। अतः अर्थक्रियाकारित्वमिति लक्षणेन प्रत्यङ्गस्य सङ्गतिर्बोध्या। ननु अर्थक्रियाकारित्वं वाक्पाणिपादयोर्वर्तते। अनयोरभिनयस्तावत् पूर्व विचारित एव। कथमिदानीं पुनरारभ्यते। पूर्वं तावत् वाक्पाणिपादयोः स्वसाध्यमुखेनाभिनयश्चिन्तितः। इदानीं साधनमुखेनाभिनयश्चिन्त्यत इति फलभेदात् प्रत्यङ्गमिति विशेषचिन्ता बोध्या। न च साध्यविचारे कृते साधनजिज्ञासाया असम्भवात् किमर्थमिदमिति वाच्यम्। पूर्वं साध्यविचारे कृते साधने इतिकर्तव्यताया अभावात्। साध्यं फलम्। साधनं हेतुः। अतः फलमुखेन विचारस्यावश्यकत्वात्। नहि साध्यं विचार्यैव साधनं विचारणीयमिति राजाज्ञास्ति। साध्याकाङ्क्षाविरहे साधनाकाङ्क्षायाः अप्रसिद्धत्वात्। अतः साध्यं विचार्यैव साधनं प्रत्यङ्कं विचार्यते। तथादि—
 
 **"ग्रीवाबाहूदरं पृष्ठमूरू जङ्घायुगं च षट्।"**
 
- अस्यार्थः—ग्रीवाचलनं विना मुखचलनं न सम्भवतीति ग्रीवाया मुख्यं प्रत्यङ्गत्वम्। हस्तव्यापारस्य बाहुव्यापारं विना अङ्गत्वं न सम्भवतीति बाह्वोःप्रत्यङ्गत्वम्। वक्षःपार्श्वकटीतटानामुदरपृष्ठचलनं विना अङ्गत्वं नास्तीति उदरपृष्ठयोः प्रत्यङ्गत्वम्। पदव्यापारयोरपि ऊरुजङ्घाचलनं विनाङ्गत्वं नास्तीति ऊरुजङ्घयोः प्रत्यङ्गत्वम्। ननु श्रोणीजघनानां कथमङ्गत्वं नास्तीति चेत्। न विनियोगविशेषो हि नाट्येउपकारः। कटीतटाभिनयेनैव चारितार्थ्यात्। अत एव मणिबन्ध कूर्पराणां विनियोगविशेषकरत्वेन अङ्गाङ्गत्वमिति जानुपदमूलादीनाम् उपकारविशेषसत्त्वेनाङ्गाङ्गत्वमिति लक्षणविनियोगचिन्ता प्रवृत्ता॥
+ अस्यार्थः—ग्रीवाचलनं विना मुखचलनं न सम्भवतीति ग्रीवाया मुख्यं प्रत्यङ्गत्वम्। हस्तव्यापारस्य बाहुव्यापारं विना अङ्गत्वं न सम्भवतीति बाह्वोः प्रत्यङ्गत्वम्। वक्षःपार्श्वकटीतटानामुदरपृष्ठचलनं विना अङ्गत्वं नास्तीति उदरपृष्ठयोः प्रत्यङ्गत्वम्। पदव्यापारयोरपि ऊरुजङ्घाचलनं विनाङ्गत्वं नास्तीति ऊरुजङ्घयोः प्रत्यङ्गत्वम्। ननु श्रोणीजघनानां कथमङ्गत्वं नास्तीति चेत्। न विनियोगविशेषो हि नाट्ये उपकारः। कटीतटाभिनयेनैव चारितार्थ्यात्। अत एव मणिबन्ध कूर्पराणां विनियोगविशेषकरत्वेन अङ्गाङ्गत्वमिति जानुपदमूलादीनाम् उपकारविशेषसत्त्वेनाङ्गाङ्गत्वमिति लक्षणविनियोगचिन्ता प्रवृत्ता॥
 
 **अङ्गहारकरणैकसाधनं रङ्गमध्यरसनाट्यभावकम्।  
 अङ्गसाररसवेदिनां कृते स्वाङ्गमेतदधुना निरूप्यते॥१॥  
@@ -9082,24 +9103,24 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  अवकुञ्चितालक्षणमाह—
 
-**स्वभावतः स्त्रियाग्रीवापुंसोऽवोनता यदि।  
+**स्वभावतः स्त्रिया ग्रीवा पुंसोऽवो नता यदि।  
 सा ग्रीवा कुञ्चिता ज्ञेया नृतान्यविवक्षगैः॥२३॥**
 
  विनियोगः—
 
-**हाररुद्राक्ष!लसीमालानामपिधारणे।  
-अतिशीते च रोमाञ्चे बीभत्से चभयेऽपि च॥२४॥  
+**हाररुद्राक्ष! लसीमालानामपि धारणे।  
+अतिशीते च रोमाञ्चे बीभत्से च भयेऽपि च॥२४॥  
 एवमादिविशेषेऽवकुञ्चिता विनियुज्यते।**
 
  त्र्यश्रालक्षणमाह—
 
 **विवर्तयित्वा पिठरं वामे वा दक्षिणेऽपि च॥२५॥  
-एकभागेन वीक्षायां ग्रीवा त्र्यश्रेतिकीर्त्यते।**
+एकभागेन वीक्षायां ग्रीवा त्र्यश्रेति कीर्त्यते।**
 
  विनियोगः—
 
 **पार्श्वस्थभारहरणे सावधानावलोकने॥२६॥  
-दूरस्थवार्ताश्रवणे त्र्यश्रानाट्ये नियुज्यते।**
+दूरस्थवार्ताश्रवणे त्र्यश्रा नाट्ये नियुज्यते।**
 
  अवनम्रालक्षणमाह—
 
@@ -9120,7 +9141,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **परिहासेऽप्यतिशये भयेङ्कारेऽतिदुःखतः।  
-विचारमानसेचापि विषमा विनियुज्यते॥३१॥**
+विचारमानसे चापि विषमा विनियुज्यते॥३१॥**
 
  समोन्नताविनियोगः—
 
@@ -9167,7 +9188,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **भूस्थापिते पाणितले चैकभागेन संस्थितौ॥८॥  
 स्थूलोपधानविन्यस्तकूर्परादेकभागतः।  
-उल्लासशयने स्वस्यपुरोदेशस्थितात् करात्॥९॥  
+उल्लासशयने स्वस्य पुरोदेशस्थितात् करात्॥९॥  
 चतुरङ्गस्य वीक्षायां भुजवातात् सम्मुन्नते।  
 नाट्ये चैतेषु कार्येषु चैकोच्चो विनियुज्यते॥१०॥**
 
@@ -9190,7 +9211,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **निषादनटने चर्मकारस्य नटने तथा॥१४॥  
-खनित्रकाणां निलये संकोचद्वारनिर्गमे।  
+खनित्रकाणां निलये सङ्कोचद्वारनिर्गमे।  
 एवमादिविशेषेषूद्वर्तितो विनियुज्यते॥१५॥**
 
  निवर्तितस्य लक्षणमाह—
@@ -9201,7 +9222,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **वाणं धनुषि सन्धाय शीघ्रमाकर्षणे करे।  
-छुरिकाप्रासकुन्ताग्रैःशत्रुं संपीड्य कर्षणे॥१७॥  
+छुरिकाप्रासकुन्ताग्रैः शत्रुं सम्पीड्य कर्षणे॥१७॥  
 कोपेन ताडनकरे विनियुक्तो निवर्तितः।**
 
  उद्वेष्टितस्य लक्षणमाह—
@@ -9224,7 +9245,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **वक्रवाक्येन वेश्याभिर्जारनायकनिन्दने॥२२॥  
-संज्ञया काकुभावेन पार्श्वभागेषु कृन्तने।  
+सञ्ज्ञया काकुभावेन पार्श्वभागेषु कृन्तने।  
 कटीपृष्ठस्थनाडीनां छोडने विनियुज्यते॥२३॥**
 
  लोलितस्य लक्षणमाह—
@@ -9236,7 +9257,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **नाट्ये च पदविन्यासे चैकतालेन खण्डने।  
 परिहासेन वचने गर्वोल्लासेन सञ्चरे॥२५॥  
-एंकारे च भये चोर्ध्वश्वासे च विनियुज्यते।  
+एङ्कारे च भये चोर्ध्वश्वासे च विनियुज्यते।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥२६॥  
 बालराममहीपालचिन्तिताभिनये मुदा।  
 स्कन्धाभिनय एतेषु कार्येषु विनियुज्यते॥२७॥**
@@ -9245,11 +9266,11 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  कुर्परलक्षणविनियोगश्चिन्त्यते। इदानीं वक्ष्यमाणबाहुलक्षणविनियोगचिन्तायाः उपोद्घाततया कूर्परलक्षणचिन्ता कर्तव्या। कूर्परभेदे निश्चिते बाहुभेदज्ञानस्य सुकरत्वात्। तथाच कूर्परलक्षणविनियोगचिन्ता अवश्यं कर्तव्या। कूर्पराणामुद्देशक्रममाह—
 
-**पार्श्वयुक्तो वियुक्तश्चविस्तृतो भुजसम्मितः।  
+**पार्श्वयुक्तो वियुक्तश्च विस्तृतो भुजसम्मितः।  
 एते च पार्श्वदेशस्थाः कूर्पराः परिकीर्तिताः॥१॥**
 
-**पृष्ठक्षिप्तश्चसङ्कोचः प्रतिसङ्कोच एव च।  
-पृष्ठसङ्कोचहस्तश्च कूर्पराःपृष्ठगामिनः॥२॥**
+**पृष्ठक्षिप्तश्च सङ्कोचः प्रतिसङ्कोच एव च।  
+पृष्ठसङ्कोचहस्तश्च कूर्पराः पृष्ठगामिनः॥२॥**
 
 **एवमष्टविधास्तावत् कूर्पराः पार्श्वपृष्ठगाः।  
 पार्श्वोदरधुतश्चापि विधुतो विततस्तथा॥३॥**
@@ -9270,10 +9291,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 एते च चत्वारस्तावत् पुरोभागसमागताः॥८॥**
 
 **पुरोयुक्तो वियुक्तश्च पुरोविमुखकूर्परः।  
-पुरोभागगता एते कूर्पराःपरिकीर्तितः॥९॥**
+पुरोभागगता एते कूर्पराः परिकीर्तितः॥९॥**
 
 **एते च कूर्परास्तावद् दक्षिणात् सव्यभागगाः।  
-एते च कुर्परास्त्रिंशत्संख्याकाः परिकीर्तिताः॥१०॥**
+एते च कुर्परास्त्रिंशत्सङ्ख्याकाः परिकीर्तिताः॥१०॥**
 
 **पार्श्वे चतुः पृष्ठतश्च पार्श्वग्रे त्रय एव च।  
 पार्श्वात् पुरो द्वयं चापि त्रयोदश समागताः॥११॥**
@@ -9281,7 +9302,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **पार्श्वोन्नताश्च चत्वारः पार्श्वाभिमुखतश्चतुः।  
 पुरोमुखश्चतुश्चापि पुरोविमुखतस्त्रयः॥१२॥**
 
-**सव्यवक्रास्त्रयश्चैव त्रिंशत्संख्याः (?) प्रकीर्तिताः।  
+**सव्यवक्रास्त्रयश्चैव त्रिंशत्सङ्ख्याः (?) प्रकीर्तिताः।  
 एतेषु भ्रमणं लोलं चलनं कम्पनं तथा॥१३॥  
 रेचितं चेति नटने क्रिया चैतेषु जायते।**
 
@@ -9298,7 +9319,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  एकपार्श्वस्य विनियोगः—
 
-**वलात्काररतौ स्त्रीणांनिषेधे चार्धसम्मते।  
+**वलात्काररतौ स्त्रीणां निषेधे चार्धसम्मते।  
 एतेषु विनियोगेषु पार्श्वयुक्तो नियुज्यते॥१६॥**
 
  वियुक्तस्य लक्षणमाह—
@@ -9375,8 +9396,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  एकभागेन विनियोगः—
 
 **जनानां सङ्कुले पृष्ठक्षेपेण विरसप्रिये॥३१॥  
-असम्मतनिषेधेच भये सङ्कोचवीक्षणे।  
-सङ्कोचकूर्परौनाट्ये चैतेषु विनियुज्यते॥३२॥**
+असम्मतनिषेधे च भये सङ्कोचवीक्षणे।  
+सङ्कोचकूर्परौ नाट्ये चैतेषु विनियुज्यते॥३२॥**
 
  अतिसङ्कोचकूर्परस्य लक्षणमाह—
 
@@ -9409,7 +9430,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पार्श्वोदरधुतकूर्परस्य लक्षणमाह—
 
-**पार्श्वोदरधुतौतावत् कूर्परौ विनयान्वितौ॥३८॥  
+**पार्श्वोदरधुतौ तावत् कूर्परौ विनयान्वितौ॥३८॥  
 पार्श्वद्वये च पार्श्वे वा पार्श्वोदरधुतः स्मृतः।**
 
  प्रार्थनाया एकभागविनियोगः—
@@ -9467,7 +9488,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पार्श्वाभिमुखकूर्परस्य लक्षणमाह—
 
-**एकार्धतालमानेनाधोमुखौपार्श्वसम्मुखौ॥५०॥  
+**एकार्धतालमानेनाधोमुखौ पार्श्वसम्मुखौ॥५०॥  
 पार्श्वद्वये च पार्श्वे वा पार्श्वाभिमुखकूर्परः।**
 
  विनियोगः—
@@ -9482,7 +9503,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पार्श्वोन्नतस्य लक्षणमाह—
 
-**पार्श्वोन्मुखौकूर्परौ चेन्नवाङ्गुलसमुन्नतौ॥५३॥  
+**पार्श्वोन्मुखौ कूर्परौ चेन्नवाङ्गुलसमुन्नतौ॥५३॥  
 पार्श्वद्वये च पार्श्वे वा स पार्श्वोन्नतकूर्परः।**
 
  विनियोगः—
@@ -9494,11 +9515,11 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **नटने चाद्भुतरसे गतिविन्यासभेदने॥५५॥  
 नाट्यावसानेथोङ्कारे चाकाशे पक्षिसञ्चरे।  
-पार्श्वोन्नतश्चनटने कूर्परो विनियुज्यत॥५६॥**
+पार्श्वोन्नतश्च नटने कूर्परो विनियुज्यत॥५६॥**
 
  पार्श्वत्युन्नतकूर्परस्य लक्षणमाह—
 
-**पार्श्वान्नतौकूर्परौवेदर्धतालसमुन्नतौ।  
+**पार्श्वान्नतौ कूर्परौ वेदर्धतालसमुन्नतौ।  
 पार्श्वद्वये च पार्श्वे वा सोत्युन्नततरः स्मृतः॥५७॥**
 
  विनियोगः—
@@ -9514,10 +9535,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  भुजमूलोन्नतकूर्परस्य लक्षणमाह—
 
-**भुजमूलर्समस्तावत्[^11] कूर्परादुन्नतो (?) यदि॥६०॥  
+**भुजमूलर्समस्तावत्[^13] कूर्परादुन्नतो (?) यदि॥६०॥  
 पार्श्वद्वये च पार्श्वे वा भुजमूलोन्नतः स्मृतः।**
 
-[^11]: "'समं तावत् कूर्परावुन्नतौ' इति पाठः स्यात"
+[^13]: # "'समं तावत् कूर्परावुन्नतौ' इति पाठः स्यात"
 
  विनियोगः—
 
@@ -9684,7 +9705,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**संकोचे च निषेधे च पिधाने कुचयोरपि।  
+**सङ्कोचे च निषेधे च पिधाने कुचयोरपि।  
 सव्यभागस्थशिष्यात्तु वीटिकाग्रहणे तथा॥९५॥  
 पुरोवियुक्त एतेषु कार्येषु विनियुज्यते।**
 
@@ -9701,124 +9722,124 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 बालराममहीपालचिन्तिताभिनये मुदा।  
 कूर्पराभिनयो नाट्ये चैतेषु विनियुज्यते॥९९॥**
 
- उक्तानामष्टाविंशतिसंख्याकानां कूर्पराणां भ्रमणलोलचलनकम्पनरेचितसंयोगात् चत्वारिंश (शताधिक? दधिकशत) कूर्परा उत्पन्नाः॥
+ उक्तानामष्टाविंशतिसङ्ख्याकानां कूर्पराणां भ्रमणलोलचलनकम्पनरेचितसंयोगात् चत्वारिंश (शताधिक? दधिकशत) कूर्परा उत्पन्नाः॥
 
  तेषां प्रत्येकं प्रत्येकं नामधेयमाह—
 
-पार्श्वयुक्त भ्रमणम्।   पार्श्वयुक्तकम्पनम् ।  
-पार्श्वयुक्तलोलम्।     पार्श्वयुक्तरेचनम्।  
+पार्श्वयुक्त भ्रमणम्। पार्श्वयुक्तकम्पनम् ।  
+पार्श्वयुक्तलोलम्। पार्श्वयुक्तरेचनम्।  
 पार्श्वयुक्तचलनम्।
 
 **पार्श्वयुक्ताः पञ्च॥**
 
-पार्श्ववियुक्तभ्रमणम्।   पार्श्ववियुक्तकम्पनम्।  
-पार्श्ववियुक्तलोलम्।    पार्श्ववियुक्तरेचनम्।  
+पार्श्ववियुक्तभ्रमणम्। पार्श्ववियुक्तकम्पनम्।  
+पार्श्ववियुक्तलोलम्। पार्श्ववियुक्तरेचनम्।  
 पार्श्ववियक्तचलनम्।
 
 **पार्श्ववियुक्ताः पञ्च॥**
 
-पार्श्वविस्तृतभ्रमणम्।   पार्श्वविस्तृतकम्पनम्।  
-पार्श्वविस्तृतलोलम्।    पार्श्वविस्तृतरेचनम्।  
+पार्श्वविस्तृतभ्रमणम्। पार्श्वविस्तृतकम्पनम्।  
+पार्श्वविस्तृतलोलम्। पार्श्वविस्तृतरेचनम्।  
 पार्श्वविस्तृतचलनम्।
 
 **पार्श्वविस्तृताः पञ्च॥**
 
-भुजसम्मितभ्रमणम्।   भुजसम्मितकम्पनम्।  
-भुजसम्मितलोलम्।    भुजसम्मितरेचनम्।  
+भुजसम्मितभ्रमणम्। भुजसम्मितकम्पनम्।  
+भुजसम्मितलोलम्। भुजसम्मितरेचनम्।  
 भुजसम्मितचलनम्।
 
 **भुजसम्मिताः पञ्च॥**
 
-पृष्ठक्षिप्तभ्रमणम्।      पृष्ठक्षिप्तकम्पनम्।  
-पृष्ठक्षिप्तलोलम्।       पृष्ठक्षिप्तरेचनम्।  
+पृष्ठक्षिप्तभ्रमणम्। पृष्ठक्षिप्तकम्पनम्।  
+पृष्ठक्षिप्तलोलम्। पृष्ठक्षिप्तरेचनम्।  
 पृष्ठक्षिप्तचलनम्।
 
 **पृष्ठक्षिप्ताः पञ्च॥**
 
-पृष्ठसङ्कोचभ्रमणम्।   पृष्ठसङ्कोचकम्पनम्।  
-पृष्ठसङ्कोचलोलम्।    पृष्ठसङ्कोचरेचनम्।  
+पृष्ठसङ्कोचभ्रमणम्। पृष्ठसङ्कोचकम्पनम्।  
+पृष्ठसङ्कोचलोलम्। पृष्ठसङ्कोचरेचनम्।  
 पृष्ठसङ्कोचचलनम्।
 
-**(पृष्ठसङ्कोचाःपञ्च)**
+**(पृष्ठसङ्कोचाः पञ्च)**
 
-पृष्ठातिसङ्कोचभ्रमणम्।   पृष्ठातिसङ्कोच कम्पनम्।  
-पृष्ठातिसङ्कोचलोलम्।    पृष्ठातिसङ्कोचरेचनम्।  
+पृष्ठातिसङ्कोचभ्रमणम्। पृष्ठातिसङ्कोच कम्पनम्।  
+पृष्ठातिसङ्कोचलोलम्। पृष्ठातिसङ्कोचरेचनम्।  
 पृष्ठातिसङ्कोचचलनम्।
 
 **(पृष्ठातिसङ्कोचाः पञ्च)**
 
-पृष्ठावलम्बितभ्रमणम्।   पृष्ठाचलम्बितकम्पनम्।  
-पृष्ठावलम्बितलोलम्।    पृष्ठावलम्बितरेचनम्।  
+पृष्ठावलम्बितभ्रमणम्। पृष्ठाचलम्बितकम्पनम्।  
+पृष्ठावलम्बितलोलम्। पृष्ठावलम्बितरेचनम्।  
 पृष्ठावलम्बित चलनम्।
 
 **(पृष्टावलम्विताः पञ्च)**
 
-पार्श्वोदरधुतभ्रमणम्।    पार्श्वोदरधुतकम्पनम्।  
-पार्श्वोदरधुतलोलम्।     पार्श्वोदरधुतरेचनम्।  
+पार्श्वोदरधुतभ्रमणम्। पार्श्वोदरधुतकम्पनम्।  
+पार्श्वोदरधुतलोलम्। पार्श्वोदरधुतरेचनम्।  
 पार्श्वोदरधुतचलनम्।
 
 **(पार्श्वोदरधुताः पञ्च)**
 
-पार्श्वविधुतभ्रमणम्।  पार्श्वविधुतकम्पनम्।  
-पार्श्वविधुतलोलम्।  पार्श्वविधुतरेचनम्।  
+पार्श्वविधुतभ्रमणम्। पार्श्वविधुतकम्पनम्।  
+पार्श्वविधुतलोलम्। पार्श्वविधुतरेचनम्।  
 पार्श्वविधुतचलनम्।
 
 **(पार्श्वविधुताः पञ्च)**
 
 पार्श्ववितत भ्रमणम्। पार्श्वविततकम्पनम्।  
-पार्श्वविततलोलम्।   पार्श्वविततरेचनम्।  
+पार्श्वविततलोलम्। पार्श्वविततरेचनम्।  
 पार्श्वविततचलनम्।
 
 **(पार्श्ववितताः पञ्च)**
 
-पुरोधोमुखभ्रमणम्।  पुरोधोमुखकम्पनम्।  
-पुरोधोमुखलोलम्।   पुरोधोमुखरेचनम्।  
+पुरोधोमुखभ्रमणम्। पुरोधोमुखकम्पनम्।  
+पुरोधोमुखलोलम्। पुरोधोमुखरेचनम्।  
 पुरोधोमुखचलनम्।
 
 **(पुरोधोमुखाः पञ्च)**
 
-पार्श्वाभिमुखभ्रमणम्।  पार्श्वाभिमुखकम्पनम्।  
-पार्श्वाभिमुखलोलम्।   पार्श्वाभिमुखरेचनम्।  
+पार्श्वाभिमुखभ्रमणम्। पार्श्वाभिमुखकम्पनम्।  
+पार्श्वाभिमुखलोलम्। पार्श्वाभिमुखरेचनम्।  
 पार्श्वाभिमुखचलनम्।
 
 **(पार्श्वाभिमुखाः पञ्च)**
 
-भुजमूलोन्नतभ्रमणम्।  भुजमूलोन्नतकम्पनम्।  
-भुजमूलोन्नतलोलम्।  भुजमूलोन्नतरेचनम्।  
+भुजमूलोन्नतभ्रमणम्। भुजमूलोन्नतकम्पनम्।  
+भुजमूलोन्नतलोलम्। भुजमूलोन्नतरेचनम्।  
 भुजमूलोन्नतचलनम्।
 
 **(भुजमूलोन्नताः पञ्च)**
 
-भुजमूलाधिकोन्नतभ्रमणम्।  भुजमूलाधिकोन्नतकम्पनम्।  
-भुजमूलाधिकोन्नतलोलम्।  भुजमूलाधिकोन्नतरेचनम्।  
+भुजमूलाधिकोन्नतभ्रमणम्। भुजमूलाधिकोन्नतकम्पनम्।  
+भुजमूलाधिकोन्नतलोलम्। भुजमूलाधिकोन्नतरेचनम्।  
 भुजमूलाधिकोन्नतचलनम्।
 
 **(भुजमूलाधिकोन्नताः पश्च)**
 
-पार्श्वोन्नतभ्रमणम्।  पार्श्वोन्नतकम्पनम्।  
-पार्श्वोन्नतलोलम्।   पार्श्वोन्नतरेचनम्।  
+पार्श्वोन्नतभ्रमणम्। पार्श्वोन्नतकम्पनम्।  
+पार्श्वोन्नतलोलम्। पार्श्वोन्नतरेचनम्।  
 पार्श्वोन्नतचलनम्।
 
 **(पार्श्वोन्नताः पञ्च)**
 
-पार्श्वात्युन्नतभ्रमणम्।  पार्श्वात्युन्नतकम्पनम्  
-पार्श्वात्युन्नतलोलम्।  पार्श्वात्युन्नतरेचनम्।  
+पार्श्वात्युन्नतभ्रमणम्। पार्श्वात्युन्नतकम्पनम्  
+पार्श्वात्युन्नतलोलम्। पार्श्वात्युन्नतरेचनम्।  
 पार्श्वात्युन्नतचलनम्।
 
 **(पार्श्वात्युन्नताः एञ्च)**
 
 पार्श्वाभिमुखोर्ध्वभ्रमणम्। पार्श्वाभिमुखोर्ध्वकम्पनम् \।  
-पार्श्वाभिमुखोर्ध्वलोलम्।    पार्श्वाभिमुखोर्ध्वरेचनम्।  
+पार्श्वाभिमुखोर्ध्वलोलम्। पार्श्वाभिमुखोर्ध्वरेचनम्।  
 पार्श्वाभिमुखोर्ध्वचलनम्।
 
 **(पार्श्वोभिमुखाः पञ्च )**
 
-\*[^12] इति लक्षणे च 'अभिमुखकूर्परस्य लक्षणमाह', 'उच्चतरकूर्परस्य लक्ष्माह' (पृ० ३१२ ) इति च पूर्व पठितम् ।")अभिमुखोन्नतभ्रमणम्।
+\*[^14] इति लक्षणे च 'अभिमुखकूर्परस्य लक्षणमाह', 'उच्चतरकूर्परस्य लक्ष्माह' (पृ॰ ३१२ ) इति च पूर्व पठितम् ।")अभिमुखोन्नतभ्रमणम्।
  अभिमुखोन्नतकम्पनम्।  
-अभिमुखोन्नतलोलम्।  अभिमुखोन्नतरेचनम्।  
+अभिमुखोन्नतलोलम्। अभिमुखोन्नतरेचनम्।  
 अभिमुखोन्नतचलनम्।
 
-[^12]: "'समुद्देशे अभिमुखोच्चतरस्तथा' ( पृ० २०५
+[^14]: # "'समुद्देशे अभिमुखोच्चतरस्तथा' ( पृ॰ २०५
 
 **(अभिमुखोन्नताः पञ्च)**
 
@@ -9834,38 +9855,38 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **(पार्श्ववक्रोच्चाः पञ्च)**
 
-पुरोमुखभ्रमणम्।  पुरोमुखकम्पनम्  
-पुरोमुखलोलम्।   पुरोमुखरेचनम्।  
+पुरोमुखभ्रमणम्। पुरोमुखकम्पनम्  
+पुरोमुखलोलम्। पुरोमुखरेचनम्।  
 पुरोमुखचलनम्।
 
 **(पुरोमुखाः पञ्च)**
 
 पुरोद्वाहितभ्रमणम्। पुरोद्वाहितकम्पनम्  
-पुरोद्वाहितलोलम्।  पुरोद्वाहितरेचनम्।  
+पुरोद्वाहितलोलम्। पुरोद्वाहितरेचनम्।  
 पुरोद्वाहितचलनम्।
 
 **(पुरोद्वाहिताः पञ्च)**
 
-पुरोन्नतभ्रमणम्।   पुरोन्नतकम्पनम्।  
-पुरोन्नतलोलम्।    पुरोन्नतरेचनम्।  
+पुरोन्नतभ्रमणम्। पुरोन्नतकम्पनम्।  
+पुरोन्नतलोलम्। पुरोन्नतरेचनम्।  
 पुरोन्नतचलनम्।
 
 **(पुरोन्नताः पञ्च )**
 
-पुरोत्युन्नतभ्रमणम्।  पुरोत्युन्नत कम्पनन्।  
-पुरोत्युन्नतलोलम्।  पुरोत्युन्नतरेचनम्।  
+पुरोत्युन्नतभ्रमणम्। पुरोत्युन्नत कम्पनन्।  
+पुरोत्युन्नतलोलम्। पुरोत्युन्नतरेचनम्।  
 पुरोत्युन्नत चलनम्।
 
 **(पुरोत्युन्नताः पञ्च )**
 
-पुरोयुक्तभ्रमणम्।  पुरोयुक्तकम्पनम्।  
-पुरोयुक्तलोलम्।   पुरोयुक्तरेचनम् !  
+पुरोयुक्तभ्रमणम्। पुरोयुक्तकम्पनम्।  
+पुरोयुक्तलोलम्। पुरोयुक्तरेचनम् !  
 पुरोयुक्तचलनम्।
 
 **(पुरोयुक्ताः पञ्च)**
 
-\*तिर्यगुच्चभ्रमणम्।  तिर्यगुच्चकम्पनम्।  
-तिर्यगुच्चलोलम् \।    तिर्यगुच्चरेचनम्।  
+\*तिर्यगुच्चभ्रमणम्। तिर्यगुच्चकम्पनम्।  
+तिर्यगुच्चलोलम् \। तिर्यगुच्चरेचनम्।  
 तिर्यगुच्चचलनम्।
 
 **(तिर्यगुच्चाः पञ्च)**
@@ -9877,7 +9898,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **———————————————————————————————————**
 
 \*तिर्यगुञ्चतरभ्रमणम्। तिर्यगुच्चतरकम्पनम्।  
-तिर्यगुच्चतरलोलम् ।  तिर्यगुच्चतररेचनम्।  
+तिर्यगुच्चतरलोलम् । तिर्यगुच्चतररेचनम्।  
 तिर्यगुचतरचलनम्।
 
 **तिर्यगुच्चतराः पञ्च।**
@@ -9899,7 +9920,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 स्थिरास्थिराणां संयोगात् पञ्चसप्ततिसङ्ख्यया॥५॥  
 उत्पन्ना मणिबन्धास्तु नटनेषूपयोजिताः।**
 
- एतेषां लक्षणविनियोगश्चिन्त्यते। प्रथमं तावदुत्तानमणिबन्धलक्षणविनियोगचिन्ता \। समानतोर्ध्वविषमवक्रभेदेन पञ्चविधः। तेषु स्थिरभावलक्षणचिन्ता—
+ एतेषां लक्षणविनियोगश्चिन्त्यते। प्रथमं तावदुत्तानमणिबन्धलक्षणविनियोगचिन्ता \।
+समानतोर्ध्वविषमवक्रभेदेन पञ्चविधः। तेषु स्थिरभावलक्षणचिन्ता—
 
 **समानतोर्ध्वविषमवक्रभेदेन पञ्चधा॥६॥  
 उत्तानमणिबन्धस्तु पञ्चधा स्थिर उच्यते।**
@@ -10011,12 +10033,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **अधोमुखतलाङ्गुल्यो बहिर्भागेन वक्रिताः॥२६॥  
 विषमाधस्तल इति प्रोक्तः स मणिबन्धकः।**
 
-विनियोगः—
+विनियोगः —
 
 **परिहासेन नटने विकारे वक्रकोणयोः॥२७॥  
-पार्श्वस्थजननिर्देशे विषमो विनियुज्यते[^13]।**
+पार्श्वस्थजननिर्देशे विषमो विनियुज्यते[^15]।**
 
-[^13]: "इतः परं पार्श्वभेदप्रयुक्तानां मणिबन्धानां लक्षणादिकं मातृकायां नोपलभ्यत।"
+[^15]: # "इतः परं पार्श्वभेदप्रयुक्तानां मणिबन्धानां लक्षणादिकं मातृकायां नोपलभ्यत।"
 
  स्थिरमणिबन्धलक्षणविनियोगश्चिन्तितः। अस्थिराणां मणिबन्धानां लक्षणविनियोगश्चिन्त्यते।
 
@@ -10027,9 +10049,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 उत्तानभ्रमणस्य लक्षणमाह—
 
 **उत्तानक्रममारभ्य तलेन भ्रमणे कृतेः  
-मुहुर्मुहुश्चतन्नाट्येचोत्तानभ्रमणं विदुः॥३०॥**
+मुहुर्मुहुश्च तन्नाट्ये चोत्तानभ्रमणं विदुः॥३०॥**
 
-विनियोगः—
+विनियोगः —
 
 **परिवर्तनमार्गेण पिण्डीकरणकर्मणि।  
 पताकाकमलादीनां भ्रमणे विनियुज्यते॥३१॥**
@@ -10039,12 +10061,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **करपार्श्वप्रदेशे तु पार्श्वभागेन लोलने।  
 उत्तानलोल इत्युक्तो मणिबन्धः स नर्तकैः॥३२॥**
 
-विनियोगः—
+विनियोगः —
 
 **परिहासेन वचने सौन्दर्यश्लाघनेऽद्भुते।  
 पताकाकमलादीनां लोलने विनियुज्यते॥३३॥**
 
-उत्तानकम्पनस्य लक्षणमाह—
+उत्तानकम्पनस्य लक्षणमाह —
 
 **ऊर्ध्वाघोभागतस्तावद् मणिबन्धेन कम्पिते।  
 उत्तानकम्पनमणिबन्धः स परिकीर्तितः॥३४॥**
@@ -10052,7 +10074,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **गच्छ गच्छेति वचने आगच्छागच्छ सन्निधा  
-कमलादेश्चपतनोत्पतने विनियुज्यते॥३५॥**
+कमलादेश्च पतनोत्पतने विनियुज्यते॥३५॥**
 
  (उत्तान) चलनस्य लक्षणमाह—
 
@@ -10159,8 +10181,8 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पार्श्वचलनस्य लक्षणमाह—
 
-**पा**र्श्वे**न मणिवन्धस्यचलितेच मुहुर्मुहुः।  
-नटने पार्श्वचलितोमणिबन्धः प्रकीर्तितः॥५६॥**
+**पा**र्श्वे**न मणिवन्धस्य चलिते च मुहुर्मुहुः।  
+नटने पार्श्वचलितो मणिबन्धः प्रकीर्तितः॥५६॥**
 
  विनियोगः—
 
@@ -10175,12 +10197,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **नटने गतिभेदेषु तालकालेषु रेचने।  
-संज्ञया कृन्तने लोह (दष्ट? घट्ट) नायुधघट्टने॥५९॥  
+सञ्ज्ञया कृन्तने लोह (दष्ट? घट्ट) नायुधघट्टने॥५९॥  
 एवमादिविशेषेषु सरसाभिनयेषु च।  
 बालराममहीपालचिन्तिताभिनये मुदा॥६०॥  
 नटने मणिबन्धस्याभिनयो विनियुज्यते॥६०३॥**
 
- स्थिराणामस्थिराणां संयोगादुत्पन्नानां मणिबन्धानां संख्याभेदमाह—
+ स्थिराणामस्थिराणां संयोगादुत्पन्नानां मणिबन्धानां सङ्ख्याभेदमाह—
 
 समोत्तानभ्रमणम्। समोत्तानचलनम्।  
 समोत्तानलोलम्। समोत्तानरेचनम्।
@@ -10190,42 +10212,42 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **———————**
 
 आनतोत्तान भ्रमणम्। आनतोत्तानचलनम्।  
-आनतोत्तानलोलम्।  आनतोत्तानरेचनम्।
+आनतोत्तानलोलम्। आनतोत्तानरेचनम्।
 
 आनतोत्तानकम्पनम्।
 
 **———————**
 
 ऊर्ध्वोत्तानभ्रमणम्। ऊर्ध्वोतानचलनम्।  
-ऊर्ध्वोत्तानलोलम्।  ऊर्ध्वोत्तानरेचनन्।
+ऊर्ध्वोत्तानलोलम्। ऊर्ध्वोत्तानरेचनन्।
 
 ऊर्ध्वोत्तानकम्पनम्।
 
 **———————**
 
-वक्रोत्तानभ्रमणम्।  वक्रोत्तानचलनम्।  
-वक्रोत्तानलोलम्।   वक्रोत्तानरेचनम्।
+वक्रोत्तानभ्रमणम्। वक्रोत्तानचलनम्।  
+वक्रोत्तानलोलम्। वक्रोत्तानरेचनम्।
 
 वक्रोत्तानकम्पनम्।
 
 **———————**
 
 विषमोत्तानभ्रमणम। विषमोत्तानचललम्।  
-विषमोत्तानलोलम्।  विषमोत्तानरेचनम्।
+विषमोत्तानलोलम्। विषमोत्तानरेचनम्।
 
 विषमोत्तानकम्पनम्।
 
 **———————**
 
 समाधस्तलभ्रमणम्। समाधस्तलचलनम्।  
-समाधस्तललोलम्।  समाधस्तलरेचनम्।
+समाधस्तललोलम्। समाधस्तलरेचनम्।
 
 समाधस्तलकम्पनम्।
 
 **———————**
 
 आनताधस्तलभ्रमणम्। आनताधस्तलचलनम्।  
-आनताधस्तललोलम्।  आनताधस्तलरेचनम्।
+आनताधस्तललोलम्। आनताधस्तलरेचनम्।
 
 आनताधस्तलकम्पनम्।
 
@@ -10265,7 +10287,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **———————**
 
 ऊर्ध्वपार्श्वभ्रमणम्। ऊर्द्वपार्श्वचलनम्।  
-ऊर्ध्वपार्श्वलोलम्   ऊर्ध्वपार्श्वरेचनम्॥१३॥
+ऊर्ध्वपार्श्वलोलम् ऊर्ध्वपार्श्वरेचनम्॥१३॥
 
 ऊर्ध्वपार्श्वकम्पनम्
 
@@ -10277,10 +10299,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 वक्रपार्श्वकम्पनम्।
 
 विषमपार्श्वभ्रमणम्। विषमपार्श्वचलनम्।  
-विषमपार्श्वलोलम्।  विषमपार्श्वरेचनम्।  
+विषमपार्श्वलोलम्। विषमपार्श्वरेचनम्।  
 विषमपार्श्वकम्पनम्।
 
-विषमपार्श्वाःपञ्च।
+विषमपार्श्वाः पञ्च।
 
 **——————————**
 
@@ -10291,7 +10313,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  मणिबन्धतलाङ्गुलिविचारानन्तरं बाहुलक्षणाविनियोगः चिन्त्यते। प्रथमं तावत् हस्तानां क्षेत्रदेशकालगतिक्रियास्थानानि सूच्यन्ते। प्रथमं तावत् क्षेत्रस्वरूपमाह—
 
 **शिरोललाटावास्यं च कण्ठः स्कन्धो ह्युरस्तथा।  
-पाश्वद्वयं च नाभिश्च नीवीकट्यूरुसंज्ञकाः॥१॥  
+पाश्वद्वयं च नाभिश्च नीवीकट्यूरुसञ्ज्ञकाः॥१॥  
 द्वादशैतानि भरते क्षेत्राणीति विदुर्बुधाः।**
 
  देशानां स्वरूपमाह—
@@ -10376,8 +10398,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **अज्ञातसुलभद्रव्यग्रहणे विनियुज्यते॥१४॥**
 
- एवमूर्ध्वदेशाधोदेश(पृष्ठोदेश?)पार्श्वदेशपुरोदेशपृष्ठदेशाश्च
-लक्ष्यभूताः॥
+ एवमूर्ध्वदेशाधोदेश(पृष्ठोदेश?)पार्श्वदेशपुरोदेशपृष्ठदेशाश्च लक्ष्यभूताः॥
 
  इदानीं कोणदेशाः प्रदर्शयिष्यन्ते—
 
@@ -10478,103 +10499,100 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **स्वयं मध्यप्रदेशस्थो वाहूनां मूलकारणम्।  
 सप्तानामपि देशानामधिष्ठानं हि मध्यमम्॥४६॥  
-मध्यमात् पञ्चकमिति देशसंज्ञा विधीयते।**
+मध्यमात् पञ्चकमिति देशसञ्ज्ञा विधीयते।**
 
-** **मध्यदेशपञ्चकम्।उच्चदेशपञ्चकम्। उच्चतरदेशपञ्चकम्। ऊर्ध्वदेशपञ्चकम्। नीचदेशपञ्चकम्। नीचतरदेशपञ्चकम्। अधोसुखदेशपञ्चकम्। एवं सप्तपञ्चकं समुत्पन्नम्।
+** **मध्यदेशपञ्चकम्। उच्चदेशपञ्चकम्। उच्चतरदेशपञ्चकम्। ऊर्ध्वदेशपञ्चकम्। नीचदेशपञ्चकम्। नीचतरदेशपञ्चकम्। अधोसुखदेशपञ्चकम्। एवं सप्तपञ्चकं समुत्पन्नम्।
 
 **——————————**
 
-समपुरः प्रसारितम्।  पृष्ठविषमप्रसारितम्।  
+समपुरः प्रसारितम्। पृष्ठविषमप्रसारितम्।  
 समविषमप्रसारितम्। पृष्ठकोणप्रसारितम्।  
-समकोणप्रसारितम्।  पृष्ठवक्रप्रसारितम्।  
-समवक्रप्रसारितम्।  उत्तरविषमप्रसारितम्।  
-पार्श्वप्रसारितम्।     उत्तरपार्श्वप्रसारितम्।  
+समकोणप्रसारितम्। पृष्ठवक्रप्रसारितम्।  
+समवक्रप्रसारितम्। उत्तरविषमप्रसारितम्।  
+पार्श्वप्रसारितम्। उत्तरपार्श्वप्रसारितम्।  
 पार्श्वविषमप्रसारितम्। उत्तरपार्श्ववक्रप्रसारितम्।  
-पार्श्वकोणप्रसारितम्।  उत्तरकोणप्रसारितम्।  
-पार्श्ववक्रप्रसारितम्।  (उत्तर)पुरोवक्रप्रसारितम् !  
+पार्श्वकोणप्रसारितम्। उत्तरकोणप्रसारितम्।  
+पार्श्ववक्रप्रसारितम्। (उत्तर)पुरोवक्रप्रसारितम् !  
 पृष्ठप्रसारितम्।
 
 **समपुरोभेदाः (१६ ? १७).**  
 **——————————**
 
-उच्चपुरःप्रसारितम्।       उच्चपृष्टविषमप्रसारितम्।  
-उच्चविषमप्रसारितम्।      उच्चपृष्ठकोणप्रसारितम् \।  
-उच्चपुरःकोणप्रसारितम्।    उच्चोत्तरविषमप्रसारितम्।  
-उच्चदक्षिणवक्रप्रसारितम्।   उच्चोत्तरपार्श्वप्रसारितम्!  
-उच्चपार्श्वप्रसारितम्।       उच्चोत्तरपार्श्ववक्रप्रसारितम्।  
-उच्चपार्श्वविषमप्रसारितम्।   उच्चोत्तरकोणप्रसारितम्।  
-उच्चदक्षिणकोणप्रसारितम्।  उच्चपुरोवक्रप्रसारितम्।  
+उच्चपुरःप्रसारितम्। उच्चपृष्टविषमप्रसारितम्।  
+उच्चविषमप्रसारितम्। उच्चपृष्ठकोणप्रसारितम् \।  
+उच्चपुरःकोणप्रसारितम्। उच्चोत्तरविषमप्रसारितम्।  
+उच्चदक्षिणवक्रप्रसारितम्। उच्चोत्तरपार्श्वप्रसारितम्!  
+उच्चपार्श्वप्रसारितम्। उच्चोत्तरपार्श्ववक्रप्रसारितम्।  
+उच्चपार्श्वविषमप्रसारितम्। उच्चोत्तरकोणप्रसारितम्।  
+उच्चदक्षिणकोणप्रसारितम्। उच्चपुरोवक्रप्रसारितम्।  
 (उच्च)पृष्ठप्रसारितम्।
 
 **उच्चभेदाः (१६ ? १५).**  
 **——————————**
 
-उच्चतरपुरःप्रसारितम्।        उच्चतरपृष्ठप्रसारितम्।  
-उच्चतरविषमपुरःप्रसारितम्।    उच्चतरपृष्ठविषमप्रसारितम्।  
-उच्चतरपुरःकोणप्रसारितम्।     उच्चतरपश्चिमोत्तरकोणप्रसारितम्।  
-उच्चतरदक्षिणवक्रप्रसारितम्।    उच्चतरोत्तरवक्रप्रसारितम्।  
-उच्चतरपार्श्वप्रसारितम्।        उच्चतरोत्तरपार्श्वप्रसारितम्।  
-उच्चतरपार्श्वविषमप्रसारितम्।    उच्चतरोत्तरविषमप्रसारितम्।  
+उच्चतरपुरःप्रसारितम्। उच्चतरपृष्ठप्रसारितम्।  
+उच्चतरविषमपुरःप्रसारितम्। उच्चतरपृष्ठविषमप्रसारितम्।  
+उच्चतरपुरःकोणप्रसारितम्। उच्चतरपश्चिमोत्तरकोणप्रसारितम्।  
+उच्चतरदक्षिणवक्रप्रसारितम्। उच्चतरोत्तरवक्रप्रसारितम्।  
+उच्चतरपार्श्वप्रसारितम्। उच्चतरोत्तरपार्श्वप्रसारितम्।  
+उच्चतरपार्श्वविषमप्रसारितम्। उच्चतरोत्तरविषमप्रसारितम्।  
 उच्चतरदक्षिणापरकोणप्रसारितम्। उच्चतरोत्तरपूर्वकोणप्रसारितम्।  
-उच्चतरपृष्ठवक्रप्रसारितम्।      उच्चतरपुरोवक्रप्रसारितम्।
+उच्चतरपृष्ठवक्रप्रसारितम्। उच्चतरपुरोवक्रप्रसारितम्।
 
 **उच्चतरभेदाः १६.**  
 **——————————**
 
-ऊर्ध्वपुरःप्रसारितम्।            ऊर्ध्वपृष्ठप्रसारितम्।  
-ऊर्ध्वपुरोवक्रप्रसारितम्।         ऊर्ध्वपृष्ठविषमप्रसारितम्।  
-ऊर्ध्वपुरोदक्षिणकोणप्रसारितम्।    ऊर्ध्वपृष्ठोत्तरकोणप्रसारितम्।  
-ऊर्ध्वदक्षिणवक्रप्रसारितम्।        ऊर्ध्वोत्तरवक्रप्रसारितम्।  
-ऊर्ध्व (दक्षिण) पार्श्वप्रसारितम्।     
-ऊर्ध्वोत्तरपार्श्वप्रसारितम्।  
-ऊर्ध्वदक्षिणविषमप्रसारितम्।       ऊर्ध्वोत्तरविषमप्रसारितम्।  
-      ऊर्ध्वदक्षिणापरकोणप्रसारितम्।   
-ऊर्ध्वोत्तरकोणप्रसारितम्।  
-ऊर्ध्वपृष्ठवक्रप्रसारितम्।          ऊर्ध्वपुरोवक्रप्रसारितम् \।
+ऊर्ध्वपुरःप्रसारितम्। ऊर्ध्वपृष्ठप्रसारितम्।  
+ऊर्ध्वपुरोवक्रप्रसारितम्। ऊर्ध्वपृष्ठविषमप्रसारितम्।  
+ऊर्ध्वपुरोदक्षिणकोणप्रसारितम्। ऊर्ध्वपृष्ठोत्तरकोणप्रसारितम्।  
+ऊर्ध्वदक्षिणवक्रप्रसारितम्। ऊर्ध्वोत्तरवक्रप्रसारितम्।  
+ऊर्ध्व (दक्षिण) पार्श्वप्रसारितम्। ऊर्ध्वोत्तरपार्श्वप्रसारितम्।  
+ऊर्ध्वदक्षिणविषमप्रसारितम्। ऊर्ध्वोत्तरविषमप्रसारितम्।       
+ ऊर्ध्वदक्षिणापरकोणप्रसारितम्। ऊर्ध्वोत्तरकोणप्रसारितम्।  
+ऊर्ध्वपृष्ठवक्रप्रसारितम्। ऊर्ध्वपुरोवक्रप्रसारितम् \।
 
 **ऊर्ध्वभेदाः १६.**  
 **——————————**
 
-नीचपुरःप्रसारितम्।          नीचपृष्ठविषमप्रसारितम्।  
-नीचपुरोविषमप्रसारितम्।      नीचपृष्ठोत्तरकोणप्रसारितम्।  
-नीचपुरोदक्षिणकोणप्रसारितम्।   (नीचोत्तरवक्रमसारितम्?)।  
-नीचदक्षिणवक्रप्रसारितम्।      नीचोत्तरविषमप्रसारितम्।  
-नीचदक्षिणपार्श्वप्रसारितम्।      (नीचोत्तरकोणप्रसारितम्?)।  
-नीचदक्षिणविषमप्रसारितम्।     नीचोत्तरवक्रप्रसारितम्।  
-नीचदक्षिणापरकोणप्रसारितम्।   नीचोत्तरपार्श्वप्रसारितम्।  
-नीचपृष्ठवक्रप्रसारितम्।       नीचोत्तरपूर्वकोणप्रसारितम्।  
-नीचपृष्ठप्रसारितम्।          नीचोत्तरपुरोवक्रप्रसारितम्।
+नीचपुरःप्रसारितम्। नीचपृष्ठविषमप्रसारितम्।  
+नीचपुरोविषमप्रसारितम्। नीचपृष्ठोत्तरकोणप्रसारितम्।  
+नीचपुरोदक्षिणकोणप्रसारितम्। (नीचोत्तरवक्रमसारितम्?)।  
+नीचदक्षिणवक्रप्रसारितम्। नीचोत्तरविषमप्रसारितम्।  
+नीचदक्षिणपार्श्वप्रसारितम्। (नीचोत्तरकोणप्रसारितम्?)।  
+नीचदक्षिणविषमप्रसारितम्। नीचोत्तरवक्रप्रसारितम्।  
+नीचदक्षिणापरकोणप्रसारितम्। नीचोत्तरपार्श्वप्रसारितम्।  
+नीचपृष्ठवक्रप्रसारितम्। नीचोत्तरपूर्वकोणप्रसारितम्।  
+नीचपृष्ठप्रसारितम्। नीचोत्तरपुरोवक्रप्रसारितम्।
 
 **नीचभेदाः १६.**  
 **——————————**
 
-नीचतरपुरःप्रसारितम्।         नीचतरपृष्ठवक्रप्रसारितम्।   
-नीचतरोपुरोविषमप्रसारितम्।     नीचतरपृष्ठप्रसारितम्।  
+नीचतरपुरःप्रसारितम्। नीचतरपृष्ठवक्रप्रसारितम्।   
+नीचतरोपुरोविषमप्रसारितम्। नीचतरपृष्ठप्रसारितम्।  
 नीचतरपुरोदक्षिणकोणप्रसारितम्।
 नीचतरपृष्ठविषमप्रसारितम्।नीचतरदक्षिणवक्रप्रसारितम्।    
-नीचतरपृष्ठोत्तरकोणप्रसारितम्  
-नीचतरदक्षिणपार्श्वप्रसारितम्।     नीचतरोत्तरवक्रप्रसारितम्।  
-नीचतरदक्षिणविषमप्रसारितम्।    नीचतरोत्तरपार्श्वप्रसारितम्।  
-नीचतरदक्षिणापरकोणप्रसारितम्।  नीचतरोत्तरविषमप्रसारितम्।      
+नीचतरपृष्ठोत्तरकोणप्रसारितं  
+नीचतरदक्षिणपार्श्वप्रसारितम्। नीचतरोत्तरवक्रप्रसारितम्।  
+नीचतरदक्षिणविषमप्रसारितम्। नीचतरोत्तरपार्श्वप्रसारितम्।  
+नीचतरदक्षिणापरकोणप्रसारितम्। नीचतरोत्तरविषमप्रसारितम्।         
       
 
-                      
+                                            
 नीचतरोत्तरपूर्वकोणप्रसारितम्।
 
-                      
-नीचतरपूर्ववक्रप्रसारितम्।
+                       नीचतरपूर्ववक्रप्रसारितम्।
 
 **नीचतरभेदाः १६.**  
 **——————————**
 
-**अधोमुखपुरःप्रसारितम्।         अधोमुखपृष्ठप्रसारितम्।  
-अधोमुखपुरोविषमप्रसारितम्।     अधोमुखपृष्ठविषमप्रसारितम्।  
+**अधोमुखपुरःप्रसारितम्। अधोमुखपृष्ठप्रसारितम्।  
+अधोमुखपुरोविषमप्रसारितम्। अधोमुखपृष्ठविषमप्रसारितम्।  
 अधोमुखपुरोदक्षिण कोणप्रसारितम्। अधोमुखपृष्ठोत्तरकोणप्रसारितम्।  
-अधोमुखदक्षिणवक्रप्रसारितम्।     अधोमुखोत्तरवक्रप्रसारितम्।  
-अधोमुखदक्षिणपार्श्वप्रसारितम्।     अधोमुखोत्तरपार्श्वप्रसारितम्।  
-अधोमुखदक्षिणविषमप्रसारितम्।    अधोमुखोत्तरविषमप्रसारितम्।  
-अधोमुखदक्षिणापरकोणमसारितम्।  अधोमुखोत्तरपूर्वप्रसारितम्।  
-अधोमुखपृष्ठवक्रप्रसारितम्।       अधोमुखपूर्ववक्रप्रसारितम्।**
+अधोमुखदक्षिणवक्रप्रसारितम्। अधोमुखोत्तरवक्रप्रसारितम्।  
+अधोमुखदक्षिणपार्श्वप्रसारितम्। अधोमुखोत्तरपार्श्वप्रसारितम्।  
+अधोमुखदक्षिणविषमप्रसारितम्। अधोमुखोत्तरविषमप्रसारितम्।  
+अधोमुखदक्षिणापरकोणमसारितम्। अधोमुखोत्तरपूर्वप्रसारितम्।  
+अधोमुखपृष्ठवक्रप्रसारितम्। अधोमुखपूर्ववक्रप्रसारितम्।**
 
 **अधोमुखभेदाः १६.**  
 **——————————**
@@ -10583,7 +10601,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  बाहूनां प्रचारदेशमाह—
 
- उभयपार्श्वप्रदेशात् पूर्वखण्डाः नाट्यप्रचारभूमयः। अपरखण्डास्तु उपकारभूमयः। तेषु सप्तस्थानेषु ऊर्ध्वबाहवश्चरन्ति। एवं संकुचितबहूनां सप्तस्थानसञ्चाराभावात् यथायोग्यं प्रचरन्ति। प्रचारकाले उत्तममध्यमदेशाः सुलक्षणा विलक्षणा दुर्लक्षणाः सन्ति। रेखाशुद्धप्रदेशेषु चरा बाहवः सलक्षणाः। शुद्धदेशा अशुद्धदेशेषु चरा बाहवो विलक्षणाः। शुद्धाशुद्धदेशविवेकज्ञानहीना बाहवो दुर्लक्षणाः। एवं विलक्षणदुर्लक्षणहीनाः सलक्षणा बाहवः प्रचारकाले रागज्ञानतालज्ञानविशिष्टाः सामाजिकानां रससन्तोषप्रदाः।
+ उभयपार्श्वप्रदेशात् पूर्वखण्डाः नाट्यप्रचारभूमयः। अपरखण्डास्तु उपकारभूमयः। तेषु सप्तस्थानेषु ऊर्ध्वबाहवश्चरन्ति। एवं सङ्कुचितबहूनां सप्तस्थानसञ्चाराभावात् यथायोग्यं प्रचरन्ति। प्रचारकाले उत्तममध्यमदेशाः सुलक्षणा विलक्षणा दुर्लक्षणाः सन्ति। रेखाशुद्धप्रदेशेषु चरा बाहवः सलक्षणाः। शुद्धदेशा अशुद्धदेशेषु चरा बाहवो विलक्षणाः। शुद्धाशुद्धदेशविवेकज्ञानहीना बाहवो दुर्लक्षणाः। एवं विलक्षणदुर्लक्षणहीनाः सलक्षणा बाहवः प्रचारकाले रागज्ञानताळज्ञानविशिष्टाः सामाजिकानां रससन्तोषप्रदाः।
 
  इदानीं तिर्यग्देशावान्तरदेशचरबाहूनां लक्षणमाह—
 
@@ -10602,7 +10620,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  पुरोव्यत्यस्तस्य लक्षणमाह—
 
 **वक्षस्समौ चक्रबाहू व्यत्यस्तौ कूर्परद्वयात्।  
-पुरोव्यत्यस्तवाहू तौकीर्तितौ भरतागमे॥५०॥**
+पुरोव्यत्यस्तवाहू तौ कीर्तितौ भरतागमे॥५०॥**
 
  विनियोगः—
 
@@ -10619,9 +10637,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **सभापतेस्तु निलये कुचयोश्छादने करे॥५४॥  
 एवमादिविशेषेषु तिर्यग्वाहुर्नियुज्यते।**
 
- एवं व्यत्यस्तपुरोव्यत्यस्तोर्ध्वाधोव्यत्यस्ततिर्यग्वाहूनां लक्षणवि[^14]नियोगश्चिन्तितः॥
+ एवं व्यत्यस्तपुरोव्यत्यस्तोर्ध्वाधोव्यत्यस्ततिर्यग्वाहूनां लक्षणवि[^16]नियोगश्चिन्तितः॥
 
-[^14]: "ऊर्ध्वव्य व्यस्ताधोन्मतास्तयोर्विनियोगो लप्तः स्यात्।"
+[^16]: # "ऊर्ध्वव्य व्यस्ताधोन्मतास्तयोर्विनियोगो लप्तः स्यात्।"
 
  इदानीमवान्तरदेशस्वरूपमाह—
 
@@ -10638,9 +10656,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 उच्चदेशं यदि गतः सोच्चावान्तरदेशगः॥५८॥  
 अवान्तरो देशगतो विस्तृतः सार्धतालतः।  
 उच्चावान्तरदेशे च विस्तृतो बाहुरुच्यते॥५९॥  
-उक्त उच्चस्थितो बाहुः सार्धंतालप्रमाणतः।  
+उक्त उच्चस्थितो बाहुः सार्धन्तालप्रमाणतः।  
 गत उच्चतरं देशं विस्तृतोच्चतरो भुजः॥६०॥  
-विस्तृतोच्चतरो बाहुः सार्धंतालप्रमाणतः।  
+विस्तृतोच्चतरो बाहुः सार्धन्तालप्रमाणतः।  
 तिर्यगुच्चतरं प्राप्तस्तिर्यगुच्चतरो भुजः॥६१॥**
 
  एवं नीचदेशेऽपि पञ्चानामपि बाहूनां लक्षणमाह—
@@ -10661,7 +10679,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 तिर्यङ्मार्गगतो बाहुस्तिर्यङ्नीचतरः स्मृतः॥६५॥  
 तिर्यङ्नीचतरो बाहुस्तालमानेन विस्तृतः।  
 तिर्यङ्नीचतरो बाहुर्विस्तृतः परिकीर्तितः॥६६॥  
-उक्तनीचतराद् देशात्सार्धतालप्रमाणतः।  
+उक्तनीचतराद् देशात् सार्धतालप्रमाणतः।  
 अधोमुखतिरश्चीनबाहुरित्युच्यते बुधैः॥६७॥**
 
  एवं तिर्यङ्मुखावान्तरदेशगतानां बाहूनां लक्षणमुक्तम्। इदानीं बाहूनां प्रयत्न भेदमाह—
@@ -10714,7 +10732,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  प्रयत्नस्य लक्षणमाह—
 
 **यत्नानुकूलक्रियया चतुराकारशोभनः।  
-प्रयत्नो बाहुरित्युक्तः प्रसिद्धोभरतागमे॥७७॥**
+प्रयत्नो बाहुरित्युक्तः प्रसिद्धो भरतागमे॥७७॥**
 
  विनियोगः—
 
@@ -10723,7 +10741,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  इदानीं कूर्परमणिबन्धक्रियाकौशल्यभेदमाह—
 
-**ऋजुः समश्चललितो लघुर्लघुतरस्तथा।  
+**ऋजुः समश्च ललितो लघुर्लघुतरस्तथा।  
 एताः क्रियाः कूर्परे च मणिबन्धे च सम्भवाः॥७९॥**
 
  ऋजुलक्षणमाह—
@@ -10734,7 +10752,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **चामराणां च चलने भ्रमणे वेष्टने तथा।  
-नटने बाहुसञ्चारे ऋजुर्नाट्येनियुज्यते॥८१॥**
+नटने बाहुसञ्चारे ऋजुर्नाट्ये नियुज्यते॥८१॥**
 
  समस्य लक्षणमाह—
 
@@ -10867,10 +10885,10 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पश्चाद्वेष्टनस्य लक्षणमाह—
 
-**\*[^15]बाहुद्वयं वा बाहुं वा पृष्ठतः सम्प्रसार्य च।  
+**\*[^17]बाहुद्वयं वा बाहुं वा पृष्ठतः सम्प्रसार्य च।  
 वेष्टने सति तत् तावत् पृष्ठवेष्टनमुच्यते॥१०९॥**
 
-[^15]: "नेदं पश्चाद्वेष्टनस्य लक्षणम्। तत्त लुप्तमिति प्रतिभाति।"
+[^17]: # "नेदं पश्चाद्वेष्टनस्य लक्षणम्। तत्त लुप्तमिति प्रतिभाति।"
 
  ऊर्ध्ववेष्टनस्य लक्षणमाह—
 
@@ -11050,7 +11068,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **भुजमूलक्रियापूर्व गतागतसमन्वितः।  
 खर्वक्रियासु विश्रान्तः स खर्वः परिकीर्तितः॥१५१॥  
-एतेषां विनियोगस्तु नाट्येसर्वत्र वर्तते।  
+एतेषां विनियोगस्तु नाट्ये सर्वत्र वर्तते।  
 अतो वर्तनमित्युक्तं नर्तकैर्भरतागमे॥१५२॥**
 
  खण्डनलक्षणविनियोगश्चिन्त्यते—
@@ -11130,7 +11148,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **पुरः पार्श्वोऽन्यपार्श्वश्च पार्श्वभागगतागतः।  
 पुरोगतागतश्चैव भुजमूलात् पुरोगतः॥१७१॥  
-ऊर्ध्वाधोगमनं पार्श्वाद्द्विपार्श्वोर्ध्वगतागतः।  
+ऊर्ध्वाधोगमनं पार्श्वाद् द्विपार्श्वोर्ध्वगतागतः।  
 पार्श्वडोलः पुरोडोलस्तिर्यग्डोलविवर्तनम्॥१७२॥  
 विवर्तनक्रिया नाट्ये दशधेति प्रकीर्तिताः।**
 
@@ -11138,12 +11156,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
 **त्रिपताको हंसपक्षः पताकः कटकामुखः॥१७३॥  
 शिखरः पल्लवश्चैव मुष्टिः कमल एव च।  
-एतेकरा वृत्तकार्ये नटनार्थोपयोगिनः॥१७४॥**
+एते करा वृत्तकार्ये नटनार्थोपयोगिनः॥१७४॥**
 
  क्रियाप्रचारमाह—
 
 **उत्तानिताधस्तलेन पुरःपार्श्वप्रसारितः।  
-पुरःपाश्वेइति प्रोक्तः प्रचारो भरतागमे॥१७५॥**
+पुरःपाश्वे इति प्रोक्तः प्रचारो भरतागमे॥१७५॥**
 
  अन्यपार्श्वस्य लक्षणमाह—
 
@@ -11205,7 +11223,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **तिर्यक पार्श्वद्वये देशे डोलबाहू विवर्तितौ।  
 तिर्यग्डोलाविति प्रोक्तौ बाहू भरतवेदिभिः॥१८८॥**
 
- उक्तार्थमुपसंहरति—इदानीं निरूपिताः बाहुलक्षणे भ्रमणकम्पनलोलरेचितचलिता अस्थिरक्रियाः। समानतोर्ध्वविषमवकाः स्थिरक्रियाः। सप्तसु स्थानेषु शताधिकद्वादशबाहुषु प्रथमं स्थिरपञ्चक्रियासंयोगे पञ्चशतोत्तरषष्टिसंख्याका बाहव उत्पन्नाः। उत्पन्नेषु पञ्चशतोत्तरषष्टिसंख्याकेषु बाहुषु अस्थिरपञ्चक्रियासंयोगात् सहस्रद्वयाधिकाष्टशतबाहवः समुत्पन्नाः भुजमूलकूर्परमणिबन्धक्रियासु यथायोग्यं विनियुज्यन्ते॥
+ उक्तार्थमुपसंहरति—इदानीं निरूपिताः बाहुलक्षणे भ्रमणकम्पनलोलरेचितचलिता अस्थिरक्रियाः। समानतोर्ध्वविषमवकाः स्थिरक्रियाः। सप्तसु स्थानेषु शताधिकद्वादशबाहुषु प्रथमं स्थिरपञ्चक्रियासंयोगे पञ्चशतोत्तरषष्टिसङ्ख्याका बाहव उत्पन्नाः। उत्पन्नेषु पञ्चशतोत्तरषष्टिसङ्ख्याकेषु बाहुषु अस्थिरपञ्चक्रियासंयोगात् सहस्रद्वयाधिकाष्टशतबाहवः समुत्पन्नाः भुजमूलकूर्परमणिबन्धक्रियासु यथायोग्यं विनियुज्यन्ते॥
 
 **वञ्चिराजकुलशेखरप्रभोर्वाहुवीर्यबलवर्धने सदा।  
 नर्तने रसिकसम्मता भुजा बालरामभरते निरूपिताः॥१८९॥**
@@ -11219,12 +11237,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पूर्णस्य लक्षणमाह—
 
-**स्थूलाकारतया तावत् संपूर्णः पोषितोदरः।  
+**स्थूलाकारतया तावत् सम्पूर्णः पोषितोदरः।  
 पूर्णं तदुदरं ज्ञेयं भरते नृत्तवेदिभिः॥२॥**
 
  विनियोगः—
 
-**लम्बोदरे पूर्णगर्भे वायुसंपूरितोदरे।  
+**लम्बोदरे पूर्णगर्भे वायुसम्पूरितोदरे।  
 महोदरे बृहत्कुक्षौ पूर्णो नाट्ये नियुज्यते॥३॥**
 
  क्षामस्य लक्षणमाह—
@@ -11255,7 +11273,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **सङ्कटे चिन्तने दुःखे चोदरे व्याधिपीडने।  
-विनष्टकार्ये भङ्गे च भुग्नं नाट्येनियुज्यते॥९॥**
+विनष्टकार्ये भङ्गे च भुग्नं नाट्ये नियुज्यते॥९॥**
 
  कम्पितस्य लक्षणमाह—
 
@@ -11275,7 +11293,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **अनिमित्तभयोत्पत्तावकार्यश्रवणेऽपि च।  
-संज्ञया कृतरोमाञ्चे विह्वलं विनियुज्यते॥१३॥**
+सञ्ज्ञया कृतरोमाञ्चे विह्वलं विनियुज्यते॥१३॥**
 
  सङ्कोचस्य लक्षणमाह—
 
@@ -11284,7 +11302,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**एंकृत्य दीर्घश्वासे च पिशाचोदरशोषणे।  
+**एङ्कृत्य दीर्घश्वासे च पिशाचोदरशोषणे।  
 कूलस्य भञ्जने चापि जृम्भणे विनियुज्यते॥१५॥  
 एवमादिविशेषेषु सरसाभिनयेषु च  
 बालराममहीपालचिन्तिताभिनये मुदा॥१६॥  
@@ -11292,7 +11310,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  पृष्ठलक्षणविनियोगश्चिन्त्यते—
 
-**कुब्जाकारं समं तिर्यग्वक्रंकम्पितमेव च।  
+**कुब्जाकारं समं तिर्यग्वक्रं कम्पितमेव च।  
 पञ्चात्पृष्ठनतं चेति पञ्चधा पृष्ठमुच्यते॥१॥**
 
  कुब्जाकारस्य लक्षणमाह—
@@ -11318,7 +11336,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  तिर्यग्वक्रस्य लक्षणमाह—
 
 **पृष्ठपार्श्वद्वयं तावत् तिर्यक् पार्श्वेषु वक्रितम्।  
-वामे वा दक्षिणे भागे तिर्यग्वक्रंप्रकीर्तितम्॥६॥**
+वामे वा दक्षिणे भागे तिर्यग्वक्रं प्रकीर्तितम्॥६॥**
 
  विनियोगः—
 
@@ -11328,7 +11346,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  कम्पितस्य लक्षणमाह—
 
 **पृष्ठान्तर्भागतः पृष्ठदेशेनापि च कम्पितम्।  
-मुहुर्मुहुश्चसंघर्षादुत्पन्नं भरतागमे॥८॥**
+मुहुर्मुहुश्च सङ्घर्षादुत्पन्नं भरतागमे॥८॥**
 
  विनियोगः—
 
@@ -11367,7 +11385,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  विनियोगः—
 
-**नाट्येच समरेखायां सम्माननिरीक्षणे॥३॥  
+**नाट्ये च समरेखायां सम्माननिरीक्षणे॥३॥  
 विनयाद् देवसेवायां सम ऊरुर्नियुज्यते।**
 
  समस्तस्य लक्षणमाह—
@@ -11398,7 +11416,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **सङ्कोचे विस्तृतं नाट्ये पदविस्तारकर्मणि॥९॥  
-अधःशयरतौ स्त्रीणां कम्पने विनियुज्यते।**
+अधः शयरतौ स्त्रीणां कम्पने विनियुज्यते।**
 
  व्यत्यस्तस्य लक्षणमाह—
 
@@ -11502,7 +11520,7 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 
  मण्डलस्य लक्षणमाह—
 
-**कुञ्चितेजानुनी कृत्वा स्वोरुदेशे च विस्तृते॥१०॥  
+**कुञ्चिते जानुनी कृत्वा स्वोरुदेशे च विस्तृते॥१०॥  
 चतुस्तालान्तरे पादौ तालमानेन विस्तृतौ।  
 तिर्यङ्मुखाग्रगौ नाट्ये मण्डलस्थानमुच्यते॥११॥**
 
@@ -11592,9 +11610,9 @@ Maharaja of Travancore–1758 to 1798 A. D.**
  विनियोगः—
 
 **बालनाट्योन्नमत्पादे स्थूलसोपानरोहणे ।  
-कोपेन ताडने नाट्येचैतेषु विनियुज्यते॥३४॥**
+कोपेन ताडने नाट्ये चैतेषु विनियुज्यते॥३४॥**
 
- कुञ्चितोच्चतरस्य लक्षणमाह—
+ कुञ्चितोच्चतरस्य लक्षणमाह —
 
 **कुञ्चितोच्चमिदं जानु नाभिमानसमं यदि।  
 कुञ्चितोच्चतरं जानु कीर्तितं भरतागमे॥३५॥**
@@ -11624,16 +11642,16 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **दण्डपादं भुवि क्षिप्तं तथा दीर्घप्रसारणम्॥४१॥  
 जङ्घाजानूरुजठरवक्षःस्कन्धशिरःसमम्।  
 पुरः पश्चात् पार्श्वतश्च सप्तधा च प्रसारणम्॥४२॥  
-जङ्घासमोल्लङ्घनेच शिरस्तो जानुनः समम्।  
+जङ्घासमोल्लङ्घने च शिरस्तो जानुनः समम्।  
 वृत्ते च भ्रमणे नाट्ये चोरुतुल्यप्रसारणम्॥४३॥  
 अश्वाधिकरणे चोर्ध्वकरणे कुक्षिमानकम्।  
 करणाङ्गविधौ नाट्ये वक्षोमानप्रसारणम्॥४४॥  
 स्कन्धमानप्रसरणं दण्डमानोन्नमत्पदे।  
 शिरोमानप्रसरणं त्रिविक्रमपदे तथा॥४५॥**
 
- पुरः पश्चात् पार्श्वतश्चसप्तस्थानात् प्रसारणम्। पुरः प्रसारणमुक्तम्। पश्चात्प्रसारणं वक्ष्यते। जङ्घासमपश्चात्प्रसारणम्। जानुसमपश्चात्प्रसारणम्। ऊरुसमपश्चात्प्रसारणम्। कुक्षिसमपश्चात्प्रसारणम्। वक्षःसमपश्चात्प्रसारणम्। स्कन्धसम पश्चात्प्रसारणम्। शिरःसमपश्चात्प्रसारणम्। पश्चात्प्रसारणमुक्तम्॥  
+ पुरः पश्चात् पार्श्वतश्च सप्तस्थानात् प्रसारणम्। पुरः प्रसारणमुक्तम्। पश्चात्प्रसारणं वक्ष्यते। जङ्घासमपश्चात्प्रसारणम्। जानुसमपश्चात्प्रसारणम्। ऊरुसमपश्चात्प्रसारणम्। कुक्षिसमपश्चात्प्रसारणम्। वक्षःसमपश्चात्प्रसारणम्। स्कन्धसम पश्चात्प्रसारणम्। शिरःसमपश्चात्प्रसारणम्। पश्चात्प्रसारणमुक्तम्॥  
 
- पार्श्वप्रसारणं वक्ष्यते। जङ्घासमपार्श्वप्रसारणम्। जानुसमपार्श्वप्रसारणम्। ऊरुसमपार्श्वप्रसारणम्। कुक्षिसमपार्श्वप्रसारणम्। वक्षःसमपार्श्वप्रसारणम्। स्कन्धसमपार्श्वप्रसारणम्। शिरःसमपार्श्वप्रसारणम्। एवं वामपार्श्वेऽपि पुरःपश्चात्पार्श्वप्रसारणं त्रिसप्तसंख्याकमुपपादनीयम्।
+ पार्श्वप्रसारणं वक्ष्यते। जङ्घासमपार्श्वप्रसारणम्। जानुसमपार्श्वप्रसारणम्। ऊरुसमपार्श्वप्रसारणम्। कुक्षिसमपार्श्वप्रसारणम्। वक्षःसमपार्श्वप्रसारणम्। स्कन्धसमपार्श्वप्रसारणम्। शिरःसमपार्श्वप्रसारणम्। एवं वामपार्श्वेऽपि पुरःपश्चात्पार्श्वप्रसारणं त्रिसप्तसङ्ख्याकमुपपादनीयम्।
 
  इदानीं क्रमप्राप्तवामगुल्फसमसूचीपदजानुलक्षणमाह—
 
@@ -11674,11 +11692,12 @@ Maharaja of Travancore–1758 to 1798 A. D.**
 **प्रसारितपदाकर्षे पुरतः पृष्ठतोऽपि वा।  
 एवमादिविशेषेषु सरसाभिनयेषु च॥५४॥  
 बालराममहीपालचिन्तिताभिनये मुदा।  
-एतेष्वेव हि कार्येषु चाकृष्टा विनियुज्यते**\*[^16]**॥५५॥**
+एतेष्वेव हि कार्येषु चाकृष्टा विनियुज्यते**\*[^18]**॥५५॥**
 
-[^16]: "प्रतिज्ञानुरोधात् तु गुल्फतलादीनां लक्षणविनियोगस्य वक्तव्यांशत्वेनावशिष्ट- तया प्रम्धो न पूर्ण इति प्रतिभाति ।"
+[^18]: # "प्रतिज्ञानुरोधात् तु गुल्फतलादीनां लक्षणविनियोगस्य वक्तव्यांशत्वेनावशिष्ट- तया प्रम्धो न पूर्ण इति प्रतिभाति ।"
 
 **शुभं भूयात्।  
 ————————**  
+
 
 \]

@@ -1,15 +1,17 @@
 +++
-title = "अथर्वणोपनिषद् मध्व-भाष्यम्"
+title = "Download Text\n\t\t\t\tअथर्वणोपनिषद् मध्व-भाष्यम्"
 author = "श्रीमदानन्दतीर्थभगवत्पादाचार्याः"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3245"
 source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzOTU2NjA4NzA1MTEz"
-
 +++
-[[अथर्वणोपनिषद् मध्व-भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzOTU2NjA4NzA1MTEz)]]
+[[
+
+ Download Text
+				अथर्वणोपनिषद् मध्व-भाष्यम्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzOTU2NjA4NzA1MTEz)]]
 
 \[
 
@@ -183,7 +185,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDkzOTU2NjA4
 प्रीयतां भगवान् मह्यं प्रेष्ठप्रेष्ठतमः सदा । मम नित्यं नमाम्येनं परमोदारसद्गुणम् ॥   
 
 
-**इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितं आथर्वणोपनिषद्भाष्यम् ॥**
+**इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचितम् आथर्वणोपनिषद्भाष्यम् ॥**
 
 
 

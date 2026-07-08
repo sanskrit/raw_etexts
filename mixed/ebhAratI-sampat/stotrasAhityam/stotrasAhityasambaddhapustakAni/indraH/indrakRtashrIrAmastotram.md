@@ -4,24 +4,13 @@ author = "इन्द्रः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2992"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NjIzNzU3MDIyNzgy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[इन्द्रकृतश्रीरामस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NjIzNzU3MDIyNzgy&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -89,14 +78,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NjIzNzU3MDI
 ॥  
 इति श्रीमदध्यात्मरामायणे युद्धकाण्डे त्रयोदशसर्गे  
 इन्द्रकृतश्रीरामस्तोत्रं सम्पूर्णम् ॥
-
-
-
-
-
-
-
-
 
 
 

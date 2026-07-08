@@ -3,10 +3,9 @@ title = "गौर्यष्टोत्तरशतनामावलिः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2943"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NzQ0MTQ5NjE1Mjgy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गौर्यष्टोत्तरशतनामावलिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NzQ0MTQ5NjE1Mjgy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -20,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NzQ0MTQ5NjE
 
 ॐ महामनोन्मणीशक्त्यै नमः ..  
 ॐ शिवशक्त्यै नमः ..  
-ॐ शिवंकर्यै नमः ..  
+ॐ शिवङ्कर्यै नमः ..  
 ॐ इच्छाशक्ति क्रियाशक्ति ज्ञानशक्ति स्वरूपिण्यै नमः ..  
 ॐ शान्त्यतीत कलानन्दायै नमः ..  
 ॐ शिवमायायै नमः ..  
@@ -113,7 +112,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NzQ0MTQ5NjE
 ॐ अन्नपूर्णेश्वर्यै नमः ..  
 ॐ मात्रे नमः ..  
 ॐ स्वर्णाकारतटित्प्रभायै नमः ..  
-ॐ स्वरव्यंजनवर्णोदयायै नमः ..  
+ॐ स्वरव्यञ्जनवर्णोदयायै नमः ..  
 ॐ गद्यपद्यादिकारणायै नमः ..  
 ॐ पदवाक्यार्थनिलयायै नमः ..  
 ॐ बिन्दुनादादिकारणायै नमः ..  
@@ -123,7 +122,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NzQ0MTQ5NjE
 ॐ विज्ञानदायिन्यै नमः ..  
 ॐ प्रज्ञायै नमः ..  
 ॐ प्रज्ञानफलदायिन्यै नमः ..  
-ॐ अहंकारकलातीतायै नमः ..  
+ॐ अहङ्कारकलातीतायै नमः ..  
 ॐ पराशक्त्यै नमः ..  
 ॐ परात्परायै नमः ..
 

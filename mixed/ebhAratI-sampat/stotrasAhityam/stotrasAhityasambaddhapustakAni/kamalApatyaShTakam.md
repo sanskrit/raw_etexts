@@ -4,10 +4,9 @@ domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
 "second editor" = "स्वामिपरमानन्दः"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3025"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NjIzMzM2ODgzMDky&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[कमलापत्यष्टकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NjIzMzM2ODgzMDky&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -71,9 +70,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NjIzMzM2ODg
 परमहंसजनेन समीरितम् ।
 
 पठति यस्तु समाहितचेतसा  
-व्रजति विष्णुपदं स नरो ध्रुवं ॥ ९॥
+व्रजति विष्णुपदं स नरो ध्रुवम् ॥ ९॥
 
-इति श्रीमत्परमहंसस्वामिब्रह्मानन्दविरचितं कमलापत्यष्टकं समाप्तं॥
+इति श्रीमत्परमहंसस्वामिब्रह्मानन्दविरचितं कमलापत्यष्टकं समाप्तम्॥
 
 
 

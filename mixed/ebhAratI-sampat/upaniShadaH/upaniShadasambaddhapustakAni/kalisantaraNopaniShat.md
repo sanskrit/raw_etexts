@@ -3,10 +3,9 @@ title = "कलिसन्तरणोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4287"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExMzYyMTk4NTM1MTE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[कलिसन्तरणोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDExMzYyMTk4NTM1MTE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -18,13 +17,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExMzYyMTk4NTM
 
 
 
-कलिसन्तरणोपनिषत्
+**कलिसन्तरणोपनिषत्**
 
 
 
 ॐ सह नाववतु । सह नौ भुनक्तु ।
 
-सह वीर्यंकरवावहै ।
+सह वीर्यङ्करवावहै ।
 
 तेजस्विनावधीतमस्तु मा विद्विषावहै ।
 
@@ -100,7 +99,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDExMzYyMTk4NTM
 
 ॐ सह नाववतु । सह नौ भुनक्तु ।
 
-सह वीर्यंकरवावहै ।
+सह वीर्यङ्करवावहै ।
 
 तेजस्विनावधीतमस्तु मा विद्विषावहै ।
 

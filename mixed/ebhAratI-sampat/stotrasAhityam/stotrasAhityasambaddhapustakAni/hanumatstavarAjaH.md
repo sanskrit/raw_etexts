@@ -3,10 +3,9 @@ title = "हनुमत्स्तवराजः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3052"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MTc4MTM1MDg5Mjky&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[हनुमत्स्तवराजः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MTc4MTM1MDg5Mjky&pageno=MjI0MjQyNjk5NTk=)]]
 

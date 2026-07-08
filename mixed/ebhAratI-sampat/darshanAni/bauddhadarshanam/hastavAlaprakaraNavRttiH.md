@@ -3,10 +3,9 @@ title = "हस्तवालप्रकरणवृत्तिः"
 domain = "दर्शनानि"
 sub-domain = "बौद्धदर्शनम्"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3715"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3Nzk1MDQwNjI2NjUz&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[हस्तवालप्रकरणवृत्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDM3Nzk1MDQwNjI2NjUz&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -22,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3Nzk1MDQwNjI
 
 मञ्जुश्रीये ज्ञानसत्त्वाय
 
-नमः त्रैलोक्ये व्यवहारमात्रे सति परमर्थाभिमानात्तत्त्वार्थानवगाहिभिः सत्त्वैर्वस्तुस्वभावविवेकद्वारेणाविपर्ययज्ञानसंप्राप्तये शास्त्ररचनेयम् ॥
+नमः त्रैलोक्ये व्यवहारमात्रे सति परमर्थाभिमानात्तत्त्वार्थानवगाहिभिः सत्त्वैर्वस्तुस्वभावविवेकद्वारेणाविपर्ययज्ञानसम्प्राप्तये शास्त्ररचनेयम् ॥
 
 रज्जौ सर्पमनस्कारो रज्जुं दृष्ट्वा निरर्थकः ।  
 तदंशान् वीक्ष्य तत्रापि भ्रान्ता बुद्धिरहाविव ॥ १ (६) ॥
@@ -42,7 +41,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3Nzk1MDQwNjI
 लौकिकार्थविचरेषु लोकसिद्धिमनुव्रजेत् ।  
 क्लेशन् सर्वसं त्यक्तुमन यतेत परमार्थतः ॥ ६ ॥
 
-\\Z--------------------------------------------------
+\Z--------------------------------------------------
 
 
 

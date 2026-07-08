@@ -3,10 +3,9 @@ title = "अवधूताष्टकम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2877"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODQ0OTgxMTgxNjcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अवधूताष्टकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODQ0OTgxMTgxNjcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODQ0OTgxMTg
 
 
 
-अवधूताष्टकम्
+अवधूताष्टकं
 
 
 
@@ -38,7 +37,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODQ0OTgxMTg
 
 नाहं देहो न मे देहो जीवो नाहमहं हि चित् ।
 
-एवं विज्ञाय सन्तुष्टम् ह्यवधूतं नमाम्यहम् ॥ ४॥
+एवं विज्ञाय सन्तुष्टं ह्यवधूतं नमाम्यहम् ॥ ४॥
 
 समस्तं कल्पनामात्रं ह्यात्मा मुक्तः सनातनः ।
 

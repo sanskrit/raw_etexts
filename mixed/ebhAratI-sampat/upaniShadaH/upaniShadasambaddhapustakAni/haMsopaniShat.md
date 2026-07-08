@@ -3,10 +3,9 @@ title = "हंसोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4280"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY4MDE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[हंसोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY4MDE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY
 
 
 
-॥ हंसोपनिषत् ॥
+**॥ हंसोपनिषत् ॥**
 
 
 
@@ -38,7 +37,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY
 
 पार्वत्या कथितं तत्त्वं शृणु गौतम तन्मम ॥ २॥
 
-अनाख्येयमिदं गुह्यं योगिनां कोशसंनिभम् ।
+अनाख्येयमिदं गुह्यं योगिनां कोशसन्निभम् ।
 
 हंसस्याकृतिविस्तारं भुक्तिमुक्तिफलप्रदम् ॥ ३॥
 
@@ -110,13 +109,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY
 
 नादमनुभवति एवं सर्वं हंसवशान्नादो दशविधो जायते
 
-| चिणीति प्रथमः | चिञ्चिणीति द्वितीयः |
+। चिणीति प्रथमः । चिञ्चिणीति द्वितीयः ।
 
 घण्टानादस्तृतीयः । शङ्खनादश्चतुर्थः ।
 
 पञ्चमतन्त्रीनादः । षष्ठस्तालनादः । सप्तमो वेणुनादः
 
-| अष्टमो मृदङ्गनादः | नवमो भेरीनादः |
+। अष्टमो मृदङ्गनादः । नवमो भेरीनादः ।
 
 दशमो मेघनादः । नवमं परित्यज्य दशममेवाभ्यसेत् ।
 
@@ -130,11 +129,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY
 
 अदृश्यं नवमे देहं दिव्यं चक्षुस्तथामलम् । दशमे
 
-परमं ब्रह्म भवेद्ब्रह्मात्मसंनिधौ ॥
+परमं ब्रह्म भवेद्ब्रह्मात्मसन्निधौ ॥
 
 तस्मिन्मनो विलीयते मनसि सङ्कल्पविकल्पे दग्धे पुण्यपापे
 
-सदाशिवः शक्त्यात्मा सर्वत्रावस्थितः स्वयंज्योतिः शुद्धो
+सदाशिवः शक्त्यात्मा सर्वत्रावस्थितः स्वयञ्ज्योतिः शुद्धो
 
 बुद्धो नित्यो निरञ्जनः शान्तः प्रकाशत इति ॥
 
@@ -142,9 +141,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY
 
 ॐ पूर्णमद इति शान्तिः ॥
 
-इति हंसोपनिषत्समाप्ता ॥
+**इति हंसोपनिषत्समाप्ता ॥**
 
-------------------------
+** ------------------------**
 
 
 

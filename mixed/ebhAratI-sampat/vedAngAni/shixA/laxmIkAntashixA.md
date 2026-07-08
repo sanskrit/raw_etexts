@@ -3,10 +3,9 @@ title = "लक्ष्मीकान्तशिक्षा"
 domain = "वेदाङ्गानि"
 sub-domain = "शिक्षा"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3553"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNTIzOTQ2NDcwMTQz&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[लक्ष्मीकान्तशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNTIzOTQ2NDcwMTQz&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNTIzOTQ2NDc
 
 lakshmikanta_shiksha  
 लक्ष्मीकान्त शिक्षा  
-रक्षा वैदिकवर्णानां शिक्षा दुर्मतिरक्षसाम्  
+रक्षा वैदिकवर्णानां शिक्षा दुर्मतिरक्षसां  
 लक्ष्मीं दद्याच्चतुःश्लोकी लक्ष्मीकान्तस्य भूतिवत्  
 अच्पूर्वं हलि हल्द्विरुक्तमपि च स्पर्शो लवोर्ध्वस्वराद्  
 ऊर्ध्वार्धाद् धलि वाचि वा हलपि वानुस्वारयुक्तादिमौ  

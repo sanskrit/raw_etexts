@@ -3,10 +3,9 @@ title = "किराताष्टकम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3006"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MDI3NDA3NDY1ODgy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[किराताष्टकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MDI3NDA3NDY1ODgy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -22,9 +21,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MDI3NDA3NDY
 
 प्रत्यर्थि व्रातवक्षःस्थलरुधिरसुरा-  
 चापे सन्धाय तिष्ठन् हृदयसरसिजे  
-  
+    
 पिञ्छोत्तंसः शरण्यः पशुपतितनयो  
-  
+    
 आखेटाय वनेचरस्य गिरिजा-
 
 त्रातुं यो भुवनं पुरा समजनि  
@@ -46,7 +45,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MDI3NDA3NDY
 चापज्यानिनदैस्त्वमीश सकलान्  
 गौरीशात्मज दैवतेश्वर किरा-  
 द्रोग्धुं ये निरतास्त्वदीयपदप-  
-मायाःछन्नकलेबराश्च विषदा  
+मायाःछन्नकळेबराश्च विषदा  
 वश्यस्तम्भनमारणादि कुशल-  
 दुष्टान्संहर देवदेव शबरा-  
 तन्वा वा मनसा गिराऽपि सततं  

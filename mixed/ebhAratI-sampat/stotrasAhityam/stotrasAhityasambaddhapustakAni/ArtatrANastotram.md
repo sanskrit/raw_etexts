@@ -3,10 +3,9 @@ title = "आर्तत्राणस्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2850"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3MjA5MDkyOTg1Mzcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[आर्तत्राणस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA3MjA5MDkyOTg1Mzcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -53,7 +52,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3MjA5MDkyOTg
 
 कारुण्यादवनीतले सुरनदीमापूरयत् पावनीम्  
 ॥  
-इति श्रीमदप्पयदीक्षितविरचितं गङ्गाधरस्तोत्रम् अथवा आर्त्तत्राणस्तोत्रम् सम्पूर्णम् ॥
+इति श्रीमदप्पयदीक्षितविरचितं गङ्गाधरस्तोत्रम् अथवा आर्त्तत्राणस्तोत्रं सम्पूर्णम् ॥
 
 
 

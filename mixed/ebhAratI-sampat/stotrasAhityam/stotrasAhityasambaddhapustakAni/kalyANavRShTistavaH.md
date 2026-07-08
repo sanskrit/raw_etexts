@@ -3,10 +3,9 @@ title = "कल्याणवृष्टिस्तवः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3026"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg0MDky&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[कल्याणवृष्टिस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg0MDky&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -22,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg
 
 कल्याणवृष्टिभिरिवामृतपूरिताभि-
 
-र्लक्ष्मीस्वयंवरणमङ्गलदीपिकाभिः।
+र्लक्ष्मीस्वयंवरणमङ्गळदीपिकाभिः।
 
 सॆवाभिरम्ब तव पादसरोजमूलॆ
 
@@ -50,9 +49,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg
 
 कन्दर्पकोटिसुभगास्त्वयि भक्तिभाजः
 
-संमोहयन्ति तरुणीर्भुवनत्रयेऽपि॥४॥
+सम्मोहयन्ति तरुणीर्भुवनत्रयेऽपि॥४॥
 
-ह्रींकारमॆव तव नाम गृणन्ति वॆदा
+ह्रीङ्कारमॆव तव नाम गृणन्ति वॆदा
 
 मातस्त्रिकोणनिलयॆ त्रिपुरॆ त्रिनॆत्रॆ।
 
@@ -60,7 +59,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg
 
 दीव्यन्ति नन्दनवनॆ सहलोकपालैः॥५॥
 
-हन्तुः पुरामधिगलं परिपीयमानः
+हन्तुः पुरामधिगळं परिपीयमानः
 
 क्रूरः कथं न भविता गरलस्य वॆगः।
 
@@ -131,7 +130,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg
 
 मध्यॆ त्रिकोणनिलयं परमामृतार्द्रम्॥१४॥
 
-ह्रींकारमॆव तव नाम तदॆव रूपं
+ह्रीङ्कारमॆव तव नाम तदॆव रूपं
 
 त्वन्नाम दुर्लभमिह त्रिपुरॆ गृणन्ति।
 
@@ -139,7 +138,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc5ODY1OTI2NDg
 
 सौख्यं तनोति सरसीरुहसम्भवादॆः॥१५॥
 
-ह्रींकारत्रयसम्पुटॆन महता मन्त्रॆण सन्दीपितं
+ह्रीङ्कारत्रयसम्पुटॆन महता मन्त्रॆण सन्दीपितं
 
 स्तोत्रं यः प्रतिवासरं तव पुरो मातर्जपॆन्मन्त्रवित्।
 

@@ -3,10 +3,9 @@ title = "अर्गलास्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2846"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzM5NTAzNTAyMzcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अर्गलास्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzM5NTAzNTAyMzcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -15,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzM5NTAzNTA
 
 
 
-अर्गलास्तोत्रं
+अर्गलास्तोत्रम्
 
 
 
@@ -70,7 +69,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzM5NTAzNTA
 
 रुपं देहि जयं देहि यशो देहि द्विषो जहि ॥११॥
 
-देहि सौभाग्यंमारोग्यं देहि मे परमं सुखम् ।
+देहि सौभाग्यम्मारोग्यं देहि मे परमं सुखम् ।
 
 रुपं देहि जयं देहि यशो देहि द्विषो जहि ॥१२॥
 
@@ -122,7 +121,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzM5NTAzNTA
 
 इदं स्तोत्रं पठित्वा तु महास्तोत्रं पठेन्नरः ।
 
-स तु सप्तशतीसंख्यावरमाप्नोति सम्पदाम् ॥२५॥  
+स तु सप्तशतीसङ्ख्यावरमाप्नोति सम्पदाम् ॥२५॥  
 इति देव्या अर्गलास्तोत्रं सम्पूर्णम् ।
 
 

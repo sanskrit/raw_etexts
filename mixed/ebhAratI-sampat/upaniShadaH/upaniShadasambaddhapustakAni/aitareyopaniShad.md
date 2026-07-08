@@ -1,14 +1,16 @@
 +++
-title = "ऐतरेयोपनिषद्"
+title = "Download Text\n\t\t\t\tऐतरेयोपनिषद्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4239"
 source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4NjI2MTcwODI5NjA0"
-
 +++
-[[ऐतरेयोपनिषद्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4NjI2MTcwODI5NjA0)]]
+[[
+
+ Download Text
+				ऐतरेयोपनिषद्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4NjI2MTcwODI5NjA0)]]
 
 \[
 
@@ -196,9 +198,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4NjI2MTcw
 
 
 
-
-
-**तृतीयभागः**
+ **तृतीयभागः**
 
 
 कोऽयम् ।  
@@ -222,6 +222,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODU4NjI2MTcw
 
 स एतेन प्रज्ञेनात्मनास्माल्लोकादुत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान् कामानाप्त्वामृतः समभवत्समभवत् ॥ ३.४ ॥
 
-\\Z-------------- -------------- ------------- -----------
+\Z-------------- -------------- ------------- -----------
 
 \]

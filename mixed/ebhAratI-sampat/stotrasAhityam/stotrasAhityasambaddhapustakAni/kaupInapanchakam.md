@@ -3,10 +3,9 @@ title = "कौपीनपञ्चकम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3004"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg2NTMyMjE3MjczODgy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[कौपीनपञ्चकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg2NTMyMjE3MjczODgy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -18,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg2NTMyMjE3Mjc
 कौपीनपञ्चकम्
 
 
-॥कौपीन पंचकं ( शंकराचार्य) \।\।  
+॥कौपीन पञ्चकं ( शङ्कराचार्य) \।\।  
 वेदान्तवाक्येषु सदा रमन्तो  
 भिक्षान्नमात्रेण च तुष्टिमन्तः \।  
 विशोकमन्तःकरणे चरन्तः  

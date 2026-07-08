@@ -3,10 +3,9 @@ title = "गायत्रीसहस्रनामावली"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2947"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2NzE0NjI5MDA5Mjgy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गायत्रीसहस्रनामावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM2NzE0NjI5MDA5Mjgy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -434,7 +433,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2NzE0NjI5MDA
 ४१३ ॐ तिलहोमप्रियायै नमः ।  
 ४१४ ॐ तीर्थायै नमः ।  
 ४१५ ॐ तमालकुसुमाकृत्यै नमः ।  
-४१६ ॐ तप्तकाञ्चनसंकाशायै नमः ।  
+४१६ ॐ तप्तकाञ्चनसङ्काशायै नमः ।  
 ४१७ ॐ तारकायै नमः ।  
 ४१८ ॐ त्रियुतायै नमः ।  
 ४१९ ॐ तन्व्यै नमः ।  
@@ -875,12 +874,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2NzE0NjI5MDA
 ८५४ ॐ रसायै नमः ।  
 ८५५ ॐ राजीवलोचनायै नमः ।  
 ८५६ ॐ राकेश्यै नमः ।  
-८५७ ॐ रूपसंपन्नायै नमः ।  
+८५७ ॐ रूपसम्पन्नायै नमः ।  
 ८५८ ॐ रत्नसिंहासनस्थितायै नमः ।  
 ८५९ ॐ रक्तमाल्याम्बरधरायै नमः ।  
 ८६० ॐ रक्तगन्धानुलेपनायै नमः ।  
 ८६१ ॐ राजहंससमारूढायै नमः ।  
-८६२ ॐ रंभायै नमः ।  
+८६२ ॐ रम्भायै नमः ।  
 ८६३ ॐ रक्तवलिप्रियायै नमः ।  
 ८६४ ॐ रमणीययुगाधारायै नमः ।  
 ८६५ ॐ राजिताखिलभूतलायै नमः ।  

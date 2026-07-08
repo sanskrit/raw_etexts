@@ -6,11 +6,14 @@ pages = "133"
 language = "संस्कृतम्"
 "serial no." = "Ebharati-4804"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyNTk1ODQ5NTYxMTY0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[बुधभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgyNTk1ODQ5NTYxMTY0&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
+
+
+
+
 
 **Government Oriental Series-Class C, No. 2**
 
@@ -24,30 +27,36 @@ BY
 **H. D. VELANKAR, M. A.**  
 Professor of Sanskrit, Wilson College, Bombay.
 
+
+
 PUBLISHED BY  
 **Bhandarkar Oriental Research Institute, Poona.**
 
 **1926**
 
 ------------------------------------------------------------------------------------------------------------------  
-**     **
+** **
 
 ** OSMANIA UNIVERSITY LIBRARY**
 
 Call No. : S172.2        
 Accession NPG : S 215.6  
-Author : S18B शंभुनृपः  
+Author : S18B शम्भुनृपः  
 Title : बुधभूषणम् 1966
 
 -----------------------------------------------------------------------------------------------------------
+
+
 
 **GOVERNMENT ORIENTAL SERIES**  
 CLASS C, No. II
 
 -----------------------------------------------------------------------------------------------------------
 
+
+
 **GOVERNMENT ORIENTAL SERIES  
-CLASS C, No. II**
+CLASS C, No. II **
 
 **PREPARED UNDER THE SUPERVISION OF**
 
@@ -58,20 +67,22 @@ CLASS C, No. II**
 **RESEARCH INSTITUTE,  
 POONA.**
 
+
+
 <MISSING_FIG href="https://www.ebharatisampat.in/ebharati_admin/pages/books_images/1677150881.png"/>
 
 POONA  
 **Bhandarkar Oriental Research Institute**  
-**1926**
+**1926 **
 
 ------------------------------------------------------------------------------------------------------------------
 
  ** Government Oriental Series-Class C No. 2**
 
+
+
 THE  
-
 **BUDHABHUSANA**  
-
 OF
 
 **KING SAMBHU**
@@ -81,14 +92,28 @@ BY
 **H. D. VELANKAR, M. A.**  
 Professor of Sanskrit, Wilson College, Bombay.
 
+
+
 PUBLISHED BY  
 **Bhandarkar Oriental Research Institute, poona.**
 
-**1926**
+**1926 **
 
 **------------------------------------------------------------------------------------------------------------------**
 
 Copies can be had direct from the Bhandarkar O. R. Institute, P. O. Deccan Gymkhana, Poona, India.
+
+
+
+
+
+
+
+
+
+
+
+
 
 POONA:  
 Printed from type set up at the Bhandarkar Institute Press
@@ -99,42 +124,57 @@ V. G. PARANJPE,. M. A., LL. B., D. Litt., Secretary,
 
 Bhandarkar Oriental Research Institute, POONA.
 
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------
 
-श्रीमच्छंभुनृपविरचितम्  
-  
 
-**॥ बुधभूषणम् ॥**
+
+श्रीमच्छम्भुनृपविरचितम्  
+   **॥ बुधभूषणम् ॥**
+
+
+
+
 
 **एम्. ए. इत्युपपदधारिणा**
 
-**   वेलणकरवंशोद्भवेन दामोदरसूनुना हरिशर्मणा**
+** वेलणकरवंशोद्भवेन दामोदरसूनुना हरिशर्मणा**
 
-**     आङ्ग्लभाषाप्रस्तावनया टिप्पनीभिश्च संपादितम्**
+** आङ्ग्लभाषाप्रस्तावनया टिप्पनीभिश्च सम्पादितम्**
+
+
 
 पुण्यपत्तनस्थ-  
 **भाण्डारकरप्राच्यविद्यासंशोधनमन्दिराधिकारिणा**
 
-**भाण्डारकरमन्दिरमुद्रणालये मुद्रयित्वा प्राकाश्यं नीतम्**  
+**भाण्डारकरमन्दिरमुद्रणालये मुद्रयित्वा प्राकाश्यं नीतं**  
 शके १८४८, ख्रिस्ताब्दे १९२६
+
+
 
 ------------------------------------------------------------------------------------------------------------------  
 
+
 ***TABLE OF CONTENTS.***
 
-      
 
-|                  |
+
+            
+
+| |
 |------------------|
 | Author's Preface |
-| Introduction     |
-| Text             |
-| Chapter I        |
-| Chapter II       |
-| Chapter III      |
-| Notes            |
+| Introduction |
+| Text |
+| Chapter I |
+| Chapter II |
+| Chapter III |
+| Notes |
 
-                      
+                                            
 
 -------------------------------------------------------------------------------------------------
 
@@ -145,59 +185,47 @@ I feel glad to express my obligations to Mr С А. Kincaid, C. I E, and also to 
 I further acknowledge with gratitude, the assistance which I received from Mr Purushottam Vishram Mavji, J P., of Bombay. He showed me his own copy of a few selections from Sambhaji's Hindi poems, and permitted me to print them. These selections, however, have not been printed in this book as it is so desired by the Executive Board of the Bhandarkar Oriental Research Institute.  
 Lastly, I thank my friend Mr. G B Bapat, M A, who much helped me in preparing the press-copy, and others who similarly helped me in bringing out this edition.
 
-H D VELANKAR
+**H D VELANKAR**
+
+
 
 ----------------------------------------------------------------------------------------------------------------------
 
 (A Reprint from J B. B. R. A S 1925 )
 
 In 1920 I was entrusted with the work of preparing a descriptive Catalogue of Sanskrit and Prakrit manuscripts of the Bombay Branch Royal Asiatic Society While doing this I came across an incomplete Sanskrit manuscript which on close inspection, was found to contain a Sanskrit work called "Budhabhūsana", claiming for its author King Śambhu, popularly known as Sambhaji, son of Shivaji the Great This was rather striking since nothing but vicious deeds, at the most brave and dariny, are usually connected with the name of Prince Sambhaji On going through the whole work, however, I found that it scarcely contained anything of either literary or historical importance Not could it decisively prove that Sambhaji was a man of letters. However, the mere fact that Sambhaji's name was connected with a literary work, has induced me to bring out an edition of the work  
-The wrok is apparently divided into three chapters, not clearly distinguished from each other The first contains 194 verses, mostly Subhāsitas, which are quotations from well-known authors, rendered popular owing to their strikingness, but often the sources of which are unknown. The first seventeen verses are introductory; they contain a brief history of the author's family, written in good easy Sanskrit and, together with the next eleven stanzas containing a hymn to Goddess Bhavāni, are the only few lines, which are directly from the author's pen. The first six of these contain praises offered to Gajānana, Siva, Guru and PārvatĪ
-
-The next ten are rather important I subjoin an English translation of these.  
+The wrok is apparently divided into three chapters, not clearly distinguished from each other The first contains 194 verses, mostly Subhāsitas, which are quotations from well-known authors, rendered popular owing to their strikingness, but often the sources of which are unknown. The first seventeen verses are introductory; they contain a brief history of the author's family, written in good easy Sanskrit and, together with the next eleven stanzas containing a hymn to Goddess Bhavāni, are the only few lines, which are directly from the author's pen. The first six of these contain praises offered to Gajānana, Siva, Guru and PārvatĪ The next ten are rather important I subjoin an English translation of these.  
 (7) There was a king called Shāha (Shahaji), who was the Indra of the earth, who was skilled in Politics and Fine Arts, whose deeds were brave and noble, whose fame was extensive and who was the Moon rising from the midst of the ocean in the form of the family of Bhrsabalas;  
-(8) Who worshipped the earth with an offering of the multitudes of the heads of hostile princes, which were severed (from their trunks) by a volley of arrows discharged from his bow, which was drawn right upto the ear-to him, the lofty crest jewel of numerous princes, was born the primeval Lord
-
-(i.e.Visnu ) as his son, known widely by the name Śiva'.  
+(8) Who worshipped the earth with an offering of the multitudes of the heads of hostile princes, which were severed (from their trunks) by a volley of arrows discharged from his bow, which was drawn right upto the ear-to him, the lofty crest jewel of numerous princes, was born the primeval Lord (i.e.Visnu ) as his son, known widely by the name Śiva'.  
 (9) Victorious is Śiva, the invincible Chatrapati, ord of umbrella, who is (none but) the lord of the world (i. e God Visnu) who has assumed a partial incarnation, having seen the whole religion in distress, as it was bitten by the venomous serpent in the form of the Kali age  
 (10) \[Śiva\]-who in the course of the Buddha incarnation of Gopāla, while Kali was yet in his full strength on earth, (lit. had not yet declined) set up the Brahmans and other castes on a firm foundation in their respective walks of life, by vanquishing the enemies of the gods, with a view to protect and revive the caste religion, which had been violently disturbed by the Mlechhas  
- (11) Having built fortresses for the protection of the earth on the best of the mountains inaccessible to the enemies, though called 'Sahya, between Karnātaka on the one hand and Bāgalāna on the other and between the river Krsnāand the ocean (western), the foremost among the kings, reigns victorious in the inaccessible fort called Rairi (or Raigad)  
+ (11) Having built fortresses for the protection of the earth on the best of the mountains inaccessible to the enemies, though called 'Sahya, between Karnātaka on the one hand and Bāgalāna on the other and between the river Krsnā and the ocean (western), the foremost among the kings, reigns victorious in the inaccessible fort called Rairi (or Raigad)  
 (12) He conquered the whole of the earth from the eastern mountain to the western ocean and from the Setu (Adam's Bridge) to the mountain of cold (i. e the Himalayas), and made all princes pay tribute to him Having learnt the duties prescribed by the Śrutis, declared to him by the learned, he shines, day by day, on his throne, after the Coronation ceremony, by means of such symbols of royalty as the Chatra etc  
-(13) Who being a victorious prince, satisfied, on thefestive occasion of his coronation, the Brahmans, who had come from different places, with countless gifts of coins, garments, elephants and horses; and thus spread inall directions his fame, fit to be sung by gods and resembling in its purity, the lustre, which shoots out from the Moon.  
+(13) Who being a victorious prince, satisfied, on the festive occasion of his coronation, the Brahmans, who had come from different places, with countless gifts of coins, garments, elephants and horses; and thus spread in all directions his fame, fit to be sung by gods and resembling in its purity, the lustre, which shoots out from the Moon.  
  (14) He it is whose fort shines with palaces and mansions in which princes dwell, with arches and beautiful market-squares, with new lakes filled with water all around, with learned priests, physicians and astrologers, with honest hereditary ministers and with the numberless brave armies of four kinds  
  (15) His son who is the crest jewel of all the fudatory chiefs and who is well versed in (lit has crossed the ocean in the form of) Poetry, Rhetoric, Purānas, Music and Archery, is famous by the name Śambhu  
  (16) That King Śambhuvarman is compiling this excellent book, having carefully read the works of the ancient writers and having taken his material from them  
  (17) May the wise accept what is good and give up what is bad, having carefully gone through our work; Rājahamsas indeed accept milk having abandoned water mixed with it.  
 This is purely an introduction which is followed by the work proper.
 
-This is, however, introduced by a hymn of eleven stanzas addressed to BhavānĪ
-
-and composed by the author himself, who naturally begins his work with a hymn to his tavourite deity in order to secure uninterrupted completion.  
+This is, however, introduced by a hymn of eleven stanzas addressed to BhavānĪ and composed by the author himself, who naturally begins his work with a hymn to his tavourite deity in order to secure uninterrupted completion.  
 This hymn is followed by fifteen stanzas (29-43) in praise of different deities, then by eighteen stanzas (44-61) expressive of benediction, both culled out from well-known ancient works Last of all come the Anyoktıs in 130 stanzas ( 62-191) followed by three stanzas which are instances of a kind of literary puzzle known as Antarlāpikā (192-194).  
-The second chapter, which forms the main body of the work, contains 632 verses treating of politics The author here deals with the following subjects, of course always in verses cited from other works, usually from the MatsyaandVisnudharmottaraPurānas and the Kāmandaki- yanitisāra :-The king and his qualifications (1-31); his assistants (32-46); the prime minister ( 47-71 ); the princes, their education and duties (72-91); King's advisers (92-96); the other componant parts of a kingdom, a-Kośa ( 97-106); b-Rastra (107-110); c-Durga and its equipment (111-186); d-Bala i. e. the Army (187-198); King's duties ( 199–203 ); spies (204-215); attendants (216-241); councillors and the counsel (242-273); ambassador (274-284); King's duties (285-321); King's vices (322-367); invasion (368- 396); King's duties in general (397-632).  
-The third chapter contains miscellaneous information useful to princes and is, therefore, called MiśrakanĪ
-
-tiprakarana. Our manuscript contains 57 stanzas of this chapter and a portion of the 58th.  
-As regards the authorship of the work, the general opinion of the reader of the Maratha history is against ascribing any literary activities to Prince Sambhaji. The writers of the chronicles of the Maratha history, both old and new, leave an impression on the mind of the reader that Sambhaji though brave, was incapable of anything worthy of praise There is, however, nothing in them to show that Sambhaji was illiterate. Direct references to his literary merits and achievements cannot, of course, be expected in these chronicles whose sole aim was to narrate the political events of a particular period. We may, at the most, expect to get some casual reference and as a matter of fact we do get some from which it is possible to conclude that not only had Sambhaji received education at the hands of learned Pandits, but he had also taste for Sanskrit literature and was occasionally in the habit of writing poetry in Hindi under the influence of Kavi KalaŚ
-
-a or the celebrated Kalusha, especially when passing his leisure hours in the company of beautiful women. The most explicit passage in this connection is that occurring on page 75 of Chitragupta's chrcnicle of Shivaji the Great. It refers to an incident which took place after Shivaji's escape from Delhi, together with Prince Sambhaji. Being hotly pursued by Aurangzeb's men, Shivaji was compelled to leave the Prince with a Panditnamed Kashipant at Benares. The learned Pandit taught him together with other boys, as though he were a Brahmar boy. But even this would not satisfy the crafty officers of the Mongul Emperor. The Pandit then had to eat in the same dish with Sambhaji, in order to convince them that Sambhaj was a Brahman and not a Maratha. "He then made atone ments secretly (for the sin thus committed). He began to impart instructions to him in general Literature, and made him well versed in Sārasvata (grammar), Amarakośa Raghuvamśa, Siddhāntakaumudi, (Siddhānta-) Muktāval and other similar works. He, i e. Sambhaji became very clever"; according to another chronicle (Marathi Sāmrājyāc Choti Bakhara, i e. A short historoy of the Maratha Empire p. 32), the period during which he stayed there was about one year. If we believe in the Chroniclers, it is not impossible to maintain that Sambhaji obtained at least an elementary knowledge of the Sanskrit Language during this forced stay of his at Benares Another passage which refers to the care bestowed upon Sambhaji's education by King Shivaji, is found on page 20 of the 91 articled chronicle of King Shivaji. There one Umaji Pandit is said to have been appointed to teach the Prince who was kept at Shringarpoor  
-From the passages quoted above, we can safely conclude that Prince Sambhaji did receive at least an elementary knowledge of the Sanskrit Language and Literature during his boyhood. But there appear to have been original letters from which we can judge that he had kept up the habit of reading Sanskrit during his leisure hours till his advanced age. Thus for instance, Kincaid and Parasnis, in their History of the Maratha People, part II, p. 58, remark- “Although he ( i. e. Sambhaji ) spent most of his life campaigning he was by no means averse from study. He employed a learned man called Keshav Pandit Adhyaksha, a friend of the great king to read with him Vālmiki's celebrated epic, the Rāmāyana. As a reward he gave Keshava in 1684 A. D., 1600 small silver coins known as ladis. The king was moreover no mean versifier. He is known to have written two books of Hindi poetry. The first wascalled Nakhashikha, in which he described the pleasures of love. The second was named Nayakabhad. In it he sang the varying charms of the beauties who beguiled his leisure moments' Even though the learned authors do not give the source of their information, we can presume that they have got it from some literary documents either in the form of letters or of chronicles  
-We are of course aware that the incident herein referred to, cannot go to prove that King Sambhaji was a good Sanskritist We do not surely expect a Sanskrit author to require the help of a Sastri for reading Valmiki's Rāmāyana It must on the contrary be conceded that this is not a reference to the mere employment of a Puranik- though this is not entirely impossible-as a special reward consisting of silver coins is said to have been given to him for the services. Buteven this meagre knowledge of the Sanskrit Language on the part of King Sambhaji, which at least we can safely presume from the incident, is enough for our purpose. For the compilation of a work of the type we have before us does not require profound knowledge of the language, especially when the author was a Prince who commanded the services of learned Pandics.  
+The second chapter, which forms the main body of the work, contains 632 verses treating of politics The author here deals with the following subjects, of course always in verses cited from other works, usually from the Matsya and Visnudharmottara Purānas and the Kāmandaki- yanitisāra :-The king and his qualifications (1-31); his assistants (32-46); the prime minister ( 47-71 ); the princes, their education and duties (72-91); King's advisers (92-96); the other componant parts of a kingdom, a-Kośa ( 97-106); b-Rastra (107-110); c-Durga and its equipment (111-186); d-Bala i. e. the Army (187-198); King's duties ( 199–203 ); spies (204-215); attendants (216-241); councillors and the counsel (242-273); ambassador (274-284); King's duties (285-321); King's vices (322-367); invasion (368- 396); King's duties in general (397-632).  
+The third chapter contains miscellaneous information useful to princes and is, therefore, called MiśrakanĪtiprakarana. Our manuscript contains 57 stanzas of this chapter and a portion of the 58th.  
+As regards the authorship of the work, the general opinion of the reader of the Maratha history is against ascribing any literary activities to Prince Sambhaji. The writers of the chronicles of the Maratha history, both old and new, leave an impression on the mind of the reader that Sambhaji though brave, was incapable of anything worthy of praise There is, however, nothing in them to show that Sambhaji was illiterate. Direct references to his literary merits and achievements cannot, of course, be expected in these chronicles whose sole aim was to narrate the political events of a particular period. We may, at the most, expect to get some casual reference and as a matter of fact we do get some from which it is possible to conclude that not only had Sambhaji received education at the hands of learned Pandits, but he had also taste for Sanskrit literature and was occasionally in the habit of writing poetry in Hindi under the influence of Kavi KalaŚa or the celebrated Kalusha, especially when passing his leisure hours in the company of beautiful women. The most explicit passage in this connection is that occurring on page 75 of Chitragupta's chrcnicle of Shivaji the Great. It refers to an incident which took place after Shivaji's escape from Delhi, together with Prince Sambhaji. Being hotly pursued by Aurangzeb's men, Shivaji was compelled to leave the Prince with a Pandit named Kashipant at Benares. The learned Pandit taught him together with other boys, as though he were a Brahmar boy. But even this would not satisfy the crafty officers of the Mongul Emperor. The Pandit then had to eat in the same dish with Sambhaji, in order to convince them that Sambhaj was a Brahman and not a Maratha. "He then made atone ments secretly (for the sin thus committed). He began to impart instructions to him in general Literature, and made him well versed in Sārasvata (grammar), Amarakośa Raghuvamśa, Siddhāntakaumudi, (Siddhānta-) Muktāval and other similar works. He, i e. Sambhaji became very clever"; according to another chronicle (Marathi Sāmrājyāc Choti Bakhara, i e. A short historoy of the Maratha Empire p. 32), the period during which he stayed there was about one year. If we believe in the Chroniclers, it is not impossible to maintain that Sambhaji obtained at least an elementary knowledge of the Sanskrit Language during this forced stay of his at Benares Another passage which refers to the care bestowed upon Sambhaji's education by King Shivaji, is found on page 20 of the 91 articled chronicle of King Shivaji. There one Umaji Pandit is said to have been appointed to teach the Prince who was kept at Shringarpoor  
+From the passages quoted above, we can safely conclude that Prince Sambhaji did receive at least an elementary knowledge of the Sanskrit Language and Literature during his boyhood. But there appear to have been original letters from which we can judge that he had kept up the habit of reading Sanskrit during his leisure hours till his advanced age. Thus for instance, Kincaid and Parasnis, in their History of the Maratha People, part II, p. 58, remark- “Although he ( i. e. Sambhaji ) spent most of his life campaigning he was by no means averse from study. He employed a learned man called Keshav Pandit Adhyaksha, a friend of the great king to read with him Vālmiki's celebrated epic, the Rāmāyana. As a reward he gave Keshava in 1684 A. D., 1600 small silver coins known as ladis. The king was moreover no mean versifier. He is known to have written two books of Hindi poetry. The first was called Nakhashikha, in which he described the pleasures of love. The second was named Nayakabhad. In it he sang the varying charms of the beauties who beguiled his leisure moments' Even though the learned authors do not give the source of their information, we can presume that they have got it from some literary documents either in the form of letters or of chronicles  
+We are of course aware that the incident herein referred to, cannot go to prove that King Sambhaji was a good Sanskritist We do not surely expect a Sanskrit author to require the help of a Sastri for reading Valmiki's Rāmāyana It must on the contrary be conceded that this is not a reference to the mere employment of a Puranik- though this is not entirely impossible-as a special reward consisting of silver coins is said to have been given to him for the services. But even this meagre knowledge of the Sanskrit Language on the part of King Sambhaji, which at least we can safely presume from the incident, is enough for our purpose. For the compilation of a work of the type we have before us does not require profound knowledge of the language, especially when the author was a Prince who commanded the services of learned Pandics.  
 All this, I hope, is sufficient to prove that King Sambhaji was the real compiler of the book before us He may have been assisted by his Pandits in the task of selecting and arranging the quotations of which the work consists, but he was the principal figure It proves at any rate that Sambhaji was fond of reading Sanskrit in the original and that he had the ambition of being called a Sanskrit poet  
-The second part of the quotation from "A History of the Maratha People" given above is rather curious It is based upon the recent researches of Mr. Purushottam Vishram Mavji, J. P of Bombay as I learnt from the learned authors themselves I am greatly indebted to Mr. Mavji, who very kindly handed over to me his own copy of a few stanzas selected from Sambhaji's two works of Hindi poetry From hese stray verses, we can judge about the contents and form of the two poems The first of these is called ''NakhaŚ
+The second part of the quotation from "A History of the Maratha People" given above is rather curious It is based upon the recent researches of Mr. Purushottam Vishram Mavji, J. P of Bombay as I learnt from the learned authors themselves I am greatly indebted to Mr. Mavji, who very kindly handed over to me his own copy of a few stanzas selected from Sambhaji's two works of Hindi poetry From hese stray verses, we can judge about the contents and form of the two poems The first of these is called ''NakhaŚikha" in which the author gives a poetical description of the different parts of Rādhā's body from the nail of the foot (नख) to the crest ( शिखा). In the second which is obviously a work on Rhetoric and is called "Nāyikābheda" (Nayakabhad in the quotation from the 'History' is evidently a misprint) we find a description of the different sorts of heroines such as Madhyamā, Praudhā, Khandītā etc, Just after the fashion of Sanskrit writers on Rhetoric. The few quotations that we have got, disclose a close acquaintance on the part of our author with the Sanskrit works on Rhetoric.  
+Among the quotations we find one from the pen of the famous Kalusha. It is highly poetical and even though we unforunately do not possess any literary remains of this great favourite of King Sambhaji, we have grounds to believe that he was a literary man In the old chronicles he is described as Kavi KalaŚa or the poet KalaŚa It was popularly believed that this Kanuja Brahman had been purposely sent by the Emperor from Delhi and that he was a great enchanter As a matter of faci we know that this Kalusha did exert a wonderful influence upon the King but to what it was due we can simply guess The origin of this influence is shrouded in obscurity. We will not be, however, far from the truth in assuming that to a considerable extent his literary gifts helped Kalusha to maintain his influence with the Prince It is quite possible that his Kavi Kalusha may have composed several poems, which were not preserved owing to the general disfavour in which he was held, but stray copies of which may yet have existed and might one day be discovered by us We on our part, are inclined to believe that the two Hindi poems (there may be more to the kind) are really from the pen of Prince Sambhaji, composed by him under the literary influence of Kalusha, who was certainly gifted with poetic talents.
 
-ikha" in which the author gives a poetical description of the different parts of Rādhā's body from the nail of the foot (नख) to the crest ( शिखा). In the second which is obviously a work on Rhetoric and is called "Nāyikābheda" (Nayakabhad in the quotation from the 'History' is evidently a misprint) we find a description of the different sorts of heroines such as Madhyamā, Praudhā, Khandītā etc, Just after the fashion of Sanskrit writers on Rhetoric. The few quotations that we have got, disclose a close acquaintance on the part of our author with the Sanskrit works on Rhetoric.  
-Among the quotations we find one from the pen of the famous Kalusha. It is highly poetical and even though we unforunately do not possess any literary remains of this great favourite of King Sambhaji, we have grounds to believe that he was a literary man In the old chronicles he is described as Kavi KalaŚ
 
-a or the poet KalaŚ
 
-a It was popularly believed that this Kanuja Brahman had been purposely sent by the Emperor from Delhi and that he was a great enchanter As a matter of faci we know that this Kalusha did exert a wonderful influence upon the King but to what it was due we can simply guess The origin of this influence is shrouded in obscurity. We will not be, however, far from the truth in assuming that to a considerable extent his literary gifts helped Kalusha to maintain his influence with the Prince It is quite possible that his Kavi Kalusha may have composed several poems, which were notpreserved owing to the general disfavour in which he was held, but stray copies of which may yet have existed and might one day be discovered by us We on our part, are inclined to believe that the two Hindi poems (there may be more to the kind) are really from the pen of Prince Sambhaji, composed by him under the literary influence of Kalusha, who was certainly gifted with poetic talents.
-
-**॥श्री॥**
+**॥श्री॥ **
 
 **बुधभूषणम्**
 
-**॥ श्रीगणेशाय नमः ॥ श्रीनृसिंहाय नमः \।\।**
+**॥ श्रीगणेशाय नमः ॥ श्रीनृसिंहाय नमः \।\। **
 
 देवदानवकृतस्तुतिभागं हलेया विजितदर्पितनागम् ।
 
@@ -207,7 +235,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 त्र्यक्षं गिरीशं दशबाहुमण्डितं कुबेरमित्रं सततं नमामि ॥ २ ॥
 
-विरिञ्चिविश्नुवन्दितंं नगाधिराजकन्यका-
+विरिञ्चिविश्नुवन्दितं नगाधिराजकन्यका-
 
 विभूषितार्धविग्रहं प्रभूतबन्दिसंस्तुतम् ।
 
@@ -219,7 +247,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तेषां जीवनहेत्वर्थं नौमि जाङ्गुलिकं गुरुम् ॥ ४ ॥
 
-या भवेक्षणचका(को)र चन्द्रिका शांभवी निजजनस्य पालिका ।
+या भवेक्षणचका(को)र चन्द्रिका शाम्भवी निजजनस्य पालिका ।
 
 या तुषारगिरिराजकन्यका सा ममास्तु शुभकालमालिका ॥ ५ ॥
 
@@ -233,13 +261,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 येनाकर्णविकृष्टकार्मुकचलत्काण्डावलीकर्तित-
 
-प्रत्यर्थिक्षितिपालमौलिनिवहैरभ्यार्चि विश्वंभरा \।
+प्रत्यर्थिक्षितिपालमौलिनिवहैरभ्यार्चि विश्वम्भरा \।
 
-यस्यानेकवसुंधरापरिवृढप्रोत्तुङ्गचूडामणेः
+यस्यानेकवसुन्धरापरिवृढप्रोत्तुङ्गचूडामणेः
 
 पुत्रत्वं समुपागतः शिव इति ख्यातः पुराणो विभुः ॥ ८ ॥
 
-कलिकालभुजंगमावलीढं निखिलं धर्ममवेक्ष्य विक्लवं यः ।
+कलिकालभुजङ्गमावलीढं निखिलं धर्ममवेक्ष्य विक्लवं यः ।
 
 जगतः पतिरंशतोवतापोः(तीर्णः) स शिवच्छत्रपतिर्जयत्यजेयः ॥ ९ ॥ बु. भू. १
 
@@ -257,7 +285,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 आकृष्णातटमासमुद्रमभितः कृत्वा कृती दुर्गमे
 
-दुर्गे रायरिसंज्ञके विजयते भूमीभृतामग्रणीः ॥ ११ ॥
+दुर्गे रायरिसञ्ज्ञके विजयते भूमीभृतामग्रणीः ॥ ११ ॥
 
 आपूर्वाचलपश्चिमाम्बुधिमथाप्यासेतुर्शताचलं
 
@@ -269,7 +297,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नानादेशसमागतान् द्विजवरान्येनाभिषेकोत्सवे \।
 
-संतर्प्यातुलतोलितैर्बहुधनैर्वस्त्रैर्गजैर्वाजिभिः ।
+सन्तर्प्यातुलतोलितैर्बहुधनैर्वस्त्रैर्गजैर्वाजिभिः ।
 
 चन्द्रप्रेरितचन्द्रिकेव विमला गेया बुधैर्बन्दिभिः
 
@@ -283,7 +311,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सैन्यैश्वापि चतुर्विधैरगणितैर्भाति प्रतापान्वितैः ॥ १४ ॥
 
-तस्यात्मजः शंभुरिति प्रसिद्धः समस्तसामन्तशिरोवसन्तः (वतंसः) ।
+तस्यात्मजः शम्भुरिति प्रसिद्धः समस्तसामन्तशिरोवसन्तः (वतंसः) ।
 
 यः काव्यसाहित्यपुराणगीतकोदण्डविद्यार्णवपारगामी ॥ १५ ॥
 
@@ -315,9 +343,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 भ्रूवल्लिभङ्गिसौन्दर्यजितकामशरासनाम् ॥ २० ॥
 
-मदिरामदसंघूर्णमदिराक्षीं मदालसाम् ।
+मदिरामदसङ्घूर्णमदिराक्षीं मदालसाम् ।
 
-निर्मलादर्शसंदर्शकपोलकफल (फलक) प्रभाम् ॥ २१ ॥
+निर्मलादर्शसन्दर्शकपोलकफल (फलक) प्रभाम् ॥ २१ ॥
 
 विलसद्भालतिलकां मुक्तागुणसमन्विताम् ।
 
@@ -401,7 +429,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नवनीतभिक्षुरधुना स चिन्त्यते ॥ ३७ ॥
 
-अतिविपुलं कुचयुगलं रहसिकरैरामृशन्मुहुर्लक्ष्म्याः ।
+अतिविपुलं कुचयुगलं रहसि करैरामृशन्मुहुर्लक्ष्म्याः ।
 
 तदपि हृतं निजहृदयं जयति हरिर्मृगयमाण इव ॥ ३८ ॥
 
@@ -411,7 +439,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 ऋजुमपि लेखां लुम्पन्नटवरवेषो हरिजेयति ॥ ३९ ॥
 
-खिन्नोसिमुञ्च शैलं बिभृमो वयमिति वदश्सु(त्सु) शिथिलभुजः ।
+खिन्नोसि मुञ्च शैलं बिभृमो वयमिति वदश्सु(त्सु) शिथिलभुजः ।
 
 गिरिवरभुग्नविततबाहुषु गोपेषु हसन्हरिर्जयति ॥ ४० ॥
 
@@ -435,7 +463,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सानन्दं नम्द(दि)हस्ताहतमुरजरवा**हू**तकौमारबर्हि-
 
-त्रासान्नासाग्ररन्धं विशति फणिपतौ भोगसंकोचभाजि ।
+त्रासान्नासाग्ररन्धं विशति फणिपतौ भोगसङ्कोचभाजि ।
 
 गुण्डोड्डीनालिमालामुखरितककुभस्ताण्डवे शूलपाणे-
 
@@ -477,13 +505,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 स भवतु मम भृत्यै वाणि ते मन्दहासः ॥ ४९ ॥
 
-**अथ शंभोः-**
+**अथ शम्भोः-**
 
 जीर्णेप्युत्कटकालकूटकवले प्यु(प्लुष्टे) हठान्मन्मथे
 
 नीते भास्क(स्व)रभालनेत्रतनुतां कल्पान्तदावानले ।
 
-यः शक्त्या समलंकृतोपि शशिनं शैलात्मजां स्वर्धुनीं
+यः शक्त्या समलङ्कृतोपि शशिनं शैलात्मजां स्वर्धुनीं
 
 धत्ते कौतुकराजनीतिनिपुणः पायात्स वः शङ्करः ॥ ५० ॥
 
@@ -521,11 +549,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 औत्सुक्यात्तरलाः स्मराद्विकसिता भीत्या समाकुञ्चिताः
 
-क्रोधेन ज्वलिता मुदा मुकुलिताःशौरेर्दृशःपातु(न्तु) वः ॥ ५५ ॥
+क्रोधेन ज्वलिता मुदा मुकुलिताः शौरेर्दृशः पातु(न्तु) वः ॥ ५५ ॥
 
 अर्धोन्मीलितलोचनस्य पिबतः पर्याप्तमेकं स्तनं
 
-सद्यः प्रस्नुतदुग्धदिग्धमपरं हस्तेन संमार्जता (त?:) ।
+सद्यः प्रस्नुतदुग्धदिग्धमपरं हस्तेन सम्मार्जता (त?:) ।
 
 मात्रा चाङ्गुलिचालितस्य चिबुकस्मेरायमाने मुखे
 
@@ -533,7 +561,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 गच्छाम्यच्युत दर्शनेन भवतः किं तृप्तिरुत्पद्यते
 
-किन्त्वेवं विजनस्थयोर्हतजनाः संभावयत्यन्यथा ।
+किन्त्वेवं विजनस्थयोर्हतजनाः सम्भावयत्यन्यथा ।
 
 इत्यामन्त्रणभङ्गिसूचिततवृथावस्थानखेदालसा-
 
@@ -559,7 +587,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 पायात्पयोधिदुहितुः कपोलामलचन्द्रमाः ।
 
-यत्र संक्रान्तबिम्बेन हरिणा हरिणायते ॥ ६० ॥
+यत्र सङ्क्रान्तबिम्बेन हरिणा हरिणायते ॥ ६० ॥
 
 **अथ सूर्यस्यः -- .**
 
@@ -587,9 +615,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 देवो हरिर्वहति वक्षसि कौस्तुभं वा (त - )
 
-तन्व्येव ( मन्येव ) काचन पुनर्द्युमणोःप्रतिष्ठा ।
+तन्व्येव ( मन्येव ) काचन पुनर्द्युमणोः प्रतिष्ठा ।
 
-यत्पादसंगतिसमर्पितसौरभाणि
+यत्पादसङ्गतिसमर्पितसौरभाणि
 
 धत्ते स एव शिरसा सरसीरुहाणि ॥ ६४ ॥
 
@@ -603,7 +631,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 इदं चेतस्तापं जनयतितरामत्र यदमी
 
-प्रदीपाः संजाताति(स्ति?)मिरहृदि रद्दोधुर(?)शिखाः ॥ ६६ ॥
+प्रदीपाः सञ्जाताति(स्ति?)मिरहृदि रद्दोधुर(?)शिखाः ॥ ६६ ॥
 
 पातः पूष्णो महति भवते(भवति महते) नोपतापाय यस्मात्
 
@@ -627,13 +655,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अहो नक्षत्रराज्ञ(ज)स्य साभिमानविचेष्टितम् ।
 
-परिक्षीणस्य वक्रत्वं संपूर्णस्य च वृत्तता ॥ ७० ॥
+परिक्षीणस्य वक्रत्वं सम्पूर्णस्य च वृत्तता ॥ ७० ॥
 
 आलोकवन्तः सन्त्येव भूयांसो भास्करादयः ।
 
 कलावानेव तु ग्रावद्रावकर्मणि कर्मठः ॥ ७१ ॥
 
-शिरसा धार्यमाणोपि सोमः सौम्येन शंभुना ।
+शिरसा धार्यमाणोपि सोमः सौम्येन शम्भुना ।
 
 तथापि कृशतां धत्ते कष्टः खलु पराश्रयः ॥ ७२ ॥
 
@@ -677,7 +705,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **मेघस्य-**
 
-एकस्य तस्य मन्ये धन्यामभ्युंद(भ्युन्न)तिं जलधरस्य ।
+एकस्य तस्य मन्ये धन्यामभ्युन्द(भ्युन्न)तिं जलधरस्य ।
 
 विश्वं सशै(ल)काननमाननमवलोकते यस्य ॥ ७८ ॥
 
@@ -729,11 +757,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दुःपूरोदरपूरणाय पिबति स्रोतःपतिं वाडवो
 
-जीमूतस्तु निदाघसंभृतजगत्संतापविच्छित्तये ॥ ८५ ॥
+जीमूतस्तु निदाघसम्भृतजगत्सन्तापविच्छित्तये ॥ ८५ ॥
 
 आपो विमुक्ताः क्वचिदाप एव
 
-क्वचिन्न किंचिद्गरलं क्वचिच्च ।
+क्वचिन्न किञ्चिद्गरलं क्वचिच्च ।
 
 यस्मिन्विमुक्ताः प्रभवन्ति मुक्ताः
 
@@ -775,7 +803,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 हंसस्य हन्ति नितरां कुपितो विधाता ।
 
-न त्वस्य दुग्धजलभेदविधिप्रसिद्धां ।
+न त्वस्य दुग्धजलभेदविधिप्रसिद्धाम् ।
 
 वैदग्ध्यकीर्तिमपहर्तुमसौ समर्थः॥ ९२ ॥
 
@@ -785,7 +813,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 इह नहि मधुलवलेशो भवति परं धूलिधूसरं वदनम् ॥ ९३ ॥
 
-इह रूपमात्रसारे भित्तिविलिखितात्रि(तेत्र चि)त्रकल्हारे।
+इह रूपमात्रसारे भित्तिविलिखितात्रि(तेत्र चि)त्रकल्हारे ।
 
 न रसो नापि च गन्धो मधुकरबन्धो वृथा भ्रमसि ॥ ९४ ॥
 
@@ -821,7 +849,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 एक एव खगो मानी चिरं जीवति चातकः।
 
-म्रियते वा पिपासायां याचते वा पुरंदरम् ॥ १०० ॥
+म्रियते वा पिपासायां याचते वा पुरन्दरम् ॥ १०० ॥
 
 कूपे पानमधोमुखं भवति मे नद्यो वराक्यः स्त्रियः
 
@@ -833,7 +861,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **कोकिलस्य-**
 
-रे रे कोकिल मा भज मौनं किंचिदुदीरय पञ्चमरागम् ।
+रे रे कोकिल मा भज मौनं किञ्चिदुदीरय पञ्चमरागम् ।
 
 नो चेत्त्वामिह को जानीते काककदम्बकापिहिते चूते ॥ १०२ ॥
 
@@ -873,7 +901,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 त्वरन्तं हन्तुं त्वामहह शबराः पुङ्खितशराः ॥ १०७ ॥
 
-एतस्मिन्मलयाचले बहुविधैः किं तैरकिंचित्करैः
+एतस्मिन्मलयाचले बहुविधैः किं तैरकिञ्चित्करैः
 
 काकोलृककपोतकोकिलरुके(रुतै?)रेकोपि पार्श्वस्थितः ।
 
@@ -913,7 +941,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 कृष्णं वपुर्वहतु चुम्बतु सत्फलानि
 
-रम्येषु संचरतु चूतवनान्तरेषु ।
+रम्येषु सञ्चरतु चूतवनान्तरेषु ।
 
 पुंस्कोकिलस्य चरितानि करोतु कामं
 
@@ -951,7 +979,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यशःशेषीभूते शशिनि गतधाम्नि ग्रहगणे ।
 
-तथान्धं संजातं जगदुपनते मेघसमये
+तथान्धं सञ्जातं जगदुपनते मेघसमये
 
 यथामी गण्यन्ते तमसि पटवः कीटमणयः ॥ ११६ ॥
 
@@ -1039,7 +1067,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 रोमन्थमाचरय मन्थरमेत्य निद्रां
 
-मुञ्च श्रमं तदनु संचर रे यथेच्छम् ।
+मुञ्च श्रमं तदनु सञ्चर रे यथेच्छम् ।
 
 दूरे स पामरजनो मुनयः किलैते
 
@@ -1047,7 +1075,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 कालिम्ना ग्न(न)गतं स्वनाम गलितं जाता कलङ्काभिधा
 
-\*   \*  \*  \*  \*त्रिभुवनं किं प्राप्तमुच्चैर्मृग ।
+\* \* \* \* \* त्रिभुवनं किं प्राप्तमुच्चैर्मृग ।
 
 अस्माकं वसतां वनेपि वस(नि)ता वाञ्छन्ति नेत्रोपमां
 
@@ -1057,9 +1085,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यद्यपि चन्दनविटपी विधिना फलपुष्पवर्जितो विहितः ।
 
-निजवपुषैव परेषां तथापि संतापमपहरति ॥ १३० ॥
+निजवपुषैव परेषां तथापि सन्तापमपहरति ॥ १३० ॥
 
-केचिल्लोचनहारिणः कतिपयाः सौरभ्यसंभारिणः
+केचिल्लोचनहारिणः कतिपयाः सौरभ्यसम्भारिणः
 
 केप्यन्ये फलधारिणः प्रतिदिशं ते सन्तु हन्त द्रुमाः।
 
@@ -1085,7 +1113,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 जीयाः केतकि देहि निर्गमपथं जीवत्वसौ षट्रपक्षः(दः) ॥ १३४ ॥
 
-कति पल्लविता न पुष्पिता वा तरवः सन्ति समन्ततो वसन्ते।
+कति पल्लविता न पुष्पिता वा तरवः सन्ति समन्ततो वसन्ते ।
 
 जगतां विजयाय मीनकेतोः सहकारी सहकार एष एव ॥ १३५ ॥
 
@@ -1131,13 +1159,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 मयि जीवति बीजाढ्ये किमन्ये बीजपूरकाः ।
 
-इति संचिन्त्य मनसा विदद्रे दाडिमीफलम् ॥ १४२ ॥
+इति सञ्चिन्त्य मनसा विदद्रे दाडिमीफलम् ॥ १४२ ॥
 
 निम्ब किं बहुनोक्तेन निष्फलानि फलानि ते ।
 
-यानि संजातपाकानि काका निःशेषयन्ति हि ॥ १४३ ॥
+यानि सञ्जातपाकानि काका निःशेषयन्ति हि ॥ १४३ ॥
 
-गात्रं कण्टकसंकुलं प्रविरलच्छाया न चायासन्हृ(न्)
+गात्रं कण्टकसङ्कुलं प्रविरलच्छाया न चायासन्हृ(न्)
 
 निर्गन्धः कुसुमोत्करस्त्व(तव) फलं न क्ष(क्षु)द्विनाशक्षमम् ।
 
@@ -1147,7 +1175,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 किं पुष्पैः किं फलैस्तस्य करीरस्य दुरात्मनः ।
 
-येन वृद्धिं समासाद्य न कृतः पात्रसंग्रहः॥ १४५ ॥
+येन वृद्धिं समासाद्य न कृतः पात्रसङ्ग्रहः॥ १४५ ॥
 
 किंशुके शुकमातिष्ठ चिरभाविफलाशया ।
 
@@ -1167,7 +1195,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 एकैव वल्लिषु विराजति नागवल्ली
 
-या नागरीवदनचन्द्रमलंकरोति ॥ १४८ ॥
+या नागरीवदनचन्द्रमलङ्करोति ॥ १४८ ॥
 
 **अथ पर्वतान्योक्तयः——**
 
@@ -1189,7 +1217,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सुत्रामत्रासभाजां त्रिदशविटपिनां जन्मभूमिस्त्वमेव ।
 
-गाम्भीर्यं तच्च तादृक्तव सलिलपते किंतु विज्ञाप्यमेतत्
+गाम्भीर्यं तच्च तादृक्तव सलिलपते किन्तु विज्ञाप्यमेतत्
 
 सर्वोपायेन मैत्रावरुणिमुनिकृपादृष्टयः काङ्क्षणीयाः॥ १५१ ॥
 
@@ -1215,7 +1243,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **शङ्खस्य —**
 
-कीटगृहं कुटिलोन्तःकठिनः क्षाराम्बुसंभवः शून्यः।
+कीटगृहं कुटिलोन्तःकठिनः क्षाराम्बुसम्भवः शून्यः।
 
 शङ्खः श्रीपतिनिकटे केन गुणेन स्थितिं लेभे ॥ १५५ ॥
 
@@ -1225,13 +1253,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 धिक्कर्माणि स एव कम्बुरधुना पाखण्डकान्ताकरे
 
-विभ्रान्तः प्रतिवासरं प्रतिगृहे भैक्षेण कुक्षिंभरिः ॥ १५६ ॥  
+विभ्रान्तः प्रतिवासरं प्रतिगृहे भैक्षेण कुक्षिम्भरिः ॥ १५६ ॥  
 
 **नदीनाम्--**
 
 यद्यपि दिशि दिशि सरितः परितः परिपूरिताम्भसः सन्ति ।
 
-तदपि पुरंदरतरुणीसंगतिसुखदायिनी गङ्गा ॥ १५७ ॥
+तदपि पुरन्दरतरुणीसङ्गतिसुखदायिनी गङ्गा ॥ १५७ ॥
 
 छायां प्रकुर्वन्ति नमन्ति पुष्पैः फलं नियच्छन्ति तद् ( था ) द्रुमाये ।
 
@@ -1257,7 +1285,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 र्दण्डे कर्कशता मुखेतिमृदुता मित्रे महान्प्रश्रयः ।
 
-आमूलं गुणसंग्रहव्यसनता द्वेषश्च दोषाकरे
+आमूलं गुणसङ्ग्रहव्यसनता द्वेषश्च दोषाकरे
 
 यस्यैषा स्थितिरम्बुजस्य वसतिर्युक्तैव तत्र श्रियः ॥ १६२ ॥
 
@@ -1295,7 +1323,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 किं ब्रूमः शुचितां व्रजन्त्यशुचयः सङ्गेन यस्यापरे ।
 
-किं वातः परमास्तुषे स्तुतिपरं संजीवनं जीवतां
+किं वातः परमास्तुषे स्तुतिपरं सञ्जीवनं जीवतां
 
 त्वं चेन्नीचपथेन गच्छसि पयः कस्त्वां विरोद्धुं क्षमः ॥ १६८ ॥
 
@@ -1311,7 +1339,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 द्वात्रिंशदशनद्वेषिमध्ये भ्रमसि नित्यशः।
 
-तदिदं शिक्षिता केन जिह्वे संचारकौशलम् ॥ १७१ ॥
+तदिदं शिक्षिता केन जिह्वे सञ्चारकौशलम् ॥ १७१ ॥
 
 भ्रातः काञ्चनलेपगोपितबहिस्ताम्राकृते सर्वतो
 
@@ -1445,7 +1473,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 विश्वं पवित्रितमिदं सलिलेन यस्य ।
 
-\*    \*   \*कुटिलत्वमन्तः
+\* \* \* कुटिलत्वमन्तः
 
 किं कारणं वदसि शङ्ख ददं(?) न विद्मः ॥१८९॥
 
@@ -1465,7 +1493,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **अन्तर्लापिका-**
 
-(का कान्ता ) कालियारातेः पुनरर्थे किमव्ययम् ।
+( का कान्ता ) कालियारातेः पुनरर्थे किमव्ययम् ।
 
 किं वन्द्यं सर्वलोकानां फलेषु च किमुत्तमम् ॥ १९२॥
 
@@ -1479,35 +1507,25 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 किंवद्भाति हरिस्तदीयगलके मुक्तामयी भासते ।
 
-माला नेत्रयुगं विभाति च कथं \*  \*  \*   \* ॥ १९४ ॥
+माला नेत्रयुगं विभाति च कथं \* \* \* \* ॥ १९४ ॥
+
+
 
 अभवत् (परमेश्वर-जी)
 
-**द्वितीयोऽध्यायः**
 
-॥
 
-**राजनीतिः**
+** द्वितीयोऽध्यायः**॥
 
-≈
+** राजनीतिः**
 
-♦
-
-≈
-
-♦
-
-≈
-
-♦
-
-≈
+≈♦≈♦≈♦≈
 
 **राजनीतेर्नृपाश्रयत्वात्प्रथमं नृपलक्षणमाह-**
 
 शास्त्राय गुणसंयोगः शास्त्रं विनयवृत्तये ।
 
-विद्याविनीतो नृपतिः सतां भवति संमतः ॥ १ ॥
+विद्याविनीतो नृपतिः सतां भवति सम्मतः ॥ १ ॥
 
 मेधावी मतिमानदीनवदनो दक्षः क्षमावान् ऋजु-
 
@@ -1521,13 +1539,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 चारेक्षणो दूतमुखः पुरुषः कोपि पार्थिवः ॥ ३॥
 
-वाग्मी प्रगल्भ्यः (ल्भः) प्र(स्मृ)तिभानुदग्रोबलवान्वशी ।
+वाग्मी प्रगल्भ्यः (ल्भः) प्र(स्मृ)तिभानुदग्रो बलवान्वशी ।
 
 नेता दण्डस्य निपुणः कृतशिल्पः सुविग्रहः ॥ ४ ॥
 
 पराभियोगप्रसहो दृष्टसर्वप्रतिक्रियः
 
-परच्छिद्रानुपेक्षी च संधिविग्रहतत्त्ववित् ॥ ५॥
+परच्छिद्रानुपेक्षी च सन्धिविग्रहतत्त्ववित् ॥ ५॥
 
 गूढमन्त्रप्रचारश्च देशकालविभागवित् ।
 
@@ -1535,17 +1553,17 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 क्रोधलोभभयद्रोहस्तम्भचापलवर्जितः ।
 
-वृद्धोपदेशसंपन्नः शक्तो मधुरदर्शनः॥ 
+वृद्धोपदेशसम्पन्नः शक्तो मधुरदर्शनः ॥ 
 
 निर्वृतः पितरीवास्ते यत्र लोकः स पार्थिवः ॥ ७ ॥
 
-आत्मसंपद्गुणैः संम्यक्संयुक्तं युक्तकारिणम् ॥
+आत्मसम्पद्गुणैः सम्म्यक्संयुक्तं युक्तकारिणम् ॥
 
-पर्जन्यमिवराजानं प्राप्य लोकोभिवर्धते ॥ ८ ॥
+पर्जन्यमिव राजानं प्राप्य लोकोभिवर्धते ॥ ८ ॥
 
 साधु भूतलदेवत्वं दुरापमकृतात्मभिः \।\।
 
-आत्मसंस्कारसंपन्नो राजा भवितुमर्हति ॥ ९ ॥
+आत्मसंस्कारसम्पन्नो राजा भवितुमर्हति ॥ ९ ॥
 
 लोकाधाराः श्रियो राज्ञां दुरापा दुष्परिग्रहाः ।
 
@@ -1555,7 +1573,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अविसंवादिता सत्यं वृद्धसेवा कृतज्ञता ॥ ११ ॥
 
-दैवसंपन्नताबुद्धिरक्षुद्रपरिवारता ।
+दैवसम्पन्नताबुद्धिरक्षुद्रपरिवारता ।
 
 शक्यसामान्तता चैव तथा च दृढभक्तिता ॥ १२ ॥
 
@@ -1567,7 +1585,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तथा च कुर्वीत यथा गच्छेल्लोकाभिगम्यताम् ॥ १४ ॥
 
-**अन्यच्च विष्णुधर्मोत्तरे सुंज ( नृप**? **) लक्षणमाह-**
+**अन्यच्च विष्णुधर्मोत्तरे सुञ्ज ( नृप **? ** ) लक्षणमाह-**
 
 सर्वलक्षणलक्षण्यो विनीतः प्रियदर्शनः ।
 
@@ -1591,21 +1609,21 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 षाड्गुण्यस्य प्रयोक्ता च शक्त्युपेतस्तथैव च ।
 
-नाहंवादी न निर्द्वन्द्वो न यत्किंचनकारकः ॥ २० ॥
+नाहंवादी न निर्द्वन्द्वो न यत्किञ्चनकारकः ॥ २० ॥
 
 कृते कर्मण्यमात्यानां कर्तामात्यजनप्रियः ।
 
-संगृहीतजनस्तब्धः प्रसन्नवदनः सदा ॥ २१ ॥
+सङ्गृहीतजनस्तब्धः प्रसन्नवदनः सदा ॥ २१ ॥
 
 सदा भृत्यजनावेक्षी क्रोधी (च ? ) सुमहामनाः ॥ २२ ॥
 
-**षाड्गुण्यस्यप्रयोक्तेत्युक्तं तानेव षड्गुणानाह-**
+**षाड्गुण्यस्य प्रयोक्तेत्युक्तं तानेव षड्गुणानाह-**
 
-संधिश्चविग्रहश्चैव यानमासनमेव च ।
+सन्धिश्च विग्रहश्चैव यानमासनमेव च ।
 
 द्वैधीभावः संश्रयश्च षाड्गुण्यं परिकीर्तितम् ॥ २३ ॥
 
-पणबन्धः स्मृतः संधिरपकारस्तु विग्रहः ।
+पणबन्धः स्मृतः सन्धिरपकारस्तु विग्रहः ।
 
 जिगीषोः शत्रुविषये यानं यात्राभिधीयते ॥ २४ ॥
 
@@ -1617,7 +1635,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **तेषां प्रयोगकालमाह--**
 
-समेन संधिरन्वेष्यो हीनेन च बलीयसा ।
+समेन सन्धिरन्वेष्यो हीनेन च बलीयसा ।
 
 हीनेन विग्रहः कार्यः स्वयं राज्ञा बलीयसा ॥ २६ ॥
 
@@ -1627,7 +1645,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अशुद्धपार्ष्णिर्बलवान् द्वैधीभावं समाश्रयेत् ।
 
-बलिना विगृहीतस्तु यो संधेयेन पार्थिवः ॥ २८ ॥
+बलिना विगृहीतस्तु यो सन्धेयेन पार्थिवः ॥ २८ ॥
 
 संश्रयस्तेन कर्तव्यो गुणानामधमो गुणः ।
 
@@ -1639,15 +1657,15 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 एवं च बोद्धा नृपतिर्गुणानां काले च देशे च तथा विभागे ।
 
-समाश्रयेद्भार्गववंशमुख्य एतावदुक्तं नृपतेस्तु कार्यम् ॥ ३१॥
+समाश्रयेद्भार्गववंशमुख्य एतावदुक्तं नृपतेस्तु कार्यम् ॥ ३१ ॥
 
 **इति राजलक्षणम् । एवंविधैर्लक्षणैर्यु (क्तो) भिषिक्तो राजा राज्यं कुर्यात् ।**
 
 **तद्राज्यं कीदृशमीदृशमित्याह---**
 
-स्वाम्यमात्यसुहृत्कोषदेशदुर्गबलानि च।
+स्वाम्यमात्यसुहृत्कोषदेशदुर्गबलानि च ।
 
-स्वाम्यमात्यो जनपदो दुर्गंदण्डस्तथैव च ॥ ३२ ॥
+स्वाम्यमात्यो जनपदो दुर्गं दण्डस्तथैव च ॥ ३२ ॥
 
 कोशो मित्रं च धर्मज्ञः सप्ताङ्गं राज्यमुच्यते ।
 
@@ -1703,11 +1721,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 प्रै(प्रे) ख (क्ष) कः पाठकश्चैव गणकः प्रतिबोधकः ।
 
-गूढमन्त्रश्चतत्वज्ञो कालज्ञो दृष्टवित्तथा ॥ ४५ ॥
+गूढमन्त्रश्च तत्वज्ञो कालज्ञो दृष्टवित्तथा ॥ ४५ ॥
 
 पितृमातामहाभिज्ञः स्मृतिसिद्धान्तगोचरः ।
 
-संधिविग्रहविद्वांश्चमन्त्री ह्येष प्रकीर्तितः ॥ ४६ ॥
+सन्धिविग्रहविद्वांश्च मन्त्री ह्येष प्रकीर्तितः ॥ ४६ ॥
 
 **मन्त्रिणश्च ब्राह्मणादयः कार्याः । तदेवाह । अन्यत्रामात्यलक्षणं विष्णुधर्मोत्तरे—**
 
@@ -1729,7 +1747,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 इङ्गिताकारतत्त्वज्ञ ऊहापोहविशारदः ।
 
-शूरश्चकृतिविद्यश्चन च मानी विमत्सरः ॥ ५१ ॥
+शूरश्च कृतिविद्यश्च न च मानी विमत्सरः ॥ ५१ ॥
 
 चारप्रचारकुशलः प्राणिभिः प्रणयात्मकः ।
 
@@ -1743,7 +1761,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यथानुरू(प) मर्हाणां पुरुषाणां नियोजिता ॥ ५४ ॥
 
-राज्ञः परोक्षे कार्याणि संपराये भृगूद्वह ॥
+राज्ञः परोक्षे कार्याणि सम्पराये भृगूद्वह ॥
 
 कृत्वा निवेदिता राज्ञि कर्मणां गुरुलाघवम् ॥ ५५ ॥
 
@@ -1757,27 +1775,28 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अचिरेणापि विद्वेषं मन्त्री समधिगच्छसि(ति) ॥ ५७ ॥
 
-करोति यश्चकार्याणि विदितानि महीपतेः ।
+करोति यश्च कार्याणि विदितानि महीपतेः ।
 
 भेदो न तस्य भवति कदाचिदपि भूभुजा ॥ ५८ ॥
 
-एवंगुणो यस्तु भवेच्च मन्त्री
+एवङ्गुणो यस्तु भवेच्च मन्त्री
 
-वाक्ये च तस्याभिरतिश्चराज्ञः ।
+वाक्ये च तस्याभिरतिश्च राज्ञः ।
 
 राज्यं स्थिरं स्याद्विपुला च लक्ष्मी-
 
 र्यस्य च (र्वंशस्य ?) दीप्तिर्भुवनत्रयेपि ॥ ५९ ॥  
 
+
 **इति अमात्यलक्षणम् । अथैतादृशामात्यनियोजने राज्ञः कार्यसिद्धिरन्यथा कार्यहानिरधर्मश्चेत्याह कामन्दकः--**
 
 राज्ञा नियोजितेमात्ये राज्ञः सन्ति त्रयो गुणाः ।
 
-यशः स्वर्गनिवासश्चपुष्ट चे (पुष्टश्चैव) धनागमः ॥ ६० ॥
+यशः स्वर्गनिवासश्च पुष्ट चे (पुष्टश्चैव) धनागमः ॥ ६० ॥
 
-मूर्खे नियोजितेमात्येत्रयो दोषा महीपतेः ।
+मूर्खे नियोजितेमात्ये त्रयो दोषा महीपतेः ।
 
-अयशः कर्महानिश्चनरके पतनं ध्रुवम् ॥ ६१ ॥
+अयशः कर्महानिश्च नरके पतनं ध्रुवम् ॥ ६१ ॥
 
 तस्मान्महीपतिः सम्यग् विचार्य च पुनः पुनः ।
 
@@ -1795,7 +1814,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 इत्यमात्यस्य कर्मेदं हन्ति स व्यसनान्वितः ॥ ६४ ॥
 
-**मन्त्रिणश्च ब्राह्मणादयः कार्यास्तदेवाह—**
+**मन्त्रिणश्च ब्राह्मणादयः कार्यास्तदेवाह —**
 
 सर्वेषां तु विशिष्टेन ब्राह्मणेन विपश्चिता ।
 
@@ -1803,21 +1822,19 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अन्यानपि प्रकुर्वीत शुचीन्प्राज्ञानवस्थितान् ।
 
-सम्यगर्थंसमाहर्तुं सामान्यान्सुपरीक्षितान् ॥ ६६ ॥
+सम्यगर्थं समाहर्तुं सामान्यान्सुपरीक्षितान् ॥ ६६ ॥
 
 मौलान् शास्त्रविदः शूराल्लब्धलक्षान् कुलाेद्भवान् ।
 
 सचिवान् सप्त वा राजा कुर्वीत सुपरीक्षितान् ॥ ६७ ॥
 
-कुलीनाः शुचयः शूराः श्रुतवन्तोन रागिणः ।
+कुलीनाः शुचयः शूराः श्रुतवन्तो न रागिणः ।
 
 दण्डिनेः (दण्डनीतेः) प्रयोक्तारः सचिवाः स्युर्महीपतेः ॥ ६८ ॥
 
 अन्तःसारैरकुटिलैः सद्वृत्तैः सुपरीक्षितैः ।
 
-मन्त्रिभिर्धार्यते राज्यं
-
-गुस्तम्भैरिव मन्दिरम् ॥ ६९ ॥
+मन्त्रिभिर्धार्यते राज्यं गुस्तम्भैरिव मन्दिरम् ॥ ६९ ॥
 
 अशृण्वन्नपि बोद्धव्यो मन्त्रिणा पृथिवीपतिः ।
 
@@ -1825,9 +1842,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **मि(स्मृ)तिसारेपि—**
 
-स्मृतिस्तत्परतार्थेषु वितर्कोज्ञाननिश्चयः ।
+स्मृतिस्तत्परतार्थेषु वितर्को ज्ञाननिश्चयः ।
 
-दृढता मन्त्रगुप्तिश्चमन्त्रिसंपत्प्रकीर्तिते(ता) ॥ ७१ ॥
+दृढता मन्त्रगुप्तिश्च मन्त्रिसम्पत्प्रकीर्तिते(ता) ॥ ७१ ॥
 
 **अमात्यो राजपुत्रश्च भुजावेतौ महपितेरिति राजपुत्रस्यापि अमात्र(त्य)मध्ये परिगणितत्वात् प्रसङ्गतः पुत्रशिक्षामाह-**
 
@@ -1843,7 +1860,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 शिल्पानि शिक्षते(ये)दाप्तैर्नास्य मिथ्याप्रियं वदेत् ॥ ७४ ॥
 
-न चास्य सङ्गोदातव्यः क्रुद्धलब्धावमानितैः ।
+न चास्य सङ्गो दातव्यः क्रुद्धलब्धावमानितैः ।
 
 तथापि विनयेदेनं यथा यौवनगोमुखे ॥ ७५ ॥
 
@@ -1857,9 +1874,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अधिकारेषु सर्वेषु विनीतं विनियोजयेत् ।
 
-आदौस्वल्पे ततः पश्चात्क्रमेणापि बृहत्स्वपि ॥ ७८ ॥
+आदौ स्वल्पे ततः पश्चात्क्रमेणापि बृहत्स्वपि ॥ ७८ ॥
 
-**कामन्दकोपि—**
+**कामन्दकोपि —**
 
 राजपुत्रा मदोद्धूता गजा इव निरङ्कुशाः ।
 
@@ -1869,13 +1886,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दुःखेन रक्ष्यं राज्यं हि व्याघ्राघ्रातमिवाविषः (मिषम् ) ॥ ८० ॥
 
-रक्ष्यमाणा यदि च्छिद्रं कथंचित्प्राप्नुवन्ति ते ।
+रक्ष्यमाणा यदि च्छिद्रं कथञ्चित्प्राप्नुवन्ति ते ।
 
 सिंहशावा इव घ्नन्ति ते हि राज्यमसंशयम् ॥ ८१ ॥
 
 पितरं स्वमसंशयमित्यपि पाठः ।
 
-**इति राजपुत्रशिक्षा । प्रसङ्गाद्राजपुत्रस्य कृत्यमाह—**
+**इति राजपुत्रशिक्षा । प्रसङ्गाद्राजपुत्रस्य कृत्यमाह —**
 
 पितृसेवापरस्तिष्ठेत्कायवाङ्गमानसैः सदा ।
 
@@ -1887,11 +1904,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यस्मिन्द्वेषं पिता कुर्यात्स्वस्यापि द्वेष्य एव सः ।
 
-असंमतं विरुद्धं च स्वयं नैव समाचरेत् ॥ ८४ ॥
+असम्मतं विरुद्धं च स्वयं नैव समाचरेत् ॥ ८४ ॥
 
 प्राप्यापि युवराजत्वं प्राप्नुयाद्विकृतिं न च ।
 
-स संपत्तिमदाच्चैव मातरं पितरं तथा ॥ ८५ ॥
+स सम्पत्तिमदाच्चैव मातरं पितरं तथा ॥ ८५ ॥
 
 भ्रातरं भगिनीं चापि अन्यान्वा राजवल्लभान् ।
 
@@ -1901,7 +1918,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 पुत्रस्य पितुराज्ञा हि परमं भूषणं स्मृतम् ॥ ८७ ॥
 
-सोदरेषु च सर्वेषु नाधिक्यं संप्रदर्शयेत् ।
+सोदरेषु च सर्वेषु नाधिक्यं सम्प्रदर्शयेत् ।
 
 भ्रातॄणामवमानेन बहवो हि विनाशिताः ॥ ८८ ॥
 
@@ -1911,21 +1928,23 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 एवं गृहाविरोधेन राजपुत्रो वसन्गृहे ।
 
-त्यागी च सत्त्वसंपन्नः सर्वान्कुर्याद्वशे स्वके ॥ ९० ॥
+त्यागी च सत्त्वसम्पन्नः सर्वान्कुर्याद्वशे स्वके ॥ ९० ॥
 
 शनैः शनैः प्रवर्धेत शुक्लपक्षमृगाङ्कवत् ।
 
 एवं वृत्तो राजपुत्रो राज्यं प्राप्याप्यकण्टकम् \।
 
-सहायवान्महामात्यश्चिरं भुङ्क्ते वसुंधराम् ॥ ९१ ॥
+सहायवान्महामात्यश्चिरं भुङ्क्ते वसुन्धराम् ॥ ९१ ॥
 
 सहायाः पूर्वोक्ता ज्ञेयाः । इति राजपुत्ररुत्यनिरूपणम्—
 
-विनयोपग्रहान्भृ(भू ?) त्यैकुर्वीत नृपतिः सुतान् ।
+विनयोपग्रहान्भृ (भू ?) त्यै कुर्वीत नृपतिः सुतान् ।
 
 विनीतमौरसं पुत्रं यौवराज्येभिषेचयेत् ॥ ९२ ॥
 
 **इति अनेन विनतिस्यैव राज्याधिकारे सिद्वे पुनरविनीत प्रत्याह—**
+
+
 
 राजपुत्रः स दुर्वृत्तः परित्यागं हि नार्हति ।
 
@@ -1947,7 +1966,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 वर्धमानाल्पनिस्राव (वः) ख्यातः पूजितदैवतः ।
 
-ईक्षितद्रव्यसंपूर्णो हृद्य आप्तैरधिष्ठितः ॥ ९७ ॥
+ईक्षितद्रव्यसम्पूर्णो हृद्य आप्तैरधिष्ठितः ॥ ९७ ॥
 
 मुक्ताकनकरत्नाढ्यः पितृपैतामहोचितः ।
 
@@ -1959,7 +1978,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यस्यार्थास्तस्य सुहृदो यस्यार्थास्तस्य पौरुषम् ।
 
-यस्यार्थास्तस्य सर्वेपि सहायाः संभवन्ति हि ॥ १०० ॥
+यस्यार्थास्तस्य सर्वेपि सहायाः सम्भवन्ति हि ॥ १०० ॥
 
 आपदर्थे च संरक्ष्यः कोशः कोशवता सदा ।
 
@@ -1979,25 +1998,27 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 कोशवान्पृथिवीपालः परैरप्युपजीव्यते ।
 
-**कोश द्रव्यमित्यर्थः । कोशः संरक्ष्यइत्युक्तं रक्षणं चाधिकारिसापेक्षमिति कोशाधिका ग्लिक्षणमाह--**
+
+
+**कोश द्रव्यमित्यर्थः । कोशः संरक्ष्य इत्युक्तं रक्षणं चाधिकारिसापेक्षमिति कोशाधिका ग्लिक्षणमाह--**
 
 लोहवस्त्राजिनादीनां रत्नानामभिधानवित् ॥ १०५ ॥
 
-विज्ञाता फल्गुसाराणां अनाहार्यः शुचिस्मितः ।
+विज्ञाता फल्गुसाराणाम् अनाहार्यः शुचिस्मितः ।
 
-निपुणश्चाप्रवृत्तश्चधनाध्यक्षः प्रकीर्तितः ॥ १०६ ॥
+निपुणश्चाप्रवृत्तश्च धनाध्यक्षः प्रकीर्तितः ॥ १०६ ॥
 
 **इति कोशनिरूपणम् । अथ देशः--**
 
 यो राष्ट्रमनुगृह्णाति परिगृह्य स्वयं नृपः ।
 
-मंजातमुपजीवन्स लभते सुमहत्फलम् ॥ १०७ ॥
+मञ्जातमुपजीवन्स लभते सुमहत्फलम् ॥ १०७ ॥
 
 पोराञ्जानपदान्सर्वान्सश्रितोपाश्रितांस्तथा ।
 
 यथाशक्त्यानुकम्पेत सर्वानप्यधनानपि ॥ १०८ ॥
 
-धर्माधर्मौविजानन्हि सतां मार्गमनुस्मरन् ।
+धर्माधर्मौ विजानन्हि सतां मार्गमनुस्मरन् ।
 
 प्रजा रक्षेन्नृपः साधु हन्याच्च परिपन्थिनः १०९ ॥
 
@@ -2017,7 +2038,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 एवंविधं यथालाभं राजा विषयमाविशेत् ॥ ११२ ॥
 
-तत्र दुर्गंनृपः कुर्यात् षष्ठ (ण्णा ? ) मेकतमं बुधः ॥ ११३ ॥
+तत्र दुर्गं नृपः कुर्यात् षष्ठ (ण्णा ? ) मेकतमं बुधः ॥ ११३ ॥
 
 **षङ्भेदानेवाह—**  
 धन्विदुर्गं महीदुर्गं नरदुर्ग तथैव च ।
@@ -2028,7 +2049,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सर्वेषामेव दुर्गाणां गिरिदुर्गं प्रशस्यते ।
 
-दुर्गंच परिखोपेतं वप्रादृालकसंयुतम् ॥ ११५ ॥
+दुर्गं च परिखोपेतं वप्रादृालकसंयुतम् ॥ ११५ ॥
 
 शतघ्नीयन्त्रमुख्ये (श्च) शतशस्तु समावृतम् ।
 
@@ -2044,15 +2065,15 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 इत्येवमेतैः सकलैरुपेतैर्द्रव्यैः परार्ध्यैः परिरक्षितः स्यात् ।
 
-राजा वसेत्तत्र गृहे सुशुभ्रे गुणान्विते लक्षणसंप्रयुक्ते ॥ ११८ ॥
+राजा वसेत्तत्र गृहे सुशुभ्रे गुणान्विते लक्षणसम्प्रयुक्ते ॥ ११८ ॥
 
 **तत्र दुर्गे इत्यर्थः । अथ दुर्गेषु स्थलविभागमाह--**
 
-चतस्रश्चतथा तत्र कार्यास्त्वायतवीथयः ।
+चतस्रश्च तथा तत्र कार्यास्त्वायतवीथयः ।
 
-एकस्मिंस्तत्र वीथ्यग्रे देववेश्म भवेद्दृढम् ॥ ११९॥
+एकस्मिंस्तत्र वीथ्यग्रे देववेश्म भवेद्दृढम् ॥ ११९ ॥
 
-वीथ्यग्नेच द्वितीये तु राजवेश्म विधीयते ।
+वीथ्यग्ने च द्वितीये तु राजवेश्म विधीयते ।
 
 धर्माधिकरणं कार्यं वीथ्यग्रे च तृतयिके ॥ १२० ॥
 
@@ -2078,7 +2099,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 महानसं च धर्मज्ञकर्मशाला तथापरा ॥ १२६ ॥
 
-गृहं पुरोधसः कार्यंवामतो राजवेश्मनः ।
+गृहं पुरोधसः कार्यं वामतो राजवेश्मनः ।
 
 मन्त्रिदैवविदां चैव चिकित्साकर्तुरेव च ॥ १२७ ॥
 
@@ -2098,7 +2119,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 गोगजाश्वादिशालासु तत्पुरीषस्य निर्गमः ।
 
-अस्तंगते न कर्तव्यो देवदेवे दिवाकरे ॥ १३१ ॥
+अस्तङ्गते न कर्तव्यो देवदेवे दिवाकरे ॥ १३१ ॥
 
 दुर्गे तत्र यथास्थानं राजा विज्ञाय सारथीन् ।
 
@@ -2108,15 +2129,17 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दद्यादावसथान्दुर्गे मन्त्रकालविदान्(दः) शुभान् ॥ १३३ ॥
 
-गोवैद्यानश्ववैद्यांश्चगजवैद्यांस्तथैव च ।
+गोवैद्यानश्ववैद्यांश्च गजवैद्यांस्तथैव च ।
 
 आहरेत बलं राजा दुर्गे परबला रुज. ॥ १३४ ॥
 
 कुशीलवानां विप्राणां दुर्गे स्थानं विधीयते ।
 
-बहूनां च न वै दुर्गंविना कार्यं ततो भवेत् ॥ १३५ ॥
+बहूनां च न वै दुर्गं विना कार्यं ततो भवेत् ॥ १३५ ॥
 
-**स्थलविभागमुक्त्वा दुर्गसंपत्तिमाह--**
+**स्थलविभागमुक्त्वा दुर्गसम्पत्तिमाह--**
+
+
 
 दुर्गे तु यन्त्राः कर्तव्या नानाप्रहरणान्विताः ।
 
@@ -2124,7 +2147,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दुर्गद्वाराणि गुप्तानि कार्याण्यपि च भूभृता ।
 
-संग्रहश्चात्र सर्वेषामायुधानां च शस्यते ॥ १३७ ॥
+सङ्ग्रहश्चात्र सर्वेषामायुधानां च शस्यते ॥ १३७ ॥
 
 धनुषां क्षेपणीद्व्या (या) नामायुधानां च शस्यते ।
 
@@ -2140,12 +2163,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 हेतुकानां च देवानां मङ्गलानां च संशयः ।
 
-सर्वेषां शिल्पिभाण्डानां संचयस्तत्र चेष्यते ॥ १४९ ॥
+सर्वेषां शिल्पिभाण्डानां सञ्चयस्तत्र चेष्यते ॥ १४९ ॥
 
 वादित्राणां च सर्वेषामोषधीनां तथैव च ।
 
-यवसानां प्रभूतानां इन्धनानां तथैव च ॥ १४२ ॥  
-
+यवसानां प्रभूतानाम् इन्धनानां तथैव च ॥ १४२ ॥  
 गुडस्य सर्वतलानां गोरसानां तथैव च ।
 
 वसानामथ मज्जानां स्नायूनामस्थिभिः सह ॥ १४३ ॥
@@ -2154,9 +2176,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तथैवाभ्रपठानां (?) च यवगोधूमयोरपि ॥ १४४ ॥
 
-सणसर्जरसं भूर्जंजतुलाक्षा च टङ्कणम् ।
+सणसर्जरसं भूर्जं जतुलाक्षा च टङ्कणम् ।
 
-राजा संचिनुयाद्दुर्गे यच्चान्यदपि किंचन ॥ १४५ ॥
+राजा सञ्चिनुयाद्दुर्गे यच्चान्यदपि किञ्चन ॥ १४५ ॥
 
 रत्नानां सर्वलोहानां वस्त्राणां चाप्यशेषतः ।
 
@@ -2166,7 +2188,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 कुम्भाश्चाशीर्वि (षै) र्युक्ताव्यालसिंहादयस्तथा ॥ १४७ ॥
 
-भृङ्गाश्चपक्षिणश्चैव रक्ष्यास्ते च परस्परम् ।
+भृङ्गाश्च पक्षिणश्चैव रक्ष्यास्ते च परस्परम् ।
 
 स्थानानि च विरुद्धानां सुगुप्तानि पृथक् पृथक् ॥ १४८ ॥
 
@@ -2190,15 +2212,15 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 कुभृत्यान्पापशीलांश्च न राजा वासयेत्पुरे ॥। १५३ ॥
 
-**आषेधानि च सर्वाणीत्युक्तं तानि मत्स्यपुराणाोक्तानिज्ञेयानि—**
+**आषेधानि च सर्वाणीत्युक्तं तानि मत्स्यपुराणाोक्तानि ज्ञेयानि —**
 
-यन्त्रायुधादृलचयोपपन्न समग्रधान्योषधिसंप्रयुक्तम् ।
+यन्त्रायुधादृलचयोपपन्न समग्रधान्योषधिसम्प्रयुक्तम् ।
 
 वणिग्जमैश्चावृतमावसेत दुर्गं सुगुप्तं नृपतिः सदैव ॥ १५४ ॥
 
 **इतेि दुर्गनिरूपणम् । दुर्गप्रसङ्गाद्दुर्गाध्यक्षलक्षणमाह—**
 
-अनाहार्यश्च शूरश्चवाग्मी प्राज्ञः कुलोद्गतः ।
+अनाहार्यश्च शूरश्च वाग्मी प्राज्ञः कुलोद्गतः ।
 
 दुर्गाध्यक्षः स्मृतो राज्ञ उद्युक्तः सर्वकर्मसु ॥ १५५ ॥
 
@@ -2214,7 +2236,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **गजभदोनाह—**
 
-भद्रोमन्द्रो मृगो मिश्रश्चतुर्धा जायते गजः ।
+भद्रो मन्द्रो मृगो मिश्रश्चतुर्धा जायते गजः ।
 
 त्रयो युगत्रयेभूवम्मिश्राः कलियुगे गजाः ॥ १५८ ॥
 
@@ -2240,11 +2262,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 चीत्कारैर्नाशयन्तः स्वपतिभटमनो मोदयन्तो मदाढ्याः
 
-संग्रामसीम्निखिलबहलतां बाढमाढोकमानाः ।
+सङ्ग्रामसीम्नि खिलबहलतां बाढमाढोकमानाः ।
 
 शुण्डादण्डप्रहारैः परमपि च बलं कम्पयन्तः परेषां
 
-येषां सर्वे गजेन्द्रा भुवि विजयविधौते मता भूमिपालाः ॥ १६४ ॥
+येषां सर्वे गजेन्द्रा भुवि विजयविधौ ते मता भूमिपालाः ॥ १६४ ॥
 
 चलन्ति येषां न शतं गजेन्द्राः पुरःप्रयाणे चलशेलतुल्याः ।
 
@@ -2252,13 +2274,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तावद्गर्जन्ति वीर्यात्परनिधनविधौ युद्धमध्येपि वीरा-
 
-स्तावद्धावन्ति वेगं परमपि दधतः संमुखीनास्तुरङ्गाः ।
+स्तावद्धावन्ति वेगं परमपि दधतः सम्मुखीनास्तुरङ्गाः ।
 
 शूरारूढः सुसज्जो मदमुदितमान ( मनो ? ) मानमानं विधुन्वन्
 
 यावन्नायाति कोपात्कृतविविधरवाटोप एकोपि नागः ॥ १६६ ॥
 
-मातङ्गेरपियैर्महेन्द्रभवनं पुण्याधिकं जन्यते
+मातङ्गेरपि यैर्महेन्द्रभवनं पुण्याधिकं जन्यते
 
 यैः श्यामेरपि सर्वलोकमहिता कीर्तिः समातन्यते ।
 
@@ -2278,17 +2300,18 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 पुरस्तादुच्छ्रितश्चापि पश्चादवनतोपि यः ।
 
-धनुर्विनतविंशश्च(?) समपादतलः शुभः ॥ १७० ॥
+धनुर्विनतविंशश्च (?) समपादतलः शुभः ॥ १७० ॥
 
 विंशत्या च नखैर्युक्ता अष्टादशभिरेव वा ।
 
 विद्युद्दावाग्निसिंहेभ्यो न विभेत्यंशुके ( कुशा) दपि ॥ १७१ ॥
 
-अन्वर्थवेदी शू(र) श्चक्षमावान्नच कर्कशः ।
+अन्वर्थवेदी शू(र) श्च क्षमावान्नच कर्कशः ।
 
 कल्याणमेधास्तेजस्वी भद्रः स परिकीर्तितः ॥ १७२ ॥
 
 **अथ मन्दः--**  
+
 
 महाग्रीवो महावक्त्रो महाप्रोथो महोदरः ।
 
@@ -2296,7 +2319,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 बहलैर्बहुभिर्दीर्घैर्युक्तः स्निग्धतनूरुहैः ।
 
-स्थिरैः स्थिराकृतितलैः पादैश्चपृथुभिः समैः ॥ ९७४ ॥
+स्थिरैः स्थिराकृतितलैः पादैश्च पृथुभिः समैः ॥ ९७४ ॥
 
 स्थिरस्निग्वे विशाले च पीने चापि प्रकीर्तिते ।
 
@@ -2306,25 +2329,27 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 संर्माल्य लोचने नित्यं निद्रान्ध इव गच्छति ॥ १७६ ॥
 
+
+
 **मृगः-**
 
 तनुत्वक्कर्णपादो यः स्तब्धास्यस्तनुमेहनः ।
 
 तनुवंशोदरश्चैव तनुव्यक्ततनूरुहः ॥ ९७७ ॥
 
-दीर्घजिह्वविषाणश्चदीर्घगात्रस्तथा च सः ।
+दीर्घजिह्वविषाणश्च दीर्घगात्रस्तथा च सः ।
 
-प्रध्वस्तरोमकर्णश्चपुरस्ताच्चापि संवृतः ॥ १७८ ॥
+प्रध्वस्तरोमकर्णश्च पुरस्ताच्चापि संवृतः ॥ १७८ ॥
 
 निपाते गोचरस्थाने याया शय चा ( ? ) निर्वृतः ।
 
-ह्रस्वश्रवणलाङ्गूलो दीर्घंविक्रमते क्रमैः ॥ १७९ ॥
+ह्रस्वश्रवणलाङ्गूलो दीर्घं विक्रमते क्रमैः ॥ १७९ ॥
 
 पुनः पुनश्च विनदन् दुर्गतिश्चापि धावति ॥ १८० ॥
 
 **अथ मिश्रलक्षणम्-**
 
-बह्वाशी बह्वलीकश्चदण्डपातेषु चाक्षमः ।
+बह्वाशी बह्वलीकश्च दण्डपातेषु चाक्षमः ।
 
 गच्छेत्प्रकृष्टवेगश्च भारं प्राप्यावसीदति ॥ १८१ ॥
 
@@ -2334,15 +2359,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नित्यं च सान्त्वयेदेनं न चेनमभितापयेत् ।
 
-सर्वेषां लक्षणेःकैश्चिद्युक्तो मिश्रो भवेद्गजः ॥ १८३ ॥
+सर्वेषां लक्षणेः कैश्चिद्युक्तो मिश्रो भवेद्गजः ॥ १८३ ॥
 
 शरतोमरवज्रैश्च गजस्कन्धहता नराः ।
 
 क्षणात्स्वर्गं प्रयन्त्येव तस्मात्स्वर्गोपमा गजाः ॥ १८४ ॥
 
-इत्येवं पूर्वोक्तसंपत्तिसहिते दुर्गे गजा सुखं वसेत् । इति साङ्गदुर्गनिरूपणम् । अथ बलि( ल )निरूपणम् । तच्च (ब)लं
-
-षड्विधम्-
+इत्येवं पूर्वोक्तसम्पत्तिसहिते दुर्गे गजा सुखं वसेत् । इति साङ्गदुर्गनिरूपणम् । अथ बलि( ल )निरूपणम् । तच्च (ब)लं **षड्विधम्-**
 
 षड्विधं तु बलं व्यूह्य द्विषतोभिमुखं व्रजेत् ॥ १८५ ॥
 
@@ -2352,13 +2375,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 पूर्वं पूर्वं गरीयस्तु बलानां विषमं स्मृतम् ॥ ९८६ ॥
 
-अस्यार्थः । मौलं परंपरागतम् । भूतं यावद्विभवस्थायि । श्रेणि गमनमार्गे स्थाने निवेशि (तं ?) \। सुहृन्मित्रबलम् । द्विषदधीनं जातं यत्तद् द्विषत् । आटविकं अरण्यसंबन्धि । उक्तस्य च तस्य चतुरङ्गत ( ता ) माह--
+अस्यार्थः । मौलं परम्परागतम् । भूतं यावद्विभवस्थायि । श्रेणि गमनमार्गे स्थाने निवेशि (तं ?) \। सुहृन्मित्रबलम् । द्विषदधीनं जातं यत्तद् द्विषत् । आटविकम् अरण्यसम्बन्धि । उक्तस्य च तस्य चतुरङ्गत ( ता ) माह--
 
 हस्त्यश्वरथपादातं सेनाङ्गं स्याच्चतुर्विधम् ॥ १८७ ॥
 
 **इति बलम् । बलस्य सेनापत्यधीनत्वात् सेनापतिलक्षणमाह---**
 
-कुलीनः शीलसंपन्नो धनुर्वेदविशारदः ।
+कुलीनः शीलसम्पन्नो धनुर्वेदविशारदः ।
 
 हस्तिशिक्षादिकुशलो नित्यं हि श्लक्ष्णभाषितः ॥ १८८ ॥
 
@@ -2368,13 +2391,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 व्यूहतत्वविधानज्ञः फल्गुसारविशेषतः ।
 
-राज्ञा सेनापतिः कार्योब्राम्हणः क्षत्रियोथवा ॥ ९९० ॥
+राज्ञा सेनापतिः कार्यो ब्राम्हणः क्षत्रियोथवा ॥ ९९० ॥
 
 एवं ये कुशलं शूरं हिते स्थितमकल्मषम् ।
 
 सेनापतिं प्रकुर्वन्ति ते जयन्ति रणे रिपून् ॥ १९१ ॥
 
-बृहस्पतिसमं बुध्द्याक्षमया पृथिवीसमम् ।
+बृहस्पतिसमं बुध्द्या क्षमया पृथिवीसमम् ।
 
 समुद्रमिवगाम्भीर्ये हिमवन्तमिवाचलम् ॥ ९९२ ॥
 
@@ -2382,11 +2405,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 महेन्द्रमिव शत्रूणां ध्वंसनं शरवृष्टिभिः ॥ १९३॥
 
-**इति सेनापतिलक्षणम्**
+**इति सेनापतिलक्षणं**
 
 हस्तिशिक्षाविधानज्ञो वनजाति ( वि ) शारदः ।
 
-क्षेला (क्लेश)क्षमस्तथा राज्ञो गजाध्यक्षः प्रशस्यते ॥ १९४ ॥
+क्षेळा (क्लेश)क्षमस्तथा राज्ञो गजाध्यक्षः प्रशस्यते ॥ १९४ ॥
 
 एतैरेव गुणैर्युक्तः स्थविरस्य (श्च) विशिष्यते ।
 
@@ -2398,6 +2421,8 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अश्वाध्यक्षो महीभर्तुः श्वा (स्वा) सनस्य (श्) विशिष्यते ॥ १९६ ॥
 
+
+
 **अथ राजभूषणे सप्ताङ्ग निरूपणम् । अथ राजकृत्यनिरूपणम्--**
 
 विचिन्त्य कार्याणि निशावसाने विद्वत्सुहृन्मण्डलमिश्रितानाम् ।
@@ -2407,6 +2432,8 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 स वेणुवीणापटहस्वनानां गीतेन पूर्वं व्यपनीतनिद्रः ।
 
 शय्यां त्यजेत्पूर्वनिशावसाने शृण्वन्गिरो मङ्गलपाठकानाम् ॥ १९८ ॥
+
+
 
 **तदुत्तरमाह्निकोक्तरीत्या शौचदन्तधावनानि कुर्यात् । तदुक्तं मनुना --**
 
@@ -2420,7 +2447,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 ततश्च-
 
-प्रणम्य देवांश्चगुरूंश्च सर्वान्दत्त्वा च गां वत्सयुतां द्विजाय ।
+प्रणम्य देवांश्च गुरूंश्च सर्वान्दत्त्वा च गां वत्सयुतां द्विजाय ।
 
 दृष्ट्रा मुखं सर्पिषि दर्पणे च सर्पिश्च दद्यात्सहिरण्यमेव ॥ २०९ ॥
 
@@ -2444,17 +2471,17 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 न च (चा) स्य रा ( राजा ) श्रद्दध्याच्चारस्य प्रियभाषितः (तमू) ।
 
-द्वयोः संबन्धमाज्ञाय श्रद्दध्यान्नृपतिस्ततः ॥ २०६ ॥
+द्वयोः सम्बन्धमाज्ञाय श्रद्दध्यान्नृपतिस्ततः ॥ २०६ ॥
 
 परस्परस्याविदितौ यदि स्यातां चरावुभौ ।
 
 तस्माद्राजा प्रयत्नेन गूढांश्चारानियोजयेत् ॥ २०७ ॥
 
-तपस्विलिङ्गिनोधूर्ताः पण्यशिल्पोपजीविनः ।
+तपस्विलिङ्गिनो धूर्ताः पण्यशिल्पोपजीविनः ।
 
 चाराश्चरेयुः परितः पिबन्तो जगतो जनः (नान् ) ॥ २०८ ॥
 
-निर्गच्छेयुर्विशेयुश्चसर्ववार्ताविदोह्यतः ।
+निर्गच्छेयुर्विशेयुश्च सर्ववार्ताविदो ह्यतः ।
 
 चाराः सकाशं नृपतेश्चक्षुर्दुरचरं हि तत् ॥ २०९ ॥
 
@@ -2464,21 +2491,21 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **कामन्दकोपि --**
 
-अनेनासंपतोमूढा (तन्मार्गा) त्पतस्यन्ध (न्धः) समेपि हि ।
+अनेनासम्पतोमूढा (तन्मार्गा) त्पतस्यन्ध (न्धः) समेपि हि ।
 
-सर्वसंपत्समुदयं सर्वावस्थाविचेष्टितम् ।
+सर्वसम्पत्समुदयं सर्वावस्थाविचेष्टितम् ।
 
-चरेण विद्विषां विद्यादुद्देशप्रार्थनादि दा॥ २११ ॥
+चरेण विद्विषां विद्यादुद्देशप्रार्थनादि दा ॥ २११ ॥
 
 **इति । तन्नियोगे च तेषामपि स्वरूपज्ञानं भवति -**
 
 विश्रम्भेणापि च प्रेम्णा यदाज्ञापयति प्रभुः ।
 
-तस्य कर्ता स एव स्याद्गुणीभूतस्तु शंकरः ॥ २१२ ॥
+तस्य कर्ता स एव स्याद्गुणीभूतस्तु शङ्करः ॥ २१२ ॥
 
 कर्तव्यं भृत्यवर्गाय स्वामी चेन्न समादिशेत् ।
 
-अस्तिनास्तीतिकस्तर्हि तस्य ज्ञास्यति पौरुषम् ॥ २९३ ॥
+अस्तिनास्तीति कस्तर्हि तस्य ज्ञास्यति पौरुषम् ॥ २९३ ॥
 
 **ततश्च-**
 
@@ -2490,9 +2517,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 वेदवेदाङ्गतत्वज्ञो जपहोमपरायणः ।
 
-आशीर्वादपरो नित्यं एष राजपुरोहितः ॥ २१५ ॥
+आशीर्वादपरो नित्यम् एष राजपुरोहितः ॥ २१५ ॥
 
-**अ (थ) धर्माधिकारी—**
+**अ (थ) धर्माधिकारी —**
 
 समः शत्रौ च मित्रेच धर्मशास्त्रविशारदः ।
 
@@ -2504,7 +2531,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 स्तत्राभ्यासरतो जितेन्द्रियचयः शास्त्राभिभाषी च यः ।
 
-स्पृष्टं कर्म दिवौकसां सुगु ( ग ?) णिताज्जानाति निःसंशयम्
+स्पृष्टं कर्म दिवौकसां सुगु ( ग ?) णिताज्जानाति निःसंशयं
 
 तस्यादेशविधायिनि क्षितिपतौ स्थैर्यं जयश्रीर्भवेत् ॥ २१७ ॥
 
@@ -2528,7 +2555,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **सभाप्रवेशः-**
 
-स्मितप्रसन्नः प्रथमाभिभाषितैः प्रसाददृष्ट्वा (ष्ट्या) करसंग्रहैश्च\।
+स्मितप्रसन्नः प्रथमाभिभाषितैः प्रसाददृष्ट्वा (ष्ट्या) करसङ्ग्रहैश्च \।
 
 यथानुकूलं हृदयान्यपि द्विषां प्रसादयन्धर्मसभां प्रवेशयेत् ॥ २२१ ॥
 
@@ -2554,19 +2581,21 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 ताम्बूलधारी भवति नारी वाप्यथ तद्गुणा ॥ २२५ ॥
 
+
+
 **अत्रैव प्रसङ्गात्सकलसाधारणं सेवकलक्षणमुच्यते----**
 
-ताडितोपि दुरुक्तोपि दण्डितोपिमहीभुजा ।
+ताडितोपि दुरुक्तोपि दण्डितोपि महीभुजा ।
 
-न चिन्तयति यः पापं स भृत्योर्होमहीभुजाम् ॥ २२६ ॥
+न चिन्तयति यः पापं स भृत्योर्हो महीभुजाम् ॥ २२६ ॥
 
-भर्तुरर्धासनेरर्धेर्मुहुर्नान्यत्र तिष्ठति (निक्षिपेत् ) ।
+भर्तुरर्धासने रर्धेर्मुहुर्नान्यत्र तिष्ठति (निक्षिपेत् ) ।
 
-( ब्रूयान्न किंचिदन्योन्यं तिष्ठेच्चास्यं विलोकयन् ॥ २२७ ॥
+( ब्रूयान्न किञ्चिदन्योन्यं तिष्ठेच्चास्यं विलोकयन् ॥ २२७ ॥
 
 कोन्तेत्यहमिति ब्रूयात्सम्यगाज्ञापयेति वा ।
 
-आज्ञां चावितथांकुर्याद्यथाशक्त्यविलम्बितम् ॥ २२८ ॥
+आज्ञां चावितथां कुर्याद्यथाशक्त्यविलम्बितम् ॥ २२८ ॥
 
 **तेषा वृत्तमाह—**
 
@@ -2574,7 +2603,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 जृम्भणं गात्रभङ्गं च परी (र्व) स्फोटं च वर्जयेत् ॥ २२९ ॥
 
-प्रविश्य सानुरागस्य चितज्ञः स्याच्च संमतः ।
+प्रविश्य सानुरागस्य चितज्ञः स्याच्च सम्मतः ।
 
 समर्थयश्च सत्पक्षं साधु भाषेत भाषिते ॥ २३० ॥
 
@@ -2596,19 +2625,19 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 ये शूरा ये च विद्वांसो ये च सेवाविपश्चितः ।
 
-ये(ते)षामेव विकाशिन्यो भोग्या नृपतिसंपदः ॥ २३५ ॥
+ये(ते)षामेव विकाशिन्यो भोग्या नृपतिसम्पदः ॥ २३५ ॥
 
 अनुकूलं प्रियं तस्य वक्तव्य जनसंसदि ।
 
 रहोगतस्य वक्तव्यमप्रियं यदृतं भवेत् ॥ २३६ ॥
 
-अन्तःपुरधनाध्यक्षेर्वैरिदृतैःपराकृतैः।
+अन्तःपुरधनाध्यक्षेर्वैरिदृतैः पराकृतैः ।
 
 संसर्ग न व्रजेत्प्राज्ञां विना पार्थिवशासनात् ॥ २३७ ॥
 
-दुष्कृत्यं हि नरेन्द्रस्य न च संकीर्तयेत्क्वचित् ।
+दुष्कृत्यं हि नरेन्द्रस्य न च सङ्कीर्तयेत्क्वचित् ।
 
-वस्त्रमस्त्रमलंकारं राज्ञा ध ( द ) त्तं च धारयेत् ॥ २३८ ॥
+वस्त्रमस्त्रमलङ्कारं राज्ञा ध ( द ) त्तं च धारयेत् ॥ २३८ ॥
 
 शाब्दलोल्यं च पशून्यं नास्तिक्यं क्षुद्रता तथा ।
 
@@ -2618,11 +2647,12 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 धर्मशास्त्रार्थकुशलाः कुलीनाः सत्यवादिनः ।
 
-समाः शत्रौच मित्रे च नृपतेः स्युः सभासदाः ॥ २४० ॥
+समाः शत्रौ च मित्रे च नृपतेः स्युः सभासदाः ॥ २४० ॥
 
 तस्मात्सभ्यः सभां गत्वा रागद्वेषविवर्जितः ।
 
 वचस्तथाविधं ब्रूयादन्यथा नरकं व्रजेत् ॥ २४९ ॥  
+
 
 **नीतिशास्त्रत्य स्पष्टार्थत्वात्तत्क्रमेभिनिवेशः कार्यः-**
 
@@ -2636,29 +2666,29 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अरण्ये नि (निः) शलाके वा मन्त्रयेन्नाभिभावितः ॥ २४३ ॥
 
-मध्यंदिनेर्धरात्रे वा विश्रान्तो विगतक्लमः ।
+मध्यन्दिनेर्धरात्रे वा विश्रान्तो विगतक्लमः ।
 
 चिन्तयेद्धर्मकामार्थान् साध्यं तैरेक एव वा ॥ २४४ ॥
 
-कन्यानां संप्रदानं च कुमाराणां च रक्षणम् ।
+कन्यानां सम्प्रदानं च कुमाराणां च रक्षणम् ।
 
-दूतसंप्रेषणं चैव कार्यशेषं तथैव च ॥ २४५ ॥
+दूतसम्प्रेषणं चैव कार्यशेषं तथैव च ॥ २४५ ॥
 
 अन्तःपुरप्रचारं च प्रणीधीनां च चेष्टितम् ।
 
-कृत्स्नं चाष्टविधं कर्म पञ्चवर्गंच तत्त्वतः ॥ २४६ ॥
+कृत्स्नं चाष्टविधं कर्म पञ्चवर्गं च तत्त्वतः ॥ २४६ ॥
 
 अनुरागापरागौ च प्रचारं मण्डलस्य च ।
 
-उपेतारमुपेयंचसर्वोपायांश्च कृत्स्नशः ॥ २४७ ॥
+उपेतारमुपेयं च सर्वोपायांश्च कृत्स्नशः ॥ २४७ ॥
 
 एतत्त्रयं समाश्रित्य प्रयतेतात्मसिद्धये ।
 
-एवं सर्वमिदं राजा सह संमन्त्र्य मन्त्रिभिः ॥ २४८ ॥
+एवं सर्वमिदं राजा सह सम्मन्त्र्य मन्त्रिभिः ॥ २४८ ॥
 
 चत्वारि राज्ञा तु महाबलेन वर्ज्यान्याहुः पण्डितस्तानि (न्नि) बन्ध्यात् ।
 
-अल्पप्रज्ञैःसह गन्त्रं न कुर्यान्न दीर्घसूत्रेरलसैश्चारणैश्च ॥ २४९ ॥
+अल्पप्रज्ञैः सह गन्त्रं न कुर्यान्न दीर्घसूत्रेरलसैश्चारणैश्च ॥ २४९ ॥
 
 **इति । भारतेपि—**
 
@@ -2666,7 +2696,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 ज्ञेयं लोकानुवृत्तं वरवसूचने (?) र्मण्डलं वीक्षणीयम् ।
 
-प्रच्छाद्यौरागरोषौ मृदुकठिणरसौ योजनीयौस्वकाले
+प्रच्छाद्यौ रागरोषौ मृदुकठिणरसौ योजनीयौ स्वकाले
 
 आत्मा यत्नेन रक्ष्यो रणभुवि च परं सोपि नापेक्षणीयः ॥ २५० ॥
 
@@ -2674,7 +2704,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 केन वृत्तेन वृतज्ञो वर्तमानो महीपतिः ।
 
-सुखेनाक्षो(?) न्सुखोदर्कानिह च प्रेत्य चाप्नुयात् ॥ २५१ ॥
+सुखेनाक्षो (?) न्सुखोदर्कानिह च प्रेत्य चाप्नुयात् ॥ २५१ ॥
 
 चरेध (द्ध) र्मानकटुको युञ्जन्स्नेहं न नास्तिकः ।
 
@@ -2684,7 +2714,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दाता नापात्रवर्षी स्यात्प्रगल्भः स्यादनिष्ठुरः ॥ २५३ ॥
 
-संदधीत न नाचार्य विगृहणीयान्न बन्धुभिः ।
+सन्दधीत न नाचार्य विगृहणीयान्न बन्धुभिः ।
 
 नाभक्तं जनयेच्चारं कुर्यात्कार्यमपीडनम् ॥ २५४ ॥
 
@@ -2716,9 +2746,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 प्रासादोपर्यरण्ये च मन्त्रयेताविभावितः ॥ २६१ ॥
 
-नावर्तयेन्निहु(प्रभु ?)र्मन्त्रं संरक्षेत्परितस्तु सन् ।
+नावर्तयेन्निहु (प्रभु ?)र्मन्त्रं संरक्षेत्परितस्तु सन् ।
 
-अरक्ष्यमाणं मन्त्रं हि भिनत्त्यात्मपरंपरा ॥ २६२ ॥
+अरक्ष्यमाणं मन्त्रं हि भिनत्त्यात्मपरम्परा ॥ २६२ ॥
 
 मदः प्रमादः कामस्तु सुप्तिः प्रलपितानि च ।
 
@@ -2728,11 +2758,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 उशना विंशतिरिति मन्त्रिणां मन्त्रमण्डलम् \।\। २६४ ॥
 
-यथा समूह ( संभव) मित्यन्ये तत्प्रविश्य यथाविधि ।
+यथा समूह ( सम्भव) मित्यन्ये तत्प्रविश्य यथाविधि ।
 
-मन्त्रयेताहितमनाः कार्यसिद्धिवि(वु)द्वये ॥ २६५ ॥
+मन्त्रयेताहितमनाः कार्यसिद्धिवि(वु) द्वये ॥ २६५ ॥
 
-अकप्यनेन (?) कार्याणि संप्रधार्य पुनः पुनः ।
+अकप्यनेन (?) कार्याणि सम्प्रधार्य पुनः पुनः ।
 
 प्रावि (दि)शेत्स्वहितान्वेषी मतमेषां पृथक्पृथक् ॥ २६६ ॥
 
@@ -2758,7 +2788,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **ततश्च—**
 
-कृतमन्त्रस्तु मन्त्रज्ञो मन्त्रिणां मन्त्रसंमतम् ।
+कृतमन्त्रस्तु मन्त्रज्ञो मन्त्रिणां मन्त्रसम्मतम् ।
 
 यातव्याय प्राहेणुयाद्भूतं दूत्याभिमानिनम् ॥ २७२ ॥
 
@@ -2768,7 +2798,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 स दूतः शासनाद्गच्छैद्गन्तव्यमुत्तरोत्तरम् ।
 
-स्वराष्ट्रपरराष्ट्राणामिति चेतिच चिन्तयन् ॥ २७४ ॥
+स्वराष्ट्रपरराष्ट्राणामिति चेति च चिन्तयन् ॥ २७४ ॥
 
 नाविज्ञातः प(पु)रं शत्रोः प्रविशेच्च न संसदि ।
 
@@ -2794,9 +2824,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तिष्टन्वार्ताविशेषान्वै भर्तुः सर्वा निवेदयेत् ।
 
-रिपोःशत्रुपरिच्छेदसुहृद्वन्धुविभेदनम् ॥ २८० ॥
+रिपोः शत्रुपरिच्छेदसुहृद्वन्धुविभेदनम् ॥ २८० ॥
 
-दुर्गकोशबलज्ञानं हृद्यपक्षोपसंग्रहः ।
+दुर्गकोशबलज्ञानं हृद्यपक्षोपसङ्ग्रहः ।
 
 राज्यान्तरगतानां च आत्मसंस्कारणं तथा ॥ २८९ ॥
 
@@ -2806,7 +2836,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सपक्षे च विजानीयात्परदूतविचेष्टितम् ॥ २८२ ॥
 
-**इति दूतकर्म । दूतान्संप्रेष्य कि कुर्यादित्याह—**
+**इति दूतकर्म । दूतान्सम्प्रेष्य कि कुर्यादित्याह —**
 
 विश्रम्भी नित्ययुक्तोपि निगूढाकारचेष्टितः ।
 
@@ -2822,13 +2852,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 आगतं विग्रहं विद्वानुपायैः प्रशमं नयेत् ।
 
-विजयस्य ह्यनित्यत्वाद्रभसेन न संपतेत् ॥ २८६ ॥
+विजयस्य ह्यनित्यत्वाद्रभसेन न सम्पतेत् ॥ २८६ ॥
 
-समाक्रान्तो बलवता कांङ्क्षन्नभ्रंशिनीं श्रियम् ।
+समाक्रान्तो बलवता काङ्ङ्क्षन्नभ्रंशिनीं श्रियम् ।
 
-आश्रयेद्वैतसीं वृत्तिं न भौजङ्गीं कथंचन ॥ २८७ ॥
+आश्रयेद्वैतसीं वृत्तिं न भौजङ्गीं कथञ्चन ॥ २८७ ॥
 
-क्रमाद्वैतसवृत्तिश्चसा (प्रा) प्नोति विपुलां श्रियम् ।
+क्रमाद्वैतसवृत्तिश्च सा (प्रा) प्नोति विपुलां श्रियम् ।
 
 भुजङ्गवृत्तिराप्नोति वधमेव तु केवलम् ॥ २८८ ॥
 
@@ -2844,27 +2874,27 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 असत्यता निष्ठुरताकृतज्ञता भयं प्रमादोलसता विषादिता ।
 
-वृथाभिमानोह्यतिदीर्घसूत्रता तथाङ्गनाक्षादि विनाशनं स्त्रि ( श्रि ) यः ॥ २९२ ॥
+वृथाभिमानो ह्यतिदीर्घसूत्रता तथाङ्गनाक्षादि विनाशनं स्त्रि ( श्रि ) यः ॥ २९२ ॥
 
 इति स्म दोषान्वितमाशु विद्विषं त्रिशक्तियुक्तो विजिगीषया व्रजेत्
 
-अतोन्यथा साधुजनस्य संमतः करोति विद्वानुपघातमात्मनः ॥२९३॥
+अतोन्यथा साधुजनस्य सम्मतः करोति विद्वानुपघातमात्मनः ॥२९३॥
 
-समन्वितो राज्यपदोन्निनीषया चारेक्षणैर्वींक्षितमण्डलाक्ष (श) यः ।
+समन्वितो राज्यपदोन्निनीषया चारेक्षणैर्वीङ्क्षितमण्डलाक्ष (श) यः ।
 
-इमं नृपो विग्रहमार्गमास्थितः स्थितोद्यमः संप्रयतेत सिद्धये ॥ २९४॥
+इमं नृपो विग्रहमार्गमास्थितः स्थितोद्यमः सम्प्रयतेत सिद्धये ॥ २९४॥
 
 इति कामन्दकात् । विग्रहकालो विग्रहप्रसङ्गः ( ?) ।
 
-धीमानुत्साह संपन्नः प्रभुशक्त्या समन्वितः ।
+धीमानुत्साह सम्पन्नः प्रभुशक्त्या समन्वितः ।
 
 श्रियः स्यात्परमं पात्रमधामिव महार्णवः ॥ २९५ ॥
 
-नलिनीवाम्बुसंपत्त्या बुध्या श्रीः परिपाल्यते ।
+नलिनीवाम्बुसम्पत्त्या बुध्या श्रीः परिपाल्यते ।
 
 उत्साहव्यवसायाभ्यां विस्तारमुपनीयते ॥ २९६ ॥
 
-लक्ष्मीरुत्साहसंपन्नाब्दुद्धिशुद्धं प्रसर्पतः ।
+लक्ष्मीरुत्साहसम्पन्नाब्दुद्धिशुद्धं प्रसर्पतः ।
 
 नापैति कायाच्छायेव विस्तारं सोपगच्छति ॥ २९७ ॥
 
@@ -2888,7 +2918,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 रूढवैरिद्रुमोत्खातमकृत्वेह कुतः सुखम् ॥ ३०२ ॥
 
-हेलाकृष्ण (ष्ट)तडित्कान्तिखङ्गांशुपरिपिञ्जरेः।
+हेलाकृष्ण (ष्ट)तडित्कान्तिखङ्गांशुपरिपिञ्जरेः ।
 
 श्रीमत्करिकराकारेराह्रियन्ते भुजैः श्रियः ॥ ३०३ ॥
 
@@ -2910,13 +2940,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **तत्र अमात्यकर्माण्याह—**
 
-आवव्ययौदण्डनीतिरमात्यप्रतिषेधनम् ।
+आवव्ययौ दण्डनीतिरमात्यप्रतिषेधनम् ।
 
 व्यसनस्य प्रतीकारो राज्ञि राज्याभिषेचनम् ( रक्षणम् ) ॥ ३०७ ॥
 
 इत्यमात्यस्य कर्मेदं हन्ति तद्य्वसनान्वितः ।
 
-अमात्यैर्व्यसनोपतैर्ह्रियमाणोमहीपतिः ।
+अमात्यैर्व्यसनोपतैर्ह्रियमाणो महीपतिः ।
 
 अशक्त एवोत्पतितुं च्छिन्नपक्ष इवाण्डजः ॥ ३०८ ॥
 
@@ -2924,13 +2954,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 हिरण्यं धान्यवस्त्राणि वाहनानि तथैव च ।
 
-तथान्ये द्रव्यनिचयाः (प्रजातः संभवन्ति हि ) ॥ ३०९ ॥
+तथान्ये द्रव्यनिचयाः (प्रजातः सम्भवन्ति हि ) ॥ ३०९ ॥
 
 स्थैर्यं परोपजापश्च दुर्गसंस्कार एव च ।
 
 सेतुबन्धो वणिक्कर्म प्रजामित्रपरिग्रहः ।
 
-धर्मकामार्थसिद्धिश्चकोशादेतत्प्रवर्तते ॥ ३१० ॥
+धर्मकामार्थसिद्धिश्च कोशादेतत्प्रवर्तते ॥ ३१० ॥
 
 अन्वीक्षणं च विद्यानां स्ववर्णाश्रमरक्षणम् ।
 
@@ -2938,7 +2968,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 व्यायामः शास्त्रविज्ञानं कर्मणां लक्षणानि च ।
 
-गजाश्वरथपृष्ठेषु यथावत्संप्रवर्तनम् ॥ ३९२ ॥
+गजाश्वरथपृष्ठेषु यथावत्सम्प्रवर्तनम् ॥ ३९२ ॥
 
 नियुद्धकोशलं माया परचित्तप्रवेदनम् ।
 
@@ -2946,17 +2976,17 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 मन्त्रोद्योगोनुमन्त्रित्वं तद्रक्षा स्वास्थ्यमेव च
 
-उपेक्षा सामदानं च भेदो दण्डश्चसाधनम् ॥ ३१४
+उपेक्षा सामदानं च भेदो दण्डश्च साधनम् ॥ ३१४
 
 प्रशस्ताध्यक्षसेनानीमन्त्र्यमात्यपुरोधसाम् ।
 
 सम्यक्प्रचारविज्ञानं दुष्टानां चावरोधनम् ।
 
-गतागतपरिज्ञानं दृतसंप्रेषणानि च ॥ ३९५ ॥
+गतागतपरिज्ञानं दृतसम्प्रेषणानि च ॥ ३९५ ॥
 
 धर्मासने प्रतिष्ठानं राज्यकण्टकशोधनम् ।
 
-अकार्यप्रतिषेधश्चकार्याणां च प्रवर्तनम् ॥ ३९६ ॥
+अकार्यप्रतिषेधश्च कार्याणां च प्रवर्तनम् ॥ ३९६ ॥
 
 अदण्ड्यतामदण्ड्यानां दण्ड्यानां चापि दण्डनम् ।
 
@@ -2966,11 +2996,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नयत्युन्नतिमुयुक्तां व्यसनी क्षयमेव तु ॥ ३९८ ॥
 
-तस्मिन्धर्मार्थयोर्व्यग्र (ग्रे) तथा चास्वस्थचेतसि।
+तस्मिन्धर्मार्थयोर्व्यग्र (ग्रे) तथा चास्वस्थचेतसि ।
 
-सर्वमेतदशेषेण मन्त्री संधातुमर्हति ॥ ३९९ ॥
+सर्वमेतदशेषेण मन्त्री सन्धातुमर्हति ॥ ३९९ ॥
 
-**मन्त्रिव्यसनोपक्रमाद्राजादीनां व्यसनान्याह—**
+**मन्त्रिव्यसनोपक्रमाद्राजादीनां व्यसनान्याह —**
 
 वाग्दण्डयोश्च पारुष्यमर्थदूषणमेव च ।
 
@@ -2994,11 +3024,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **अथ कोशव्यसनम् —**
 
-व्ययीकृतः परिक्षिप्तोभक्षितोऽसंचितस्तथा ।
+व्ययीकृतः परिक्षिप्तो भक्षितोऽसञ्चितस्तथा ।
 
 मूषितो दूरसंस्थश्च कोशव्यसनमुच्यते ॥ ३२४॥
 
-**अथ दुर्गव्यसनम्—**
+**अथ दुर्गव्यसनम् —**
 
 विशीर्णपर्णप्राकारपरिखाम्बुविशुष्कता \।
 
@@ -3018,7 +3048,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दुःपार्ष्णिग्राहमन्धं च बलव्यसनमुच्यते ॥ ३२८ ॥
 
-व्यसन्यधोथोव्रजति तस्मात्तत्परिवर्जयेत् ।
+व्यसन्यधोथो व्रजति तस्मात्तत्परिवर्जयेत् ।
 
 हुताशनो जलं व्याधिदुर्भिक्षं मरकास्तथा ।
 
@@ -3046,13 +3076,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 **पूर्वोक्तव्यसनमध्ये अमात्यव्यसनं गुरुतरमित्याह—**
 
-अमात्याद्याःप्रकृतयो भिन्नं तद्राष्ट्रमुच्यते ।
+अमात्याद्याः प्रकृतयो भिन्नं तद्राष्ट्रमुच्यते ।
 
 अशेषराज्यव्यसनात्पार्थिवव्यसनं गुरु ।
 
 तस्मादमात्यव्यसनोप्यते ... ( ? ) ॥ ३३५ ॥
 
-**चतुर्विधं व्यसनं परित्यज्य स्वयमेव राज्यं कुर्यात्—**
+**चतुर्विधं व्यसनं परित्यज्य स्वयमेव राज्यं कुर्यात् —**
 
 राज्ञो व्यसनिराज्यस्य व्यवसायो हि न क्षमः ।
 
@@ -3062,7 +3092,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 व्यसनेभ्यः समुन्नेता राजा यः स त्रिवर्गभाक् ॥ ३३७ ॥
 
-**तान्येव व्यसनान्याह—**
+**तान्येव व्यसनान्याह —**
 
 वाग्दण्डयोश्च पौरुष्यमर्थदृषणमेव च ।
 
@@ -3080,7 +3110,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 हृदये वागसिस्तीक्ष्णो मर्प च्छिन्दन्पतन्मुहुः ।
 
-तेजस्विनो दीवियति स दीप्तौयाति वैरिताम् ॥ ३४९ ॥
+तेजस्विनो दीवियति स दीप्तौ याति वैरिताम् ॥ ३४९ ॥
 
 नोद्वेजयेज्जगद्वाचा रूक्षवाचाप्रियोभवेत् ।
 
@@ -3090,7 +3120,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 असिद्धसाधनं सद्भिः शासनं दण्डमुच्यते ।
 
-तद्युक्त्यैवनयेद्दण्ड्येयुक्तदण्डः प्रशस्यते \।\। ३४३ ॥
+तद्युक्त्यैव नयेद्दण्ड्ये युक्तदण्डः प्रशस्यते \।\। ३४३ ॥
 
 उद्वेजयति भृतानि दण्डपौरुष्यवान्नृपः ।
 
@@ -3098,13 +3128,17 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 आश्रिताश्चैव लोकेन विवृद्धिं यन्ति विद्विषः ।
 
-विवृद्धाश्चविनाशाय तस्मान्नोद्विजते प्रजाः ॥ ३४५ ॥
+विवृद्धाश्च विनाशाय तस्मान्नोद्विजते प्रजाः ॥ ३४५ ॥
 
 महत्स्वप्यपराधेषु दण्डं प्राणान्तिकं त्यजेत् ।
 
 ऋते राज्यापहारात्तु युक्तदण्डः प्रशस्यते ॥ ३४६ ॥
 
-अथार्थदूषणमाह—
+
+
+**अथार्थदूषणमाह—**
+
+
 
 दूष्यस्य दूषणार्थं च परित्यागो महीयसः ।
 
@@ -3114,22 +3148,21 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नित्यमात्महिताकाङ्क्षी न कुर्यादर्थदूषणम् \।\। ३४८ ॥
 
-अथ मृगयाव्यसनम्—
+**अथ मृगयाव्यसनम्—**
 
 याने क्षोभो यानपातो यानाभिहरणं तथा । 
 
 क्षुत्पिपासाश्रमायासः शीतवातोष्णपीडनम् ॥ ३४९ ॥
 
-अभियानस्य संगत्या यानं व्यसनमुच्यते ।                 
-  
+अभियानस्य सङ्गत्या यानं व्यसनमुच्यते ।                    
 
-दुःखं प्रतप्तसिकता कुशकण्टकभूमयः ॥३५०॥
+दुःखं प्रतप्तसिकता कुशकण्टकभूमयः ॥ ३५० ॥
 
-वृक्षसङ्कटतोद्देशाल्लताकण्टकपातनम् ।                 
+वृक्षसङ्कटतोद्देशाल्लताकण्टकपातनम् ।                  
 
-वधबन्धपरिक्लेशः सामन्ताटविकादिभिः ॥ ३५१॥
+वधबन्धपरिक्लेशः सामन्ताटविकादिभिः ॥ ३५१ ॥
 
-स्वसैन्येश्चास्वसैन्यैश्चपरिभिन्नैर्निवारणम् ।
+स्वसैन्येश्चास्वसैन्यैश्च परिभिन्नैर्निवारणम् ।
 
 ऋक्षनागाेथ(?)मातङ्गसिंहव्याघ्रभयानि च ॥ ३५२ ॥
 
@@ -3137,11 +3170,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 इत्यादि पृथिवीन्द्राणां मृगयाव्यसनं स्मृतम् \।\। ३५३ ॥
 
-मृगयायां गुणा अपि सन्ति कथं व्यसनमेवेत्युक्तम् । तदुक्तम्—
+**मृगयायां गुणा अपि सन्ति कथं व्यसनमेवेत्युक्तम् । तदुक्तम् —**
 
 जितश्रमत्वमायाम आममेदकफक्षयः ।
 
-चरस्थिरेषु लक्ष्येषु बाणसिद्धिरनुत्तमा ॥३५४ ॥
+चरस्थिरेषु लक्ष्येषु बाणसिद्धिरनुत्तमा ॥ ३५४ ॥
 
 आमादयो हि जीर्यन्ते योगेनैव दिवानिशम् ।
 
@@ -3153,15 +3186,15 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अतः सा परिहर्तव्या राज्ञा भूतिं समीप्सता ॥ ३५६ ॥
 
-अभ्यनुज्ञामप्याह—
+**अभ्यनुज्ञामप्याह—**
 
 अथ चेन्मृगयाक्रीडां वाञ्छेत नगरान्तिके । 
 
 कारयेन्मृगयारण्यं क्रीडाते (हे) तोर्मनोरमम् ॥ ३५७ ॥
 
-आयामपरिणाहाभ्यामर्धयोजनसंमितम् ।
+आयामपरिणाहाभ्यामर्धयोजनसम्मितम् ।
 
-गिरेरुपान्ते नद्यावा पर्याप्तजलशाद्वलम् ॥ ३५८ ॥
+गिरेरुपान्ते नद्या वा पर्याप्तजलशाद्वलम् ॥ ३५८ ॥
 
 अकण्टकलतागुल्मविषयादपवर्जितम् ।
 
@@ -3169,87 +3202,86 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 स्निग्धशीतघनच्छायैर्विकोशैरुपशोभितम् ।
 
-मृगसंघातनिपुणं हस्तिनीकलभान्वितम् ॥ ३६० ॥
+मृगसङ्घातनिपुणं हस्तिनीकलभान्वितम् ॥ ३६० ॥
 
 अगम्यं रिपुसैन्यानां मानप्रीतिविवर्धनम् ।
 
-तद्वनं चास्य चित्तज्ञैःक्लेशपाशसहैर्दृढैः ।
+तद्वनं चास्य चित्तज्ञैः क्लेशपाशसहैर्दृढैः ।
 
 रक्षितं रक्षिभिः स्वाप्तैर्भूभुजां भूरिभूतये ॥ ३६१ ॥
 
-अन्यकार्याविरोधेन प्रातः संक्रमणक्षमः ।
+अन्यकार्याविरोधेन प्रातः सङ्क्रमणक्षमः ।
 
-क्रीडनाय विशेद्राजा तदाप्तेःसहजैर्मतैः॥ ३६२ ॥
+क्रीडनाय विशेद्राजा तदाप्तेः सहजैर्मतैः ॥ ३६२ ॥
 
 यदा च प्रविशेद्राजा क्रीडनार्थं तदा बहिः ।
 
-संनद्धं यत्नतस्तिष्ठेद्बलं वनवतश्चिरम् ॥ ३६३ ॥
+सन्नद्धं यत्नतस्तिष्ठेद्बलं वनवतश्चिरम् ॥ ३६३ ॥
 
-विधिरेवं समुद्दिष्टाेमृगयाक्रीडने परः ।
+विधिरेवं समुद्दिष्टाे मृगयाक्रीडने परः ।
 
 न गच्छेददन्यथा राजा मृगयायां कदाचन ॥ ३६४ ॥
 
-अथ सर्वव्यसनैरहितो राजा पुरं प्रति यायात् । तदुक्तं कामन्दके—
+**अथ सर्वव्यसनै रहितो राजा पुरं प्रति यायात् । तदुक्तं कामन्दके—**
 
 नानाप्रकारैर्व्यसनैर्विमुक्तः शक्तित्रयेणाप्रतिमेन युक्तः ।
 
 परं दुरन्तव्यसनेनपनं(नोपपन्नं) यायान्नरेन्द्रो विजयाभिकाङ्क्षी ॥ ३६५
 
-प्रायेण सन्तो व्यसने रिपूणां यातव्यमित्येव समादिशन्ति ।        
-            
+प्रायेण सन्तो व्यसने रिपूणां यातव्यमित्येव समादिशन्ति ।             
+              
 
 य(दा) क्षमस्तु प्रसभं निहन्तुं पराक्रमादूर्जितमप्यमित्रम् ॥ ३६६ ॥
 
-तदैव यायादहितान्हि कुर्वन्नप्यन्तराकर्षणपीडनानि ।           
-              
+तदैव यायादहितान्हि कुर्वन्नप्यन्तराकर्षणपीडनानि ।               
+                    
 
-संपन्नसस्यं विषयं परस्य यायात्प्रमृद्गन्विजयाय राजा ॥ ३६७ ॥
+सम्पन्नसस्यं विषयं परस्य यायात्प्रमृद्गन्विजयाय राजा ॥ ३६७ ॥
 
 सस्योपघातेन परस्य वृत्तिच्छेदः स्वसै(न्यो)पचयश्च साधु ।      
 
 सुवीवृधासारविशुद्धमार्गा विशेद्धरित्रीं द्विषतोप्रमत्तः ॥ ३६८ ॥
 
-समे प्रदेशे विषमे च भूमेर्मिश्रेस्थले वा सुमुखेन यायात् ।      
-    
+समे प्रदेशे विषमे च भूमेर्मिश्रे स्थले वा सुमुखेन यायात् ।           
 
-अनातुरः सन्नभयो हि विद्वान्संन्नद्धगल्फो (सैन्यो)
+अनातुरः सन्नभयो हि विद्वान्सन्न्नद्धगल्फो (सैन्यो)
 
 विहितान्नतीयः ॥ ३६९ ॥
 
-ग्रीष्मे प्रभूतान्नबलेन यायान्निर्वासनार्थंकरिणां यथाम्बु \। 
+ग्रीष्मे प्रभूतान्नबलेन यायान्निर्वासनार्थं करिणां यथाम्बु \। 
 
 ऋतेम्भसाोद्ग्रीष्मकृतात्प्रतापाद्भवन्ति क्रुष्टानि मतङ्गजानाम् ॥ ३७० ॥
 
-स्वस्थक्रियाणाममपिकुञ्जराणामुष्मा शरीरमभिजाज्वलति ।         
-     
+स्वस्थक्रियाणाममपि कुञ्जराणामुष्मा शरीरमभिजाज्वलति ।             
+  
 
-आयासयोगेन हि संप्रवृद्धः प्रसह्य हन्ति द्विरदान्प्रतापः ॥ ३७१ ॥
+आयासयोगेन हि सम्प्रवृद्धः प्रसह्य हन्ति द्विरदान्प्रतापः ॥ ३७१ ॥
 
-सर्वाणि सत्त्वानि खलूष्मकालेविनाम्बुना यान्ति परामवस्थाम् ।    
+सर्वाणि सत्त्वानि खलूष्मकाले विनाम्बुना यान्ति परामवस्थाम् ।    
 
 सुगन्धिदानस्रुतिसीकरेषु दन्ताभिघातस्फुटितोपलेषु ॥ ३७२ ॥
 
-गजेषु नीलाभ्रसमप्रभेषु राज्यं निरुद्धं पृथिवीपतीनाम् ।        
-        
+गजेषु नीलाभ्रसमप्रभेषु राज्यं निरुद्धं पृथिवीपतीनाम् ।               
+  
 
-संकल्पितः संयुगदृष्टमार्गो स्वधिष्ठितो धीरतरेण पुंसाम् \।\। ३७३ \।\।
+सङ्कल्पितः संयुगदृष्टमार्गो स्वधिष्ठितो धीरतरेण पुंसाम् \।\। ३७३ \।\।
 
-तुरंगमाणां प्र(ति)कल्पितानामेको गजः षष्टिशतानि हन्ति ।
+तुरङ्गमाणां प्र(ति) कल्पितानामेको गजः षष्टिशतानि हन्ति ।
 
 तस्माद्यतो भूरिजलस्तु पन्था यतोन्नपानोपचितो विशङ्कः ॥ ३७४ ॥
 
-तेनाभियायाज्जनयन्प्रतापं शनेःशनेरश्रमयन्बलानि ।
+तेनाभियायाज्जनयन्प्रतापं शनेः शनेरश्रमयन्बलानि ।
 
-न ह्युन्नतानामणिनप्युदारं पश्चात्प्रकोपंजनयेदरीणाम् \।\। ३७५॥
+न ह्युन्नतानामणिनप्युदारं पश्चात्प्रकोपं जनयेदरीणाम् \।\। ३७५ ॥
 
-तं चाप्रमत्तः प्रसमीक्ष्य यायान्न नाशयेद्दृष्टमदृष्टहेतोः।
+तं चाप्रमत्तः प्रसमीक्ष्य यायान्न नाशयेद्दृष्टमदृष्टहेतोः ।
 
-पश्चात्प्रकोपःपुरतः फलं हि पश्वात्प्रकोपश्वततो गरीयान् ॥ ३७६ ॥
+पश्चात्प्रकोपः पुरतः फलं हि पश्वात्प्रकोपश्व ततो गरीयान् ॥ ३७६ ॥
 
-पुरश्व पश्वाच्च यदा समर्थस्तदाभियायान्महते फलाय ॥ ३७७ ॥        
-                  
+पुरश्व पश्वाच्च यदा समर्थस्तदाभियायान्महते फलाय ॥ ३७७ ॥            
+                            
 
-अवश्ययातव्ये रिपौपश्वात्प्रकोपशङ्काया कि कुर्यादित्याह—
+**अवश्ययातव्ये रिपौ पश्वात्प्रकोपशङ्काया कि कुर्यादित्याह—**
 
 अवश्ययातव्यतयोद्यतः सन्पश्वात्प्रकोपाहितयानशङ्कः ।
 
@@ -3261,9 +3293,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सामादिभिः संशमयेत्प्रकाेपं परस्परावग्रहभेदनैश्व ॥ ३८० ॥
 
-एवं प्रस्थाय किं कुर्यादित्याह—
+**एवं प्रस्थाय किं कुर्यादित्याह—**
 
-यायाद्वैरिपुराभ्याशं भूभागे साधुसंमते ।
+यायाद्वैरिपुराभ्याशं भूभागे साधुसम्मते ।
 
 स्कन्धावारनिवेशज्ञः स्कन्धावारं निवेशयेत् ॥ ३८९ ॥
 
@@ -3275,9 +3307,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 भूमिप्रदेशसामर्थ्यादाकारमुपकल्पयेत् ॥ ३८३ ॥
 
-विभक्तैश्चविविक्तैश्व पार्श्चैरान्वितमायतैः।
+विभक्तैश्च विविक्तैश्व पार्श्चैरान्वितमायतैः ।
 
-गुप्तंपक्षपुटाकारं महामात्रासमावृतम् ॥ ३८४ ॥
+गुप्तं पक्षपुटाकारं महामात्रासमावृतम् ॥ ३८४ ॥
 
 तस्य मध्ये मनोह्लादि महन्मेलवदाह्रतः ।
 
@@ -3287,33 +3319,33 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 राजहर्म्ये समावृत्य क्रमेण विनिवेशयेत् ॥ ३८६ ॥
 
-अन्तश्चागणितक्रूरालुब्धकादुष्टकर्मणः।
+अन्तश्चागणितक्रूरालुब्धकादुष्टकर्मणः ।
 
 पर्याप्तवेतनानाप्तान्मण्डले विनिवेशयेत् ॥ ३८७ ॥
 
-हस्तिनो बध्यमानास्तु तुरंगाश्च मनोजवाः ।
+हस्तिनो बध्यमानास्तु तुरङ्गाश्च मनोजवाः ।
 
 गृहोपकण्ठे नृपतेर्वसेयुः स्वाप्तरक्षिताः ॥ ३८८ ॥
 
-यामवृत्या सुसंनद्धं रात्रिंदिवमुदाहृतम् ।
+यामवृत्या सुसन्नद्धं रात्रिन्दिवमुदाहृतम् ।
 
 अन्तर्वेशिकसैन्यं च तिष्ठेदारात्रिगुप्तये ॥ ३८९ ॥
 
-युद्धयोग्यो महादन्ती संनद्धः साध्ववस्थितः ।
+युद्धयोग्यो महादन्ती सन्नद्धः साध्ववस्थितः ।
 
-तिष्ठेन्नरपतेर्द्वारि वेगवांश्च तुरंगमः ॥ ३९० ॥
+तिष्ठेन्नरपतेर्द्वारि वेगवांश्च तुरङ्गमः ॥ ३९० ॥
 
-"सैम्यैकदेशसंनद्धः सेनापतिपुरःसरः ।
+"सैम्यैकदेशसन्नद्धः सेनापतिपुरःसरः ।
 
-प्रयत्नवान्परिपतेन्मण्डलेन बहिर्निशि ॥ ३९१॥
+प्रयत्नवान्परिपतेन्मण्डलेन बहिर्निशि ॥ ३९१ ॥
 
 परसैन्यविनाशार्थें सर्वाें भूमिं विनाशयेत् ॥ ३९२ ॥
 
 क्वचित्कण्टकशाखाभिः क्वचित्कीलैरधोमुखैः ।
 
-भू(दू)षयेत्परितो भूमिं प्रच्छन्नैःप्रदरैरपि ॥ ३९३ ॥
+भू(दू)षयेत्परितो भूमिं प्रच्छन्नैः प्रदरैरपि ॥ ३९३ ॥
 
-इति याननिरूपणं साङ्गताे निरूपितम्।
+**इति याननिरूपणं साङ्गताे निरूपितम् ।**
 
 अलब्धमीहेद्धर्मेण लब्धं यत्नेन पालयेत्
 
@@ -3321,13 +3353,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नातः परतरो धर्मो नृपाणां यद्रणेर्जितम् ।
 
-विप्रेभ्योदीयते द्रब्यंप्रजाभ्यश्चाभयं सदा ॥ ३९५ ॥
+विप्रेभ्यो दीयते द्रब्यं प्रजाभ्यश्चाभयं सदा ॥ ३९५ ॥
 
-तवाहं वादिनं क्लीबंनिर्हेतिं परसङ्गतम् ।
+तवाहं वादिनं क्लीबं निर्हेतिं परसङ्गतम् ।
 
 न हन्याद्विनिवृत्तं च युद्धप्रेक्षणकं तथा ॥ ३९६ ॥
 
-बाम्हणेषु क्षमी स्रिग्धेष्वजिह्मःक्षोभनोरिषु ।
+बाम्हणेषु क्षमी स्रिग्धेष्वजिह्मः क्षोभनोरिषु ।
 
 स्याद्राजा भृत्यवर्गेषु प्रजासु च यथा पिता ॥ ३९७ ॥
 
@@ -3337,25 +3369,25 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 शत्रुतस्करदुर्वृत्तमहासाहसिकादिभिः ।
 
-पीड्यमानाः प्रजा रक्षेत्कायस्थैश्चविशेषतः ॥ ३९९ ॥
+पीड्यमानाः प्रजा रक्षेत्कायस्थैश्च विशेषतः ॥ ३९९ ॥
 
-अरक्ष्यमाणाः कुर्वन्ति यत्किंचित्किल्बिषं प्रजाः ।
+अरक्ष्यमाणाः कुर्वन्ति यत्किञ्चित्किल्बिषं प्रजाः ।
 
-तस्मात्तु नृपतेरर्धंयस्माद्गृह्णात्यसौ करान् ॥ ४०० ॥
+तस्मात्तु नृपतेरर्धं यस्माद्गृह्णात्यसौ करान् ॥ ४०० ॥
 
 ये राष्ट्रेधिकृतास्तेषां चारैर्ज्ञात्वा विचेष्टितम् ।
 
-साधून्संमानयेद्राजा विपरीतांश्चघातयेत् ॥ ४०१ ॥
+साधून्सम्मानयेद्राजा विपरीतांश्च घातयेत् ॥ ४०१ ॥
 
 उत्कोचजीविनो द्रव्यहीनान्कृत्वा विवासयेत् ।
 
-स दानमानसत्कारैःश्रोत्रियान्वासयेत्सदा ॥ ४०२ ॥
+स दानमानसत्कारैः श्रोत्रियान्वासयेत्सदा ॥ ४०२ ॥
 
 अन्यायेन नृपो राष्ट्रात् स्वकोशं योभिवर्धयेत् ।
 
 सोचिराद्विगतश्रीको नाशमेति सबान्धवः ॥ ४०३ ॥
 
-प्रजापीडनसंतापात्समुद्भूतो हुताशनः ।
+प्रजापीडनसन्तापात्समुद्भूतो हुताशनः ।
 
 राज्ञः श्रियं बलं प्राणानदग्ध्वा न निवर्तते ॥ ४०४ ॥
 
@@ -3363,7 +3395,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तमेव कृत्स्नमाप्नोति परराष्ट्रं वशं नयन् ॥ ४०५ ॥
 
-किंतु यस्मिन्य आचारो व्यवहारः कुलस्थितिः ।
+किन्तु यस्मिन्य आचारो व्यवहारः कुलस्थितिः ।
 
 तथैव परिपाल्योसौ यथावंशमुपागतः ॥ ४०६ ॥
 
@@ -3381,7 +3413,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यथा ह्येकेन चक्रेण न रथस्य गतिर्भवेत् ।
 
-एवंपुरुषकारेण विना दैवं न सिध्यति ॥ ४१० ॥
+एवं पुरुषकारेण विना दैवं न सिध्यति ॥ ४१० ॥
 
 क्रोधं कुर्यान्न चाकस्मान्मृदुवागुपकारिषु ।
 
@@ -3393,9 +3425,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अनुभूयेह भद्राणि प्रेत्य स्वर्गे महीयते ॥ ४९२ ॥
 
-उक्तं च भारते—
+**उक्तं च भारते— **
 
-न पुत्रायतमैश्वर्यंकुर्याद्राजा कथंचन ।
+न पुत्रायतमैश्वर्यं कुर्याद्राजा कथञ्चन ।
 
 पुत्रार्पितप्रभुत्वो हि धृतराष्ट्रस्तृणोपमः ॥ ४१३॥
 
@@ -3407,7 +3439,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 कृत्वा भृत्यजयं राजा पौरजानपदान्व्रजेत् ॥ ४१५ ॥
 
-तदुक्तम्—
+**तदुक्तम्—**
 
 आत्मानं प्रथमं राजा विनयेनोपपातयेत् ।
 
@@ -3429,7 +3461,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 न राज्ञा मृदुना भाव्यं मृदुर्हि परिभूयते ।
 
-न भाव्यंदारुणेनापि तीक्ष्णादुद्विजते जनः ॥ ४१९ ॥
+न भाव्यं दारुणेनापि तीक्ष्णादुद्विजते जनः ॥ ४१९ ॥
 
 काले मृदुर्यो भवति काले भवति दारुणः ।
 
@@ -3437,7 +3469,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 भृत्यैः सह महीपालः परिहासं च वर्जयेत् ।
 
-भृत्याः परिभवन्तीह नृपं \* \*\* संकथम् ॥ ४२१ ॥
+भृत्याः परिभवन्तीह नृपं \* \* \* सङ्कथम् ॥ ४२१ ॥
 
 व्यसनानि च सर्वाणि भूपतिः परिवर्जयेत् ।
 
@@ -3445,7 +3477,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 प्रायशोर्थे विनश्यन्ति धृतमूला अपीश्वराः ॥ ४२३ ॥
 
-तानि च व्यसनानि—
+**तानि च व्यसनानि—**
 
 स्त्रियोक्षा मृगया पानं वाक्पारुष्यं च पञ्चमम् ।
 
@@ -3464,15 +3496,15 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 क्रोधजेपि गणे विद्यात्कष्टमेतस्त्रिकं सदा ॥ ४२७ ॥
 
-पानमक्षाः स्त्रियश्चैव मृगया चयथाक्रमम् ।
+पानमक्षाः स्त्रियश्चैव मृगया च यथाक्रमम् ।
 
-एतत्कष्टतमं विद्याच्चतुष्के कामजे गणे॥ ४२८॥
+एतत्कष्टतमं विद्याच्चतुष्के कामजे गणे॥ ४२८ ॥
 
-व्यसनानि वर्जयेदस्यापवादमाह—
+**व्यसनानि वर्जयेदस्यापवादमाह—**
 
-लोकसंग्रहणार्थाय कृतकव्यसनी भवेत् ।
+लोकसङ्ग्रहणार्थाय कृतकव्यसनी भवेत् ।
 
-शौण्डीरस्य नृपेद्रन्स्यनित्यमुत्सिक्तचेतसः ॥ ४२९ ॥
+शौण्डीरस्य नृपेद्रन्स्य नित्यमुत्सिक्तचेतसः ॥ ४२९ ॥
 
 जनो विरावमापालिसा सदः दुःखेब्दभापतः ।
 
@@ -3482,13 +3514,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दीर्घसूत्रस्य नृपतेः कर्महानिर्भवेद्ध्रुवा ॥ ४३१ ॥
 
-अस्यापवादमाह—
+**अस्यापवादमाह —**
 
 रागे दर्पे च माने च द्रोहे पापे च कर्मणि ।
 
 अप्रिये चैव कर्तव्ये दीर्घसूत्रः प्रशस्यते ॥ ४३२ ॥
 
-पौरुषं दैवसंपत्त्याकाले फलति पार्थिवे ॥ ४३३ ॥
+पौरुषं दैवसम्पत्त्या काले फलति पार्थिवे ॥ ४३३ ॥
 
 दैवं पुरुषकारश्च कालश्च मनुजोत्तम ।
 
@@ -3496,15 +3528,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 कृष्टिवृष्टिसमायोगाद् दृश्यन्ते फलसिद्धयः ।
 
-ताश्व काले प्रदृश्यन्ते नैवाकाले कथंचन ।
+ताश्व काले प्रदृश्यन्ते नैवाकाले कथञ्चन ।
 
 तस्मात्सदैव कर्तव्यं सधर्मं पौरुषं नृभि ॥ ४३५ ॥
 
 साम भेदस्तथा दानं दण्डश्च मनुजोत्तम ।
 
-उपेक्षा च तथा मा
-
-यांइन्द्रजालं च पार्थिव ॥ ४३६
+उपेक्षा च तथा मायाम् इन्द्रजालं च पार्थिव ॥ ४३६
 
 द्विविधं कथितं साम तथ्यं चातथ्यमेव च । 
 
@@ -3512,15 +3542,15 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तत्र साधुः प्रयत्नेन सामसाध्यो नरोत्तम ॥ ४३७ ॥
 
-ये शुद्धवंशा ऋजवः प्रतीता धर्मे स्थिता धर्मस्ता विनीत्मः!
+ये शुद्धवंशा ऋजवः प्रतीता धर्मे स्थिता धर्मस्ता विनीत्मः !
 
 ते सामसाध्याः पुरुषाः प्रदिष्टा अनुव्रता ये सततं च राजन् \।\।४३८॥
 
-अथ भेदः—
+**अथ भेदः—**
 
 परस्परं ये (बि) द्विष्टाः क्रुद्धाः भीता विमानिताः ।
 
-तेषां भेदं प्रयुञ्जीत भेदसाध्या हि से मताः॥ ४३९ ॥
+तेषां भेदं प्रयुञ्जीत भेदसाध्या हि से मताः ॥ ४३९ ॥
 
 अन्तःकोपो बहिःकोपो यत्र स्यातां महीक्षिताम् ।
 
@@ -3528,7 +3558,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सामन्तकोपो बाह्यस्थकोपः प्रोक्तो मनीषिभिः ।
 
-महिषीयुवराजाभ्यां तथा सेनापतेर्द्विज ॥ ४४१॥
+महिषीयुवराजाभ्यां तथा सेनापतेर्द्विज ॥ ४४१ ॥
 
 अमात्यमन्त्रिणां चैव राजपुत्रे तथैव च !
 
@@ -3550,7 +3580,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दण्डेन तान्वशीकुर्याद्दण्डो हि वशकृन्नृणाम् ॥ ४४५ ॥
 
-आश्रमी यदि वा वर्णी पूज्योवाथ गुणि (रु) र्महान् ।
+आश्रमी यदि वा वर्णी पूज्यो वाथ गुणि (रु) र्महान् ।
 
 नादण्ड्यो नाम राज्ञोस्ति स्वधर्मे वावतिष्ठति ॥। ४४६ ॥
 
@@ -3568,7 +3598,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 स नेतुं न्यायतः शक्योऽलुब्धेन कृतबुद्धिना ।
 
-सत्यसंधेन शुचिना ससहायेन धीमता ॥ ४५० ॥
+सत्यसन्धेन शुचिना ससहायेन धीमता ॥ ४५० ॥
 
 यथाशास्त्रं प्रयुक्तः सन् सदेवासुरमानुषम् ।
 
@@ -3578,9 +3608,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सम्यक्तु दण्डनं राज्ञः स्वर्गकीर्तिजयावहम् ॥ ४५२ ॥
 
-साहसस्तेयपारुष्यगोभिशापात्ययेस्त्रियाम् ।
+साहसस्तेयपारुष्यगोभिशापात्यये स्त्रियाम् ।
 
-विवादयेत्सद्यएव कालोन्यत्रेच्छया स्मृतः ॥ ४५३ ॥
+विवादयेत्सद्य एव कालोन्यत्रेच्छया स्मृतः ॥ ४५३ ॥
 
 देशाद्देशान्तरं याति सृक्किणी परिलेढि च ।
 
@@ -3588,7 +3618,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 परिशुष्यत्स्वलद्वाक्यो विरुद्धं बहु भाषते ।
 
-वाक्चक्षुः पूजयति नो तथैौष्ठौनिर्भुजत्यपि ॥ ४५५ ॥
+वाक्चक्षुः पूजयति नो तथैौष्ठौ निर्भुजत्यपि ॥ ४५५ ॥
 
 स्वभावाद्विकृतिं गच्छेन्मनोवाक्कायकर्मभिः ॥
 
@@ -3602,9 +3632,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 संस्तम्भयति मित्राणि अमित्रान्नाशयत्यपि ॥ ४५८ ॥
 
-कामन्दकः—
+**कामन्दकः—**
 
-अनुबन्धं परीक्ष्यादौदेशकालौ च तत्त्वतः ।
+अनुबन्धं परीक्ष्यादौ देशकालौ च तत्त्वतः ।
 
 सारापराधाबालोक्य दण्डं दण्ड्येषु पातयेत् ॥ ४५९ ॥
 
@@ -3612,7 +3642,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दण्डं प्रकल्पयेद्राजा सामन्तब्राह्मणैः सह ॥ ४६० ॥
 
-दण्डभेदानाह—
+**दण्डभेदानाह—**
 
 धिग्दण्डस्त्वथ वाग्दण्डो धनदण्डो वधस्तथा ।
 
@@ -3620,7 +3650,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 बाग्धिग्वधः स्वकं चैव चतुर्धा वर्तितो दमः ।
 
-पुरुषे दोषविभवं ज्ञात्वा संपरिकल्पयेत् ॥ ४६२ ॥
+पुरुषे दोषविभवं ज्ञात्वा सम्परिकल्पयेत् ॥ ४६२ ॥
 
 अपराधवशान्नियोजयेदित्युक्तं तत्र कस्मिन्कं नियोजयेदित्याह —
 
@@ -3628,9 +3658,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 विवादिनो नरांश्चान्यान् दोषिणोऽर्थेन दण्डयेत् ।
 
-महापराधयुक्तांश्चवधदण्डेन दण्डयेत् ॥ ४६३ ॥
+महापराधयुक्तांश्च वधदण्डेन दण्डयेत् ॥ ४६३ ॥
 
-किंच—
+**किञ्च—**
 
 मित्रादिषु प्रयुञ्जति वाग्दण्डं धिक् तपस्विषु ।
 
@@ -3640,13 +3670,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 निरोधनेन बन्धेन विविधेन वधेन च ॥ ४६५ ॥
 
-दण्डस्थानान्याह—
+**दण्डस्थानान्याह—**
 
-दशस्थानानि दण्डस्य मनुः स्वायंभुवोऽब्रवीत् ।
+दशस्थानानि दण्डस्य मनुः स्वायम्भुवोऽब्रवीत् ।
 
 त्रिषु वर्णेषु तानि स्युरक्षतो ब्राह्मणो व्रजेत् ॥ ४६६ ॥
 
-तानि दशस्थानान्याह—
+**तानि दशस्थानान्याह—**
 
 उपस्थमुदरं जिव्हा हस्तौ पादौ च पञ्चमम् \।
 
@@ -3662,15 +3692,15 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 राष्ट्रादेनं बहिः कुर्यात्समग्रधनमक्षतम् ॥ ४६९ ॥
 
-एवं धर्मप्रवृत्तस्य राज्ञाोदण्डधरस्य च ।
+एवं धर्मप्रवृत्तस्य राज्ञाो दण्डधरस्य च ।
 
 यशांस्मिन्प्रथते लोके स्वर्गे वासस्तथाक्षयः \।\। ४७० ॥
 
-ब्राह्मणप्रशंसामाह—
+**ब्राह्मणप्रशंसामाह—**
 
-इयं वसुंधरा देवी धर्मेण खलु धार्यते ।
+इयं वसुन्धरा देवी धर्मेण खलु धार्यते ।
 
-ध्रुवेस धर्यते वेदैस्ते धार्यन्तेद्विजातिभिः ॥ ४७१ ॥
+ध्रुवे स धर्यते वेदैस्ते धार्यन्ते द्विजातिभिः ॥ ४७१ ॥
 
 अतः सर्वस्य लोकस्य मूलमेते द्विजातयः ।
 
@@ -3678,17 +3708,17 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सुराणां भूसुराणां च सुरभीणां च पालनम् ।
 
-युगे युगे चये धर्मास्तेषु धर्मेषु ये द्विजाः ॥ ४७३ ॥
+युगे युगे च ये धर्मास्तेषु धर्मेषु ये द्विजाः ॥ ४७३ ॥
 
-आक्रम्यब्राह्मणैर्युक्तैःपरिक्षीणेश्चबान्धवैः ।
+आक्रम्य ब्राह्मणैर्युक्तैः परिक्षीणेश्च बान्धवैः ।
 
-मोभिश्चनृपशार्दूल राजसूयाद्विशिष्यते ॥ ४७४ ॥
+मोभिश्च नृपशार्दूल राजसूयाद्विशिष्यते ॥ ४७४ ॥
 
 अभिषिक्तस्य राज्ञः दण्डधारणप्रकारमाह—
 
 अव्रता ह्यनधीयाना यत्र भैक्ष्यचरा द्विजाः ।
 
-तं ग्रामं दण्डयेद्राजा चोरभक्तप्रियो हि सः॥ ४७५ ॥
+तं ग्रामं दण्डयेद्राजा चोरभक्तप्रियो हि सः ॥ ४७५ ॥
 
 यो योनर्णो महीयेत यश्चेदेकमनुव्रजेत् ।
 
@@ -3698,7 +3728,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 प्रसमीक्ष्यात्मना राजा दण्डं दण्ड्येषु पातयेत् ॥ ४७७ ॥
 
-कुलानि जातिश्रेणीश्चगणान्जानपदानपि ।
+कुलानि जातिश्रेणीश्च गणाञ्जानपदानपि ।
 
 स्वधर्माच्चलितान्व्रात्यान्विनये स्थापयेत्पथि ॥ ४७८ ॥
 
@@ -3706,9 +3736,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नादण्ड्यो नाम राज्ञोस्ति धर्माद्विचलितः स्वकात् ॥ ४७९ ॥
 
-दण्ड्यदण्डनप्रशंसामाह—
+**दण्ड्यदण्डनप्रशंसामाह—**
 
-यो दण्ड्यान्दण्डयद्राेजा सम्यग्वध्यांश्चघातयेत् ।
+यो दण्ड्यान्दण्डयद्राेजा सम्यग्वध्यांश्च घातयेत् ।
 
 इष्टं स्याद्यज्बभिस्तेन समाप्तवरदक्षिणैः ॥ ४८० ॥
 
@@ -3716,9 +3746,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अयशो सहदाप्रोति नरकं चैव गच्छति ॥ ४८१ ॥
 
-प्रकारान्तरेण दण्डस्य द्वैविध्यमाह—
+**प्रकारान्तरेण दण्डस्य द्वैविध्यमाह—**
 
-शारीरश्चार्थदण्डश्चदण्डः स्यादद्विविधः स्मृतः ।
+शारीरश्चार्थदण्डश्च दण्डः स्यादद्विविधः स्मृतः ।
 
 शारीरस्ताडनादिस्तु मरणान्तः प्रकीर्तितः ।
 
@@ -3728,7 +3758,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 रक्षार्थमस्य सिद्धस्य राजानमसृजत्प्रभुः ॥ ४८३ ॥
 
-इन्द्रानिलयमार्काणामग्नेश्चवरुणस्य च ।
+इन्द्रानिलयमार्काणामग्नेश्च वरुणस्य च ।
 
 चन्द्रवित्तेशयोश्चैव मात्रा निर्हृत्य शाश्वतीः ॥ ४८४ ॥
 
@@ -3736,7 +3766,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तस्मादभिभवत्येष सर्वभूतानि तेजसा । ४८५ ॥
 
-दण्डप्रणयनार्थाय राजा सृष्टः स्वयंभुवा ।
+दण्डप्रणयनार्थाय राजा सृष्टः स्वयम्भुवा ।
 
 देवभागानुपादाय सर्वभूतानुगुप्तये ॥ ४८६ ॥
 
@@ -3768,7 +3798,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तथाभिवर्षन्स्वं राज्यं काममिन्द्रव्रतं स्मृतम् ॥ ४९३ ॥
 
-अष्टौ मासान्यथादित्यस्तोयं हरतिरश्मिभिः ।
+अष्टौ मासान्यथादित्यस्तोयं हरति रश्मिभिः ।
 
 तथा हरेत्करं राष्ट्रान्नित्यमर्कव्रतं हि तत् ॥ ४९४ ॥
 
@@ -3778,7 +3808,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 ज्ञास्वापराधं पुरुषं च लोके विचार्य सभ्यैर्विदुषैः (?) समग्रम् ।
 
-दण्ड्येषु दण्डंपरिकल्पयेत पापस्य यद्यच्छमनं प्रकुर्यात् ॥ ४९६ ॥
+दण्ड्येषु दण्डं परिकल्पयेत पापस्य यद्यच्छमनं प्रकुर्यात् ॥ ४९६ ॥
 
 दूषा (ष्या) नुपांशुदण्डेन हन्याद्राजाविलम्बितम् ।
 
@@ -3786,13 +3816,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यः प्रमाणं न जानाति स्थाने वृद्धौ तथा क्षये ।
 
-क्रोशे जनपदे दण्डे न सराज्येवतिष्ठते ॥ ४९८ ॥
+क्रोशे जनपदे दण्डे न स राज्येवतिष्ठते ॥ ४९८ ॥
 
 यस्त्वेतानि प्रमाणानि यथोक्तान्यनुपश्यति ।
 
 युक्तो धमार्थयोग्यानि स राज्यमधिगच्छति ॥ ४९९ ॥
 
-न राज्यं प्राप्तमित्येव वर्तितव्यमसांप्रतम् ।
+न राज्यं प्राप्तमित्येव वर्तितव्यमसाम्प्रतम् ।
 
 श्रियं ह्यविनयो हन्ति जरा रूपमिवोत्तमम् ॥ ५०० ॥
 
@@ -3804,7 +3834,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 फलाद्रसं स लभते बीजाच्चैव फलं पुनः ॥ ५०२ ॥
 
-यथा मधु समादत्ते रक्षन्पुष्पाणि षट्वदः।
+यथा मधु समादत्ते रक्षन्पुष्पाणि षट्वदः ।
 
 तद्वदर्थान्मनुष्येभ्य आदद्यादविहिंसया ॥ ५०३ ॥
 
@@ -3812,15 +3842,15 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 मालाकार इवारामे न यथाङ्कारकारकः ॥ ५०४ ॥
 
-उत्खातान्प्रतिरोपयन्परिमितान्चिन्वन्लघून्वर्धयन्
+उत्खातान्प्रतिरोपयन्परिमिताञ्चिन्वन्लघून्वर्धयन्
 
-प्रोत्तुङ्गान्नमयन्नतान्समुदयन्विश्लेषयन्संहतन् ।
+प्रोत्तुङ्गान्नमयन्नतान्समुदयन्विश्लेषयन्संहत न् ।
 
 क्षुद्रान्कण्टकिनो बहिर्विनिम \* न्म्लानान्मुहुः सिञ्चयन्
 
 मालाकार इव प्रयोगनिपुणो राजा चिरं नन्दतु ॥ ५०५ ॥
 
-अपक्वः पक्वसंकाशांन च सीदेत कस्यचित् ।
+अपक्वः पक्वसङ्काशां न च सीदेत कस्यचित् ।
 
 सुपुष्पितः स्यादफलः फलितः स्योद्दुरारुहः ॥ ५०६ ॥
 
@@ -3834,13 +3864,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 पितृपैतामहं राज्यं प्राप्तं वा स्वेन तेजसा ।
 
-वायुरभ्रमिवासाद्यभ्रंशयत्यनयस्थितः ॥ ५०९ ॥
+वायुरभ्रमिवासाद्य भ्रंशयत्यनयस्थितः ॥ ५०९ ॥
 
 धर्ममाचरतो राज्ञः षड्भिश्चरितमानसः ।
 
-वसुधा वसुसंपूर्णा वर्धते भूतिवर्धिनी ॥ ४१० ॥
+वसुधा वसुसम्पूर्णा वर्धते भूतिवर्धिनी ॥ ४१० ॥
 
-अथ संत्यजतोधर्मम् धर्ममनुतिष्ठतः ।
+अथ सन्त्यजतो धर्मं धर्ममनुतिष्ठतः ।
 
 प्रतिसंवेष्टते भूमिरग्नौ चर्ममिवाहितम् ॥ ५११ ॥
 
@@ -3848,29 +3878,29 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अकाले मन्त्रभेदाच्च येन माद्येन्न तत्पिबेत् ॥ ५९२ ॥
 
-धर्मार्थौयः परित्यज्य स्यादिन्द्रियवशानुगः ।
+धर्मार्थौ यः परित्यज्य स्यादिन्द्रियवशानुगः ।
 
 श्रीप्राणधनदारेभ्यः क्षिप्रं स परिहीयते ॥ ५१३ ॥
 
 वाक्सायका वदनान्निःपतन्ति यैराहतः शोचति रात्र्यहानि ।
 
-परस्परो मर्मसु ते पतन्ति तान्पण्डितो नावसृजेषु' \* \*\*॥५१४॥
+परस्परो मर्मसु ते पतन्ति तान्पण्डितो नावसृजेषु' \* \* \*॥ ५१४ ॥
 
 यथा यथा हि पुरुषः कल्याणे कुरुते मतिः
 
 तथा तथास्य सर्वार्थाः शिष्यन्ते नात्र संशयः ॥ ५१५ ॥
 
-श्रीर्मङ्गलात्संभवति प्रागल्भ्यात्संप्रवर्धते \।
+श्रीर्मङ्गलात्सम्भवति प्रागल्भ्यात्सम्प्रवर्धते \।
 
 दाक्ष्यात्तु कुरुते मूलं संयमात्प्रतितिष्ठति ॥ ५१६ ॥
 
-संभाव्यं गोषु संपन्नं संभाव्यं ब्राह्मणे तपः ।
+सम्भाव्यं गोषु सम्पन्नं सम्भाव्यं ब्राह्मणे तपः ।
 
-संभाव्यं स्त्रीषु चापल्यं संभाव्यं ज्ञातितोभयम् ॥ ५१७ ॥
+सम्भाव्यं स्त्रीषु चापल्यं सम्भाव्यं ज्ञातितो भयम् ॥ ५१७ ॥
 
 ब्राह्मणेषु च येधीराः स्त्रीषु ज्ञातिषु गाेषु च ।
 
-वृक्षादिव फलं पक्वंधृतराष्ट्र पतन्ति ते ॥ ५१८ ॥
+वृक्षादिव फलं पक्वं धृतराष्ट्र पतन्ति ते ॥ ५१८ ॥
 
 धूमायन्ते व्यपेतानि ज्वलन्ते संहतानि च ।
 
@@ -3884,7 +3914,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तस्मादद्यूतं न सेवेत हास्यार्थमपि बुद्धिमान् ॥ ५२१ ॥
 
-वाक्यं तु याेनाद्रियतेनुशिष्टः प्रत्याह यश्चापि नियुज्यमानः ।
+वाक्यं तु याे नाद्रियतेनुशिष्टः प्रत्याह यश्चापि नियुज्यमानः ।
 
 प्रज्ञाभिमानी प्रतिकूलवादी त्याज्यः सदा दुर्धर एष भृत्यः ॥ ५२२ ॥
 
@@ -3896,19 +3926,19 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तृतीयं धनलाभं तु बलमाहुर्मनीषिभिः ( णः ) ॥ ५२४ ॥ .
 
-यत्त्वस्य सहजं राजन्पितृपैतामहं बलम्।
+यत्त्वस्य सहजं राजन्पितृपैतामहं बलम् ।
 
-अभिजातबलं नाम तच्चतुर्थेबलं स्मृतम् ॥ ५२५ ॥
+अभिजातबलं नाम तच्चतुर्थे बलं स्मृतम् ॥ ५२५ ॥
 
-येन त्वेतानि सर्वाणि संगृहीतानि भारत ।
+येन त्वेतानि सर्वाणि सङ्गृहीतानि भारत ।
 
 यद्वलानां बलं श्रेष्ठं तत्प्रज्ञाबलमुच्यते ॥ ५२६ ॥
 
 अमोघह \* \* र्षस्य स्वर्य (यं) कृत्यानुवेक्षिणः ।
 
-आत्मप्रत्ययकोशस्य वसुदैव वसुंधरा ॥ ५२७ ॥
+आत्मप्रत्ययकोशस्य वसुदैव वसुन्धरा ॥ ५२७ ॥
 
-अतिसंक्षीणकोशाोपि लभते परिवारणम् ।
+अतिसङ्क्षीणकोशाोपि लभते परिवारणम् ।
 
 धृतिः शमो दमः शौचं कारणं वारनिष्ठुराः ( ? ) ॥ ५२८ ॥
 
@@ -3920,7 +3950,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 न शत्रुरङ्कमा ( साद्य) मोक्तव्यो वध्यतां गतः ॥ ५३० ॥
 
-आहताद्धि भयं तस्मात्संभवत्यचिरादिह ।
+आहताद्धि भयं तस्मात्सम्भवत्यचिरादिह ।
 
 यत्र स्त्री यत्र कितवो बालो यत्रानुशासिता ॥ ५३१ ॥
 
@@ -3944,13 +3974,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सुखानि सह भोज्यानि ज्ञातिभिर्भरतर्षभ ॥ ५३६ ॥
 
- संबोधनं संकथनं संप्रीतिश्चपरस्परम् ।
+ सम्बोधनं सङ्कथनं सम्प्रीतिश्च परस्परम् ।
 
 ज्ञातयस्तारयन्तीह ज्ञातयां मज्जयन्ति च ॥ ५३७ ॥
 
-मन्त्रभेदस्य षट् प्राज्ञाेज्ञाता (द्वारा) ण्येतानि रक्षयेत् ।
+मन्त्रभेदस्य षट् प्राज्ञाे ज्ञाता (द्वारा) ण्येतानि रक्षयेत् ।
 
-अर्थसंततिकामश्चरक्षेदेतानि नित्यशः ॥ ५३८ ॥
+अर्थसन्ततिकामश्च रक्षेदेतानि नित्यशः ॥ ५३८ ॥
 
 मदः स्वप्नमविज्ञानमाकारं चात्यसंशयम् ।
 
@@ -3962,19 +3992,19 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 न वै श्रुतमविज्ञाय वृद्धाननुपसेव्य च ।
 
-धर्मार्थौवेदितुं शक्याै बृहस्पतिसमैरपि ॥ ५४१ ॥
+धर्मार्थौ वेदितुं शक्याै बृहस्पतिसमैरपि ॥ ५४१ ॥
 
-राजाेपसेवितं वैद्यंधार्मिकं प्रियदर्शनम् ।
+राजाेपसेवितं वैद्यं धार्मिकं प्रियदर्शनम् ।
 
 मित्रवन्तं स्ववाक्यं च सुहृदं परिपालयेत् ॥ ५४२ ॥
 
-दुःकुलीनः कुलीनोवा मर्यादां यो न लङ्घयेत् ।
+दुःकुलीनः कुलीनो वा मर्यादां यो न लङ्घयेत् ।
 
 धर्मापेक्षी मृदुर्ह्रीमान् स कुलीनः शताध्वरः ॥ ५४३ ॥
 
-आपदां प्रतिकारज्ञोतदात्वे दृढनिश्चयः ।
+आपदां प्रतिकारज्ञो तदात्वे दृढनिश्चयः ।
 
-अतीते कार्यशेषज्ञोनराेर्थैर्न प्रहीयते ॥ ५४४ ॥
+अतीते कार्यशेषज्ञो नराेर्थैर्न प्रहीयते ॥ ५४४ ॥
 
 कामं तदुपसेवेत न मूढव्रतमाचरेत् ।
 
@@ -3998,45 +4028,45 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अरेर्वा प्रणिपातेन मास्मातबु (स्म तेषु) मनः क (कृ) थाः ॥ ५५० ॥
 
-अविद्यःपुरुषः शोच्यः शाेच्यं मैथुनमप्रजम् ।
+अविद्यः पुरुषः शोच्यः शाेच्यं मैथुनमप्रजम् ।
 
 निराहाराः प्रजाः शाेच्याः शोच्यं राज्यमराजकम् ॥ ५५१ ॥
 
-यस्य दानजितं मित्रं शत्रवोबुद्धिनिर्जिताः ।
+यस्य दानजितं मित्रं शत्रवो बुद्धिनिर्जिताः ।
 
 अन्नपानजिता दाराः सफलं तस्य जीवितम् ॥ ५५२ ॥
 
-आशा धृतिं हन्ति समृद्धिमन्तः क्रोधःश्रियं हन्ति कदर्यताम् \* ।
+आशा धृतिं हन्ति समृद्धिमन्तः क्रोधः श्रियं हन्ति कदर्यताम् \* ।
 
 अपालनं हन्ति \* \* \* भूपे एकः क्रुद्धो ब्राम्हणां हन्ति राष्ट्रम् ॥ ५५३ ॥
 
-अधीत्य वेदान्परिसंस्तीर्य चाग्नीनिष्ट्वा यज्ञैःपालयित्वा प्रजाश्व ।
+अधीत्य वेदान्परिसंस्तीर्य चाग्नीनिष्ट्वा यज्ञैः पालयित्वा प्रजाश्व ।
 
-गोब्राम्हणार्थे शस्त्रपूतान्तरात्मा हतः संग्रामे क्षत्रियः स्वर्गमेति ॥ ५५४॥
+गोब्राम्हणार्थे शस्त्रपूतान्तरात्मा हतः सङ्ग्रामे क्षत्रियः स्वर्गमेति ॥ ५५४॥
 
 प्रभावः शुचिता मैत्री त्यागः सत्यं कृतज्ञता ।
 
-कुलं शीलं दमश्चेति गुणाः संपत्तिहेतवः ॥ ५५५ ॥
+कुलं शीलं दमश्चेति गुणाः सम्पत्तिहेतवः ॥ ५५५ ॥
 
-कामन्दकः—
+**कामन्दकः—**
 
 सकामासक्तमनसां कान्तामुखविलोकने ।
 
 गलन्ति गलिताश्रृणां यौवनेन सह श्रियः ॥ ५५६ ॥
 
-ग्रीष्मसूर्याेशुसंतप्तं उद्देजनमनाश्रयम् ।
+ग्रीष्मसूर्याेशुसन्तप्तम् उद्देजनमनाश्रयम् ।
 
-मरुस्थलमिवोदग्रं त्यजेद्दुर्जनसंगमम् ॥ ५५७ ॥
+मरुस्थलमिवोदग्रं त्यजेद्दुर्जनसङ्गमम् ॥ ५५७ ॥
 
 ये प्रियाणि प्रभाषन्ते प्रियमिच्छन्ति तत्कृतम् ।
 
-श्रीमन्तोवद्यचरिता देवास्तेनरविग्रहाः ॥ ५५८ ॥
+श्रीमन्तोवद्यचरिता देवास्ते नरविग्रहाः ॥ ५५८ ॥
 
 याने शय्यासने भोज्ये पाने शस्त्रे विभूषणे ।
 
 सर्वत्रैवाप्तमत्तः स्याद्बुद्धे न विषदूषणम् ॥ ५५९ ॥
 
-संधिंच विग्रहं चेव यानमासनमेव च ।
+सन्धिं च विग्रहं चेव यानमासनमेव च ।
 
 द्वैधीभावं संश्रयं च षाड्गुण्यं चिन्तयेत्सदा ॥ ५६० ॥
 
@@ -4056,7 +4086,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 स्वसैन्यं साधु रक्षेत परसैन्यं च यातयेत् ।
 
-विशिष्टो देशकालाभ्यां युक्तः प्रकृतिर्भिबलैः॥ ५६४ ॥
+विशिष्टो देशकालाभ्यां युक्तः प्रकृतिर्भिबलैः ॥ ५६४ ॥
 
 निशि विश्रम्भसंयुक्तं तत् ----------- यावत्।
 
@@ -4068,9 +4098,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 ता लुण्ठेत्पीडयेच्च शत्रोः प्रकृतयः स्वयम् ।
 
-वशे जातेपुनस्तासु पितृबद्वृत्तिमाचरेत् ॥ ५६७ ॥
+वशे जाते पुनस्तासु पितृबद्वृत्तिमाचरेत् ॥ ५६७ ॥
 
-द्वाविमौ पुरुषौलोके सूर्यमण्डलभेदिनौ।
+द्वाविमौ पुरुषौ लोके सूर्यमण्डलभेदिनौ ।
 
 परिव्राड्योगयुक्तश्व युद्धे चाभिमुखो गतः ॥ ५६८ ॥
 
@@ -4084,7 +4114,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 स्वर्भ्य(र्भ्व)र्थगोद्विजहिते त्यजतां शरीरं
 
-लोका भवन्तु विपुलाः मुलभं यशश्च॥ ५७० ॥
+लोका भवन्तु विपुलाः मुलभं यशश्च ॥ ५७० ॥
 
 स्वर्गस्य मार्गा बहवः प्रदिष्टास्ते कृच्छ्रसाध्याः कुटिलाः सविघ्नाः ।
 
@@ -4092,7 +4122,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 द्विजा अपि न गच्छन्ति यां गतिं नैव योगिनः ।
 
-स्वाम्यर्थे संत्यजन्प्राणांस्तां गतिं याति सेवकः ॥ ५७२ ॥
+स्वाम्यर्थे सन्त्यजन्प्राणांस्तां गतिं याति सेवकः ॥ ५७२ ॥
 
 एतत्तपश्च पुण्यं च धर्मश्चैव सनातनः ।
 
@@ -4102,7 +4132,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 र्भयमिति युक्तमतोन्यतः प्रयातुम् ।
 
-अथ मरणमवश्यमेव जंन्तोः
+अथ मरणमवश्यमेव जन्न्तोः
 
 किमिति मुधा मलिनं यशः कुरुध्वम् ॥ ५७४ ॥
 
@@ -4120,7 +4150,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यदस्य रुधिरं गात्रादाहवेषु प्रवर्तते ।
 
-सह तेनैव रक्तेन सर्वपापेःप्रमुच्यते ॥ ५७८ ॥
+सह तेनैव रक्तेन सर्वपापेः प्रमुच्यते ॥ ५७८ ॥
 
 त्यागेन यः सहायानां स्वप्राणांस्त्रातुमिच्छति ।
 
@@ -4128,21 +4158,19 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अजामिव प्रजां हन्याद्यो मोहात्पृथिवीपतिः ।
 
-तस्यैव जायते तृप्तिर्द्वितीयस्य कथंचन ॥ ५८० ॥
+तस्यैव जायते तृप्तिर्द्वितीयस्य कथञ्चन ॥ ५८० ॥
 
-प्रजापीडनसंतापात्समुद्भूतां हुताशनः ।
+प्रजापीडनसन्तापात्समुद्भूतां हुताशनः ।
 
 राज्ञः श्रियं कुलं प्राणान्नादग्ध्वा विनिवर्तते ॥ ५८१ ॥
 
-भूमिर्मित्रं हिरण्यं वा विग्रहस्य फलत्रयम्
+भूमिर्मित्रं हिरण्यं वा विग्रहस्य फलत्रयम् ।
 
-।
+नास्त्येकमपि यद्येषां तन्न कुर्यात्कथञ्चन ॥ ५८२ ॥
 
-नास्त्येकमपि यद्येषां तन्न कुर्यात्कथंचन ॥ ५८२ ॥
+शपथैः सन्धितस्यापि न विश्वासं व्रजेद्निपोः ।
 
-शपथैः संधितस्यापि न विश्वासं व्रजेद्निपोः ।
-
-राज्यलोको (भो) द्धतोवृद्धः शक्रेण शपथैर्हतः ॥ ५८३ ॥
+राज्यलोको (भो) द्धतो वृद्धः शक्रेण शपथैर्हतः ॥ ५८३ ॥
 
 कौर्मे संस्थानमास्थाय प्रहारानपि मर्षयेत् ।
 
@@ -4150,27 +4178,27 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तावद्भयाद्धि भेतव्यं यावद्भयमनागतम् ।
 
-आगतं तु भयं दृष्ट्वाप्रहर्तव्यमभीतवत् ॥ ५८५ ॥
+आगतं तु भयं दृष्ट्वा प्रहर्तव्यमभीतवत् ॥ ५८५ ॥
 
 स्वगात्राण्यपि भाराय भवन्ति हि विपर्यये ।
 
 मा त्वं तात बले स्थित्वा बाधेथा दुर्जनं जनम् ॥ ५८६ ॥
 
-न हि दुर्बलदग्धानां बाल किंचित्प्ररोहति ॥ ५८७ ॥
+न हि दुर्बलदग्धानां बाल किञ्चित्प्ररोहति ॥ ५८७ ॥
 
 यानि मिथ्याभिभूतानां पतन्त्यश्रूणि रोदताम् ।
 
-तानि संतापकान्घ्रन्ति सपुत्रपशुबान्धवान् ॥ ५८८ ॥
+तानि सन्तापकान्घ्रन्ति सपुत्रपशुबान्धवान् ॥ ५८८ ॥
 
 बुद्धौ कलषभूतायां विकारे प्रत्युपस्थिते ।
 
-अनयो नयसंकाशोहृदयान्नोपसर्पति ॥ ५८९ ॥
+अनयो नयसङ्काशो हृदयान्नोपसर्पति ॥ ५८९ ॥
 
 न कालः खड्गमादाय शिरः कस्यापि कृन्तति ।
 
 कालस्य बलमेतावद्विपरीतार्थदर्शनम् ॥ ५९० ॥
 
-न तु हन्यान्महीपालो दूतं कस्यांचिदापदि ।
+न तु हन्यान्महीपालो दूतं कस्याञ्चिदापदि ।
 
 दूतं हत्वा तु नरकं प्राविशेन्मन्त्रिभिः सह ॥ ५९१ ॥
 
@@ -4180,7 +4208,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 इति महति विरोधे वर्तमाने समाने
 
-तदुभयहितकर्ता त्यज्यते पार्थिवेन्द्रैः॥ ५९२ ॥
+तदुभयहितकर्ता त्यज्यते पार्थिवेन्द्रैः ॥ ५९२ ॥
 
 न कश्चिच्चण्डकोकानामात्मीयो नाम भूभुजाम् ।
 
@@ -4188,7 +4216,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 गृध्राकारोप ( पि )सेव्यः स्याद्धंसाकारैः सभासदैः ।
 
-हंसाकारोपि संत्याज्यो गृध्राकारैःसभासदैः५९४ ॥
+हंसाकारोपि सन्त्याज्यो गृध्राकारैः सभासदैः ५९४ ॥
 
 आसन्नमेव भजते नृपतिर्मनुष्यं विद्याविहीनमकुलीनमपण्डितं च ।
 
@@ -4196,11 +4224,11 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यस्मिन्सुधाधिकं चक्षुरारोपयति पार्थिवः ।
 
-कुलीनोवाकुलीनो वा स श्रियो भाजनं भवेत् ॥ ५९६ ॥
+कुलीनो वाकुलीनो वा स श्रियो भाजनं भवेत् ॥ ५९६ ॥
 
-धवलान्यातपत्राणि वाजिनश्चमनोरमाः ।
+धवलान्यातपत्राणि वाजिनश्च मनोरमाः ।
 
-सदामत्ताश्च मातङ्गाः प्रसन्ने सति भूपतौ॥ ५९७ ॥
+सदामत्ताश्च मातङ्गाः प्रसन्ने सति भूपतौ ॥ ५९७ ॥
 
 आयाच्चतुर्थभागेन व्ययकर्म प्रवर्तयेत् ।
 
@@ -4208,39 +4236,35 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अबुद्धिमाश्रितानां च क्षन्तव्यमपराधिनाम् ।
 
-न हि सर्वत्र
+न हि सर्वत्र पाण्डित्यं सुलभं पुरुषे क्वचित् ॥ ५९९ ॥
 
-पाण्डित्यं
+हन्तुमेवो(षो)पसराति, मृगेन्द्रः सङ्कुचत्यपि ।
 
-सुलभं पुरुषे क्वचित् ॥ ५९९ ॥
+बुद्धिमन्तः सहन्न्त्येक निधाय हृदि किञ्चन ॥ ६०० ॥
 
-हन्तुमेवो(षो)पसराति, मृगेन्द्रः संकुचत्यपि ।
-
-बुद्धिमन्तः सहंन्त्येक निधाय हृदि किंचन ॥ ६०० ॥
-
-ऋतौ निवाहे व्यसने रिपुस्करेयशस्करे कर्मणि मित्रसंग्रहे ।
+ऋतौ निवाहे व्यसने रिपुस्करे यशस्करे कर्मणि मित्रसङ्ग्रहे ।
 
 प्रियासु नारीष्वधनेषु बन्धुषु धनव्ययस्त्वेषु न गण्यते बुधैः ॥ ६०१ ॥
 
 कोहं कौ देशकालौ समविषमगुणाः (केरयः के सहायाः
 
-का शक्तिः कोभ्युः फलमिह च कियत् कीदृशी) दैवसंपत् ।
+का शक्तिः कोभ्युः फलमिह च कियत् कीदृशी) दैवसम्पत् ।
 
-संपत्तौको निबन्धः प्रविदितवचनस्योत्तरं किं नु मे स्या—
+सम्पत्तौ को निबन्धः प्रविदितवचनस्योत्तरं किं नु मे स्या—
 
-दित्येवं कार्यसिद्धाववहितमनसः संपदो हस्तसंस्थाः \।\।६०२ ॥
+दित्येवं कार्यसिद्धाववहितमनसः सम्पदो हस्तसंस्थाः \।\।६०२ ॥
 
 परान्नं परवस्त्रं च परशय्यासने स्त्रियम \।
 
 परवेश्मनिवासं च दूरतः परिवर्जयेत् ॥ १०३ ॥
 
-धनधान्यप्रयोगेषु विद्यासंग्रहणेषु च ।
+धनधान्यप्रयोगेषु विद्यासङ्ग्रहणेषु च ।
 
 आहारे व्यवहारे च त्यक्तलज्जः सुखी भवेत् ॥ ६०४ ॥
 
 मूर्खस्तु परिहर्तव्यः प्रत्यक्षो द्विपदः पशुः ।
 
-विध्यते वाक्यशल्येन अदृष्टः कण्टकोयथा ॥ ६०५ ॥
+विध्यते वाक्यशल्येन अदृष्टः कण्टको यथा ॥ ६०५ ॥
 
 कणशेषं शत्रुशेषमग्निशेषं तथैव च ।
 
@@ -4250,7 +4274,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 अफलं नेव सेवेत तथासत्यं च ( न ) जल्पयेत् ॥ ६०७ ॥
 
-भजन्त भजते प्राज्ञाेनाभजन्तं कथंचन ।
+भजन्त भजते प्राज्ञाे नाभजन्तं कथञ्चन ।
 
 प्रत्यक्षं दृश्यते लोके हस्तं हस्तेन क्षालयेत् ॥ ६०८ ॥
 
@@ -4264,13 +4288,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 जीवितं मृतकं मन्ये देहिनां धर्मवर्जितम् ।
 
-मृतो धर्मेण संयुक्तोदीर्घजीवी भविष्यति ॥ ६११ ॥
+मृतो धर्मेण संयुक्तो दीर्घजीवी भविष्यति ॥ ६११ ॥
 
 स धर्मो यत्र नाधर्मस्तत्सुखं यत्र नामुखम् ।
 
 तज्ज्ञानं यत्र नाज्ञानं सा गतिर्यत्र नागतिः ॥ ६१२ ॥
 
-सत्यं शौचं दया दानं परद्रब्यंन गृह्यते ।
+सत्यं शौचं दया दानं परद्रब्यं न गृह्यते ।
 
 ब्रह्मचर्यं तपोमूलमेतद्धर्मस्य लक्षणम् \।\। ६१३ \।\।
 
@@ -4278,7 +4302,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 न क्षीयते महादानमभयं सर्वदेहिनाम् ॥ ६१४ ॥
 
-राज्यं च संपदोभोगाः कुले जन्म सुदृष्टता ।
+राज्यं च सम्पदो भोगाः कुले जन्म सुदृष्टता ।
 
 पाण्डित्यमायुरारोग्यं धर्मस्यैतत्फलं विदुः ॥ ६१५ ॥
 
@@ -4286,7 +4310,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नास्त्युद्यमसमो बन्धुः कृत्वा य नावसीदति ॥ ६१६ ॥
 
-उत्तमैः सह संयोगं पण्डितैःसह संकथाः ।
+उत्तमैः सह संयोगं पण्डितैः सह सङ्कथाः ।
 
 अलुब्धैः सह मित्रत्वं कुर्वाणो नावसीदति ॥ ६१७ ॥
 
@@ -4294,7 +4318,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नीचवाक्यं चापमानं मतिमान्न प्रकाशयेत् ॥ ६१८ ॥
 
-पण्डिताश्चविनीताश्चधर्मज्ञाः सत्यवादिनः ।
+पण्डिताश्च विनीताश्च धर्मज्ञाः सत्यवादिनः ।
 
 बन्धनस्थापि तिष्ठेयुर्न तु राज्यं खलेः सह ॥ ६१९ ॥
 
@@ -4308,17 +4332,17 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 स्त्रीषु राजसु सर्वेषु स्वाध्याये शत्रुविग्रहे ।
 
-भार्यादिष्वपि विश्वासाेन कर्तव्यः कथंचन ॥ ६२२ ॥
+भार्यादिष्वपि विश्वासाे न कर्तव्यः कथञ्चन ॥ ६२२ ॥
 
-न जातु गच्छेद्विश्वासं संधितेपि हि बुध्दिमान् ।
+न जातु गच्छेद्विश्वासं सन्धितेपि हि बुध्दिमान् ।
 
 अद्रोहसमयं कृत्वा वृत्रमिन्द्रः पुराबधीत् ॥ ६२३ ॥
 
-बलीयसापि संधाय तं प्रविश्य प्रतापवान् ।
+बलीयसापि सन्धाय तं प्रविश्य प्रतापवान् ।
 
 तथा साध्वनुगन्तव्यो यथा विश्रम्भमाप्नुयात् ॥ ६२४ ॥
 
-नैकस्तु मन्त्रयेन्मन्त्रंन राजाबुद्धिभिः सह ।
+नैकस्तु मन्त्रयेन्मन्त्रं न राजाबुद्धिभिः सह ।
 
 नारोहेद्विषमां नावमपरीक्षितनाविकाम् ॥ ६२५ ॥
 
@@ -4328,7 +4352,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यथा न स्यात्कृशीभावः प्रजानामनवेक्षया ।
 
-तथा राज्ञावर्तितव्यं स्वराज्यं परिरक्षति (ता) ॥ ६२७ ॥
+तथा राज्ञा वर्तितव्यं स्वराज्यं परिरक्षति (ता) ॥ ६२७ ॥
 
 मोहाद्राजा स्वराष्ट्रं यः कर्षयत्यनवेक्षया ।
 
@@ -4340,21 +4364,21 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 विंशतीशं शतेशं च सहस्रपतिमेव च ॥ ६३० ॥
 
-इति श्रीमद्भृश्चबलान्वयमुकुटालंकारश्रीमच्छाहराजसुतश्रीमच्छिवच्छत्रपतिसुतश्रीष्मच्छम्भुगजविचितेबुधभूषणेराजनीतिः ॥
+**इति श्रीमद्भृश्चबलान्वयमुकुटालङ्कारश्रीमच्छाहराजसुतश्रीमच्छिवच्छत्रपतिसुतश्रीष्मच्छम्भुगजविचिते बुधभूषणे राजनीतिः ॥**
 
---------------------
+** --------------------**-----
 
------
+
 
 **तृतीयोऽध्यायः।**
 
 **प्रकीर्णनीतिः**
 
-उक्त्वा भूरिविभेदां बुधसंतुष्ट्यैराजनीतिमनवद्याम् ।
+उक्त्वा भूरिविभेदां बुधसन्तुष्ट्यै राजनीतिमनवद्याम् ।
 
-संप्रति मिश्रकनीतिर्विबुधविमोदाय तन्यते शिरसा ॥ १ ॥
+सम्प्रति मिश्रकनीतिर्विबुधविमोदाय तन्यते शिरसा ॥ १ ॥
 
-क्षिप्रं विजानाति चिरं शृणोति विज्ञाय चार्थंभजते च कामान् ।
+क्षिप्रं विजानाति चिरं शृणोति विज्ञाय चार्थं भजते च कामान् ।
 
 नासंस्पृष्टो ह्युपयुङ्क्ते परेषां तत्प्रज्ञानं प्रथमं पण्डितस्य ॥ २ ॥
 
@@ -4366,9 +4390,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 आशुग्रन्थार्थवक्ता च यः स पण्डित उच्यते ॥ ४ ॥
 
-स्वमर्थंयः परित्यज्य परार्थमनुतिष्ठति ।
+स्वमर्थं यः परित्यज्य परार्थमनुतिष्ठति ।
 
-मिथ्याचरति मित्रार्थे यश्चमूढः स उच्यते ॥ ५ ॥
+मिथ्याचरति मित्रार्थे यश्च मूढः स उच्यते ॥ ५ ॥
 
 अमित्रं कुरुते मित्रं (मित्रं) द्वेष्टे हिनस्ति च ।
 
@@ -4384,23 +4408,19 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सोस्य दोषो न मन्तव्यः क्षमा हि परमं बलम् ।
 
-अक्षमावाम्परं दोषैरात्मानं वापि योजयेत् ॥ ९॥
+अक्षमावाम्परं दोषैरात्मानं वापि योजयेत् ॥ ९ ॥
 
-द्वे कर्मणी नरः कुर्वन्नस्मिल्ँलोके महीयते ।
+द्वे कर्मणी नरः कुर्वन्नस्मिल्ँ लोके महीयते ।
 
-अब्रुवन्परुषं किंचिदसतो वर्जयंन्स्तथा ॥ १० ॥
+अब्रुवन्परुषं किञ्चिदसतो वर्जयन्न्स्तथा ॥ १० ॥
 
-षड्
-
-दोषाः
-
-पुरुषेणैव हातव्या भृतिमिच्छता ।
+षड् दोषाः पुरुषेणैव हातव्या भृतिमिच्छता ।
 
 निद्रा तन्द्रा भयं क्रोध आलस्यं दीर्घसूत्रता ॥ ११ ॥
 
-अष्टौपूर्वाणि चिह्नानि नरस्य विनशिष्यतः ।
+अष्टौ पूर्वाणि चिह्नानि नरस्य विनशिष्यतः ।
 
-ब्राह्मणान्प्रथमं द्वेष्टि ब्राह्मणैश्चविरुध्यते॥ १२ ॥
+ब्राह्मणान्प्रथमं द्वेष्टि ब्राह्मणैश्च विरुध्यते ॥ १२ ॥
 
 ब्राह्मणस्वानि चादत्ते ब्राह्मणांश्च जिवांसति ।
 
@@ -4412,7 +4432,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 नाक्रोशी स्यान्नावमानी परस्य मित्रद्रोही नोत नीचोपसेवी ।
 
-न चाभिमानी न च हीनवृत्तो रुक्षां वचमंति वर्जयन्तीम् (?) ॥ १५॥
+न चाभिमानी न च हीनवृत्तो रुक्षां वचमन्ति वर्जयन्तीम् (?) ॥ १५॥
 
 अप्रशस्तानि कार्याणि यो मोहादनुतिष्ठति ।
 
@@ -4420,9 +4440,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 दैवतेषु च यत्नेन राजसु ब्राह्मणेषु च ।
 
-नियन्तव्यः सदा क्रोधोवृद्धबालातुरेषु च ॥ १७ ॥
+नियन्तव्यः सदा क्रोधो वृद्धबालातुरेषु च ॥ १७ ॥
 
-निरर्थंकलहं प्राज्ञो वर्जयेन्मूढचेतसम् ।
+निरर्थं कलहं प्राज्ञो वर्जयेन्मूढचेतसम् ।
 
 कीर्तिं च लभते लोके न चार्थेन योजयेत् ॥ १८ ॥
 
@@ -4432,7 +4452,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 आकारैङ्गितैर्गत्या चेष्टया भाषणेन तु ।
 
-नेत्रवक्त्रविकारैश्चज्ञायतेन्तर्गतं मनः ॥ २० ॥
+नेत्रवक्त्रविकारैश्च ज्ञायतेन्तर्गतं मनः ॥ २० ॥
 
 सिद्धमन्त्रौषधं धर्मं गृहच्छिद्रं च मैथुनम् ।
 
@@ -4448,7 +4468,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 मार्दवं सर्वभूतानामनसूया क्षमा धृतिः ॥ २४ ॥
 
-अवृत्तिं विनयो हन्तिहन्त्यनर्थं पराक्रमः ।
+अवृत्तिं विनयो हन्ति हन्त्यनर्थं पराक्रमः ।
 
 हन्ति नित्यं क्षमा क्रोधमाचारो हन्त्यलक्षणम् ॥ २५ ॥
 
@@ -4456,32 +4476,32 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 मित्रं चापत्तिकाले च भार्यां च विभवक्षये ॥ २६ ।
 
-स्वामिनि गुणान्तरज्ञे गुणमपि भृत्येनुवर्तिनिकलत्रे च ।
+स्वामिनि गुणान्तरज्ञे गुणमपि भृत्येनुवर्तिनि कलत्रे च ।
 
 मित्रे चानुपवर्गे निवेद्य **- -** सुखी भवति ॥ २७ ॥
 
-उत्पाद्य पुत्राननृणांश्चकृत्वा वृत्तिं च तेभ्योनुविधाय कांचित् ।
+उत्पाद्य पुत्राननृणांश्च कृत्वा वृत्तिं च तेभ्योनुविधाय काञ्चित् ।
 
-स्थाने कुमारीः प्रतिपाद्य सर्वा अरण्यसंस्योथमुनिर्बुभूषे ॥ २८ ॥
+स्थाने कुमारीः प्रतिपाद्य सर्वा अरण्यसंस्योथ मुनिर्बुभूषे ॥ २८ ॥
 
 उत्थानं संयमो दाक्ष्यमप्रमादो धृतिः स्मृतिः ।
 
 समीक्ष्य च समारम्भो वृद्धिमूलं भविष्यति ॥ २९ ॥
 
-अतिक्लेशेन येर्थास्युर्धर्मस्यातिक्रमेण च ।
+अतिक्लेशेन येर्था स्युर्धर्मस्यातिक्रमेण च ।
 
 अरेर्वा प्रणिपातेन मा स्म तेषु मनः कृथाः ॥ ३० ॥
 
-त्यागेन हीनस्य कुतोस्तिलक्ष्मीर्ध्यानेन र्हानस्य कुतोस्ति सिद्धिः  
-अशुद्ध                            ॥ ३१ ॥
+त्यागेन हीनस्य कुतोस्ति लक्ष्मीर्ध्यानेन र्हानस्य कुतोस्ति सिद्धिः  
+अशुद्ध ॥ ३१ ॥
 
 आर्तो वा यदि वा त्रस्तः परेषां यदि वागतः ।
 
-अपि प्राणान्परित्यज्य रक्षितव्यः कृतात्मना ॥ ३२॥
+अपि प्राणान्परित्यज्य रक्षितव्यः कृतात्मना ॥ ३२ ॥
 
-देहे पातिनि का रक्षा यशोरक्ष्यमपातयन् ।
+देहे पातिनि का रक्षा यशो रक्ष्यमपातयन् ।
 
-नरः पतितकायोपियशः कायेन जीवति॥ ३३ ॥ 
+नरः पतितकायोपि यशः कायेन जीवति ॥ ३३ ॥ 
 
 सुलभाः पुरुषा लोके सततं प्रियवादिनः ।
 
@@ -4499,7 +4519,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 तं दृष्ट्राप्यथवा स्पृष्ट्वा नरः स्वर्गतिमाप्नुयात् ॥ ३७ ॥
 
-पुत्रो वशी स्वार्थकरी च विद्या अरोगिता मित्रसमागमश्च\।
+पुत्रो वशी स्वार्थकरी च विद्या अरोगिता मित्रसमागमश्च \।
 
 भार्या विनीता प्रियवादिनीच शोकस्य मूलोद्धरणानि पञ्च ॥ ३८ ॥
 
@@ -4515,7 +4535,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 एतानि सप्त व्यसनानि सप्त नरं सुघोरं नरकं नयन्ति ॥ ४१ ॥
 
-वाञ्छा सज्जनसंगमे परगुणे प्रीतिर्गुणे नम्रता
+वाञ्छा सज्जनसङ्गमे परगुणे प्रीतिर्गुणे नम्रता
 
 विद्यायां व्यसनं स्वयोषिति रतिर्लोकापवादाद्भयम् ।
 
@@ -4523,13 +4543,13 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 एते येषु वसन्ति निर्मलगुणास्तेभ्यो नरेभ्यो नमः ॥ ४२ ॥
 
-कलासु यत्नः पुरुषेण कार्यो न किंचिदप्राप्यतमं कलानाम् ।
+कलासु यत्नः पुरुषेण कार्यो न किञ्चिदप्राप्यतमं कलानाम् ।
 
 कलाप्रकर्षादुडुपेन शम्भोरनर्घ्यमासादितमुत्तमाङ्गम् ॥ ४३ ॥
 
 दोर्मन्त्र्यान्नृपतिर्बिनश्यति यतिः सङ्गात्सुतो लालनात्
 
-विप्रोऽनध्ययनात्कुलं कुतनयाच्छीलं खलोपासनात्।
+विप्रोऽनध्ययनात्कुलं कुतनयाच्छीलं खलोपासनात् ।
 
 मैत्री चाप्रणयात्समृद्धिरनयात्स्नेहः प्रवासाश्रयात्
 
@@ -4549,29 +4569,29 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 यदिच्छासे वशीकर्तुं जगदेकेन कर्मणा ।
 
-परापवादसस्यैश्चचरन्तीं गां निवारय ॥ ४७ ॥
+परापवादसस्यैश्च चरन्तीं गां निवारय ॥ ४७ ॥
 
 अविवेकमर्तिनृपर्तिमन्त्री गुणवत्सु वक्रितग्रीवः ॥
 
 यत्र खला (श्च) प्रबलास्तत्र कथं सज्जनावसरः ॥ ४८ ॥
 
-राजा संपत्तिहीनोपि सेव्यः सेवागुणान्वितैः।
+राजा सम्पत्तिहीनोपि सेव्यः सेवागुणान्वितैः ।
 
 भवत्यजीवनं तस्मात्फलं कालान्तरादपि ॥ ४९ ॥
 
 मित्रं स्वस्थतया रिपुं नयबलैर्लब्धं धनैरीश्वरं
 
-कार्येण द्विजमादरेण युवतिं प्रेम्णातितीर्वं(र्थं ?) स्तवैः ।
+कार्येण द्विजमादरेण युवतिं प्रेम्णातितीर्वं (र्थं ?) स्तवैः ।
 
-बन्धुं च क्षमया गुरुं प्रणतिभिर्मूर्खंकथाभिर्बुधं
+बन्धुं च क्षमया गुरुं प्रणतिभिर्मूर्खं कथाभिर्बुधं
 
 विद्याभी रसिकं रसेन सकलं शीलेन कुर्याद्वशम् ॥ ५० ॥
 
-अर्थी लाघवमुच्छ्रितो नियतनं कामातुरो लाञ्छनम्
+अर्थी लाघवमुच्छ्रितो नियतनं कामातुरो लाञ्छनं
 
 लुब्धोऽकीर्तिमसङ्गरः परिभवं दुष्टोन्यदोषे रतिम् ।
 
-निःस्वो वञ्चनमुन्मना विकलतां शोकातुरो म्लानताम्
+निःस्वो वञ्चनमुन्मना विकलतां शोकातुरो म्लानतां
 
 दुर्वागप्रियतां दुरोदरवशः प्राप्नोति कष्टं मुहुः ॥ ५१ ॥
 
@@ -4589,7 +4609,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 सेवाभिर्महिमा मदेन विनयः स्नेहः प्रवासैस्तथा
 
-मानोनुब्रजनेन कर्म कपटैर्विद्याधनैर्गच्छति ॥ ५३ ॥
+मानोनुब्रजनेन कर्म कपटैर्विद्या धनैर्गच्छति ॥ ५३ ॥
 
 मूर्खः शान्तस्तपस्वी क्षितिपतिरलसो मत्सरी धर्मशीलो
 
@@ -4599,9 +4619,9 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 वृद्धो रोगी दरिद्रः स च युवतिपतिर्धिग्विडम्बप्रकारः ॥ ५४ ॥
 
-स्त्रीणां योवनमर्थिनामनुगमो राज्ञः प्रतापः सताम्
+स्त्रीणां योवनमर्थिनामनुगमो राज्ञः प्रतापः सतां
 
-सत्यं स्वल्पधनस्य संततिरसद्वृत्तस्य वाग्डम्बरः ।
+सत्यं स्वल्पधनस्य सन्ततिरसद्वृत्तस्य वाग्डम्बरः ।
 
 आचारस्य सुशीलता नयवतां स्थैर्यं कुलस्यैक्यता
 
@@ -4609,17 +4629,17 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 विद्वान्संसदि पाक्षिकः परमतो मानी गृहस्थो व्ययी
 
-भिक्षुर्भोगपरो यतिर्वसुमना मूर्खश्चपाण्डित्यकृत् ।
+भिक्षुर्भोगपरो यतिर्वसुमना मूर्खश्च पाण्डित्यकृत् ।
 
-निःस्वः कामयतेथकुप्यति मृषा वृद्धो विवाहोद्यतो
+निःस्वः कामयतेथ कुप्यति मृषा वृद्धो विवाहोद्यतो
 
 वेदान्ती हतसन्क्रियः किमपरं हास्यास्पदं भूतले ॥ ५६ ॥
 
-को लाभो गुणिसंगमः किमपरं प्राज्ञेतरैः संगतिः
+को लाभो गुणिसङ्गमः किमपरं प्राज्ञेतरैः सङ्गतिः
 
-का हानिः समयच्युतिर्निपुणता का धर्मतत्त्वेरतिः ।
+का हानिः समयच्युतिर्निपुणता का धर्मतत्त्वे रतिः ।
 
-कः शूरो विजितेन्द्रियः प्रियतमा कानुव्रता किं धनम्
+कः शूरो विजितेन्द्रियः प्रियतमा कानुव्रता किं धनं
 
 विद्या किं सुखमप्रवासगमनं राज्ञः किमाज्ञा फलम् ॥ ५७ ॥
 
@@ -4627,12 +4647,14 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 
 र्दैवं प्रधानमिति कापुरुषा वदन्ति ।
 
-दैवं विहायकुरु पौरुषमात्मशक्त्या
+दैवं विहाय कुरु पौरुषमात्मशक्त्या
 
 यत्ने कृते यदि न सिध्यति कोत्र दोषः ॥ ५८ ॥
 
 लभेत सिकतासु तैलमपि यत्नतः पीडयन्
 
-यवेच्य —
+**यवेच्य —**
+
+
 
 \]

@@ -3,10 +3,9 @@ title = "कात्यायनशिक्षा"
 domain = "वेदाङ्गानि"
 sub-domain = "शिक्षा"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3546"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0ODI2NTc2MjA0MDQz&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[कात्यायनशिक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjE0ODI2NTc2MjA0MDQz&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -20,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0ODI2NTc2MjA
 
 यदुदात्तात्परं नोचं स्वार्यं तत्परतो न चेत्  
 उदात्तात्स्वरितं वा स्याद्यत्र स्यात्स्वरितं वदेत् १  
-एकीभूतमुदात्तेन स्यादुदात्तमतः परम्  
+एकीभूतमुदात्तेन स्यादुदात्तमतः परं  
 नीचं स्वार्यं यथोक्तं चेद्यच्च स्यात्स्वरितान्वितम् २  
 यदुदात्त इकारः स्यादनुदात्तेन संयुतः  
 इकारेण तदा स्वार्य्योऽभीन्धताभित्ययं यथा ३  

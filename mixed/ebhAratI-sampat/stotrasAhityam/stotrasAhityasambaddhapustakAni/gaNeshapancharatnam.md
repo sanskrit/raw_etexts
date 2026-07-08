@@ -3,10 +3,9 @@ title = "गणेशपञ्चरत्नम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2916"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU1MjA5MjQwNTI5OTcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गणेशपञ्चरत्नम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjU1MjA5MjQwNTI5OTcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -15,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU1MjA5MjQwNTI
 
 
 
-गणेशपञ्चरत्नम्
+गणेशपञ्चरत्नं
 
 श्रीमच्छङ्करभगवत्पादैः विरचितम्  
 ॥श्रीगणेशपञ्चरत्नम्॥  
@@ -35,13 +34,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU1MjA5MjQwNTI
 पुरारिपूर्वनन्दनं सुरारिगर्वचर्वणम्।  
 प्रपञ्चनाशभीषणं धनञ्जयादिभूषणं  
 कपोलदानवारणं भजे पुराणवारणम्॥४॥  
-नितान्तकान्तदन्तकान्तिमन्तकान्तकात्मजं  
+नितान्तकान्तदन्तकान्तिमन्तकान्तकात्मजम्  
 अचिन्त्यरूपमन्तहीनमन्तरायकृन्तनम्।  
 हृदन्तरे निरन्तरं वसन्तमेव योगिनां  
 तमेकदन्तमेव तं विचिन्तयामि सन्ततम्॥६॥  
 महागणेशपञ्चरत्नमादरेण योऽन्वहं  
 प्रजल्पति प्रभातके हृदि स्मरन् गणेश्वरम्।  
-अरोगतां अदोषतां सुसाहितीं सुपुत्रतां  
+अरोगताम् अदोषतां सुसाहितीं सुपुत्रतां  
 समीहितायुरष्टभूतिमभ्युपैति सोऽचिरात्॥६॥
 
 

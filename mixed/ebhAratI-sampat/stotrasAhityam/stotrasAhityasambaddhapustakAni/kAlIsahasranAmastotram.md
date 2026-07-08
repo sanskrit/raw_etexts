@@ -3,10 +3,9 @@ title = "कालीसहस्रनामस्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3047"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4OTU2MDU1MDA1Mjky&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[कालीसहस्रनामस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDM4OTU2MDU1MDA1Mjky&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -59,7 +58,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4OTU2MDU1MDA
 
 श्मशानवासिनीं प्रेतगणनृत्यमहोत्सवाम् ।
 
-योगप्रभां योगिनीशां योगीन्द्रहृदये स्थितां ॥ ९॥
+योगप्रभां योगिनीशां योगीन्द्रहृदये स्थिताम् ॥ ९॥
 
 तामुग्रकालिकां राम प्रसादयितुमर्हसि ।
 
@@ -283,7 +282,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4OTU2MDU1MDA
 रम्भोर्वशी रती रामा रोहिणी रेवती मखा ।
 
 शङ्खिनी चक्रिणी कृष्णा गदिनी पद्मिनी तथा ॥ ६१॥  
-  
+    
 शूलिनी परिघास्त्रा च पाशिनी शार्ङ्गपाणिनी ।
 
 पिनाकधारिणी धूम्रा सुरभी वनमालिनी ॥ ६२॥
@@ -507,7 +506,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4OTU2MDU1MDA
 त्रिपुरेशी पञ्चदशी पञ्चमी पुरवासिनी ।
 
 महासप्तदशी चैव षोडशी त्रिपुरेश्वरी ॥ ११७॥  
-  
+    
 महाङ्कुशस्वरूपा च महाचक्रेश्वरी तथा ।
 
 नवचक्रेश्वरी चक्रेश्वरी त्रिपुरमालिनी ॥ ११८॥
@@ -828,7 +827,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4OTU2MDU1MDA
 
 उत्पातवायोरपि नाऽत्रशङ्का लक्ष्मीः स्वयं तत्र वसेदलोला ॥ १७॥
 
-स्तोत्रं पठेत्तदनन्तपुण्यम् देवीपदाम्भोजपरो मनुष्यः ।
+स्तोत्रं पठेत्तदनन्तपुण्यं देवीपदाम्भोजपरो मनुष्यः ।
 
 विधानपूजाफलमेव सम्यक् प्राप्नोति सम्पूर्णमनोरथोऽसौ ॥ १८॥
 
@@ -841,7 +840,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4OTU2MDU1MDA
 मुक्तिर्भुक्तिमतिः स्वयं स्तुतिपराभक्तिः करस्थायिनी ॥ १९॥
 
 इति श्रीकालिकाकुलसर्वस्वे हरपरशुरामसंवादे  
-श्रीकालिकासहस्रनामस्तोत्रम् सम्पूर्णम् ॥  
+श्रीकालिकासहस्रनामस्तोत्रं सम्पूर्णम् ॥  
 \</poem\>
 
 \</doc\>

@@ -3,10 +3,9 @@ title = "गणेशभुजङ्गम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2915"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMDY2NjQwOTI4OTcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गणेशभुजङ्गम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMDY2NjQwOTI4OTcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -15,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMDY2NjQwOTI
 
 
 
-गणेशभुजङ्गम्
+गणेशभुजङ्गं
 
 
 रणत्क्षुद्रघण्टानिनादाभिरामं  
@@ -44,7 +43,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMDY2NjQwOTI
 र्गणाधीशमीशानसूनुं तमीडे .. ६ ..  
 यमेकाक्षरं निर्मलं निर्विकल्पं  
 गुणातीतमानन्दमाकारशून्यम् .  
-परं परमोंकारमान्मायगर्भं .  
+परं परमोङ्कारमान्मायगर्भं .  
 वदन्ति प्रगल्भं पुराणं तमीडे .. ७ ..  
 चिदानन्दसान्द्राय शान्ताय तुभ्यं  
 नमो विश्वकर्त्रे च हर्त्रे च तुभ्यम् .  

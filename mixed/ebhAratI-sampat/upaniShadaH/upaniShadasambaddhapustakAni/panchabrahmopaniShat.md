@@ -3,10 +3,9 @@ title = "पञ्चब्रह्मोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4314"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA1ODA4OTg3NzIxNDE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[पञ्चब्रह्मोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODA1ODA4OTg3NzIxNDE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA1ODA4OTg3NzI
 
 
 
-पञ्चब्रह्मोपनिषत् ।
+**पञ्चब्रह्मोपनिषत् ।**
 
 
 
@@ -94,7 +93,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA1ODA4OTg3NzI
 
 सृष्टिस्थितिलयादीनां कारणं सर्वशक्तिधृक् ॥ १२॥
 
-अवस्थात्रितयातीतं तुरीयं ब्रह्मसंज्ञितम् ।
+अवस्थात्रितयातीतं तुरीयं ब्रह्मसञ्ज्ञितम् ।
 
 ब्रह्मविष्ण्वादिभिः सेव्यं सर्वेषां जनकं परम् ॥ १३॥
 
@@ -198,9 +197,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA1ODA4OTg3NzI
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
-इति पञ्चब्रह्मोपनिषत्समाप्ता ॥
+**इति पञ्चब्रह्मोपनिषत्समाप्ता ॥**
 
-----------------------------
+** ----------------------------**
 
 
 

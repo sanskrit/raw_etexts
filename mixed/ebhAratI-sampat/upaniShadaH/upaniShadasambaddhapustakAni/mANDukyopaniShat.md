@@ -3,10 +3,9 @@ title = "माण्डुक्योपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4245"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMTgwOTQwNDA1NzA0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[माण्डुक्योपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMTgwOTQwNDA1NzA0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -20,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMTgwOTQwNDA
 
 
 
-ॐ इत्येतदक्षरमिदम् सर्वं तस्योपव्याख्यानं
+ॐ इत्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं
 
 भूतं भवद् भविष्यदिति सर्वमोङ्कार एव
 
@@ -54,7 +53,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMTgwOTQwNDA
 
 नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं
 
-न प्रज्ञं नाप्रज्ञम् । अदृष्टमव्यवहार्यमग्राह्यमलक्षणं
+न प्रज्ञं नाप्रज्ञम् । अदृष्टमव्यवहार्यमग्राह्यमलक्षणम्
 
 अचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं
 

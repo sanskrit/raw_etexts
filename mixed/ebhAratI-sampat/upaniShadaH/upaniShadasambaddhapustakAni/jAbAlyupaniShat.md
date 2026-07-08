@@ -3,10 +3,9 @@ title = "जाबाल्युपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4284"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NTM1MjA5NzQyMTE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[जाबाल्युपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NTM1MjA5NzQyMTE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -64,7 +63,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NTM1MjA5NzQ
 
 निवेदयामास तत्त्वम् । पशुपतिरहङ्काराविष्टः
 
-संसारी जीवः स एव पशुः । सर्वज्ञः पञ्चकृत्यसंपन्नः
+संसारी जीवः स एव पशुः । सर्वज्ञः पञ्चकृत्यसम्पन्नः
 
 सर्वेश्वर ईशः पशुपतिः । के पशव इति पुनः स तमुवाच जीवाः
 
@@ -82,7 +81,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NTM1MjA5NzQ
 
 तत्प्रकारः कथमिति । कुत्रकुत्र धार्यम् । पुनः स तमुवाच
 
-सद्योजातादिपञ्चब्रह्ममन्त्रैर्भस्म संगृह्याग्निरिति
+सद्योजातादिपञ्चब्रह्ममन्त्रैर्भस्म सङ्गृह्याग्निरिति
 
 भस्मेत्यनेनाभिमन्त्र्य मानस्तोक इति समुद्धृत्य जलेन
 

@@ -3,10 +3,9 @@ title = "आत्मपूजोपनिषद्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4256"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwODQ3NzAwMDY1ODA0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[आत्मपूजोपनिषद्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjMwODQ3NzAwMDY1ODA0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwODQ3NzAwMDY
 
 
 
-आत्मपूजोपनिषद् ।
+**आत्मपूजोपनिषद् ।**
 
 
 
@@ -46,7 +45,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwODQ3NzAwMDY
 
 निश्चलत्वं प्रदक्षिणम् ।
 
-सोऽहंभावो नमस्कारः ।
+सोऽहम्भावो नमस्कारः ।
 
 परमेश्वरस्तुतिर्मौनम् ।
 
@@ -54,7 +53,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwODQ3NzAwMDY
 
 एवं परिपूर्णराजयोगिनः सर्वात्मकपूजोपचारः स्यात् ।
 
-सर्वात्मकत्वं आत्माधारो भवति ।
+सर्वात्मकत्वम् आत्माधारो भवति ।
 
 सर्वनिरामयपरिपूर्णोऽहमस्मीति
 
@@ -62,9 +61,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwODQ3NzAwMDY
 
 इत्युपनिषत् ॥
 
-॥ इति आत्मपूजोपनिषत् समाप्ता॥
+**॥ इति आत्मपूजोपनिषत् समाप्ता॥**
 
---------------- --------------
+** --------------- --------------**
 
 
 

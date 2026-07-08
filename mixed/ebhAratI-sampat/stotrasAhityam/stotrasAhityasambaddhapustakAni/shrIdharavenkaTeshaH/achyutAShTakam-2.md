@@ -4,10 +4,9 @@ author = "श्रीधरवेङ्कटेशः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2794"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwNzIzMTA1MzEyODYy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अच्युताष्टकम्-२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODYwNzIzMTA1MzEyODYy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -22,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwNzIzMTA1MzE
 
 
 अभिलपननिसर्गादच्युताख्ये भजे त्वां  
-  
+    
 हरसि मदघबृन्दं त्वद्भुबुक्षावशात् त्वम् ।
 
 अघहृदिति तवाम्ब प्रत्युत ख्यातिदोऽहं
@@ -58,7 +57,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwNzIzMTA1MzE
 वनजभवमुखानां वन्द्यमाहुर्महान्तः ।
 
 स तु विनमति मातश्चाश्वगोश्वादनादीन्  
-  
+    
 भवति ननु विचित्रा पद्धतिस्तावकानाम् ॥ ५ ॥
 
 जननि मुरभिदाख्ये जाह्नवीनिम्नगैका
@@ -66,11 +65,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYwNzIzMTA1MzE
 समजनि पदपद्माच्चक्रिणस्त्वाश्रितानाम् ।
 
 परिणमति समस्ताः पादवार्घिन्दुरेको  
-  
+    
 जगति ननु तटिन्यो जाह्नवीसह्यजाद्याः ॥ ६ ॥
 
 समवहितमपश्यन् सन्निधौ वैनतेयं  
-  
+    
 प्रसभविधुतपद्मापाणिरीशोऽच्युताख्ये ।
 
 समवितुमुपनीतः सागजेन्द्रं त्वया द्राक्

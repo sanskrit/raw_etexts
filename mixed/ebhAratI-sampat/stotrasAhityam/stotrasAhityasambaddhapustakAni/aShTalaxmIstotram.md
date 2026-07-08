@@ -3,10 +3,9 @@ title = "अष्टलक्ष्मीस्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2854"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjc4NTcyMzc5Mzcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अष्टलक्ष्मीस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjc4NTcyMzc5Mzcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjc4NTcyMzc
 
 
 
-अष्टलक्ष्मीस्तोत्रम्
+अष्टलक्ष्मीस्तोत्रं
 
 
 
@@ -29,19 +28,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjc4NTcyMzc
 जय जय हे मधुसूदन कामिनि
 
 अहिकलिकल्मषनाशिनि कामिनि  
-  
+    
 क्षीरसमुद्भव मङ्गलरूपिणि
 
 मङ्गलदायिनि अम्बुजवासिनि  
-  
+    
 जय जय हे मधुसूदनकामिनि
 
 जयवरवर्णिनि वैष्णवि भार्गवि  
-  
+    
 सुरगणपूजित शीघ्रफलप्रद  
 -  
 भवभयहारिणि पापविमोचनि  
-  
+    
 जय जय हे मधुसूदनकामिनि
 
 जय जय दुर्गतिनाशिनि कामिनि
@@ -60,18 +59,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjc4NTcyMzc
 जय जय हे मधुसूदन कामिनि
 
 जय कमलासनि सद्गतिदायिनि  
-  
+    
 अनुदिनमर्चित कुङ्कुमधूसर-
 
 कनकधरास्तुति वैभव वन्दित  
-  
+    
 जय जय हे मधुसूदन कामिनि
 
 प्रणत सुरेश्वरि भारति भार्गवि  
-  
+    
 मणिमयभूषित कर्णविभूषण-  
 नवनिधिदायिनि कलिमलहारिणि  
-  
+    
 जय जय हे मधुसूदनकामिनि
 
 धिमिधिमि धिन्धिमि धिन्धिमि धिन्धिमि
@@ -79,7 +78,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjc4NTcyMzc
 घुमघुम घुङ्घुम घुङ्घुम घुङ्घुम
 
 वेदपुराणेतिहास सुपूजित  
-  
+    
 जय जय हे मधुसूदनकामिनि
 
 

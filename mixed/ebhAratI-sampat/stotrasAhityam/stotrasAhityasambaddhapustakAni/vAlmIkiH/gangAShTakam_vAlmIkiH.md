@@ -1,27 +1,16 @@
 +++
-title = "गङ्गाष्टकम् ( वाल्मीकिः)"
+title = "गङ्गाष्टकम् (वाल्मीकिः)"
 author = "वाल्मीकिः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2925"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNDgwOTAwOTg3MDgy&pageno=MjI0MjQyNjk5NTk="
-
 +++
-[[गङ्गाष्टकम् ( वाल्मीकिः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNDgwOTAwOTg3MDgy&pageno=MjI0MjQyNjk5NTk=)]]
+[[गङ्गाष्टकम् (वाल्मीकिः)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNDgwOTAwOTg3MDgy&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -65,14 +54,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNDgwOTAwOTg
 प्रक्षाल्य गात्र-कलिकल्मष-पङ्क-माशु  
 मोक्षं लभेत् पतति नैव नरो भवाब्धौ ॥ ९॥  
 ॥ इति वाल्मीकिविरचितं गङ्गाष्टकं सम्पूर्णम् ॥
-
-
-
-
-
-
-
-
 
 
 

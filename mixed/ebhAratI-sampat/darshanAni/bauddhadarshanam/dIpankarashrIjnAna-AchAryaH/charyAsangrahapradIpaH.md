@@ -4,10 +4,9 @@ author = "दीपङ्करश्रीज्ञान-आचार्यः
 domain = "दर्शनानि"
 sub-domain = "बौद्धदर्शनम्"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3694"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NjA1OTExMDE2NDUz&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[चर्यासङ्ग्रहप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NjA1OTExMDE2NDUz&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -72,7 +71,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NjA1OTExMDE
 
 
 
-**चर्यासङ्ग्रहप्रदीपो महापण्डिताचार्य - दीपङ्कर - श्रीज्ञानकृतः समाप्तः ।\\Z**
+**चर्यासङ्ग्रहप्रदीपो महापण्डिताचार्य - दीपङ्कर - श्रीज्ञानकृतः समाप्तः ।\Z**
 
 **----------------------------------------------**
 

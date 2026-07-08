@@ -3,10 +3,9 @@ title = "अर्धनारीश्वरस्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2845"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MDk2OTAzOTAxMzcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अर्धनारीश्वरस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MDk2OTAzOTAxMzcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -15,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MDk2OTAzOTA
 
 
 
-अर्धनारीश्वरस्तोत्रम्
+अर्धनारीश्वरस्तोत्रं
 
 
 
@@ -73,7 +72,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MDk2OTAzOTA
 भूयात्सदा तस्य समस्तसिद्धिः ॥ ९ ॥
 
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
-श्रीमच्छंकरभगवतः कृतौ अर्धनारीश्वरस्तोत्रम् सम्पूर्णम् ॥
+श्रीमच्छङ्करभगवतः कृतौ अर्धनारीश्वरस्तोत्रं सम्पूर्णम् ॥
 
 
 

@@ -4,10 +4,9 @@ author = "शङ्कराचार्यः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2731"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTYxMjYy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अच्युताष्टकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTYxMjYy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -35,7 +34,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTY
 
 इन्दिरामन्दिरं चेतसा सुन्दरं
 
-देवकीनन्दनं नन्दनं संदधे ॥ २॥
+देवकीनन्दनं नन्दनं सन्दधे ॥ २॥
 
 विष्णवे जिष्णवे शङ्खिने चक्रिणे
 
@@ -59,7 +58,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTY
 
 लक्ष्मणेनान्वितो वानरैः सेवितोऽ  
 -  
-गस्त्यसंपूजितो राघवः पातु माम् ॥ ५॥
+गस्त्यसम्पूजितो राघवः पातु माम् ॥ ५॥
 
 धेनुकारिष्टकोऽनिष्टकृद्द्वेषिणां
 
@@ -67,7 +66,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTY
 
 पूतनाकोपकः सूरजाखेलनो
 
-बालगोपालकः पातु माम् सर्वदा ॥ ६॥
+बालगोपालकः पातु मां सर्वदा ॥ ६॥
 
 विद्युदुद्धयोतवानप्रस्फुरद्वाससं
 
@@ -75,7 +74,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTY
 
 वन्यया मालया शोभितोरःस्थलं
 
-लोहितांघ्रिद्वयं वारिजाक्षं भजे ॥ ७॥
+लोहिताङ्घ्रिद्वयं वारिजाक्षं भजे ॥ ७॥
 
 कुञ्चितैः कुन्तलैर्भ्राजमानाननं
 
@@ -88,11 +87,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTY
 अच्युतस्याष्टकं यः पठेदिष्टदं  
 प्रेमतः प्रत्यहं पूरुषः सस्पृहम् ।
 
-वृत्ततः सुंदरं कर्तृ विश्वंभरं  
+वृत्ततः सुन्दरं कर्तृ विश्वम्भरं  
 तस्य वश्यो हरिर्जायते सत्वरम् ॥ ९॥  
 
 ॥  
-इति श्रीशंकराचार्यविरचितमच्युताष्टकं संपूर्णम् ॥
+इति श्रीशङ्कराचार्यविरचितमच्युताष्टकं सम्पूर्णम् ॥
 
 
 

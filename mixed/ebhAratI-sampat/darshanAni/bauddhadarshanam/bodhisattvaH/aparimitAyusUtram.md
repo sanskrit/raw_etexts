@@ -4,10 +4,9 @@ author = "बोधिसत्त्वः"
 domain = "दर्शनानि"
 sub-domain = "बौद्धदर्शनम्"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3641"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1ODU2ODEzMjI1OTQz&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अपरिमितायुसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA1ODU2ODEzMjI1OTQz&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -100,7 +99,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1ODU2ODEzMjI
 प्रज्ञाबलेन समुद्गत बुद्धो प्रज्ञाबलाधिगता नरसिंहः ।  
 प्रज्ञाबलस्य च श्रूयति शब्द कारुणिकस्य पुरे प्रविशन्तम् ॥ ३९ ॥
 
-ओं नमो भगवते । इदं वोचद्भगवानात्तमनस्ते च भिक्षवस्ते च बोधिसत्त्व महासत्त्वः सा च सर्वावती पर्षत्सदेवमानुषासुरगन्धर्वश्च लोको भगवतो भाषितमभ्यनन्दनमिति ॥ ४० ॥ \\Z
+ओं नमो भगवते । इदं वोचद्भगवानात्तमनस्ते च भिक्षवस्ते च बोधिसत्त्व महासत्त्वः सा च सर्वावती पर्षत्सदेवमानुषासुरगन्धर्वश्च लोको भगवतो भाषितमभ्यनन्दनमिति ॥ ४० ॥ \Z
 
 
 

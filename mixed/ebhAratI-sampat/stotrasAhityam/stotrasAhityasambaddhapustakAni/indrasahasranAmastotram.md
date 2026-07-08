@@ -3,10 +3,9 @@ title = "इन्द्रसहस्रनामस्तोत्रम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3054"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3NjUzNDI1MjcxMzky&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[इन्द्रसहस्रनामस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODg3NjUzNDI1MjcxMzky&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -383,7 +382,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3NjUzNDI1Mjc
 
 दीध्यानो दामनो दाता दीर्घश्रवस ऋभ्वसः ॥ ८७॥
 
-दंसनावान्दिवः संम्राड्देतवजूतो दिवावसुः ।
+दंसनावान्दिवः सम्म्राड्देतवजूतो दिवावसुः ।
 
 दशमो देवता दक्षो दुध्रोद्युम्नी द्युमन्तमः ॥ ८८॥  
 ॥  

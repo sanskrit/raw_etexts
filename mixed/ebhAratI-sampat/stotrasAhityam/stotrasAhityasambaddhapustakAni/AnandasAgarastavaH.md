@@ -3,10 +3,9 @@ title = "आनन्दसागरस्तवः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2725"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg1MTYy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[आनन्दसागरस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg1MTYy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -44,7 +43,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 तस्यास्तवाम्ब पुरतः कथयामि खेदम् ॥ ३ ॥
 
-पर्याकुले मनसि वाचि परिस्खलन्त्यां
+पर्याकुले मनसि वाचि परिस्खलन्त्याम्
 
 आवर्तगर्त इव चक्षिषि घूर्णमाने ।
 
@@ -330,11 +329,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 प्रारब्धकर्म गिरिजे भवदाश्रिताना-
 
-मन्यत्र संक्रमय नाशय वा समूलम् ।
+मन्यत्र सङ्क्रमय नाशय वा समूलम् ।
 
 मर्त्याश्च खल्वपि विषं वपुषि प्रसक्तं
 
-संक्रामयन्ति परतोऽपि च नाशयन्ति ॥ ४० ॥
+सङ्क्रामयन्ति परतोऽपि च नाशयन्ति ॥ ४० ॥
 
 त्वद्दर्शनश्रवणचिन्तनवन्दनादि-
 
@@ -348,7 +347,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 त्त्रायस्व किं सुकृतदुष्कृतचिन्तया मे ।
 
-कर्तुं जगत्तिरयितुं च विशृंखलायाः
+कर्तुं जगत्तिरयितुं च विशृङ्खलायाः
 
 कर्मानुरोध इति कं प्रति वञ्चनेयम् ॥ ४२ ॥
 
@@ -378,7 +377,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 क्वेदं पतिष्यति वपुः क्व ततो नु गम्यं
 
-को दण्डयिष्यति कियंतमनेहसं वा ।
+को दण्डयिष्यति कियन्तमनेहसं वा ।
 
 किं तस्य सन्तरणसाधनमित्यनन्ता
 
@@ -386,7 +385,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 ज्ञानं विशेयमुत तेन विनोद्धरेयं
 
-प्रारब्धमप्यपलपेयमुतानुरुंध्याम् ।
+प्रारब्धमप्यपलपेयमुतानुरुन्ध्याम् ।
 
 इत्थं सकृत्प्रपदनैकवशंवदाया
 
@@ -497,7 +496,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 मप्राकृतं परममङ्गलमङ्घ्रिपद्मम् ।
 
-संदर्शयेदपि सकृद्भवती दयार्द्रा
+सन्दर्शयेदपि सकृद्भवती दयार्द्रा
 
 द्रष्टास्मि केन तदहं तु विलोचनेन ॥ ६१ ॥
 
@@ -672,7 +671,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 प्रत्याहृते मनसि भाति तपोधनानाम् ।
 
-अज्ञानसन्ततिनिशात्ययसूचनार्थं
+अज्ञानसन्ततिनिशात्ययसूचनार्थम्
 
 आविर्भवन्त्यसुरदेशिकतारकेव ॥ ८३ ॥
 
@@ -851,7 +850,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 काचित्कृता कृतिरिति त्वयि साऽर्पितेति
 
-कापि प्रमोदकणिका न ममांतरङ्गे ।
+कापि प्रमोदकणिका न ममान्तरङ्गे ।
 
 मौढ्यं मदीयमिह यद्विदितं ममैव
 

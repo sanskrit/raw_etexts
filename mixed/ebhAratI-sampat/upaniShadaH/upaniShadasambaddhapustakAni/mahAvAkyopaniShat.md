@@ -3,10 +3,9 @@ title = "महावाक्योपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4295"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MjAyMTY4MzAzMjE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[महावाक्योपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MjAyMTY4MzAzMjE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MjAyMTY4MzA
 
 
 
-महावाक्योपनिषत् ।
+**महावाक्योपनिषत् ।**
 
 
 
@@ -28,15 +27,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MjAyMTY4MzA
 
 भद्रं पश्येमाक्षभिर्यजत्राः ।
 
-स्थिरैरङ्गैस्तुष्टुवा
-
-{\\\\
-
-म्+
-
-}
-
-सस्तनूभिः
+स्थिरैरङ्गैस्तुष्टुवा{\\म्+}सस्तनूभिः
 
 व्यशेम देवहितं यदायुः ॥
 
@@ -106,23 +97,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MjAyMTY4MzA
 
 भद्रं पश्येमाक्षभिर्यजत्राः ।
 
-स्थिरैरङ्गैस्तुष्टुवा
-
-{\\\\
-
-म्+
-
-}
-
-सस्तनूभिः
+स्थिरैरङ्गैस्तुष्टुवा{\\म्+}सस्तनूभिः
 
 व्यशेम देवहितं यदायुः ॥
 
 ॐ शान्तिः शान्तिः शान्तिः । हरिः ॐ तत्सत्
 
-इति महावाक्योपनिषत्समाप्ता ॥
+**इति महावाक्योपनिषत्समाप्ता ॥**
 
---------------------------
+** --------------------------**
 
 
 

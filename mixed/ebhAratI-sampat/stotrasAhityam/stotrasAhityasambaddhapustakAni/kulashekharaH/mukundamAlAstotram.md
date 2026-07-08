@@ -4,24 +4,13 @@ author = "कुलशेखरः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4187"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MDIwNzYyNjM5MTA0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[मुकुन्दमालास्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MDIwNzYyNjM5MTA0&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -205,7 +194,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MDIwNzYyNjM
 
 
 
-नाथे नः पुरुषोत्तमे त्रिजगतां एकाधिपे चेतसा सेव्ये स्वस्य पदस्य दातरि सुरे नारायणे तिष्ठति /
+नाथे नः पुरुषोत्तमे त्रिजगताम् एकाधिपे चेतसा सेव्ये स्वस्य पदस्य दातरि सुरे नारायणे तिष्ठति /
 
 यं कञ्चित् पुरुषाधमं कतिपयग्रामेशम् अल्पार्थदं सेवायै मृगयामहे नरम् अहो मूका वराका वयम् // मुकुन्दमाला.२८ //
 
@@ -281,15 +270,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5MDIwNzYyNjM
 
 तेनाम्बुजाक्षचरणाम्बुजषट्पदेन राज्ञा कृता कृतिर् इयं कुलशेखरेण // मुकुन्दमाला.४० //
 
-**----------------------------------------------------------**
-
-
-
-
-
-
-
-
+** ----------------------------------------------------------**
 
 
 

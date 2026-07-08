@@ -3,10 +3,9 @@ title = "अट्टालसुन्दराष्टकम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2876"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NTAyMzkxNTgwNjcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अट्टालसुन्दराष्टकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NTAyMzkxNTgwNjcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -15,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NTAyMzkxNTg
 
 
 
-अट्टालसुन्दराष्टकम्
+अट्टालसुन्दराष्टकं
 
 
 
@@ -25,11 +24,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NTAyMzkxNTg
 
 कबलीकृतसंसारं कलयेऽट्टालसुन्दरम् ॥ १॥
 
-कालकूटप्रभाजालकलङ्कीकृतकन्धरम् ।
+कालकूटप्रभाजालकळङ्कीकृतकन्धरम् ।
 
-कलाधरं कलामौलिं कलयेऽट्टालसुन्दरम् ॥ २॥
+कलाधरं कलामौळिं कलयेऽट्टालसुन्दरम् ॥ २॥
 
-कालकालं कलातीतं कलावन्तं च निष्कलम् ।
+कालकालं कलातीतं कलावन्तं च निष्कळम् ।
 
 कमलापतिसंस्तुत्यं कलयेऽट्टालसुन्दरम् ॥ ३॥
 
@@ -37,7 +36,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NTAyMzkxNTg
 
 कलिकल्मषदोषघ्नं कलयेऽट्टालसुन्दरम् ॥ ४॥
 
-कदम्बकाननाधीशं कांक्षितार्थसुरद्रुमम् ।
+कदम्बकाननाधीशं काङ्क्षितार्थसुरद्रुमम् ।
 
 कामशासनमीशानं कलयेऽट्टालसुन्दरम् ॥ ५॥
 

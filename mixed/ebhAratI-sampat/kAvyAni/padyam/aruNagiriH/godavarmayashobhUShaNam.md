@@ -10,23 +10,10 @@ language = "संस्कृतम्"
 printer = "गवर्नमेण्ट्-प्रेस् त्रिवेन्द्रम्"
 "serial no." = "Ebharati-5850"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3ODYxODEwODc1MTY1&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गोदवर्मयशोभूषणम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA3ODYxODEwODc1MTY1&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -36,51 +23,46 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3ODYxODEwODc
 
 
 
-**INTRODUCTION**
+**INTRODUCTION  
+———————————**
 
 * Godavarmayasobhūṣaṇa* of Arunagirikavi is a short work dealing with the arthālankāras, modelled on the *arthālaṇkāraprakaraṇa* of Vidyānātha's *Pratāparudrayaśobhūṣaṇa,* the illustrative verses being composed in praise of King Godavarma of Bimbali.
 
- The author Aruṇagiri, we understand from the colophon to the work, was a Brahmin hailing from Col̥adeśa, and was the son of one Śesādri and disciple of Veṇkaṭadri, and belonged to the Kauṇḍinyagotra. There are three Aruṇagiris known to students of the Sanskrit literature of South India. Two of them were the protéges of Vijayanagar kings; Dinḍimakavisārvabhauma Aruṇagirinatha I, the protégé of Devarāya II (A. D. 1422-1448) and the author of *Somavallīyogānanda-prahasana*;[^1] and Kumāradindima Arunagirinatha II, the protége of Krsnadevaraya (A. D.1509-1530) and the author of *Virabhadravijaya*[^2]. The third Arunagiri is *Arunagirinātha alias Aruņācalanātha*, the author of the commentaries *Prakasika* on Kalidasa's *Raghuvamśa* and *Kumārasambhava*[^3]. But none of these Arunagiris can be identified with the author of this *Yasobhüşaṇa,* for the details supplied by the author regarding himself do not apply to any of these. The Dinḍima Arunagiris belonged to the Gautamagotra[^4], and also lived before our author[^5]; and the commentator Arunagiri was the
+ The author Aruṇagiri, we understand from the colophon to the work, was a Brahmin hailing from Col̥adeśa, and was the son of one Śesādri and disciple of Veṇkaṭadri, and belonged to the Kauṇḍinyagotra. There are three Aruṇagiris known to students of the Sanskrit literature of South India. Two of them were the protéges of Vijayanagar kings; Dinḍimakavisārvabhauma Aruṇagirinatha I, the protégé of Devarāya II (A. D. 1422-1448) and the author of *Somavallīyogānanda-prahasana*;[^1] and Kumāradindima Arunagirinatha II, the protége of Krsnadevaraya (A. D.1509-1530) and the author of *Virabhadravijaya*[^2]. The third Arunagiri is *Arunagirinātha alias Aruņācalanātha*, the author of the commentaries *Prakasika* on Kalidasa's *Raghuvamśa* and *Kumārasambhava*[^3]. But none of these Arunagiris can be identified with the author of this *Yasobhüşaṇa,* for the details supplied by the author regarding himself do not apply to any of these. The Dinḍima Arunagiris belonged to the Gautamagotra[^4], and also lived before our author[^5]; and the commentator Arunagiri was the son of one Rāmadatta[^6], and was probably a non-Brahmin.[^7] So Arunagirikavi is different from these. Nothing more is known about him except that he is also the author of a stotra *Gaurisataka*, from which he quotes a śhloka in this work[^8], but no manuscript of this work seems to have been known.
 
-[^1]: " M. Krishnamachariar, History of Classical SanskritLiterature, p. 222."
+[^1]: # " M. Krishnamachariar, History of Classical Sanskrit Literature, p. 222."
 
-[^2]: "Ibid p.223."
+[^2]: # "Ibid p.223."
 
-[^3]: "The commentary on the first six cantos of Raghuram sa has been published by the Mangalodayam Press, Trichur, and that on Kumarasambhava in the Trivandrum Sanskrit Series, Nos. 27, 32 and 36."
+[^3]: # "The commentary on the first six cantos of Raghuram sa has been published by the Mangalodayam Press, Trichur, and that on Kumarasambhava in the Trivandrum Sanskrit Series, Nos. 27, 32 and 36."
 
-[^4]: " M. Krishnamachariar, op. cit., p. 221"
+[^4]: # " M. Krishnamachariar, op. cit., p. 221"
 
-[^5]: "Vide infra, p. iv."
+[^5]: # "Vide infra, p. iv."
 
+[^6]: # "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रामदत्तसूनुना अरुणगिरिनाथेन विरचितायां रघुवंशप्रकाशिकायां प्रथमस्सर्गः ।"
 
+[^7]: # "Cf. अरुणाचळनाथेन द्विजपादाब्जसेविना । शिवदासापराख्येन मया टीका वितन्यते ॥"
 
-son of one Rāmadatta[^6], and was probably a non-Brahmin.[^7] So Arunagirikavi is different from these. Nothing more is known about him except that he is also the author of a stotra *Gaurisataka*, from which he quotes a śhloka in this work[^8], but no manuscript of this work seems to have been known.
+[^8]: # " Vide infra, p. 18."
 
-[^6]: "Cf. Raghuvamsa, Trichur Edn., p. 87: इति रामदत्तसूनुना अरुणगिरिनाथेन विरचितायां रघुवंशप्रकाशिकायां प्रथमस्सर्गः ।"
+ Godavarma eulogised in this work was a king of Uttarabimbali[^9], राजग्नुत्तरबिम्बलेश etc., (p 45), प्रख्यातकीर्त्यत्त र बिम्बलेश etc., (p. 46), etc. (ibid, p. 3.)"), that is Vațakkumkur, a small principality in medieval Kerala, annexed to Travancore by Martāṇḍavarma Mahārāja in A. D. 1754. Though small, Vaṭakkumkur was a powerful and prosperous country during the days of the Portuguese and the Dutch in Malabar, and was one of the four subordinate kingdoms under Cochin, the other three being Porakad, Parur and Alangad[^10] and SouthVempoli (Tekkumkur). Vide Travancore Archaeological Series, Vol. II,"). In Dutch records, it is mentioned as Berkenkoor, and was well-known among the foreigners for its abundance of pepper. A large portion of the modern Kottayam Division in Travancore seems to have been under the sway of Vatakkumkur in those days. As for the identity of the king Godavarma, we find a Godavarma of Bimbali eulogised by Vasudeva in his *Bhr̥ṇgaśandeśa* in the verse[^11]:
 
-[^7]: "Cf. अरुणाचलनाथेन द्विजपादाब्जसेविना । शिवदासापराख्येन मया टीका वितन्यते ॥"
+[^9]: # "Vide infra: उत्तरबिम्बलधरणीवलशासन etc., (p. 42
 
-[^8]: " Vide infra, p. 18."
+[^10]: # "Vide Patappattu, edited by Mahakavi Rao Sahib Ulloor S. Parameswara Aiyar, Sri Mulam Malayalam Series, Trivandrum, No. 5: p. iv. Bimbali is the Sanskritised form of Vempoli, by which name the country was known before it was bifurcated into North-Vempoli (Vațakkumkur
 
- Godavarma eulogised in this work was a king of Uttarabimbali[^9],राजग्नुत्तरबिम्बलेश etc., (p 45), प्रख्यातकीर्त्यत्त र बिम्बलेश etc., (p. 46), etc. (ibid, p. 3.)"), that is Vațakkumkur, a small principality in medieval Kerala, annexed to Travancore by Martāṇḍavarma Mahārāja in A. D. 1754. Though small, Vaṭakkumkur was a powerful and prosperous country during the days of the Portuguese and the Dutch in Malabar, and was one of the four subordinate kingdoms under Cochin, the other three being Porakad, Parur and Alangad[^10] and SouthVempoli (Tekkumkur). Vide Travancore Archaeological Series, Vol. II,"). In Dutch records, it is mentioned as Berkenkoor, and was well-known among the foreigners for its abundance of pepper. A large portion of the modern Kottayam Division in Travancore seems to have been under the sway of Vatakkumkur in those days. As for the identity of the king Godavarma, we find a Godavarma of Bimbali eulogised by Vasudeva in his *Bhr̥ṇgaśandeśa* in the verse[^11]:
-
-[^9]: "Vide infra:उत्तरबिम्बलधरणीवलशासन etc., (p. 42
-
-[^10]: "Vide Patappattu, edited by Mahakavi Rao Sahib Ulloor S. Parameswara Aiyar, Sri Mulam Malayalam Series, Trivandrum, No. 5: p. iv. Bimbali is the Sanskritised form of Vempoli, by which name the country was known before it was bifurcated into North-Vempoli (Vațakkumkur
-
-[^11]: " Bhrigasandesa, Trivandrum Sanskrit Series, No. 128, p. 8."
+[^11]: # " Bhrigasandesa, Trivandrum Sanskrit Series, No. 128, p. 8."
 
 **इत्थं नत्वा गिरिवरसुतां गोदवर्मक्षितीन्दो-  
-रग्रेसम्भावचपुरवरं प्रस्फुरद्धेमसालम्।**
-
-
+रग्रे सम्भावच पुरवरं प्रस्फुरद्धेमसालम्।**
 
 **यद्युद्धेषु त्रुटितविमतस्तोमकण्ठान्त्रदाम-  
 प्रच्छन्नाशेष्वसिलतिकया दिद्युते विद्युतेव॥**
 
  and by Melputtūr Nārāyaṇa Bhaṭṭatiri in the following verses[^12]:
 
-[^12]: "Palace Library, Trivandrum, Ms. No. 1658 N,"
+[^12]: # "Palace Library, Trivandrum, Ms. No. 1658 N,"
 
 **त्वत्कीर्तिप्रसरे नितान्तधवले प्रौढां त्रिलोकीवधूं  
 द्रागालिङ्गति बिम्बलीश ! किमिव ब्रूमस्तदीयां दशाम्।  
@@ -93,16 +75,16 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin.[^7] So Arunagirikavi 
 च्चेरेन्द्र(व)त्सौवपदे करोषि॥२॥**
 
 **कृपाणीयं (बि)म्बल्यधिप ! रणमत्तारिपटली-  
-गोलोत्कृ(त्तिः? त्तिं) कत्रींरुधिरकणसिक्तीतवभुजे।  
+गोलोत्कृ (त्तिः ? त्तिं) कत्रीं रुधिरकणसिक्ती तव भुजे।  
 जगद्याथाकामकिबलनकणेघातकलना-  
-रसार्ताकार्तान्तीं परमनुसरीसर्ति रसनाम्॥३॥**
+रसार्ता कार्तान्तीं परमनुसरीसर्ति रसनाम्॥३॥**
 
 **कालाम्भोदालिकेशी कुलगिरिकुचभाराञ्चितेयं त्रिलोकी-  
-बिम्बोष्ठीं बिम्वलीश !त्वदुपगमसमुत्कण्ठया ताम्यतीव।  
+बिम्बोष्ठीं बिम्वलीश ! त्वदुपगमसमुत्कण्ठया ताम्यतीव।  
 अन्तस्सन्तापभारं कलयति यदियं त्वत्प्रतापोष्मरूपं  
 कीर्तिछायापदेशाद्वहति च नितरां सर्वतः पाण्डिमानम्॥४॥**
 
-**त्वद्धाम्ना काञ्चनाद्रौद्रवति सुरगणाः प्रापुरार्ताविरिञ्चं  
+**त्वद्धाम्ना काञ्चनाद्रौ द्रवति सुरगणाः प्रापुरार्ता विरिञ्चं  
 सोऽयं प्रागेव शम्भुं शरणमुपगतः पङ्कजम्लानिखिन्नः।  
 शम्भुः प्रागेव यातो रजतगिरिविनाशाकुलः पद्मनाभं  
 सोऽपि क्षीराब्धिशोषादवशमतिरगात्त्वन्मनीषां विशालाम्॥५॥**
@@ -110,14 +92,12 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin.[^7] So Arunagirikavi 
 **अयि गिरिवरकन्ये ! नित्यमेतावदेव  
 प्रणयविवशभावात्तावदभ्यर्थयेऽहम्।  
 जयतु चिरमवन्यां प्राप्तनिस्सीमशर्मा  
-विदलितरिपुमर्मागोदवर्मा सुकर्मा॥६॥**
+विदलितरिपुमर्मा गोदवर्मा सुकर्मा॥६॥**
 
 **त्वय्युद्दामप्ररूढप्रणयरसमयं साधु पाथेयजातं  
-संगृह्णन्तो दिगन्तप्रसर(ण)निपुणैस्त्वद्यशोभिस्सहायैः।  
+सङ्गृह्णन्तो दिगन्तप्रसर(ण)निपुणैस्त्वद्यशोभिस्सहायैः।  
 त्वत्संवासोत्सवानां चिरमननुभवात् खेदयन्तोऽपि राजन्।  
 सद्यस्सम्प्राप्तिसङ्कल्पनकुतुकवशादाश्वसन्तो व्रजामः॥७॥**
-
-
 
  The qualities attributed to Godavarma by these two poets, especially his unique swordsmanship, which stands out as his most prominent characteristic, well apply to the Godavarma described by Aruṇagiri(1). Therefore it is likely that the Godavarma of Aruṇagiri is the same as the king extolled by Vasudeva and Bhaṭṭatiri. If this identification is correct(2), Aruṇagiri and his Patron can be placed in the latter half of the 16th and the former half of the 17th centuries A. D. when Bhaṭṭatiri and Vâsudeva lived(3).
 
@@ -127,144 +107,68 @@ son of one Rāmadatta[^6], and was probably a non-Brahmin.[^7] So Arunagirikavi 
 
 --------------------------------------------------
 
-1. Vide, for instance the slokas **श्रीमद्बिम्बल** etc. (p. 11), **तव बाहुभुजङ्ग** etc, (p. 13), **उद्दण्डबाहुदण्डाग्रे** etc. (p. 31), **कण्ठं द्विषां** etc. (p. 36), **कराग्रजाग्रत्** etc. (p. 37), and **कराला कापि** etc. (p. 40), where his swordsmanship is particularly emphasised.
+1\. Vide, for instance the slokas **श्रीमद्बिम्बल** etc. (p. 11), **तव बाहुभुजङ्ग** etc, (p. 13), **उद्दण्डबाहुदण्डाग्रे** etc. (p. 31), **कण्ठं द्विषां** etc. (p. 36), **कराग्रजाग्रत्** etc. (p. 37), and **कराला कापि** etc. (p. 40), where his swordsmanship is particularly emphasised.
 
-2. Our identification of Godavarma is only conjectural, as there are certain literary records in Malayalam which speak of a Godavarma of Bimbali (cf. Mahakavi, Rao Sahib Ullur S. Paramaswara Aiyar : *Sahityaparisat* *Traimasikam*, Ernakulam, Vol. I, pp. 138-39) and also certain Portuguese records which speak of a king of the same name in high terms (cf. M. R. Balakrishna Warrier, *Prabandhamañjari* Pt. II, Trivandrum, pp. 156-57), It has not been possible to identify these Godavarmas.
+2\. Our identification of Godavarma is only conjectural, as there are certain literary records in Malayalam which speak of a Godavarma of Bimbali (cf. Mahakavi, Rao Sahib Ullur S. Paramaswara Aiyar : *Sahityaparisat* *Traimasikam*, Ernakulam, Vol. I, pp. 138-39) and also certain Portuguese records which speak of a king of the same name in high terms (cf. M. R. Balakrishna Warrier, *Prabandhamañjari* Pt. II, Trivandrum, pp. 156-57), It has not been possible to identify these Godavarmas.
 
-3. vide Introduction to the *Matsyâvatâra-prabandha* in I. 2 of this Journal, where the date of Bhaṭṭatiri is given as 1560--1666 A. D.Vasudeva was acontemporary ofBhaṭṭatiri, as he mentions him in the *Bhrṅgasandeśa(p. 17)*
+3\. vide Introduction to the *Matsyâvatâra-prabandha* in I. 2 of this Journal, where the date of Bhaṭṭatiri is given as 1560--1666 A. D. Vasudeva was a contemporary of Bhaṭṭatiri, as he mentions him in the *Bhrṅgasandeśa(p. 17)*
 
+* parikarâṅkura* is seen in Appayya Dīksita's *Kuvalayânanda*, but the other two are not regarded as independent alaṅkāras in any of the common works on the subject. *Tatkara* is the same as what Vidyânâtha illustrates as another variety of *samuccaya*, and it is noteworthy that Arunagiri himself calls it only as a variety of *samuccaya[^13]¹*, though he gives it a separate name. *Prašnottara* is usually included in *uttara*. Jayadeva in his *Candrāloka,* however, speaks of a *prasnottara[^14]*, but it is the same as Arunagiri's *uttara.*
 
+[^13]: # "Vide infra p. 45: स समुच्चयभेद एव ।"
 
-*parikarâṅkura* is seen in Appayya Dīksita's *Kuvalayânanda*, but the other two are not regarded as independent alaṅkāras in any of the common works on the subject. *Tatkara* is the same as what Vidyânâtha illustrates as another variety of *samuccaya*, and it is noteworthy that Arunagiri himself calls it only as a variety of *samuccaya[^13]¹*, though he gives it a separate name.*Prašnottara* is usually included in *uttara*. Jayadeva in his *Candrāloka,* however, speaks of a *prasnottara[^14]*, but it is the same as Arunagiri's *uttara.*
-
-[^13]: "Vide infra p. 45: स समुच्चयभेद एव ।"
-
-[^14]: "Candraloka, V. 108."
+[^14]: # "Candraloka, V. 108."
 
  Secondly, the order in which the alaṅkaras are dealt with in the two works is slightly different. There is a logical sequence in the order adopted in *Pratāparudriya*, but not so much in *Godavarmayaśobhūṣaṇa.*
 
- Thirdly, certain items dealt with in *Pratāparudrīya* are not seen in the *Godavarmayaśobhūṣaṇa*: the variety of *śleṣa* called *prakṛtâprakṛtaśleṣa*, *arthântaranyâ*sa through *kâryakāraṇabhāva, virodha* without Ś*leṣa*, and *virodha* and *ekâvâli* through*niṣedha* are instances.
+ Thirdly, certain items dealt with in *Pratāparudrīya* are not seen in the *Godavarmayaśobhūṣaṇa *: the variety of *śleṣa* called *prakṛtâprakṛtaśleṣa*, *arthântaranyâ*sa through *kâryakāraṇabhāva, virodha* without Ś*leṣa*, and *virodha* and *ekâvâli* through* niṣedha* are instances.
 
- Lastly, certain items not dealt with in Pratáparudriya are seen in *Godavarmayaśobhuṣaṇa :* the variety of *upamā*called *varṇyavācakaluptopamā* (i-e. *upamâ*in which both the *upameya* and the *upamavācakasabda* are omitted), *upameyopamā* by *vastuprativastubhāva*, the division of each of the three varieties of dipaka into two according to *guṇa* and *kriyā,* *nidarśana* by *sambhavaddharmayoga*, the threefold division of *arthāpatti,* and the variety of *uttara* through obscurity in the answer, are instances.
+ Lastly, certain items not dealt with in Pratáparudriya are seen in *Godavarmayaśobhuṣaṇa :* the variety of *upamā* called *varṇyavācakaluptopamā* (i-e. *upamâ* in which both the *upameya* and the *upamavācakasabda* are omitted), *upameyopamā* by *vastuprativastubhāva*, the division of each of the three varieties of dipaka into two according to *guṇa* and *kriyā,* *nidarśana* by *sambhavaddharmayoga*, the threefold division of *arthāpatti,* and the variety of *uttara* through obscurity in the answer, are instances.
 
-
-
- Among the works on alaṅkâra quoted from in this *Yaśobhūṣaṇa* are *Kavyaprakasa*[^15] (of Mammaṭa) and *Bindvalaṇkāra(2)* (of Harihara), which are quoted in it by name, and *Kâvyâdarśa* of Daṇḍin[^16].")and *Kāvyālaṇkārasārasangraha* of Udbhata[^17]."), which are quoted anonymously[^18]. The other quotations in the work are the verse **कुटिलालीकलसन्तीं**etc[^19]. from the author's own *Gauriśataka*, and the verses **तद्वल्गुना** etc[^20]."). and **अत्रानुगोदं**
+ Among the works on alaṅkâra quoted from in this *Yaśobhūṣaṇa* are *Kavyaprakasa*[^15] (of Mammaṭa) and *Bindvalaṇkāra(2)* (of Harihara), which are quoted in it by name, and *Kâvyâdarśa* of Daṇḍin[^16].") and *Kāvyālaṇkārasārasangraha* of Udbhata[^17]."), which are quoted anonymously[^18]. The other quotations in the work are the verse **कुटिलालीकलसन्तीं** etc[^19]. from the author's own *Gauriśataka*, and the verses **तद्वल्गुना** etc[^20]."). and **अत्रानुगोदं**
 etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
-[^15]: "Vide infra, p. 29."
+[^15]: # "Vide infra, p. 29."
 
-[^16]: "Vide infra, p. 17.मन्ये शङ्केetc. (Kavyadarsa, II. 234
+[^16]: # "Vide infra, p. 17.मन्ये शङ्के etc. (Kavyadarsa, II. 234
 
-[^17]: "Ibid, लोकातिक्रान्तविषया (Kavyalankarasarasangraha, III. 5
+[^17]: # "Ibid, लोकातिक्रान्तविषया (Kavyalankarasarasangraha, III. 5
 
-[^18]: "Another verse यथारुचि यथाश्चित्त्वंetc. but it has not been possible to trace its source."
+[^18]: # "Another verse यथारुचि यथाश्चित्त्वं etc. but it has not been possible to trace its source."
 
-[^19]: "Vide infra, p. 18."
+[^19]: # "Vide infra, p. 18."
 
-[^20]: "Vide infra, p. 10 (Raghuvamsa, V. 68
+[^20]: # "Vide infra, p. 10 (Raghuvamsa, V. 68
 
-[^21]: "Ibid, (Raghuvamsa, XIII. 35.
+[^21]: # "Ibid, (Raghuvamsa, XIII. 35.
 
  The present edition is based on a single palmleaf munuscript of the work in the Curator's Office collection in this Library, No. 164. It was procured from Sri Subrahmanyan Moothatu, Puttiyil, Haripad, and is written in Malayalam script.
 
 ————————.
 
-2. Vide infra, p. 23. It is uncertain whether *Bindvalankara* is quoted from its original or from the quotation cited from it in Vidya dhara's *Ekâvali*; for the stanza quoted is the same as in*Ekâvali*, and no other work is known to have any quotation from this rare work ; nor is any manuscript of it known. Even in *Ekâvali* this is the only verse quoted from this work. Vide *Ekâvali* of Vidyâdhara, edited by K. P. Trivedi, Bombay, 1903, p. 242:
+2\. Vide infra, p. 23. It is uncertain whether *Bindvalankara* is quoted from its original or from the quotation cited from it in Vidya dhara's *Ekâvali*; for the stanza quoted is the same as in *Ekâvali*, and no other work is known to have any quotation from this rare work ; nor is any manuscript of it known. Even in *Ekâvali* this is the only verse quoted from this work. Vide *Ekâvali* of Vidyâdhara, edited by K. P. Trivedi, Bombay, 1903, p. 242:
 
 ** यदुक्तं बिन्द्वलङ्कारे कविचक्रवर्तिना हरिहरेण **
 
-**'वःप्रस्तुताप्रस्तुतयोर्वर्गे कुत्रापि सङ्गतः। **
+**'वः प्रस्तुताप्रस्तुतयोर्वर्गे कुत्रापि सङ्गतः।**
 
-**समानो धर्म एकोऽन्यद्दीपयेत्तत्तुदीपकम्॥' इति।**
-
-
-
-|                       |     |     |     |
-|:---------------------:|:---:|:---:|:---:|
-| **॥ विषयानुक्रमणी ॥** |     |     |     |
-|      मङ्गलाचरणम्      |     |     |     |
-|         उपमा          |     |     |     |
-|        अनन्वयः        |     |     |     |
-|       उपमेयोपमा       |     |     |     |
-|        स्मृतिः        |     |     |     |
-|        रूपकम्         |     |     |     |
-|        परिणामः        |     |     |     |
-|        सन्देहः        |     |     |     |
-|     भ्रान्तिमान्      |     |     |     |
-|        अपह्नवः        |     |     |     |
-|        उल्लेखः        |     |     |     |
-|      उत्प्रेक्षा      |     |     |     |
-|      अतिशयोक्तिः      |     |     |     |
-|      तुल्ययोगिता      |     |     |     |
-|        दीपकम्         |     |     |     |
-|     प्रतिवस्तूपमा     |     |     |     |
-|      दृष्टान्तः       |     |     |     |
-|       निदर्शना        |     |     |     |
-|       व्यतिरेकः       |     |     |     |
-|       सहोक्तिः        |     |     |     |
-|       विनोक्तिः       |     |     |     |
-|      समासोक्तिः       |     |     |     |
-|        परिकरः         |     |     |     |
-|     परिकराङ्कुरः      |     |     |     |
-|        श्लेषः         |     |     |     |
-|   अप्रस्तुतप्रशंसा    |     |     |     |
+**समानो धर्म एकोऽन्यद्दीपयेत्तत्तु दीपकम्॥' इति।**
 
 
 
-|                 |     |     |     |
-|-----------------|-----|-----|-----|
-| अर्थान्तरन्यासः |     |     |     |
-| पर्यायोक्तम्    |     |     |     |
-| व्याजस्तुतिः    |     |     |     |
-| आक्षेपः         |     |     |     |
-| विरोधः          |     |     |     |
-| विभावना         |     |     |     |
-| विशेषोक्तिः     |     |     |     |
-| असङ्गतिः        |     |     |     |
-| बिशेषः          |     |     |     |
-| अधिकः           |     |     |     |
-| विचित्रम्       |     |     |     |
-| अन्योन्यः       |     |     |     |
-| विषमः           |     |     |     |
-| समः             |     |     |     |
-| अनुमानम्        |     |     |     |
-| काव्यलिङ्गम्    |     |     |     |
-| यथासङ्ख्यम्     |     |     |     |
-| कारणमाला        |     |     |     |
-| एकावली          |     |     |     |
-| मालादीपकम्      |     |     |     |
-| सारः            |     |     |     |
-| परिवृत्तिः      |     |     |     |
-| परिसङ्ख्या      |     |     |     |
-| अर्थापत्तिः     |     |     |     |
-| विकल्पः         |     |     |     |
-| समुच्चयः        |     |     |     |
-| तत्करः          |     |     |     |
-| समाधिः          |     |     |     |
+[TABLE]
 
 
 
-|              |     |     |     |
-|--------------|-----|-----|-----|
-| प्रत्यनीकम्  |     |     |     |
-| व्याघातः     |     |     |     |
-| पर्यायः      |     |     |     |
-| प्रतीपम्     |     |     |     |
-| मीलनम्       |     |     |     |
-| सामान्यम्    |     |     |     |
-| तद्गुणः      |     |     |     |
-| अतद्गुणः     |     |     |     |
-| उत्तरः       |     |     |     |
-| प्रश्नोत्तरः |     |     |     |
-| सूक्ष्मः     |     |     |     |
-| व्याजोक्तिः  |     |     |     |
-| वक्रोक्तिः   |     |     |     |
-| स्वभावोक्तिः |     |     |     |
-| भावकः        |     |     |     |
-| उदात्तः      |     |     |     |
-| संसृष्टिः    |     |     |     |
-| सङ्करः       |     |     |     |
+[TABLE]
+
+
+
+[TABLE]
+
+
+
+**——————————**
 
 
 
@@ -281,7 +185,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अपिच—
 
-**अङ्केपङ्केरुहस्य प्रतिवसति विधिर्यस्य नाभीसरस्याः  
+**अङ्के पङ्केरुहस्य प्रतिवसति विधिर्यस्य नाभीसरस्याः  
 पर्यङ्के यः फणीन्द्रे भजति परिचिते प्रायशो योगनिद्राम्।  
 सोऽयं हस्तारविन्दस्फुरदरिनलिनो भार्गवीभूमिसेव्यः  
 श्रेयः श्रीगोदवर्मक्षितिरमणमणेरावहत्वम्बुजाक्षः॥**
@@ -298,8 +202,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **हृद्यं साधर्म्यमुभयोरेकदा यत्र वर्ण्यते।  
 मिथस्तत्रोपमा प्रोक्ता सूरिभिः सूक्ष्मवेदिभिः॥१॥**
-
-
 
  यत्र हृद्यं सहृदयहृदयाह्लादि साधर्म्यं धर्मतः सादृश्यम् उभयोर्वस्तुनोः मिथः परस्परमेव एकदा सकृदेव वर्ण्यते तत्र उपमा उपमालङ्कृतिरिति सूक्ष्मार्थवेदिभिः सूरिभिः प्रोक्तेत्यर्थः। हृद्यमित्यनेन अश्वः श्वेव प्रधावति,
 
@@ -319,8 +221,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 मान्या श्रीसहजा मुदं कुवलयस्यापादयन्ती परां  
 कीर्त्तिस्ते भुवि गोदवर्मनृपते ! भाति प्रभेन्दोरिव॥**
 
-
-
   अत्र उपमानादीनां चतुर्णामुपादानात् पूर्णता। ननु पृथ्वीभृन्मौलिमहितत्वश्रीसहजत्वकुवलयामोदकत्वानां कथं साधारणत्वम्, एकत्र पृथ्वीभृतः पर्वताः अन्यत्र राजानः, एकत्र श्रीः लक्ष्मीः परत्रैश्वर्यं, कुत्रचित् कुवलयं नीलोत्पलम् इतरत्र भूवलयमिति भेदादिति चेन्मैवम्। श्लेषभित्तिकाभेदाध्यवसायेन विम्बप्रतिबिम्बभावेन वस्तुप्रतिवस्तुभावेन वा साधारणधर्मप्रतिपादनमिति आलङ्कारिकैरङ्गीकारात्।
 
  समासगा श्रौती पूर्णा यथा—
@@ -332,26 +232,22 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  तद्धितगा श्रौती पूर्णा यथा—
 
-**प्रख्यातसारे नृप ! गोदवर्म-  
-प्रभो ! धुरीणे तव बाहुदण्डे।  
-उर्वी परं दुर्वहभारगुर्वी  
-दर्वीकराधीश्वरवद्विभाति॥**
+**प्रख्यातसारे नृप ! गोदवर्मप्रभो ! धुरीणे तव बाहुदण्डे।  
+उर्वी परं दुर्वहभारगुर्वी दर्वीकराधीश्वरवद्विभाति॥**
 
  अत्र 'तत्र तस्येव' इति इवार्थे वतेर्विधानात् श्रौतीत्वम्।
 
  वाक्यगा आर्थी पूर्णा यथा—
 
-**अभिमतमर्थंवितरन्नर्थिसमूहस्य गोदवर्मनृप !।  
+**अभिमतमर्थं वितरन्नर्थिसमूहस्य गोदवर्मनृप !।  
 सुमनोमहितस्सदृशो भाति भवान् कल्पवृक्षस्य॥**
 
  अत्र धर्मिव्यवधानेन सदृशपदादौपम्यप्रतिपादनादार्थी।
 
  समासगा आर्थी पूर्णा यथा—
 
-**लोकरक्षणविधासु निरूढ-  
-प्रौढभीमभुजधामविगाढः।  
-गोदवर्मनृपतिः क्षितिजम्भ-  
-द्वेषणो विजयते हरितुल्यः॥**
+**लोकरक्षणविधासु निरूढप्रौढभीमभुजधामविगाढः।  
+गोदवर्मनृपतिः क्षितिजम्भद्वेषणो विजयते हरितुल्यः॥**
 
  अत्र हरितुल्य इति समासगा आर्थी।
 
@@ -359,8 +255,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **भीमसेनानुगो नित्यं विजयेन समन्वितः।  
 धर्मपुत्रवदाभाति धृतिमान् बिम्बलेश्वरः॥**
-
-
 
  अत्र 'तेन तुल्यं क्रिया चेद्वतिः' इति तुल्यार्थे वतेर्विधानादार्थी।
 
@@ -373,10 +267,8 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  धर्ममात्रलोपे धर्मलुप्ता। सापि पूर्णावत् श्रौत्यार्थीभेदभिन्ना भवति। श्रौती लुप्ता वाक्यसमासाभ्यां द्विविधैव, न तु तद्धितेऽपि। कल्पबादिप्रयोगे त्वार्थ्येव। तेन पञ्चविधा धर्मलुप्ता। क्रमेणोदाहरणं—
 
-**वक्रं यथा वारिरुहं सुधेव  
-सूक्तिर्भुजौ भोगिपतेः समानौ।  
-वक्षः कवाटप्रतिमं वपुश्च  
-कन्दर्पकल्पं तव गोदवर्मन् !॥**
+**वक्रं यथा वारिरुहं सुधेव सूक्तिर्भुजौ भोगिपतेः समानौ।  
+वक्षः कवाटप्रतिमं वपुश्च कन्दर्पकल्पं तव गोदवर्मन् !॥**
 
  वक्रं यथा वारिरुहमिति वाक्यगा श्रौती। सुधेव सूक्तिरिति समासगा श्रीती। भुजौ भोगिपतेः समानौ इति वाक्यगा आर्थी। वक्षः कवाटप्रतिममिति समासगा आर्थी। वपुश्च कन्दर्पकल्पमिति तद्धितगा आर्थी। 'ईषदसमाप्तौ कल्पब्देश्यदेशीयरः' इति विधानात्। सर्वत्र आह्लादकरत्वमाधुर्यदैर्घ्यवैशाल्यसौन्दर्यादिसाधारणधर्माणामनुपादानाद् धर्मलुप्तात्वम्।
 
@@ -393,8 +285,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 तपनतापमित्यत्र तपन इवेत्यर्थः। वाचकमात्रलोपः, तापस्य साधारणधर्मस्य ग्रहणात्। कर्तरि 'उपमाने कर्मणि च' इति णमुल्प्रत्ययः।
 
  कर्मणमुलि यथा—
-
-
 
 **विलोकन्ते नित्यं निजसुतविलोकं हरिणकान्  
 प्रियादर्शं पश्यन्त्युरुविपिनभागेषु चमरीः।  
@@ -428,21 +318,19 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अत्र दावायन्ते दावा इवाचरन्ति, दीपायन्ते दीपा इवाचरन्ति, अर्कायन्ते अर्का इवाचरन्तीत्यर्थः। 'कर्तुः क्यङ् सलोपश्च' इति क्यङ्प्रत्ययः। अत्राचरणं समानधर्मः। इवशब्दस्य लोपः।
 
-
-
  णिनिप्रत्यये यथा—
 
 **प्रवालवल्लीपरिशोभिनीनां प्रभिन्नदन्तावलगामिनीनाम्।  
 मनांसि रज्यन्ति मृगेक्षिणीनां श्रीगोदवर्मण्यखिलाङ्गनानाम्**॥
 
- अत्र प्रवालवल्यइव परिशोभन्ते, प्रभिन्नदन्तावला इव गच्छन्ति, मृगा इव ईक्षन्ते इत्यर्थे 'कर्तर्युपमाने' इति णिनिप्रत्ययः। शोभागमनेक्षणानि साधारणधर्माः। इवलोपश्च।
+ अत्र प्रवालवल्य इव परिशोभन्ते, प्रभिन्नदन्तावला इव गच्छन्ति, मृगा इव ईक्षन्ते इत्यर्थे 'कर्तर्युपमाने' इति णिनिप्रत्ययः। शोभागमनेक्षणानि साधारणधर्माः। इवलोपश्च।
 
  समासे यथा—
 
 **प्रवालपेशलौ पादौ गोदवर्मक्षमापतेः।  
 कथं सहेते कोटीरमणीषु स्खलनं द्विषाम्**॥
 
- अत्र प्रवालाविव पेशलौ मृदुकौ इति समासेवाचकलुप्ता। 'उपमानानि सामान्यवचनैः' इति समासः। पेशलत्वं समानधर्मः।
+ अत्र प्रवालाविव पेशलौ मृदुकौ इति समासे वाचकलुप्ता। 'उपमानानि सामान्यवचनैः' इति समासः। पेशलत्वं समानधर्मः।
 
 **द्विधोपमानलुप्ता च प्रोक्ता वाक्यसमासयोः॥५**॥
 
@@ -463,8 +351,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 कस्तद्विम्बल्यधिपतिमणेस्तत्प्रतापप्रतिश्रीः**॥
 
  अत्र यस्य प्रतापस्य भूम्ना नक्तमपि चक्रवाक्यः सहचरकुलैस्सह खेलन्ते तत्प्रतापप्रतिश्रीः तस्य प्रतापस्य प्रतिश्रीः समानश्रीः कः ? न कोऽपीत्यर्थः। तत्प्रतापप्रतिश्रीरिति समासात् समासगा। उपमानस्यानुपादानाच्च उपमानलुप्ता॥
-
-
 
  **धर्मवाचकलुप्तापि द्विविधा क्विप्समासयोः।**
 
@@ -493,7 +379,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 यत्प्रतापयशसोरपि तुल्यं  
 वस्तु किञ्चिदपि नास्ति जगत्याम्॥**
 
- यत्प्रतापयशसोस्तुल्यं वस्तु नास्तीत्युपमानानुपादानंसामान्यधर्माभावश्च। अपीत्युक्त्या गोदवर्मक्षितिपतिसमानो लोके नास्त्येव सुतरामिति गम्यते।
+ यत्प्रतापयशसोस्तुल्यं वस्तु नास्तीत्युपमानानुपादानं सामान्यधर्माभावश्च। अपीत्युक्त्या गोदवर्मक्षितिपतिसमानो लोके नास्त्येव सुतरामिति गम्यते।
 
  समासगा धर्मोपमानलुप्ता यथा—
 
@@ -502,11 +388,9 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 ननु बिम्बलभूमहेन्द्रतुल्यो  
 न च कश्चित् क्वचिदस्ति विष्टपेषु॥**
 
-
-
  अत्र बिम्बलभूमहेन्द्रतुल्यो नास्तीत्युपमानधर्मयोरनुपादानम्।
 
-**वर्ण्यवाचकलुप्तापि काचिद् भवति तद्यथा। **
+**वर्ण्यवाचकलुप्तापि काचिद् भवति तद्यथा।**
 
 **अतिचण्डदण्डभुजदण्डमण्डितः  
 स्वमकुण्ठधाम भुजयोः प्रदर्शयन्।  
@@ -516,16 +400,16 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
  अत्र विरोधिनां पुरः अयमन्तकीयति आत्मानमन्तकमिवाचरतीत्यर्थात् 'सुप आत्मनः क्यच्' इति क्यचि प्रत्यये आत्मन उपमेयस्य इवशब्दस्यापि लोपः। आचारः समानधर्मो गृहीत इति वर्ण्यवाचकलुप्ता॥
 
 **उपमानेवादिधर्मलुप्ता कापि समासगा॥७॥  
-एवं विंशतिधा प्रोक्ता लुप्ता विबुधसत्तमैः। **
+एवं विंशतिधा प्रोक्ता लुप्ता विबुधसत्तमैः।**
 
  उपमानवाचकधर्मलुप्ता यथा—
 
 **पुष्पेषुमूर्तिर्भुवि गोदवर्म-  
 क्षितीश्वरो यन्निजया गुणाढ्यः।  
-कीर्त्त्यासमुत्सारितसज्जनार्त्या  
+कीर्त्त्या समुत्सारितसज्जनार्त्या  
 हरित्पतीनप्यधरीकरोति॥**
 
- अत्र पुष्पेषुमूर्तिरित्यत्र पुष्पेषोर्मन्मथस्य मूर्तिरिव मूर्तिर्यस्येति 'सप्तम्युपमानपूर्वपदे'त्यादिना समासाद् उपमानवाचकशब्दयोर्लोपः। सौन्दर्यादिसाधारणधर्मस्यानुपादानाच्चउपमानवाचकधर्मलुप्ता। एवं विंशतिविधा लुप्ता प्रदर्शिता॥
+ अत्र पुष्पेषुमूर्तिरित्यत्र पुष्पेषोर्मन्मथस्य मूर्तिरिव मूर्तिर्यस्येति 'सप्तम्युपमानपूर्वपदे'त्यादिना समासाद् उपमानवाचकशब्दयोर्लोपः। सौन्दर्यादिसाधारणधर्मस्यानुपादानाच्च उपमानवाचकधर्मलुप्ता। एवं विंशतिविधा लुप्ता प्रदर्शिता॥
 
 **सामान्यधर्मनिर्देशभेदाद् भिद्येत चोपमा॥८॥**
 
@@ -536,8 +420,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अत्र उपमानोपमेयगतधर्मस्यानन्दवत्त्वस्यैकस्य पर्यायशब्दाभ्यामुपादानात् वस्तुप्रतिवस्तुभावः॥
 
-
-
  बिम्बप्रतिबिम्बभावेन यथा—
 
 **प्राप्तो यशःप्रतापाभ्यां भाति बिम्बलभूपतिः।  
@@ -545,7 +427,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अत्र यशःप्रालेयरुच्योः प्रतापभान्वोश्च बिम्बप्रतिबिम्बभावः। भिन्नयोर्धर्मयोः पृथगुपादानं बिम्बप्रतिबिम्बभावः। एवमादि द्रष्टव्यम् ॥
 
- **अनन्वयालङ्कारः।**
+**अनन्वयालङ्कारः।**
 
 **उपमानोपमेयत्वे त्वेकस्य स्यादनन्वयः।**
 
@@ -559,7 +441,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **त्वद्यशस्त्वद्यश इव तव श्रीरपि ते श्रिया।  
 समाना भाति सततं गोदवर्ममहीपते !॥**
 
- अत्र धर्मग्रहणाग्रहणाभ्यां अर्थद्वैविध्यमपि सूचितम्।
+ अत्र धर्मग्रहणाग्रहणाभ्याम् अर्थद्वैविध्यमपि सूचितम्।
 
 **उपमेयोपमालङ्कारः।**
 
@@ -576,8 +458,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
  अत्र उपमेयस्य बिम्बलक्षोणिपालकस्य दिशादन्तिनं प्रत्युपमानत्वकथनाच्च उपमेयोपमात्वम्। तच्च तृतीयोपमानान्तरनिवृत्तिद्योतनाय।
 
  द्वितीया यथा—
-
-
 
 **अकुण्ठधामायमयुग्मसप्ति-  
 र्दुरन्तदीप्तिर्भुजयोः प्रतापः।  
@@ -597,7 +477,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **सदृशार्थस्यानुभवात् सदृशस्मरणं स्मृतिः॥१०॥**
 
- यत्र सदृशवस्त्वनुभवेन सदृशपदार्थस्मरणं जायते तत्रस्मृत्यलङ्कारः। यथा—
+ यत्र सदृशवस्त्वनुभवेन सदृशपदार्थस्मरणं जायते तत्र स्मृत्यलङ्कारः। यथा—
 
 **करे धृतशरासनं कमलदीर्घदीर्घेक्षणं  
 कनत्कनकभूषणं कलितकोकनेत्रोत्सवम्।  
@@ -606,50 +486,44 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  यत्र सादृश्यानुभवं विना हेत्वन्तरेण स्मरणं न तत्रायमलङ्कारः। यथा—
 
-**"अत्रानुगोदंमृगयानिवृत्त-  
+**"अत्रानुगोदं मृगयानिवृत्त-  
 स्तरङ्गवातेन विनीतखेदः।  
 रहस्त्वदुत्सङ्गनिषण्णमूर्धा  
 स्मरामि वानीरगृहेषु सुप्तिम्॥"**
 
- इत्यत्र न स्मृत्यलङ्कारः॥
-
-
-
- भेदाभेदसाधारणधर्मप्रधाना उक्ताः। इदानीम् अभेदप्राधान्येन आरोपगर्भालङ्काराः प्रदर्श्यन्ते—
+ इत्यत्र न स्मृत्यलङ्कारः॥ भेदाभेदसाधारणधर्मप्रधाना उक्ताः। इदानीम् अभेदप्राधान्येन आरोपगर्भालङ्काराः प्रदर्श्यन्ते—
 
 **रूपकालङ्कारः।**
 
 **विषय्यभेदारोपेण विषयस्थोपरञ्जनम्।  
 अतिरोहितरूपस्य रूपकं प्रोक्तमष्टधा॥११॥**
 
- यत्र अतिरोहितरूपस्य विषयस्य आरोप्यमाणविषय्यभेदारोपेण रञ्जनं क्रियते तत्र रूपकम्। तच्च अष्टधा प्रोक्तम्। आरोपेणेति उत्प्रेक्षोपमादीनां निवृत्तिः। अतिरोहितस्येत्यनेन सन्देहादिनिवृत्तिः, तत्र विषयस्य सन्देहादिना तिरोधानात्। उपरञ्जनमिति परिणामव्यावृत्तिः। परिणामे आरोप्यमाणस्य प्रकृतकार्योपयोगित्वं, रूपके पुनः प्रकृतोपरञ्जकत्वमात्रमिति द्रष्टव्यम्। तच्च संक्षेपतास्त्रिविधम्—सावयवं, निरवयवं, परम्परितं चेति। सावयवम् अवयविसाकल्यवृत्ति। निरवयवम् अवयवतो निष्कान्तम् अवयविमात्रपर्यवसितम्। परम्परा अस्य संजातेति परम्परितम्। तत्र सावयवं द्विविधं– समस्तवस्तुविषयं एकदेशविवर्ति चेति। निरवयवं केवलंमालारूपञ्चेति द्विविधम्। परम्परितं श्लिष्टाश्लिष्टभेदेन द्विविधम् ; तच्च प्रत्येकं केवलमालारूपेण द्विविधं सत् चतुर्विधम्। आहत्याष्टविधं रूपकम्। तत्र समस्तवस्तुविषयं सावयवं यथा—
+ यत्र अतिरोहितरूपस्य विषयस्य आरोप्यमाणविषय्यभेदारोपेण रञ्जनं क्रियते तत्र रूपकम्। तच्च अष्टधा प्रोक्तम्। आरोपेणेति उत्प्रेक्षोपमादीनां निवृत्तिः। अतिरोहितस्येत्यनेन सन्देहादिनिवृत्तिः, तत्र विषयस्य सन्देहादिना तिरोधानात्। उपरञ्जनमिति परिणामव्यावृत्तिः। परिणामे आरोप्यमाणस्य प्रकृतकार्योपयोगित्वं, रूपके पुनः प्रकृतोपरञ्जकत्वमात्रमिति द्रष्टव्यम्। तच्च सङ्क्षेपतास्त्रिविधम्— सावयवं, निरवयवं, परम्परितं चेति। सावयवम् अवयविसाकल्यवृत्ति। निरवयवम् अवयवतो निष्कान्तम् अवयविमात्रपर्यवसितम्। परम्परा अस्य सञ्जातेति परम्परितम्। तत्र सावयवं द्विविधं– समस्तवस्तुविषयम् एकदेशविवर्ति चेति। निरवयवं केवलं मालारूपञ्चेति द्विविधम्। परम्परितं श्लिष्टाश्लिष्टभेदेन द्विविधम् ; तच्च प्रत्येकं केवलमालारूपेण द्विविधं सत् चतुर्विधम्। आहत्याष्टविधं रूपकम्। तत्र समस्तवस्तुविषयं सावयवं यथा—
 
 **निर्यन्निर्मलचन्द्रकान्तिलहरीनिर्व्यूढमैत्रीमरं  
-क्षीराब्धिं कुरुते विहारसरसीं भूचक्रवालाचलम्।  
+क्षीराब्धिं कुरुते विहारसरसीं भूचक्रवाळाचलम्।  
 क्रीडाद्रिं ककुभस्सखीसमुदयं केलीवनं नन्दनं  
 श्रीमन्। सम्प्रति गोदवर्मनृपते। त्वत्कीर्तिकन्यामणिः॥**
 
  यथा वा—
 
 **श्रीमद्बिम्बल्यधिपतिकरालङ्कियेयं कृपाणी-  
-वी(रु)द्वैरिक्षतजसलिलैः संभृताश्रान्तसेका।  
-संभूतौजःप्रकटविटपा सन्ततोद्यत्समज्ञा-  
+वी(रु)द्वैरिक्षतजसलिलैः सम्भृताश्रान्तसेका।  
+सम्भूतौजःप्रकटविटपा सन्ततोद्यत्समज्ञा-  
 सूनव्यूहैः फलति सुरभिस्वर्गभूमिस्त्रिवर्गम्॥**
 
- अत्र अवयवानां विटपादीनां अवयविभूताया लतादेश्चनिरूपणात् समस्तवस्तुविषयत्त्वम्।
+ अत्र अवयवानां विटपादीनाम् अवयविभूताया लतादेश्च निरूपणात् समस्तवस्तुविषयत्त्वम्।
 
  एकदेशविवर्ति यथा—
 
 **बरगोदवर्मनृपतौ रणाजिरे रिपुशेलमूर्ध्नि शरवारिसन्ततिम्।  
 सततं विमुञ्चति समग्रगर्जिते परितो विभाति भुजधामकन्दली।**
 
-
-
  अत्र अवयवानां शरादीनां वारित्वादिनिरूपणेन अवयविनो गोदवर्मणः वारिधरत्वं गम्यते। ततः अवयविन्येकदेशे विवर्तनात् एकदेशविवर्तित्वम्।
 
  निरवयवं केवलं यथा—
 
-**कोणाघातप्रभूतान् गुरुतरसमरारम्भसंभूतभेरी-  
+**कोणाघातप्रभूतान् गुरुतरसमरारम्भसम्भूतभेरी-  
 घोरारावान् कृतोद्यत्प्रलयघनततिध्वानकल्पान् प्रतीत्य।  
 धावन्ति त्यक्तयाना विमतनृपतयः कानने दीनचित्ता-  
 स्त्वद्दोर्दण्डप्रताप(द्वि?द्यु)मणिदृढतरोत्तापिता गोदवर्मन् !॥**
@@ -683,8 +557,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अश्लिष्ठकेवलपरम्परितं यथा—
 
-
-
 **तव बाहुभुजङ्गखड्गजिह्वा तरलायाधेनिसाीम्न दुर्मदानाम्।  
 ग्रसतेऽसुसमीरणानरीणां जय लक्ष्मीधर ! गोदवर्मभूप !॥**
 
@@ -693,7 +565,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **त्रिलोकीकासारस्फुरदमलपाथोरुहभरा  
 दिशाकान्ताहाराः सुरपथमहीरुट्सुमनसः।  
 सुहृद्भूतक्ष्माभृत्कुलकुमुदशीतांशुकिरणा  
-यशःपुञ्जाराजन्त्यतुलबलबिम्बल्यधिपतेः॥**
+यशःपुञ्जा राजन्त्यतुलबलबिम्बल्यधिपतेः॥**
 
  अश्लिष्टमालापरम्परितं वैधर्म्येणापि भवति। यथा—
 
@@ -717,8 +589,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
  अत्र नखश्रीभरैः पुष्पैरिति सामानाधिकरण्यं केवलं नख(द्वि?त्वि)षां पुष्पात्मना केशप्रसाधनरूपकार्योपयोगित्वात् परिणामः।
 
  वैयधिकरण्येन यथा—
-
-
 
 **गेहं चारु गुहाभिरद्भुतलतापुष्षोच्चयैर्भूषणं  
 चेलं चायतवल्कलैश्चिरतरं क्रीडासरः पल्वलैः।  
@@ -759,8 +629,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 इत्थं संशयिनोऽत्र बिम्बलपते ! प्रत्यर्थिपृथ्वीभृतः  
 पश्चान्निश्चयमाचरन्ति भवतः स्फाराः प्रतापा इति॥**
 
-
-
  अत्र दावानलज्वालादिरूपेण संशय्य पश्चान्निश्चयात् निश्चयान्तत्वम्॥
 
 **भ्रान्तिमदलङ्कारः।**
@@ -798,15 +666,13 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अत्र भटप्रक्ष्वेलितस्य व्याजपदेन असत्यत्वं प्रतिपाद्य दम्भोलिपातत्वमारोप्यत भीषणत्वसाधर्म्यात्॥
 
-
-
 **एकस्यार्थरुचिश्लेषैर्निमित्तैर्बहुधा जनैः।  
 उल्लेखने स्यादुल्लेखालङ्कारः सूरिभिः स्मृतः॥१५॥**
 
  यत्र अर्थरुचिश्लेषैर्निमित्तैः एकस्य बहुधा बहुभिर्जनैरुल्लेखः निरूपणं क्रियते तत्रोल्लेखालङ्कारः। तदुक्तम्—
 
 **“यथारुचि यथार्थित्वं यथाव्युत्पत्ति भिद्यते।  
-आभासोऽप्यर्थ एकस्मिन् अनुसन्धानसाधितः॥” **
+आभासोऽप्यर्थ एकस्मिन् अनुसन्धानसाधितः॥”**
 
 इति।
 
@@ -828,14 +694,12 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अत्र जिष्ण्वादिपदानां श्लिष्टत्वम्॥
 
-**उत्प्रेक्षालङ्कारः। **
+**उत्प्रेक्षालङ्कारः।**
 
 **अन्यधर्माभिसम्बन्धादन्यत्वेनाध्यवस्यते।  
-प्रकृतं यत्र तत्राहुरुत्प्रेक्षालङ्क्रियांबुधाः॥१६॥**
+प्रकृतं यत्र तत्राहुरुत्प्रेक्षालङ्क्रियां बुधाः॥१६॥**
 
  यत्र प्रकृतस्य विषयस्य अप्रकृतधर्मसम्बन्धाद् अप्रकृतत्वेनाध्यवसायः तत्र उत्प्रेक्षेत्याहुः। अध्यवसायो नाम उभयोरन्यतरस्य अन्यतरनिगरणेन अन्यतराभेदसम्भावनम्। अध्यवसायस्सम्भावनमुत्प्रेक्षा तर्क ऊहोऽभिमानश्चेति पर्यायाः। उत्प्रेक्षा द्विविधा वाच्या गम्या चेति। सम्भावनाप्रतिपादकानां नूनं प्राय इत्यादीनां प्रयोगे वाच्या। तदप्रयोगे गम्या। तदुक्तम्—
-
-
 
 **“मन्ये शङ्के ध्रुवं प्रायो नूनमित्येवमादयः।  
 उत्प्रेक्षावाचकाः शब्दा इवशब्दोऽपि तादृशः॥”**
@@ -847,7 +711,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 इति। उक्तस्य अष्टविधस्य सम्भावनस्य गुणनिमित्तकत्वेन क्रियानिमित्तकत्वेन द्वैविध्ये षोडशविधा। अत्र चैतेषां स्वरूपहेतुफलोत्प्रेक्षाभिरपरं त्रैविध्यम्। निमित्तस्य उपादानानुपादानाभ्यां द्वैविध्ये जात्युत्प्रेक्षा चतुर्दशविधा[^22]। ननु चतुर्विंशतिविधत्वेन कथं चतुर्दशविधत्वमिति चेन्न; जातिहेतुफलोत्प्रेक्षयोः हेतूपादानानुपादानद्वैविध्याभावाच्चतुर्दशविधैव। एवं क्रियागुणद्रव्याणामपीति वाच्योत्प्रेक्षा षट्पञ्चाशद्विधा, गम्योत्प्रेक्षा अष्टचत्वारिंशद्भेदा। गम्योत्प्रेक्षायां निमित्तस्य गुणत्वेन क्रियात्वेन वा चारुत्वविशेषाभावाद् एक एव भेद इति द्रष्टव्यम्। केचित्तु वाच्योत्प्रेक्षैव षण्णवतिविधेति वदन्ति। तत्र यथासम्भवमुदाहरणानि।
 
-[^22]: "चतुर्दशविधत्वं तु जातिभावस्वरूपोत्प्रेक्षायाः जात्यभावस्वरूपोत्प्रेक्षायाश्च गुणनिमित्तकत्वक्रियानिमित्तकत्वाभ्यां द्वैविध्यस्य अनङ्गीकारात्। अन्यथा षोडशविथत्वापत्तेः।"
+[^22]: # "चतुर्दशविधत्वं तु जातिभावस्वरूपोत्प्रेक्षायाः जात्यभावस्वरूपोत्प्रेक्षायाश्च गुणनिमित्तकत्वक्रियानिमित्तकत्वाभ्यां द्वैविध्यस्य अनङ्गीकारात्। अन्यथा षोडशविथत्वापत्तेः।"
 
  उपात्तगुणनिमित्तजातिभावस्वरूपोत्प्रेक्षा यथा—
 
@@ -864,8 +728,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 मालोक्य बिम्बलपतेरसकृद्भुजायाः।  
 मुञ्चन्ति भूवहनखिन्नमहामहीध्रा  
 मोदाश्रुपूरमिव निर्झरवारि भूरि॥**
-
-
 
  अत्र निर्झरे मोदाश्रुपूरत्वोत्प्रेक्षा। आलोकनक्रियाया निमित्तत्वम्।
 
@@ -885,7 +747,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **गोदवर्मयशोराशिविलासे व्याप्तरोदसि।  
 तमिस्राः परिदृश्यन्ते तमोविरहिता इव॥  
-अत्र तमिस्राणां तमोजातिराहित्यमुत्प्रेक्ष्यते। **
+अत्र तमिस्राणां तमोजातिराहित्यमुत्प्रेक्ष्यते।**
 
  जातिहेतूत्प्रेक्षा यथा—
 
@@ -901,11 +763,9 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **द्रुता दिगन्ताद्रिगुहासु लीना  
 द्विषज्जना बिम्बलभूमिपस्य।**  
 **गाढान्धकारच्छलतो निगूढाः  
-प्रतापभङ्गैरिव मूर्छितैः स्वैः॥**
+प्रतापभङ्गैरिव मूर्छितैः स्वैः॥ **
 
  अत्र दिगन्ताद्रिगुहावर्तिनां द्विषामाक्रान्तौ प्रतापभङ्गस्य प्रतापाभावस्य हेतुत्वमुत्प्रेक्ष्यते। अन्धकारेऽन्धकारत्वमपह्नुत्य प्रतापभङ्गत्वोत्प्रेक्षणात् सापह्नवहेतूत्प्रेक्षा।
-
-
 
  जातिफलोत्प्रेक्षा यथा—
 
@@ -927,7 +787,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **पाथोधिः प्रथमानबिम्बलपतिस्फारप्रतापानल-  
 प्रौढोष्माहितशोषणाद्ध्रुवमिमान्नाक्रामति क्ष्मामयम्।  
-कल्लोलावलिकेलिगुम्फितनभोभागारुरुक्षांजुषो  
+कल्लोलावलिकेलिगुम्फितनभोभागारुरुक्षाञ्जुषो  
 घोरस्यास्य जलाप्लुतौ सरभसं सेयं कियत्यन्यथा॥**
 
  अत्र महासमुद्रस्य महीमण्डलानाक्रमणे गोदवर्मनृपतेः प्रतापानलेन प्रतिदिन शोषणक्रियाया हेतुत्वमुत्प्रेक्ष्यते।
@@ -936,7 +796,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **नूनं महीमण्डलपालनाय  
 नेतुः परं बिम्बलभूमिभर्तुः।  
-सृष्टौभुजौ पङ्कजसम्भवेन  
+सृष्टौ भुजौ पङ्कजसम्भवेन  
 स्तम्भोपमौ संस्तुतजानुदेशौ॥**
 
  अत्र गोदवर्मनृपतेः आयतभुजसृष्टेर्महीमण्डलपालनक्रियारूपं फलमुत्प्रेक्ष्यते। गुणस्वरूपोत्प्रेक्षा यथा—
@@ -945,8 +805,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 मन्ये नृत्यज्जयरमामञ्जुभञ्जीरशिञ्जितम्॥**
 
  अत्र ज्यास्वने जयलक्ष्मीमञ्जीरशब्दगुणत्वमुत्प्रेक्ष्यते।
-
-
 
  गुणहेतूत्प्रेक्षा यथा—
 
@@ -990,28 +848,26 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **विषयो यत्र विषयिशब्देनैव प्रकीर्त्यते।  
 न पृथक् तत्र सा प्रोक्तातिशयोक्तिरनेकधा॥१७॥**
 
-
-
  यत्र विषयः पार्थक्येन न गृह्यते विषयिवाचकशब्देनैव गृह्यते कविप्रौढोक्त्या तत्रातिशयोक्तिः। पृथक् न गृह्यत इति उत्प्रेक्षाव्यावृत्तिः। अध्यवसायाप्राध्यान्ये उत्प्रेक्षा, अध्यवसितप्राधान्ये अतिशयोक्तिरिति विवेकः। सा पञ्चविधा— भेदे अभेदः, अभेदे भेदः, सम्बन्धे असम्बन्धः, असम्बन्धे सम्बन्धः, कार्यकारणपौर्वापर्यविपर्ययेण चेति।
 
  भेदे अभेदो यथा—
 
 **श्रीबिम्बलीशकुलसागरगर्भजन्मा  
 सोऽयं सुधांशुरवनीतलमण्डनार्हः।  
-जागर्त्ति साधु जनयन् जनलोचनानां  
+जागर्त्ति साधु जनयन् जनलोचनानाम्  
 आनन्दथुं सपदि कन्दलितस्वधाम्ना॥**
 
  अत्र सुधांशुशब्देन प्रकृतो नृपः परिगृह्यते इति अतिशयोक्तिः।
 
  अभेदे भेदो यथा—
 
-**अण्णं बिबंलणाअअस्स भुवणे धण्णं विअड्ढत्तणं  
+**अण्णं बिबंळणाअअस्स भुवणे धण्णं विअड्ढत्तणं  
 विण्णासो वअणाण वारिदसुहासण्णाण अण्णो विअ।  
 अण्णा कावि विवेअपुण्णसरणी भूरक्खणाणं पुणो  
-धज्जं सोहइ कंपि कोवि ललिओ विज्जाविलासो असे॥**
+धज्जं सोहइ कम्पि कोवि ळळिओ विज्जाविळासो असे॥**
 
 **अन्यद्बिम्बलनायकस्य भुवने धन्यं वैदग्ध्यं  
-विन्यासो वचनानां वारितसुधासंज्ञानामन्य एव।  
+विन्यासो वचनानां वारितसुधासञ्ज्ञानामन्य एव।  
 अन्या कापि विवेकपूर्णसरणिः भूरक्षणानां पुनः  
 धैर्यं शोभते किमपि कोऽपि ललितो विद्याविला(सश्च ? सो) अस्य॥**
 
@@ -1021,10 +877,8 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **गण्यां यद्यपि तारका घनपथाभ्यर्णावतीर्णार्णव–  
 क्षुभ्यद्भूतितरङ्गरिङ्खणलसत्पाथःकणाश्चोस्बणाः।  
-शक्यन्ते न तथापि पुङ्खितधियां संख्यावतां सत्तमैः  
-संख्यातुं भुवि गोदर्बमनृपतरश्लाघ्या गुणश्रेणयः॥**
-
-
+शक्यन्ते न तथापि पुङ्खितधियां सङ्ख्यावतां सत्तमैः  
+सङ्ख्यातुं भुवि गोदर्बमनृपतरश्लाघ्या गुणश्रेणयः॥**
 
 **गुम्फितं गुणसामग्र्यं गोदबर्मनृप ! त्वयि।  
 सौरभं सुमनःपुष्पे चन्द्रे ज्योत्स्ना च राजते॥**
@@ -1037,7 +891,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **सामान्यं द्विविधा सा साधर्म्यवैधर्म्यभेदतः।**
 
- यत्र वस्तुप्रतिवस्तुभावेन वाक्यार्थयोस्सामान्यं समानता तत्र प्रतिवस्तूपमा। वस्तुशब्दस्य वाक्यार्थवाचित्वात् प्रतिवस्तु प्रतिवाक्यार्थं उपमा यस्यामिति प्रतिवस्तूपमा। सा द्विविधा साधर्म्यवैधर्म्यभेदेन। क्रमेण यथा—
+ यत्र वस्तुप्रतिवस्तुभावेन वाक्यार्थयोस्सामान्यं समानता तत्र प्रतिवस्तूपमा। वस्तुशब्दस्य वाक्यार्थवाचित्वात् प्रतिवस्तु प्रतिवाक्यार्थम् उपमा यस्यामिति प्रतिवस्तूपमा। सा द्विविधा साधर्म्यवैधर्म्यभेदेन। क्रमेण यथा—
 
 **समा न हि नृपाः सर्वे गोदवर्मनृप ! त्वया।  
 भजन्ते किं नु मणयश्चिन्तामणिसमानताम्॥**
@@ -1061,8 +915,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  यत्र बिम्बप्रतिबिम्बभावेन वाक्यार्थयोस्सादृश्यं तत्र दृष्टान्तालङ्कारः। दृष्टोऽन्तो निश्चयो यत्र इति चान्वर्थाभिधानोऽयम्। स च पूर्ववद् द्विविधः। क्रमेण यथा—
 
-
-
 **स जयति रणसीम्नि गोदवर्मा  
 त्रसदरिभूषदुरापदोः प्रतापः।  
 विलसति वियदङ्कणे विवस्वान्  
@@ -1073,13 +925,13 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
  वैधर्म्येण यथा—
 
 **गुणाः परं विराजन्ते गोदवर्मनृपाश्रिताः।  
-विनिन्द्या एवते हारा वामास्तनविदूरिताः॥**
+विनिन्द्या एव ते हारा वामास्तनविदूरिताः॥**
 
- अत्रयथा तरुणीस्तनालङ्कारा एवहासः श्लाघ्याः तथा गोदवर्माश्रिता गुणा एव श्लाघ्याः॥
+ अत्र यथा तरुणीस्तनालङ्कारा एव हासः श्लाघ्याः तथा गोदवर्माश्रिता गुणा एव श्लाघ्याः॥
 
 **निदर्शनालङ्कारः।**
 
-**निदर्शना सम्भवता स्यादसंभवता द्विधा॥२१॥**
+**निदर्शना सम्भवता स्यादसम्भवता द्विधा॥२१॥**
 
 **धर्मयोगेन चाक्षेपे प्रतिबिम्बस्य वस्तुनोः।**
 
@@ -1097,16 +949,14 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 बहत्यवनिवज्रिणः प्रथमभूधरोदित्वर–  
 प्रसृत्वररुचिस्थिरप्रचुरपूर्णचन्द्रश्रियम्॥**
 
- अत्र उपमानपूर्णचन्द्रभूताया श्रियः प्रकृतकीर्तिच्छटायामसम्भवाद् तत्सदृशीं श्रियंबहतीति तयोर्बिम्बप्रतिबिम्बभावः आक्षिप्यते।
-
-
+ अत्र उपमानपूर्णचन्द्रभूताया श्रियः प्रकृतकीर्तिच्छटायामसम्भवाद् तत्सदृशीं श्रियं बहतीति तयोर्बिम्बप्रतिबिम्बभावः आक्षिप्यते।
 
  द्वितीयो यथा—
 
 **गोदवर्ममहीभर्तुः स्मितचारुमुखश्रियः।  
 फुल्लेषु परिदृश्यन्ते पङ्कजेष्वखिलेष्वपि॥**
 
- अत्र उपमेयप्रकृतराजमुखश्रीरूपधर्माणां उपमानेषु पङ्कजेष्वसम्भवात् तत्सदृशधर्मवत्त्वाक्षेपात् निदर्शनालङ्कारः॥
+ अत्र उपमेयप्रकृतराजमुखश्रीरूपधर्माणाम् उपमानेषु पङ्कजेष्वसम्भवात् तत्सदृशधर्मवत्त्वाक्षेपात् निदर्शनालङ्कारः॥
 
 **व्यतिरेकालङ्कारः।**
 
@@ -1114,7 +964,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **सति भेदप्रधानत्वे व्यतिरेकस्स कीर्तितः।**
 
- यत्र उपमानाद् उपमेयस्याधिक्यं वर्ण्यते तत्र भेदो वैलक्षण्यंतत्प्राधान्यात् व्यतिरेकालङ्कार इत्यर्थः। यथा—
+ यत्र उपमानाद् उपमेयस्याधिक्यं वर्ण्यते तत्र भेदो वैलक्षण्यं तत्प्राधान्यात् व्यतिरेकालङ्कार इत्यर्थः। यथा—
 
 **गोदवर्मनृपते त्वमिन्दुरप्यञ्च (तः?थ) कुंवलयैकरञ्जनम्।  
 नो विमुञ्चति कलङ्कितामयं निष्कलङ्कचरितो भवानिह॥**
@@ -1125,7 +975,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **यत्र प्रकृतयोरुक्त्यातिशयिन्या सहार्थतः॥२३॥**
 
-**अन्वये कल्पितौपम्यासहोक्तिस्तत्र गीयते।**
+**अन्वये कल्पितौपम्या सहोक्तिस्तत्र गीयते।**
 
  यत्र कार्यकारणपौर्वापर्यविपर्ययरूपया भेदेऽभेदाध्यवसायरूपया वा अतिशयोक्त्या एकस्य प्राधान्येन अपरस्य सहार्थेनान्वयः कल्पितौपम्यपर्यवसायि तत्र सहोक्तिः। अत्र द्वयोरपि प्रकृतत्वान्नोपमाशङ्का।
 
@@ -1140,8 +990,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **उद्धता बिम्बलीशेन बलाकृष्टा युधि द्विषः।  
 आनतिं यान्ति सहसा चापेन गुणिना सह॥**
-
-
 
  अत्र प्रणामनमनयोः आनतिशब्देन श्लिष्टेन अभेदः।
 
@@ -1176,14 +1024,12 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **विशदीकृतविपुलाशा स्पृहणीया सर्वराजकैर्विमला।  
 कीर्तिर्विहाय चान्यानुत्सङ्गं गोदवर्मणो याति॥**
 
- अत्र विशदीकृतविपुलाशेत्यादिविशेषणानां श्लिष्टत्वात् कीर्तेर्नायिकात्वम् गोदवर्मणो नायकत्वं च प्रतीयत इति।
+ अत्र विशदीकृतविपुलाशेत्यादिविशेषणानां श्लिष्टत्वात् कीर्तेर्नायिकात्वं गोदवर्मणो नायकत्वं च प्रतीयत इति।
 
  विशेषणसाधारण्याद्यथा—
 
 **आविर्भवद्रागविलोचनान्त–  
 अर्धोक्तिरम्योदितवाक्प्रपञ्चम्।**
-
-
 
 **श्लिष्टः क्रुधा सम्भृतरोमहर्षो  
 रणाजिरे राजति गोदवर्मा॥**
@@ -1228,21 +1074,19 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **अत्र श्लेषो भवेत्साम्ये विशेषणविशेष्ययोः।  
 विशेष्ययोश्च वाच्यत्वे तुल्ययोरेव स द्विधा॥२८॥**
 
-
-
- यत्र विशेषणविशेष्ययोः श्लेषः विशेष्ययोश्च तुल्यतया वाच्यत्त्वं तत्र श्लेषालङ्कारः। नाप्ययं तुल्ययोगिता। तस्यां विशेष्यांशे श्लेषाभावात्। अत्र तु द्वयोरिति वचनात् प्राकरणिकयोरप्राकरणिकयोरेव वा अभिधेयत्वेन श्लेषो द्विविधः। नात्र ध्वनिशङ्का। यत्र प्रकरणादिना प्रकृतार्थ एव शृङ्खलितायामभिधायां शब्दस्य अप्रकृताभिधानसामर्थ्याभावेऽपि अप्रकृतार्थप्रतीतिः तत्र ध्वनिः। अयं तु प्रयत्नादिभेदात् प्रातीतिक एव। अयं च शब्दान्यत्वे जतुकाष्ठन्यायेन स्वयमेव शब्दयोः श्लिष्टत्वात् शब्दश्लेषः। अत एव सभङ्गत्वम्। यत्र पुनः प्रयत्नादिभेदाभावात्शब्दैक्ये सति एकनालावलम्बिफलद्वयन्यायेन अर्थयोः श्लिष्टत्वं तत्रार्थश्लेषः। अत एवात्राभङ्गत्वमपि। शब्दपरिवर्त(न ? ना)सहत्वमर्थश्लेषस्य विषय इति काव्यप्रकाशकारस्य सिद्धान्तः। तदुक्तंकाव्यप्रकाशे।
+ यत्र विशेषणविशेष्ययोः श्लेषः विशेष्ययोश्च तुल्यतया वाच्यत्त्वं तत्र श्लेषालङ्कारः। नाप्ययं तुल्ययोगिता। तस्यां विशेष्यांशे श्लेषाभावात्। अत्र तु द्वयोरिति वचनात् प्राकरणिकयोरप्राकरणिकयोरेव वा अभिधेयत्वेन श्लेषो द्विविधः। नात्र ध्वनिशङ्का। यत्र प्रकरणादिना प्रकृतार्थ एव शृङ्खलितायामभिधायां शब्दस्य अप्रकृताभिधानसामर्थ्याभावेऽपि अप्रकृतार्थप्रतीतिः तत्र ध्वनिः। अयं तु प्रयत्नादिभेदात् प्रातीतिक एव। अयं च शब्दान्यत्वे जतुकाष्ठन्यायेन स्वयमेव शब्दयोः श्लिष्टत्वात् शब्दश्लेषः। अत एव सभङ्गत्वम्। यत्र पुनः प्रयत्नादिभेदाभावात् शब्दैक्ये सति एकनालावलम्बिफलद्वयन्यायेन अर्थयोः श्लिष्टत्वं तत्रार्थश्लेषः। अत एवात्राभङ्गत्वमपि। शब्दपरिवर्त(न ? ना)सहत्वमर्थश्लेषस्य विषय इति काव्यप्रकाशकारस्य सिद्धान्तः। तदुक्तं काव्यप्रकाशे।
 
 **“अनेकार्थस्य शब्दस्य वाचकत्वे नियन्त्रिते।  
 संयोगाद्यैरवाच्यार्थधीकृद्वाग्वृत्तिरञ्जनम्[^23]॥” इति॥**
 
-[^23]: "‘व्यापृतिरञ्जनम्’ इति मुद्रितपाठः।"
+[^23]: # "‘व्यापृतिरञ्जनम्’ इति मुद्रितपाठः।"
 
  प्रकृतश्लेषो यथा—
 
 **कान्तारागसमाकृष्टैर्भुक्ताहारविभूषणैः।  
 बिम्बलाधिप ! ते मित्रैः[^24] परा भूतिः प्रकाश्यते॥**
 
-[^24]: "‘तेऽमित्रैः पराभूतिः प्रकाश्यते’ इत्यन्वयः अमित्रपक्षे।"
+[^24]: # "‘तेऽमित्रैः पराभूतिः प्रकाश्यते’ इत्यन्वयः अमित्रपक्षे।"
 
  अत्र राज्ञो वितरणपराक्रमवर्णनाद् उभयोर्मित्रामित्रयोः प्रकृतत्वम्।
 
@@ -1251,23 +1095,19 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **समुन्नतास्सकटकास्सुवंशास्सूचितोदयाः।  
 तुल्यास्ते ते महिभूतो गोदवर्मक्षमाभृता॥**
 
- अत्र उपमानत्वेनअप्रकृतानां पर्वतानां नलादिनृपाणां च श्लेषः॥
+ अत्र उपमानत्वेन अप्रकृतानां पर्वतानां नलादिनृपाणां च श्लेषः॥
 
 **अप्रस्तुतप्रशंसालङ्कारः।**
 
 **अप्रस्तुते चाभिहिते प्रस्तुतं यत्र गम्यते।  
 अप्रस्तुतप्रशंसा सा सारूप्याद्यैस्त्रिधा मता॥२९॥**
 
- यत्राप्रस्तुतवर्णनात् प्रस्तुतं गम्यते तत्राप्रस्तुतप्रशंसा। अत्राप्रस्तुतवर्णनस्यानुचितत्वेऽपि प्रस्तुतपरत्वेन औचित्यात्॥ गम्यं प्रस्तुतं वाच्याप्रस्तुतसिद्ध्यङ्गम्। अप्रस्तुतादिति समासोक्तिव्यावृत्तिः। अप्रस्तुतात् प्रस्तुतप्रतीतावतिप्रसङ्गात् अर्थान्तर-
-
-
-
-प्रतीतिनिमित्तेन सम्बन्धेन भाव्यम्। स च सम्बन्धः सारूप्यं सामान्यविशेषभावः कार्यकारणभावश्चेति त्रिविधः। तत्रापि सादृश्यात्, सामान्याद्विशेषस्य, विशेषात् सामान्यस्य, कारणात् कार्यस्य, कार्यात् कारणस्येति पञ्च प्रकाराः।
+ यत्राप्रस्तुतवर्णनात् प्रस्तुतं गम्यते तत्राप्रस्तुतप्रशंसा। अत्राप्रस्तुतवर्णनस्यानुचितत्वेऽपि प्रस्तुतपरत्वेन औचित्यात्॥ गम्यं प्रस्तुतं वाच्याप्रस्तुतसिद्ध्यङ्गम्। अप्रस्तुतादिति समासोक्तिव्यावृत्तिः। अप्रस्तुतात् प्रस्तुतप्रतीतावतिप्रसङ्गात् अर्थान्तरप्रतीतिनिमित्तेन सम्बन्धेन भाव्यम्। स च सम्बन्धः सारूप्यं सामान्यविशेषभावः कार्यकारणभावश्चेति त्रिविधः। तत्रापि सादृश्यात्, सामान्याद्विशेषस्य, विशेषात् सामान्यस्य, कारणात् कार्यस्य, कार्यात् कारणस्येति पञ्च प्रकाराः।
 
  तत्र सारूप्येण यथा—
 
 **मूले तालद्रुमाणामिह किमिति वृथा खिद्यसे त्वं महीयान्  
-घोरैर्धर्मद्यतिकस्मरैःकाममातप्तवर्ष्मा।  
+घोरैर्धर्मद्यतिकस्मरैः काममातप्तवर्ष्मा।  
 मातङ्गानामधिप ! सुमनस्यन्दिमारन्दधारं  
 माकन्दद्रुं भज शिशिरित मञ्जुशाखाप्रपञ्चैः॥**
 
@@ -1280,7 +1120,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 उत्तरबिम्बलपतिना  
 प्रत्तस्वमनोरथाः प्रभो ! भवता॥**
 
- अत्र भो गोदवर्मनृप ! त्वत्कांक्षिण्यः सर्वाः कृतार्थीकृता इति सामान्यात् अहमेकैव त्वामेव चिरममिलषन्तीं त्वया न कृतार्थीकृतेति विशेषो गम्यते।
+ अत्र भो गोदवर्मनृप ! त्वत्काङ्क्षिण्यः सर्वाः कृतार्थीकृता इति सामान्यात् अहमेकैव त्वामेव चिरममिलषन्तीं त्वया न कृतार्थीकृतेति विशेषो गम्यते।
 
  विशेषात् सामान्यप्रतीतिर्यथा—
 
@@ -1298,8 +1138,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 धेनुर्दिव्या विनमितमुखी दीर्घकालाद्गतश्री-  
 र्जातश्चिन्तामणिरवनिगे गोदवर्मक्षितीन्द्रे॥**
 
-
-
  अत्र कार्येण दिग्गजादीनां दानराहित्यादिना तत्कारणस्य गोदवर्मवितरणवृत्तान्तस्य प्रतीतिः।
 
  कारणात् कार्यप्रतीतिर्यथा—
@@ -1311,7 +1149,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **अर्थान्तरन्यासालङ्कारः।**
 
-**उक्तेविशेषसामान्ये समर्थ्येते यदा तदा।  
+**उक्ते विशेषसामान्ये समर्थ्येते यदा तदा।  
 कथितोऽर्थान्तरन्यासस्सामान्याच्च विशेषतः॥३०॥**
 
  यत्र विशेषसामान्ययोरुक्तयोस्सामान्यविशेषाभ्यां तथाभूताभ्यां समर्थनं तत्रार्थान्तरन्यासः। यथा—
@@ -1326,8 +1164,8 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
  सामान्याद्विशेषसमर्थनं यथा—
 
 **वीर्यौदार्यपराक्रमैर्विमथितप्रत्यर्थिपृथ्वीपतिं  
-श्लाघाकंप्रशिरस्कभूपतिकुलं श्लाघ्यैर्गुणैरात्मनः।  
-वीरश्रीर्नजहाति जातुचिदपि श्रीगोदवर्भप्रभुं;  
+श्लाघाकम्प्रशिरस्कभूपतिकुलं श्लाघ्यैर्गुणैरात्मनः।  
+वीरश्रीर्न जहाति जातुचिदपि श्रीगोदवर्भप्रभुं;  
 काङ्क्षन्ते गुणशालिनं युवतयः कान्तं नितान्तोज्ज्वलम्॥**
 
  अत्र सर्वास्सुन्दर्यो गुणिनं कान्तं भजन्त इति सामान्योक्त्या वीरलक्ष्मीरभिरूपं गोदवर्मनृपमेवाश्रयते इति विशेषस्समर्थितः॥
@@ -1337,14 +1175,12 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **कार्याभिधानभङ्गीभिर्हेतोर्यत्र तु गम्यता।  
 पर्यायोक्तं बुधैः प्रोक्तन्तत्रालङ्कारकोविदैः॥३१॥**
 
-
-
  यत्र कार्याभिधानद्वारेण कारणं गम्यते तत्र पर्यायोक्तमित्यलङ्कारः। अस्य प्रतीयमानप्रस्ताव एव निरूपणमुचितम्। अप्रस्तुतप्रशंसायां पुनरप्रस्तुतात् कार्यात् प्रस्तुतस्य कारणस्य प्रतीतिः, अत्र उभयोः प्रस्तुतत्वमिति विवेकः। यथा—
 
 **भवति त्वद्रिपुनगरी गरीयसी गोदवर्मम (ही ? हि)पाल !।  
 लूतातन्तुवितानैरावृतवातायनप्रतीहारा॥**
 
- अत्र रिपुनगर्यां लूतातन्तुवितानावृतगवाक्षङ्कारत्वरूपकार्याभिधानभङ्ग्यारिपूणां बलायनं कारणं प्रतीयते॥
+ अत्र रिपुनगर्यां लूतातन्तुवितानावृतगवाक्षङ्कारत्वरूपकार्याभिधानभङ्ग्या रिपूणां बलायनं कारणं प्रतीयते॥
 
 **व्याजस्तुत्यलङ्कारः।**
 
@@ -1370,13 +1206,11 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **उक्तस्य वक्ष्यमाणस्य प्रकृतार्थस्य वा भवेत्।  
 निषेधाभास आक्षेपो विशेषोक्त्यै स च द्विधा॥३२॥**
 
-
-
  यत्र प्रकृतार्थस्य प्रकृतत्वादभिधित्सितस्य क्रियमाणः प्रतिषेधो बाधितत्वादाभासरूपो विशेषविधिमाक्षिपति तत्राक्षेपः। स च निषेधः उक्तवक्ष्यमाणगतत्वेन द्विविधः। तत्राप्युक्तविषये वस्तुनः कथनस्य वा निषेधः। वक्ष्यमाणविषये तु कथनमेव निषिध्यते न वस्तु। तत्रापि क्वचित् सामान्येनाभिधित्सितस्य कथननिषेधः क्वचित् कियदंशोक्तावंशान्तरस्य निषेध इति चतुर्विधोऽयसाक्षेपः।
 
  अत्र उक्तविषयवस्तुप्रतिषेधो यथा—
 
-**णाहणदूदी णाहं तह वि सअं एब्व तुह कहइस्स।  
+**णाहणदूदी णाहं तह वि सअम् एब्व तुह कहइस्स।  
 ताए स्थणम्मि, हास दत्था फुडिदा अ होति तावेण॥**
 
 **नाथनदूती नाहं तथापि स्वयमेव तव कथयिष्ये।  
@@ -1405,8 +1239,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **प्रणमत नृपसिंहं बिम्बलक्षोणिपालं  
 प्रकटितभुजभीमोद्दामधामाभिसमम्।**
 
-
-
 **विततविपिनग्राहो मा वृथा ताभिरुक्तं  
 किमिह बहुभिरुक्तैर्दैवतं चेत् प्रतीपम्॥**
 
@@ -1427,7 +1259,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **स्मृतो विरोधाभासत्वे विरोधो दशधा बुधैः॥३४॥**
 
- यत्र प्रथमं आपाततः प्रतीयमानो विरोधः पश्चात् परिह्रियते तत्र विरोधालङ्कारः। स च दशविधः। तत्र जातेर्जात्यादिभिर्विरोधे चत्वारो भेदाः, क्रियायाः क्रियादिविरोधे त्रयः, गुणस्य गुणद्रव्याभ्यां विरोधे द्वौ, द्रव्यस्यद्रव्येण बिरोधे त्वेको भेद इतिदशभेदाः। क्रमेण यथा—
+ यत्र प्रथमम् आपाततः प्रतीयमानो विरोधः पश्चात् परिह्रियते तत्र विरोधालङ्कारः। स च दशविधः। तत्र जातेर्जात्यादिभिर्विरोधे चत्वारो भेदाः, क्रियायाः क्रियादिविरोधे त्रयः, गुणस्य गुणद्रव्याभ्यां विरोधे द्वौ, द्रव्यस्य द्रव्येण बिरोधे त्वेको भेद इति दशभेदाः। क्रमेण यथा—
 
 **विमत्सरो गोदवर्मा विलसत्यजलाशयः।  
 तस्य प्रतापो भवति धनोऽपि रिपुतापकृत्॥**
@@ -1437,8 +1269,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **करी मदविहीनोऽयं तिग्महेतिः कलानिधिः।  
 गुणैर्जगद्गोदवर्मा रञ्जयत्यमलीकृतम्॥**
 
-
-
  अत्र करी मदविहीन इति जातिगुणयोर्विरोधः। तिग्महेतिः कलानिधिरिति जातिद्रव्ययोर्विरोधः। अमलीकृतं रञ्जयतीति क्रिययोर्विरोधः।
 
 **कुवलयविकासकारी भास्वद्रूपश्च बिम्बलाधिपतिः।  
@@ -1446,7 +1276,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अत्र कुवलयविकासकारी भास्वद्रूपश्च इति क्रियागुणयोर्विरोधः। अभिमन्युमदविनेतापि जिष्णुरिति क्रियाद्रव्ययोर्विरोधः।
 
-**नयशाली च भवति विनयेनसमन्वितः।  
+**नयशाली च भवति विनयेन समन्वितः।  
 प्रतापभीषणोऽप्येष राजा बिम्बलभूपतिः॥**
 
  अत्र नयशाली अपि विनयान्वित इति गुणयोर्विरोधः। प्रतापभीषणो राजा इति गुणद्रव्ययोर्विरोधः।
@@ -1462,22 +1292,20 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **प्रसिद्धहेतावसति कार्योत्पत्तिर्विभावना।**
 
- यत्र प्रसिद्धहेतुंविना कार्योत्पत्तिर्निबध्यते तत्र विभावनालङ्कारः। कारणं विना कार्योत्पत्तेरेवाभावात् प्रसिद्धेतरकारणगतत्वेनात्र कार्यवस्तुनः अस्तित्वसिद्धिः। अत एव विशिष्टतया प्रसिद्धेतरकारणाधीनतया कार्यस्य भावनाद् उत्पादनाद् विभावनेति अन्वर्थाभिधानेयम्। यथा—
+ यत्र प्रसिद्धहेतुं विना कार्योत्पत्तिर्निबध्यते तत्र विभावनालङ्कारः। कारणं विना कार्योत्पत्तेरेवाभावात् प्रसिद्धेतरकारणगतत्वेनात्र कार्यवस्तुनः अस्तित्वसिद्धिः। अत एव विशिष्टतया प्रसिद्धेतरकारणाधीनतया कार्यस्य भावनाद् उत्पादनाद् विभावनेति अन्वर्थाभिधानेयम्। यथा—
 
 **अपुष्पमिह सौरभं पुनरचन्द्रमाश्चन्द्रिका  
 बिनाकृतदिवाकरं दिनमवारि पङ्केरुहम्।  
 अवारिनीधिपूरभाव्यमृतमत्र संलक्ष्यते  
 वपुर्गुणगणाद्भुतं जगति बिम्बलक्ष्मापतेः॥**
 
-
-
- अत्र सौरभाद्रेःप्रसिद्धपुष्पादिकारणाभावेऽपि निरतिशयाह्लादादिजनकत्वेनोपनिबन्धः कृतः॥
+ अत्र सौरभाद्रेः प्रसिद्धपुष्पादिकारणाभावेऽपि निरतिशयाह्लादादिजनकत्वेनोपनिबन्धः कृतः॥
 
 **विशेषोक्त्यलङ्कारः।**
 
 **कार्यासिद्धिः कारणेऽपि विशेषोक्तिरितीर्यते॥३५॥**
 
- यत्र सति कारणापौष्कल्ये कार्यानुत्पादः तत्र विशेषोक्तिः। यदा सामग्र्यां सत्यामपि कार्यानुत्पादः तदा सामग्र्येव नास्तीति गम्यते। अतः कञ्चित् विशेषं प्रकाशयितुं सामग्र्यां सत्यामपि कार्यानुत्पाद उपनिबध्यते। विशेषप्रतिपादनायोक्तिर्विशेषोक्तिरिति यौगिकी संज्ञा। यथा—
+ यत्र सति कारणापौष्कल्ये कार्यानुत्पादः तत्र विशेषोक्तिः। यदा सामग्र्यां सत्यामपि कार्यानुत्पादः तदा सामग्र्येव नास्तीति गम्यते। अतः कञ्चित् विशेषं प्रकाशयितुं सामग्र्यां सत्यामपि कार्यानुत्पाद उपनिबध्यते। विशेषप्रतिपादनायोक्तिर्विशेषोक्तिरिति यौगिकी सञ्ज्ञा। यथा—
 
 **परितः प्रतापतपने स्फुरति श्रीबिम्बलक्षमाभर्तुः।  
 बिमलतरवारिधाराशैत्यं सर्वत्र जृम्भते सुतराम्॥**
@@ -1486,7 +1314,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **असङ्गत्यलङ्कारः।**
 
-**भिन्नाधिकरणत्वे हि कार्यहेत्वोरसंगतिः।**
+**भिन्नाधिकरणत्वे हि कार्यहेत्वोरसङ्गतिः।**
 
  यत्र कार्यकारणयोर्वैयधिकरण्यं तत्र असङ्गत्यलङ्कारः। यथा—
 
@@ -1510,14 +1338,12 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अत्र प्राचीनराजाश्रितानां कीर्त्यादीनां तत्तदाश्रयराहित्ये उपनिबन्धः कृतः।
 
-
-
  एकस्यानेकलक्ष्यत्वं यथा—
 
 **कराग्रजाग्रत्करवालिकोग्र-  
 श्रीगोदवर्मोत्तरबिम्बलीशः।  
 कान्तारशैलान्तजुषां द्विषां च  
-पुरस्तिरश्चापिचकास्ति पश्चात्॥**
+पुरस्तिरश्चापि चकास्ति पश्चात्॥**
 
  अत्र एकस्य गोदवर्मनृपस्य अनेकेषु देशेषु अनेकैर्भीतैश्शत्रुभिः लक्ष्यता।
 
@@ -1556,8 +1382,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  यत्र स्वविरुद्धफलप्राप्त्यै यत्नः क्रियते तत्र विचित्रालङ्कारः। यथा—
 
-
-
 **गोदवर्ममहीपालचरणाम्बुजयोः परे।  
 प्रणमन्ति नृपास्सर्वे प्रकृष्टां प्राप्तुमुन्नतिम्॥**
 
@@ -1569,7 +1393,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **तत्रान्योन्यालङ्कृतिः स्यादुक्ता विबुधसत्तमैः।**
 
- यत्रद्वयोः परस्परं क्रियाद्वारा उत्पाद्योत्पादकत्वं तत्रान्योन्यालङ्कारः। यथा—
+ यत्र द्वयोः परस्परं क्रियाद्वारा उत्पाद्योत्पादकत्वं तत्रान्योन्यालङ्कारः। यथा—
 
 **भूषणानि श्रियं यान्ति गोदवर्माङ्गसंश्रयात्।  
 तैर्भूषितो गोदवर्मा दधात्यद्भुतरूपताम्॥**
@@ -1603,10 +1427,8 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **रिपुस्त्रियामुत्तरबिम्बलेश-  
 नेतुः पदः पल्लवकोमलाः क्व।**
 
-
-
 **कामं कठोरोपलकण्टकाढ्या  
-कान्तारपङ्क्तिःक्व समिद्धदोषा॥**
+कान्तारपङ्क्तिः क्व समिद्धदोषा॥**
 
  अत्र वैरितरुणीमृदुपदानां विषमकण्टकितवनप्रदेशानां च मिथोऽननुरूपाणामत्र घटना निबध्यत इति विषमालङ्कारः॥
 
@@ -1644,8 +1466,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  यत्र कारणात् कार्यसमर्थनं तत्र काव्यलिङ्गालङ्कारः। कारणस्य वाक्यार्थत्वपदार्थत्वभेदेन काव्यलिङ्गं द्विविधम्।
 
-
-
  कारणस्य वाक्यार्थत्वे यथा—
 
 **कराला कापि भुजगी करवाललता तव।  
@@ -1671,7 +1491,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **प्रतापेन श्रिया कीर्त्त्या प्रौढ्या बिम्बलभूपतिः।  
 भानुं धनेशं पाकारिं भूधरेन्द्रं जयत्यसौ॥**
 
- अत्र प्रतापादिक्रमेणभान्वादेरनूद्देशात् यथासङ्ख्यालङ्कारः॥
+ अत्र प्रतापादिक्रमेण भान्वादेरनूद्देशात् यथासङ्ख्यालङ्कारः॥
 
 **कारणमालालङ्कारः।**
 
@@ -1691,8 +1511,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **एकावल्युत्तरेषां तु पूर्वपूर्वं प्रति क्रमात्॥४४॥**
 
 **विशेषणत्वकथनं यत्र तत्राभिधीयते।**
-
-
 
  यत्र पूर्वपूर्वं प्रति उत्तरोत्तरं क्रमेण विशेषणं भवति तत्र एकावल्यलङ्कारः। यथा—
 
@@ -1734,8 +1552,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  यत्र न्यूनाधिकसमैरधिकन्यूनसमानां विनिमयः तत्र परिवृत्त्यलङ्कारः। स त्रिविधः। तत्र न्यूनेनाधिकपरिवृत्तिर्यथा—
 
-
-
 **उत्तरबिम्बलधरणीबलशासन ! गोदवर्मनरपाल !  
 वैरिमहीपतयस्ते दत्वा भूमिं दिवं समाददते॥**
 
@@ -1773,8 +1589,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  अत्र नो भूधराः, न परत्र राज्ञीति वर्जनीयस्य शाब्दत्वम्।
 
-
-
  आर्थवर्जनीया प्रश्नपूर्विका यथा—
 
 **का वा जनानन्दकरी गुणाली गोदवर्मणः।  
@@ -1809,8 +1623,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 प्राचण्ड्ये गोदवर्मक्षितिरमणमणेर्भूरिशो जृम्भमाणे।  
 स्वैरं क्रीडद्विपक्षक्षितिपतितरुणीस्मेरवक्त्रेन्दुबिम्बै-  
 रामम्ले निष्कलङ्कैर्बत ! किमुत विधोरङ्कपङ्काङ्कितस्य॥**
-
-
 
  अत्र प्राकरणिकरिपुनृपतरुणीमुखेन्दुबिम्बवृत्तान्तेन अप्राकरणिकप्रसिद्धविधुवृत्तान्तोऽप्यर्थादापतति।
 
@@ -1854,8 +1666,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 फुल्लन्मल्लीप्रसूनत्यमरतरुकुले स्वच्छगुच्छत्यजस्रं  
 कीर्त्तिस्ते गोदवर्मक्षितिरमणमणे ! बिम्बलक्षोणिपाल !॥**
 
-
-
  यथा वा—
 
 **राजन्नुत्तरबिम्बलीश ! विमताञ्जेतुं त्वयि प्रस्थिते  
@@ -1891,11 +1701,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 उद्दामोद्यतदानवारिविलसद्दुर्दान्तदन्ताबल-  
 श्रेणीभीषणसैन्यनिर्गमकथा श्रोत्रागताभ्युच्चयः॥**
 
- अत्र राज्ञः सहजशौर्यमेव विपक्षक्षोभायालं, दैवात् भीषणसैन्यनिर्गमकथाश्रवणमपि अभ्युच्चयहेतुः॥
-
-
-
- तर्कवाक्यन्यायमूला निरूपिताः। इदानीं लोकन्यायाश्रयालङ्कारा निरूप्यन्ते।
+ अत्र राज्ञः सहजशौर्यमेव विपक्षक्षोभायालं, दैवात् भीषणसैन्यनिर्गमकथाश्रवणमपि अभ्युच्चयहेतुः॥ तर्कवाक्यन्यायमूला निरूपिताः। इदानीं लोकन्यायाश्रयालङ्कारा निरूप्यन्ते।
 
 **प्रत्यनीकालङ्कारः।**
 
@@ -1928,11 +1734,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **यदि वैकमनेकस्मिन्नेकस्मिन् वर्ततेऽथवा।  
 अनेकं तत्र पर्यायालङ्कृतिः प्रोच्यते बुधैः॥५६॥**
 
- यत्र एकम् अनेकस्मिन् क्रमेण वर्तते अनेकं वा एकस्मिन् तत्र पर्यायालङ्कारः। नात्र विशेषालङ्कारः। तत्र एकस्य अनेकत्र युगपद्वर्तनं, अत्र क्रमेणेति विवेकः। नापि
-
-
-
-समुच्चयः। तत्रापि एकत्रानेकेषां युगपद्वर्तनमिति भेदः। एकस्य अनेकत्र क्रमेण वर्तनं यथा—
+ यत्र एकम् अनेकस्मिन् क्रमेण वर्तते अनेकं वा एकस्मिन् तत्र पर्यायालङ्कारः। नात्र विशेषालङ्कारः। तत्र एकस्य अनेकत्र युगपद्वर्तनं, अत्र क्रमेणेति विवेकः। नापि समुच्चयः। तत्रापि एकत्रानेकेषां युगपद्वर्तनमिति भेदः। एकस्य अनेकत्र क्रमेण वर्तनं यथा—
 
 **कीर्तिः कृते नलमहीभृति नाहुषादौ  
 त्रेतायुगे दशरथादिनृपेषु पश्चात्।  
@@ -1969,8 +1771,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 त्वद्भाषितस्पर्ध्यमृतं सुमेषु-  
 स्त्वत्सन्निभो बिम्बलभूमहेन्द्र !॥**
 
-
-
  अत्रोपमेयस्य वक्त्रादेरुपमानत्वमिति द्वितीयं प्रतीपम्॥
 
 **मीलनालङ्कारः।**
@@ -2006,10 +1806,8 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 **उद्यत्त्वद्यशसां विलासविभवैरुद्दामवैशद्यभा-  
 द्बैतद्योतिवनेष्वशेषभुवनेष्वब्धिश्च दुग्धात्मकः।**
 
-
-
 **शेषः शारदचन्द्रमाः सुरसरित्स्वस्सिन्धुरः शङ्खराट्  
-कैलासश्च न दृक्पथे निपतितास्ते गोदवर्मप्रभो !॥ **
+कैलासश्च न दृक्पथे निपतितास्ते गोदवर्मप्रभो !॥**
 
  अत्र गोदवर्मणो यशोविलासैर्विशदीकृतेष्वशेषभुवनेषु दुग्धसमुद्रादयो न दृश्यन्ते इति सामान्यम्॥
 
@@ -2028,7 +1826,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **अतद्गुणालङ्कारः।**
 
-**सतिहेनावतद्रूपावाप्तिरुक्तो ह्यतद्गुणः॥६०॥**
+**सति हेनावतद्रूपावाप्तिरुक्तो ह्यतद्गुणः॥६०॥**
 
  यत्र सातिशयगुणं प्रस्तुतं वस्तु सन्निधानलक्षणहेतौ सत्यपि अन्यस्य गुणं न गृह्णाति तत्रातद्गुणः। नास्त्यप्रकृतस्य गुणोऽस्मिन्नित्यतद्गुणः। यथा—
 
@@ -2046,12 +1844,10 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
  यत्र प्रश्नपुरस्सरं गूढतया असम्भाव्यमानम् अप्रतीयमानमुत्तरमेकम्, असकृत्प्रश्नपूर्वकमुत्तरं द्वितीयम् उत्तरम्। आद्यं यथा—
 
-
-
 **गोदवर्ममहीपस्य सपत्नानां वने सताम्।  
 केऽसन्तोषकराः को वा भीतिदायी चमूरवः॥**
 
- अत्र चमूरवःइति गूढोत्तरम्।
+ अत्र चमूरवः इति गूढोत्तरम्।
 
  द्वितीयं यथा—
 
@@ -2062,7 +1858,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **उत्तरादूह्यते प्रश्नो यत्र तत्रान्यदुत्तरम्।**
 
- यत्र (प्रश्नादुत्तरम्? उत्तरात्प्रश्न) उन्नीयते तत्राप्युत्तरालङ्कारः। यथा—
+ यत्र (प्रश्नादुत्तरम् ? उत्तरात्प्रश्न) उन्नीयते तत्राप्युत्तरालङ्कारः। यथा—
 
 **तापशान्तिस्सखि ! कुतो दुर्गतायास्तनोर्मम।  
 कुतो मां गोदवर्मायमाश्लिष्यति भुजान्तरे॥**
@@ -2079,7 +1875,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **भानो ! किं मेरुशैलं विचरसि परितो वेगभूम्नानुवेलं ?  
 विन्ध्याद्रे ! भीतभीतो जगति विजयिनो बिम्बलक्षोणिभर्तुः।  
-का ते भीतिर्विवस्वन्! शृणु धरणिभृतां नाथ ! तद्वैरिवर्गा  
+का ते भीतिर्विवस्वन् ! शृणु धरणिभृतां नाथ ! तद्वैरिवर्गा  
 युद्धे खड्गाग्रकृत्ता सपदि परिपतन्त्युच्चकैर्मत्समीपम्॥**
 
  अत्र विन्ध्याद्रिभान्वोर्मिथः प्रश्नपूर्वमुत्तरम्॥
@@ -2092,8 +1888,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **रणं प्रयातुं रचितोद्यमानां विद्वेषिणां बिम्बलभूमिभर्तुः।  
 वामेषु नेत्रेषु तथा भुजेषु वेषो बभूवापरिहार्य एव॥**
-
-
 
  अत्र बामनेत्रादिकम्पेन भाविपराजयसूक्ष्मार्थः प्रकाश्यते॥
 
@@ -2114,7 +1908,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 वक्रोक्त्यलङ्कारः।
 
 **अन्योक्तं वाक्यमन्येन परथा योज्यते यदि।  
-काक्वाश्लेषेण वा तत्र वक्रोक्तिरभिधीयते॥६५॥**
+काक्वा श्लेषेण वा तत्र वक्रोक्तिरभिधीयते॥६५॥**
 
  यत्रान्येनोक्तं वाक्यमन्येन काकुश्लेषाभ्यां परथा योज्यते तत्र वक्रोक्त्यलङ्कारः। काका यथा—
 
@@ -2123,7 +1917,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 सन्तानकल्पद्रुमुखाः सुराणां  
 महीरुहास्ते न भजन्ति लज्जाम्॥**
 
- अत्र सुरद्रुमा न लज्जन्ते इत्यत्र काक्वालज्जन्त एवेत्यर्थात् वक्रोक्तिः।
+ अत्र सुरद्रुमा न लज्जन्ते इत्यत्र काक्वा लज्जन्त एवेत्यर्थात् वक्रोक्तिः।
 
  श्लेषेण यथा—
 
@@ -2131,8 +1925,6 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 भूभृद्वर्यः किमु हिमगिरिर्नो महीपाकवैरी।  
 देवेन्द्रः किं सुमुखि सखि ! नो बिम्बलक्ष्माधिपोऽयं  
 किं वा शीतद्युतिरिति वधूर्जोषमास्ते वचोभिः॥**
-
-
 
  अत्र सख्या श्लेषेण नायिकावचनस्यान्यश्चायोजनं कृतमिति वक्रोक्तिः॥
 
@@ -2173,11 +1965,9 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 नित्यं यत्करनिस्सृतैर्जलनिधिर्दानाम्बुभिस्सागरः  
 सोऽसावुत्तरबिम्बले विजयते श्रीगोदवर्मा नृपः॥**
 
+ अत्र अत्यद्भुतैश्वर्यम् अत्यद्भुतविश्राणनञ्च वर्णितमिति उदात्तालङ्कारः॥
 
-
- अत्र अत्यद्भुतैश्वर्यं अत्यद्भुतविश्राणनञ्च वर्णितमिति उदात्तालङ्कारः॥
-
- अथालङ्काराणां संसृष्टिसङ्करौ निरूप्येते। तेषां पृथक् चारुत्वहेतुत्त्वेऽपि परस्परसंघटनया विशिष्य किमपि रामणीयकमुन्मिषतीति अनयोरलङ्कारत्वम्।
+ अथालङ्काराणां संसृष्टिसङ्करौ निरूप्येते। तेषां पृथक् चारुत्वहेतुत्त्वेऽपि परस्परसङ्घटनया विशिष्य किमपि रामणीयकमुन्मिषतीति अनयोरलङ्कारत्वम्।
 
 **संसृष्ट्यलङ्कारः।**
 
@@ -2197,7 +1987,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
  बिजातीयसंसृष्टिर्यथा—
 
 **कीर्त्तिस्फूर्त्तिः कृतार्थीकृतनिखिलदिशामण्डली कुण्डलीश-  
-स्थेमक्षेमंकरश्री(श्च ? स्थ) लजलकलशांभोधिबिस्तारयित्री।  
+स्थेमक्षेमङ्करश्री(श्च ? स्थ) लजलकलशाम्भोधिबिस्तारयित्री।  
 हेलाकैलासशैलावृतिरमरधुनीपूरमापूरयन्ती  
 राकानाथैकशोभानिबहसहचरी जृम्भते बिम्बलीन्दोः॥**
 
@@ -2207,14 +1997,12 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 **नीरक्षीरनयेन स्वात सङ्करस्त्रिविधः स्मृतः॥६९॥**
 
- यत्र नीरक्षीरन्यायेनसमवायन्यायेन सम्बन्धः स सङ्करः। सच त्रिविधः— अङ्गाङ्गिभावेन, संशयेन, एकवाचकानुप्रवेशेन चेति। क्रमेण यथा—
+ यत्र नीरक्षीरन्यायेन समवायन्यायेन सम्बन्धः स सङ्करः। स च त्रिविधः— अङ्गाङ्गिभावेन, संशयेन, एकवाचकानुप्रवेशेन चेति। क्रमेण यथा—
 
 **बिमलतरवारिधारा बिम्बलभूभृत्करोद्धृता समिति।  
 पतति नृपेषु विरोधिष्वेनः पङ्कक्षयाय तेऽप्यमलाः॥**
 
  अत्र पुनःपङ्कक्षयायेत्युत्प्रेक्षयाः एनःपङ्केति रूपकस्य अमला इति श्लेषस्यापि अङ्गाङ्गिभावेन सङ्करः।
-
-
 
  सन्देहेन यथा—
 
@@ -2223,7 +2011,7 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 मण्डयन्ति किल मन्दिराजिरं  
 गन्धसिन्धुरगिरीन्द्रपङ्क्तयः॥**
 
- अत्र गन्धसिन्धुरगिरीन्द्रपङ्क्तय इत्यत्र गिरीन्द्रा इव गन्धसिन्धुरा इत्युपमा वा गन्धसिन्धुरा एवगिरीन्द्रा इति रूपकंवेतिसन्देहः।
+ अत्र गन्धसिन्धुरगिरीन्द्रपङ्क्तय इत्यत्र गिरीन्द्रा इव गन्धसिन्धुरा इत्युपमा वा गन्धसिन्धुरा एव गिरीन्द्रा इति रूपकं वेति सन्देहः।
 
  एकवाचकानुप्रवेशेन यथा—
 
@@ -2240,37 +2028,4 @@ etc[^21]"). from Kālidāsa's *Raghuvaṁśa*
 
 
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

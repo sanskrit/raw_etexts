@@ -3,10 +3,9 @@ title = "लक्ष्मीकान्तशिक्षा-२"
 domain = "वेदाङ्गानि"
 sub-domain = "शिक्षा"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3555"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDE4MTQ2NjYyMTQz&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[लक्ष्मीकान्तशिक्षा-२	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDE4MTQ2NjYyMTQz&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -20,7 +19,7 @@ lakshmikanta_shiksha_2
 समस्तलोकत्रितयार्तिहारिणी  
 करिष्यते वेदपदानि पाठतो  
 निरुप्य चोच्चश्वर निर्णयो मया १  
-अन्तोदात्तं पदं चेदमाद्युच्चमिदमीदृशम्  
+अन्तोदात्तं पदं चेदमाद्युच्चमिदमीदृशं  
 नियमो न कृतः कैश्चित्कस्मिंश्चित्स्वरलक्षणे २  
 एकादेशो यवादेश उदात्तस्संहितागमे  
 ओदेदलोप्युपात्तो यो विषयो लक्षणस्य सः ३  

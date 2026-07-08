@@ -3,10 +3,9 @@ title = "बोधिपथप्रदीपः"
 domain = "दर्शनानि"
 sub-domain = "बौद्धदर्शनम्"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3670"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3ODg2OTAyNjAzMjUz&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[बोधिपथप्रदीपः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3ODg2OTAyNjAzMjUz&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -100,7 +99,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3ODg2OTAyNjA
 अभिज्ञस्य दिवारात्रौ यानि पुण्यानि सन्ति वै ।  
 अभिज्ञायाश्च राहित्ये नैव जन्मशतेषु च ॥ ३७ ॥  
 शीघ्रं सम्बोधिसम्भारं सम्पूरयितुमिच्छति ।  
-निरालस्येन यत्नेनाभिज्ञां संसाधयेत्तु सं ॥ ३८ ॥  
+निरालस्येन यत्नेनाभिज्ञां संसाधयेत्तु सम् ॥ ३८ ॥  
 शमथसिद्धयभावेऽभिज्ञानं न जायते ।  
 अतः शमथसिद्धयर्थं यतितव्यं पुनः पुनः ॥ ३९ ॥  
 शमथङ्गप्रहीणत्वे तद्यत्नैर्भावितेऽपि च ।  
@@ -173,7 +172,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3ODg2OTAyNjA
 ----------------------------------------------------------------
 
 
-\\Z
+\Z
 
 
 

@@ -3,10 +3,9 @@ title = "काशीपञ्चकम्"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3007"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MjY5MDA3MDY2ODgy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[काशीपञ्चकम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MjY5MDA3MDY2ODgy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -33,7 +32,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MjY5MDA3MDY
 सा काशिकाहं निजबोधरूपा .. २..
 
 कोशेषु पञ्चस्वधिराजमाना  
-बुद्धिर्भवानी प्रतिदेहगेहम्
+बुद्धिर्भवानी प्रतिदेहगेहं
 
 साक्षी शिवः सर्वगतोऽन्तरात्मा  
 सा काशिकाहं निजबोधरूपा .. ३..

@@ -7,21 +7,25 @@ domain = "काव्यानि"
 sub-domain = "नाटकम्"
 pages = "114"
 language = "संस्कृतम्"
-printer = "गुजराती-प्रिन्टिंग-प्रेस्"
+printer = "गुजराती-प्रिण्टिङ्ग-प्रेस्"
 "serial no." = "Ebharati-5417"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5OTkxNTQ2MTEwMDI1&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[हम्मीरमदमर्दनम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDc5OTkxNTQ2MTEwMDI1&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 
-GAEKWAD'S ORIENTAL SERIES  
+**GAEKWAD'S ORIENTAL SERIES**  
 Edited under the supervision of  
 the Curator of State Librarics,  
 Baroda.  
 
+
+
+
 [TABLE]
+
+
 
 **जयसिंहसूरिविरचितं**
 
@@ -33,7 +37,7 @@ OF
 
 **—————**  
 BY  
-**CHIMANLAL D.DALAL, M. A.**  
+**CHIMANLAL D. DALAL, M. A.**  
 **SANSKRT LIBRARIAN, CENTRAL LIBRARY**
 
 **—————**
@@ -41,16 +45,22 @@ BY
 PUBLISHED UNDER THE AUTHORITY OF THE GOVERNMENT OF  
 HIS HIGHNESS THE MAHARAJA GAEKWAD OF BARODA.  
 
+
 **CENTRAL LIBRARY  
 B A R O D A.  
 1920.**
+
+
 
 Published by Janardan Sakharam Kudalkar, M. A., LL. B., Curator of State Libraries,  
 Baroda, for the Baroda Government, and Printed by Manilal Itcharam Desai, at  
 **The Gujarati Printing Press, No. 8, Sassoon Buildings,  
 Circle, Fort, Bombay.**  
 
+
 **Price Rs. 2-0-0**
+
+
 
 **INTRODUCTION.**
 
@@ -64,23 +74,15 @@ Circle, Fort, Bombay.**
 
 ** The Date of the Drama**.—The exact date of the composition of the drama cannot be fixed, but it must be put after Samvat 1276, the beginning Vastupala ministry and before Samvat 1286, the date of the present Ms.
 
-** The Ms. Material.**—The present edition is based on two Mss. of the drama— (1) palm leaf and (2) paper Ms. The palm leaf Ms. is preserved very zealously in the famous Bhandar in the fort at Jaisalmere. The other Ms. belongs to the Bhandar of the Vâḍi Pârsvanâtha'a temple at Pattan and is, as in the case of many Mss. of that Bhandar, a direct copy of the Jaisalmere palm leaf Ms. The palm leaf ms. consists of 116 leaves—(1) Hammîramadamardana folios 1–90. (2) Vastupâla-Tejahpâla Prasasti and (3) Stutikâvyas 1–16. One leaf seems to be missing at the end as the Stutikâvyas are not complete. The Ms. is well preserved but some letters here and there and one whole side
+** The Ms. Material.**—The present edition is based on two Mss. of the drama— (1) palm leaf and (2) paper Ms. The palm leaf Ms. is preserved very zealously in the famous Bhandar in the fort at Jaisalmere. The other Ms. belongs to the Bhandar of the Vâḍi Pârsvanâtha'a temple at Pattan and is, as in the case of many Mss. of that Bhandar, a direct copy of the Jaisalmere palm leaf Ms. The palm leaf ms. consists of 116 leaves—(1) Hammîramadamardana folios 1–90. (2) Vastupâla-Tejahpâla Prasasti and (3) Stutikâvyas 1–16. One leaf seems to be missing at the end as the Stutikâvyas are not complete. The Ms. is well preserved but some letters here and there and one whole side of a leaf are obliterated and it would have been very difficult to edit from this Ms. alone without the help of the paper Ms. The paper Ms. consists of 20 leaves— (1) Hammîramadamardana 1-15 a. (2) Prasasti 15b-18a. (3) Stutikâvyas 18b-20a. The paper Ms. seems to have been copied under the orders of Jinabhadra Sûri from the original palm leaf Ms. about Samvat 1480-1490 when copies of other works of the palm leaf Mss. removed by him to Jaisalmere were taken to Pattan. The present edition was undertaken only on the strength of the paper Ms. and the first form was even struck off. But in the meanwhile I had to go to examine the Jaisalmere Bhandars. Further printing of the work was, therefore, stopped, and when I went to Jaisalmere in October 1916, I carefully revised the press-copy with the help of the original palm leaf and paper Mss. Otherwise there would have remained many doubtful passages and mistakes particularly in the Prâkṛta portion.
 
-of a leaf are obliterated and it would have been very difficult to edit from this Ms. alone without the help of the paper Ms. The paper Ms. consists of 20 leaves— (1) Hammîramadamardana 1-15 a. (2) Prasasti 15b-18a. (3) Stutikâvyas 18b-20a. The paper Ms. seems to have been copied under the orders of Jinabhadra Sûri from the original palm leaf Ms. about Samvat 1480-1490 when copies of other works of the palm leaf Mss. removed by him to Jaisalmere were taken to Pattan. The present edition was undertaken only on the strength of the paper Ms. and the first form was even struck off. But in the meanwhile I had to go to examine the Jaisalmere Bhandars. Further printing of the work was, therefore, stopped, and when I went to Jaisalmere in October 1916, I carefully revised the press-copy with the help of the original palm leaf and paper Mss. Otherwise there would have remained many doubtful passages and mistakes particularly in the Prâkṛta portion.
+** Analysis of the Play.**—The play consists of five acts. It opens with a salutation to the Eternal Lustre. Then follows a dialogue between the stage manager and the actor. Jayantasinha, son of Vastupâla, has ordered the performance of a play with nine sentiments on the occasion of the festival of the procession of God Bhîmeśvara at Cambay. The Hammîramadamardana, composed by Jayasinha Sûri, pupil of Vîra Sûri of Broach, is decided to be acted on the occasion. The prelude being over, Vîradhavala and Tejahpâla enter the stage. Viradhavala praises his minister Vastupâla for his unique statesmanship. He remembers how Vastupâla had brought about friendship with Sri Sinha, ruler of Broach, who was formerly an enemy when he was afraid of the march of Sinhaṇa and the hopes of his getting help from the king of Malva were slackened. Tejahpâla replies that it was only due to the heroism of the lord that the intellect and tact of the ministers are successful. Viradhavala replies that he should not obscure his true description of the minister's tact by his over-praising his lord. Viradhavala then goes on to describe how Vastupâla had on former occasions foiled Sangrâmasinha, nephew of Sinha, the lord of Lâtadeśa and son of Sindhurâja, who had, remembering the enmity with his father, called in aid the army of Simhana in his attempt to attack his rear. Even now the situation is serious. On one side Sinhana encouraged by Samgrâmasinha is ready for march with his army. On the other side the Turushka warrior with a large cavalry, and the mighty-armed king of Malya too have marched. This compact of enemies from all sides can be scattered only if Vastupâla's intellect comes to help. Vastupâla now enters and begins to praise the enthusiasm which Lâvaṇyasinha, Tejahpâla's son, is displaying in state matters. He tells how some spies employed by Lavanyasinha without the knowledge of war-officers are roaming all throughout the country and kings play as puppets in their hands. Vîradhavala congratulates himself on this good fortune. Vastupâla and Tejahpâla, then, begin to praise the king, the latter specially referring to his feats of valour on the battle-field of Panchagrama. Viradhavala then tells of his intended march against the Turushka warrior Hammîra. Vastupâla warns hîm against the dangers of a hand-to-hand fight and of pursuing the enemy too tar. He, then, advises Viradhavala to start immediately and win over to his side the Mârvâr kings before they join the approaching lord of the Mlechchhas.
 
-** Analysis of the Play.**—The play consists of five acts. It opens with a salutation to the Eternal Lustre. Then follows a dialogue between the stage manager and the actor. Jayantasinha, son of Vastupâla, has ordered the performance of a play with nine sentiments on the occasion of the festival of the procession of God Bhîmeśvara at Cambay. The Hammîramadamardana, composed by Jayasinha Sûri, pupil of Vîra Sûri of Broach, is decided to be acted on the occasion. The prelude being over, Vîradhavala and Tejahpâla enter the stage. Viradhavala praises his minister Vastupâla for his unique statesmanship. He remembers how Vastupâla had brought about friendship with Sri Sinha, ruler of Broach, who was formerly an enemy when he was afraid of the march of Sinhaṇa and the hopes of his getting help from the king of Malva were slackened. Tejahpâla replies that it was only due to the heroism of the lord that the intellect and tact of the ministers are successful. Viradhavala replies that he should not obscure his true description of the minister's tact by his over-praising his lord. Viradhavala then goes on to describe how Vastupâla had on former occasions foiled Sangrâmasinha, nephew of Sinha, the lord of Lâtadeśa and son of Sindhurâja, who had, remembering the enmity with his father, called in aid the army of Simhana in his attempt to attack his rear. Even now the situation is serious. On one side Sinhana encouraged by Samgrâmasinha is ready for march with his army. On the other side the Turushka warrior with a large cavalry, and the mighty-armed king of Malya too have marched. This compact of enemies from all sides can be scattered only if Vastupâla's intellect comes to help. Vastupâla now enters and begins to praise the enthusiasm which Lâvaṇyasinha, Tejahpâla's son, is displaying in state matters. He tells how some spies employed by Lavanyasinha without the knowledge of war-officers are roaming all throughout the country and kings play as puppets in their hands. Vîradhavala congratulates himself on this good fortune. Vastupâla and Tejahpâla, then, begin to praise the king, the latter specially referring to his feats of valour on the battle-field
-
-of Panchagrama. Viradhavala then tells of his intended march against the Turushka warrior Hammîra. Vastupâla warns hîm against the dangers of a hand-to-hand fight and of pursuing the enemy too tar. He, then, advises Viradhavala to start immediately and win over to his side the Mârvâr kings before they join the approaching lord of the Mlechchhas.
-
-** Act II**.—Lavanyasinha enters. He tells how the Mârvâr kings, Somasinha, Udayasinha and Dhârâvarsha, on account of the quick march of Viradhavala arranged by his uncle, joined of their own accord the army and Bhîmasinha of Surashtra has quickly come to help. The king Vikramâditya and Sahajapâla, who had once formed a close coalition but were put at variance at the time of Sinhaṇa's attack, have also come vying with each other to please Viradhavala. Armies of other small chiefs, too, have also come up. Thus has borne fruit the desire-fulfilling herb in the form of the intellect of Vastupâla. The spy Nipuṇaka, then, enters and begins to relate how he has been able to effect a split between Sangrâmasinha and Sinhaṇa. He (Nipuṇaka) went to the camp of Sinhaṇa. His younger brother Suvega, who was, as previously arranged, serving under guise of the horse-keeper of Devapâla of Malva, stole away his best horse and gave it to Sangrâmasinha, who was leading the army of Sinhaṇa. Nipuṇaka then goes on to tell that he, too, entered the camp of Sinhaṇa saying that he was the spy Sucharita, who was deputed to watch the movements of the Gurjara king. He then told the king how the boundaries of the Gurjara Kingdom were ravaged by the marches of the army of Hammira, that King Vîradhavala had proceeded against him with forced marches and that there will be a fight within a week or so. Sinhaṇa was deligheed to hear this and intended to march over Gujarat but Nipuṇaka advised him that it would be easy to inflict a defeat on Viradhavala after the ranks of his army have been thinned in the battle with Hammîra, and that he should, therefore, divert himself for the time being in the forests of the Tapti, on the bifurcation of the roads leading to Malva and Gujarat. Sinhaṇa approved of this and encamped in the forest of the Tapti. Suvega under the guise of a Tâpasa came there and Sinhaṇa went to pay him his obeisance but in the meanwhile Suvega ran away. This created suspicion and he was caught by the king's soldiers. He was brought before the king and a letter addressed to Sangrâmasinha was found from his matted hair. It was mentioned in the letter that a horse marked with the name of Devapâla was sent as present to Sangrâmasinha by the Mâlava king and that the former remembering the murder of his father should draw his sword against Sinhaņa when the Mâlava king attacked Sinhaṇa on his entering Gujarat. Sinhaṇa asked Nipuņaka to ascertain the fact about the horse. Nipuṇaka informed Sangrâmasinha through Suvega that the king was angry with him. Sangrâmasinha, thus frightened, fled away. Here ends the prelude. Vatsupâla then enters the stage and begins to describe the bright fame of his lord. His spy Kuśalaka then enters and informs
-
-how Sangrâmasinha, seceded from Sinhana through Vastupâla's intellect, is proceeding to besiege Cambay. Vastupâla gives orders for the mobilization of the army for the protection of Cambay and calls Sangrâmasinha's minister Bhuvanaka before him. Bhuvanaka tells that his master is marching to the help of Vîradhavala. Bhuvanaka is then dismissed. Nipuņaka tells Vastupâla that he left Sangrâmasinha ready to cross the river Mahi. Vastupâla, after making arrangements for the protection of Dholka, proceeds to Cambay.
+** Act II**.—Lavanyasinha enters. He tells how the Mârvâr kings, Somasinha, Udayasinha and Dhârâvarsha, on account of the quick march of Viradhavala arranged by his uncle, joined of their own accord the army and Bhîmasinha of Surashtra has quickly come to help. The king Vikramâditya and Sahajapâla, who had once formed a close coalition but were put at variance at the time of Sinhaṇa's attack, have also come vying with each other to please Viradhavala. Armies of other small chiefs, too, have also come up. Thus has borne fruit the desire-fulfilling herb in the form of the intellect of Vastupâla. The spy Nipuṇaka, then, enters and begins to relate how he has been able to effect a split between Sangrâmasinha and Sinhaṇa. He (Nipuṇaka) went to the camp of Sinhaṇa. His younger brother Suvega, who was, as previously arranged, serving under guise of the horse-keeper of Devapâla of Malva, stole away his best horse and gave it to Sangrâmasinha, who was leading the army of Sinhaṇa. Nipuṇaka then goes on to tell that he, too, entered the camp of Sinhaṇa saying that he was the spy Sucharita, who was deputed to watch the movements of the Gurjara king. He then told the king how the boundaries of the Gurjara Kingdom were ravaged by the marches of the army of Hammira, that King Vîradhavala had proceeded against him with forced marches and that there will be a fight within a week or so. Sinhaṇa was deligheed to hear this and intended to march over Gujarat but Nipuṇaka advised him that it would be easy to inflict a defeat on Viradhavala after the ranks of his army have been thinned in the battle with Hammîra, and that he should, therefore, divert himself for the time being in the forests of the Tapti, on the bifurcation of the roads leading to Malva and Gujarat. Sinhaṇa approved of this and encamped in the forest of the Tapti. Suvega under the guise of a Tâpasa came there and Sinhaṇa went to pay him his obeisance but in the meanwhile Suvega ran away. This created suspicion and he was caught by the king's soldiers. He was brought before the king and a letter addressed to Sangrâmasinha was found from his matted hair. It was mentioned in the letter that a horse marked with the name of Devapâla was sent as present to Sangrâmasinha by the Mâlava king and that the former remembering the murder of his father should draw his sword against Sinhaņa when the Mâlava king attacked Sinhaṇa on his entering Gujarat. Sinhaṇa asked Nipuņaka to ascertain the fact about the horse. Nipuṇaka informed Sangrâmasinha through Suvega that the king was angry with him. Sangrâmasinha, thus frightened, fled away. Here ends the prelude. Vatsupâla then enters the stage and begins to describe the bright fame of his lord. His spy Kuśalaka then enters and informs how Sangrâmasinha, seceded from Sinhana through Vastupâla's intellect, is proceeding to besiege Cambay. Vastupâla gives orders for the mobilization of the army for the protection of Cambay and calls Sangrâmasinha's minister Bhuvanaka before him. Bhuvanaka tells that his master is marching to the help of Vîradhavala. Bhuvanaka is then dismissed. Nipuņaka tells Vastupâla that he left Sangrâmasinha ready to cross the river Mahi. Vastupâla, after making arrangements for the protection of Dholka, proceeds to Cambay.
 
 ** Act III**—Viradhavala and Tejahpâla enter. It is nearly the outbreak of dawn. Viradhavala goes on to describe the setting of the moon and says that the hostilities with the mighty end only in serious troubles. Viradhavala is anxious to get the news about Hammîra, who was to begin hostilities against the Mewar king Jayatala, who priding himself on the strength of his sword, had not joined him. Then enters the spy Kamalaka and tells how the whole Mewar was burnt by the soldiers of the enemy and how the people were killed with dismay by the entrance of ruthless Mlechchha warriors in the capital. Vîradhavala asks if Jayatala fought furiously against the enemy. Kamalaka with a smile tells that he sees others like himself just as a child on a seesaw sees others revolving like himself. Kamalaka, then, goes on to relate how there came forward no Kshatriya to their rescue. The people through terror preferred dying at their own hands. Some fell into wells, some set fire to their houses and burnt themselves, some hanged themselves, while others filled with anger fell on the enemy. Kamalaka, who was there in the guise of ǎ Turushka moved by the screams of the children, whom the cruel soldiers had begun to murder, at once cried out **"Fly away, fly away, Viradhavala is coming to the rescue of the people."** Hearing this the Turushka warrious fled away and the people began to look eagerly in all the directions, where Viradhavala was.m Kamalaka, then, removed his guise and told them that Viradhavala was fast approaching. The people encourged by him pursued the enemies, who ran away through fear of Viradhavala. Vîradhavala ascribes all this to the intellect of Vastupâla and says that it is through his plans that he has been able to conquer all his enemies except the Mlechchhas. Tejahpâla tells him not to worry himself about Hammîra, as Vastupâla has laid out plans for his discomfiture too.Viradhavala then marches to win over the allied kings.
 
-** Act IV.**—Two spies Kuvalayaka aud Sighraka in the guise of Turushkas enter. Sîghraka begins to praise the policy of Tejahpâla, which is purified by that of Vastupâla, and has scattered the whole circle of enemies. Sighraka then tells Kuvalayaka how he was sent by Tejahpâla to the Khaliph of Bagdad, the over-lord of all the Mlechcha tribes as a messenger came from Khapparkhana and told him that Mîlachchhrikâra through arrogance did not obey his orders. On hearing this the Khaliph sent him with an order to Khapparkhan to send Mîlachchhrîkâra to him in
-
-chains. Seeing this order Khappara Khan marched over the territories of Mlachchhrikâra. He acted as a secret spy of the son of Milachchhrikâra and informed him about this march and his son was sent to him to take this news to Milachchrikâra. Kuvalayaka also tells how he also won over the Gurjara chiefs Gulavâla, Pratapsinha &c. by telling them that Vîradhavala will give them the whole country of Turushkas when they are killed in battle. The whole circle of the enemy is thus shattered. Both of them depart to do their work. Here ends the interlude. Then enters Milachchhríkara troubled with feelings of anxiety, anger, grief and shame, with his minister Gori Isaph. Mîlachchhrikâra then tells the country of Mathurâ has been run over by the forces of Khappar Khan, who, taking advantage of his encounter with the enemy, is marching against him. The king of Gujarat, too, knowing the march of Khappar Khan is proceeding to meet him. He tells his minister that he has sent his two preceptors Radi and Kádi for the pacification of the anger of the Khaliph and asks his advice for further steps. The minister advises a retreat in order to protect his own country from Khappar Khan. Mîlachchhrîkâra is much enraged at this advice and says-**"Let my country go into the mouth of the devil. Let my son even meet a sudden death. I do not care for this."** Then a noise of the march of an army is heard. It is of the army of Viradhavala whose soldiers fall upon the army of Milachchhrikâra and search for Milachchhrîkâra and his minister. Then suddenly the voice of Viradhavala is heard and both of them fly away. Viradhavala enters with his bard who praises him for his valour. Vîradhavala is disappointed to find that the enemy has slipped out of his hands. The bard is then dismissed and Tejahpala is called in. Tejahpala enters praising the valour of Viradhavala. Viradhavala then tells that the enemy has filed away from his hands but will not go from the plans laid out by Vastupâla and then goes on to praise the intellect of Vastupâla.
+** Act IV.**—Two spies Kuvalayaka aud Sighraka in the guise of Turushkas enter. Sîghraka begins to praise the policy of Tejahpâla, which is purified by that of Vastupâla, and has scattered the whole circle of enemies. Sighraka then tells Kuvalayaka how he was sent by Tejahpâla to the Khaliph of Bagdad, the over-lord of all the Mlechcha tribes as a messenger came from Khapparkhana and told him that Mîlachchhrikâra through arrogance did not obey his orders. On hearing this the Khaliph sent him with an order to Khapparkhan to send Mîlachchhrîkâra to him in chains. Seeing this order Khappara Khan marched over the territories of Mlachchhrikâra. He acted as a secret spy of the son of Milachchhrikâra and informed him about this march and his son was sent to him to take this news to Milachchrikâra. Kuvalayaka also tells how he also won over the Gurjara chiefs Gulavâla, Pratapsinha &c. by telling them that Vîradhavala will give them the whole country of Turushkas when they are killed in battle. The whole circle of the enemy is thus shattered. Both of them depart to do their work. Here ends the interlude. Then enters Milachchhríkara troubled with feelings of anxiety, anger, grief and shame, with his minister Gori Isaph. Mîlachchhrikâra then tells the country of Mathurâ has been run over by the forces of Khappar Khan, who, taking advantage of his encounter with the enemy, is marching against him. The king of Gujarat, too, knowing the march of Khappar Khan is proceeding to meet him. He tells his minister that he has sent his two preceptors Radi and Kádi for the pacification of the anger of the Khaliph and asks his advice for further steps. The minister advises a retreat in order to protect his own country from Khappar Khan. Mîlachchhrîkâra is much enraged at this advice and says-**"Let my country go into the mouth of the devil. Let my son even meet a sudden death. I do not care for this."** Then a noise of the march of an army is heard. It is of the army of Viradhavala whose soldiers fall upon the army of Milachchhrikâra and search for Milachchhrîkâra and his minister. Then suddenly the voice of Viradhavala is heard and both of them fly away. Viradhavala enters with his bard who praises him for his valour. Vîradhavala is disappointed to find that the enemy has slipped out of his hands. The bard is then dismissed and Tejahpala is called in. Tejahpala enters praising the valour of Viradhavala. Viradhavala then tells that the enemy has filed away from his hands but will not go from the plans laid out by Vastupâla and then goes on to praise the intellect of Vastupâla.
 
 ** Act V** The chamberlain enters musing on his old age and thinking out means for diverting queen Jayataladevi, who is in a forlorn condition on account of the long separation from her lord Viradhavala. He hears the voice telling that Vîradhavala returns to Dholka with his heart filled with joy by the flight of Hammira. Then enter Viradhavala and Tejahpâla describing the places coming on their way to Dholaka. After passing over Mount Abu the seat of God Achaleśvara, the Vasishṭhâśrama and the ascetics living there, Chandrâvatî, the capital of the Parmâra kings, the sacred river Sarasvati and the temple of Bhadramahâkâla on it, Anhilavâda the capital of the Gurjara kings, Karnavatî on the banks of the Sabarmati held by Lâvaṇyaprasâd, they reach Dholka. Viradhavala alights in the pleasure-garden of his queen; while Tejahpâla enters the city in order to make preparations for the entry of the king. Viradhavala meets his queen Jayataladevi, pining through his separation. Vastupâla and Tejabpala enter suddenly to receive the king.
 
@@ -88,29 +90,19 @@ Tejahpâla tells Vastupâla that during his absence he consulted Yasovira, son o
 
  After the end of the drama the poet has added two poems telling us this attempt of his is as useless as that of besmearing the moon with sandle paste, throwing of milk in a pool of nectar and perfuming of flowers. The drama offered is sent to him by the Goddess of Learning Herself.
 
-** The Vastupâla-Tejahpâla-Prasasti.** The Praśasti seems to have been inscribed on a slab of stone in the Sakunikâvihâra in order to commemorate the gifts of Tejahpâla to the temple. The Prasasti begins with a salutation to Munisuvrata and Sudarsanâ and then goes on to describe the genealogy of the Chaulukyas from Mularâja forward to Viradhavala. Mûlarâja humbled the king of Kachchha and put to agitation the King of Sindh. Thirty-six kings came to wait on him daily. Châmundarâja decorated the earth with the heads of enemy-princes. His sword is compared to the well of the Goddess Harasiddhi, where the ruthless enemies, prepared for death, earned fame by pouring their blood. Of Bhimadeva, it is said that it was proper that on his attack the Goddess of Wealth left the heart, the Goddess of learning the
+** The Vastupâla-Tejahpâla-Prasasti.** The Praśasti seems to have been inscribed on a slab of stone in the Sakunikâvihâra in order to commemorate the gifts of Tejahpâla to the temple. The Prasasti begins with a salutation to Munisuvrata and Sudarsanâ and then goes on to describe the genealogy of the Chaulukyas from Mularâja forward to Viradhavala. Mûlarâja humbled the king of Kachchha and put to agitation the King of Sindh. Thirty-six kings came to wait on him daily. Châmundarâja decorated the earth with the heads of enemy-princes. His sword is compared to the well of the Goddess Harasiddhi, where the ruthless enemies, prepared for death, earned fame by pouring their blood. Of Bhimadeva, it is said that it was proper that on his attack the Goddess of Wealth left the heart, the Goddess of learning the mouth, and the sword the hand of Bhoja. Jayasinha's victory over the Målava King is referred to. Kumârapâla adopted Jainism, overcame Arņorâja with arrows, took Konkaṇa, enhanced the glory of Siva and stopped the practice of confiscating the wealth of those who died heirless. The child Mûlarâja fighting in the battlefield uprooted the enemies. Bhimadeva was very charitable. He made Lâvanyaprasâda son of Arnorâja, who has made enterprising in battles, his regent to revive the glory of his Kingdom. The poet then goes on to praise Lâvaṇyaprasâda's son Viradhavala. Vîradhavala requested King Bhîma to give him some good minister. King Bhima, therefore, told him—**"There flourished Chandapa of the Porwad clan, foremost among ministers, who was as it were, the ornament of the capital of Gujarat. The mighty plan of his intellect fulfilled the desires of the kings of Gujarat. His son Chanḍaprasâda is described as the favour of the Goddess of Learning. His fame extended to the three worlds. His son Soma was, as it were, a clear mirror of the council of Siddharâja. He believed in no God except Jina, no preceptor except Haribhadra and no lord except Siddharâja. He had through his wife Sîta a son named Asvarâja, who was much devoted to his mother. He has a son named Malladeva. His two younger brothers Vastupâla and Tejahpâla are working as my ministers. I shall give them to you as a matter of friendship."** Bhîma, thus, gave to Vîradhavala these two brothers like his dear wealth. Vastupâla overcame the army of Sinhaṇa with the valour of his hands. He erected an Indramaṇdapa before the God Rsabha on Mt. Śatrunjaya with the temples of Pârsvanâtha and Neminâtha on both the sides, a toraṇa on the temple on mt. Satrunjaya, a lake in Pâlitâna and Drkapâleka. He also built the temple of Nâbehya and Pârśva in the temple of Neminâtha and also restored the temple of Nâbheya- Neminâtha and Stambhaneśa. He built many other temples, wells, tanks, resting houses for yatis, gardens and places for drinking water and supplied golden staffs to many temples. Vastupâla consecrated the images of Pârsva- nâtha and Vîra in the Sakunikâvihâra at Broach. Tejahpâla once told his brother that Jayasinha Sûri had shown him, when he had been on a pilgri mage to Broach, twenty-five devakulikâs without golden staffs, and asked his permission to supply them. Vastupâla granted the request and Tejahpâla supplied twenty-five golden staffs. The poet then goes on to praise the brothers for this gift.
 
-mouth, and the sword the hand of Bhoja. Jayasinha's victory over the Målava King is referred to. Kumârapâla adopted Jainism, overcame Arņorâja with arrows, took Konkaṇa, enhanced the glory of Siva and stopped the practice of confiscating the wealth of those who died heirless. The child Mûlarâja fighting in the battlefield uprooted the enemies. Bhimadeva was very charitable. He made Lâvanyaprasâda son of Arnorâja, who has made enterprising in battles, his regent to revive the glory of his Kingdom. The poet then goes on to praise Lâvaṇyaprasâda's son Viradhavala. Vîradhavala requested King Bhîma to give him some good minister. King Bhima, therefore, told him—**"There flourished Chandapa of the Porwad clan, foremost among ministers, who was as it were, the ornament of the capital of Gujarat. The mighty plan of his intellect fulfilled the desires of the kings of Gujarat. His son Chanḍaprasâda is described as the favour of the Goddess of Learning. His fame extended to the three worlds. His son Soma was, as it were, a clear mirror of the council of Siddharâja. He believed in no God except Jina, no preceptor except Haribhadra and no lord except Siddharâja. He had through his wife Sîta a son named Asvarâja, who was much devoted to his mother. He has a son named Malladeva. His two younger brothers Vastupâla and Tejahpâla are working as my ministers. I shall give them to you as a matter of friendship."** Bhîma, thus, gave to Vîradhavala these two brothers like his dear wealth. Vastupâla overcame the army of Sinhaṇa with the valour of his hands. He erected an Indramaṇdapa before the God Rsabha on Mt. Śatrunjaya with the temples of Pârsvanâtha and Neminâtha on both the sides, a toraṇa on the temple on mt. Satrunjaya, a lake in Pâlitâna and Drkapâleka. He also built the temple of Nâbehya and Pârśva in the temple of Neminâtha and also restored the temple of Nâbheya- Neminâtha and Stambhaneśa. He built many other temples, wells, tanks, resting houses for yatis, gardens and places for drinking water and supplied golden staffs to many temples. Vastupâla consecrated the images of Pârsva- nâtha and Vîra in the Sakunikâvihâra at Broach. Tejahpâla once told his brother that Jayasinha Sûri had shown him, when he had been on a pilgri mage to Broach, twenty-five devakulikâs without golden staffs, and asked his permission to supply them. Vastupâla granted the request and Tejahpâla supplied twenty-five golden staffs. The poet then goes on to praise the brothers for this gift.
+** The Sukritakirtikallolini.**—This is a Prasasti composed by Udayaprabha Sûri the religious preceptor of Vastupâla. As its name implies it is an eulogy of the pious deeds and the glory of the two brothers Vastupâla and Tejahpala. It seems to have been composed on the occasion of Vastupâla's pilgrimage to Satrunjaya and he inscribed the Prasasti on a slab of stone in the Indra-Mandapa erected by him. Notwithstanding its high poetic merits, the Prasasti is very important for its historical value. Like the Sukṛtasankirtana of Arisinha it gives the genealogy of Vastupala and describes both the Chapot- kata and the Chalukya kings. The other important works of our author are Dharmâbhyudaya or Sanghâdhipaticharitramahâkavya composed on the occasion of Vastupâla's pilgrimage, Arambha Siddhi a work on Jyotisha and Upadeśamâlâ Karṇikâ a commentary on the Upadeśamâlâ composed in Samvat 1299.
 
-** The Sukritakirtikallolini.**—This is a Prasasti composed by Udayaprabha Sûri the religious preceptor of Vastupâla. As its name implies it is an eulogy of the pious deeds and the glory of the two brothers Vastupâla and Tejahpala. It seems to have been composed on the occasion of Vastupâla's pilgrimage to Satrunjaya and he inscribed the Prasasti on a slab of stone in the Indra-Mandapa erected by him. Notwithstanding its high poetic merits, the Prasasti is very important for its historical value. Like the Sukṛtasankirtana
+** Summary of the Historical Events Mentioned in the Sukrtakirtikallolinî**— After offering salutation to the Jinas aud the Goddess of learuing, the poet begins to describe the kings of Gujarat. There arose some heroic warrior from the forest, King Vanarâja by name, conquered by whose glory even in his infancy the sun did not remove the shade of the tree to which his swing was tied. He, both a king (also moon) and a hero (also the Sun) with his increasing glory in the west, fulfilled the vow of the King of Kanoj, who was collecting the revenues of Gujarat through his daughter vowing that there would be government in the country when the Sun and the Moon ever rose in the west. He built a new capital named Anahilapâtaka and a temple named Panchâsara. Yogarâja, Ratnâditya, Vairisinha, Kshemarâja, Châmuņdarâja, Âhada, and Bhûbhata lord of Pahlû successively succeed him. Then came to the throne his sister's son Mûlarâja who built the temple of Tripurusha-prâsâda and defeated Laksha, King of Sindhu. Vallabharâja's victory over the Mâlava king and his appellation of Jagatjhampana are noted. Jayasinha's killing of Barbara in the precinets of the towns is extolled. Kumârapâla conquered Arnorâja the king of Jângala, the king of Konkan and built temples on mountain. Mularâja took tribute from Hammira (Amin of Sindh) and defeated Hamîr (Amir of Sindh?) and defeated the Turushkas. His brother Bhima, who succeeded him, was very charitable. Considering that Arnorâja son of Dhavala, the chief of Bhîmapalli, who was an object of Kumârapâla's favour, made him king, Bhîma entrusted his kingdom to Lavaṇaprasâda, son of Arnorâja who killed in battle the kings of Naddul and Chandrâvatî. The poet, then, goes on to eulogise the glory and heroism of Lavaṇaprasâda and his son Vîradhavala. Vîradhavala once asked him that in the Prâgvâta clan there flourished one Chaṇdapa. His son was Chandaprasâda. His wife Jayaśrî was much devoted to the worship of the Jinas. They had two sons, Sura and Soma who acknowledged no God except Jina and no lord except Siddharâja. Soma's wife was Sîta. Through her he got a son named Âśârâja. His wife was Kumâradevî. They had four sons and seven daughters. Of the four sous Lâvaṇyânga (Luniga) died in infancy. His younger brother was Malladeva. His younger brother Vastupala is endowed with great intellect and his next younger brother is Tejahpâla who appreciates literary works and is charitable. His intellect, subverting the schemes of enemy-kings, leads to the advance of the kings whom he serves. The councillors told him to make him the chief of the ministers. The poet then praises Tejahpâla and his elder brother who protects the State when Viradhavala was out on expeditions and routed Sankha alias Sangrâmasinha, son of Sindhurâja. The pilgrim- age of Vastupâla is then described. It was customary for the pilgrims to give something out of courtesy to the Tâpasas of Mt. Girnar. This was, in course of time, made as a tax on pilgrims by them. Hearing this Tejahpâla called the Tâpasas and giving them 2500 drammas got this tax removed. Bhîmasinha, the king of Sorath, gave up the tax on the Jain temples for the religious merits of his parents but Tejahpâla gave him a sum of 500 for the protection of the Tirtha. The poet, then, gives the lineage of the spiritual preceptor of the brothers. There was in the Nâgendragaccha, Mahendrasûri, well read in all the scriptures. His pupil was Sântisûri. His two pupils Ânandachandrasûri and Amarachandra Sûri were known as tiger-cubs in dialectics. Haribhadra Sûri succeeded them. After him came Vijayasena Sûri. Through his religious lecturesthe brothers began to build a series of religious places-Indramaṇdapa with temples of Stambhanapârsvanâtha and Neminâtha of Mt. Girnar by the sides of the temple of Adinatha on Mt. Shatrunjaya with images of their ancestors. Behind the image of Âdinatha he erected a Prshthaputa of gold and in the front an image representing Mahâvîra at Sachor. He also dug a tank in Pâlitânâ. He built at Dholka a temple on the model of the temple on the Satrunjaya and the Panchâsara temple in the Capital of Gujarat. He built the temple of Aśvâvatâra and consecrated therein the image of Munisuvrata and a prapa in the village of Ankavilaya, which was given over by royal order to the temple on mt. Satrunjaya. He built many Paushadha Salâs and restored the temple of Pârsvanâ tha at Stambhana (Skâmṇa near Umreth) and 19 golden capitals taken away by a general of the King of Målva from the temple of Vaidyanatha at Dabhoi. There he raised images of Vîradhavala and his wife Jayataladevi, of Malladeva, Tejahpâla and himself.
 
-of Arisinha it gives the genealogy of Vastupala and describes both the Chapot- kata and the Chalukya kings. The other important works of our author are Dharmâbhyudaya or Sanghâdhipaticharitramahâkavya composed on the occasion of Vastupâla's pilgrimage, Arambha Siddhi a work on Jyotisha and Upadeśamâlâ Karṇikâ a commentary on the Upadeśamâlâ composed in Samvat 1299.
-
-** Summary of the Historical Events Mentioned in the Sukrtakirtikallolinî**— After offering salutation to the Jinas aud the Goddess of learuing, the poet begins to describe the kings of Gujarat. There arose some heroic warrior from the forest, King Vanarâja by name, conquered by whose glory even in his infancy the sun did not remove the shade of the tree to which his swing was tied. He, both a king (also moon) and a hero (also the Sun) with his increasing glory in the west, fulfilled the vow of the King of Kanoj, who was collecting the revenues of Gujarat through his daughter vowing that there would be government in the country when the Sun and the Moon ever rose in the west. He built a new capital named Anahilapâtaka and a temple named Panchâsara. Yogarâja, Ratnâditya, Vairisinha, Kshemarâja, Châmuņdarâja, Âhada, and Bhûbhata lord of Pahlû successively succeed him. Then came to the throne his sister's son Mûlarâja who built the temple of Tripurusha-prâsâda and defeated Laksha, King of Sindhu. Vallabharâja's victory over the Mâlava king and his appellation of Jagatjhampana are noted. Jayasinha's killing of Barbara in the precinets of the towns is extolled. Kumârapâla conquered Arnorâja the king of Jângala, the king of Konkan and built temples on mountain. Mularâja took tribute from Hammira (Amin of Sindh) and defeated Hamîr (Amir of Sindh?) and defeated the Turushkas. His brother Bhima, who succeeded him, was very charitable. Considering that Arnorâja son of Dhavala, the chief of Bhîmapalli, who was an object of Kumârapâla's favour, made him king, Bhîma entrusted his kingdom to Lavaṇaprasâda, son of Arnorâja who killed in battle the kings of Naddul and Chandrâvatî. The poet, then, goes on to eulogise the glory and heroism of Lavaṇaprasâda and his son Vîradhavala. Vîradhavala once asked him that in the Prâgvâta clan there flourished one Chaṇdapa. His son was Chandaprasâda. His wife Jayaśrî was much devoted to the worship of the Jinas. They had two sons, Sura and Soma who acknowledged no God except Jina and no lord except Siddharâja. Soma's wife was Sîta. Through her he got a son named Âśârâja. His wife was Kumâradevî. They had four sons and seven daughters. Of the four sous Lâvaṇyânga (Luniga) died in infancy. His younger brother was Malladeva. His younger brother Vastupala is endowed with great intellect and his next younger brother is Tejahpâla who appreciates literary works and is charitable. His intellect, subverting the schemes of enemy-kings, leads to the advance of the kings whom he serves. The councillors told him to make him the chief of the ministers. The poet then praises Tejahpâla and
-
-his elder brother who protects the State when Viradhavala was out on expeditions and routed Sankha alias Sangrâmasinha, son of Sindhurâja. The pilgrim- age of Vastupâla is then described. It was customary for the pilgrims to give something out of courtesy to the Tâpasas of Mt. Girnar. This was, in course of time, made as a tax on pilgrims by them. Hearing this Tejahpâla called the Tâpasas and giving them 2500 drammas got this tax removed. Bhîmasinha, the king of Sorath, gave up the tax on the Jain temples for the religious merits of his parents but Tejahpâla gave him a sum of 500 for the protection of the Tirtha. The poet, then, gives the lineage of the spiritual preceptor of the brothers. There was in the Nâgendragaccha, Mahendrasûri, well read in all the scriptures. His pupil was Sântisûri. His two pupils Ânandachandrasûri and Amarachandra Sûri were known as tiger-cubs in dialectics. Haribhadra Sûri succeeded them. After him came Vijayasena Sûri. Through his religious lecturesthe brothers began to build a series of religious places-Indramaṇdapa with temples of Stambhanapârsvanâtha and Neminâtha of Mt. Girnar by the sides of the temple of Adinatha on Mt. Shatrunjaya with images of their ancestors. Behind the image of Âdinatha he erected a Prshthaputa of gold and in the front an image representing Mahâvîra at Sachor. He also dug a tank in Pâlitânâ. He built at Dholka a temple on the model of the temple on the Satrunjaya and the Panchâsara temple in the Capital of Gujarat. He built the temple of Aśvâvatâra and consecrated therein the image of Munisuvrata and a prapa in the village of Ankavilaya, which was given over by royal order to the temple on mt. Satrunjaya. He built many Paushadha Salâs and restored the temple of Pârsvanâ tha at Stambhana (Skâmṇa near Umreth) and 19 golden capitals taken away by a general of the King of Målva from the temple of Vaidyanatha at Dabhoi. There he raised images of Vîradhavala and his wife Jayataladevi, of Malladeva, Tejahpâla and himself.
-
-** Sinhana the Yadava king and the Relations between the Yadava and Gurjara Empires.**—Singhaņa or Sinhaṇa was the Yâdava king of Devagiri, who ruled from A. D. 1169 to 1247. The kingdoms of Gujarat and Deva- giri were neighbours. The powerful Yadava king taking advantage of King Bhima invaded the southern frontier of the Gurjara empire which lay adjacent to their territories. It is not certain how many attacks were made. The **"Kirtikaumudi"** tells of one attack of Sinhaņa as far as the banks of the Narbudâ when Lavanaprasâda and Vîradhavala were engaged in putting down the rebellion of the Marvar kings. The Hammframadamardana says that at this time he was invited by Sankha. The same drama relates another invasion of Sinhaņa as far as the banks of the Tapti, when Viradhavala was engaged in repulsing an attack of the Mahamodans. The Vasantavilâsa besides the invasion in the Kîrtikaumudî, mentions another invasion as far as Broach, when Śankha was taken as a prisoner. The Lekhapanchâśikân gives an illustration of the form of a treaty or an alliance signed between Sinhana and
-
-Viradhavala. As the writer has in this work put Samvat 1288 throughout, it is to be considered as the date of making the collection and not that of the events. The date 1288 is thus not to be taken as the actual date of the treaty. If even such a treaty was signed, it was merely a truce because from the Biruda **"the volcanic fire to day at the ocean of the army of Sinhana.”**of Visaladeva given in a grant of his reign dated Samvat 1317, it must be un- derstood that Sinhaṇa might have once more attacked Gujarat in Visaladeva's time and might have been defeated by him. In an inscription at Amhem two invasions of Sinhaņa over Gujarat are referred to. Herein a Brahman chief named Koleśvara is spoken of as having hurt the pride of the Gurjara prince and his son Râma led, as a general of Sinhaṇa, an expedition of Gujarat. Râma advanced upto the Narbada where a battle was fought and Rama was killed. It appears from the Prasasti to the Vratakhanda of Hemâdri that hostilities between the two empires continued even during the times of Sinhaṇa's successors. Later on we find the last of the Gurjara king Karaṇa when defeated by Allaudin, taking refuge in the fort of Baglan, and planning a marriage of his daughter with Sankaradeva, son of Râniadeva, successor of Malladeva.
+** Sinhana the Yadava king and the Relations between the Yadava and Gurjara Empires.**—Singhaņa or Sinhaṇa was the Yâdava king of Devagiri, who ruled from A. D. 1169 to 1247. The kingdoms of Gujarat and Deva- giri were neighbours. The powerful Yadava king taking advantage of King Bhima invaded the southern frontier of the Gurjara empire which lay adjacent to their territories. It is not certain how many attacks were made. The **"Kirtikaumudi"** tells of one attack of Sinhaņa as far as the banks of the Narbudâ when Lavanaprasâda and Vîradhavala were engaged in putting down the rebellion of the Marvar kings. The Hammframadamardana says that at this time he was invited by Sankha. The same drama relates another invasion of Sinhaņa as far as the banks of the Tapti, when Viradhavala was engaged in repulsing an attack of the Mahamodans. The Vasantavilâsa besides the invasion in the Kîrtikaumudî, mentions another invasion as far as Broach, when Śankha was taken as a prisoner. The Lekhapanchâśikân gives an illustration of the form of a treaty or an alliance signed between Sinhana and Viradhavala. As the writer has in this work put Samvat 1288 throughout, it is to be considered as the date of making the collection and not that of the events. The date 1288 is thus not to be taken as the actual date of the treaty. If even such a treaty was signed, it was merely a truce because from the Biruda **"the volcanic fire to day at the ocean of the army of Sinhana.” **of Visaladeva given in a grant of his reign dated Samvat 1317, it must be un- derstood that Sinhaṇa might have once more attacked Gujarat in Visaladeva's time and might have been defeated by him. In an inscription at Amhem two invasions of Sinhaņa over Gujarat are referred to. Herein a Brahman chief named Koleśvara is spoken of as having hurt the pride of the Gurjara prince and his son Râma led, as a general of Sinhaṇa, an expedition of Gujarat. Râma advanced upto the Narbada where a battle was fought and Rama was killed. It appears from the Prasasti to the Vratakhanda of Hemâdri that hostilities between the two empires continued even during the times of Sinhaṇa's successors. Later on we find the last of the Gurjara king Karaṇa when defeated by Allaudin, taking refuge in the fort of Baglan, and planning a marriage of his daughter with Sankaradeva, son of Râniadeva, successor of Malladeva.
 
  From this it would appear that the kings of Devagiri and Gujarat were often at war with each other. Attracted by the internal mismanagement of the Gurjara empire, the Yâdava kings ran over the territories of Gujarat ad- joining their countries and at the best could reach as far as Broach. There they seem to have been checked and pitched-battle took place. Sometimes the Yâdava armies were repulsed and sometimes they have been propitiated with presents. Notwithstanding this there were times of truces and these peace ful times tended to a freer communication between the capitals of both the empires. Jahlaṇa the commander of troops and elephants of the Yadava king Krishna, has included in his work Sûktimuktâvalî the poems of many authors of Gujarat-Hemachandra, Siddharâja, Śripâla, Somaprabha, Vastupâla, Arasî Thakara, Vijayapâla etc.
 
  The works composed at the capital of Gujarat also found their way in the capital of the Yâdava king as is attested by the ms. of Vardhamâna's Guņa-ratnamahodadhi written at Devagiri in Saka 1151 (1229 A. D.) in Sinhaņa's time. From the Jain works, moreover, we find that many Jain merchants of the capital of Gujarat went to Devgiri on business and built temples there.
 
-** Sankha alias Sangramasinha**—He is another prince frequently mentioned in the present drama. He is described as Mandalesvara and Gurjaramahî- khandamaṇdalâhivai. He was the son of Sindhurâja, brother of Sinha, the king of Lâtadesa. Sinhana, the Yâdava king, frequently invaded the Latadesa, the southern portion of the Gurjar empire and thus the main burden of the attacks fell on the king of Broach. Sankha led the Lâta army against the forces of Sinhana, which had come up to the banks of the Narbuda and
-
-was successful in repulsing the hostile attacks. The Vasantavilâsa informs us that Sankha was once taken prisoner and was shackled in the jail of the Yâdava king. Though attacked on one side by the sons of Arņorâja (Lavaṇaprasâda and Viradhavala) the brave warrior Śankha, making the Mâlava king to interfere, repulsed an attack of the Yâdava army which had been attracted by the conflict. Images of twelve kings were tied to his feet. At the time of the invasion of Hammîra, he joined the army of Sinhaṇa but was seperated through the plans of Vastupâla. He then attacked Cambay. Lâta was under the control of the Gurjara kings. We find that Governors were sent to Broach by them. But during Bhima's time Maņdaleśvaras of Broach raised their heads and tried to become independent, but they seem to have been suppressed by Viradhavala as we find from the colophon of a palm-leaf ms. that Lavâṇyasinha, son of Tejahpâla, high minister of Vîradhavala and Viśâladeva, was the governor of Broach in Samvat 1296. The princes of Broach were of the Châhamâna clan, and as late as Sam. 1533 we find that there were muni- cipalities of the Châhamanas in the Lâtadesa. The other works, Kîrtikaumud and Vasantavilâsa, written by contemporary poets, give the same account. The later writers, however, have made some confusion in this matter. The Prabandhachintamaņi tells that Vastupâla had a quarrel with the sea-merchant, Said, who called in his help Mahâsâdhanika Sánkha, from Broach. The Prabandhakośa and Jinaharsha's Vastupâlacharitra give the names of the merchant sailor as Sadîka and Sankha chief of the port of Vadva which is some five miles from Bhavnagar. The cause of the quarrel is given as the insult given by Sadîka to Vastupâla in disregarding his authority.
+** Sankha alias Sangramasinha**—He is another prince frequently mentioned in the present drama. He is described as Mandalesvara and Gurjaramahî- khandamaṇdalâhivai. He was the son of Sindhurâja, brother of Sinha, the king of Lâtadesa. Sinhana, the Yâdava king, frequently invaded the Latadesa, the southern portion of the Gurjar empire and thus the main burden of the attacks fell on the king of Broach. Sankha led the Lâta army against the forces of Sinhana, which had come up to the banks of the Narbuda and was successful in repulsing the hostile attacks. The Vasantavilâsa informs us that Sankha was once taken prisoner and was shackled in the jail of the Yâdava king. Though attacked on one side by the sons of Arņorâja (Lavaṇaprasâda and Viradhavala) the brave warrior Śankha, making the Mâlava king to interfere, repulsed an attack of the Yâdava army which had been attracted by the conflict. Images of twelve kings were tied to his feet. At the time of the invasion of Hammîra, he joined the army of Sinhaṇa but was seperated through the plans of Vastupâla. He then attacked Cambay. Lâta was under the control of the Gurjara kings. We find that Governors were sent to Broach by them. But during Bhima's time Maņdaleśvaras of Broach raised their heads and tried to become independent, but they seem to have been suppressed by Viradhavala as we find from the colophon of a palm-leaf ms. that Lavâṇyasinha, son of Tejahpâla, high minister of Vîradhavala and Viśâladeva, was the governor of Broach in Samvat 1296. The princes of Broach were of the Châhamâna clan, and as late as Sam. 1533 we find that there were muni- cipalities of the Châhamanas in the Lâtadesa. The other works, Kîrtikaumud and Vasantavilâsa, written by contemporary poets, give the same account. The later writers, however, have made some confusion in this matter. The Prabandhachintamaņi tells that Vastupâla had a quarrel with the sea-merchant, Said, who called in his help Mahâsâdhanika Sánkha, from Broach. The Prabandhakośa and Jinaharsha's Vastupâlacharitra give the names of the merchant sailor as Sadîka and Sankha chief of the port of Vadva which is some five miles from Bhavnagar. The cause of the quarrel is given as the insult given by Sadîka to Vastupâla in disregarding his authority.
 
 <MISSING_FIG href="../books_images/U-IMG-1722001504Screenshot2024-07-261914201023.png"/>  
 **श्रीजयसिंहसूरिविरचितं**  
@@ -125,7 +117,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 (नान्द्यन्ते)
 
-**सूत्रधारः**—अहो!महोदधिमुखमुखरलहरीमधुराधरपानमहमहनीयमहीसरिन्मुखमण्डनदक्षिणकु ण्डलायितस्तम्भतीर्थनगरीगरीयोरत्नाङ्कुरस्य त्रिभुवनविभुविनम्रमौलिमुकुटमणिकिरणधोरणीधौतचर णारविन्दस्य वृन्दारकवृन्दविक्रमचमत्कृतिपरिपाकलुण्टाकदुष्टदनुतनुजविजयश्रीभीमस्य श्रीभीमेश्वरस्य यात्रायां, सकलकविकुलकवित्वरसरहस्यनिस्यन्दवशंवदहृदयेन निखिलखलदलनविदितमहोदयेन समस्तसचिववास्तोष्पतिश्रीवस्तुपालकुलकाननकेलिसिंहेन श्रीमता जयन्तसिंहेन समादिष्टोऽस्मि, यदिह बहुभिरपि बहुदेशाभ्युपेतैर्भयानकमयान्येव प्रकरणानि प्रपञ्चयद्भिरनेकशः कुशीलवसार्थैः कदर्थितोऽयं लोकः, तदधुना मधुरितनवरसबन्धप्रसरबन्धुरं कमपि प्रबन्धमभिनयन्नभ्युपनय पुनरपि प्रमोदपदवीं सभासद इति। तदहमिदानीमाहूय पर्यालोचयामि प्रियवयस्यमिति।
+ **सूत्रधारः**—अहो! महोदधिमुखमुखरलहरीमधुराधरपानमहमहनीयमहीसरिन्मुखमण्डनदक्षिणकु ण्डलायितस्तम्भतीर्थनगरीगरीयोरत्नाङ्कुरस्य त्रिभुवनविभुविनम्रमौलिमुकुटमणिकिरणधोरणीधौतचर णारविन्दस्य वृन्दारकवृन्दविक्रमचमत्कृतिपरिपाकलुण्टाकदुष्टदनुतनुजविजयश्रीभीमस्य श्रीभीमेश्वरस्य यात्रायां, सकलकविकुलकवित्वरसरहस्यनिस्यन्दवशंवदहृदयेन निखिलखलदलनविदितमहोदयेन समस्तसचिववास्तोष्पतिश्रीवस्तुपालकुलकाननकेलिसिंहेन श्रीमता जयन्तसिंहेन समादिष्टोऽस्मि, यदिह बहुभिरपि बहुदेशाभ्युपेतैर्भयानकमयान्येव प्रकरणानि प्रपञ्चयद्भिरनेकशः कुशीलवसार्थैः कदर्थितोऽयं लोकः, तदधुना मधुरितनवरसबन्धप्रसरबन्धुरं कमपि प्रबन्धमभिनयन्नभ्युपनय पुनरपि प्रमोदपदवीं सभासद इति। तदहमिदानीमाहूय पर्यालोचयामि प्रियवयस्यमिति।
 
  (नेपथ्याभिमुखम्) अये इत एवाभिवर्त्तते प्रियवयस्यः।
 
@@ -133,7 +125,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** सूत्रधारः**—मारिष ! अहमितः। इत इतो भवान्।
 
-** नटः**—( उपसृत्य ) आर्य!कुतश्चिन्ताक्षोभवन्त इव भवन्तः।
+** नटः**—( उपसृत्य ) आर्य! कुतश्चिन्ताक्षोभवन्त इव भवन्तः।
 
  **सूत्रधारः**—
 
@@ -151,7 +143,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 कमपि तमुपनीय श्लाघ्यबन्धं प्रबन्धं  
 स्वयमभिनयदक्ष प्रीणयामुं समाजम्॥४॥**
 
- **सूत्रधारः**—(सचमत्कारस्मितम्) अये!ईदृग्विधमधुमधुरगुणग्रामरामणीयकानुविद्धप्रबन्धप्रस्तुतिषु जयसिंह इत्यक्षराणि श्रवणदोलाकेलिभिरन्दोलयता भवताऽनुस्मारितोऽस्मि।
+ **सूत्रधारः**—(सचमत्कारस्मितम्) अये! ईदृग्विधमधुमधुरगुणग्रामरामणीयकानुविद्धप्रबन्धप्रस्तुतिषु जयसिंह इत्यक्षराणि श्रवणदोलाकेलिभिरन्दोलयता भवताऽनुस्मारितोऽस्मि।
 
 **सूरिः श्रीवीरसूरिर्भृगुमुनिनगरीकर्णपूरारविन्द-  
 प्रायः श्रीसुव्रताङ्घ्रिद्वितयमधुकरः श्रेयसां भूः पराऽभूत्।  
@@ -167,7 +159,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
  अस्ति तदाननेन्दुकौमुदीसमुदयायमानम्, असमानलसन्नवरसातिपूरणपरिगलितप्रत्यक्षनिस्यन्द सुन्दरसुधाकुण्डमण्डितमहीमण्डलमूलं, दृग्रसनाश्रवणरसनीयं, शरीरवदिव यशः चुलुक्यकुलकाननकल्पतरोः श्रीवीरधवलदेवस्य, सहृदयहृदयमुदामुद्धाटकं हम्मीरमदमर्द्दनं नाम नाटकम्। तदभिनयमानः स्मयमानयामि सामाजिकान्।
 
- (विमृश्य सोल्लासम्) अहोḷमहनीयमिदमस्मदीयं खलु निखिलमप्युत्तरोत्तरगुणोपनिषत्परिषदाराधकं साधनम्।
+ (विमृश्य सोल्लासम्) अहोḷ महनीयमिदमस्मदीयं खलु निखिलमप्युत्तरोत्तरगुणोपनिषत्परिषदाराधकं साधनम्।
 
  तथाहि—
 
@@ -176,9 +168,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 शौर्यश्रीसदनं च वीरधवलोऽधीशः कविश्चाद्भुत-  
 प्रज्ञः श्रीजयसिंहसूरिरिति मे कोऽप्येष पुण्योदयः॥७॥**
 
- **नटः**—नन्विदं वदामि कविरयं कथमिव त्रिभुवनभवनाङ्गणप्रगुणकीर्त्तिलतावितानच्छायाविष्टरनि विष्टहृष्टविद्वज्जनमनःसम्भावनाभूयांस्यपि प्रथमपृथिवीपतिशतचरित्राणि परिभूय वर्त्तमानमानवाधिपतिचरितमुरीकृत्य च निचितसुधाकवचनाभिर्निजवचनरचनाभिरुचितज्ञचूडामणिः प्रबन्धममुमनु सानुबन्धः।
+ ** नटः**—नन्विदं वदामि कविरयं कथमिव त्रिभुवनभवनाङ्गणप्रगुणकीर्त्तिलतावितानच्छायाविष्टरनि विष्टहृष्टविद्वज्जनमनःसम्भावनाभूयांस्यपि प्रथमपृथिवीपतिशतचरित्राणि परिभूय वर्त्तमानमानवाधिपतिचरितमुरीकृत्य च निचितसुधाकवचनाभिर्निजवचनरचनाभिरुचितज्ञचूडामणिः प्रबन्धममुमनु सानुबन्धः।
 
- **सूत्रधारः**—अये!न तावज्जानाति भवान्।यतः—
+ **सूत्रधारः**—अये! न तावज्जानाति भवान्। यतः—
 
 **कैः कैर्नाम न रामराघवपृथापुत्रादिपृथ्वीभृतां  
 विद्वद्भिश्चरितानि तानि परितः सञ्चर्वितान्यादितः।  
@@ -187,12 +179,12 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 (नेपथ्ये गीयते)
 
-**हयरायमंडल[^1]करप्पसरो सूरस्स सारही पुरओ।  
+**हयरायमण्डल[^1]करप्पसरो सूरस्स सारही पुरओ।  
 परिमिलियमलिणतमउलमलणो गरुजग्गओ जयइ॥९॥**
 
-[^1]: "हतराजमण्डलकरप्रसरो सूरस्य सारथिः पुरतः। परिमिलितमलिनतमःकुलमर्दनो गुरुजागरकः जयति॥"
+[^1]: # "हतराजमण्डलकरप्रसरो सूरस्य सारथिः पुरतः। परिमिलितमलिनतमःकुलमर्दनो गुरुजागरकः जयति॥"
 
- अये!कथमारब्धमेव महोत्सवप्रवर्त्तकैर्नर्त्तकैः, यदियं श्रीवीरधवलदेवक्षितिधवमूर्त्तप्रतापस्य मतिसंरम्भस्तम्भितसकलरिपुराजकुलस्य प्रसृमरतेजसस्तेजःपालाग्रजन्मनः श्रीवीरधवलसचिवस्य प्रावेशिकी ध्रुवा। (पुरो निरूप्य सोत्साहम्) अहो! कथमिहैव महामन्त्रिणा तेजःपालेन सह किमपि मन्त्रयमाणः श्रीवीरधवलदेवनृपतिस्तिष्ठति। तदेहि, क्षितिपतीनामषडक्षीणं हि षाड्गुण्यम्, इत्या- वामप्यनन्तरकरणीयोपकरणाय प्रगुणीभवाव इति।
+ अये! कथमारब्धमेव महोत्सवप्रवर्त्तकैर्नर्त्तकैः, यदियं श्रीवीरधवलदेवक्षितिधवमूर्त्तप्रतापस्य मतिसंरम्भस्तम्भितसकलरिपुराजकुलस्य प्रसृमरतेजसस्तेजःपालाग्रजन्मनः श्रीवीरधवलसचिवस्य प्रावेशिकी ध्रुवा। (पुरो निरूप्य सोत्साहम्) अहो! कथमिहैव महामन्त्रिणा तेजःपालेन सह किमपि मन्त्रयमाणः श्रीवीरधवलदेवनृपतिस्तिष्ठति। तदेहि, क्षितिपतीनामषडक्षीणं हि षाड्गुण्यम्, इत्या- वामप्यनन्तरकरणीयोपकरणाय प्रगुणीभवाव इति।
 
 (निष्क्रान्तौ)
 
@@ -200,14 +192,14 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 (ततः प्रविशति भद्रपीठोपविष्टः श्रीवीरधवलः पुरोनिविष्टस्तेजः पालश्च)
 
- **वीरधवलः**—
+ ** वीरधवलः**—
 
 **पच्चारप्रचयैः सहस्रनयनो यन्नीतिवाक्यैः सुधा-  
 हारो यज्जनितार्जुनैश्च कनकक्षोणीभृदोकःस्थितिः।  
 ऐन्द्यं सोऽहमथाप येन च गुरुप्रायेण पुण्योदयः  
 शङ्के कोऽपि पुराकृतः स तनुमान्मे वस्तुपालः कृती॥१०॥**
 
- (सविमर्शम्) अहोḷसहोत्थप्रतिभाप्रतिभासमानमानसस्य किं ब्रूमहेऽस्य महेच्छस्य।
+ (सविमर्शम्) अहोḷ सहोत्थप्रतिभाप्रतिभासमानमानसस्य किं ब्रूमहेऽस्य महेच्छस्य।
 
 **यस्यैभिः शान्तदीप्तैरुपचयशुचिभिश्चन्दिकाघर्मकल्पै-  
 र्धीसङ्कल्पैरनल्पैरमृतभरमहातापवृष्टिप्रकृष्टैः।  
@@ -228,19 +220,19 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 श्रीसिंहोऽनेन निन्ये मयि कृतकरिपुर्लाटदेशाधिनाथः  
 प्रज्ञासम्पृक्ततेजस्तृणगणितजगच्चक्रवालोऽपि मैत्रीम्॥१३॥**
 
- **तेजःपालः**—देव त्रिविक्रमविक्रम। पतिप्रतापतपनातपं विना कदाचिदपि विपुलशास्त्रामृतसिक्तेष्वपि न प्ररोहन्ति मतिप्रतानिन्यः सचिवहृदयालवालवलयेषु।
+ ** तेजःपालः**—देव त्रिविक्रमविक्रम। पतिप्रतापतपनातपं विना कदाचिदपि विपुलशास्त्रामृतसिक्तेष्वपि न प्ररोहन्ति मतिप्रतानिन्यः सचिवहृदयालवालवलयेषु।
 
 **यन्मुञ्चन्त्यमृतानि चन्द्रदृषदो वह्निं च सूर्योपलाः  
 सर्वोऽप्येष विभावरीविभुविभाधीशप्रभावोदयः।  
 मन्त्रीन्द्रस्य फलन्ति यन्मतिलताश्चिन्तानुरूपं फलं  
 किञ्चित्प्रौढतमप्रतापवसतेरेतद्विभोर्वैभवम्॥१४॥**
 
- किञ्च। क्षत्रस्याग्नेरपि महः सहजं परदाहकृतनिमित्तमात्रं, मन्त्रीन्द्रा मरुतश्च तदुन्नतौ। (सोच्छ्वासं च) देव!सङ्क्रदनमनःसङ्क्रमितविक्रमचमत्कृतेस्तव चरितामृतरसमनिशं रसयता न तृप्यतेऽस्मन्मनसा।
+ किञ्च। क्षत्रस्याग्नेरपि महः सहजं परदाहकृतनिमित्तमात्रं, मन्त्रीन्द्रा मरुतश्च तदुन्नतौ। (सोच्छ्वासं च) देव! सङ्क्रदनमनःसङ्क्रमितविक्रमचमत्कृतेस्तव चरितामृतरसमनिशं रसयता न तृप्यतेऽस्मन्मनसा।
 
 **श्रुत्वा घनरवमिव तव गलगर्जितमूर्जितं निरुद्धनभः।  
 इह मण्डलेशगोपीगोविन्दस्त्वदसिसागरेऽमज्जत् ॥१५॥**
 
-(सप्रकर्षं च)** तद्बाहवो तव सुधाविवरात्तमार्गै-**
+(सप्रकर्षं च) **तद्बाहवो तव सुधाविवरात्तमार्गै-**
 
 **स्त्वत्खड्गभिन्नरिपुकुञ्जरकुम्भरत्नैः।  
 पातालमूलतिमिराण्यपि युद्धदक्ष  
@@ -254,7 +246,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
  **वीरधवलः**—(सविलक्षस्मितम्) सखे चण्डपकुलमण्डन ! मदुक्तां सचिवेशचरितकथनयथातथोक्तिं मद्वर्णनमयीभिरत्युक्तिभिरभिभवितुमुद्यतोऽसि। (सचमत्कारशिरःकम्पम्) अहो! महामात्यशक्रस्य विक्रमविक्रीडितमपि कम्पितसुरासुरशिरःशेखरम्। यतस्तदा मयि मरुनरेन्द्रनिग्रहविग्रहव्यग्रे तत्पितृवैरमनुस्मरतः स्मरारिपौरुषस्य सिन्धुराजतनुजन्मनो लाटदेशाधिपसिंहभ्रातृव्यस्य समाकृष्टसिंहनसेनापतिततेः सङ्ग्रामसिंहस्य मत्पार्ष्णिग्राहसाहसिकमनसोऽनुधावतः कुधावता तेन युद्धसन्नद्धेन स्खलितमरच्यत सचिवचाणक्येन।
 
-(सोल्लासहासम्)** कोपाकुलेऽस्मिन् सचिवे न शस्त्रा-**
+(सोल्लासहासम्) **कोपाकुलेऽस्मिन् सचिवे न शस्त्रा-**
 
 **भ्यासो रिपूणां फलदस्तदाऽभूत्।  
 तेषां क्षणाद्वाहनवाहवेगा-  
@@ -283,11 +275,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** वीरधवल :**—(सोल्लासम्) ततस्ततः।
 
-** वस्तुपालः**— ततश्च। अमी तदाज्ञया तद्विश्वासगूढपुरुषीभूय देवस्य हितमेवाचरन्तः सञ्चरन्ति निखिलेष्वपि राज्येषु। तदिदानीमस्मदादेश्यचारचक्षुषः
+** वस्तुपालः**— ततश्च। अमी तदाज्ञया तद्विश्वासगूढपुरुषीभूय देवस्य हितमेवाचरन्तः सञ्चरन्ति निखिलेष्वपि राज्येषु। तदिदानीमस्मदादेश्यचारचक्षुषः सर्वेऽपि राजानः क्रीडाकाष्ठकयन्त्रपुत्रका इव गुणप्रपञ्चेन यथा यथा सञ्चार्यन्ते तथा तथा सञ्चरन्ति।
 
-सर्वेऽपि राजानः क्रीडाकाष्ठकयन्त्रपुत्रका इव गुणप्रपञ्चेन यथा यथा सञ्चार्यन्ते तथा तथा सञ्चरन्ति।
-
-** वीरधवलः**—(सरोमाञ्चंतेजःपालं प्रति) सखे सोमान्वय! पश्य! पश्य!। महापयोधिरिव दुर्लङ्घयोऽयं मम भाग्योदयः।
+** वीरधवलः**—(सरोमाञ्चं तेजःपालं प्रति) सखे सोमान्वय! पश्य! पश्य!। महापयोधिरिव दुर्लङ्घयोऽयं मम भाग्योदयः।
 
 **श्रीवस्तुपालश्रितगूढमन्त्रस्फुरन्महावर्त्तविवर्तिताङ्गाः।  
 उच्छ्वासमौन्नत्यभृतोऽपि यत्र कदापि न क्षोणिभृतो भजन्ते॥२०॥**
@@ -319,9 +309,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 तन्मन्ये कटुकोपपाटलदृशं त्वां वीक्ष्य विस्मारित-  
 स्तत्प्राणापहृतिक्षणोऽपि चकितैः कीनाशदासैस्तदा॥२४॥**
 
-** वीरधवलः**—(सकोपमिव तमपाङ्गेन मृगयमाणो वस्तुपालं प्रति) तदश्रितो मति-
-
-भिरेव प्रतिनृपतिशतानि स्तम्भयत्सु भवत्सु, साम्प्रतं मम हम्मीरवीरं प्रति प्रयाणप्रयत्नः।
+** वीरधवलः**—(सकोपमिव तमपाङ्गेन मृगयमाणो वस्तुपालं प्रति) तदश्रितो मतिभिरेव प्रतिनृपतिशतानि स्तम्भयत्सु भवत्सु, साम्प्रतं मम हम्मीरवीरं प्रति प्रयाणप्रयत्नः।
 
 **(नेपथ्ये)**
 
@@ -342,10 +330,12 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **देव! त्वयेव सूरेण मूर्ध्नि प्रतपताऽभितः।  
 व्यलोपि भूभृतां छाया दूरभूषितभूरपि॥२६॥**  
 
+
+
 ** वस्तुपालः**—अहह ! अदृष्टदैवतशुभवचनमिव किञ्चिद्वैतालिकसुभाषितमिदम्। ( वीरधवलं प्रति ) देव पुरन्दरसुन्दर ! त्वरितं रिपुजयप्रतिष्ठायै प्रतिष्ठतां भवान्। न पुनः समीपकाय कापेयं क्वापि करणीयम्। यतःकुसुमसमरमपि कुसुमेषोरिव कदाचिदनङ्गत्वाय जायेत, न च रणातिरेकजनितं जयश्रीताण्डवमपि पाण्डवानामिव पुत्रपौत्रादिप्राणप्रियजनविरहनिरहङ्कृतीनां शवायमानवपुषां सुखाय स्यात्। किञ्च—
 
-**रणोत्सङ्गंशृङ्गारयतु रिपुरद्यायमबलः  
-क्षमोऽहं हहोऽसौविजयिषु जयश्रीर्विधिवशा।  
+**रणोत्सङ्गं शृङ्गारयतु रिपुरद्यायमबलः  
+क्षमोऽहं हहोऽसौ विजयिषु जयश्रीर्विधिवशा।  
 अतापव्यापारः स्फुरितपरितापौघमकरः  
 करश्रेणीसान्द्रं कवलयति राहुर्दिनकरम्॥२७॥**
 
@@ -444,96 +434,95 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
  यत्तदा मदान्धसिन्धुरदुर्द्धरयदुधराधवरुद्धैरस्माभिर्विघट्य संहतावेव स्फुरन्तौ चित्रकाव्यशब्दार्थाविव दुर्भेदौ महीतटमहीपतिलाटदेशदेशाधिपती विक्रमादित्यसहजपालाभिधौ भेदयित्वा पृथक्क्रियेताम्। तदिदानीमन्योन्यमनन्यमन्युमहोत्साहावहम्पूर्विकया स्वयं समाजग्मतुरस्मदधिपहृदयावर्जनाय।
 
-** अन्यच्च—**
+** अन्यच्च— **
 
 **उत्तुङ्गानां भूभृतां सत्यमेषां विस्तीर्णाभिर्वाहिनीभिर्मिलित्वा।  
 कोटीसङ्ख्याः सर्वतः क्षुद्रभूभृद्वाहिन्योऽपि प्रापुरस्मद्बलाब्धिम्॥९॥**
 
- (विचिन्त्य) कथमद्यापि दक्षिणावनिपालमालवनरेशयोर्यात्रानियन्त्रणाप्रपञ्चायप्रचारितौ निपुणक- सुवेगाभिधानौ चिरयतश्चरप्रधानौ।
+ (विचिन्त्य) कथमद्यापि दक्षिणावनिपालमालवनरेशयोर्यात्रानियन्त्रणाप्रपञ्चाय प्रचारितौ निपुणक- सुवेगाभिधानौ चिरयतश्चरप्रधानौ।
 
 (ततः प्रविशति निपुणकः)
 
-**  निपुणकः**—
+** निपुणकः**—
 
-**जा[^2]वत्थुवालस्स मई कमेह तिलोययं एगवएण सिग्धं।  
-तं चिंतयंतस्स सया वि मज्झ कुदो सुदूरागमणे वि खेओ॥१०॥**
+**जा[^2] वत्थुवालस्स मई कमेह तिलोययम् एगवएण सिग्धम्।  
+तं चिन्तयन्तस्स सया वि मज्झ कुदो सुदूरागमणे वि खेओ॥१०॥**
 
-[^2]: "या वस्तुपालस्य मतिः क्रामति त्रिलोककमेकपदेन शीघ्रम्। तां चिन्तयतः सदाऽपि मे कुतः सुदूरागमनेऽपि खेदः॥"
+[^2]: # "या वस्तुपालस्य मतिः क्रामति त्रिलोककमेकपदेन शीघ्रम्। तां चिन्तयतः सदाऽपि मे कुतः सुदूरागमनेऽपि खेदः॥"
 
- (पुरोऽवलोक्य) अये[^3] तिमिरचक्कवालपंकमज्झंमि परायपुंजपिंजरियं महुयरमिहुणसोहियं पंकेरुहव्व किमिदं दीसदि?। (उपलक्ष्य सप्रमोदम्)
+ (पुरोऽवलोक्य) अये[^3] तिमिरचक्कवालपङ्कमज्झम्मि परायपुञ्जपिञ्जरियं महुयरमिहुणसोहियं पङ्केरुहव्व किमिदं दीसदि?। (उपलक्ष्य सप्रमोदम्)
 
-[^3]: "तिमिरचक्रवालपङ्कमध्ये परागपुञ्जपिञ्जरितमधुकरमिथुनशोभितं पङ्केरुहमिव किमिदं दृश्यते।"
+[^3]: # "तिमिरचक्रवालपङ्कमध्ये परागपुञ्जपिञ्जरितमधुकरमिथुनशोभितं पङ्केरुहमिव किमिदं दृश्यते।"
 
 **मणि[^4]घडघडियकिरीडप्पहापहावेण पयडियं पुरओ।  
 दीसह वियसियनयणं वयणं सिरिलूणसीहस्स॥११॥**
 
-[^4]: "मणिघटाघटितकिरीटप्रभाप्रभावेण प्रकटितं पुरतः। दृश्यते विकसितनयनं वदनं श्रीलावण्यसिंहस्य॥"
+[^4]: # "मणिघटाघटितकिरीटप्रभाप्रभावेण प्रकटितं पुरतः। दृश्यते विकसितनयनं वदनं श्रीलावण्यसिंहस्य॥"
 
  (किञ्चिदुपसृत्य) देव[^5] अणुवमाउयरकमलमराल! प्रणमामि।
 
-[^5]: "देव अनुपमोदरकमलमराल! प्रणमामि।"
+[^5]: # "देव अनुपमोदरकमलमराल! प्रणमामि।"
 
  **लावण्यसिंहः**—(तदाकर्ण्य स्वगतम्) अये! विनयवैदग्ध्यमधुरोऽयं स्वरो निभृतरिपुचरितनिवेदननिपुणं निपुणकमावेदयति। (प्रकाशम्) अये निपुणक! कुशलं भवतः।
 
-** निपुणकः— दे**व![^6] तुह मुहचंददंसणेण, रिपुरायसुहडघडविहडणावणेण य।
+** निपुणकः— दे**व![^6] तुह मुहचन्ददंसणेण, रिपुरायसुहडघडविहडणावणेण य।
 
-[^6]: "देव! तव मुखचन्द्रदर्शनेन रिपुराजसुभटघटाविघटनेन च।"
+[^6]: # "देव! तव मुखचन्द्रदर्शनेन रिपुराजसुभटघटाविघटनेन च।"
 
 ** लावण्यसिंहः**—(सहर्षम्) कथमिव विघटितं रिपुसुभटपटलमिति श्रुतिवाञ्छा समुत्सुकयति श्रुतियुग- लम्।
 
-**निपुणकः**—तया[^7] तुम्ह वयणंदुवयणचंदियाचओरीभविय गओहं सिंघणदेवखंधावारं। इत्थंतरे तेणावि पुव्वसंकेदिदेण मह लहुसहोयरेण कुसलयाभिहेण मालवनरिंदस्स चिरयालवल्लहहयवालीभूएण मालवरज्जलच्छीजीवियं चसयलसाहणसेहरो हरी अवहरिऊण देवपालनरिंदनामंकिओ दुक्किओ दाहिणधरणिसुणासीरसिन्ननासीरवीरस्स संगामसीहस्स।
 
-[^7]: "तदा युष्मद्वदनेन्दुवचनचन्द्रिकाचकोरीभूय गतोऽहं सिंहदेवस्कन्धावारम्। अत्रान्तरे तेनापि पूर्वसङ्केतितेन मम लघुसहोदरेण कुशलकाभिधेन मालवनरेन्द्रस्य चिरकालवल्लभहयपालीभूतेन मालवराज्यलक्ष्मीजीवितमित्र सकलसाधनशेखरो हरिः अपहृत्य देवपालनरेन्द्रनामाङ्कितो ढौकितो दक्षिणधरणीसुनासीरसैन्यनासीरवीरस्य सङ्ग्रामसिंहस्य ।"
+** निपुणकः**—तया[^7] तुम्ह वयणन्दुवयणचन्दियाचओरीभविय गओहं सिङ्घणदेवखन्धावारम्। इत्थन्तरे तेणावि पुव्वसङ्केदिदेण मह लहुसहोयरेण कुसलयाभिहेण मालवनरिन्दस्स चिरयालवल्लहहयवालीभूएण मालवरज्जलच्छीजीवियं च सयलसाहणसेहरो हरी अवहरिऊण देवपालनरिन्दनामङ्किओ दुक्किओ दाहिणधरणिसुणासीरसिन्ननासीरवीरस्स सङ्गामसीहस्स।
+
+[^7]: # "तदा युष्मद्वदनेन्दुवचनचन्द्रिकाचकोरीभूय गतोऽहं सिंहदेवस्कन्धावारम्। अत्रान्तरे तेनापि पूर्वसङ्केतितेन मम लघुसहोदरेण कुशलकाभिधेन मालवनरेन्द्रस्य चिरकालवल्लभहयपालीभूतेन मालवराज्यलक्ष्मीजीवितमित्र सकलसाधनशेखरो हरिः अपहृत्य देवपालनरेन्द्रनामाङ्कितो ढौकितो दक्षिणधरणीसुनासीरसैन्यनासीरवीरस्य सङ्ग्रामसिंहस्य ।"
 
 ** लावण्यसिंहः**—(साक्षेपम्) ततस्ततः।
 
 **
-निपुणकः**—तओ[^8] वि य अमुणा अस्सहारिणा सुपयट्टियवयणो एसो त्ति मज्झ समप्पियं तुरयरयणमिमं। इय चिंतिऊण संगामसीहेणावि पसाइऊण य पासंमि रहाविओ एसो।
+निपुणकः**—तओ[^8] वि य अमुणा अस्सहारिणा सुपयट्टियवयणो एसो त्ति मज्झ समप्पियं तुरयरयणमिमम्। इय चिन्तिऊण सङ्गामसीहेणावि पसाइऊण य पासम्मि रहाविओ एसो।
 
-[^8]: "ततोऽपि च अमुना अवहारिणा सुप्रवर्त्तितवदन एष इति मम समर्पितं तुरगरत्नमिदम्। इति चिन्तयित्वा सङ्ग्रामसिंहेनापि प्रसाद्य च पार्श्वे रक्षापित एषः।"
+[^8]: # "ततोऽपि च अमुना अवहारिणा सुप्रवर्त्तितवदन एष इति मम समर्पितं तुरगरत्नमिदम्। इति चिन्तयित्वा सङ्ग्रामसिंहेनापि प्रसाद्य च पार्श्वे रक्षापित एषः।"
 
 ** लावण्यसिंहः**—(स्वगतम्) अहो ! रहोविचाररुचिरोऽयं प्रपञ्चश्चरचक्रस्य। (प्रकाशम्) ततस्ततः।
 
 **
-निपुणकः**—तओ[^9] अहं वि य तत्थ सुचरिओ नाम चरो गुज्जरचरियाणि चरितुं पुव्विंपेसिदो आगदुत्ति संधिविग्गहवावारिणा रायस्स सयासं नीदो। तओ तस्स सुहोदक्कं च विन्नवियं मए। जं देव ! जज्जरिओ गुज्जरधराए परिसरतो पसरतेहिं हम्मीरखंधारेहिं। तं सुणिऊण समुच्छरिओ समत्थपच्चत्थिसत्थेहिं विग्गहुत्तिकयत्धुव्वउद्धसिअंगो धसिओ गुज्जरधरुद्धरणधवलो सिरिवीरधवलो गरुयगरुएहिं पयाणेहिं। संपत्तो वि य नियधरित्तीसीमंते सीमंतिए रिउरायराईहिं।
+निपुणकः**—तओ[^9] अहं वि य तत्थ सुचरिओ नाम चरो गुज्जरचरियाणि चरितुं पुव्विं पेसिदो आगदुत्ति सन्धिविग्गहवावारिणा रायस्स सयासं नीदो। तओ तस्स सुहोदक्कं च विन्नवियं मए। जं देव ! जज्जरिओ गुज्जरधराए परिसरतो पसरतेहिं हम्मीरखन्धारेहिम्। तं सुणिऊण समुच्छरिओ समत्थपच्चत्थिसत्थेहिं विग्गहुत्तिकयत्धुव्व उद्धसिअङ्गो धसिओ गुज्जरधरुद्धरणधवलो सिरिवीरधवलो गरुयगरुएहिं पयाणेहिम्। सम्पत्तो वि य नियधरित्तीसीमन्ते सीमन्तिए रिउरायराईहिम्।
 
-[^9]: "ततोऽहमपि च तत्र सुचरितो नाम चरः गूर्जरचरित्राणि चरितुं पूर्वं प्रेषितः आगत इति सन्धिविग्रहव्यापारिणा राज्ञः सकाशं नीतः। ततस्तस्य शुभोदर्के च विज्ञप्तं मया। यद्देव जर्जरितो गुर्जरधरायां परिसरन् प्रसरद्भिः हम्मीरस्कन्धावारैः। तच्छ्रुत्वा समुच्छलितः समर्थप्रत्यर्थिसार्थैः विग्रहोक्तिकृतार्थ इव उद्धसि-ताङ्गो धावितः गूर्जरधरोद्धरणधवलः श्रीवीरधवलो गुरुकगुरुकैः प्रयाणैः। सम्प्राप्तोऽपि च निजध-रित्रीसीमंते सीमन्तिते रिपुराजराजिभिः।"
+[^9]: # "ततोऽहमपि च तत्र सुचरितो नाम चरः गूर्जरचरित्राणि चरितुं पूर्वं प्रेषितः आगत इति सन्धिविग्रहव्यापारिणा राज्ञः सकाशं नीतः। ततस्तस्य शुभोदर्के च विज्ञप्तं मया। यद्देव जर्जरितो गुर्जरधरायां परिसरन् प्रसरद्भिः हम्मीरस्कन्धावारैः। तच्छ्रुत्वा समुच्छलितः समर्थप्रत्यर्थिसार्थैः विग्रहोक्तिकृतार्थ इव उद्धसि-ताङ्गो धावितः गूर्जरधरोद्धरणधवलः श्रीवीरधवलो गुरुकगुरुकैः प्रयाणैः। सम्प्राप्तोऽपि च निजध-रित्रीसीमन्ते सीमन्तिते रिपुराजराजिभिः।"
 
 ** लावण्यसिंहः**—(सप्रमोदम्) साधु निपुणकं! साधु। त्वद्वचनमिदं हृदयगोचरीभूतं कामवस्थामनयत्तमवनीधवम्।  
 **
-निपुणकः**—तओ[^10] एरिसपोरिसुक्करिसकहाचमक्कारायंकपुलकियकंपियसरीरेण कहं चलियनियसिन्नमत्तओ पत्तो सत्तुसंमुहो एसुत्ति पुच्छियम्हि तेण महामहिंदेण।
+निपुणकः**—तओ[^10] एरिसपोरिसुक्करिसकहाचमक्कारायङ्कपुलकियकम्पियसरीरेण कहं चलियनियसिन्नमत्तओ पत्तो सत्तुसम्मुहो एसुत्ति पुच्छियम्हि तेण महामहिन्देण।
 
-[^10]: "तत एतादृशपौरुषोत्कर्षकथाचमत्कारातङ्कपुलकित-कम्पितशरीरेण कथं चलितनिजसैन्यमात्रकः प्राप्तः शत्रुसम्मुख एष इति पृष्टोऽस्मि तेन महामहीन्द्रेण।"
+[^10]: # "तत एतादृशपौरुषोत्कर्षकथाचमत्कारातङ्कपुलकित-कम्पितशरीरेण कथं चलितनिजसैन्यमात्रकः प्राप्तः शत्रुसम्मुख एष इति पृष्टोऽस्मि तेन महामहीन्द्रेण।"
 
 ** लावण्यसिंहः**—ततस्ततः।
 
 **
-निपुणकः**—मए[^11] भणियं।
+निपुणकः**—मए[^11] भणियम्।
 
-[^11]: "मया भणितम्। ज्योत्स्नाकण इव तिमिराणां मुखे रिपूणां पूर्वमपि वीर जवलो मिलितो झटिति। पश्चात्प्रकाश कुमुदमुदितं क्रमेण तद्राजमण्डलमशेषकलानिवेशम्॥ ततः सर्वोऽपि महासैन्यमुखमा- रुतेनापि जरत्तृणमिव पलायते राजवंशः। एष पुनः अस्माकं भुजयुगलाभोगभागधेयेन रणार्थं स्फुटं स्फोरित इति विहसितः सोऽपि हम्मीरस्तुरगपतिः। ततः सम्प्रति तत्र सप्ताष्टदिनमध्ये युद्धं सम्भाव्यत इति मम वचनं श्रवणभूषणीकृत्य हर्षितेन भणितं तेन भूपतिना यदिदानीं महाविग्रह निग्रहविघ्नितेषु तेषु क्षत्रियेषु सुखसाधितं गूर्जरराज्यश्रीकरग्रहणं, ततोऽस्माकं न युज्यते प्रयाणकालक्षेपः॥"
+[^11]: # "मया भणितम्। ज्योत्स्नाकण इव तिमिराणां मुखे रिपूणां पूर्वमपि वीर जवलो मिलितो झटिति। पश्चात्प्रकाश कुमुदमुदितं क्रमेण तद्राजमण्डलमशेषकलानिवेशम्॥ ततः सर्वोऽपि महासैन्यमुखमा- रुतेनापि जरत्तृणमिव पलायते राजवंशः। एष पुनः अस्माकं भुजयुगलाभोगभागधेयेन रणार्थं स्फुटं स्फोरित इति विहसितः सोऽपि हम्मीरस्तुरगपतिः। ततः सम्प्रति तत्र सप्ताष्टदिनमध्ये युद्धं सम्भाव्यत इति मम वचनं श्रवणभूषणीकृत्य हर्षितेन भणितं तेन भूपतिना यदिदानीं महाविग्रह निग्रहविघ्नितेषु तेषु क्षत्रियेषु सुखसाधितं गूर्जरराज्यश्रीकरग्रहणं, ततोऽस्माकं न युज्यते प्रयाणकालक्षेपः॥"
 
 **जोण्हाकणुव्व तिमिराण मुद्दे रिऊणं  
 पुव्वं पि वीरधवलो मिलिओ झडत्ति।  
-पच्छा पयासि कुमुयं उइयं कमेण  
-तं रायमंडलमसेसकलाणिवेसं॥१२॥**
+पच्छा पयासि कुमुयम् उइयं कमेण  
+तं रायमण्डलमसेसकलाणिवेसम्॥१२॥**
 
- तओ सव्वोवि महसिन्नमुहमारुदेणावि तिणुव्व पलायदि रायवंसो। एसो उण अम्हाण भुयजुयलाभोयभायधेएण रणत्थं फुडंफोरविउत्ति वि हसिओ सो वि हम्मीरो तुरयवई। तओ संपइ तत्थ सत्तट्ठदिणमज्झंमि जुज्झं संभावीयदित्ति मह वयणं सवणभूसणीकरिऊण हरिसिएण भणियं तेण भूवइणा जं इयाणि महाविग्गह‌निग्गहविग्धिएस तेसु खत्तिएसुसुहसाहियं गुज्जररज्जसिरिकरग्गहणं, तो अम्हाणं न जुज्जए पयाणकालक्खेवो।
+ तओ सव्वो वि महसिन्नमुहमारुदेणावि तिणुव्व पलायदि रायवंसो। एसो उण अम्हाण भुयजुयलाभोयभायधेएण रणत्थं फुडं फोरविउत्ति वि हसिओ सो वि हम्मीरो तुरयवई। तओ सम्पइ तत्थ सत्तट्ठदिणमज्झम्मि जुज्झं सम्भावीयदित्ति मह वयणं सवणभूसणीकरिऊण हरिसिएण भणियं तेण भूवइणा जम् इयाणि महाविग्गह‌निग्गहविग्धिएस तेसु खत्तिएसु सुहसाहियं गुज्जररज्जसिरिकरग्गहणं, तो अम्हाणं न जुज्जए पयाणकालक्खेवो।
 
 ** लावण्यसिंहः**—(साशङ्कम्) ततस्ततः।
 
 **
-निपुणकः**—तओ[^12]हसिऊण जंपियं मए। जं नाह सुरगुरुमईणं तुम्हाणं पुरओ केरिसी अम्हाणं सेमुही। तहा वि य जारिसं तारिसं चिय ससंभमुव्व मह भासियं संभावेसि त्ति तुह पसाएण तुराविदो किंपि जंपिस्सं। अहुणा अओ ठाणाओ न उचियं ज्जेव पयाणयं, कोणासकिंकरकोडिकड्डयसुहडपरिवाडिपयडियफुडफालकरालविक्कमाणं ताणं रणरहस्सं जाव, जहा जियजुज्झो विजमकवलियपयंडबहुसुहडलहुयविहुरपरियरो सुहेण गहणीओ होइ गुज्जरराओ। इत्थ पराजिएऊण तारिसनिक्करुणसुक्कतुरक्कसंहरणजणिया जयलच्छी
+निपुणकः**—तओ[^12]हसिऊण जम्पियं मए। जं नाह सुरगुरुमईणं तुम्हाणं पुरओ केरिसी अम्हाणं सेमुही। तहा वि य जारिसं तारिसं चिय ससम्भमुव्व मह भासियं सम्भावेसि त्ति तुह पसाएण तुराविदो किम्पि जम्पिस्सम्। अहुणा अओ ठाणाओ न उचियं ज्जेव पयाणयं, कोणासकिङ्करकोडिकड्डयसुहडपरिवाडिपयडियफुडफालकरालविक्कमाणं ताणं रणरहस्सं जाव, जहा जियजुज्झो विजमकवलियपयण्डबहुसुहडलहुयविहुरपरियरो सुहेण गहणीओ होइ गुज्जरराओ। इत्थ पराजिएऊण तारिसनिक्करुणसुक्कतुरक्कसंहरणजणिया जयलच्छी अप्पाणं गुज्जरमहीगहणकित्तीए कन्नकुण्डलीहोइ। अन्नहा अहुणा गहियविग्गहेसु तुम्हेसु जइ वेरिवीरेहिं कयसन्धाणो ताणं परिग्गहं गहिऊण अप्पाणं सम्मुह परागच्छदि, ता केण साहिउं सक्कीयदि मन्तसत्तिसमुच्छुङ्गियपहुच्छाहसत्ती सिरिलूणप्पसायअङ्गुब्भमिओ। ता इहज्जेव गुज्जरमालवएसप्पवेसमग्गजुयलमुहसन्निवेसम्मि ठाऊण तावीतीरवणगहणविहारकोदूहलेण कीरइ तज्जुज्झपवट्टिं जाव समयविलम्बो।
 
-[^12]: "ततो हसित्वा जल्पितं मया यन्नाथ सुरगुरुमतीनां युष्माकं पुरतः कीदृशी अस्माकं शेमुषी। तथाऽपि च यादृशं तादृशमेव ससम्भ्रममिव मम भाषितं सम्भावयिष्यसीति तव प्रसादेन त्वरितः किमपि जल्पिष्ये। अधुना अतः स्थानात् न उचितमेव प्रयाणकं, कीनाश किङ्करकोटिकटुकसुभटपरिपाटि- प्रकटितस्फुटफालकरालविक्रमाणां तेषां रणरहस्यं यावत्, यथा जितयुद्धोऽपि यमकवलितप्रचण्ड-बहुसुभटलघुकविधुरपरिकरः सुखेन ग्रहणीयो भवति गुर्जरराजा। अत्र पराजित्य"
-
-अप्पाणं गुज्जरमहीगहणकित्तीए कन्नकुंडलीहोइ। अन्नहा अहुणा गहियविग्गहेसुतुम्हेसु जइवेरिवीरेहिं कयसंधाणो ताणं परिग्गहं गहिऊण अप्पाणं संमुह परागच्छदि, ता केण साहिउं सक्कीयदि मंतसत्तिसमुच्छुंगियपहुच्छाहसत्ती सिरिलूणप्पसायअंगुब्भमिओ। ता इहज्जेव गुज्जरमालवएसप्पवेसमग्गजुयलमुहसन्निवेसम्मि ठाऊण तावीतीरवणगहणविहारकोदूहलेण कीरइ तज्जुज्झपवट्टिंजाव समयविलंबो।
+[^12]: # "ततो हसित्वा जल्पितं मया यन्नाथ सुरगुरुमतीनां युष्माकं पुरतः कीदृशी अस्माकं शेमुषी। तथाऽपि च यादृशं तादृशमेव ससम्भ्रममिव मम भाषितं सम्भावयिष्यसीति तव प्रसादेन त्वरितः किमपि जल्पिष्ये। अधुना अतः स्थानात् न उचितमेव प्रयाणकं, कीनाश किङ्करकोटिकटुकसुभटपरिपाटि- प्रकटितस्फुटफालकरालविक्रमाणां तेषां रणरहस्यं यावत्, यथा जितयुद्धोऽपि यमकवलितप्रचण्ड-बहुसुभटलघुकविधुरपरिकरः सुखेन ग्रहणीयो भवति गुर्जरराजा। अत्र पराजित्य"
 
 ** लावण्यसिंहः**—(सौत्सुक्यम्) ततस्ततः।
 
 **
-निपुणकः**—तओ[^13] एवंविहमंतवियारहरिसियहियओ तट्ठाणपरिहावियकडयुक्केरोन हु पणिहिमन्तपओयजुग्गोसित्ति भणिऊण पहाणपुरिसगारवेण मं समंज्जेव गहिऊण विहरिओ तवणतणयातडिणीतीरतरुसंडेसु दाहिणभूमंडलाहंडलो।
+निपुणकः**—तओ[^13] एवंविहमन्तवियारहरिसियहियओ तट्ठाणपरिहावियकडयुक्केरो न हु पणिहिमन्तपओयजुग्गोसित्ति भणिऊण पहाणपुरिसगारवेण मं समञ्ज्जेव गहिऊण विहरिओ तवणतणयातडिणीतीरतरुसण्डेसु दाहिणभूमण्डलाहण्डलो।
 
-[^13]: "ततः एवंविधमन्त्रविचार हर्षितहृदयः तत्स्थानपरिधापितकटकोत्करः न खलु प्रणिधिमन्त्रप्रयोगयोग्योऽसि इति भणित्वा प्रधानपुरुषगौरवेण मां सममेव गृहीत्वा विहृतः तपनतनयातटिनीतीरतरुखण्डेषु दक्षिणभूमण्डलाखण्डलः।"
+[^13]: # "ततः एवंविधमन्त्रविचार हर्षितहृदयः तत्स्थानपरिधापितकटकोत्करः न खलु प्रणिधिमन्त्रप्रयोगयोग्योऽसि इति भणित्वा प्रधानपुरुषगौरवेण मां सममेव गृहीत्वा विहृतः तपनतनयातटिनीतीरतरुखण्डेषु दक्षिणभूमण्डलाखण्डलः।"
 
 ** लावण्यसिंहः**—(सप्रमोदम्) निसृष्टार्थशिरोमणे ! भवादृशैरेवावनीपालसचिवरोपिताः सफलतां नीयन्ते मतिप्रतानित्यः।
 
@@ -546,6 +535,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** निपुणकः**—(संस्कृतमाश्रित्य) ततश्च मन्मतिप्रचयनिश्चितविजयजातसन्तोषपोषश्चिरं चिक्रीड तापीतीरकान्तारतरुलतानिकुञ्जेषु।  
 
+
 ** तथाहि—**
 
 **क्वचिद्दोलाकेलिं क्वचिदपि च पुष्पावचयनं  
@@ -553,7 +543,8 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ———————————————————————————————————————————————
 
-तादृशनिष्करुणरणशुष्कतुरष्कसंहरणजनिता जयलक्ष्मीरात्मना गूर्जरमहीग्रहणकीर्त्याः कर्णकुण्डली भवति। अन्यथा अधुना गृहीतविग्रहेषु युष्मत्सु यदि वैरिवीरैः कृतसन्धानः तेषां परिग्रहं गृहीत्वा आत्मनां सम्मुखः परागच्छति। तत् केन साधयितुं शक्यते मंत्रशक्तिसमुच्छृङ्गितप्रभूत्साहशक्तिः श्रीलवणप्रसादाङ्गोद्भवः। तदिहैव गूर्जरमालवदेशप्रवेशमार्गयुगमुखसंनिवेशे स्थित्वा तापीतीरवनगहनविहारकौतुहलेन क्रियतां तद्युद्धप्रवृत्तिः यावत् समयविलम्बः
+तादृशनिष्करुणरणशुष्कतुरष्कसंहरणजनिता जयलक्ष्मीरात्मना गूर्जरमहीग्रहणकीर्त्याः कर्णकुण्डली
+भवति। अन्यथा अधुना गृहीतविग्रहेषु युष्मत्सु यदि वैरिवीरैः कृतसन्धानः तेषां परिग्रहं गृहीत्वा आत्मनां सम्मुखः परागच्छति। तत् केन साधयितुं शक्यते मन्त्रशक्तिसमुच्छृङ्गितप्रभूत्साहशक्तिः श्रीलवणप्रसादाङ्गोद्भवः। तदिहैव गूर्जरमालवदेशप्रवेशमार्गयुगमुखसन्निवेशे स्थित्वा तापीतीरवनगहनविहारकौतुहलेन क्रियतां तद्युद्धप्रवृत्तिः यावत् समयविलम्बः
 
 **सिषेवे देवोऽसौ प्रणयलयलीलामयमनो-  
 गलच्चैतन्याभिः सह सहचरीभिः प्रतिलवम्॥१४॥**
@@ -568,47 +559,47 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 ** लावण्यसिंहः**—तावदमन्दानन्दरसार्णवमग्न एवायमभवदवनिधवः।ततस्ततः।
 
 **
-निपुणकः**—तओ[^14] तत्थ तावीतरंगभुअपरिसंगरंगेहि कलियजलसीअरनिउरंवं सत्तियसेअंबुचुंबिउव्वसमीरणं सेवमाणस्स तस्स कुसुमियतीरतरुमूलसुहनिविट्ठस्स नरिंदस्स सुवेगो कलियतवोहणवेसो तडिणीतडपयडियमज्झण्हसंझज्झाणो नयणगोयरं गदो। अवारसंसारसायरपरिसोसणप्पलयकालाणलद्धतवतेअनिही मह पुन्नायड्ढिओ सयंज्जेव महेसरुव्वमहीवीढं अवयरिओ एसो। एयं भासिऊण तप्पयपणामसमूसुअहिअओ तुरियतुरिएहिं चलणक्खेवेहिं चलियो राआ।
+निपुणकः**—तओ[^14] तत्थ तावीतरङ्गभुअपरिसङ्गरङ्गेहि कलियजलसीअरनिउरंवं सत्तियसेअम्बुचुम्बिउव्व समीरणं सेवमाणस्स तस्स कुसुमियतीरतरुमूलसुहनिविट्ठस्स नरिन्दस्स सुवेगो कलियतवोहणवेसो तडिणीतडपयडियमज्झण्हसञ्झज्झाणो नयणगोयरं गदो। अवारसंसारसायरपरिसोसणप्पलयकालाणलद्धतवतेअनिही मह पुन्नायड्ढिओ सयञ्ज्जेव महेसरुव्व महीवीढम् अवयरिओ एसो। एयं भासिऊण तप्पयपणामसमूसुअहिअओ तुरियतुरिएहिं चलणक्खेवेहिं चलियो राआ।
 
-[^14]: "ततः तत्र तापीतरङ्गभुजपरिसङ्गरङ्गैः कलितजलशीकरनिकुरम्बं सात्विकसेकाम्बुचुम्बित-मिव समीरणं सेवमानस्य तस्य कुसुमिततीरतरुमूलसुखनिविष्टस्य नरेन्द्रस्य सुवेगः, कलिततपोधनवेषः तटिनीतटप्रकटितमध्याह्नसन्ध्याध्यानः नयनगोचरं गतः। अपारसंसारसागरपरिशोषणप्रलयकालानल- लब्धतपस्तेजोनिधिः मम पुण्याकृष्टः स्वयमेव महेश्वर इव महीपीठमवतरित एषः। एवं भाषित्वा तत्पदप्रणामसमुत्सुकहृदयः त्वरितत्वरितैः चलनक्षेपैः चलितो राजा॥"
+[^14]: # "ततः तत्र तापीतरङ्गभुजपरिसङ्गरङ्गैः कलितजलशीकरनिकुरम्बं सात्विकसेकाम्बुचुम्बित-मिव समीरणं सेवमानस्य तस्य कुसुमिततीरतरुमूलसुखनिविष्टस्य नरेन्द्रस्य सुवेगः, कलिततपोधनवेषः तटिनीतटप्रकटितमध्याह्नसन्ध्याध्यानः नयनगोचरं गतः। अपारसंसारसागरपरिशोषणप्रलयकालानल- लब्धतपस्तेजोनिधिः मम पुण्याकृष्टः स्वयमेव महेश्वर इव महीपीठमवतरित एषः। एवं भाषित्वा तत्पदप्रणामसमुत्सुकहृदयः त्वरितत्वरितैः चलनक्षेपैः चलितो राजा॥"
 
 ** लावण्यसिंहः**—(सोपहासम्) अहो! मोहस्तस्य महीशस्य। ततस्ततः।
 
-** निपुणकः**— संमुहं[^15] चेव पयाइलोअपरिवारियं पहुबीपइंपरावडिदं पिक्खिऊण पलाइदो एसो तावसो।
+** निपुणकः**— सम्मुहं[^15] चेव पयाइलोअपरिवारियं पहुबीपइं परावडिदं पिक्खिऊण पलाइदो एसो तावसो।
 
-[^15]: "सम्मुखमेव पदातिलोकप- रिवारितं पृथ्वीपतिं परापतितं प्रेक्ष्य पलायित एष तापसः।"
+[^15]: # "सम्मुखमेव पदातिलोकप- रिवारितं पृथ्वीपतिं परापतितं प्रेक्ष्य पलायित एष तापसः।"
 
 ** लावण्यसिंहः**—(सहासम्) ततस्ततः।
 
 ** निपुणकः**—**तओ**[^16]
 
-[^16]: "ततः-कोऽपि कस्यापि गूढपुरुष"
+[^16]: # "ततः-कोऽपि कस्यापि गूढपुरुष"
 
- को विस्स वि गूढपुरिसो एसो गिन्नह गिन्नहित्ति नरिंदपेसिअतुरियभडेहिं गहिओ मह जीवियं रक्खध रक्खध।
+ को विस्स वि गूढपुरिसो एसो गिन्नह गिन्नहित्ति नरिन्दपेसिअतुरियभडेहिं गहिओ मह जीवियं रक्खध रक्खध।
 
- एरिसं पुणो पुणो वि जंपंतो बलाइडियबाहू विसमविसमकयपयसंचारो अनिच्छंतुव्व आणिओनरिंदस्स पुरओ। तओ अहं न कस्स वि गूढपुरिसो नत्थि किंपि मह जडाजूडमज्झम्मि कीरिसो वि लेहो ता कहं अहं धरिओत्ति विहुरं विलवंतस्स कंपियसयलसरीरस्स तस्स जडामंडलमूलम्मि मए विणिहियहत्थेण मंडलेसरसंगामसीहस्स एयंनामंकिओ पाविओ लेहो। तओ मह हत्याओ गहिऊण राया उग्गंठिऊण जाव पलोवइ ताव तत्थ न हु लिविलवो वि चिट्ठइ। पच्छा किमेयं ति रायपुच्छिएण मए खणमित्तं चिंनिऊणनिवेइयं जं कस्स वि लेहवडसवन्नस्स लेवस्स लिवो संभावीयदि, ता खणं तरणितावे दाऊण एयस्स ज्जेव कवडतावसस्स तुंबीहलाहारच्छारेण विच्छड्डिया फुडीभविस्सह। तओ एयं काऊण महाराएणवाचिऊण लेहो महज्जेव समप्पिओ। एसो सो।
+ एरिसं पुणो पुणो वि जम्पन्तो बलाइडियबाहू विसमविसमकयपयसञ्चारो अनिच्छन्तुव्व आणिओनरिन्दस्स पुरओ। तओ अहं न कस्स वि गूढपुरिसो नत्थि किम्पि मह जडाजूडमज्झम्मि कीरिसो वि लेहो ता कहम् अहं धरिओत्ति विहुरं विलवन्तस्स कम्पियसयलसरीरस्स तस्स जडामण्डलमूलम्मि मए विणिहियहत्थेण मण्डलेसरसङ्गामसीहस्स एयन्नामङ्किओ पाविओ लेहो। तओ मह हत्याओ गहिऊण राया उग्गण्ठिऊण जाव पलोवइ ताव तत्थ न हु लिविलवो वि चिट्ठइ। पच्छा किमेयं ति रायपुच्छिएण मए खणमित्तं चिन्निऊणनिवेइयं जं कस्स वि लेहवडसवन्नस्स लेवस्स लिवो सम्भावीयदि, ता खणं तरणितावे दाऊण एयस्स ज्जेव कवडतावसस्स तुम्बीहलाहारच्छारेण विच्छड्डिया फुडीभविस्सह। तओ एयं काऊण महाराएण वाचिऊण लेहो महज्जेव समप्पिओ। एसो सो।
 
 **(इति ग्रन्थितः समाकृष्यलेखं समर्पयति।)**
 
-** लावण्यसिंहः**—(गृहीत्वा वाचयति) स्वस्ति श्रीमहाराजदेवपालदेवः सङ्ग्रामसिंहमण्डलेश्वरं समादिशति। अस्माभिर्निजविजयश्रीवशीकरणकारणं त्वत्कृते प्रहृतमिदमश्वरत्नम्। त्वया तु सततमत्रैव कटके स्थातव्यम्। यदा गूर्जरावनिंप्रविशतोऽस्य नृपस्य वयमाकस्मिकागमनेन समरसंरम्भं सम्भावयामः, तदा निजपितृवधभववैरार्णवोत्तरणाय तरीकरणीयः करवाल इति। (लेखार्थमवधार्य चरं प्रति) तदित्यवगत्य किं प्रतिपन्नमनेन मानिना मेदिनीजानिना।
+** लावण्यसिंहः**—(गृहीत्वा वाचयति) स्वस्ति श्रीमहाराजदेवपालदेवः सङ्ग्रामसिंहमण्डलेश्वरं समादिशति। अस्माभिर्निजविजयश्रीवशीकरणकारणं त्वत्कृते प्रहृतमिदमश्वरत्नम्। त्वया तु सततमत्रैव कटके स्थातव्यम्। यदा गूर्जरावनिं प्रविशतोऽस्य नृपस्य वयमाकस्मिकागमनेन समरसंरम्भं सम्भावयामः, तदा निजपितृवधभववैरार्णवोत्तरणाय तरीकरणीयः करवाल इति। (लेखार्थमवधार्य चरं प्रति) तदित्यवगत्य किं प्रतिपन्नमनेन मानिना मेदिनीजानिना।
 
 **
-निपुणकः**—तओ[^17] अहंज्जेव तुरयदंसणम्मि पेसिओ पहुवीपहुणा। तओ तत्यगयेण मए एसो गुज्जरमहीहंडमंडलाहिवई मा विसुत्तीअदुत्ति नियलहुसहोयरकुसलयमुहेणतुम्हाणं कुविओ रायत्ति संगामसीहस्स कहा-
+निपुणकः**—तओ[^17] अहञ्ज्जेव तुरयदंसणम्मि पेसिओ पहुवीपहुणा। तओ तत्यगयेण मए एसो गुज्जरमहीहण्डमण्डलाहिवई मा विसुत्तीअदुत्ति नियलहुसहोयरकुसलयमुहेण तुम्हाणं कुविओ रायत्ति सङ्गामसीहस्स कहा-
 
-[^17]: "ततः अहमेव तुरगदर्शने प्रेषितः पृथ्वीप्रभुणा। ततः तत्रगतेन मया एषगुर्जरमहीखण्डमण्डलाधिपतिः मा विश्वस्यतामिनि निजलघुसहोदरकुशलकमुखेन"
+[^17]: # "ततः अहमेव तुरगदर्शने प्रेषितः पृथ्वीप्रभुणा। ततः तत्रगतेन मया एष गुर्जरमहीखण्डमण्डलाधिपतिः मा विश्वस्यतामिनि निजलघुसहोदरकुशलकमुखेन"
 
 **——————————————————————————————————————————————**
 
-एप गृह्णीत गृह्णीत। नरेन्द्रप्रेषितत्वरितभटैःगृहीतो मम जीवितं रक्षत रक्षत। एतादृशं पुनः पुनरपि जल्पन् बलाकृष्टबाहुः विषमविषमकृतपदसञ्चारः अनिच्छन्निव आनीतः नरेन्द्रस्य पुरतः। ततोऽहं न कस्यापि गृढपुरुषः, नास्ति किमपि मम जटाजूटमध्ये कीदृशोऽपि लेखः, तत्कथमहं घृत इति विधुरं विलपतः कम्पितसकलशरीरस्य तस्य जटामण्डलमूले मया विनिहितहस्तेन मण्डलेश्वरसङ्ग्रामसिंहस्य एतन्नामाङ्कितः प्राप्तो लेखः। ततो मम हस्तात् गृहीत्वाराजा उद्ग्रथ्ययावत्प्रलोकयति तावत् तत्र न खलु लिपिलवोऽपि तिष्ठति। अत्र किमेतदिति राजपृष्टेन मया क्षणमात्रं चिन्तयित्वा निवेदितं यत्कस्यापि लेखपटसवर्णस्य लेपस्य लिपिः सम्भाव्यते, तत्क्षणं तरणितापे दत्त्वा एतस्यैव कपटतापसस्य तुम्बीफलाधारक्षारेण विच्छादिता स्फुटीभविष्यति। तत एवं कृत्वा महाराजेन वाचयित्वा लेखो ममैव समर्पितः। एषसः॥
+एप गृह्णीत गृह्णीत। नरेन्द्रप्रेषितत्वरितभटैः गृहीतो मम जीवितं रक्षत रक्षत। एतादृशं पुनः पुनरपि जल्पन् बलाकृष्टबाहुः विषमविषमकृतपदसञ्चारः अनिच्छन्निव आनीतः नरेन्द्रस्य पुरतः। ततोऽहं न कस्यापि गृढपुरुषः, नास्ति किमपि मम जटाजूटमध्ये कीदृशोऽपि लेखः, तत्कथमहं घृत इति विधुरं विलपतः कम्पितसकलशरीरस्य तस्य जटामण्डलमूले मया विनिहितहस्तेन मण्डलेश्वरसङ्ग्रामसिंहस्य एतन्नामाङ्कितः प्राप्तो लेखः। ततो मम हस्तात् गृहीत्वा राजा उद्ग्रथ्य यावत्प्रलोकयति तावत् तत्र न खलु लिपिलवोऽपि तिष्ठति। अत्र किमेतदिति राजपृष्टेन मया क्षणमात्रं चिन्तयित्वा निवेदितं यत्कस्यापि लेखपटसवर्णस्य लेपस्य लिपिः सम्भाव्यते, तत्क्षणं तरणितापे दत्त्वा एतस्यैव कपटतापसस्य तुम्बीफलाधारक्षारेण विच्छादिता स्फुटीभविष्यति। तत एवं कृत्वा महाराजेन वाचयित्वा लेखो ममैव समर्पितः। एष सः॥
 
-विदं। अस्थि रविरहवाहाणं अट्ठमो विय मालवियरायनामंकिओ तुरिओ त्तिविन्नवियं सीहणदेवस्स। इत्थंतरे भूवइभएण पलाइदो संगामसिंहो। तओ कवडेण वि अंगीकयगंगाहरवेसो एसो न मारिउं जुज्जइ त्ति मए सुवेओ मिल्लाविओ।
+विदम्। अस्थि रविरहवाहाणम् अट्ठमो विय मालवियरायनामङ्किओ तुरिओ त्ति विन्नवियं सीहणदेवस्स। इत्थन्तरे भूवइभएण पलाइदो सङ्गामसिंहो। तओ कवडेण वि अङ्गीकयगङ्गाहरवेसो एसो न मारिउं जुज्जइ त्ति मए सुवेओ मिल्लाविओ।
 
 ** लावण्यसिंहः**—साधु निपुणक साधु! साधु प्रज्ञानिधे साधु!। कस्त्वदन्योऽस्मन्मतिमियन्तं महिमानमानेतुमीष्टे। ततस्ततः।
 
 **
-निपुणकः**—तओ[^18] अइकोवानलपज्जलिओ चलिओ मालवम्मि मेइणीनाहो। सिरिदेववालदेवो वि तस्स सम्मुहंज्जेव परावडिदो। एयं तत्थ परप्परगरूयविग्गहगहियगव्वम्मि रिज्जुयले एरिसकहाकहणत्थं सिरिवत्थुवालपासम्मि सुवेअं पेसिऊण अहं पि तुम्हाणं समीवं समागओ।
+निपुणकः**—तओ[^18] अइकोवानलपज्जलिओ चलिओ मालवम्मि मेइणीनाहो। सिरिदेववालदेवो वि तस्स सम्मुहञ्ज्जेव परावडिदो। एयं तत्थ परप्परगरूयविग्गहगहियगव्वम्मि रिज्जुयले एरिसकहाकहणत्थं सिरिवत्थुवालपासम्मि सुवेअं पेसिऊण अहं पि तुम्हाणं समीवं समागओ।
 
-[^18]: "१ ततः अतिकोपानलप्रज्वलितञ्चलितो मालवेषु मेदिनीनाथः। देवपालदेवोऽपि तस्य सम्मुखमेव परापतितः। एवं तत्र परस्परगुरुकविग्रहगृहीतगर्वेरिपुयुगले एतादृशकथाकथनार्थ श्रीवस्तुपालपार्श्वे सुवेगं प्रेष्य अहमपि युष्माकं समीपं समागतः॥"
+[^18]: # "१ ततः अतिकोपानलप्रज्वलितञ्चलितो मालवेषु मेदिनीनाथः। देवपालदेवोऽपि तस्य सम्मुखमेव परापतितः। एवं तत्र परस्परगुरुकविग्रहगृहीतगर्वे रिपुयुगले एतादृशकथाकथनार्थ श्रीवस्तुपालपार्श्वे सुवेगं प्रेष्य अहमपि युष्माकं समीपं समागतः॥"
 
 ** लावण्यसिंहः**—अहो महनीयः कश्चिदेष सामग्रीविशेषः।
 
@@ -631,7 +622,8 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 **——————————————————————————————————————**
 
-युष्माकं कुपितो राजेति सङ्ग्रामसिंहस्य कथापयितम्। अस्ति रविरथवाहानामष्टम इव मालवी राजनामाङ्कितो तुरग इति विज्ञप्तं सिंहनदेवस्य। अत्रान्तरे भूपतिभयेन पलायितः सङ्ग्रामसिंहः ततः कपटेनापि अङ्गीकृतगङ्गाधरवेष एष न मारयितुं युज्यत इति मया सुवेगो मोचितः।
+युष्माकं कुपितो राजेति सङ्ग्रामसिंहस्य कथापयितम्। अस्ति रविरथवाहानामष्टम इव मालवी
+राजनामाङ्कितो तुरग इति विज्ञप्तं सिंहनदेवस्य। अत्रान्तरे भूपतिभयेन पलायितः सङ्ग्रामसिंहः ततः कपटेनापि अङ्गीकृतगङ्गाधरवेष एष न मारयितुं युज्यत इति मया सुवेगो मोचितः।
 
 **सम्प्रति हि, वल्गन्ती नभसि हिमांशुधामलेश-  
 व्याजेन प्रथममुदित्वरी पताका।  
@@ -642,16 +634,17 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 **दव इव जयतीन्दोः पिञ्जरः कान्तिपुञ्जः।  
 इति हृदयनिकेतं लग्नकामस्फुलिङ्ग-  
-ज्वलितमिव वधूनां मङ्क्षुमानो मुमोच॥१८॥**  
+ज्वलितमिव वधूनां मङ्क्षु मानो मुमोच॥१८॥**  
+
 
  अहह! सहस्रद्युतिपतनमहाप्रहारोच्छलितजलधिलहरिदूरप्रणुन्नमिव चिरादचुम्बदम्बरमिदमिन्दुबिम्बम्। (विमृश्य च) अहो महत्त्वसुहृदोरम्बराम्बुनाधयोरुपकृतिप्रत्युपकृतिचरितरुचिरः कश्चित्प्रमोदप्रपञ्चः। तथाहि—
 
 **यददित निजरत्नं भास्करं व्योमदेश-  
 स्तदुरुलहरिलासैरम्बुराशिर्ननर्त्त।  
 यदयमपि हिमांशुं प्रत्यदादात्मरत्नं  
-सपदि तदमुनाऽपि ज्योत्स्नया हस्यतेस्म॥१९॥**
+सपदि तदमुनाऽपि ज्योत्स्नया हस्यते स्म॥१९॥**
 
-  तान्यपि**,**
+** ** तान्यपि**,**
 
 **नीलानि षट्पदकुलानि हसन्मुखीनां  
 लीनानि भान्ति हृदयेषु कुमुद्धतीनाम्।  
@@ -667,8 +660,8 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
  (गगनाङ्गणमवलोक्य) सोऽयं मन्दं मन्दमुदञ्चति देवः।
 
-**भृङ्गीसङ्गि वियत्तडागकुमुदं कस्तूरिकार्द्रंनिशा-  
-स्त्रीवक्त्रंसितिधामचामरधरः कन्दर्पवीरः स्फुरः।  
+**भृङ्गीसङ्गि वियत्तडागकुमुदं कस्तूरिकार्द्रं निशा-  
+स्त्रीवक्त्रं सितिधामचामरधरः कन्दर्पवीरः स्फुरः।  
 रक्षाभोगिविभूषितं भुवनदृक्पीयूषकुण्डं वपु-  
 नैर्मल्यस्फुटदृश्यपीततिमिरप्रख्याङ्कपङ्को विधुः॥२२॥**
 
@@ -683,7 +676,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 **भृङ्गा भृङ्गकुलेषु पुष्पितलतालीनेषु पुष्पभ्रमा-  
 ल्लीयन्तेऽभ्रमुवल्लभभ्रमभृतोऽन्योन्यं नमन्ति द्विपाः।  
-ते भोगीन्द्रधिया च भर्गभुजगा भक्तिंं भजन्ते मिथः  
+ते भोगीन्द्रधिया च भर्गभुजगा भक्तिं भजन्ते मिथः  
 पीयूषत्विषि कौमुदीसमुदयाद्वैतं समातन्वति॥२४॥**
 
  (सहर्षोल्लासं च) अहो! नहि कदाचिदपि स्वजनैर्भुज्यमाना विलीयन्ते विभूतयः। तथाहि—
@@ -697,7 +690,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 **बद्धस्पर्द्धा वदनसदनैर्लोचनैरङ्गनाना-  
 मङ्गीचक्रे तुहिनकिरणोत्सङ्गसङ्गं कुरङ्गः।  
-दर्शंदर्शं बत जितमिवात्मानमत्राप्यमीभिः  
+दर्शन्दर्शं बत जितमिवात्मानमत्राप्यमीभिः  
 शङ्के सङ्कोचयति निचितव्रीडपीडः क्रमेण॥२६॥**
 
 **अपि च। ध्रुवमविरलतारासीकरोत्क्षेपहारि**
@@ -716,7 +709,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
  अहह! महद्भयोऽपि महान्तो महनीयतामावहन्ति। यतः—
 
 **बद्धस्पर्द्धाविरोधात्कवचयतु पयः सिन्धुवीचीमरीची-  
-नुच्चैःसन्नह्यतां वा कुमुदसमुदयोदञ्चदंसुप्रपञ्चैः।  
+नुच्चैः सन्नह्यतां वा कुमुदसमुदयोदञ्चदंसुप्रपञ्चैः।  
 चन्द्राश्मद्रावकुल्यामयरुचिनिचयादस्तु संवर्मितं वा  
 तच्चान्द्रं धाम सान्द्रं तदपि निभमभून्मत्प्रभोर्नैव कीर्त्तेः॥२९॥**
 
@@ -732,7 +725,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **अन्वर्कं द्युतिशालिनोऽनु शशिनं सौम्यस्पृशोऽन्वर्जुनं  
 योद्धारोऽनु बलिं च दानचतुरा जातेति नित्या श्रुतिः।  
 एकत्रैव तु सिन्धुराजतनये तादृग्यशो जल्पतां  
-चेद्विघ्नायविभाति वीरधवलक्ष्माभृद्गुणानुस्मृतिः॥३१॥**
+चेद्विघ्नाय विभाति वीरधवलक्ष्माभृद्गुणानुस्मृतिः॥३१॥**
 
  (सानुस्मरणं च)
 
@@ -747,14 +740,14 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** कुशलकः**—
 
-**झायंतो[^19] पुव्ववेरं तरलियतुरयक्केरपायप्पहार-  
+**झायन्तो[^19] पुव्ववेरं तरलियतुरयक्केरपायप्पहार-  
 प्पब्भारुक्खित्तधूलीवलयकवलियासेससृरप्पहावो।  
-तुम्हाणं सेमुहीहिं कडयविहडिओ संपइत्थंभतित्थ-  
-त्थंभत्थं एइ रोसप्पसरकलुसिओ नाह संगामसीहो ॥३३॥**
+तुम्हाणं सेमुहीहिं कडयविहडिओ सम्पइत्थम्भतित्थ-  
+त्थम्भत्थम् एइ रोसप्पसरकलुसिओ नाह सङ्गामसीहो ॥३३॥**
 
-[^19]: "ध्यायन् पूर्ववैरं तरलिततुरगसम्बन्धिपादप्रहारप्राग्भारोत्क्षिप्तधूलीवलयकवलिताशेषसूरप्रभावः। युष्माकं शेमुषीभिः कटकविघटितः सम्प्रति स्तम्भतीर्थस्तम्भार्थमेति रोषप्रसरकलुषितो नाथ सङ्ग्राम- सिंहः॥"
+[^19]: # "ध्यायन् पूर्ववैरं तरलिततुरगसम्बन्धिपादप्रहारप्राग्भारोत्क्षिप्तधूलीवलयकवलिताशेषसूरप्रभावः। युष्माकं शेमुषीभिः कटकविघटितः सम्प्रति स्तम्भतीर्थस्तम्भार्थमेति रोषप्रसरकलुषितो नाथ सङ्ग्राम- सिंहः॥"
 
-** वस्तुपालः**—(पुरोऽवलोक्य ससंरम्भम्) किमात्थ भो कुशलक किमात्थ? कुशलकः झायंतो पुव्ववेरं, इत्यादि पुनः पठति
+** वस्तुपालः**—(पुरोऽवलोक्य ससंरम्भम्) किमात्थ भो कुशलक किमात्थ? कुशलकः झायन्तो पुव्ववेरं, इत्यादि पुनः पठति
 
 ** वस्तुपालः**—(सक्रोधम्) अये प्रहितप्रधानपुरुषप्रपञ्चेन विप्रतार्य चिरमस्मानाकस्मिकप्रपातेन स्तम्भपुरीं परिभूय पूर्वकलुषितं यशो विशदयितुमिच्छति सैन्धुराजिः। धिग् मौढ्यममुष्य।
 
@@ -769,15 +762,16 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** पुरुषः**—आणवेदु भट्टा[^20]।
 
-[^20]: "आज्ञापयतु भर्त्ता।"
+[^20]: # "आज्ञापयतु भर्त्ता।"
 
-** वस्तुपालः**—प्रहिणु स्तम्भतीर्थाय वीरवर्गोदग्रांसैन्यसामग्रीमिहाकारय च भुवनकाभिधानं सङ्ग्रामसिंहप्रधानम्।
+** वस्तुपालः**—प्रहिणु स्तम्भतीर्थाय वीरवर्गोदग्रां सैन्यसामग्रीमिहाकारय च भुवनकाभिधानं सङ्ग्रामसिंहप्रधानम्।
 
 ** पुरुषः**—जं[^21] आदिसदि देवो। (इति निष्क्रान्तः)
 
-[^21]: "यदाऽऽदिशति देवः।"
+[^21]: # "यदाऽऽदिशति देवः।"
 
  (ततः प्रविशति भयवेपमानवपुर्भुवनकः)  
+
 
 ** भुवनकः**—(स्वगतम्) कथमिव प्रकाशतां गतोऽयमर्थः। अथवा अतीन्द्रियज्ञानमयं नयनमिव विप्रकृष्टकालाध्वप्रयोगालोकनेऽपि विभवति गुप्तचरचक्रं सचिवचक्रवर्तिनाम्। (पुरोऽवलोक्य प्रकाशम्)
 
@@ -788,6 +782,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 ** वस्तुपालः**—(सावहित्यकोपम्) इहास्यताम्।
 
 (मुवनक उपविशति)  
+
 
 (नेपथ्ये)
 
@@ -802,7 +797,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 **कुर्वद्भिर्गलगर्जितानि मुरजस्वानोद्भटानि स्फुटं  
 वीरेन्द्रैरपि तारगीतरुचिरं हेषारवं वाजिभिः।  
-त्रस्यद्वैरिमहोत्सवैकसुभगे श्रीस्तम्भतीर्थेजवा-  
+त्रस्यद्वैरिमहोत्सवैकसुभगे श्रीस्तम्भतीर्थे जवा-  
 दास्तां ताण्डवडम्बरव्यसनिनी देवी जयश्रीः स्वयम्॥३६॥**
 
 ** वस्तुपालः**—(समाकर्ण्य सहर्षसंरम्भम्) अये स्तम्भतीर्थं प्रति प्रयाणकाय प्रगुणीभवन्ति सूरपालादयः सेनापतयः। (भुवनकं प्रति) तेन भवत्प्रभुणा त्वत्प्रेरणादस्मान्विप्रतारयता कपटावस्कन्दकन्दलितक लङ्काङ्कुरेण सङ्ग्रामसिंह इति निजनामार्थं व्यर्थं समर्थयता सम्प्रति,
@@ -821,9 +816,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 (नेपथ्ये हयहेषारवः स्यन्दनचक्रचीत्कारश्च)
 
-** भुवनकः**—(समाकर्ण्य स्वगतम्) कथं चलितमेव सकलमपि बलं स्तम्भतीर्थाय। अहो! त्वरितकारिता सचिवशेखरस्य। तदिदानीमशुभोदर्क इव सहानेन
-
-विग्रहः सङ्ग्रामसिंहस्य।स्फुटमफलितप्रारम्भस्य पुनरमुष्य वलमानस्य नश्यन्ति यशांसि। तदयमुदग्रनिग्रहव्यस्तवीरधवलप्रतिग्रहाय प्रचलितो मत्प्रभुरितीह तु प्रकाश्य तत्राप्येवं गुप्तचरमुखेन निवेदयिष्ये तदेव यशस्करम्।
+** भुवनकः**—(समाकर्ण्य स्वगतम्) कथं चलितमेव सकलमपि बलं स्तम्भतीर्थाय। अहो! त्वरितकारिता सचिवशेखरस्य। तदिदानीमशुभोदर्क इव सहानेन विग्रहः सङ्ग्रामसिंहस्य।स्फुटमफलितप्रारम्भस्य पुनरमुष्य वलमानस्य नश्यन्ति यशांसि। तदयमुदग्रनिग्रहव्यस्तवीरधवलप्रतिग्रहाय प्रचलितो मत्प्रभुरितीह तु प्रकाश्य तत्राप्येवं गुप्तचरमुखेन निवेदयिष्ये तदेव यशस्करम्।
 
 **(प्रकाशम्)**
 
@@ -843,11 +836,12 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 ** वस्तुपालः**—(निपुणकं प्रति) तदा क्व भवानभवदारातिबलपारावारपारीणः।
 
 **
-निपुणकः**—महिम[^22]हानईलंघणसमुक्कण्ठिए संगामसीहे अहं आगदुम्हि।
+निपुणकः**—महिम[^22]हानईलङ्घणसमुक्कण्ठिए सङ्गामसीहे अहम् आगदुम्हि।
 
-[^22]: "महीमहानदीलङ्घनसमुत्कण्ठिते सङ्ग्रामसिंहे अहमागतोऽस्मि।"
+[^22]: # "महीमहानदीलङ्घनसमुत्कण्ठिते सङ्ग्रामसिंहे अहमागतोऽस्मि।"
 
 ** वस्तुपालः**—तदहमपि सुभटालिपालितधवलकपुरः सत्वरमेव स्तम्भतीर्थाय गच्छामि।  
+
 
 (इति निष्क्रान्तः)
 
@@ -873,7 +867,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **पुरक्ष्माभृत्कुञ्जान्तरतरणिदीपाञ्जनभरैः  
 पदभ्रश्यत्तारावलिकलितनिःश्वासनिवहैः।  
 तमःपूरैर्दूरव्यवसितचकोरप्रणयिनी-  
-चयाचान्तज्योत्स्नाजलबहुलपङ्कैःप्रववृते॥२॥**
+चयाचान्तज्योत्स्नाजलबहुलपङ्कैः प्रववृते॥२॥**
 
 ** इतश्च**—
 
@@ -900,9 +894,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
  अहो ! महस्विना सह विग्रहारम्भो निशितव्यसनोल्लासायैव।
 
 **काष्ठाबद्धान्तरिक्षाहवभुवि विकसत्तारकापुष्पहस्तः  
-संपूर्णश्चन्द्रयोद्धा कृतकरविततिः स्फायमानस्फुरश्रीः।  
-दृष्ट्वाशूराङ्ककारं निहितकरगणं दूरतोऽप्युत्पतन्तं  
-त्रस्तः संन्यस्तहेतिर्झगिति गिरितटे लक्ष्मघातः पपात॥६॥**
+सम्पूर्णश्चन्द्रयोद्धा कृतकरविततिः स्फायमानस्फुरश्रीः।  
+दृष्ट्वा शूराङ्ककारं निहितकरगणं दूरतोऽप्युत्पतन्तं  
+त्रस्तः सन्न्यस्तहेतिर्झगिति गिरितटे लक्ष्मघातः पपात॥६॥**
 
 ** **इदानीं तु**,**
 
@@ -911,7 +905,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 उदयदतुलतापो दाडिमीबीजराजी-  
 सदृशमुखविकीर्णामम्बरे बालसूर्यः॥७॥**
 
- (विभाव्य च) अये ! बालप्रद्योतनपादाग्रप्रहतः कञ्चुक इव क्वजगाम कुमुदिनीजानिः। सम्प्रति हि,
+ (विभाव्य च) अये ! बालप्रद्योतनपादाग्रप्रहतः कञ्चुक इव क्व जगाम कुमुदिनीजानिः। सम्प्रति हि,
 
 **अम्भोजिनीभिरमुना तपनातपेन  
 त्यक्ता तुषारकरजाड्यकृतेव मूर्च्छा।  
@@ -943,26 +937,26 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 (ततः प्रविशति सम्भ्रान्तः पुरुषः)
 
-** पुरुषः**—(पुरो निरूप्य) अये[^23]किमिहय्येव सुरनाहविहप्पइव्व सिरिवीरधवलतेअवालसचिवपाया चिट्ठंति ।
+** पुरुषः**—(पुरो निरूप्य) अये[^23] किमिहय्येव सुरनाहविहप्पइव्व सिरिवीरधवलतेअवालसचिवपाया चिट्ठन्ति ।
 
-[^23]: "अये किमिहैव सुरनाथबृहस्पती इव श्रीवीरधवलतेजः पालपादाः तिष्ठन्ति।"
+[^23]: # "अये किमिहैव सुरनाथबृहस्पती इव श्रीवीरधवलतेजः पालपादाः तिष्ठन्ति।"
 
 (इति सत्वरं किञ्चिदुपसृत्य नृपं प्रणमति)
 
 ** तेजःपालः**—(नरेन्द्रं प्रति) देव! स एवायं कमलको नाम चरस्तुरष्कचरितानि चरितुं प्रहितोऽभूत्।
 
-** कमलकः**—णाह[^24]! दाहविहं सअलंपि मेअवाडयं हम्मीरवीरेहिं।
+** कमलकः**—णाह[^24] ! दाहविहं सअलम्पि मेअवाडयं हम्मीरवीरेहिम्।
 
-[^24]: "नाथ ! दाहितं सकलमपि मेदपाटकं हम्मीरवीरैः।"
+[^24]: # "नाथ ! दाहितं सकलमपि मेदपाटकं हम्मीरवीरैः।"
 
 ** वीरधवलः**—कथमिव?।
 
 **
-कमलकः**—अचिंति[^25]यचलिएहिं तेहिं अकिवत्तणकणकूडघडिएहिं व अयालजणकवलणकोऊहलबहुलीकयकयंतमुहनीहरियरसणेहिं खग्गसणाहकरेहिं दसमदारदुरुल्लसियकूररज्झाणकिरणनिउरुंवसरिसकविसकेसेहिं पलयारंभत्थत्थंभियसधूमकालानलविष्फुलिंगपिंगनयणेहिं धम्मिट्ठलोयनिट्ठवणुक्कंठियक
+कमलकः**—अचिन्ति[^25]यचलिएहिं तेहिम् अकिवत्तणकणकूडघडिएहिं व अयालजणकवलणकोऊहलबहुलीकयकयन्तमुहनीहरियरसणेहिं खग्गसणाहकरेहिं दसमदारदुरुल्लसियकूररज्झाणकिरणनिउरुंवसरिसकविसकेसेहिं पलयारम्भत्थत्थम्भियसधूमकालानलविष्फुलिङ्गपिङ्गनयणेहिं धम्मिट्ठलोयनिट्ठवणुक्कण्ठियक
 
-[^25]: "अचिंन्तितचलितैस्तैः अकृपत्वकणकूटघटितैरिवाकालजनकवलनकौतूहलबहुलीकृतकृतान्त-मुखनिस्सृरितरसनैः खड्गसनाथकरैः दशमद्वारदूरोल्लसितक्रूरध्यानकिरण निकुरुम्बसदृशक- पिशकेशैः प्रलयारम्भार्थोत्थम्भितसधूमकालानलविस्फुलिङ्गपिङ्गनयनैः धर्मिष्ठलोकनिष्ठापनोत्क- ण्ठित्तकलिकालकृ-"
+[^25]: # "अचिन्न्तितचलितैस्तैः अकृपत्वकणकूटघटितैरिवाकालजनकवलनकौतूहलबहुलीकृतकृतान्त-मुखनिस्सृरितरसनैः खड्गसनाथकरैः दशमद्वारदूरोल्लसितक्रूरध्यानकिरण निकुरुम्बसदृशक- पिशकेशैः प्रलयारम्भार्थोत्थम्भितसधूमकालानलविस्फुलिङ्गपिङ्गनयनैः धर्मिष्ठलोकनिष्ठापनोत्क- ण्ठित्तकलिकालकृ-"
 
-लिकालकियनियंगपूगेहिं वई(?) सरिच्छजीवियसयलकप्पकीणासकुटुंबेहिं व गब्भिणीगब्भगालणगरुअगहिरसीहसद्देहिं उच्चंडियकोअंडगुणटंकारकवलियहयहेसियरवेहिं मारेह मारेहित्ति भासमाणेहिं दावानलकीलाकलावेहिं व पुरपविट्ठेहिं विहुरिओ सयलोवि लोओ।
+लिकालकियनियङ्गपूगेहिं वई(?) सरिच्छजीवियसयलकप्पकीणासकुटुम्बेहिं व गब्भिणीगब्भगालणगरुअगहिरसीहसद्देहिम् उच्चण्डियकोअण्डगुणटङ्कारकवलियहयहेसियरवेहिं मारेह मारेहित्ति भासमाणेहिं दावानलकीलाकलावेहिं व पुरपविट्ठेहिं विहुरिओ सयलोवि लोओ।
 
 ** वीरधवलः**—तदिति पुरपारवश्यं निरूप्य किं प्रतिपन्नं मेदपाटपतिना?।
 
@@ -970,16 +964,16 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** वीरधवलः**—(सरोमाञ्चम्) किमेष निजपरुषपौरुषोत्तेजनाय शाणीचक्रे रिपुचक्रम्?।
 
-** कमलकः**—(सहासम्) भमिपरि[^26]भमियसरीरो बालुव्व सव्वंपि अप्पणसरिसं पेक्खसि।
+** कमलकः**—(सहासम्) भमिपरि[^26]भमियसरीरो बालुव्व सव्वम्पि अप्पणसरिसं पेक्खसि।
 
-[^26]: "किं प्रतिपन्नं ! यत् पतिपन्नं यत् हम्मीरवीरैः प्रसृतप्रहरणैः प्रतिपाद्यते। ३ भ्रमिपरिभ्रमितशरीरो बाल इव सर्वमपि आत्मसदृशं पश्यसि ॥  कस्तव विना सुसमर्थ एवं हम्मीराभिमुखः स्फुरति। विना कालचित्रकलतां कः जलपूरस्य सम्मुखं चटति॥"
+[^26]: # "किं प्रतिपन्नं ! यत् पतिपन्नं यत् हम्मीरवीरैः प्रसृतप्रहरणैः प्रतिपाद्यते। ३ भ्रमिपरिभ्रमितशरीरो बाल इव सर्वमपि आत्मसदृशं पश्यसि ॥ कस्तव विना सुसमर्थ एवं हम्मीराभिमुखः स्फुरति। विना कालचित्रकलतां कः जलपूरस्य सम्मुखं चटति॥"
 
 **को तुह विणु सुसमत्थो इत्थं हम्मीरअहिमुहो फुरइ।  
-विणु कालचित्तलयं को जलपूरस्स संमुहं चडइ॥**
+विणु कालचित्तलयं को जलपूरस्स सम्मुहं चडइ॥**
 
 ** वीरधवलः**—(सावज्ञमिव) किमयमप्यन्ध इव परिहृतप्रवीरमार्गः पपात दुर्यशोऽन्धकूपे ?।
 
-** कमलकः**—अह किं।  
+** कमलकः**—अह किम्।  
 ** वीरधवलः**—(सनिःश्वासम्)धिग् धिग रे पौरुषं जन्मान्तर अतिथीभविष्यति मृत्यौ किमिव परिहृतं धारातीर्थमिदम्।
 
 **युद्धे दृग्जलकज्जलैर्भुजभृतः शत्रुप्रियाणां निज-  
@@ -992,29 +986,29 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **आत्मानं च परांश्च गोत्रमपि च क्षत्रव्रतं च क्षणा-  
 त्प्रालेयांशुकलं कलङ्कयति कस्त्रस्यन्भवन्तं विना॥१२॥**
 
- ततस्ततः!  
+ ** **ततस्ततः!  
 **
-कमलकः**—तओ[^27] and 47 b (of 4 lines) of the palm-leaf ms., it is impossible to make out 6 lines of 45 letters each and hence that much portion is left out before this.") कयसतिणब्भवहारेसु कुकइकव्वेसु व बहुयबालबंभणगोउलमहिलामहणपयट्टिएसुतेसु हा रक्खध रक्खध पधावद पधावद धुत्तेहि व मिच्छुअहिदेवएहिं मारिज्जंतं सयललोयमिमं। कथं तिहुयणे वि न कोवि विप्फुरइखतियफुलिंगो। न कस्सवि विहसइ हिययम्मि साहसरसो। पडिओ कत्थ वि अंधकूवे पोरिसुक्करिसो।
+कमलकः**—तओ[^27] and 47 b (of 4 lines) of the palm-leaf ms., it is impossible to make out 6 lines of 45 letters each and hence that much portion is left out before this.") कयसतिणब्भवहारेसु कुकइकव्वेसु व बहुयबालबम्भणगोउलमहिलामहणपयट्टिएसु तेसु हा रक्खध रक्खध पधावद पधावद धुत्तेहि व मिच्छुअहिदेवएहिं मारिज्जन्तं सयललोयमिमम्। कथं तिहुयणे वि न कोवि विप्फुरइ खतियफुलिङ्गो। न कस्सवि विहसइ हिययम्मि साहसरसो। पडिओ कत्थ वि अन्धकूवे पोरिसुक्करिसो।
 
-[^27]: "ततः कृतसतृणाभ्यवहारेषु कुकविकाव्येष्विव बहुबालगोपालब्राह्मणगोकुलमहिलामथनप्रवर्त्तितेषु तेषु हा! रक्षत रक्षत, धावत धावत धूर्तैरिव मृत्यधिदैवतैः मार्यमाणं सकललोकमिमम। कथं त्रिभुवनेऽपि न कोऽपि विस्फुरति क्षत्रियस्फुलिङ्गः, न कस्यापि विहसति हृदये साहसरसः, पतितः कुत्राप्यन्धकूपे पौरुषोत्कर्षः। * Ink having faded on leaves 46 b (of 2 lines
+[^27]: # "ततः कृतसतृणाभ्यवहारेषु कुकविकाव्येष्विव बहुबालगोपालब्राह्मणगोकुलमहिलामथनप्रवर्त्तितेषु तेषु हा! रक्षत रक्षत, धावत धावत धूर्तैरिव मृत्यधिदैवतैः मार्यमाणं सकललोकमिमम। कथं त्रिभुवनेऽपि न कोऽपि विस्फुरति क्षत्रियस्फुलिङ्गः, न कस्यापि विहसति हृदये साहसरसः, पतितः कुत्राप्यन्धकूपे पौरुषोत्कर्षः। * Ink having faded on leaves 46 b (of 2 lines
 
 ** तेजःपालः**—
 
 **तेऽपि त्वत्पदपूरपिष्टपृथिवीपातभ्रमात्पन्नगाः  
-पाताले विकलं वलंति किमु तत्पाताऽसि विश्वत्रयीम्॥**
+पाताले विकलं वलन्ति किमु तत्पाताऽसि विश्वत्रयीम्॥**
 
 ** वीरधवलः**—(सत्रपातिरेकं कोशकवलितकरवालः समुपविश्य कमलकं प्रति) ततस्ततः।
 
 **
-कमलकः**—तओ[^28] नूणं अवीरप्पसवा एसा भयवई पुहवी न उण कावि खत्तिणी कत्थवि परदुक्ख- दुक्खियं तणयं पसूयत्ति झन्ति कलियाउलकलयलेसु तेसु नयरिनिवासिलोएसु न कोवि कुदोवि उक्कंठिअंगो धाविओ खत्तियकुमारो।
+कमलकः**— तओ[^28] नूणम् अवीरप्पसवा एसा भयवई पुहवी न उण कावि खत्तिणी कत्थवि परदुक्ख- दुक्खियं तणयं पसूयत्ति झन्ति कलियाउलकलयलेसु तेसु नयरिनिवासिलोएसु न कोवि कुदोवि उक्कण्ठिअङ्गो धाविओ खत्तियकुमारो।
 
-[^28]: "ततो नूनमवीरप्रसवा एषा भगवती पृथ्वी न पुनः कापि क्षत्रिणी कुत्रापि परदुःखदुःखितं तनयं प्रसूतेति झटिति कलिताकुलकलकलेषु तेषु नगरनिवासिलोकेषु न कोऽपि कुतोऽपि उत्कण्ठिताङ्गो धावितः क्षत्रियकुमारः।"
+[^28]: # "ततो नूनमवीरप्रसवा एषा भगवती पृथ्वी न पुनः कापि क्षत्रिणी कुत्रापि परदुःखदुःखितं तनयं प्रसूतेति झटिति कलिताकुलकलकलेषु तेषु नगरनिवासिलोकेषु न कोऽपि कुतोऽपि उत्कण्ठिताङ्गो धावितः क्षत्रियकुमारः।"
 
 ** वीरधवलः**—(सखेदम्) धिक् कष्टमियमुत्सन्नैव क्षितौ क्षत्रजातिः। ततस्ततः।
 
-** कमलकः**—तओ[^29]ताणं अविसंकियहिययाणं तिव्वतरवारिदारियजणउअरुच्छलियरुहिरवा- रुणीरसणोवदंसीकयकालहंडहंडाणं कीलालकद्दमियकुच्चयकेसाणं मलिणजाईणं अइभएण ताणं
+** कमलकः**—तओ[^29] ताणम् अविसङ्कियहिययाणं तिव्वतरवारिदारियजणउअरुच्छलियरुहिरवा- रुणीरसणोवदंसीकयकालहण्डहण्डाणं कीलालकद्दमियकुच्चयकेसाणं मलिणजाईणम् अइभएण ताणं
 
-[^29]: "ततस्तेषामविशङ्कितहृदयानां तीव्रत-"
+[^29]: # "ततस्तेषामविशङ्कितहृदयानां तीव्रत-"
 
 **हा ताय हा तणय हा पिय हा मइच्छि  
 हा भाय हा भगिणी हा भड हा सुणाह।  
@@ -1024,13 +1018,13 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 ** वीरधवलः**—(सबाष्पकण्ठगद्गदाक्षरम्) ततस्ततः।
 
 **
-कमलकः**—तओ[^30] मलिणजणहत्थमरणेण न होइ गई। इय चिंतिऊण गलनिगडियरडंतबालाइंकूएसु पडियाइंकाइवि मिहुणाइं। कत्थ पच्छावि चिअदहणदहणं विणावि गइसंभवो होइत्तिकेवि सयलनियकुडुंबपूरियंतरेसु सव्वओवि जलणं पज्जालिऊण पविट्ठा सयंज्जेव नियमंदिरेसु पुरिसा। न हु पिक्खिस्सं मारियमाणस्स नियजणस्स दुहंति केवि कंठसंठवियरज्जुग्गहा कयपरिकंदेसु कुटुंबेसु मरणं संपत्ता। केवि पडंतेसु रिउखग्गवग्गधाएसुविहुरनियगब्भरुवचूयाणं उवरिपरि- वडियनियकलत्तमरणखणविग्धरूवीभूया। केवि पुट्ठिसंठावियनिहुयरडंतनियकुटुंबा अमरिसरसुल्लसिया उद्धसिअंगा धसिऊण रिउसिन्नसमुद्दे वडवग्गिफुलिंगत्तणं पत्ता।
+कमलकः**—तओ[^30] मलिणजणहत्थमरणेण न होइ गई। इय चिन्तिऊण गलनिगडियरडन्तबालाइं कूएसु पडियाइं काइवि मिहुणाइम्। कत्थ पच्छावि चिअदहणदहणं विणावि गइसम्भवो होइत्ति केवि सयलनियकुडुम्बपूरियन्तरेसु सव्वओवि जलणं पज्जालिऊण पविट्ठा सयञ्ज्जेव नियमन्दिरेसु पुरिसा। न हु पिक्खिस्सं मारियमाणस्स नियजणस्स दुहन्ति केवि कण्ठसण्ठवियरज्जुग्गहा कयपरिकन्देसु कुटुम्बेसु मरणं सम्पत्ता। केवि पडन्तेसु रिउखग्गवग्गधाएसु विहुरनियगब्भरुवचूयाणम् उवरिपरि- वडियनियकलत्तमरणखणविग्धरूवीभूया। केवि पुट्ठिसण्ठावियनिहुयरडन्तनियकुटुम्बा अमरिसरसुल्लसिया उद्धसिअङ्गा धसिऊण रिउसिन्नसमुद्दे वडवग्गिफुलिङ्गत्तणं पत्ता।
 
-[^30]: "ततो मलिनजनहस्तमरणेन न भवति गतिरिति चिन्तयित्वा गलनिगडितरुदृद्वालानि कूपेषु पतितानि कान्यपि मिथुनानि। कुत्र पश्चादपि चितादहनं विनाऽपि गतिसंभवो भवतीति केऽपि निजकुटुम्बपूरितान्तरेषु सर्वतोऽपि ज्वलनं प्रज्ज्वाल्य प्रविष्टाः स्वयमेव निजमन्दिरेषु पुरुषाः। न खलु प्रेक्षिष्ये मार्यमाणस्य निजजनस्य दुःखमिति केऽपि कण्ठसंस्थापितरज्जुग्रहाः कृतपरिक्रन्देषु कुटुम्बेषु मरणं सम्प्राप्ताः। केऽपि पतत्सु रिपुखङ्गवर्गघातेषु विधुरनिजगर्भरूपच्युतानामुपरि परिपतितनिजकलत्रमरणक्षणविघ्नरूपीभूताः। केऽपि पृष्ठसंस्थापितनिभृतरुदन्निजकुटुम्बा अमर्षर-सोल्लसिता उद्धसिताङ्गा धसित्वा रिपुसैन्यसमुद्रे वाडवाग्निस्फुलिङ्गत्वं प्राप्ताः।"
+[^30]: # "ततो मलिनजनहस्तमरणेन न भवति गतिरिति चिन्तयित्वा गलनिगडितरुदृद्वालानि कूपेषु पतितानि कान्यपि मिथुनानि। कुत्र पश्चादपि चितादहनं विनाऽपि गतिसम्भवो भवतीति केऽपि निजकुटुम्बपूरितान्तरेषु सर्वतोऽपि ज्वलनं प्रज्ज्वाल्य प्रविष्टाः स्वयमेव निजमन्दिरेषु पुरुषाः। न खलु प्रेक्षिष्ये मार्यमाणस्य निजजनस्य दुःखमिति केऽपि कण्ठसंस्थापितरज्जुग्रहाः कृतपरिक्रन्देषु कुटुम्बेषु मरणं सम्प्राप्ताः। केऽपि पतत्सु रिपुखङ्गवर्गघातेषु विधुरनिजगर्भरूपच्युतानामुपरि परिपतितनिजकलत्रमरणक्षणविघ्नरूपीभूताः। केऽपि पृष्ठसंस्थापितनिभृतरुदन्निजकुटुम्बा अमर्षर-सोल्लसिता उद्धसिताङ्गा धसित्वा रिपुसैन्यसमुद्रे वाडवाग्निस्फुलिङ्गत्वं प्राप्ताः।"
 
 ** वीरधवलः**—साधु भोः सुभटचूडामणयः! साधु! साधु भो विपक्षपक्षकक्षाशुशुक्षणयः साधु!। युष्मानेव दोष्मतः सात्त्विकराजान् धारयन्ती राजधानीति सान्वयमभिधानमधत्त मेदपाटपुरी। यतः—
 
-रवारिदारितजनोदरोच्छलितरुधिरवारुणीरसनोपदंशीकृतकालखण्डखण्डानां कीलालकर्दमित- कूर्चककेशानां मलिनजातीनामतिभयेन तेषां।
+रवारिदारितजनोदरोच्छलितरुधिरवारुणीरसनोपदंशीकृतकालखण्डखण्डानां कीलालकर्दमित- कूर्चककेशानां मलिनजातीनामतिभयेन तेषाम्।
 
 **हा तात हा तनय हा प्रिय हा मृगाक्षि हा भ्रातः हा भगिनि हा भड हा सुनाथ।  
 एवं जनानां विधुराणां परस्परं कोलाहलैः स्फुटितं हृदयं न कस्य॥**
@@ -1043,9 +1037,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 ** **ततस्ततः।
 
 **
-कमलकः**—तओ[^31] जणणि जणणि अहंपि समंज्येव समागमिस्सं, अंब अंब मं खुहियतिसिअं परिहरिऊण कत्थ वच्चसि, ताय ताय सव्वयावि मं गहिऊण नयरमज्झम्मि जाएसि, ता कहं अहुणा मं मिल्हसित्ति, संतट्ठपियरजणमुक्काइंविलवंताइं वि बालयमंडलाइं मारिदुंपयट्टेसु तेसु निग्धिणेसु कलियतुरक्कवेसेण तम्मज्झट्टिणा लोअकरुणाए मए गरुअसद्देण भणियं जं पलायध रे पलायध विक्कमकमियतियलोओ कुदोवि जणरक्खणत्थं संपत्तो एसो वीरधवलो। एरिसेण अलियवयणेण वि भयभंगुरपोरिसा सव्वओ विप्पणाट्ठा ते दुट्ठा। तेण पुरीलोएण वि मह वयणं सुणिऊण नाह नाह साहसनिहाण एदे अम्हाणं कुटुंबं मारिऊण रिउणो तुह पिक्खंतस्स पलायंति।
+कमलकः**—तओ[^31] जणणि जणणि अहम्पि समञ्ज्येव समागमिस्सं, अम्ब अम्ब मं खुहियतिसिअं परिहरिऊण कत्थ वच्चसि, ताय ताय सव्वयावि मं गहिऊण नयरमज्झम्मि जाएसि, ता कहम् अहुणा मं मिल्हसित्ति, सन्तट्ठपियरजणमुक्काइं विलवन्ताइं वि बालयमण्डलाइं मारिदुं पयट्टेसु तेसु निग्धिणेसु कलियतुरक्कवेसेण तम्मज्झट्टिणा लोअकरुणाए मए गरुअसद्देण भणियं जं पलायध रे पलायध विक्कमकमियतियलोओ कुदोवि जणरक्खणत्थं सम्पत्तो एसो वीरधवलो। एरिसेण अलियवयणेण वि भयभङ्गुरपोरिसा सव्वओ विप्पणाट्ठा ते दुट्ठा। तेण पुरीलोएण वि मह वयणं सुणिऊण नाह नाह साहसनिहाण एदे अम्हाणं कुटुम्बं मारिऊण रिउणो तुह पिक्खन्तस्स पलायन्ति।
 
-[^31]: "ततः जननि जननि अहमपि सममेव समागमिध्ये, अम्ब अम्ब मां क्षुधिततृषितं परिहृत्य कुत्र व्रजसि, तात तात सर्वदापि मां गृहीत्वा नगरमध्ये यासि, तत्कथमधुना मां मुञ्चसीति, संत्रस्तपितृजनमुक्तानि विलपन्त्यपि बालकमण्डलानि मारितुं प्रवृत्तेषु तेषु निर्घृणेषु कलिततुरुष्कवेषेण तन्मध्यव र्त्तिना लोक करुणया मया गुरुशब्देन भणितं यत्पलायध्वं रे पलायध्वं विक्रमक्रमितत्रिलोकः कुतोऽपि जनसंरक्षणार्थं सम्प्राप्त एष वीरधवलः। एतादृशेन अलीकवचनेनापि भयभंगुरपौरुषाः सर्वतः विप्र- णष्टाः ते दुष्टाः। तेन पुरीलोकेनापि मम वचनं श्रुत्वा नाथ नाथ साहसनिधान एते अस्माकं कुटुम्बं मारयित्वा रिपवः तव प्रेक्षमाणस्य पलायन्ते।"
+[^31]: # "ततः जननि जननि अहमपि सममेव समागमिध्ये, अम्ब अम्ब मां क्षुधिततृषितं परिहृत्य कुत्र व्रजसि, तात तात सर्वदापि मां गृहीत्वा नगरमध्ये यासि, तत्कथमधुना मां मुञ्चसीति, सन्त्रस्तपितृजनमुक्तानि विलपन्त्यपि बालकमण्डलानि मारितुं प्रवृत्तेषु तेषु निर्घृणेषु कलिततुरुष्कवेषेण तन्मध्यव र्त्तिना लोक करुणया मया गुरुशब्देन भणितं यत्पलायध्वं रे पलायध्वं विक्रमक्रमितत्रिलोकः कुतोऽपि जनसंरक्षणार्थं सम्प्राप्त एष वीरधवलः। एतादृशेन अलीकवचनेनापि भयभङ्गुरपौरुषाः सर्वतः विप्र- णष्टाः ते दुष्टाः। तेन पुरीलोकेनापि मम वचनं श्रुत्वा नाथ नाथ साहसनिधान एते अस्माकं कुटुम्बं मारयित्वा रिपवः तव प्रेक्षमाणस्य पलायन्ते।"
 
 ** वीरधवलः**—(कृपाणिकानिहितपाणिः समुत्थाय) क्वामी क्कामी। (इति उद्धतपदपातभङ्गुरभूविभागं प्रधावति)
 
@@ -1053,11 +1047,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** वीरधवलः**—(सलज्जमपसृत्योपविश्य च) ततस्ततः।
 
-** कमकलः**—तओ[^32]। एयं जंपतेण कत्थ कत्थ सो अम्हाण अगालनायगोकत्थ कत्थ सो अम्हाणं जीवियसंधाणकारओ, कत्थ कत्थ सो तिहुयणस्स
+** कमकलः**—तओ[^32]। एयं जम्पतेण कत्थ कत्थ सो अम्हाण अगालनायगो कत्थ कत्थ सो अम्हाणं जीवियसन्धाणकारओ, कत्थ कत्थ सो तिहुयणस्स विहुरबन्धू, कत्थ कत्थ सो वसणवडियाणं विहिणा अलिहियं भायधेयन्ति, विरइयपमोयसद्देण विसुमरियरिउघायजायपीडेण, हरिसुल्लसियरोमञ्चराइराइयसरीरेण हिययमज्झम्मि अमायन्तेहिं व पमोयरसेहिं नीसरन्तेहिं वयणमग्गेण हसियमयूहेहि धवलियनहङ्गणेण मलिणरिउजणदंसणमलिणीकयाइं सुज्झविदुं सवणन्तवित्थरियाइं नियलोयणाइं तुह मुहसुहाकुण्डदंसणत्थं सरसाइं सव्वासु दिसासु परिक्खवियाइम्। तओ तुमम् अपिक्खन्तेण दंसणुक्कण्ठिएण परिधाविअं सयलनयरमग्गेसु। कत्थ सो कत्थ सो नाहुत्ति भासमाणे तुह अदंसणविहुरिए तत्थ लोए तक्खणमुक्कतुरुक्कवेसेण मए भणियम्।
 
-[^32]: "ततः। एतत्कथयता कुत्र कुत्र सोऽस्माकमकालनायकः,"
-
-विहुरबंधू, कत्थ कत्थ सो वसणवडियाणं विहिणा अलिहियं भायधेयंति, विरइयपमोयसद्देण विसुमरियरिउघायजायपीडेण, हरिसुल्लसियरोमंचराइराइयसरीरेण हिययमज्झम्मि अमायंतेहिं व पमोयरसेहिं नीसरंतेहिं वयणमग्गेण हसियमयूहेहि धवलियनहंगणेण मलिणरिउजणदंसणमलिणीकयाइंसुज्झविदुं सवणंतवित्थरियाइंनियलोयणाइंतुह मुहसुहाकुंडदंसणत्थं सरसाइंसव्वासु दिसासु परिक्खवियाइं। तओ तुमं अपिक्खंतेण दंसणुक्कंठिएण परिधाविअं सयलनयरमग्गेसु। कत्थ सो कत्थ सो नाहुत्ति भासमाणे तुह अदंसणविहुरिए तत्थ लोए तक्खणमुक्कतुरुक्कवेसेण मए भणियं।
+[^32]: # "ततः। एतत्कथयता कुत्र कुत्र सोऽस्माकमकालनायकः,"
 
 ** वीरधवलः**—(सौत्सुक्यम्) किं तत् ।
 
@@ -1098,7 +1090,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 **किञ्च**—**सिक्तोऽस्य बुद्धिसुधया विभवत्युत्साहपादपोऽयं मे।**
 
-**नृपनिकरमौलिधार्या यत्कुसुमस्रग् ममाज्ञैव॥**
+** नृपनिकरमौलिधार्या यत्कुसुमस्रग् ममाज्ञैव॥**
 
  (सप्रहर्षे च)
 
@@ -1121,123 +1113,123 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 <MISSING_FIG href="../books_images/U-IMG-1722243277Screenshot2024-07-28153137..2.png"/>  
 ** (ततः प्रविशति तुरुष्करूपधारी चरः)**
 
-** चरः**—(सान्तस्तोषम्) अम्महे[^33] अपुरवो महंदोविय कोवि मंतो सिरितेअवालस्स। जेण जज्जरिदं सयलंपि अरादिभूवदिजादं।
+** चरः**—(सान्तस्तोषम्) अम्महे[^33] अपुरवो महन्दोविय कोवि मन्तो सिरितेअवालस्स। जेण जज्जरिदं सयलम्पि अरादिभूवदिजादम्।
 
-[^33]: "अहो! अपूर्वो महानेव कोऽपि मन्त्रः श्रीतेजःपालस्य। येन जर्जरितं सकलमपि अराति- भूपतिजातम्।"
+[^33]: # "अहो! अपूर्वो महानेव कोऽपि मन्त्रः श्रीतेजःपालस्य। येन जर्जरितं सकलमपि अराति- भूपतिजातम्।"
 
- (सप्रमोदप्रकर्षंच)
+ (सप्रमोदप्रकर्षं च)
 
-**सिरिव[^34]त्थुवालसिक्खाकदगहलखोदसंगमुल्लसिदा।  
-अहरिदरिउउलपंका जयदि मदी तेअवालस्स॥१॥**
+**सिरिव[^34]त्थुवालसिक्खाकदगहलखोदसङ्गमुल्लसिदा।  
+अहरिदरिउउलपङ्का जयदि मदी तेअवालस्स॥१॥**
 
-[^34]: "श्रीवस्तुपालशिक्षाकतकफलक्षोदसङ्गमोल्लसिता। अधरितरिपुकुलपङ्का जयति मतिः तेजःपालस्य॥"
+[^34]: # "श्रीवस्तुपालशिक्षाकतकफलक्षोदसङ्गमोल्लसिता। अधरितरिपुकुलपङ्का जयति मतिः तेजःपालस्य॥"
 
  (पुरोऽवलोक्य सस्मितम्) कथं[^35] इधज्जेव कुवलयाभिहाणो मह पुरवभूदभादा आगच्छदि।
 
-[^35]: "कथमिहैवकुवलयाभिधानो मम पूर्वभूतभ्राता आगच्छति।"
+[^35]: # "कथमिहैव कुवलयाभिधानो मम पूर्वभूतभ्राता आगच्छति।"
 
- (ततः प्रविशति तद्वेषधारी कुवलयकः)
+** ** (ततः प्रविशति तद्वेषधारी कुवलयकः)
 
 ** कुवलयकः**—
 
-**ययदे[^36] नाघपसादे अम्हाहं भस्टजादिभूदाहं।  
-एसे तुलुक्कवेसेलसतुल्लेविय सुहद्धं॥२॥**
+**ययदे[^36] नाघपसादे अम्हाहं भस्टजादिभूदाहम्।  
+एसे तुलुक्कवेसे लसतुल्लेविय सुहद्धम्॥२॥**
 
-[^36]: ".....नाथप्रसादः अस्माकं भट्टजातिभूतानाम्। एषतुरुष्कवेपः राक्षस तुल्योऽपि सुखार्थम् ॥ अये मम लघुकबान्धवः शीघ्रकनामधेयः पुरतः प्रेक्ष्यते। वत्स! कुत इदानीं प्रतिष्ठसे।"
+[^36]: # ".....नाथप्रसादः अस्माकं भट्टजातिभूतानाम्। एष तुरुष्कवेपः राक्षस तुल्योऽपि सुखार्थम् ॥ अये मम लघुकबान्धवः शीघ्रकनामधेयः पुरतः प्रेक्ष्यते। वत्स! कुत इदानीं प्रतिष्ठसे।"
 
- (पुरो निरूप्य) अये मह लहुयबंधवे सिग्घगनामधेएपुलदो पेरकदे। (शीघ्रक उपसृत्य प्रणमति) वत्स! कुदो दाणिं पत्थीयसि।
-
-**
-शीघ्रकः**—अज्ज[^37]! मए सिरितेअवालमंतिमंतिदपधिदपयोगेण खप्परखाणभूवदिच्छलदुदीभोदूण सयलमिलिच्छजादिनरिंदनाघस्स बगदादिविसयवसुहाहिवस्स खलीपनामधेयस्स पुरो गच्छिय विन्नत्तं। जं नाह! फुरिदाहं
-
-[^37]: "आर्य! मया श्रीतेजःपालमतिमन्त्रितप्रहितप्रयोगेन स्वर्परखानभूपतिच्छलदूतीभूय सकलम्ले- छजातिनरेन्द्रनाथस्य बगदादिविषयवसुधाधिपस्य खलीपनामधेयस्य पुरः गत्वा विज्ञप्तम्। यन्नाथ!"
-
-कारहुंकारमुहरिदकंठंतरो तिहुयणतवणीभूदपयावाहं तुम्हाहंपि सयलरायचूडामणिपहाणाएआणाए न वट्टदि कदमुट्टिमंगीकारो मीलच्छीकारो। ता एदं आकन्निदूण कुविदेण तेण पिधिवीनाधेण तए निगडिदूण कदाहिणिवेसो अम्हाहं पासम्मि पट्ठावइदव्वुत्ति लिहिदरायादेसहत्थो अहंज्जेव पेसिदो। ता मए तत्थ बगदादिनरिंदपेसिदो दुदोहं आगदुत्ति खप्परखाणनरिंदस्स सो रायादेसो समप्पिदो। ता तस्स रायादेसस्स दंसणमत्तेणवि मीलच्छीकारदेसोवरि चलिदो खप्परखाणराया।अध मए गूणपणिधिरुवेण देसरक्खणवियकखणस्स मीलच्छीकारनंदणस्स निवेदिदं तं विग्गहुद्वाणं। ता इमिणा वि आउलीभूदेण मीलच्छीकारस्स कधिदुं पधाविदुम्हि।
+ (पुरो निरूप्य) अये मह लहुयबन्धवे सिग्घगनामधेए पुलदो पेरकदे। (शीघ्रक उपसृत्य प्रणमति) वत्स! कुदो दाणिं पत्थीयसि।
 
 **
-कुवलयकः**—भो[^38] मदिशालिया शाहु शाहु तए लविदं। मएवि गूढपुलिशत्तं पत्तेण गुज्जललाया तुम्हाहं मालिदतुलुक्कदेशंपि शयलंपि दाइस्सदि। ता तुम्हेहिं शमलशमयंमि न जुज्झियव्वंति वयणेहिं तोसिदूण भेदिदे गुलवालपदावसीहपभिदिगुजलमंडलेशलसमूहे। ता जज्जलियं सयलं पि लिउलायचक्कं।
+शीघ्रकः**—अज्ज[^37]! मए सिरितेअवालमन्तिमन्तिदपधिदपयोगेण खप्परखाणभूवदिच्छलदुदीभोदूण सयलमिलिच्छजादिनरिन्दनाघस्स बगदादिविसयवसुहाहिवस्स खलीपनामधेयस्स पुरो गच्छिय विन्नत्तम्। जं नाह! फुरिदाहं कारहुङ्कारमुहरिदकण्ठन्तरो तिहुयणतवणीभूदपयावाहं तुम्हाहम्पि सयलरायचूडामणिपहाणाए आणाए न वट्टदि कदमुट्टिमङ्गीकारो मीलच्छीकारो। ता एदम् आकन्निदूण कुविदेण तेण पिधिवीनाधेण तए निगडिदूण कदाहिणिवेसो अम्हाहं पासम्मि पट्ठावइदव्वुत्ति लिहिदरायादेसहत्थो अहञ्ज्जेव पेसिदो। ता मए तत्थ बगदादिनरिन्दपेसिदो दुदोहम् आगदुत्ति खप्परखाणनरिन्दस्स सो रायादेसो समप्पिदो। ता तस्स रायादेसस्स दंसणमत्तेणवि मीलच्छीकारदेसोवरि चलिदो खप्परखाणराया।अध मए गूणपणिधिरुवेण देसरक्खणवियकखणस्स मीलच्छीकारनन्दणस्स निवेदिदं तं विग्गहुद्वाणम्। ता इमिणा वि आउलीभूदेण मीलच्छीकारस्स कधिदुं पधाविदुम्हि।
 
-[^38]: "भो मतिशालिन् साधु साधु त्वया लपितं। मयापि गूढपुरुषत्वं प्राप्तेन गूर्ज्जरराजः युष्माकं मारिततुरुष्कदेशमपि सकलं दास्यति। तद्युष्माभिः समरसमये न योद्धव्यमिति वचनैः तोषयित्वा भेदितः कुरपालप्रतापसिंहप्रभृतिगूर्जरमण्डलेश्वरसमूहः। तज्जर्जरितं सकलमपि रिपुराजचक्रम् ।"
+[^37]: # "आर्य! मया श्रीतेजःपालमतिमन्त्रितप्रहितप्रयोगेन स्वर्परखानभूपतिच्छलदूतीभूय सकलम्ले- छजातिनरेन्द्रनाथस्य बगदादिविषयवसुधाधिपस्य खलीपनामधेयस्य पुरः गत्वा विज्ञप्तम्। यन्नाथ!"
 
 **
-शीघ्रकः**—अम्हहे[^39] फलिदा सचिवरायस्य मदिलदा। दाणिं खप्परग्वाणपयाणकधाए विहुरं करेमि मीलच्छीकारस्स कडयं।
+कुवलयकः**—भो[^38] मदिशालिया शाहु शाहु तए लविदम्। मएवि गूढपुलिशत्तं पत्तेण गुज्जललाया तुम्हाहं मालिदतुलुक्कदेशम्पि शयलम्पि दाइस्सदि। ता तुम्हेहिं शमलशमयम्मि न जुज्झियव्वन्ति वयणेहिं तोसिदूण भेदिदे गुलवालपदावसीहपभिदिगुजलमण्डलेशलसमूहे। ता जज्जलियं सयलं पि लिउलायचक्कम्।
 
-[^39]: "अहो! फलिता सचिवराजस्य मतिलता। इदानीं स्वर्परखानप्रयाणकथया विधुरं करोमि मीलच्छ्रीकारस्य कटकम् ।"
+[^38]: # "भो मतिशालिन् साधु साधु त्वया लपितम्। मयापि गूढपुरुषत्वं प्राप्तेन गूर्ज्जरराजः युष्माकं मारिततुरुष्कदेशमपि सकलं दास्यति। तद्युष्माभिः समरसमये न योद्धव्यमिति वचनैः तोषयित्वा भेदितः कुरपालप्रतापसिंहप्रभृतिगूर्जरमण्डलेश्वरसमूहः। तज्जर्जरितं सकलमपि रिपुराजचक्रम् ।"
+
+**
+शीघ्रकः**—अम्हहे[^39] फलिदा सचिवरायस्य मदिलदा। दाणिं खप्परग्वाणपयाणकधाए विहुरं करेमि मीलच्छीकारस्स कडयम्।
+
+[^39]: # "अहो! फलिता सचिवराजस्य मतिलता। इदानीं स्वर्परखानप्रयाणकथया विधुरं करोमि मीलच्छ्रीकारस्य कटकम् ।"
 
 ———————————————————————————————————————————————
 
-स्फुरिताहङ्कारहुङ्कारमुखरितकण्ठान्तरः त्रिभुवनतपनीभूतप्रतापानां युष्माकमपि सकलराजचूडामणि प्रधानायामाज्ञायां न वर्त्तते कृतमहत्त्वाङ्गीकारो मीलच्छ्रीकारः। तदेतदाकर्ण्य कुपितेन तेन पृथ्वीनाथेन त्वया निगडयित्वाकृताभिनिवेशोऽस्माकं पार्श्वे प्रस्थापयितव्य इति लिखितराजादेशहस्तः अहमेव प्रेषितः।तन्मया तत्र बगदादिनरेन्द्रप्रेषितः दूतोऽहमागत इति स्वर्परखाननरेन्द्रस्य स राजादे- शः समर्पितः। तत्तस्य राजादेशस्य दर्शनमात्रेणापि मीलच्छ्रीकार देशोपरि चलितः स्वर्परखानराजः। अथ मया गूढप्रणिधिरूपेण देशरक्षणविचक्षणस्य मीलच्छ्रीकारनन्दनस्य निवेदितं तद्विग्रहोत्थानम्। तदमुनापि आकुलीभूतेन मीलच्छ्रीकाराय कथयितुं प्रधावितोऽस्मि।
+स्फुरिताहङ्कारहुङ्कारमुखरितकण्ठान्तरः त्रिभुवनतपनीभूतप्रतापानां युष्माकमपि सकलराजचूडामणि प्रधानायामाज्ञायां न वर्त्तते कृतमहत्त्वाङ्गीकारो मीलच्छ्रीकारः। तदेतदाकर्ण्य कुपितेन तेन पृथ्वीनाथेन त्वया निगडयित्वा कृताभिनिवेशोऽस्माकं पार्श्वे प्रस्थापयितव्य इति लिखितराजादेशहस्तः अहमेव प्रेषितः।तन्मया तत्र बगदादिनरेन्द्रप्रेषितः दूतोऽहमागत इति स्वर्परखाननरेन्द्रस्य स राजादे- शः समर्पितः। तत्तस्य राजादेशस्य दर्शनमात्रेणापि मीलच्छ्रीकार देशोपरि चलितः स्वर्परखानराजः। अथ मया गूढप्रणिधिरूपेण देशरक्षणविचक्षणस्य मीलच्छ्रीकारनन्दनस्य निवेदितं तद्विग्रहोत्थानम्। तदमुनापि आकुलीभूतेन मीलच्छ्रीकाराय कथयितुं प्रधावितोऽस्मि।
 
-** कुवलयकः—** हगे[^40] विय भेदिदविपक्खपक्खनलवइकिंवयंतीए हलसियं कलिय दावइस्सं पयाणयं सिलिवीलधवललायादो।
+** कुवलयकः—** हगे[^40] विय भेदिदविपक्खपक्खनलवइकिंवयन्तीए हलसियं कलिय दावइस्सं पयाणयं सिलिवीलधवललायादो।
 
-[^40]: "अहमपि भेदितविपक्षपक्षनरपतिकिंवदन्त्या हर्षितं कृत्वा दापयिष्ये प्रयाणकं श्रीवी- रधवलराजात्।"
+[^40]: # "अहमपि भेदितविपक्षपक्षनरपतिकिंवदन्त्या हर्षितं कृत्वा दापयिष्ये प्रयाणकं श्रीवी- रधवलराजात्।"
 
 इति निष्क्रान्तौ।  
 (प्रवेशकः)
 
  (ततः प्रविशति चिन्ताक्रोधविषादव्रीडाविभज्यमानमानसो यथोचितवेषो गोरीईसपनाम्ना प्रधानपुरुषेण सह मीलच्छ्रीकारः)
 
-** मील०**—
+** मील॰**—
 
 **चाणामि[^41] त्तासितं तं चनवतमधुला खप्पणक्खानलावा  
 जं पत्तो सो छलेहिं लिउचनविथुलं मं चिलं चाणितूण।  
-मंतूनं तेसफंकं कडयफडखडावच्चलासाविवाता  
+मन्तूनं तेसफङ्कं कडयफडखडावच्चलासाविवाता  
 ताही तत्तं पयानं निचफुचमतिना कुच्चलेसेन तेन॥३॥**
 
-[^41]: "जानामि त्रासितं तं मथुराजनपदं खर्परखानराजः यत्प्राप्तोऽसौ छलैः रिपुजनविधुरं मां चिरं ज्ञात्वा। मत्त्वा देशभङ्गं कटकभटघटाप्रत्यला तस्माद्दत्तं प्रयाणं निजभुज...गूर्जरेशेन तेन॥"
+[^41]: # "जानामि त्रासितं तं मथुराजनपदं खर्परखानराजः यत्प्राप्तोऽसौ छलैः रिपुजनविधुरं मां चिरं ज्ञात्वा। मत्त्वा देशभङ्गं कटकभटघटाप्रत्यला तस्माद्दत्तं प्रयाणं निजभुज...गूर्जरेशेन तेन॥"
 
  (प्रधानं प्रति) चलमुहादो[^42] चानितून तं विग्गहुट्ठाणं ताव पिसितं मए
 
-[^42]: "चरमुखात् ज्ञात्वा तद्विमहोत्थानं तावत्प्रेषितं मया कुपितबगदादिभूपतितोषणनिमित्तं रदी काद्दभिधानंनिजगुरुयुगलं तव मन्त्रप्रयोगेण। तत्किमिदानीं युक्तम्।"
+[^42]: # "चरमुखात् ज्ञात्वा तद्विमहोत्थानं तावत्प्रेषितं मया कुपितबगदादिभूपतितोषणनिमित्तं रदी काद्दभिधानं निजगुरुयुगलं तव मन्त्रप्रयोगेण। तत्किमिदानीं युक्तम्।"
 
-कुवितपगतातिफूवतितोसणनिमित्तयं रदीकादीफिहाणं निचकुलुयुकलं तुह मंतपयोकेन। ता किं दाणिं जुत्तं।
+कुवितपगतातिफूवतितोसणनिमित्तयं रदीकादीफिहाणं निचकुलुयुकलं तुह मन्तपयोकेन। ता किं दाणिं जुत्तम्।
 
-** प्रधानः**—(साभिप्रायोल्लासं) तेव[^43]तनुतनुच कुलु चालु विचालं। संपति अवदालनं ज्येव लवित्त न लश्किज्जते निचतेसो। अन्नधा खप्पलखानलावलुंटितनिचचनवतसोगतूनमानसोज्झित्तनजुवलावो तुम्हाहं पवुत्तावहितपसल्लंहुविज्ज। ता इत्थ लियुचयचयलच्छी नहितए कामं तत्थं होति।
+** प्रधानः**—(साभिप्रायोल्लासं) तेव[^43] तनुतनुच कुलु चालु विचालम्। सम्पति अवदालनं ज्येव लवित्त न लश्किज्जते निचतेसो। अन्नधा खप्पलखानलावलुण्टितनिचचनवतसोगतूनमानसोज्झित्तनजुवलावो तुम्हाहं पवुत्तावहितपसल्लं हुविज्ज। ता इत्थ लियुचयचयलच्छी नहितए कामं तत्थं होति।
 
-[^43]: "देव दनुतनुज कुरु चारु विचारम्। सम्प्रति अवदारणमेव...न रक्षिष्यते निजदेशः। अन्यथा खर्परखानराजलुष्टितनिजजनपदशोकदूनमानसोज्झित....युष्माकं....भवतु। तदत्र रिपुजयजय लक्ष्मी...भवति।"
+[^43]: # "देव दनुतनुज कुरु चारु विचारम्। सम्प्रति अवदारणमेव...न रक्षिष्यते निजदेशः। अन्यथा खर्परखानराजलुष्टितनिजजनपदशोकदूनमानसोज्झित....युष्माकं....भवतु। तदत्र रिपुजयजय लक्ष्मी...भवति।"
 
-** मील०**—(सक्रोधहासावेशम्) धिकधिक् ले फपलाचलावघाती सति सहितए मह पोलिसपातपुग्गूलनमत्ततंतावलुच्च तुह मंतो
+** मील॰**—(सक्रोधहासावेशम्) धिक धिक् ले फपलाचलावघाती सति सहितए मह पोलिसपातपुग्गूलनमत्ततन्तावलुच्च तुह मन्तो
 
 **तेसो[^44] एस पयातु लक्कशमुहे अक्कालकत्तंलता  
-सो पुत्तो वि छडित्तिजातु मलणं किं तेहिं सोहं उण।  
-संकट्ठे मिलने पतंयति पलं दत्थून ता कंपते  
-सल्लंवालिनिथी पयोथलखडापाणेहिं निट्ठीयति॥४॥**
+सो पुत्तो वि छडित्ति जातु मलणं किं तेहिं सोहम् उण।  
+सङ्कट्ठे मिलने पतंयति पलं दत्थून ता कम्पते  
+सल्लं वालिनिथी पयोथलखडापाणेहिं निट्ठीयति॥४॥**
 
-[^44]: "देश एष प्रयातु राक्षसमुखे स पुत्रोपि झटिति जातु मरणं किं तैः सौख्यं पुनः। सङ्कष्टेमिलिते बलं द्रष्ट्वा तं कम्पते शल्यं वारिनिधिः पयोधरघटापानीयैः निष्ठीयते॥ कथमेष कल्पान्तकुपितकीनाशकठोरदाढाचर्च्यमानशरीरस्य सकलस्यापि अतिमथितपयोनिधिसमु- च्छलितकालकूटालोकनपलायितसुरासुरेश्वरविलपितकोलाहलसदृशः कलकलः श्रूयते स्कन्धावारस्य।"
+[^44]: # "देश एष प्रयातु राक्षसमुखे स पुत्रोपि झटिति जातु मरणं किं तैः सौख्यं पुनः। सङ्कष्टे मिलिते बलं द्रष्ट्वा तं कम्पते शल्यं वारिनिधिः पयोधरघटापानीयैः निष्ठीयते॥ कथमेष कल्पान्तकुपितकीनाशकठोरदाढाचर्च्यमानशरीरस्य सकलस्यापि अतिमथितपयोनिधिसमु- च्छलितकालकूटालोकनपलायितसुरासुरेश्वरविलपितकोलाहलसदृशः कलकलः श्रूयते स्कन्धावारस्य।"
 
 (नेपथ्ये कलकलः)
 
- (सभयसंभ्रमम्) कथं एसो कप्पंतकुवियकीनाशकठोलताठाचव्वियमानशलीलस्स सयलस्सवि अतिमधितपयोनिथिसमुच्छलियकालकूडालोयनपलाइतसुलासुलुक्केशलविलवितकोलाहलसतिसो कलयलो सुणीयति कंथावालस्स।
+ (सभयसम्भ्रमम्) कथम् एसो कप्पन्तकुवियकीनाशकठोलताठाचव्वियमानशलीलस्स सयलस्सवि अतिमधितपयोनिथिसमुच्छलियकालकूडालोयनपलाइतसुलासुलुक्केशलविलवितकोलाहलसतिसो कलयलो सुणीयति कन्थावालस्स।
 
 (पुनर्नेपथ्ये)
 
-नाध[^45]! नाध! लक्ख ! लक्ख ! एदे कवलनुक्कंठिययमकिंकला इव पहलनपूलकलालकला इधज्जेव धावंति केवि सुफडा।
 
-[^45]: "नाथ! नाथ! रक्ष! रक्ष ! एते कवलनोत्कण्ठितयमकिङ्करा इव प्रहरणपूरकरालकरा इहैव धावन्ति केऽपि सुभटाः।"
+नाध[^45]! नाध! लक्ख ! लक्ख ! एदे कवलनुक्कण्ठिययमकिङ्कला इव पहलनपूलकलालकला इधज्जेव धावन्ति केवि सुफडा।
 
-** मील०**—के एसे अपु[^46]रव्वुप्पातुव्व मह सिबिलमज्झम्मि।
+[^45]: # "नाथ! नाथ! रक्ष! रक्ष ! एते कवलनोत्कण्ठितयमकिङ्करा इव प्रहरणपूरकरालकरा इहैव धावन्ति केऽपि सुभटाः।"
 
-[^46]: "क एषोऽपूर्वोत्पात इव मम शिबिरमध्ये।"
+** मील॰**—के एसे अपु[^46]रव्वुप्पातुव्व मह सिबिलमज्झम्मि।
 
-(पुनर्नेपथ्ये)
-
-कत्थ[^47]रे कत्थ ! सो नियभुयजुयलबलगलहत्थियकीनाशसारो मीलच्छीकारो।
-
-[^47]: "कुत्र रे कुत्र स निजभुजयुगलबलगलह- स्तितकीनाशसारो मीलच्छ्रीकारः।"
-
-** मील०**—(समयकम्पम्) अले[^48]! वीलधवल पलग्गे सलथाणुक्कथोलणिकोवनातिव्व एसो।
-
-[^48]: "अरे ! वीरधवलः प्रलग्नः शरधनुर्धेरणी.... एषः।"
+[^46]: # "क एषोऽपूर्वोत्पात इव मम शिबिरमध्ये।"
 
 (पुनर्नेपथ्ये)
 
-नूनं[^49] नत्थि कत्थवि अम्हाहं नाहो। अन्नधा कधंएतिसेहिंवि विथुलविथुलेहिं कोलाहलेहिं अम्ह लक्खणत्थं न धावति।
+ कत्थ[^47] रे कत्थ ! सो नियभुयजुयलबलगलहत्थियकीनाशसारो मीलच्छीकारो।
 
-[^49]: "नूनं नास्ति कुत्रापि अस्माकं। नाथ; अन्यथा कथमेतादृशैरपि विधुरविधुरैः कोलाहलैरस्माकं रक्षणाय न धावति।"
+[^47]: # "कुत्र रे कुत्र स निजभुजयुगलबलगलह- स्तितकीनाशसारो मीलच्छ्रीकारः।"
 
-** मील०**—(सत्रासाभिप्रायावहित्त्थं प्रधानं प्रति) चल[^50] चल सुत्थीकलेमि नियकलवालच्चालाकवलितलिउलायपनमंडलो निचसिन्नं।
+** मील॰**—(समयकम्पम्) अले[^48]! वीलधवल पलग्गे सलथाणुक्कथोलणिकोवनातिव्व एसो।
 
-[^50]: "चल चल स्वस्थीकरोमि निजकरवालज्वालाकवलितरिपुराजवनमण्डलो निजसैन्यम्।"
+[^48]: # "अरे ! वीरधवलः प्रलग्नः शरधनुर्धेरणी.... एषः।"
+
+(पुनर्नेपथ्ये)
+
+
+नूनं[^49] नत्थि कत्थवि अम्हाहं नाहो। अन्नधा कधम् एतिसेहिंवि विथुलविथुलेहिं कोलाहलेहिम् अम्ह लक्खणत्थं न धावति।
+
+[^49]: # "नूनं नास्ति कुत्रापि अस्माकम्। नाथ; अन्यथा कथमेतादृशैरपि विधुरविधुरैः कोलाहलैरस्माकं रक्षणाय न धावति।"
+
+** मील॰**—(सत्रासाभिप्रायावहित्त्थं प्रधानं प्रति) चल[^50] चल सुत्थीकलेमि नियकलवालच्चालाकवलितलिउलायपनमण्डलो निचसिन्नम्।
+
+[^50]: # "चल चल स्वस्थीकरोमि निजकरवालज्वालाकवलितरिपुराजवनमण्डलो निजसैन्यम्।"
 
 पुनर्नेपथ्ये
 
@@ -1246,9 +1238,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 मीलच्छ्रीकारको मज्जनपदविपदुच्चण्डदोर्दण्डदीप्तः  
 क्वासौ क्वासौ तमन्विष्यति मदसिरसौ रक्तपानोत्सवोत्कः॥५॥**
 
-** मील०**—(पुरोऽवलोक्य सभयातिरेकम्) अले[^51] कोवकविशलोयणो पधनोधितवेसो एसो वीरधवलो इधज्जेव आकच्छदि।
+** मील॰**—(पुरोऽवलोक्य सभयातिरेकम्) अले[^51] कोवकविशलोयणो पधनोधितवेसो एसो वीरधवलो इधज्जेव आकच्छदि।
 
-[^51]: "अरे ! कोपकपिशलोचनः प्रधनोचितबेष एष वीरधवल इहैवागच्छति।"
+[^51]: # "अरे ! कोपकपिशलोचनः प्रधनोचितबेष एष वीरधवल इहैवागच्छति।"
 
  इति क्षितितललगितालगिततलाङ्गुलिचरणं पुरःप्रणश्यता प्रधानेन सह पलायते।
 
@@ -1297,11 +1289,11 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 त्रसदहितगतिश्रीतर्जितास्तेप्यकीर्त्तिं  
 विदधति धुतधूलीकैतवात्त्वत्तुरङ्गाः॥११॥**
 
- (सोत्प्रासहासम्)
+** ** (सोत्प्रासहासम्)
 
 **आत्मीयरूपसमदा इव येऽङ्घ्रिधूित-  
 धूलीभयादतितरां त्वरिताः स्फुरन्ति।  
-क्षिप्त्वारजो निजपदाहतमेव तेषां  
+क्षिप्त्वा रजो निजपदाहतमेव तेषां  
 त्वद्वाजिनामपि मुखे रिपवस्त्रसन्ति॥१२॥**
 
  (सावेशं च) देव ! देव ! परिहर त्वं समरसमारम्भसरम्भममुम्। यतः-
@@ -1321,14 +1313,14 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** वीरधवलः**—कथं हस्ततः अस्त एव चिरकालोपस्थितोऽपि समरसमारम्भोऽयमस्मद्भुजस्तम्भयोर- भाग्यरहस्येन।
 
-** **(सनिर्वेदं च)
+** ** (सनिर्वेदं च)
 
 **एतस्मिन्सुचिरोपवासविपुलः क्षुत्पारणार्थं समा-  
 कृष्टप्रौढनरासिचन्द्ररसनाभीमे भृशं मद्भुजे।  
 धिग्वातः किमु ढौकितोऽद्य कवलः पूर्वं स्वयाऽसौ हृत-  
 श्चेत्पश्चादपि कस्तवाप्ययमुपालम्भोऽथ कर्मेदृशम्॥१५॥**
 
-** द्वारभट्टः**—देव! परिहरावेशमुत्तरङ्गम्। गतोयमतिदूरमलीकसुरताभिनिवेशस्त्वद्भयभङ्गरस्वेच्छा गतिःम्लेच्छाधिपतिः।
+** द्वारभट्टः**—देव! परिहरावेशमुत्तरङ्गम्। गतोयमतिदूरमलीकसुरताभिनिवेशस्त्वद्भयभङ्गरस्वेच्छा गतिः म्लेच्छाधिपतिः।
 
 ** वीरधवलः**—(तथा विधाय भट्टं प्रति) त्वमप्यत्रैव निवेशय शिबिरं, प्रवेशय च सचिवमरालं श्रीतेजःपालम्।
 
@@ -1347,8 +1339,8 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** वीरधवलः**—सखे! सखेदा इव वयमस्मिन्नसुहृदि प्राणग्राहमपि प्रणश्य प्रयाते। अथवा—
 
-**दीपे दीप्रेगृहकुहरतो बाह्यमेत्यन्धकारः  
-स्फातिं धत्तां प्रसरतु पुनः कुत्र दीप्तेदिनेशे।  
+**दीपे दीप्रे गृहकुहरतो बाह्यमेत्यन्धकारः  
+स्फातिं धत्तां प्रसरतु पुनः कुत्र दीप्ते दिनेशे।  
 मल्लङ्गेऽस्मिंल्लसति समितः स प्रणश्य प्रयातु  
 क्वासौ गन्ता पुनरुपचिते वस्तुपालप्रपञ्चे॥१७॥**
 
@@ -1380,7 +1372,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 **घिग् धिग् मुक्तपराक्रमस्य समितौ पृष्ठे लगत्यस्य यः  
 स्विन्नाङ्गस्य कलङ्कपङ्कपदवीमायाति सोऽपि ध्रुवम्।  
-मत्त्वेतीवसमीरजित्वरगतेरस्याधुना त्रस्यतो  
+मत्त्वेतीव समीरजित्वरगतेरस्याधुना त्रस्यतो  
 रेणुः स्वक्रमसम्भवोऽपि न भृशं पृष्ठं परिस्पृष्टवान्॥२१॥**
 
 (नेपथ्ये )
@@ -1388,7 +1380,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **द्रष्टुं त्वत्सैनिकावासमिव व्योमाग्रसङ्गतः।  
 क्षणं स्थिरगतिः शर्मकर्म साक्षीकरोतु ते ॥२२॥  
 त्वद्वाहव्यूहवीङ्खाधुतधरणिरजश्चक्रवालैः समन्ता-  
-दुद्यद्भिःपूर्वमस्तद्युतिरजनि जगल्लोचनं चण्डरोचिः।**
+दुद्यद्भिः पूर्वमस्तद्युतिरजनि जगल्लोचनं चण्डरोचिः।**
 
 **धौतस्त्वत्कीर्त्तिदुग्धैरिव पुनरघुना सैष नैर्मल्यशाली  
 श्रीलावण्यप्रसादोद्भव ! तव सुखदो लब्धमध्याह्नसन्ध्यः॥२३॥**
@@ -1416,7 +1408,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 अङ्गुष्ठाङ्गुलिभिन्नपक्ष्मपुटके किञ्चिद्दृशौ पश्यतः  
 सर्वं जीर्णमिदं स्पृहैव तरुणी नाद्यापि मां मुञ्चति ॥१॥**
 
-** अपि च— **
+** अपि च—**
 
 **सर्वाङ्गं पलितच्छलेन जरया मुक्ताः कटाक्षच्छटाः  
 स्वात्मा कम्पयते शिरश्च विषयाभोगान्निषेधन्निव।  
@@ -1434,7 +1426,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
  (कराकृष्टशष्कुलीविकस्वरविवरास्खलितपतद्वर्णं कर्णं दत्वा) किमात्थ भोः?। **“समीक-समयस्फुरदनीकभयपलायितहम्मीरप्रमोदपुलकितशरीरः श्रीवीरधवलदेवो देवीवदनारवि- न्दद्युतिमकरन्दपानोत्सवोत्सुकविलोचनरोलम्बयुगलो धवलकं प्रति प्रयाणकं कृतवान्"** इति। तदहमप्यनयैव प्रवृत्त्या प्रवर्त्तयामि देवीम्। (इत्यौत्सुक्यत्वरितजरास्खलितपदं किञ्चिदुत्सर्पति)
 
-(ततः प्रविशति नरविमानाधिरूढः श्री वीरधवलदेवस्तेजः पालश्च)
+** **(ततः प्रविशति नरविमानाधिरूढः श्री वीरधवलदेवस्तेजः पालश्च)
 
 ** वीरधवलः**—(पुरोऽवलोक्य तेजः पालं प्रति) सखे! क एष नभोमण्डलमण्डपावष्टम्भमूलस्तम्भायमानो गिरिः?।
 
@@ -1477,6 +1469,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **तृणकवलनलीलायातसारङ्गकान्ताविरहविधुरमुद्यत्क्रन्दनं बालमेणम्।  
 अपि मृगरिपुपत्नी दूरितातङ्कमङ्के कलयति करुणार्द्रा दुग्धपानोत्सवाय॥८॥**  
 
+
  अहो ! महामुनिमाहात्म्यवशंवदा इव,
 
 **कुसुमसमुदयान्ततान्तभृङ्गीकलकलक्कॢप्तमिथःकथाविनोदाः।  
@@ -1517,7 +1510,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 इत्येते सुकृतानि कष्टकलया क्रीणन्ति धन्याः सुखी  
 स्वामिन्! धन्यतमोऽस्त्यमून्पुनरवन्पुण्यांशभागी भवान्॥१४ ॥**
 
-** वीरधवलः**—(पुरोऽवलोक्य) केयं पुनरुक्तितपुरंदरपुरा पुरी परितः परितोषयति जननयनानि।
+** वीरधवलः**—(पुरोऽवलोक्य) केयं पुनरुक्तितपुरन्दरपुरा पुरी परितः परितोषयति जननयनानि।
 
 ** तेजःपालः—**देव! भविष्यत्पद्मभूवैभवेन जगन्निर्माणकर्मण्यात्मपरीक्षानिष्ठेनेव भगवता वशिष्ठेन विरचितस्य विक्रमातिक्रान्तसुरासुरचक्रस्य परमारवीरस्य वंशोद्भवानामवनिधवानामेकमहिषी महोन्नतचैत्यचूलाचलध्वजाञ्चलचुम्बितचन्द्रा चन्द्रावती नाम नगरी।
 
@@ -1560,7 +1553,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **मयि सत्यामपि भुवने नरका इति कथमियं कथाऽद्यापि।  
 निर्मूलयितुमिवैतानित्येषा प्रविशति भुवोऽन्तः॥२०॥**
 
-** वीरधवलः—**(सहर्षोल्लासम्) नूनमस्याः सिद्धपुरपुरपरिसरे प्राचीमुखप्रसृमरं पयःप्रवाहमधिवसन् सुचिरविरञ्चिशिरःकर्त्तन सञ्जातपातकविशुद्ध्यर्थमिव भगवान् भद्रमहाकालः,
+** वीरधवलः— **(सहर्षोल्लासम्) नूनमस्याः सिद्धपुरपुरपरिसरे प्राचीमुखप्रसृमरं पयःप्रवाहमधिवसन् सुचिरविरञ्चिशिरःकर्त्तन सञ्जातपातकविशुद्ध्यर्थमिव भगवान् भद्रमहाकालः,
 
 **चूलागलद्धवलसिन्धुपयःप्रवाहो व्यालोलचामरतुलां तनुते त्रिसन्ध्यम्।  
 नृत्यन्नसौ प्रसृमरानलचक्षुरस्या नीराजनीभवति च स्वयमेव देवः॥२१॥**
@@ -1572,7 +1565,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 इत्यस्यां भूरिभासो दिनकरसुहृदः शातकुम्भीयकुम्भा  
 मित्रं शश्वत्पताकापटकपटकरक्रीडया ज्ञापयन्ति॥२२॥**
 
-** तेजः पालः—**देव ! पश्य पश्यामी।
+** तेजः पालः— **देव ! पश्य पश्यामी।
 
 **किं मच्छृङ्गारशृङ्गावलिविभवभरोऽहारि हारीभवद्भिः  
 साक्षादस्यामितीवावनिधरविभुना वेष्टिता वप्रवेषात्।  
@@ -1586,9 +1579,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 इह सुरगृहपङ्क्तिर्वासरे वासरेऽसौ  
 बत तपति पताकाहस्तविस्तारणेन॥२४॥**
 
-** **एतां पुनरनन्तश्रीमण्डनीयां मण्डयत्येककुण्डलमिव सहस्रसङ्ख्यशशिशेखरसुरगृहक- च्छलमुक्ताफलपटलजटिलान्तं मध्यस्फुरदुरुतरतरुलतावितानबलयितान्तरीपमयमरकतमणिनिकुरं- बकान्तं नितान्ततान्तनीरजरजःपरिरम्भ-
-
-सम्भावितशातकुम्भशोभमम्भो बिभ्राणं जगदानन्दनिधानं सिद्धसागराभिधानं सरः।
+** **एतां पुनरनन्तश्रीमण्डनीयां मण्डयत्येककुण्डलमिव सहस्रसङ्ख्यशशिशेखरसुरगृहक- च्छलमुक्ताफलपटलजटिलान्तं मध्यस्फुरदुरुतरतरुलतावितानबलयितान्तरीपमयमरकतमणिनिकुरं-बकान्तं नितान्ततान्तनीरजरजःपरिरम्भसम्भावितशातकुम्भशोभमम्भो बिभ्राणं जगदानन्दनिधानं सिद्धसागराभिधानं सरः।
 
 **महाम्भोधिर्गम्भीरिमगरिममाधुर्यविभवै-  
 र्जितो येन श्यामोऽजनि जनितदुःखव्यतिकरः।  
@@ -1600,19 +1591,19 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 क सम्भाव्यो यत्र प्रलयसमयद्वादशरवि-  
 च्छविप्लोषैः शोषः क्वथितपृथुपाथोधिभिरपि॥२६॥**
 
-** तेजपाल :** **—**देव! एवमेवैतत्।
+** तेजपाल :** **— **देव! एवमेवैतत्।
 
 **यत्रौर्वप्रकराः स्फुरन्ति गिरिशप्रासादकुम्भप्रति-  
 च्छन्दैः कुम्भचयाः पिबन्ति च सदा नाभूत्तथाप्यूनता।  
 एकौर्वज्वलनैककुम्भतनयक्रीडानिपीतोदक-  
-व्रीडार्त्तःपुरतः क्वतस्य सरसः क्षीरार्णवो वर्ण्यताम्॥२७॥**
+व्रीडार्त्तः पुरतः क्व तस्य सरसः क्षीरार्णवो वर्ण्यताम्॥२७॥**
 
 (पूजितनमस्कृतसमुत्तीर्णायां सरस्वत्यां नरविमानवेगं विभाव्य)
 
-** देव! देव! पश्य** **—**
+** देव! देव! पश्य** **— **
 
 **ये दूरक्षितिमण्डलस्थितिजुषो दृष्टा निविष्टा इव  
-त्वां सद्योनुविमानवेगरभसायातं निरूप्यैव ते।  
+त्वां सद्योनु विमानवेगरभसायातं निरूप्यैव ते।  
 अभ्युत्थानमिव क्षणात् क्षितिरुहः कुर्वन्ति ते सर्वतः  
 स्मेरत्पुष्पततिस्मितद्युतिभृतो विस्तीर्णशाखाभुजाः॥२८॥**
 
@@ -1621,10 +1612,10 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **तटस्फुटत्साभ्रमतीतरङ्गरङ्गन्मृदङ्गध्वनितेन लक्ष्मीः।  
 अस्मत्पितुः श्रीलवणप्रसाददेवस्य नर्नर्त्ति कराब्जरङ्गे॥२९॥**
 
-** तेजःपालः—**देव महीमण्डलमण्डन! किमुच्यतेऽस्याश्चारुत्वम्। एका साभ्रमती सरिल्लहरिषु स्वैरं द्वितीया वियत्—कुल्यावीचिषु रोचमानरजतादर्शोज्ज्वलासु ध्रुवम्।
+** तेजःपालः— **देव महीमण्डलमण्डन! किमुच्यतेऽस्याश्चारुत्वम्। एका साभ्रमती सरिल्लहरिषु स्वैरं द्वितीया वियत्—कुल्यावीचिषु रोचमानरजतादर्शोज्ज्वलासु ध्रुवम्।
 
 **तन्वाते निबिडं तपः फणिपुरीगीर्वाणपुर्यौ सदा  
-न्यङ्गुख्यौपरिलम्बिबिम्बमिषतो यस्या ग्रहीतुं श्रियम्॥३०॥**
+न्यङ्गुख्यौ परिलम्बिबिम्बमिषतो यस्या ग्रहीतुं श्रियम्॥३०॥**
 
 ** वीरधवलः—**अहो ! त्वरातिरेको नरविमानस्य।
 
@@ -1638,7 +1629,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 **अस्योपरि स्फुरति वायुहतप्रसून-  
 व्यूहोद्भवा गगनसीम्नि परागराजिः।  
 अन्तःप्रवेष्टुमसहा मिहिरस्य दीप्ति-  
-श्र्छायाच्छिदेप्रकुपितेव विकम्पमाना॥३२॥**
+श्र्छायाच्छिदे प्रकुपितेव विकम्पमाना॥३२॥**
 
 ** तेजःपालः—**अहो! अहितेन विहितः प्रहतिप्रयोगोऽपि महतां हितायैवजायेत। तथाहि—
 
@@ -1660,74 +1651,78 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 (ततः प्रविशाति विदूषकः)
 
- **विदूषक**—(उपसृत्य) देव[^53]! मह बालबंभणीसिरकलियपलियकलावुज्जलजसपसरविहुसियतिहुयण! नियघरघरिणीचरणनहसिहासिहिविहियनिच्चअग्गिहुत्ताणं अम्हाणं बंभणाणं वयणेहिं सव्वहा सुही होहि।
+ ** विदूषक**—(उपसृत्य) देव[^52]! मह बालबम्भणीसिरकलियपलियकलावुज्जलजसपसरविहुसियतिहुयण! नियघरघरिणीचरणनहसिहासिहिविहियनिच्चअग्गिहुत्ताणम् अम्हाणं बम्भणाणं वयणेहिं सव्वहा सुही होहि।
 
-[^53]: "देव! मम बालवाह्मणीशिरःकलितपलिकलापोज्ज्वलयशःप्रसरविभूषितत्रिभुवन! निजगृहगृहिणीचरणनखशिखाशिखिविहितनित्याग्निहोत्राणामस्माकं ब्राह्मणानां वचनैः सर्वथा सुखी भव।"
+[^52]: "देव! मम बालवाह्मणीशिरःकलितपलिकलापोज्ज्वलयशःप्रसरविभूषितत्रिभुवन! निजगृहगृहिणीचरणनखशिखाशिखिविहितनित्याग्निहोत्राणामस्माकं ब्राह्मणानां वचनैः सर्वथा सुखी भव।"
 
- **वीरधवलः**—(सहासम्) वयस्य! क स्थितो भवानियन्तं समयम्।
+ ** वीरधवलः**—(सहासम्) वयस्य! क स्थितो भवानियन्तं समयम्।
 
-**विदूषकः**—देव[^54]! नियमंतिपरप्परकहावसणपडिएसुतुम्हेसुनियवाहणपुट्टि अद्धंगठावियनियधरिणी सिहिणदक्खाहलपत्तंकुरकरणपरमत्थलग्गोसमंज्जेव अणुवडिओ।
 
-[^54]: "देव! निजमन्त्रिपरस्परपरकथाव्यसनपतितेषु युष्मासु निजवाहनष्पृष्ठे अर्धाङ्गस्थापितनिजगृहिणीस्तनद्राक्षाफलपत्राङ्कुरकरणपरमार्थलग्नः सममेव अनुपतितः।"
+** विदूषकः**—देव[^53]! नियमन्तिपरप्परकहावसणपडिएसु तुम्हेसु नियवाहणपुट्टि अद्धङ्गठावियनियधरिणी सिहिणदक्खाहलपत्तङ्कुरकरणपरमत्थलग्गोसमञ्ज्जेव अणुवडिओ।
 
-** वीरधवलः**—अहो ! महीयानयं अस्माव्द्यसनोपचयचकितस्य भवतः परमार्थप्रकर्षः।
+[^53]: "देव! निजमन्त्रिपरस्परपरकथाव्यसनपतितेषु युष्मासु निजवाहनष्पृष्ठे अर्धाङ्गस्थापितनिजगृहिणीस्तनद्राक्षाफलपत्राङ्कुरकरणपरमार्थलग्नः सममेव अनुपतितः।"
+
+** वीरधवलः**—अहो ! महीयानयम् अस्माव्द्यसनोपचयचकितस्य भवतः परमार्थप्रकर्षः।
 
 (इत्यमुनैव सह उद्यानप्रवेशं नाटयति)
 
  **विदूषकः**—(पुरो निरूप्य सेर्ष्यम्)
 
-**पयडियफुल्लकरंबा[^55] मह खुहियमुहस्स सम्मुहं अहुणा।  
-वाअंदोलियसाहंगुट्टंनच्चावयंति लया॥३५॥**
+**पयडियफुल्लकरम्बा[^54] मह खुहियमुहस्स सम्मुहम् अहुणा।  
+वाअन्दोलियसाहङ्गुट्टं नच्चावयन्ति लया॥३५॥**
 
-[^55]: "प्रकटितफलकम्वा मम क्षुधितमुखस्य सम्मुखमधुना। वातान्दोलितशाखाङ्गुष्ठं नर्त्तयन्ति लताः॥ नाथ ! प्रेक्षस्व ! प्रेक्षस्व ! हठाकृष्टुं सहस्रनयनस्य नयनसहस्रं परिपुञ्जितं शीर्षे वहन्ती कापि कुट्टिनी भयाकुलीभूता त्वरितत्वरितैः पदैः एतस्य लताजालस्य मध्ये परावर्त्तते।"
+[^54]: "प्रकटितफलकम्वा मम क्षुधितमुखस्य सम्मुखमधुना। वातान्दोलितशाखाङ्गुष्ठं नर्त्तयन्ति लताः॥ नाथ ! प्रेक्षस्व ! प्रेक्षस्व ! हठाकृष्टुं सहस्रनयनस्य नयनसहस्रं परिपुञ्जितं शीर्षे वहन्ती कापि कुट्टिनी भयाकुलीभूता त्वरितत्वरितैः पदैः एतस्य लताजालस्य मध्ये परावर्त्तते।"
 
-(विलोक्य) नाह! पिक्ख! पिक्ख! हढायड्ढियं सहस्सनयणस्स नयणसहस्सं परिपुंजियं सीसे वहंती कावि कुट्टिणी भयाउली भआतुरिएहिं पएहिं एयस्स लयाजालस्स मज्झम्मि परावट्टइ।
+(विलोक्य) नाह! पिक्ख! पिक्ख! हढायड्ढियं सहस्सनयणस्स नयणसहस्सं परिपुञ्जियं सीसे वहन्ती कावि कुट्टिणी भयाउली भआतुरिएहिं पएहिम् एयस्स लयाजालस्स मज्झम्मि परावट्टइ।
 
  **वीरधवलः**—(विलोक्य) नूनमत्रैव लतावितानकान्तारे मद्विरहविह्नलीभूताऽस्ति देवी जैत्रदेवी। यदियं हंसिका नाम तच्चरणपरिचारिका शिरसि कमलमण्डलं धारयन्ती त्वरितमितो व्रजति। (विदूषकं प्रति ) धि‍ग् धिग् रे मूढ! गौर्या गौरत्वं पाण्डुरोगपदे पतितम्।
 
- **विदूषकः**—(सक्रोधम्) न[^56]हु अहं तुह पासंमि ट्ठाइस्सं। वट्टियतिलपिंडपंडुरतुंडीए निअबंभणीए खुरसरसिजाई सेविस्सं।
+ **विदूषकः**—(सक्रोधम्) न[^55] हु अहं तुह पासम्मि ट्ठाइस्सम्। वट्टियतिलपिण्डपण्डुरतुण्डीए निअबम्भणीए खुरसरसिजाई सेविस्सम्।
 
-[^56]: "न खलु अहं तव पार्श्वे स्थास्यामि। वर्तिततिलपिण्डपाण्डुरतुण्ड्या निजब्राह्मण्याः खुरसरसिजानि सेविष्ये।"
+[^55]: "न खलु अहं तव पार्श्वे स्थास्यामि। वर्तिततिलपिण्डपाण्डुरतुण्ड्या निजब्राह्मण्याः खुरसरसिजानि सेविष्ये।"
 
 (इति अपसरति)
 
  **वीरधवलः**—भो भो वयस्य! कथमिव मयि क्रोधवान्?।
 
-**विदूषकः**—मह[^57]पडिवेसिओ नवनवइवरिसओ महापंडिओ अज्जवि पढणस्स अणिविन्नो माइयापढमक्खरं सिक्खंतो आसि। ता कहं मं मुड्ढंकहिसित्ति।
 
-[^57]: "मम प्रातिवेशिकः नवनवतिवर्षवयाः महापण्डितः अद्यापि पठनस्यानिर्विण्णःमातृकाप्रथमाक्षरं शिक्षनासीत्। तत्कथं मां मूढं कथयसीति।"
+**विदूषकः**—मह[^56] पडिवेसिओ नवनवइवरिसओ महापण्डिओ अज्जवि पढणस्स अणिविन्नो माइयापढमक्खरं सिक्खन्तो आसि। ता कहं मं मुड्ढं कहिसित्ति।
 
- **वीरधवलः**—वयस्य! देवीवदनारविन्दविलोकनविसंष्ठुलस्य ममेदमविचारतः पतितं वचसि स्खलितम्। बहुक्षमेण क्षम्यतां भवता। तदिदानीमेह्येहि लतान्तरित एव पश्यामि तावदात्मनः प्राणेश्वरीम्।
+[^56]: "मम प्रातिवेशिकः नवनवतिवर्षवयाः महापण्डितः अद्यापि पठनस्यानिर्विण्णःमातृकाप्रथमाक्षरं शिक्षनासीत्। तत्कथं मां मूढं कथयसीति।"
+
+ ** वीरधवलः**—वयस्य! देवीवदनारविन्दविलोकनविसंष्ठुलस्य ममेदमविचारतः पतितं वचसि स्खलितम्। बहुक्षमेण क्षम्यतां भवता। तदिदानीमेह्येहि लतान्तरित एव पश्यामि तावदात्मनः प्राणेश्वरीम्।
 
  (इति उपसृत्य लतागुल्मगुप्तवपुर्निखिलसखीमतिप्रतिक्रियमाणविरहरहस्यवेदिनीं प्रेमाङ्कुरमेदिनीं देवीं विलोकयति)
 
- **देवी**—(सखीं प्रति) न[^58]हु एस संतावो हिययम्मि नलिणसंठवणेण निट्ठवीयदि।
+ ** देवी**—(सखीं प्रति) न[^57] हु एस सन्तावो हिययम्मि नलिणसण्ठवणेण निट्ठवीयदि।
 
-[^58]: " न खलु एषसन्तापो हृदयेनलिनसंस्थापनेन निष्ठाप्यते।  यत्पीयूष मयूखस्पर्शेनापि भवति विरसितप्रसरम्। तत्कथं विरहहुताशनविनाशनं स्फुरतु सखि कमलम्॥"
+[^57]: " न खलु एष सन्तापो हृदयेनलिनसंस्थापनेन निष्ठाप्यते। यत्पीयूष मयूखस्पर्शेनापि भवति विरसितप्रसरम्। तत्कथं विरहहुताशनविनाशनं स्फुरतु सखि कमलम्॥"
 
-**जं पीयूसमयूहफरसेण वि होइ विरसियप्पसरं।  
-तं कह विरहहुयासणविणासणं फुरउ सहि कमलं॥३६॥**
+**जं पीयूसमयूहफरसेण वि होइ विरसियप्पसरम्।  
+तं कह विरहहुयासणविणासणं फुरउ सहि कमलम्॥३६॥**
 
-**विदूषकः**—अरे[^59] रासहरायसरिसगमणाओ! कहं देवीतावोवसमणम्मि सयलसलिलायरनलिणुम्मू- लणेण अप्पा किलामीयदि।
 
-[^59]: " अरे रासभराजसदृशगमनाः ! कथं देवीतापोपशमने सकलसलिला करनलिनोन्मूलनेन आत्मा क्लाम्यते।"
+** विदूषकः**—अरे[^58] रासहरायसरिसगमणाओ! कहं देवीतावोवसमणम्मि सयलसलिलायरनलिणुम्मू- लणेण अप्पा किलामीयदि।
 
-**लच्छीविलासभवणं[^60] हिययम्मि झडित्ति कुणह देवीए।  
-एय सुपाणिनलिणं एगं चिय वीरधवलस्स॥३७॥**
+[^58]: " अरे रासभराजसदृशगमनाः ! कथं देवीतापोपशमने सकलसलिला करनलिनोन्मूलनेन आत्मा क्लाम्यते।"
 
-[^60]: "लक्ष्मीविलासभवने हृदये झटिति कुरुत देव्याः। एतत्सुपाणिनलिनमेकमेव वीरधवलस्य ॥"
+**लच्छीविलासभवणं[^59] हिययम्मि झडित्ति कुणह देवीए।  
+एय सुपाणिनलिणम् एगं चिय वीरधवलस्स॥३७॥**
+
+[^59]: "लक्ष्मीविलासभवने हृदये झटिति कुरुत देव्याः। एतत्सुपाणिनलिनमेकमेव वीरधवलस्य ॥"
 
 (इति सर्वा अपि ससम्भ्रममूर्ध्वमवलोक्य)
 
-**सख्यः**—देवि[^61]! देवि! पिक्ख! पिक्ख! तुह विवक्खभूयमयणं नियरूवेण निज्जिणंतो पत्तो कोवि कस्सवि पाणवल्लहो।
 
-[^61]: "देवि ! देवि ! तवविपक्षभूतमदनं निजरूपेण निर्जयन् प्राप्तः कोऽपि कस्यापि प्राणवल्लभः।"
+**सख्यः**—देवि[^60]! देवि! पिक्ख! पिक्ख! तुह विवक्खभूयमयणं नियरूवेण निज्जिणन्तो पत्तो कोवि कस्सवि पाणवल्लहो।
+
+[^60]: "देवि ! देवि ! तव विपक्षभूतमदनं निजरूपेण निर्जयन् प्राप्तः कोऽपि कस्यापि प्राणवल्लभः।"
 
  (देवी दयितमुखमवलोक्य अविद्यावीरधवललिपिलक्षविलोकसततविलक्षापि सखीवचनप्रत्यायि- तहृदया सत्त्वरमुत्तिष्ठन्ती प्रलयपरवशवपुरुपविशति)
 
- **सख्यः**—(सावहित्थस्मितम्) देवि[^62]! देवि! विरहहुयासणविहुरीकया उठ्ठिदुंपि न समत्थीभूआसि।
+ **सख्यः**—(सावहित्थस्मितम्) देवि[^61]! देवि! विरहहुयासणविहुरीकया उठ्ठिदुं पि न समत्थीभूआसि।
 
-[^62]: "देवि ! देवि ! विरहहुताशनविधुरीकृता उत्थितुमपि न समर्थीभूतासि।"
+[^61]: "देवि ! देवि ! विरहहुताशनविधुरीकृता उत्थितुमपि न समर्थीभूतासि।"
 
  **वीरधवलः**—(सहर्षोल्लासम्)
 
@@ -1759,7 +1754,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 कृशमपि चिरकालादेनयोर्वीक्षितुं तत्  
 सुमुखि! नयनयोः किं छन्नमद्यापि भाग्यम्॥४१॥**
 
-** किश्च।    **
+** किश्च। **
 
 **तादृक्षे विरहेऽपि यस्य कथमन्यत्यक्ततादृग्भवे**
 
@@ -1768,17 +1763,17 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 बन्दीकृत्य कुतो गमिष्यति कृशेष्वद्वेषु शृङ्गारिणि॥४२॥**
 
 **
-हंसिका**—देव[^63]! पिक्ख! पिक्ख!।
+हंसिका**—देव[^62]! पिक्ख! पिक्ख!।
 
-[^63]: " देव ! प्रेक्षस्व ! प्रेक्षस्व !। देव्यास्तादृशघनविरहानलकृशानि अङ्गानि।                अधुना तव दर्शन कृतपुलकोद्गमपूरितानि रेहन्ति॥  अपि च। तवाङ्गसङ्गमरसोल्लसितैः नूनं पीनस्तनैः हठत्रोटितसन्धिबन्धम्।      नो कञ्चुकं मुञ्चति कण्टकस्वेदलग्नं देव्याः प्रेक्षस्व हृदयमतिलज्जितं च॥"
+[^62]: " देव ! प्रेक्षस्व ! प्रेक्षस्व !। देव्यास्तादृशघनविरहानलकृशानि अङ्गानि। अधुना तव दर्शन कृतपुलकोद्गमपूरितानि रेहन्ति॥ अपि च। तवाङ्गसङ्गमरसोल्लसितैः नूनं पीनस्तनैः हठत्रोटितसन्धिबन्धम्। नो कञ्चुकं मुञ्चति कण्टकस्वेदलग्नं देव्याः प्रेक्षस्व हृदयमतिलज्जितं च॥"
 
-**देवीए तारिसघणविरहानलकरसिआइंअंगाइं।  
-अहुणा तुह दंसणकयपुलकुग्गमपूरियाइं रेहंति॥४३॥**
+**देवीए तारिसघणविरहानलकरसिआइम् अङ्गाइम्।  
+अहुणा तुह दंसणकयपुलकुग्गमपूरियाइं रेहन्ति॥४३॥**
 
  **अवि य।**
 
-**तुम्हंगसंगमरसुल्लसिएहिं नूणं पीणत्थणेहिं हढतोडिदसंधिबन्धं।  
-नो कंचुयं मुयइ कंटगसेयलग्गं देवीइ पिक्ख हिअयं अइलज्जियं व॥४४॥**
+**तुम्हङ्गसङ्गमरसुल्लसिएहिं नूणं पीणत्थणेहिं हढतोडिदसन्धिबन्धम्।  
+नो कञ्चुयं मुयइ कण्टगसेयलग्गं देवीइ पिक्ख हिअयम् अइलज्जियं व॥४४॥**
 
 (नेपथ्ये )
 
@@ -1791,16 +1786,16 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
 ** हंसिका**—देव!
 
-**सुचिरागयम्मि[^64] दइए सुमुहीणं लज्जलुलियनयणाणं।  
+**सुचिरागयम्मि[^63] दइए सुमुहीणं लज्जलुलियनयणाणम्।  
 हिययरसणग्गकयघणगयागयं भासियं हवइ॥४६॥**
 
-[^64]: "सुचिरागते दयिते सुमुखीनां लज्जाकुलितनयनानाम्। हृदयरसनाग्रकृतघनगतागतं भाषितं भवति॥"
+[^63]: "सुचिरागते दयिते सुमुखीनां लज्जाकुलितनयनानाम्। हृदयरसनाग्रकृतघनगतागतं भाषितं भवति॥"
 
 (पुनर्नेपथ्ये)
 
  देव कीर्त्तिकुमुदिनीकौमुदीकामुक। त्वद्वनावलोकनकुतूहलोत्तरलनयनोऽयं वर्तते सकलोऽपि लोकः। मुहूर्तमात्रान्तरायः प्रवेशमुहूर्त्तोऽपि मूर्त्तो जनानन्द इव पर्यापतितः।
 
-** वीरधवलः**—(समाकर्ण्य देवीं प्रति) अस्मदीयहृदयानन्दपरमाणुमयमूर्त्ते देवि! सञ्चर्यताम्। प्रत्यासन्नो हि प्रवेशमहोत्सवः यदयं तेजःपालमुखेन श्रीवस्तुपालसचिवपतिर्मां त्वरयति। (इतितुरङ्गमारुह्य सुखासनस्थितया देव्याऽनुगम्यमानः सकलपरिवारपरिवृतः सञ्चरति)
+** वीरधवलः**—(समाकर्ण्य देवीं प्रति) अस्मदीयहृदयानन्दपरमाणुमयमूर्त्ते देवि! सञ्चर्यताम्। प्रत्यासन्नो हि प्रवेशमहोत्सवः यदयं तेजःपालमुखेन श्रीवस्तुपालसचिवपतिर्मां त्वरयति। (इति तुरङ्गमारुह्य सुखासनस्थितया देव्याऽनुगम्यमानः सकलपरिवारपरिवृतः सञ्चरति)
 
 (ततः प्रविशतस्तुरगारूढौ महामात्यश्रीवस्तुपालतेजः पालौ)
 
@@ -1825,7 +1820,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
  (इत्युपसृत्य प्रणमनाय तुरगादुत्तरन्हयवेगनाटितकेन वीरधवलेन भुजाभ्यामालिङ्गयमानः सप्रमोदातिरेकम्)
 
- **देव! देव!**
+ ** देव! देव!**
 
 **अङ्घ्रिप्रणामयोग्यं मां समालिङ्गन्भुजोरसा।  
 यं प्रसादं व्यधास्तस्य भविष्याम्यनृणः कुतः?॥५०॥**
@@ -1902,7 +1897,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 
  किमतःपरमपि मम प्रियमस्ति। तथापीदमस्तु—
 
-**वृष्टिं प्रत्यब्दमब्दाविदधतु वसुधाऽनेकशस्यप्रशस्या  
+**वृष्टिं प्रत्यब्दमब्दा विदधतु वसुधाऽनेकशस्यप्रशस्या  
 भूयाद्भूयांसि भूपा जगति जयजुषो योजयन्तां यशांसि।**
 
 **वाणीवीणारवोद्यन्मधुमधुरगुणाः कोविदाः काव्यभङ्गी-  
@@ -1961,10 +1956,8 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 कृत्वाऽधः कच्छपं सिन्धुराजप्रक्षोभशोभितः।  
 अमन्दरोचितभुजोऽप्यभवद्यः श्रियः प्रियः॥६॥  
 कीर्त्तिस्तोमसुधाभृतानि वसुधाखण्डानि रेजुः सुधा-  
-कुण्डानीव नवत्रिविष्टपसदां स्वाद्यानि यस्मिन्विभौ।**
-
-**रक्षानागचतुष्किका इव सदा सेवासमायातषट्-**
-
+कुण्डानीव नवत्रिविष्टपसदां स्वाद्यानि यस्मिन्विभौ।**  
+**रक्षानागचतुष्किका इव सदा सेवासमायातषट्-**  
 **त्रिंशद्राजकुलीयदक्षिणभुजव्याजेन येषां बभुः॥७॥  
 तस्मादकश्मलमिलन्निजकीर्त्तिभूति-  
 शुभ्रीकृतां निजमहोदहनाक्षिदीप्ताम्।  
@@ -1993,8 +1986,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 पश्यन्तीव तथा तथा त्रिपथगातोयेऽपि विच्छायतां  
 शङ्के कीर्त्तिरगादधौतधवला दूरेऽतिदूरादपि॥१५॥  
 तस्माद्विस्मारितरतिपतिः कामिनामङ्गधाम्न्ना  
-नाम्ना कर्णः समजनि भुजाशालिनां मौलिरत्नम्।**
-
+नाम्ना कर्णः समजनि भुजाशालिनां मौलिरत्नम्।**  
 **निन्द्यं बन्दिग्रहमपि निजं बह्वमन्यन्त मन्ये  
 धन्यम्मन्या रिपुयुवतयो यस्य रूपं निरूप्य॥१६॥  
 यदङ्गघटनोत्सृष्टैः परमाणुगणैरिव।  
@@ -2024,8 +2016,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 जैनं धर्ममुरीचकार सहसाऽर्णोराजमत्रासयद्  
 बाणैः कुङ्कणमग्रहीदपि गुरूचक्रे स्मरध्वंसिनम्।  
 इत्थं यस्य परिक्षतक्षितिभृतो हंसावलीनिर्मलै  
-रामस्येव निरन्तरं नवयशःपूरैर्दिशः पूरिताः॥२५॥**
-
+रामस्येव निरन्तरं नवयशःपूरैर्दिशः पूरिताः॥२५॥**  
 **तादृग्दानपरम्पराभिरभितो निष्काश्य कालं कलिं  
 त्रेताद्वापरयोरहम्प्रथमिकाबद्धस्पृहं पश्यतोः।  
 श्रेयश्चन्दनतो विशेषकविधिं कृत्वा यशोजाह्नवी-  
@@ -2055,8 +2046,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 भूभारोद्धृतिधुर्यदुर्द्धरभुजस्तस्याङ्गजन्मा स्फुर-  
 त्कीर्तिः श्रीधवलोऽस्ति वीरधवलोऽहङ्कारलङ्केश्वरः।  
 यस्मिन्निघ्नति मार्गणै रिपुगणं हृष्यन्ति तस्याङ्गनाः  
-कामोऽयं कुरुते मदेकवशगं चित्तेशमित्याशया॥३५॥**
-
+कामोऽयं कुरुते मदेकवशगं चित्तेशमित्याशया॥३५॥**  
 **विक्रीडतो यस्य नवप्रतापयशःकुमारौ जगदङ्गणान्तः।  
 प्रभावभाजौ लसतस्तदङ्गरक्षासु दक्षाविव सूरराजौ॥३६॥  
 पाताले बलिराजराज्यविशदे विश्वम्भरामण्डले  
@@ -2086,8 +2076,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 सीताकुक्षिसरोवरैकवरलाकान्तोऽश्वराजाख्यया  
 तस्याभूत्तनुभूः सदापि जननीभक्तौ च यः पावनः।  
 स्फूर्जद्धूर्जटिजूटकोटरपदन्यासोत्थपापच्छिदे  
-स्वर्नद्यापि समाश्रितः सितलसत्कीर्त्तिच्छविच्छद्मना॥४६॥**
-
+स्वर्नद्यापि समाश्रितः सितलसत्कीर्त्तिच्छविच्छद्मना॥४६॥**  
 **सप्तलोकचरी सप्ततीर्थयात्रासमुद्भवा।  
 गङ्गां जिगाय यत्कीर्त्तिर्विश्वत्रितयविस्तृताम्॥४७॥  
 भैमीव नैषधमहीरमणस्य तस्य  
@@ -2108,7 +2097,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 लप्स्यन्ते बत वस्तुपालसचिवाधीशेन साम्यं कृतः।  
 सार्द्धं यल्लघुबन्धुनाऽपि दिविषद्वृन्दैकमान्यः स्वयं  
 सामान्यप्रतिपत्तिगौरवपदं वाचस्पतिर्वाञ्छति॥५२॥  
-वीरश्रीवरधाम्निवीरधवले सिंहारवान्मारवान्  
+वीरश्रीवरधाम्नि वीरधवले सिंहारवान्मारवान्  
 जेतुं यातवति प्ररूढपुलकैरङ्कुरयन्पौरुषम्।  
 यस्तीर्त्वा यदुसिंहसिंहणबलाम्भोधिं भुजक्रीडया  
 गर्जन्नर्जितवान् यशस्त्रिजगतीमुक्तालतामण्डनम्॥५३॥  
@@ -2117,8 +2106,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 यत्कीर्तेः सह पांशुकेलिसुहृदो नन्दन्ति मन्दाकिनी-  
 दुग्धाम्भोधिविभावरीविभुककुप्कुम्भीन्द्ररुद्रादयः॥५४॥  
 येनाऽकारि तमोनिकारि कलशालङ्कारि शत्रुञ्जय-  
-क्ष्माभृन्मण्डनमिन्द्रमण्डपमहो नाभेयभर्त्तुः पुरः।**
-
+क्ष्माभृन्मण्डनमिन्द्रमण्डपमहो नाभेयभर्त्तुः पुरः।**  
 **तेनैकां द्युधुनीं दधद्धिमगिरिः पार्श्वस्थपार्श्वप्रभु-  
 श्रीमन्नेमिनिकेतकेतनयुगाभोगेन निर्भत्सितः॥५५॥  
 यः शत्रुञ्जयशेखरं जिनगृहश्रीतारहारं स्खल-  
@@ -2137,7 +2125,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 यस्य निस्यन्दलेखेव पार्श्वे वहति वाहिनी॥५९॥  
 येनोज्जयन्तगिरिमण्डननेमिचैत्ये  
 नाभेयपार्श्वजिनसद्मयुगं व्यधायि।  
-अन्तःस्वयंघटितनाभिजनेमिनाथ-  
+अन्तःस्वयङ्घटितनाभिजनेमिनाथ-  
 श्रीस्तम्भनेशगृहमप्युद्धारि हारि॥६०॥  
 स्वर्गं यद्गुरुचैत्यतोरणशिरः पद्यापदैः प्रापय-  
 द्वापीकूपतडागमार्गचलनैः पातालमूलं ययौ।  
@@ -2148,8 +2136,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 दृश्यः शाश्वतिकस्तथा प्रसृमरश्यामच्छविच्छद्मना  
 यत्खङ्गक्षतवैरिवामनयनावक्त्रेषु रात्रिक्षणः॥६२॥  
 अस्थापयत्स्थिरमतिः शकुनीविहारे  
-संसारतारिलसदम्बडधर्मपुञ्जे।**
-
+संसारतारिलसदम्बडधर्मपुञ्जे।**  
 **श्रीपार्श्ववीरजिनपुङ्गवयुग्मदम्भा-  
 द्यो यामिकद्वयमिवाग्रिमधर्मबन्धुः॥६३॥  
 तमेकदा करारोपभर्त्सितस्वर्णशेखरः।  
@@ -2179,8 +2166,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 पूर्वोर्वीधरकुञ्जतः प्रसरता प्रातर्वियत्कानने  
 यत्रागत्य भियेव गोपतिगवीवृन्देन मन्दायते॥७१॥  
 यावच्चण्डपगोत्रमण्डनमणेः कीर्त्तिर्वियद्वाहिनी-  
-हस्ता दिग्गजगर्जिवाद्यविभवैर्व्योमाङ्गणे नृत्यति।**
-
+हस्ता दिग्गजगर्जिवाद्यविभवैर्व्योमाङ्गणे नृत्यति।**  
 **दण्डास्तावदमी सुवर्णघटनाविभ्राजिनः केतन-  
 क्रीडत्किङ्किणिकारवव्यतिकरैः कुर्वन्तु गीतक्रमम्॥७२॥  
 तेजः पालयशोविलासविशदश्रीणां दिशां कौतुक-  
@@ -2230,13 +2216,12 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 गर्भे चण्डपगोत्रमण्डन ! भवद्दानानि देव्यो जगुः॥६॥  
 देव ! त्वत्प्रतिपन्थिपार्थिवपुरीसौधाग्रभागादिव  
 प्राप्य व्योमविहारदुर्लभमपि प्रौढप्ररूढप्रभः।  
-श्रीमच्चण्डपगोत्रमण्डन ! भवत्कीर्त्त्याजितो यामिनी-  
+श्रीमच्चण्डपगोत्रमण्डन ! भवत्कीर्त्त्या जितो यामिनी-  
 जीवेशस्तनुते तृणं निजमुखे लक्ष्मच्छविच्छद्मना॥७॥  
 गुणग्रामे रामे जितसितकरे सत्यपि निजे  
 स्वयं गृह्णासि त्वं परगुणमतादृक्षमपि यत्।  
 अयं लोभक्षोभश्चतुर। चतुराम्भोधिरसना-  
-वनीशिक्षादक्ष ! स्फुरति किमु ते मन्त्रिमुकुट !॥८॥**
-
+वनीशिक्षादक्ष ! स्फुरति किमु ते मन्त्रिमुकुट !॥८॥**  
 **भोगीन्द्रस्त्वद्भुजेन त्रिपुररिपुरपि त्वत्प्रभुत्वप्रभावैः  
 शीतांशुस्त्वन्मुखेन त्रिदशसरिदपि त्वच्चरित्रप्रपञ्चैः।  
 शक्रेभस्त्वद्गतेन प्रसभमशुभतां लम्भिताः सज्जलज्जं  
@@ -2246,7 +2231,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 श्रीमन्त्रीश ! भवद्भुजस्तु कृतिनां दत्ते च वित्तव्रजं  
 भिन्ते च द्विषतो दधाति च धरामेषां क्व साम्यं मिथः॥१०॥  
 इन्दुर्निन्दति कौमुदीसमुदयं मुक्तामणीनां तति-  
-र्मुक्ताहङ्कृतिरस्तचण्डिमहिमं दर्प्पीन सर्पाधिपः।  
+र्मुक्ताहङ्कृतिरस्तचण्डिमहिमं दर्प्पी न सर्पाधिपः।  
 गर्वं शर्वधराधरो न कुरुते न स्वर्द्धुनी स्पर्द्धिनी  
 श्रीमन्त्रीश्वरवस्तुपालयशसि त्रैलोक्यमाक्रामति॥११॥  
 बलिकर्णदधीचिकीर्त्तयः कलिपङ्कार्पितमत्यजन्मलम्।  
@@ -2254,9 +2239,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 शङ्के पङ्कजिनीपतिः क्रतुभुजां सार्थैः स्वयं प्रार्थितः  
 कर्ष॑ कर्षमिलातलादनुदिनं त्वद्दानतोयच्छटाः।  
 श्रीमच्चण्डपवंश्य! सिञ्चति शचीचित्तेशलीलावनं  
-नैवं चेत्कथमन्यथा विटपिनामप्यत्र दानक्रिया[^52]॥१३॥**
+नैवं चेत्कथमन्यथा विटपिनामप्यत्र दानक्रिया[^64]॥१३॥**
 
-[^52]: "These Stutikavyas are incomplete, as it seems one leaf in the palm-leaf ms is missing at the end."
+[^64]: # " These Stutikavyas are incomplete, as it seems one leaf in the palm-leaf ms is missing at the end."
 
 <MISSING_FIG href="../books_images/U-IMG-1722244429Screenshot2023-11-08175537.png"/>
 
@@ -2291,8 +2276,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 लीलासञ्चरणं च नूपुररणत्कारश्रियं च स्वयं  
 बोद्धुं साधु निषेव्यते खगकुलोत्तंसेन हंसेन या।  
 किञ्जल्कग्रसनप्रसक्तमनसस्तस्यैव हेतोः करे  
-कुर्वाणा कमलं सदा भवतु सा ब्राह्मी परब्रह्मणे॥७॥**
-
+कुर्वाणा कमलं सदा भवतु सा ब्राह्मी परब्रह्मणे॥७॥**  
 **जीयासुः कवयो नवोत्तमगुणग्रामाभिरामश्रियः  
 सर्वे शास्त्रतरङ्गिणीपरिवृढोल्लासैकचन्द्रोदयाः।  
 येषां कीर्त्तिरुदारवैभवभवत्प्रौढप्रबन्धावली-  
@@ -2320,8 +2304,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 स्फूर्जद्गूर्जरमण्डलावनिवधूवक्रोपमेऽस्मिन्पुरे  
 चैत्ये किञ्च विशेषकं व्यरचयत्पञ्चासराह्वं नृपः।  
 यस्योच्चैः कलशश्चकास्ति रुचिभिः किञ्चिद्विभिन्नाम्बर-  
-श्यामत्वव्यपदेशकेशपदवीसीमन्तसीमामणिः॥१४॥**
-
+श्यामत्वव्यपदेशकेशपदवीसीमन्तसीमामणिः॥१४॥**  
 **धात्रीधुरीणभुजनिर्जितभोगिराजः  
 श्रीयोगराज इति भूरमणस्ततोऽभूत्।  
 यस्य प्रतापतरणिस्तरवारिमेघ-  
@@ -2331,7 +2314,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 जातः करीन्द्रोद्धुरवैरिसिंहः श्रीवैरिसिंहस्तदिलाविलासी।  
 यत्कीर्तिकुल्या स्रुतिकैतवेन चिक्रीड लोकाननकाननेषु॥१७॥  
 श्री क्षेमराज इति तद्विरराज राजा येनोद्धृतेऽपि भुवने कृश एव शेषः।  
-विस्मृत्य नृत्यदुरगीभरगीयमानतत्कीर्त्तिंपानरसिको रसनं सुधायाः॥१८॥  
+विस्मृत्य नृत्यदुरगीभरगीयमानतत्कीर्त्तिम्पानरसिको रसनं सुधायाः॥१८॥  
 राजा चामुण्डराजस्तद्भूमण्डलमण्डयत्।  
 ससर्प विश्वे यस्याज्ञा नरेन्द्रैरप्यलङ्घिता॥१९॥  
 आहडस्तदजनि क्षितिनेता यस्य बाहुरिह नूतनराहुः।  
@@ -2351,8 +2334,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 स्वक्रीतसिन्धुपतिलक्षसमुद्धतश्री-  
 कोटिर्यदीयतरवारिरवारितौजाः।  
 कीर्त्त्याऽहसद्दिवि हरिं सुरदैत्यशेष-  
-क्षुब्धैकसिन्धुकलितैकमसिश्रियंतम्॥२४॥**
-
+क्षुब्धैकसिन्धुकलितैकमसिश्रियन्तम्॥२४॥**  
 **तेजःस्फूर्जितदीपदीपिनि सुधाशोभैर्यशोभिः शुभे  
 विश्वच्छद्मनि वाससद्मनि वशी भूमिं भुनक्ति स्म यः।  
 शत्रुस्त्रीनयनोदबिन्दुजतृणस्तोमेन रोमाञ्चितां  
@@ -2382,8 +2364,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 शीतं स्फीतमभूत्तमश्च जगतः प्रत्यर्थिसार्थैर्गतं  
 नेदं चेदिह कम्पकालिमगुणौ कस्मादकस्मादिमौ॥३१॥  
 श्वभ्रं सिन्धुरभुग्नया वसुधया भूमिं भटोघैर्दिवं  
-सप्तिक्षिप्तरजोभरेण पिदधे सोऽयं जगज्झम्पनः।**
-
+सप्तिक्षिप्तरजोभरेण पिदधे सोऽयं जगज्झम्पनः।**  
 **यः श्रीमालवभूपभालफलकप्रस्वेदबिन्दुच्छल-  
 प्रत्यग्रप्रथितप्रशस्तिविकसद्दोर्विक्रमोपक्रमः॥३२॥  
 तस्मान्नेत्रसुधाञ्जनः समजनि श्रीदुर्लभो मल्लिका-  
@@ -2413,8 +2394,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 कान्तं यं वीक्ष्य यान्तं प्रणयमयरुषा स्वप्रलब्धं प्रबुद्धा-  
 स्तद्बुद्ध्या न्यस्तहस्ता लिखितरतिपतेरञ्चले चञ्चलाक्ष्यः।  
 मूर्च्छालाश्चित्रशालाभुवि भवति विभुर्नायमित्यस्तहस्ता-  
-स्तत्ता हन्ति स्म मूर्त्तः स्वपरिभवभवन्मानभूमिर्मनोभूः॥३९॥**
-
+स्तत्ता हन्ति स्म मूर्त्तः स्वपरिभवभवन्मानभूमिर्मनोभूः॥३९॥**  
 **कान्ते कृष्णेऽभिभूते जगदवनपुषा बाहुना विग्रहेण  
 क्षिप्ते सुनावनङ्गे पितरि जलपतौ निर्जिते सैन्यपूरैः।  
 बन्धौ दोषाकरे तु प्रथममपि मुखालोकभग्नप्रभावे  
@@ -2442,13 +2422,12 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 सत्यं सङ्गरसङ्गरस्य महिमा सोत्साहमन्त्रस्थिते-  
 र्यस्योच्चैः करवाल एव स कथं सिद्धो न सिद्धाधिपः॥४६॥  
 बिडौजसि गते भयादनिबिडौजसि स्वर्गिरिं  
-तदीयदिशि यः स्फुरन्निह महोयशःक्ष्मारुहौ।**
-
+तदीयदिशि यः स्फुरन्निह महोयशःक्ष्मारुहौ।**  
 **अरोपयदहो पयःपतितटेऽधुनाप्यन्वहं  
 ततोऽभ्युदयतो नवौ रविनिशाधवौ पल्लवौ॥४७॥  
 रक्ष्यां रक्षितुमक्षमे दिशमपि श्यामे सदुःखे यमे  
 यद्भृत्यैरभिभूतदक्षिणककुब्भागैर्द्विषो भाविभिः।  
-मा स्म द्राक्ष्महि दुःसहैरिति नताः पाराय वारांनिधे-  
+मा स्म द्राक्ष्महि दुःसहैरिति नताः पाराय वारान्निधे-  
 र्भेजुः सेतुभुवं ततः कपिभयाच्चुक्षोभ रक्षोभरः॥४८॥  
 विलुप्ताशः पाशं निजतनुविनाशाय वरुणः  
 शुचा भेजे बिभ्रत्यपरहरितो यस्य च यशः।  
@@ -2470,11 +2449,10 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 लङ्घयानामपिकष्टमष्टककुभां जेतायमेतावती।  
 क्षोणीकम्पिनि धूतधूलिनि बले यस्याहिविश्वेश्वरः  
 शेषो नाम ननाम धाम मुमुचे भानुर्नभोभूषणम्॥५३॥  
-क्रान्तशक्रबलोभग्नभोगिलोकः क्षितिं जयन्।  
+क्रान्तशक्रबलो भग्नभोगिलोकः क्षितिं जयन्।  
 येन बर्बरदैत्येन्द्रः पुरोपरिसरे हतः॥५४॥  
 हृष्टोऽभून्मुशलध्वजः स्वकुशलध्यानेन जिष्णुः स्मय-  
-भ्राजिष्णुर्मुदितः समुद्रशयनो रुद्रोऽपि मुद्रामुदा।**
-
+भ्राजिष्णुर्मुदितः समुद्रशयनो रुद्रोऽपि मुद्रामुदा।**  
 **उत्क्षिप्ते किल बर्बरस्य शिरसि क्रूरस्य विश्वत्रयी-  
 जेतुर्येन तदा विधुन्तुदधिया भीतस्तु शीतद्युतिः॥५५॥  
 सञ्जज्ञे नृपतिशतैः कृताङ्घ्रिसेवः क्ष्मापालस्तदनु कुमारपालदेवः।  
@@ -2504,8 +2482,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 कोदण्डं स्वकरे कुरुर्न कुरुते सज्जं गलज्जङ्गल -  
 स्त्रस्तो वेत्ति नितम्बतो न वसनं कीरो न वीरोचितः।  
 युद्धक्षोणिषु दक्षिणः क्षितिपतिर्न क्षोददक्षोदय-  
-ह्राहुर्मृत्युसहस्रचक्षुषि मुहुर्यस्मिन् धनुर्धुन्वति॥६४॥**
-
+ह्राहुर्मृत्युसहस्रचक्षुषि मुहुर्यस्मिन् धनुर्धुन्वति॥६४॥**  
 **जगद्धन्यम्मन्यः प्रबलजलदुर्गार्जनमयै-  
 र्यदीयैरुद्यद्भिर्बलपरिवृढैः पौरुषदृढैः।  
 हयोत्खातक्षोणीविततरजसा सिन्धुपरिखां  
@@ -2522,7 +2499,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 द्रोणीचीतकृत्त्वचोऽपि स्खलदुपलशिलाभोगभुग्नाङ्घ्रयोऽपि।  
 अङ्गुष्ठं नर्त्तयित्वा भृतपद्मभवन्यस्य सेना भटानां  
 निस्वानध्वानजैत्रत्वरतुरगभृतां पश्यतामप्यदृश्याः॥६८॥  
-तमहतमहं बद्धावध्वा समं न समानये  
+तमहतमहं बद्धा वध्वा समं न समानये  
 यदि तद्वनीनेता नेति प्रणीतरणो रिपुः।  
 किमपि न पुनः कर्तुं भर्तुः स यस्य शशाक त-  
 न्नियतममुचत्प्राज्यं राज्यं सतामचलं वचः॥६९॥  
@@ -2535,8 +2512,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 रिपुस्त्रीनेत्राम्भोधयरयनदीमातृकयशा  
 विशामीशो भीमः समभवदुदात्तस्तद्नुजः।  
 अलब्धार्थिस्तोमः पुरनृषु विभक्तार्थिषु फल-  
-प्रदेषुप्रद्वेषं विरचयति दानैकरसिकः॥७२॥**
-
+प्रदेषुप्रद्वेषं विरचयति दानैकरसिकः॥७२॥**  
 **संलीनानामनुतटवनं तीरविश्रान्तनीर-  
 स्त्रीतुल्यानां यदरिसुदृशां दिक्षु रेजुर्मुखानि।  
 उत्कल्लोलः सह बहुविधैरेव रत्नाकरोऽयं  
@@ -2566,8 +2542,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 अधीशो धीराणां धवलकुलधौरेयधवलः  
 श्रियां सौधं धीमान् धवलचरितो वीरधवलः॥७९॥  
 देशोऽरण्यप्रदेशो नगरमगरसा कन्दरा मन्दिराली  
-तूली धूलीनिवेशस्तृणभृतकबरीधानमेवोपधानम्।**
-
+तूली धूलीनिवेशस्तृणभृतकबरीधानमेवोपधानम्।**  
 **कायच्छायाऽनुगस्त्री प्रतिदिनमशनं कन्दमूलं दुकूलं  
 वल्कं दारिद्र्यकल्कं सचिव इति शुचिर्यद्विषां राज्यलक्ष्मीः॥८०॥  
 न किं स हरितुल्यतास्तुतिषु लज्जते यज्जितै-  
@@ -2597,8 +2572,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 क्रुद्धे युद्धेषु यस्मिन् रिपुनृपनिकरः केशवव्योमकेश-  
 ब्रह्मादीनां पदाब्जैरपि मनसि धृतै रक्षितो न क्षतेभ्यः।  
 रक्षन्नात्मानमात्मक्रमकमलयुगप्राप्तवेगप्रसादा-  
-देताभ्यो देवताभ्यः कथमिव भुवने नाधिकोऽभूत्प्रभावैः॥८७॥**
-
+देताभ्यो देवताभ्यः कथमिव भुवने नाधिकोऽभूत्प्रभावैः॥८७॥**  
 **यत्खङ्गक्षतकुम्भिकुम्भविगलत्कीलालकल्लोलिनी-  
 पङ्क्तिर्व्यक्तयशोमहीरुहमहो निर्मूलयन्ती द्विषाम्।  
 तेषामेवमहोदवानलभरं शान्तिं नयन्ती ययौ  
@@ -2628,8 +2602,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 भ्रूभङ्गिप्रतिबिम्बतोरणदलं प्रौढप्रतापोच्छल-  
 त्प्रोद्यद्दीपमदभ्रशुभ्रयशसा लिप्तं सुधास्पर्द्धिना।  
 पद्मासद्म विभाति वीरधवलक्षोणीशखङ्गं पुरो  
-युद्धक्रुद्धविरोधिरोधिपरिखाविस्फारधाराजलम्॥९६॥**
-
+युद्धक्रुद्धविरोधिरोधिपरिखाविस्फारधाराजलम्॥९६॥**  
 **उपार्जि विभुताऽद्भुता वसुमती च नीता वशं  
 क्व सम्प्रति महामतौ धृतभरे भवेयं सुखी।  
 अनेन गदितैरिति स्फुटसभाजनैर्भाजनैः  
@@ -2659,10 +2632,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 अन्योन्यव्यतिषङ्गसङ्गतरुचिव्योमच्छले पल्वले  
 तेजः कीर्त्तिमिषेण चक्रमिथुनं संयोजयमास यः॥१०३॥  
 भ्राता वातायन इब घियां तस्य निःसीमकीर्त्ति-  
-स्तोमः सोमः समजनि जनालोकनीयः कनीयान्।**
-
-**देवो देवेष्विव जिनपतिर्मानसे मानसेका-  
-द्यस्यावश्यं नृपतिषु पतिः सिद्धराजो रराज॥१०४॥  
+स्तोमः सोमः समजनि जनालोकनीयः कनीयान्।**  
+**देवो देवेष्विव जिनपतिर्मानसे मानसेका-**  
+**द्यस्यावश्यं नृपतिषु पतिः सिद्धराजो रराज॥१०४॥  
 विश्वानन्दकरः सदा गुरुरुचिर्जीमूतपूतोन्नतिः  
 सोमः कोऽपि पवित्रचित्रविकसद्देवेशधर्मोन्नतिः।  
 चक्रे मार्गणपाणिशुक्तिकुहरे यः स्वातिवृष्टिव्रजै-  
@@ -2690,8 +2662,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 चत्वारस्तनया नयाहृतिरसाः कंसारिदोर्विक्रमा  
 गोदावर्य इवोज्ज्वला दुहितरः सप्त प्रसृतास्तयोः।  
 आत्मद्वादशतां यदीयवदनैर्लेभे सुधादीधिति-  
-र्बद्धस्पर्द्ध इवाखिलार्कखरतोच्छेदाज्जगन्मोदयन्॥११२॥**
-
+र्बद्धस्पर्द्ध इवाखिलार्कखरतोच्छेदाज्जगन्मोदयन्॥११२॥**  
 **लावण्याङ्ग इति द्युतिव्यतिकरैः सत्याभिधानोऽभवत्  
 शङ्के शङ्करकोपविभ्रमभरादासीदनङ्गः स्मरः।  
 सर्वाङ्गं सुभगोऽयमित्यनिमिषस्त्रैण्येन बाल्ये हृतः  
@@ -2721,8 +2692,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 दिग्यात्रोत्सववीरवीरधवलक्षोणीधवाध्यासितं  
 प्राज्यं राज्यरथस्य भारमभितः स्कन्धे दधल्लीलया।  
 भाति भ्रातरि दक्षिणे समगुणे श्रीवस्तुपालः कथं  
-न श्लाघ्यः स्वयमश्वराजतनुजः कामं स वामस्थितिः॥१२१॥**
-
+न श्लाघ्यः स्वयमश्वराजतनुजः कामं स वामस्थितिः॥१२१॥**  
 **यत्कीर्त्तिप्रसरैः परस्परपरिस्पर्द्धार्ध्ववर्धिष्णुभि-  
 र्दूरं दारितमेतदम्बरमिह भ्रष्टं भुवो मण्डले।  
 राशीभावचरिष्णुमीनमकराद्याकीर्ण मर्णःपति-  
@@ -2752,21 +2722,20 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 कैलासत्रिदशेभशम्भुहिमवत्प्रायोऽस्तु मुक्ताफल-  
 स्तोमः कोमलवालुकाऽस्य च यशःक्षीरोदधौ कौमुदी॥१२८॥  
 गर्जन्निर्जरकुञ्जरे मुरजिति प्रौढोर्मिभिर्नृत्यति  
-क्षीराब्धौ कलहंसिकाकलकलैर्गङ्गाजले गायति।**
-
+क्षीराब्धौ कलहंसिकाकलकलैर्गङ्गाजले गायति।**  
 **श्यामाकामुकपारिपार्श्वकयुतो विश्वत्रयीसम्मद-  
 क्रीडानाटकसूत्रधारपदवीं यत्कीर्त्तिपूरो ययौ॥१२९॥  
 उद्भूत प्रतिभाद्भुतस्य मतिमच्चन्द्रस्य चिद्रूपता-  
 माहात्म्यं स्तुमहे किमस्य निखिलग्रन्थाब्धिमन्थात्मनः।  
 दुःस्थानां प्रतिभूभृतीव विदधौ भालस्थलस्थापिता  
 दृक्पातैर्वितथैव येन कविता कापि त्रिलोकीकवेः॥१३०॥  
-यत्कीर्त्तेस्वैरमैरावणमदसमदभ्रान्तभृङ्गालिगीतैः  
+यत्कीर्त्ते स्वैरमैरावणमदसमदभ्रान्तभृङ्गालिगीतैः  
 स्फूर्जद्गर्जानिनादस्फुरदुरुमुरजोल्लासितायाः सितायाः।  
 नित्यं नृत्तं सृजन्त्याः शिरसि सुरगिरेश्चारुचारीप्रचार-  
 स्पष्टप्रभ्रष्टहारावलिगलितमणिभ्रान्तिमायान्ति ताराः॥१३१॥  
 अस्मद्गोत्रैकमित्रं त्वमसि निशि शशी क्रीडया पीडयेन्नः  
 शङ्के पङ्केरुहैः श्रीरिति गदितुमिव प्रीतियुक्ता नियुक्ता।  
-तत्प्राप्त्यायस्य नाम्नः कुपित इव करो दानशोभी यशोभि  
+तत्प्राप्त्या यस्य नाम्नः कुपित इव करो दानशोभी यशोभि  
 भृत्यैश्चक्रे तथेन्दुं त्रिजगति स यथा लक्ष्यते नेक्षितोऽपि॥१३२॥  
 जाता कृष्णपदात्प्रिया जलनिधेर्दुष्कर्मभिर्निम्नगा  
 बह्वेवं परिभाव्य यत्किल दधौ झम्पां पुरा वैभवे।  
@@ -2777,14 +2746,13 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 जल्पन्तीति सती यदीययशसा शुभ्रीकृते सर्वत-  
 स्त्रैलोक्येऽपि पिनाकिना सशपथं प्रत्यायिता पार्वती॥१३४॥  
 क्षीराब्धिर्लुठति क्षितौ फणिपतिः स्फारस्फुरत्स्फूत्कृति-  
-र्गङ्गा निम्नमुखी करोत्यलिवधूलोकैरवंकै रवम्।  
+र्गङ्गा निम्नमुखी करोत्यलिवधूलोकैरवङ्कै रवम्।  
 अन्तःसन्ततमङ्कपङ्कमिषतश्चन्द्रोऽपि तद्रोपित-  
 म्लानिर्दानिवरस्य यस्य यशसा तूर्णं हृते वैभवैः॥१३५॥  
 प्रतीता नीतीनामुपरि परिपाकेन रमते  
 मतिर्देवे सेवा सकलकरणैकान्तकरणम्।  
 अहो यस्यावश्यं शठरिपुहठप्राणहरणं  
-रणं दीने दानं सपदि विपदेकक्षयलयः॥१३६॥**
-
+रणं दीने दानं सपदि विपदेकक्षयलयः॥१३६॥**  
 **कोपाटोपपरैः परैश्चलचमूरङ्गतुरङ्गक्षत-  
 क्षोणिक्षोदवशादशोषि जलधिर्यैः स्तम्भतीर्थे पुरे।  
 स्वेदाम्भस्तटिनीघटाघटनया श्रीवस्तुपालस्फुर-  
@@ -2797,7 +2765,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 संयुध्य भज्यमानोऽस्य युद्धे सत्याभिधोऽभवत्॥१३९॥  
 भग्नः शङ्ख इति स्वरैर्दिविषदामाक्षिप्य लक्ष्मीमुखं  
 लक्ष्मीशः किल शङ्खलक्ष्मणि करे चिक्षेप चक्षुश्चलम्।  
-कीर्त्त्या लुप्तमवीक्ष्य शंडखममलं यस्य स्वयं विस्मयं  
+कीर्त्त्या लुप्तमवीक्ष्य शण्डखममलं यस्य स्वयं विस्मयं  
 गच्छन्कश्मलसिन्धुराजतनुभूकीर्त्त्या कृतार्थीकृतः॥१४०॥  
 असौ कीर्त्तीः स्वका मन्त्री कामं त्रीणि जगन्त्यनु।  
 वस्तुपालोऽरिसामन्तयशसामन्तकोऽक्षिपत्॥१४१॥  
@@ -2814,8 +2782,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 माभूद्भवनेऽपि दुस्तरतमः स्तोमस्तथा मा स्म भू-  
 न्नेत्रेऽपि द्युसदां सदा विकसिते सम्मीलनं मर्त्त्यवत्।  
 इत्युद्गामिरजःसमुच्चयभयाद्दम्भोलिपाणिर्मही-  
-मम्भोभृद्भिरसीषिचत्प्रतिदिनं यत्तीर्थयात्रोद्यमे॥१४५॥**
-
+मम्भोभृद्भिरसीषिचत्प्रतिदिनं यत्तीर्थयात्रोद्यमे॥१४५॥**  
 **यद्दिक्कुम्भिकुलाद्रिकोलकमठव्यालेश्वराः खेचराः  
 कष्टादेव दधुस्तलं तदवनेर्विष्णुश्चतुर्भिर्भुजैः।  
 खड्गाङ्केन भुजेन वीरधवलो मुद्राङ्गुलीलीलया  
@@ -2828,8 +2795,9 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 तद्ग्रामं परिमोचयन्करममुं सन्त्याजयामासिवान्॥१४८॥**
 
 **                                  
- (युग्मम्)  
-किञ्चैतेन गुणैः शशाङ्कशुचिभिः कृष्टः सुराष्ट्रापतिः  
+ (युग्मम्)**
+
+**किञ्चैतेन गुणैः शशाङ्कशुचिभिः कृष्टः सुराष्ट्रापतिः  
 पित्रोः पुण्यकृते जिनेश्वरकरं श्री भीमसिंहोऽमुचत्।  
 तीर्थारक्षकहेतवे तु कृतिना देवादितो दापिता  
 सेयं पञ्चशती सुराष्ट्रपतये तस्मै पुराभ्यर्थनम्॥१४९॥  
@@ -2848,8 +2816,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 सम्यक्त्वक्षितिपस्य दुर्दमरिपुभ्रंशे भुजौ शासना-  
 रण्यस्थौ प्रतिवादिकुम्भिदलने यौ व्याघ्रसिंहौ श्रुतौ॥१५४॥  
 श्रीमांस्ततोऽजनि मुनिः स तदीयपट्ट-  
-श्रीपट्टबन्धमुकुटो हरिभद्रसूरिः।**
-
+श्रीपट्टबन्धमुकुटो हरिभद्रसूरिः।**  
 **एकत्र सोमशतपत्रगुणौ मुखाग्रे  
 शश्वद्विबोधमधुरौ समवासयद्यः॥१५५॥  
 नॄणां यत्पदपद्मयोर्भुवि भवत्यौन्नत्यहेतुर्नति-  
@@ -2879,11 +2846,10 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 शुभ्रादभ्रयशःप्रसूनसुभगश्रीवल्लिकन्दोपमां  
 धर्मस्थानपरम्परां रचयितुं धत्तेतमामुद्यमम्॥१६२॥  
 मज्जन्तीमवनीमवेक्ष्य दुरिताम्भोधौ नवं भूधर-  
-प्राग्भारं रचयाञ्चकार यमसौ तीर्थेशचैत्यच्छलात्।**
-
+प्राग्भारं रचयाञ्चकार यमसौ तीर्थेशचैत्यच्छलात्।**  
 **तत्रैनःप्रतिदन्तिनाशसुभगः प्रेक्षामृदङ्गस्वनै-  
 गर्जद्विश्वजयी जयत्यनुदिनं धर्मद्विपो भूतले॥१६३॥  
-स्तम्भनपुररैवतगिरिंदैवतचैत्ये प्रपञ्चिते येन।  
+स्तम्भनपुररैवतगिरिन्दैवतचैत्ये प्रपञ्चिते येन।  
 शत्रुञ्जयजिनपुरतस्तीर्थत्रयगतिफलं कुरुतः॥१६४॥  
 शत्रुञ्जये भवपयोधितरार्थतीर्थं  
 येनेन्द्रमण्डपमखण्डपदं व्यधायि।  
@@ -2910,8 +2876,7 @@ was successful in repulsing the hostile attacks. The Vasantavilâsa informs us t
 पञ्चासरं च पुरि गूर्जरकर्णिकायाम्।  
 तत्केतुकैतवकरद्वयनर्त्तनेन  
 शुभ्रप्रभां नभसि नर्तयति स्म कीर्त्तिम्॥१७०॥  
-प्रतिष्ठाप्य च मन्त्रीशस्तीर्थेशं मुनिसुव्रतम्।**
-
+प्रतिष्ठाप्य च मन्त्रीशस्तीर्थेशं मुनिसुव्रतम्।**  
 **योऽश्वावतारतीर्थस्य मन्दिरं विदधे कृती॥१७१॥  
 ग्रामे शासनदत्ते च विदधे योऽर्कपालिते।  
 तडागं सागराकारममात्यः प्रपया सह॥१७२॥  
@@ -2953,17 +2918,18 @@ NOTES.
 
  cf. कलशध्वजदण्डं च यः कार्तस्वरभास्वरम्। भीमेशवेश्मनः शृङ्गे स्वप्रतापमिव व्यधात्॥
 
-                                   
+                                                                      
  जिनहर्ष—वस्तुपालचरित्र. IV - 720.
 
 **श्रीस्तम्भतीर्थनगरे रचयाञ्चकार भीमेशवेश्मनि च काञ्चनकेतुकुम्भौ।  
 मूर्त्तेव कीर्तिरनिशं वरवैजयन्ती नर्नति यत्र दिवि देवनदीं जयन्ती॥**
 
-                                   
-      सुकृतसङ्कीर्तन I3.  
+                                                                      
+      सुकृतसङ्कीर्तन I 3.  
  P. 1. 1. 15 **जयन्तसिंह or जैत्रसिंह—**for whose delectation the present drama was first staged at Cambay, was the only son of Vastupala by his first wife Lalitadevi. He was governor of Cambay from Samvat 1279 forward.
 
- cf. महामात्यश्रीवस्तुपालस्यात्मजे महं० श्रीललिता देवीकुक्षिसरोवरराज हंसायमाने महं० श्रीजयन्तसिंह सं० ७९ पूर्व श्रीस्तम्भतीर्थमुद्राव्यापारान् व्यावृण्वति सति      Mt. Girnar inscription.
+ cf. महामात्यश्रीवस्तुपालस्यात्मजे महं॰ श्रीललिता देवीकुक्षिसरोवरराज हंसायमाने महं॰ श्रीजयन्तसिंह सं॰ ७९ पूर्व श्रीस्तम्भतीर्थमुद्राव्यापारान् व्यावृण्वति सति     
+Mt. Girnar inscription.
 
  In Someśvara's Mt. Abu praśasti, we find the following about him.  
 दयिता ललितादेवी तनयमवीतनयमाप सचिवेन्द्रात्। नाम्ना जयन्तसिंहं जयन्तमिन्द्रात्पुलोमपुत्रीव॥४४॥
@@ -2977,7 +2943,7 @@ NOTES.
 
 गिरावत्र ववर्ष श्रीजैत्रसिंहोऽपि सर्वतः। यथा हेमाम्बुदख्यातिं लेभे कविसमर्पिताम्॥
 
-                                   
+                                                                      
    जिनहर्ष—वस्तुपालचरित्र VI- 618.  
  He had two sons Pratapasiņha and his younger brother whose name is not known.
 
@@ -2991,7 +2957,7 @@ NOTES.
 
   It was at his instance that Bâlachandrasûri composed his Vasantavilâsa. He outlived his uncle Tejahpâla who lived 10 years after Vastupâla. For the memory of his uncle, Jaitrasinha erected a temple with a resthouse, an almshouse and a tank at Chandronmânapara (Chanasma ?)
 
-**तत्र श्रीजैत्रसिंहेनगजाश्वरचनाञ्चितम्। सतोरणजिनाधीशमन्दिरं मन्दरोपमम्॥ ९२॥  
+**तत्र श्रीजैत्रसिंहेन गजाश्वरचनाञ्चितम्। सतोरणजिनाधीशमन्दिरं मन्दरोपमम्॥ ९२॥  
 सरोवरं तथा धर्मशालासत्रालयद्वयम्। विदधे श्रेयसे तस्य मन्त्रिणो नृपशासनात्॥ ९३॥**
 
 **जिनहर्ष—वस्तुपालचरित्र.VIII-592-93**
@@ -3015,7 +2981,7 @@ NOTES.
 
 **चौलुक्यक्षितिपालवीरधवलस्याद्वैतबन्धुः सुधीस्तेजः पाल...**
 
-                                  
+                                                                    
 Mt. Abu Prasasti 64.
 
  पुरा श्रीमत्पत्तन वास्तव्येन तत्कालं तत्रायात तेजःपालमन्त्रिणा सह सौहार्दमुत्पेदे।
@@ -3026,7 +2992,7 @@ Mt. Abu Prasasti 64.
 
 ** शङ्खस्तत्तनयः पराक्रमवतामाद्याभिधेयः सतां वीरः सम्प्रति वस्तुपालसचिवेनासौ क्षणान्निर्जितः॥**
 
-                                   
+                                                                      
              **जिनहर्ष—वस्तुपालचरित्र V-234**
 
  **P. 7.1.21 पञ्चग्रामसङ्ग्रामसङ्कटे**
@@ -3076,8 +3042,7 @@ Mt. Abu Prasasti 64.
 कृतज्ञविज्ञमाणिक्यं सर्वाङ्गीणगुणोदयम्। श्रुत्वा भवन्तं चौलुक्यराज्यलक्ष्मीधुरन्धरम्॥९४॥  
 त्वदङ्घ्रिकमलोपास्तिं वयं कर्तुमिहागताः। श्रीवीरधवलस्वामिसेवाकल्पलतां श्रिताः॥९५॥  
 इत्याकर्ण्य वचः कर्ण्य तेषां मन्त्रिपुरन्दरः। सुप्रसन्नमनाः प्रोचे यत्सन्तोऽन्यहितैषिणः॥९६॥  
-फलेग्नहिरभूदद्य नृपव्यापारभूरुहः। यद्ययं मे गृहं प्राप्ता राजानोऽतीव दुर्लभाः॥९७॥**
-
+फलेग्नहिरभूदद्य नृपव्यापारभूरुहः। यद्ययं मे गृहं प्राप्ता राजानोऽतीव दुर्लभाः॥९७॥**  
 **ततो नानाविधैर्भोज्जयित्वा सगौरवम्। सन्तोष्य च विशेषेण दिव्यवस्त्रविभूषणैः॥९८॥  
 कपूर्रपूरसम्मिश्रताम्बूलार्पणपूर्वकम्। हेमरत्नमयीस्तेषां स ददौ यमदंष्ट्रिकाः॥९९॥**
 
@@ -3133,7 +3098,7 @@ Mt. Abu Prasasti 64.
 **(षड्भिःकुलकम्)**
 
 **भीमसिंहोऽपि तत्रागाच्चाहुमानभटोत्कटः। नागेन्द्रं विगलन्निद्रं सृजन्नातोद्यनिःस्वनैः॥३६॥  
-ताभ्यां प्रतिष्ठितस्तत्र संग्रामस्त्रिदिनान्तरे। भूपानां दीर्घदर्शित्वं यदायतिहितावहम्॥३७॥  
+ताभ्यां प्रतिष्ठितस्तत्र सङ्ग्रामस्त्रिदिनान्तरे। भूपानां दीर्घदर्शित्वं यदायतिहितावहम्॥३७॥  
 दीयन्ते तत्र दानानि दुरितव्रातशान्तये। दीनानाथद्विजादिभ्यः सानन्दैः सुभटोत्तमैः॥३८॥  
 सिंहनादा विधीयन्ते वृषस्कन्धैर्नृपाङ्गजैः। शस्त्राधिष्टातृदेवीनां नानापूजोत्सवैः सह॥३९॥  
 नित्यं नृत्यन्ति पात्राणि रसपात्राणि सर्वतः। प्रबन्धा वीरसम्बन्धा निवेद्यन्ते च पण्डितैः॥४०॥  
@@ -3144,7 +3109,7 @@ Mt. Abu Prasasti 64.
 मिलिताः कलितोत्साहास्ते परस्मिन्बले ततः। तद्बलान्निर्भयो भीमसिंह गर्जति निर्भरम्॥४५॥  
 श्रुत्वेति मन्त्रिराजोक्तं स्माह श्रीराणकेश्वरः। अलं कातरलीलाभिर्यद्भाव्यं तद्भविष्यति॥४६॥  
 ये वा युधि मृत्यौ वा लाभ एव महीभुजाम्। जये जयश्रियः प्राप्तिर्मृतौ च त्रिदशश्रियः॥४७॥  
-उदरंभरिताधारी यो जीवत्यवनीपतिः। पराभवपदं यायात्प्रनाया अपि स क्रमात्॥४८॥  
+उदरम्भरिताधारी यो जीवत्यवनीपतिः। पराभवपदं यायात्प्रनाया अपि स क्रमात्॥४८॥  
 मृतौ चिन्ता भवेतस्य भूभुजो रणसीमनि। राज्यभारैकधौरेया यस्य न स्युः सुमन्त्रिणः॥४९॥  
 अथोवाच महामात्यश्चातुर्यैकबृहस्पतिः। देवे कार्मुकपाणौ तु परेलञ्चास्तु के परे॥५०॥  
 यतः—कोलः केलिमलङ्करोतु करिणः क्रीडन्तु कान्तासखाः कान्तारे वरकासराः सरभसं गर्जन्त्विह स्वेच्छया।  
@@ -3214,7 +3179,7 @@ Mt. Abu Prasasti 64.
 कुन्तत्रयं तदा भालस्थले चौलुक्यभूभुजः। प्रदत्तं प्रकटीभूय तैर्वदद्भिरिति द्रुतम्॥ ९४॥  
 एवं हमो वयं देव ! त्वामेकं किन्तु बीटकम्। अस्माभिश्च तदास्वादि त्वया दत्तं स्वपाणिना॥ ९५॥  
 अनृणीकर्त्तुमस्माभिः साम्प्रतं तन्नराधिप। जीवन्मुक्तोऽसि याहि त्वं बहूनामुदरम्भरिः॥ ९६॥  
-यथा तथा न हन्तव्यो भूयसामुपकारकः। अस्तंगते खौ यस्माद्विश्वं तमसि मज्जति॥ ९७॥  
+यथा तथा न हन्तव्यो भूयसामुपकारकः। अस्तङ्गते खौ यस्माद्विश्वं तमसि मज्जति॥ ९७॥  
 ...................................................................................................................**
 
 **..................................................................................................................**
@@ -3236,6 +3201,7 @@ Mt. Abu Prasasti 64.
 **विशुद्धोभयपक्षेषु न्यस्ता श्रीर्नृपसूनुषु। अनेकधा फलत्वत्र सुपात्रे दानवडुवम्॥१०॥  
 उदघोषि नृपैः सर्वैर्मरुवीरैर्जितं जितम्। प्रमाणं हय एवात्र श्रीवीरधवलासनम्॥११॥**  
 
+
 **नेता विनयेन शिष्यः शीलेन नारी प्रशमेन लिङ्गी।  
 प्रौढावदातेन भटः प्रचण्डो धर्मेण जन्तुश्च सदा विभाति॥१२॥**
 
@@ -3254,11 +3220,11 @@ Mt. Abu Prasasti 64.
 
 **योद्धुं प्रचक्रमे वीरैर्यावदन्योन्यमुत्कटैः। तावद्भटैः कृतो मेलः प्रमोदी मेदिनीभुजोः॥२३॥  
 तथोपरवटं वाजिराजं राजेन्द्रवाहनम्। पश्चात्समर्पयामासुस्ते वीरा गौर्जरेशितुः॥२४॥  
-भद्रेश्वरपुरेणैव शुद्धोन्छेनैव साधुना। करणीया धृतिर्भीमसिंहेनापि क्षमाभृता॥२५॥  
+भद्रेश्वरपुरेणैव शुद्धोञ्छेनैव साधुना। करणीया धृतिर्भीमसिंहेनापि क्षमाभृता॥२५॥  
 पाठनीया न हि वापि स्वात्मनो बिरुदावली। व्यवस्थेति स्थिरीचक्रे वस्तुपालेन मन्त्रिणा॥२६॥**  
 ............................................................................................................................................................
 
-**भीमसिंहाथ पृथक्कृत्वा दानभेदाद्युपायतः। वीरान् सामन्तपालादीन् विधाय निजसेवकान्॥ ८६॥  
+**भीमसिंहाथ पृथक् कृत्वा दानभेदाद्युपायतः। वीरान् सामन्तपालादीन् विधाय निजसेवकान्॥ ८६॥  
 मन्त्री प्राप्तपरप्राणक्रमाद्वाणरिपूपमः। द्रष्टुं चौलुक्यदेवायापराध्यन्तमनेकधा॥८७॥  
 भीमसिंहं समुच्छिद्य समूलं कुलवृक्षवत्। नरेन्द्रशासनं चक्रे सर्वत्रास्खलितप्रभम्॥८८॥**
 
@@ -3277,11 +3243,11 @@ Mt. Abu Prasasti 64.
 
 जिनहर्ष—वस्तुपालचरित्रII
 
- अथान्यदा पञ्चग्रामसङ्ग्रामाधिरूढयोः श्रीवीरधवललवणप्रसादयोः श्रीवीरधवलपत्नी राज्ञीजयतलदेवी सन्धिविधानहेतवे जनकं प्रति श्रीशोभनदेवमुपागता। किं वैधव्याद्भीरुः सन्धिबन्धं कारयसीति तेनाभिहिता। वीरचूडामणेः पत्युः श्रीवीरधवलस्योन्नतिमारोपयन्ती सा पितृकुलविनाशशङ्कया भूयो भूयोऽहमेवं व्याहरामि, तुरगपृष्ठाधिरूढे तस्मिन्वीरधवले स कोऽस्ति सुभटो यस्तत्सन्मुखे स्थास्यतीति व्याहृत्य सामर्षैव प्रतस्थे। अथ तस्मिन्समरसंरम्भे प्रहारव्यथाव्याकुले श्रीवीरधवले भुवस्तलमलङ्कुर्वति,
+ अथान्यदा पञ्चग्रामसङ्ग्रामाधिरूढयोः श्रीवीरधवललवणप्रसादयोः श्रीवीरधवलपत्नी राज्ञी जयतलदेवी सन्धिविधानहेतवे जनकं प्रति श्रीशोभनदेवमुपागता। किं वैधव्याद्भीरुः सन्धिबन्धं कारयसीति तेनाभिहिता। वीरचूडामणेः पत्युः श्रीवीरधवलस्योन्नतिमारोपयन्ती सा पितृकुलविनाशशङ्कया भूयो भूयोऽहमेवं व्याहरामि, तुरगपृष्ठाधिरूढे तस्मिन्वीरधवले स कोऽस्ति सुभटो यस्तत्सन्मुखे स्थास्यतीति व्याहृत्य सामर्षैव प्रतस्थे। अथ तस्मिन्समरसंरम्भे प्रहारव्यथाव्याकुले श्रीवीरधवले भुवस्तलमलङ्कुर्वति,
 
 **यः पञ्चग्रामसङ्ग्रामभूमौ भीमपराक्रमः। घातैः पपात सञ्जातैरश्वतो न तु गर्वतः॥**
 
-इति किञ्चिदन्तर्भग्नेसमरसुभटवर्गे एक एवायं पत्तिः पतित इति सकलं निजबलमुत्साहयन् श्रीलवणप्रसादः समस्तानपि रिपूल्ँलीलयैव समूलकाषं कषितवान्। इत्थमेकविंशतिकृत्वः सत्वगुणरोचिष्णू रणरसिकतया क्षेत्र पितुरग्रेपतितः।
+इति किञ्चिदन्तर्भग्ने समरसुभटवर्गे एक एवायं पत्तिः पतित इति सकलं निजबलमुत्साहयन् श्रीलवणप्रसादः समस्तानपि रिपूल्ँलीलयैव समूलकाषं कषितवान्। इत्थमेकविंशतिकृत्वः सत्वगुणरोचिष्णू रणरसिकतया क्षेत्र पितुरग्रे पतितः।
 
 प्रबन्धचिन्तामणि —265
 

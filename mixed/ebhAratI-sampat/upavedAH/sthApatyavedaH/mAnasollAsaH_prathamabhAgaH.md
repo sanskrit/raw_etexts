@@ -1,42 +1,59 @@
 +++
 title = "मानसोल्लासः प्रथमभागः"
-publisher = "CENTRAL LIBRARY BARODA"
+publisher = "बरोडा-सेण्ट्रल्-लाइब्ररी"
 "publish year" = "1925"
 domain = "उपवेदाः"
 sub-domain = "स्थापत्यवेदः"
 pages = "165"
 language = "संस्कृतम्"
-editor = "Gajanan K. Shrigondekar"
-printer = "Luhana Mitra Printing Press"
+editor = "गजानन के. श्रीगोण्डेकरः"
+printer = "लुहाना-मित्रा-प्रिण्टिङ्ग्-प्रेस्"
 "serial no." = "Ebharati-5008"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ3MDg0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[मानसोल्लासः प्रथमभागः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ3MDg0&pageno=MjI0MjQyNjk5NTk=)]]
 
 \
 
-***GAEKWAD'S ORIENTAL SERIES***  
-
+**GAEKWAD'S ORIENTAL SERIES**  
 **Published under the authority**
 
 **of the Government of His Highness**
 
 **The Maharaja Gaekwad of Baroda**
 
-**                                **
+
+
+** **
 
 **General Editor:**  
-
 **BENOYTOSH BHATTACHARYYA, MA.**
 
 **\_\_\_\_\_\_\_\_\_**  
 
+
+
+
 **No. XXVIII**  
+
+
+
+
+
 
 **MÂNASOLLÂSA**
 
 **VOL. 1**
+
+
+
+
+
+
+
+
+
+
 
 **मानसोल्लास**
 
@@ -44,25 +61,60 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ
 
 **VOL. I**
 
+
+
 EDITED BY  
+**GAJANAN K. SHRIGONDEKAR**, M.A.
 
-**GAJANAN K. SHRIGONDEKAR**
+**Sanskrit Librarian, Central Library, BARODA.**
 
-, M.A.
 
-Sanskrit Librarian, Central Library, BARODA.
+
+
+
+
+
+
+
+
 
 **1925**  
 **CENTRAL LIBRARY  
 BARODA**
 
-Printed by Ambalal Vithalbhai Thakkar at the Luhana Mitra Printing Press, Baroda, and published by Newton MohunDutt, Curator of Libraries, on behalf of the Government of His Highness the Maharaja Gaekwad of Baroda at the Central Library Baroda.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Printed by Ambalal Vithalbhai Thakkar at the Luhana Mitra Printing Press, Baroda, and published by Newton Mohun Dutt, Curator of Libraries, on behalf of the Government of His Highness the Maharaja Gaekwad of Baroda at the Central Library Baroda.  
+
+
+
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+
+
 **Price Rs. 2-12-0**
 
+
+
+
+
+
+
 **PREFACE.**  
+
 
  The first instalment of the long-announced Mānasollāsa, otherwise known as the Abhilaṣitārthachintāmaṇi, which purports to have been composed by the great Western Chalukya King Bhūlokamalla Someśvara, son of Vikramāditya VI, is now offered to the public. It is a voluminous work, extending to about 8000 Granthas, and is divided into five Viṃśatis, each containing 20 Adhyȃyas or chapters of unequal length, some chapters again including several sub- sections. The whole work is thus divided into one hundred chapters, dealing with one hundred different topics on the necessities and written for the instruction of the members of royal families. The first volume represents two among the five Viṃśatis, and comprises 40 Adbyȃyas or chapters.
 
@@ -82,55 +134,55 @@ The last three MSS belong to the Bikaner Durbar.
 
    The authorship of the Mānasollāsa is attributed, in the 9th śloka on page 2 and the colophon, to the Chalukya King Someśvara, surnamed Bhūlokamalla and Satyāśrayakulatilaka. A reference to śloka 371 on page 62 will, however, make it evident that this attribution is incorrect. In this śloka Somesvara is himself made the standard of comparison, and no anthor would be guilty of so flagrant a piece of vanity. It is therefore probable that the book was composed in his Court by some prodigiously learned and well-informed man, thoroughly acquainted with the royal household, royal necessities and royal whims.[\*[^1]
 
-[^1]: "Another work attributed to him is the Vikramȃṅkȃbhyudaya, an incomplete MS of which appears in one of the Pattan Bhandars. Further details of this MS with be given in our Pattan Catalogue which is in course of preparation."
+[^1]: # "Another work attributed to him is the Vikramȃṅkȃbhyudaya, an incomplete MS of which appears in one of the Pattan Bhandars. Further details of this MS with be given in our Pattan Catalogue which is in course of preparation."
 
-  King Someśvara is the son of Vikramāditya VI, and belongs to the line of the Western Chalukyas whose capital was at Kalyāni. Aufrecht in his *Catalogus Catalogorum* fixes the period of his reign as 1127-1138. In Barnett's *Antiquities of India* the date is 1126-1138. The date of composition of this work seems to be 1052 Śaka (1131 A. D.) as theśloka 61 on page 34 while giving theDhruvāṅka mentionsFriday as the first day of the month of Chaitra when theŚaka year 1051 had elapsed.
+  King Someśvara is the son of Vikramāditya VI, and belongs to the line of the Western Chalukyas whose capital was at Kalyāni. Aufrecht in his *Catalogus Catalogorum* fixes the period of his reign as 1127-1138. In Barnett's *Antiquities of India* the date is 1126-1138. The date of composition of this work seems to be 1052 Śaka (1131 A. D.) as the śloka 61 on page 34 while giving the Dhruvāṅka mentions Friday as the first day of the month of Chaitra when the Śaka year 1051 had elapsed.
 
    It is generally believed that Someśvara ascended the throne in A. D. 1127; but the inscription recording the grant of land made by Mahāmṇdaleśvara Mârasiṃhadevarasa to the temple of Māṇikyadeva containing an image of Ekaśāleya Pâršvanātha in the 6th year of the reign of Someśvara Bhūlokamalla in the year Śaka (1052 corresponding to A.D. 1130-31) shows that the date of his accession cannot be 1127; it must be 1124-25. The real date of Someśvara's accession therefore is a matter of controversy which may better be left in the hands of the historians and antiquarians for solution. The date of accession, whether 1124 or 1127, does not, however, materially come in conflict with the date given as Dhruvānka in the Mānasollāsa already mentioned.
 
   Some scholars are under the impression that A. D. 1127 is the date of composition of the Mānasollāsa. But this appears from the above, and also from other considerations, to be incorrect. Someśvara ascended the throne, as is commonly believed, in 1126 or 1127. It is quite natural that a king in those days should require a few years for getting himself firmly seated on the throne, and for waging wars with neighbouring countries, which generally gave trouble when a kingdom changed hands. It seems therefore probable that the date given as Dhruvâṅka, referred to above, is the real date of composition.
 
-   Someśvara seems to be a powerful ruler, but very little is koown of his personal history. A few inscriptions were recorded during his reign but the information yielded by them is but meagre. What his religion was, it is difficult to ascertain. Here in the beginning his book opens with an obeisance to all the important deities of the Hindu Pantheon, namely, Gaṇeśa, śiva, Visṇu, Brahmā, Indra, etc. The very first śloka refers to Gaṇeśá, but we shall not be justified in calling him a śaiva, because it is customary with authors of all sects to begin with an obeisance to Gaṇeśaas the bestower of perfection and the remover of obstacles. The grant of Mahāmaṇḍaleśvara Mârasiṃhadevarasa already referred to further makes us believe that Jainism was also encouraged in his time. Our conclusion therefore is that Someśvara also displayed the usual liberalism of Indian monarchs. The śloka 105 on page 11 further strengthens this conclusion.
+   Someśvara seems to be a powerful ruler, but very little is koown of his personal history. A few inscriptions were recorded during his reign but the information yielded by them is but meagre. What his religion was, it is difficult to ascertain. Here in the beginning his book opens with an obeisance to all the important deities of the Hindu Pantheon, namely, Gaṇeśa, śiva, Visṇu, Brahmā, Indra, etc. The very first śloka refers to Gaṇeśá, but we shall not be justified in calling him a śaiva, because it is customary with authors of all sects to begin with an obeisance to Gaṇeśa as the bestower of perfection and the remover of obstacles. The grant of Mahāmaṇḍaleśvara Mârasiṃhadevarasa already referred to further makes us believe that Jainism was also encouraged in his time. Our conclusion therefore is that Someśvara also displayed the usual liberalism of Indian monarchs. The śloka 105 on page 11 further strengthens this conclusion.
 
    The Mānasollāsa is written in Anuṣṭubh metre, with occasional prose passages introduced in the middle. Its language is easy but florid. The work treats of many subjects and gives the maximum information in the minimum space. The work is designated by the author as the जगदाचार्यपुस्तकः, or a book which teaches the world, and the scope of the book is so extensive that it can rightly claim that epithet. An idea of the different subjects dealt with can be obtained form the table of contents; but we will mention here only a few interesting features among many that may be found in the book. It may be remembered that Someśvara was an orthodox Hindu king and the picture presented in his Mānasollāsa is of the glories, pomps and paraphernalia of a purely Indian court and royal household. The Western Chālukyas were never known to have been contaminated by the Muhammadan civilization, as they, it is believed, had been destroyed by the Hoysalas.
 
-  In this work sometimes the author gives even minutedetails like **सिक्थादष्टगुणं ताम्रं**( on **मूर्तिविधान** in **इष्टापूर्ताध्याय** p. 9.) etc. and **तुलालक्षण**( p. 70.) and sometimes he omits the things that are really required, e. g., **एका तारा**etc. (p.106, śl. 860) where the word Tārā is not explained. The meanings of such words, however, may be found in other books like Vasantarāja Śākuna.
+  In this work sometimes the author gives even minute details like **सिक्थादष्टगुणं ताम्रं** ( on **मूर्तिविधान** in **इष्टापूर्ताध्याय** p. 9.) etc. and **तुलालक्षण** ( p. 70.) and sometimes he omits the things that are really required, e. g., **एका तारा** etc. (p.106, śl. 860) where the word Tārā is not explained. The meanings of such words, however, may be found in other books like Vasantarāja Śākuna.
 
    Among the two ViṁŚatis contained in this volume, the first, generally speaking, describes the requisite qualifications and necessities of an ambitious king who desires to obtain and extend his dominions. The second ViṃŚati mainly gives the ways and means of making the position of the king secure.
 
-  The first ViṃŚati while dealing with the virtues of a king makes the Tîrthasnānaan imperative necessity. In the Tirthasnānādhyāya the author mentions several Tîrthas, namely, Śuklatîrtha\*[^2], Vañjarā§[^3]."), Bhîmarathi, Veṇyā, the tributaries of the Kṛṣṇā, etc, such as may reasonably be known to local people. He does not however mention Puṣkara near Ajmer, which is one of the greatest Tîrthas. The mention of the Tāpî river along with the famous and mighty rivers, Ganges, Yamunā, Narmadā, Gautamî, in the same Śloka shows that the author could not shake off the local influence while speaking ofIndia in general. The omission of the Kāveri is worth noticing. It is probable also that in this particular he has followed the Brahma Purāna which also mentions the rivers in the same strain.\*[^4]
+  The first ViṃŚati while dealing with the virtues of a king makes the Tîrthasnāna an imperative necessity. In the Tirthasnānādhyāya the author mentions several Tîrthas, namely, Śuklatîrtha\*[^2], Vañjarā§[^3]."), Bhîmarathi, Veṇyā, the tributaries of the Kṛṣṇā, etc, such as may reasonably be known to local people. He does not however mention Puṣkara near Ajmer, which is one of the greatest Tîrthas. The mention of the Tāpî river along with the famous and mighty rivers, Ganges, Yamunā, Narmadā, Gautamî, in the same Śloka shows that the author could not shake off the local influence while speaking of India in general. The omission of the Kāveri is worth noticing. It is probable also that in this particular he has followed the Brahma Purāna which also mentions the rivers in the same strain.\*[^4]
 
-[^2]: "This may be one of the Narmadā near Broach or another of the same name of the Godavari."
+[^2]: # "This may be one of the Narmadā near Broach or another of the same name of the Godavari."
 
-[^3]: "The modern Mâñjrâin the Nizam's dominions also known as Garuḍa Gaṇgā or Garutmatt, a tributary of the Godāvari. (see the 90th. Adhyâya of the Gautamî Mâhâtmya in the Brahma Purâṇa
+[^3]: # "The modern Mâñjrâ in the Nizam's dominions also known as Garuḍa Gaṇgā or Garutmatt, a tributary of the Godāvari. (see the 90th. Adhyâya of the Gautamî Mâhâtmya in the Brahma Purâṇa
 
-[^4]: "See ślokas 33 and 34 of the 1stAdhyāya of Gautamî Māhātmya in the Brahma Parāṇa: Anandasrama edition p. 190."
+[^4]: # "See ślokas 33 and 34 of the 1st Adhyāya of Gautamî Māhātmya in the Brahma Parāṇa: Anandasrama edition p. 190."
 
   The three ślokas treating of Jvara (p. 18, śl. 188-190) are taken from an earlier work on medicine by Vāgbhaṭa, but the other ślokas have not been traced so far. In this Adhyāya and in the Adhyāyas of Aśvavaidyaka and Gajacikitsā it is worth noting that all the medicines mentioned are those prepared from medicinal plants. There is no mention of Bhasma, etc or medicines prepared from metals like iron, gold, etc.
 
 In the first Viṃśati the longest is the 19th Adhyayā called the Dinānāthabandhubhṛtyapoṣaṇādhyāya. Here the recessity of appointing excellent physicians and free distribution of medicines is emphasized. Someśvara might have realized that people must necessarily love a king who takes care of them when they are in distress.
 
-  The second Viṃśati opens with an enumeration of the necessary qualifications of the king. Rasāyana comes next to make the king healthy and strong. Then he mentions the different officers required for the State, along with their requisite qualifications. Among the qualifications of the royal cook, one is Asaṃbhedya who cannot be bought over by the King's enemies) and the other is Krtānnasya Parikṣaka ( able to examine carefully the king'sfood). This shows that the life of a king is perpetually in danger.
+  The second Viṃśati opens with an enumeration of the necessary qualifications of the king. Rasāyana comes next to make the king healthy and strong. Then he mentions the different officers required for the State, along with their requisite qualifications. Among the qualifications of the royal cook, one is Asaṃbhedya who cannot be bought over by the King's enemies) and the other is Krtānnasya Parikṣaka ( able to examine carefully the king's food). This shows that the life of a king is perpetually in danger.
 
-  The line विशेषेण च कायस्थैःपीडिताः पालयेत्प्रजाः (p. 43śl.156.) indirectly shows that the author was well acquainted with the fact that people of the clerical profession are inclined to harass the public. It is quite possible also that he followed the previous writers on Nîti (नीति) in this respect. On page 44 he fixes one-sixth of the produce of corn as the highest royal due, though in some cases it is made one-eighth or one-twelfth as a concession. The tax depends however on the productivity of the land. He fixes also one-sixth tax on honey and ghee, but does not formulate any taxation on other kinds of produce except to mention that a fruit graden is to be taxed according to its yield.
+  The line विशेषेण च कायस्थैः पीडिताः पालयेत्प्रजाः (p. 43 śl.156.) indirectly shows that the author was well acquainted with the fact that people of the clerical profession are inclined to harass the public. It is quite possible also that he followed the previous writers on Nîti (नीति) in this respect. On page 44 he fixes one-sixth of the produce of corn as the highest royal due, though in some cases it is made one-eighth or one-twelfth as a concession. The tax depends however on the productivity of the land. He fixes also one-sixth tax on honey and ghee, but does not formulate any taxation on other kinds of produce except to mention that a fruit graden is to be taxed according to its yield.
 
   In those days the might of the king was calculated according to the number of elephants which he possessed. Hence the author mentions the forests which are the haunts of elephants, and minutely describes the varieties of the species and formulates means to catch them, train them, and make them fit for war.
 
-  It is believed by the writers on elephants that the elephant is a faithless animal, but our author does not subscribe to that opinion. The only kind of elephant which is faithless is the Sarpasattva while the rogue elephants come under the category of Paiśācasattva and Rākṣasasattvasamudbhava. The code of words given here for the training of elephants must have been in use in those days in Mahārāṣṭra and Guzerat, as is evident from words such as देदे,घेघे, भले, etc, but the code is different from the one that is now in use either at Baroda or Kolhapur. The elephant, though naturally timid in disposition, is able to destroy men in war if properly trained. The last lesson received by the elephant is how to destroy men (शिक्षितंतु वधावधिp. 136, śl. 1194). In this book no less than five methods of catching elephants are given. One of them is Vāribandha, which corresponds to the well-known Kheddah operations. A mention of this in Mānasollāsa shows that the method was in vogue in those days, but was afterwards forgotten, as may be seen from the following lines of G. P. Sanderson in his "*Thirteen Year among the Wild Beasts of India* pp. 101 and 103.
+  It is believed by the writers on elephants that the elephant is a faithless animal, but our author does not subscribe to that opinion. The only kind of elephant which is faithless is the Sarpasattva while the rogue elephants come under the category of Paiśācasattva and Rākṣasasattvasamudbhava. The code of words given here for the training of elephants must have been in use in those days in Mahārāṣṭra and Guzerat, as is evident from words such as देदे,घेघे, भले, etc, but the code is different from the one that is now in use either at Baroda or Kolhapur. The elephant, though naturally timid in disposition, is able to destroy men in war if properly trained. The last lesson received by the elephant is how to destroy men (शिक्षितं तु वधावधि p. 136, śl. 1194). In this book no less than five methods of catching elephants are given. One of them is Vāribandha, which corresponds to the well-known Kheddah operations. A mention of this in Mānasollāsa shows that the method was in vogue in those days, but was afterwards forgotten, as may be seen from the following lines of G. P. Sanderson in his "*Thirteen Year among the Wild Beasts of India* pp. 101 and 103.
 
    "Some of the Maharaja's mahouts who were amongst my following had been accustomed to catch single elephants with trained females, and in pitfalls, but they had never heard of any one attempting the capture of a whole herd. It was said that Hyder had made a trial, a century before, in the Kakankote jungles, but had failed, and had recorded his opinion that no one would ever succeed and his curse upon any one that attempted to do so, on a stone still standing near the scene of his endeavours. Consequently all the true Mussulmans who were with me regarded the enterprise as hopeless, though they judiciously kept that opinion to themselves. "
 
-(p. 101)
+***(p. 101)***
 
 "I was determined to make the scheme succeed if possible, not only from my love of adventure and the necessity for executing what I had suggested to Government and undertaken to carry out, but from the desire to prove to several officers who considered the scheme to be the vision of a lunatic, that their croakings were rather the utterances of Bedlamites. Pleasantries appeared in the Bangalore papers regarding the probable effects the Kheddah operations would have on the price of salt, which it was represented was being laid in by me in large quantities for application to the caudal appendages of any elephants I happened to meet with ".
 
-(p. 103).
+***(p. 103).***
 
-  The author Someśvara mentions **ब्रह्मांशक** elephantfirst. This is the only kind of elephant which is described as completely white (गौर). Modern writers on elephants say that no such elephants are found:-
+  The author Someśvara mentions **ब्रह्मांशक** elephant first. This is the only kind of elephant which is described as completely white (गौर). Modern writers on elephants say that no such elephants are found:-
 
   "I have never myself seen a really white one, nor have any of the experienced native hunters whom I have met "x x x Regarding the white elephants of which we read as forming the most cherished possessions of the King of Ava, I am unable to give any information".
 
-Sanderson p. 83.
+***Sanderson p. 83.***
 
   "Occasionally so called white elephants are met with, which are really albinos, the dark pigment being absent from a larger or smaller area of the skin; in Burma and Siam such albinos being highly valued and considered as sacred or royal animals "
 
@@ -142,27 +194,28 @@ Sanderson p. 83.
 
   Where pearls and various kinds of gems are treated of, their defects also are not omitted, and mention is made of the devastating results of possessing such defective pearls and gems. On page 61, śl. 426 Someśvara says that in this Kali-age pearls such as are found in oyster shells only are available. But he enumerates eight different sources of pearls, some altogether mythical, following perhaps the tradition of previous writers: In this connection he does not rest content with mentioning the sources only, but also minutely describes the kind of pearls produced from each source. He says in one place (p. 71 śl. 471) that the king should not wear pearls which weigh more than two Kālañjas (equal to 60 Guñjās)
 
-  On page 79 things worth storing in a fort are mentioned. In ślokas 551 to 555 the author deals with the necessity of keeping in stock stones and sand, serpents in earthen pots,and lions fixed to some convenient spot, and in fact, everything that may cause havoc in an hostile army.
+  On page 79 things worth storing in a fort are mentioned. In ślokas 551 to 555 the author deals with the necessity of keeping in stock stones and sand, serpents in earthen pots, and lions fixed to some convenient spot, and in fact, everything that may cause havoc in an hostile army.
 
    On page 80, śloka 561, we see the author advising kings not to put faith in the army formed of enemies, men, and not to allow them near his presence. He further advises that an army of this kind should always be put in the front in the event of war.
 
- While referring to horses, Someśvara uses the word Yavanodbhūta, by which are meant probably the Arabian horses. It appears that in his time horses from Sind, Arabia and the Kāmboja countries were famous. Among these the Arabian horses have maintained their reputation even now. He seems specially inclined towards the elephants of the Kalinga forests (कालिङ्गवनसंभवp. 136, śl. 1194). He has also treated of the medicines to be administered to horses and elephants. On page 86 and 87 the description of fever in elephants etcis worth noting. There is no mention however of any medicine for fever in the case of elephants.
+ While referring to horses, Someśvara uses the word Yavanodbhūta, by which are meant probably the Arabian horses. It appears that in his time horses from Sind, Arabia and the Kāmboja countries were famous. Among these the Arabian horses have maintained their reputation even now. He seems specially inclined towards the elephants of the Kalinga forests (कालिङ्गवनसम्भव p. 136, śl. 1194). He has also treated of the medicines to be administered to horses and elephants. On page 86 and 87 the description of fever in elephants etc is worth noting. There is no mention however of any medicine for fever in the case of elephants.
 
   In the Vasantarāja śākuna it is mentioned that there are five jewels among the śakunas:—
 
 **पीतकी-भषण - काक-पिङ्गला- जम्बुकप्रियतमा च पञ्चमी ।**
 
-**पतदत्रमुनिसत्तमैः सदा कीर्त्यते शकुनरत्नपञ्चकम् ॥**
+**पतदत्र मुनिसत्तमैः सदा कीर्त्यते शकुनरत्नपञ्चकम् ॥**
 
 **( अर्चनाविधिप्रकरण śl.3 )**  
 
+
 Among them the Potaki is the chief. The śloka runs thus -
 
-**यतोऽखिलैः शाकुनशास्त्रविज्ञैः**
+**यतोऽखिलैः शाकुनशास्त्रविज्ञैः **
 
 **श्यामोदिता सर्वविहङ्गमानाम् ।**
 
-**धानभूता X X X XX**
+**धानभूता X X X X X**
 
 (op. cit. p. 93)
 
@@ -174,131 +227,152 @@ Among them the Potaki is the chief. The śloka runs thus -
 
  We take this opportunity of recording our cordial thanks and deep gratitude to HIS EXCELLENCY SIR MANUBHAI N. MEHTA Kt, C.S.I., M.A., L.L.B., Dewan Saheb of Baroda, for the keen interest he takes in the Series, and for the kind help rendered to us by obtaining a loan of the three Bikaner Durbar MSS on his personal responsibility. Our thanks are also due to the Bikaner Durbar for their courtesy in lending us these MSS; to the Bhandarkar Oriental Research Institute, Poona, for giving the loan of their MS; and to Pandit LB. Gandhi of our Library for assistance rendered by him in many directions, such as collating MSS, reading proofs, etc.
 
-$\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{array} \\right\\}$                       
-                 
 
-**G. K. SHRIGONDEKAR.**
+
+
+
+$`\left. \begin{array}{r} {BARODA~~} \\ {September~19,~1925.} \end{array} \right\}`$                        
+                ** G. K. SHRIGONDEKAR.**
+
+
+
+
+
+
+
+
 
 **अनुक्रमणिका.**  
 
-|                                        |
-|:--------------------------------------:|
-|            **प्रथमविंशतिः**            |
-|         असत्यवर्जनाध्यायः (१)         |
-|        परद्रोहवर्जनाध्यायः (२)        |
-|        अगम्यावर्जनाध्यायः (३)         |
-|        अभक्ष्यवर्जनाध्यायः (४)        |
-|         असूयावर्जनाध्यायः (५)         |
-|        पतितसङ्गवर्जनाध्यायः (६)        |
-|         क्रोधवर्जनाध्यायः (७)         |
-|     स्वात्मस्तुतिवर्जनाध्यायः (८)     |
-|           दानाध्यायः ( ९ )            |
-|          प्रियवचनाध्यायः (१०)          |
-|        इष्टापूर्ताध्यायः (११)         |
-|       अशेषदेवताभवत्यध्यायः (१२)       |
-|       गोविप्रतर्पणाध्यायः (१३)       |
-|         पितृतर्पणाध्यायः (१४)         |
-|        अतिथिपूजनाध्यायः ( १५ )        |
-|       गुरुशुश्रूषणाध्यायः (१६)        |
-|            तपोऽध्यायः (१७)            |
-|         तीर्थस्नानाध्यायः (१८)         |
-| दीनानाथार्तबन्धुभृत्यपोषणाध्यायः (१९) |
-|        शरणागतरक्षाध्यायः ( २० )        |
 
-|                                  |
+| |
 |:--------------------------------:|
-|        **द्वितीयविंशतिः**        |
-|      **स्वाम्यध्यायः (१)**       |
-|             राजगुणाः             |
-|             रसायनम्              |
-|     **अमात्याध्यायः (२) **     |
-|         मन्त्रिलक्षणम्          |
-|         पुरोहितलक्षणम्          |
-|         पञ्चाङ्गनिर्णयः         |
-|     ज्योतिर्विद्गणकलक्षणम्      |
-|         सेनापतिलक्षणम्          |
-|   धर्माधिकारिसभाध्यक्षलक्षणम्    |
-|              गणितम्              |
-|       कोशाध्यक्षगणकलक्षणम्       |
-|         प्रतीहारलक्षणम्          |
-|      सान्धिविग्रहिकलक्षणम्       |
-|           लेखकलक्षणम्            |
-|           सारथिलक्षणम्           |
-|           सूदलक्षणम्            |
-|           वैद्यलक्षणम्           |
-| अन्तःपुररक्षककुमारपरिचारकलक्षणम् |
-|     **राष्ट्राध्यायः (३)**      |
-|        राष्ट्रपालनविवेकः         |
-|           करादानविवेकः           |
-|            देशजनरक्षा            |
-|         गजवनविभागलक्षणम्         |
-|            वारिबन्धः             |
-|           अनुगतबन्धः            |
-|            आपातबन्धः             |
-|            अवपातबन्धः            |
+| **प्रथमविंशतिः** |
+| असत्यवर्जनाध्यायः (१) |
+| परद्रोहवर्जनाध्यायः (२) |
+| अगम्यावर्जनाध्यायः (३) |
+| अभक्ष्यवर्जनाध्यायः (४) |
+| असूयावर्जनाध्यायः (५) |
+| पतितसङ्गवर्जनाध्यायः (६) |
+| क्रोधवर्जनाध्यायः (७) |
+| स्वात्मस्तुतिवर्जनाध्यायः (८) |
+| दानाध्यायः ( ९ ) |
+| प्रियवचनाध्यायः (१०) |
+| इष्टापूर्ताध्यायः (११) |
+| अशेषदेवताभवत्यध्यायः (१२) |
+| गोविप्रतर्पणाध्यायः (१३ ) |
+| पितृतर्पणाध्यायः (१४) |
+| अतिथिपूजनाध्यायः ( १५ ) |
+| गुरुशुश्रूषणाध्यायः (१६) |
+| तपोऽध्यायः (१७) |
+| तीर्थस्नानाध्यायः (१८) |
+| दीनानाथार्तबन्धुभृत्यपोषणाध्यायः (१९) |
+| शरणागतरक्षाध्यायः ( २० ) |
 
-|                              |
-|------------------------------|
-| गजशुभलक्षणम्                 |
-| गजजातिभेदलक्षणम्             |
-| गजशिक्षानिरूपणम्             |
-| निधिः                       |
-| **कोशाध्यायः (४)**          |
-| धातुवादरसायनम्               |
-| वज्रदोषगुणाः                |
-| मौक्तिकपरीक्षा               |
-| तुलालक्षणम्                  |
-| मौक्तिकतोलनमूल्यविन्यासः    |
-| पद्मरागपरीक्षा               |
-| इन्द्रनीलपरीक्षा             |
-| मरकतपरीक्षा                 |
-| स्फटिकपरीक्षा                |
-| पुष्परागपरीक्षा             |
-| वैडूर्यपरीक्षा              |
-| गोमेदपरीक्षा                 |
-| विद्रुमपरीक्षा              |
-| रत्नपरीक्षा                 |
-| **दुर्गाध्यायः (५) **      |
-| नवविधदुर्गलक्षणम्            |
-| **बलाध्यायः ( ६ )**          |
-| पदातिलक्षणम्                 |
-| अश्ववैद्यकम्                |
-| गजचिकित्सा                   |
-| गजौषधिनिघण्टुः              |
-| **सुहृदध्यायः (७)**         |
-| **प्रभुशक्त्यध्यायः (८)**    |
+
+
+
+
+| |
+|:--------------------------:|
+| **द्वितीयविंशतिः** |
+| **स्वाम्यध्यायः (१)** |
+| राजगुणाः |
+| रसायनम् |
+| **अमात्याध्यायः (२) ** |
+| मन्त्रिलक्षणम् |
+| पुरोहितलक्षणम् |
+| पञ्चाङ्गनिर्णयः |
+| ज्योतिर्विद्गणकलक्षणम् |
+| सेनापतिलक्षणम् |
+| धर्माधिकारिसभाध्यक्षलक्षणम् |
+| गणितम् |
+| कोशाध्यक्षगणकलक्षणम् |
+| प्रतीहारलक्षणम् |
+| सान्धिविग्रहिकलक्षणम् |
+| लेखकलक्षणम् |
+| सारथिलक्षणम् |
+| सूदलक्षणम् |
+| वैद्यलक्षणम् |
+| अन्तःपुररक्षककुमारपरिचारकलक्षणम् |
+| ** राष्ट्राध्यायः (३)** |
+| राष्ट्रपालनविवेकः |
+| करादानविवेकः |
+| देशजनरक्षा |
+| गजवनविभागलक्षणम् |
+| वारिबन्धः |
+| अनुगतबन्धः |
+| आपातबन्धः |
+| अवपातबन्धः |
+
+| |
+|-------------------------|
+| गजशुभलक्षणम् |
+| गजजातिभेदलक्षणम् |
+| गजशिक्षानिरूपणम् |
+| निधिः |
+| **कोशाध्यायः (४) ** |
+| धातुवादरसायनम् |
+| वज्रदोषगुणाः |
+| मौक्तिकपरीक्षा |
+| तुलालक्षणम् |
+| मौक्तिकतोलनमूल्यविन्यासः |
+| पद्मरागपरीक्षा |
+| इन्द्रनीलपरीक्षा |
+| मरकतपरीक्षा |
+| स्फटिकपरीक्षा |
+| पुष्परागपरीक्षा |
+| वैडूर्यपरीक्षा |
+| गोमेदपरीक्षा |
+| विद्रुमपरीक्षा |
+| रत्नपरीक्षा |
+| **दुर्गाध्यायः (५) ** |
+| नवविधदुर्गलक्षणम् |
+| **बलाध्यायः ( ६ )** |
+| पदातिलक्षणम् |
+| अश्ववैद्यकम् |
+| गजचिकित्सा |
+| गजौषधिनिघण्टुः |
+| **सुहृदध्यायः (७) ** |
+| **प्रभुशक्त्यध्यायः (८)** |
 | **मन्त्रशक्त्यध्यायः ( ९ )** |
-| **उत्साहशक्त्यध्यायः (१०)**  |
-| **सन्ध्यध्यायः (११)**        |
-| **विग्रहाध्यायः (१२)**      |
-| **यात्राध्यायः (१३)**        |
-| यात्राभेदाः                  |
-| सर्वदिगृक्षाणि               |
-| वारशूलम्                     |
-| ऋक्षदोषवारणानि               |
-| नक्षत्रदोहदम्                |
-| अमङ्गलानि शकुनानि            |
-| मङ्गलप्रदानि शकुनानि         |
-| श्वशकुनानि                  |
-| शिवापल्लीकाकशकुनानि          |
-| पोतकीशकुनम्                  |
-| पिङ्गलाशकुनम्                |
-| उपश्रुतिशकुनम्               |
-| **आसनाध्यायः(१४)**           |
-| **आश्रयाध्यायः(१५)**         |
-| **द्वैधीभावाध्यायः(१६)**     |
-| **समाध्यायः(१७)**            |
-| **भेदाध्यायः ( १८ )**       |
-| **दानाध्यायः (१९)**          |
-| **दण्डाध्यायः ( २० )**       |
-| योगिनीचक्रम्                 |
-| सैन्यरचनालक्षणम्             |
-| दण्डभेदाः                   |
-| व्यवहारपदानि                 |
+| **उत्साहशक्त्यध्यायः (१०)** |
+| **सन्ध्यध्यायः (११)** |
+| ** विग्रहाध्यायः (१२)** |
+| **यात्राध्यायः (१३)** |
+| यात्राभेदाः |
+| सर्वदिगृक्षाणि |
+| वारशूलम् |
+| ऋक्षदोषवारणानि |
+| नक्षत्रदोहदम् |
+| अमङ्गलानि शकुनानि |
+| मङ्गलप्रदानि शकुनानि |
+| श्वशकुनानि |
+| शिवापल्लीकाकशकुनानि |
+| पोतकीशकुनम् |
+| पिङ्गलाशकुनम् |
+| उपश्रुतिशकुनम् |
+| **आसनाध्यायः(१४)** |
+| **आश्रयाध्यायः(१५)** |
+| **द्वैधीभावाध्यायः(१६)** |
+| **समाध्यायः(१७)** |
+| ** भेदाध्यायः ( १८ )** |
+| **दानाध्यायः (१९)** |
+| **दण्डाध्यायः ( २० )** |
+| योगिनीचक्रम् |
+| सैन्यरचनालक्षणम् |
+| दण्डभेदाः |
+| व्यवहारपदानि |
+
+
+
+
 
 <MISSING_FIG href="../books_images/1680674136.jpg"/>
 
 **श्रीसोमेश्वरभूपतिविरचितो**
+
+
 
 **मानसोल्लासः।**
 
@@ -312,7 +386,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 यया स्वतः प्रबुद्धा[^5]नां प्रकाशोऽतिप्रकाश्यते ॥ २ ॥
 
-[^5]: "B ०बुद्धी०"
+[^5]: # "B ०बुद्धी॰"
 
 वन्दे भवलताबीजं लिङ्गरूपं महेश्वरम् ।
 
@@ -336,7 +410,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तं विश्वरक्षण[^6]पटुं परमेकमाद्य-
 
-[^6]: "A ०कृतक्षणमे ०"
+[^6]: # "A ०कृतक्षणमे ०"
 
 मादित्यमद्भुतविलासविधिं नमामि ॥ ७ ॥
 
@@ -350,7 +424,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शिक्षकः सर्ववस्तूनां[^7] जगदाचार्यपुस्तकः ।
 
-[^7]: " B वस्तूनि ।"
+[^7]: # " B वस्तूनि ।"
 
 अभ्यस्योऽयं प्रयत्नेन सोमभूपेन निर्मितः ॥ १० ॥
 
@@ -364,7 +438,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सुखोपपादिका क्रीडाविंशतिः परिकीर्त्यते ।
 
-अनुक्रमणिकां तत्र वच्मि संक्षेपतः पुरः ॥ १३ ॥
+अनुक्रमणिकां तत्र वच्मि सङ्क्षेपतः पुरः ॥ १३ ॥
 
 असत्यवर्जनं कार्यं परद्रोहस्य वर्जनम् ।
 
@@ -396,7 +470,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 राज्याङ्गानि प्रकृतयः पौराणां श्रेणयोऽपि च ।
 
-सन्धिश्चविग्रहो यानमासनं द्वैधमाश्रयः ॥ २१ ॥
+सन्धिश्च विग्रहो यानमासनं द्वैधमाश्रयः ॥ २१ ॥
 
 षड् गुणाः शक्तयस्तिस्रः प्रभावोत्साहमन्त्रजाः ।
 
@@ -408,13 +482,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 भूषणासनयोर्भोगश्चामर-स्थानयोरपि ।
 
-पुत्राणामुपभोगाश्चभोजनस्य जलस्य च ॥ २४ ॥
+पुत्राणामुपभोगाश्च भोजनस्य जलस्य च ॥ २४ ॥
 
 पादाभ्यङ्गस्य या[^8]नानां छत्रा[^9]णां शयनस्य च ।
 
-[^8]: "B पानानां ।"
+[^8]: # "B पानानाम् ।"
 
-[^9]: "A भूषणं ।"
+[^9]: # "A भूषणम् ।"
 
 धूपस्य योषितां चेति भोगानां विंशतिः पृथक् ॥ २५ ॥
 
@@ -430,7 +504,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 श्येन-मीन-मृगाणां च विनोदो गीत वाद्ययोः ॥ २८ ॥
 
-नृत्तस्य च कथायाश्च विनोदश्चचमत्कृतेः ।
+नृत्तस्य च कथायाश्च विनोदश्च चमत्कृतेः ।
 
 प्रमोदाय विनोदानामिति विंशतिरीरिता ॥ २९ ॥
 
@@ -446,29 +520,29 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पञ्चिकायां च तिमिरे क्रीडा धीर[^10]नरोचिता ॥ ३२ ॥
 
-[^10]: "B वीर० । "
+[^10]: # "B वीर॰ । "
 
 प्रेमक्रीडा रतौ क्रीडा क्रीडानां विंशतिः पृथक् ।
 
 अध्यायशतकं त्वेवं पञ्च प्रकरणानि च ॥ ३३ ॥
 
-इति संक्षेपतः प्रोक्तं मानसोल्लासबीजकम् ।
+इति सङ्क्षेपतः प्रोक्तं मानसोल्लासबीजकम् ।
 
 विस्तृतं शतशाखाभिर्वक्ष्ये कल्पद्रुमोपमम् ॥ ३४ ॥
 
-कामल्लोभाद्भयात् क्रोधात् साक्षिवादात् तथैव च ।
+कामल्लोभाद् भयात् क्रोधात् साक्षिवादात् तथैव च ।
 
 मिथ्या वदति यत् पापं तदसत्यं प्रकीर्तितम् ॥ ३५ ॥
 
 देवतासन्निधौ वाक्यं ब्रूते शपथपूर्वकम् ।
 
-तदन्योलङ्घयते मोहात् तच्चासत्यं प्रकीर्त्तितम् ॥ ३६ ॥
+तदन्यो लङ्घयते मोहात् तच्चासत्यं प्रकीर्त्तितम् ॥ ३६ ॥
 
 अस्वर्ग्यमयशस्यं च लोकद्विष्टं जुगुप्सितम् ।
 
 अनृतं नितरां पापं तस्मात् तत् परिवर्जयेत् ॥ ३७ ॥
 
-इत्यसत्यवर्जनाध्यायः ॥ १ ॥
+**इत्यसत्यवर्जनाध्यायः ॥ १ ॥**
 
 ताडनं छेदनं क्लेशकरणं वित्तबन्धनम् ।
 
@@ -482,13 +556,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 हरते[^11] यत्तु मूढात्मा परद्रोहः स उच्यते ॥ ४० ॥
 
-[^11]: "A दहते ।"
+[^11]: # "A दहते ।"
 
 तस्मात् परकृतो द्रोहो यश्चातीव सुदुःसहः ।
 
-तस्मान्नारस्कदंघोरं परद्रोहं विवर्जयेत् ॥ ४१॥
+तस्मान्नारस्कदं घोरं परद्रोहं विवर्जयेत् ॥ ४१ ॥
 
-इति परद्रोहवर्जनाध्यायः॥ २ ॥
+**इति परद्रोहवर्जनाध्यायः॥ २ ॥**
 
 पुष्पिता पतिता कन्या लिङ्गिता श्रेष्ठजातिजा ।
 
@@ -500,13 +574,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अनायुष्यकरं नृृणामगम्यागमनं स्मृतम् ।
 
-परलोके च भयदं तस्मात् तत्परिवर्जयेत् ॥ ४४ ॥
+परलोके च भयदं तस्मात् तत् परिवर्जयेत् ॥ ४४ ॥
 
-इत्यगम्यावर्जनाध्यायः ॥३॥
+**इत्यगम्यावर्जनाध्यायः ॥३॥**
 
 लशुनं गृञ्जनं चैव पालाण्डुर्ग्रामकुक्कुटः ।
 
-विड्वराहश्चछत्राकमभक्ष्यं परिकीर्त्तितम् ॥ ४५ ॥
+विड्वराहश्च छत्राकमभक्ष्यं परिकीर्त्तितम् ॥ ४५ ॥
 
 व्याघ्र-जम्बूक-मार्जार-वृक-वायस-वानराः ।
 
@@ -514,19 +588,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पारावत- शुक- श्येन -हंसोलूक-बकास्तथा ।
 
-कोकिलः सारिका-गृध्र-सारमेयाश्चनिन्दिताः ॥ ४७ ॥
+कोकिलः सारिका-गृध्र-सारमेयाश्च निन्दिताः ॥ ४७ ॥
 
 ग्रामजाः पशवः सर्वे वर्जयित्वा त्वजाविकम् ।
 
-कृमि-कीट- पतङ्गाश्चन भक्ष्याः परिकीर्तिताः ॥ ४८ ॥
+कृमि-कीट- पतङ्गाश्च न भक्ष्याः परिकीर्तिताः ॥ ४८ ॥
 
-शरटो दर्दुरः सर्पोनकुलो गृहगोधिका ।
+शरटो दर्दुरः सर्पो नकुलो गृहगोधिका ।
 
-मकरः शिशुमारश्च नैवभक्ष्याः प्रकीर्तिताः ॥ ४९ ॥
+मकरः शिशुमारश्च नैव भक्ष्याः प्रकीर्तिताः ॥ ४९ ॥
 
-गौडी पैष्टीच माध्वीच न पेया त्रिविधा सुरा ।
+गौडी पैष्टी च माध्वी च न पेया त्रिविधा सुरा ।
 
-मदनीयं च यत् सर्वंतत्सर्वंच विवर्जयेत् ॥ ५० ॥
+मदनीयं च यत् सर्वं तत् सर्वं च विवर्जयेत् ॥ ५० ॥
 
 अवत्सायाः पयो धेनोर्दशाहाभ्यन्तरे च यत् ।
 
@@ -552,7 +626,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 चण्डालान्त्यजजातीनां संसर्गात् पतितो भवेत् ॥ ५५ ॥
 
-तस्मात् पतितसङ्गेन नरः पतति रौरवे।
+तस्मात् पतितसङ्गेन नरः पतति रौरवे ।
 
 लोके चाशस्यतां याति तस्मात् तं परिवर्जयेत् ॥ ५६ ॥
 
@@ -582,7 +656,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 गजाश्व-महिषी-गावो बलीवर्दा धुरन्धराः ॥ ६१ ॥
 
-गृहं ग्रामस्तथा भूमिर्दासीकन्या विभूषणम् ।
+गृहं ग्रामस्तथा भूमिर्दासी कन्या विभूषणम् ।
 
 अन्न-पानं तिलौषध्यौ भीतस्याभयमुत्तमम् ॥ ६२ ॥
 
@@ -602,7 +676,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 बुधैस्तु पूज्यते भूमौ विबुधैः पूज्यते दिवि ।
 
-लोकद्वयबुधः स स्याद् यःप्रियं वक्ति सर्वदा ॥ ६६ ॥
+लोकद्वयबुधः स स्याद् यः प्रियं वक्ति सर्वदा ॥ ६६ ॥
 
 **इति प्रियवचनाध्यायः ॥ १० ॥**
 
@@ -628,7 +702,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पाल्या विधृततोयस्तु तडागः परिकीर्त्तितः ।
 
-एतेषां खननंकार्यं तारकैश्चाप्यधोमुखैः ॥ ७२ ॥
+एतेषां खननं कार्यं तारकैश्चाप्यधोमुखैः ॥ ७२ ॥
 
 पूर्वात्रयं विशाखा च कृत्तिका भरणी मघा ।
 
@@ -638,9 +712,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 द्यूतं च गणितं कार्यमधोवक्त्रे च सर्वदा ॥ ७४ ॥
 
-अग्निष्ठिकां प्रपाः सत्रमापाकंच प्रवर्तयेत् ।
+अग्निष्ठिकां प्रपाः सत्रमापाकं च प्रवर्तयेत् ।
 
-सभां सभामठंचैव जीर्णदेवकुलानि च ॥ ७५ ॥
+सभां सभामठं चैव जीर्णदेवकुलानि च ॥ ७५ ॥
 
 विश्वकर्ममतेनापि मयशास्त्रानुसारतः ।
 
@@ -656,17 +730,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सर्वावयवसम्पूर्णाः किञ्चित्पीना दृशोः प्रियाः ।
 
-यथोक्तैरायुधैर्युक्ता बाहुभिश्चयथोदितैः ॥ ७९ ॥
+यथोक्तैरायुधैर्युक्ता बाहुभिश्च यथोदितैः ॥ ७९ ॥
 
 तत्पृष्ठे स्कन्धदेशे वा कुकाट्यां मुकुटेऽथवा ।
 
 कासपुष्पनिभं दीर्घं नालकं मदनो[^12]द्भवम् ॥ ८० ॥
 
-[^12]: "B दमनो० ।"
+[^12]: # "B दमनो॰ ।"
 
-स्थापयित्वा ततश्चार्चांलिम्पेत् संस्कृतया मृदा ।
+स्थापयित्वा ततश्चार्चां लिम्पेत् संस्कृतया मृदा ।
 
-मषींतुषमयीं घृष्ट्वा कार्पासं शतशः क्षतम् ॥८१ ॥
+मषीं तुषमयीं घृष्ट्वा कार्पासं शतशः क्षतम् ॥८१ ॥
 
 लवणं चूर्णितं श्लक्ष्णं स्वल्पं संयोजयेन्मृदा ।
 
@@ -684,7 +758,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शोषयेत् तं प्रयत्नेन युक्तिभिर्बुद्धिमान् नरः ॥ ८५ ॥
 
-सिक्थकं तोलयेदादावर्चालग्नंविचक्षणः ।
+सिक्थकं तोलयेदादावर्चालग्नं विचक्षणः ।
 
 रीत्या ताम्रेण रौप्येण हेम्ना वा कारयेत् तु ताम् ॥ ८६ ॥
 
@@ -696,7 +770,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 नालिकेराकृतिं मूषां पूर्ववत् परिशोषयेत् ॥ ८८ ॥
 
-वह्नौप्रतापितमर्चासिक्थं निःसारयेत् ततः ।
+वह्नौ प्रतापितमर्चासिक्थं निःसारयेत् ततः ।
 
 मूषां प्रतापयेत् पश्चात् पावकोच्छिष्टवह्निना ॥ ८९ ॥
 
@@ -704,9 +778,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तप्ताङ्गारैर्विनिक्षिप्तै रजतं रसतां व्रजेत् ॥ ९० ॥
 
-सुवर्णंरसतां याति पञ्चकृत्वः प्रदीपितैः ।
+सुवर्णं रसतां याति पञ्चकृत्वः प्रदीपितैः ।
 
-मूषामूर्धनि निर्मायरन्ध्रंलोहशलाकया ॥ ९१ ॥
+मूषामूर्धनि निर्माय रन्ध्रं लोहशलाकया ॥ ९१ ॥
 
 सन्दंशेन दृढं धृत्वा तप्तां मूषां समुद्धरेत् ।
 
@@ -716,15 +790,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रसं तु नालकस्यास्ये क्षिपेदच्छिन्नधारया ॥ ९३ ॥
 
-नालकाननपर्यन्तं सम्पूर्यविरमेत् ततः ।
+नालकाननपर्यन्तं सम्पूर्य विरमेत् ततः ।
 
 स्फोटयेत् तत्समीपस्थं पावकं तापशान्तये ॥ ९४ ॥
 
-शीतलत्वंच यातायां प्रतिमायां स्वभावतः ।
+शीतलत्वं च यातायां प्रतिमायां स्वभावतः ।
 
 स्फोटयेन्मृत्तिकां दग्धां विदग्धो लघुहस्तकः ॥ ९५ ॥
 
-ततो द्रव्यमयी साऽर्चायथा मदननिर्मिता ।
+ततो द्रव्यमयी साऽर्चा यथा मदननिर्मिता ।
 
 जायते तादृशी साक्षादङ्गोपाङ्गोपशोभिता ॥ ९६ ॥
 
@@ -732,11 +806,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 नालकं छेदयेच्चापि पश्चादुज्ज्वलतां नयेत् ॥ ९७ ॥
 
-अनेन विधिना सम्यग् विधायार्चांशुभे तिथौ ।
+अनेन विधिना सम्यग् विधायार्चां शुभे तिथौ ।
 
 विधिवत् तां प्रतिष्ठाप्य पूजयेत् प्रत्यहं नृपः ॥ ९८ ॥
 
-विष्णुं वाऽथगणेशं वा दुर्गांवाऽपि सरस्वतीम् ।
+विष्णुं वाऽथ गणेशं वा दुर्गां वाऽपि सरस्वतीम् ।
 
 दिनेशं बिम्बरूपं वा शिवं वा लिङ्गरूपिणम्॥ ९९ ॥
 
@@ -748,9 +822,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स याति परमां सिद्धिं लोकद्वयशुभावहाम् ॥ १०१ ॥
 
-इतीष्टापूर्ताध्यायः ॥ ११ ॥
+**इतीष्टापूर्ताध्यायः ॥ ११ ॥**
 
-अर्घ्यंपाद्यं शुभैस्तोयैर्मधुपर्कंच कल्पयेत् ।
+अर्घ्यं पाद्यं शुभैस्तोयैर्मधुपर्कं च कल्पयेत् ।
 
 तथैवाचमनं स्नानं तत्तद्रव्यसमायुतम् ॥ १०२ ॥
 
@@ -782,7 +856,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 **इति गोविप्रतर्पणाध्यायः ॥ १३ ॥**
 
-तोयमिश्रैस्तिलैःकुर्यात् तन्नाम्ना पितृतर्पणम् ।
+तोयमिश्रैस्तिलैः कुर्यात् तन्नाम्ना पितृतर्पणम् ।
 
 गव्यक्षीरसमुत्पन्नैः पायसैः सितया सह ॥ १०९ ॥
 
@@ -802,11 +876,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अकामतस्तु कुर्वाणो निर्वाणं परमाप्नुयात् ॥ ११३ ॥
 
-इति पितृतर्पणाध्यायः ॥ १४ ॥
+**इति पितृतर्पणाध्यायः ॥ १४ ॥**
 
 अज्ञातकुलनामानमन्यदेशादुपागतम् ।
 
-क्षुधार्तंपांसुकीर्णाङ्घ्रिमतिथिं तं विदुर्बुधाः ॥ ११४ ॥
+क्षुधार्तं पांसुकीर्णाङ्घ्रिमतिथिं तं विदुर्बुधाः ॥ ११४ ॥
 
 ईदृग्विधं समायातमतिथिं यो न पूजयेत् ।
 
@@ -816,7 +890,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अतिथौ पूजिते विष्णुः पूजितः स्यान्न संशयः ॥ ११६ ॥
 
-इत्यतिथिपूजनाध्यायः ॥ १५ ॥
+**इत्यतिथिपूजनाध्यायः ॥ १५ ॥**
 
 जनकश्चोपनेता च विद्यां यश्च प्रयच्छति ।
 
@@ -834,7 +908,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कृतज्ञो दृढसङ्कल्पस्तस्य पुण्यफलं महत् ॥ १२० ॥
 
-इति गुरुशुश्रूषणाध्यायः ॥ १६ ॥
+**इति गुरुशुश्रूषणाध्यायः ॥ १६ ॥**
 
 कृच्छ्रैश्चान्द्रायणैः पुण्यैर्व्रतैश्च विविधैरपि ।
 
@@ -852,11 +926,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स सर्वं लभते कामं दुष्प्रापं नात्र संशयः ॥ १२४ ॥
 
-यद् दूरं यद् दुराराध्यं यच्चदुर्धरतां स्थितम् ।
+यद् दूरं यद् दुराराध्यं यच्च दुर्धरतां स्थितम् ।
 
 तत् सर्वं तपसा साध्यं तपो हि दुरतिक्रमम् ॥ १२५ ॥
 
-इति तपोऽध्यायः ॥ १७ ॥
+**इति तपोऽध्यायः ॥ १७ ॥**
 
 जाह्नवी सरितां श्रेष्ठा यमुना नर्मदा शुभा ।
 
@@ -866,21 +940,21 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तुङ्गभद्रा सदा भद्रा दर्शनात् पापनाशिनी ॥ १२७ ॥
 
-वञ्जराभीमरथ्या च कृष्णा वेण्या बृहन्नदी ।
+वञ्जरा भीमरथ्या च कृष्णा वेण्या बृहन्नदी ।
 
 मलापहारिणी यत्र सङ्गता लोकविश्रुता ॥ १२८ ॥
 
-एताश्चान्याश्चसरितः सागराश्च सरांसि च ।
+एताश्चान्याश्च सरितः सागराश्च सरांसि च ।
 
-ह्रदाश्चदेवखाताद्याः कुण्ड-कूप-स्रवा गिरेः ॥ १२९ ॥
+ह्रदाश्च देवखाताद्याः कुण्ड-कूप-स्रवा गिरेः ॥ १२९ ॥
 
 पुष्कराणि च पुण्यानि शुक्लतीर्थं सुखप्रदम् ।
 
 प्रभासप्रथितं तीर्थं केदारं क्लेशनाशनम् ॥ १३० ॥
 
-प्रयागस्तीर्थराजश्चचिन्तितार्थप्रदायकः ।
+प्रयागस्तीर्थराजश्च चिन्तितार्थप्रदायकः ।
 
-अर्घ्यं तीर्थमनर्घ्यंच सुरसार्थनिषेवितम् ॥ १३१ ॥
+अर्घ्यं तीर्थमनर्घ्यं च सुरसार्थनिषेवितम् ॥ १३१ ॥
 
 वाराणसी महापुण्या महादेवनिषेविता ।
 
@@ -896,9 +970,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 **इति तीर्थस्नानाध्यायः ॥ १८ ॥**
 
-देहीति भाषते यत् तुकाङ्क्षया कृपणं वचः ।
+देहीति भाषते यत् तु काङ्क्षया कृपणं वचः ।
 
-दारिद्र्याद्दैन्यमापन्नःस दीनः परिकीर्तितः ॥ १३५ ॥
+दारिद्र्याद् दैन्यमापन्नः स दीनः परिकीर्तितः ॥ १३५ ॥
 
 तस्मै ददीत दीनाय वाञ्छितं द्रविणादिकम् ।
 
@@ -914,39 +988,39 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शस्त्र-शास्त्रविदो वैद्यानभ्यासनिपुणानपि ।
 
-ऊहापोहविवेकज्ञान्सुधाहस्तान् प्रियंवदान् ॥ १३९ ॥
+ऊहापोहविवेकज्ञान् सुधाहस्तान् प्रियंवदान् ॥ १३९ ॥
 
-अर्पयित्वाविचित्राणि भेषजानि पृथक् पृथक् ।
+अर्पयित्वा विचित्राणि भेषजानि पृथक् पृथक् ।
 
 निरालस्यांश्च धर्मज्ञान् प्रकल्प्य परिचारकान् ॥ १४० ॥
 
 ज्वरे च रक्तपित्ते च कासे श्वासे च यक्ष्मणि ।
 
-छर्दौमदात्ययेऽर्शःसुसारण- ग्रहणीषु च ॥ १४१ ॥
+छर्दौ मदात्ययेऽर्शःसु सारण- ग्रहणीषु च ॥ १४१ ॥
 
-मूत्रकृच्छ्रे प्रमेहे चविद्रधौ गुल्म कोष्ठयोः।
+मूत्रकृच्छ्रे प्रमेहे च विद्रधौ गुल्म कोष्ठयोः।
 
-पाण्डौ शोफे विसर्पेच कृष्णे श्वित्रेवलामये॥ १४२ ॥
+पाण्डौ शोफे विसर्पे च कृष्णे श्वित्रे वलामये ॥ १४२ ॥
 
-वातशोणितरोगे चतथा रोगान्तरेष्वपि।
+वातशोणितरोगे च तथा रोगान्तरेष्वपि ।
 
 वैद्यशास्त्रानुसारेण कारयेत् तत्प्रतिक्रियाम् ॥ १४३ ॥
 
-ज्ञात्वा निदानं व्याधीनां स्वरूपं लक्षणैःस्फुटम् ।
+ज्ञात्वा निदानं व्याधीनां स्वरूपं लक्षणैः स्फुटम् ।
 
 देशकालानुसारेण सात्म्यप्रकृतितत्त्वतः ॥ १४४ ॥
 
-सामो दोषश्चिराद् हत्वापावकं जठरस्थितम् ।
+सामो दोषश्चिराद् हत्वा पावकं जठरस्थितम् ।
 
-निरुध्य च ससञ्चारमुदराग्निं बहिःक्षिपेत् ॥ १४५ ॥
+निरुध्य च ससञ्चारमुदराग्निं बहिः क्षिपेत् ॥ १४५ ॥
 
 एवं विनिर्गतो वह्निः कायमाश्रित्य तापयन् ।
 
-ज्वर इत्युच्यते तज्ज्ञैः सर्वव्याधिपतिश्चसः ॥ १४६ ॥
+ज्वर इत्युच्यते तज्ज्ञैः सर्वव्याधिपतिश्च सः ॥ १४६ ॥
 
 पक्वमेवौषधं हन्ति दोषं कोष्ठसमाश्रितम् ।
 
-अपक्वंन गुणं किञ्चित् कुरुते तत् सुधासमम् ॥ १४७ ॥
+अपक्वं न गुणं किञ्चित् कुरुते तत् सुधासमम् ॥ १४७ ॥
 
 अजीर्यत्यौषधं यस्माज्ज्वरार्तस्य विनाऽग्निना ।
 
@@ -958,15 +1032,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वयोदोषं बलं कालं प्रकृतिं कारणं तथा ।
 
-विचार्य लङ्घनं कार्यंयावच्छुद्धं[^13] भवेद् वपुः ॥ १५० ॥
+विचार्य लङ्घनं कार्यं यावच्छुद्धं[^13] भवेद् वपुः ॥ १५० ॥
 
-[^13]: "A भैषज्यं योजयेत्ततः ।"
+[^13]: # "A भैषज्यं योजयेत्ततः ।"
 
 एकरात्रं त्रिरात्रं च पञ्चरात्रमथापि वा ।
 
 सप्तरात्रं नव निशा निशाश्चैकाधिका दश ॥ १५१ ॥
 
-लङ्घनस्य कृतः कालोदोषरूपानुसारतः ।
+लङ्घनस्य कृतः कालो दोषरूपानुसारतः ।
 
 दातव्यमौषधं पश्चात् ज्वरामयविनाशनम् ॥ १५२ ॥
 
@@ -980,9 +1054,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 लङ्घनैर्विज्वरं जातं लघुपथ्यैर्मिताशनैः ।
 
-उपाचरेद् भिषक् सम्यग् यावत् स्याद् दिनसप्तकम् ॥ १५५॥
+उपाचरेद् भिषक् सम्यग् यावत् स्याद् दिनसप्तकम् ॥ १५५ ॥
 
-लङ्घनेऽपिकृते सम्यग् दृष्टे लङ्घितलक्षणे ।
+लङ्घनेऽपि कृते सम्यग् दृष्टे लङ्घितलक्षणे ।
 
 ज्वरो यदि न मुच्येत तं पेयाभिरुपाचरेत् ॥ १५६ ॥
 
@@ -990,15 +1064,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तस्योपशमनैर्द्रव्यैः कृत्वा पेयां प्रदापयेत् ॥ १५७ ॥
 
-वातःशूलेऽधिके ज्ञेयस्तापे पित्तं च लक्षयेत् ।
+वातः शूलेऽधिके ज्ञेयस्तापे पित्तं च लक्षयेत् ।
 
-जाड्येकफं विजानीयान्मिश्रे मिश्रं तु लक्षयेत् ॥ ११८ ॥
+जाड्ये कफं विजानीयान्मिश्रे मिश्रं तु लक्षयेत् ॥ ११८ ॥
 
 दोषत्रये प्रकुपिते सन्निपातो भवेत् समे ।
 
 दुश्चिकित्सो भवेद् रोगी यत्नादेनमुपाचरेत् ॥ १५९ ॥
 
-बिल्वं बला पृथक्पर्णीनागरं धान्यकोत्पलम् ।
+बिल्वं बला पृथक्पर्णी नागरं धान्यकोत्पलम् ।
 
 एतैः पेया कृता देया वातपित्तज्वरापहा ॥ १६० ॥
 
@@ -1012,7 +1086,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 श्रीपर्णी बिल्व - टेटूकं तर्कारी पाटला तथा ।
 
-तेषां मूलैर्यवैःसिद्धा पेया कफरुजातिहृत् ॥ १६३ ॥
+तेषां मूलैर्यवैः सिद्धा पेया कफरुजातिहृत् ॥ १६३ ॥
 
 भृष्टतण्डुलसिद्धाऽपि पिप्पल्यामलकैर्युता।
 
@@ -1024,19 +1098,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 व्याघ्री - बदर - वृक्षाम्ल - पाटला-बिल्व-गोक्षुरैः ।
 
-तृष्णाघ्नीस[^14]सिता पेया स्वेदनिद्रासुखप्रदा ॥ १६६ ॥
+तृष्णाघ्नी स[^14]सिता पेया स्वेदनिद्रासुखप्रदा ॥ १६६ ॥
 
-[^14]: "Aच"
+[^14]: # "Aच"
 
 कफपित्ताधिके ग्रीष्मे नाभिस्थानस्थिते कफे ।
 
-तृषि च्छर्दौविदाहे च मदोत्थे च सदासवे[^15] ॥ १६७ ॥
+तृषि च्छर्दौ विदाहे च मदोत्थे च सदासवे[^15] ॥ १६७ ॥
 
-[^15]: "A भवेत् ।"
+[^15]: # "A भवेत् ।"
 
-ऊर्ध्वं प्रवृत्तेरुधिरे पेया नैव प्रशस्यते ।
+ऊर्ध्वं प्रवृत्ते रुधिरे पेया नैव प्रशस्यते ।
 
-ज्वरस्तै (घ्नैः?) र्वाफलरसैः कृमिनाशं च वारुणम् ॥ १६८ ॥
+ज्वरस्तै (घ्नैः?) र्वा फलरसैः कृमिनाशं च वारुणम् ॥ १६८ ॥
 
 शर्करा - मधुसंयुक्तं पिबेज्जीर्णे तु तर्पयेत् ।
 
@@ -1060,19 +1134,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तिक्तः पित्तहरो देयः कटुकः कफनाशनः ।
 
-पित्त-श्लेष्महरोऽप्येष कषायो न[^16]वरो रसः ॥ १७४ ॥
+पित्त-श्लेष्महरोऽप्येष कषायो न[^16] वरो रसः ॥ १७४ ॥
 
-[^16]: "१ A नवधा ।"
+[^16]: # "१ A नवधा ।"
 
-नवज्वरे मलं रुध्द्वाज्वरं विषमतां नयेत् ।
+नवज्वरे मलं रुध्द्वा ज्वरं विषमतां नयेत् ।
 
-हृल्लासमरुचिं हिक्कां कषायो जनयेदसौ। १७५ ॥
+हृल्लासमरुचिं हिक्कां कषायो जनयेदसौ । १७५ ॥
 
 ज्वरस्य मार्दवे जाते कायस्यापि च लाघवे ।
 
 चलिते च मले तज्ज्ञैस्त्रिरात्राद् देयमौषधम् ॥ १७६ ॥
 
-मुस्तापर्पटकक्वाथःशुण्ठीपर्पटकोऽपि वा ।
+मुस्तापर्पटकक्वाथः शुण्ठीपर्पटकोऽपि वा ।
 
 यवापर्पटको वाऽपि देयो ज्वरविनाशनः ॥ १७७ ॥
 
@@ -1090,7 +1164,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पाठा-पटोल कटुका-सारिवा मुस्तयाऽन्विताः ।
 
-एतैः सिद्धः कषायस्तु सन्ततज्वरघातकः॥ १८१ ॥
+एतैः सिद्धः कषायस्तु सन्ततज्वरघातकः ॥ १८१ ॥
 
 मृद्वीका-त्रिफला-निम्ब-पटोली-मुस्त-वत्सकैः ।
 
@@ -1106,27 +1180,27 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मूर्वा-निम्ब-पटोलातिविष-धन्वयवासकैः ।
 
-शुण्ठी-मुस्तामृतायासैःक्वाथो वातज्वरापहः ॥ १८५ ॥
+शुण्ठी-मुस्तामृतायासैः क्वाथो वातज्वरापहः ॥ १८५ ॥
 
 अमृता पिप्पलीमूलं नागरेन्द्रयवाम्बुदैः ।
 
 लघुना पश्चमूलेन क्वाथः स्यात् पित्तजे ज्वरे ॥ १८६ ॥
 
-कटुका पर्पटं मुस्ता भूनिम्बश्चदुरालभा ।
+कटुका पर्पटं मुस्ता भूनिम्बश्च दुरालभा ।
 
-एतैः सवत्सकैःक्वाथोज्वरं हन्यात् कफोद्भवम् ॥ १८७ ॥
+एतैः सवत्सकैः क्वाथो ज्वरं हन्यात् कफोद्भवम् ॥ १८७ ॥
 
 ज्वरोऽन्यः सन्निपातोत्थः पित्तं यत्र पृथग मतम् ।
 
 त्वचि कोष्ठेऽथवा दोषं(दाहं) विदधातु (ति) पुरो न (ऽनु) वा ॥ १८८॥
 
-शीतं वात-कफौ तद्वद् दुस्तरोदाहपूर्वकः ।
+शीतं वात-कफौ तद्वद् दुस्तरो दाहपूर्वकः ।
 
 शीतादौ तत्र पित्तेन कफे स्यन्दित-शोषिते ॥ १८९ ॥
 
-शान्ते शीतेऽम्लकोद्गारो मदन्दुष्णाभवेदतः।
+शान्ते शीतेऽम्लकोद्गारो मदन्दुष्णा भवेदतः ।
 
-दाहादौपुनरेतेस्युस्तन्द्रा स्वेद-वमि-क्लमाः ॥ १९० ॥
+दाहादौ पुनरेते स्युस्तन्द्रा स्वेद-वमि-क्लमाः ॥ १९० ॥
 
 पटोल-कटुका-मुस्ता-प्राणदा-मधुकैः कृतः ।
 
@@ -1134,7 +1208,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कायस्था-नाकुली-तिक्ता-वयस्थागरु-चौरकैः ।
 
-सहदेवी वचायुक्तैःशीतघ्रे धूप-लेपने ॥ १९२ ॥
+सहदेवी वचायुक्तैः शीतघ्रे धूप-लेपने ॥ १९२ ॥
 
 एतैरेवौषधैः पिष्ठैर्लावणक्षारसंयुतैः ।
 
@@ -1166,19 +1240,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 क्षाराम्ललवणैर्द्रव्यैरवियुक्तैः श्रमादपि ।
 
-आतपाच्च भृशं पित्तं कुपितं दूषयेदसृक्\। २०० ॥
+आतपाच्च भृशं पित्तं कुपितं दूषयेदसृक् \। २०० ॥
 
 ततो घ्राणास्य-कर्णेभ्यः पायु-मेहनमार्गतः ।
 
-प्रवर्ततेततः ख्यातं[^17] रक्तपित्तं भिषग्वरैः ॥ २०९ ॥
+प्रवर्तते ततः ख्यातं[^17] रक्तपित्तं भिषग्वरैः ॥ २०९ ॥
 
-[^17]: "A तदाख्यातं"
+[^17]: # "A तदाख्यातं"
 
-एकदोषं नवं चोर्ध्वंबलिनश्चानुपद्रवम् ।
+एकदोषं नवं चोर्ध्वं बलिनश्चानुपद्रवम् ।
 
 रक्तपित्तं सुखात् साध्यमधश्चेद् याप्यमुच्यते ॥ २०२ ॥
 
-अधश्चोर्ध्वंच चलितं त्रिदोषं भूर्युपद्रवम् ।
+अधश्चोर्ध्वं च चलितं त्रिदोषं भूर्युपद्रवम् ।
 
 असाध्यं रक्तपित्तं तत् त्यजनीयं भिषग्वरैः ॥ २०३ ॥
 
@@ -1194,7 +1268,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उरस्यावहते कासं हृत्पार्श्वगदपीडितम् ॥ २०६ ॥
 
-अमृता-कण्टकारिभ्यां द्वाभ्यां षष्टिपलाद्रसैः ।
+अमृता-कण्टकारिभ्यां द्वाभ्यां षष्टिपलाद् रसैः ।
 
 चतुर्भागं पचेत् सर्पिर्घृतशेषं तु कासजित् ॥ २०७ ॥
 
@@ -1202,35 +1276,35 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 क्षारो भार्ङ्गी च तच्चूर्णं पिबेदाज्यस्य मात्रया ॥ २०८ ॥
 
-कासेबालससंयुक्तमारुतेन विनिर्मिते ।
+कासे बालससंयुक्तमारुतेन विनिर्मिते ।
 
-हिक्कायामग्निमान्द्येच श्वासे चैतत् प्रशस्यते ॥ २०९ ॥
+हिक्कायामग्निमान्द्ये च श्वासे चैतत् प्रशस्यते ॥ २०९ ॥
 
 वृद्धात् कासाद् भवेच्छ्रासः श्वासात् तु कुपितो मरुत् ।
 
 कुपितात् पवनाभ्यासात् पाण्डुरोगात् (गो) ज्वराद् गदात् ॥ २१० ॥
 
-कर्चूरं पौष्करंमूलं तथैवामलकौफलम् ।
+कर्चूरं पौष्करं मूलं तथैवामलकौफलम् ।
 
 पिबेदाज्येन तच्चूर्णं श्वासे मांसरसेन वा ॥ २११ ॥
 
 वेगानां धारणादोजः-स्नेह-शुक्रक्षयादपि ।
 
-अपि व्यायामतोहीनः श्वास-कास-ज्वरामयः ॥ २१२ ॥
+अपि व्यायामतो हीनः श्वास-कास-ज्वरामयः ॥ २१२ ॥
 
 भृशं प्रकुपितो वातः कफपित्तमुदीरयेत् ।
 
-देहसन्धान् समाविश्यक्षयरोगं समावहेत् ॥ २१३ ॥
+देहसन्धान् समाविश्य क्षयरोगं समावहेत् ॥ २१३ ॥
 
 रास्ना - तिल-बलाचूर्णं ससर्पिर्यष्टिकोत्पलम् ।
 
-अवलीढं हरेच्छोषमग्नि[^18]मान्द्यंच नाशयेत् ॥ २१४ ॥
+अवलीढं हरेच्छोषमग्नि[^18]मान्द्यं च नाशयेत् ॥ २१४ ॥
 
-[^18]: "१ B • सादं"
+[^18]: # "१ B • सादं"
 
 अनिष्टानोपयोगेन मारुतः कुपितो भृशम् ।
 
-उदानः कुरुते छर्दिंनाभिपृष्ठरुजान्विताम् ॥ २१५ ॥
+उदानः कुरुते छर्दिं नाभिपृष्ठरुजान्विताम् ॥ २१५ ॥
 
 जम्बू-चूत-बलोशीर-वटशुङ्गावरोहजः ।
 
@@ -1242,9 +1316,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 हीनमिथ्यातिपानेन भवत्याशु मदात्ययः ।
 
-छर्दिर्मोहोभ्रमस्तन्द्रा प्रलापो जायते ततः ॥ २१८ ॥
+छर्दिर्मोहो भ्रमस्तन्द्रा प्रलापो जायते ततः ॥ २१८ ॥
 
-पञ्चाहं सप्तरात्रंवा जायतेऽसौ मदात्ययः ।
+पञ्चाहं सप्तरात्रं वा जायतेऽसौ मदात्ययः ।
 
 अत ऊर्ध्वं प्रसक्तश्चेद् रोगोऽन्यः परिकीर्त्यते ॥ २१९ ॥
 
@@ -1290,11 +1364,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अत्यम्बुपानाज्जायेत सुतरामतिसाररुक् ।
 
-आमःपक्वःसरक्तश्च त्रिधाऽसौ व्याधिरीरितः ॥ २३० ॥
+आमः पक्वः सरक्तश्च त्रिधाऽसौ व्याधिरीरितः ॥ २३० ॥
 
 तत्रामे नागरं मुस्ता तथा च यु(घु) णवल्लभा ।
 
-तच्चूर्णं वटकः क्वाथःपाचनाय प्रयुज्यते । २३१ ॥
+तच्चूर्णं वटकः क्वाथः पाचनाय प्रयुज्यते । २३१ ॥
 
 पक्वातिसारे दातव्यं जम्बूपल्लव-धातकी ।
 
@@ -1306,7 +1380,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 विषा कुटजबीजं च मुस्ता बालक- बिल्वकम् ।
 
-तत्क्वाथोविनिहन्त्याशु रक्तातीसारमुल्बणम् ॥ २३४ ॥
+तत्क्वाथो विनिहन्त्याशु रक्तातीसारमुल्बणम् ॥ २३४ ॥
 
 अतिसारेषु जातेषु पथ्यं नाश्नाति यः पुमान् ।
 
@@ -1328,7 +1402,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रस्रावमीरयेत् कृच्छ्रं कफजं गौरवान्वितम् ॥ २३९ ॥
 
-उरूबूको बला बिल्वंपञ्चमूलद्वयं यवा।
+उरूबूको बला बिल्वं पञ्चमूलद्वयं यवा ।
 
 पुनर्नवा भीरुमूलं कुलत्थं बदरं तथा ॥ २४० ॥
 
@@ -1344,7 +1418,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कुश-काश कुशालीनां शराणां मूलपञ्चकम् ॥ २४३ ॥
 
-तत्क्वाथः शर्करायुक्तः शीतो मधुसमन्वितः।
+तत्क्वाथः शर्करायुक्तः शीतो मधुसमन्वितः ।
 
 पित्तजं नाशयेत् कृच्छ्रं सर्वा च शिशिरक्रिया ॥ २४४ ॥
 
@@ -1370,11 +1444,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रूक्ष पर्युषितानुष्णशुष्कैर्भुक्तैर्विदाहिभिः ।
 
-रक्तं प्रकुपितं शोफंकुरुते स तु विद्रधिम् ॥ २५० ॥
+रक्तं प्रकुपितं शोफं कुरुते स तु विद्रधिम् ॥ २५० ॥
 
 एरण्डश्च विदारी च वृश्चिकश्च पुनर्नवा ।
 
-स्नेहत्रयं पचेदेतैस्तल्लेपाद् विद्रधिं जयेत् ॥ २५१॥
+स्नेहत्रयं पचेदेतैस्तल्लेपाद् विद्रधिं जयेत् ॥ २५१ ॥
 
 निशा दार्वी पयस्याभिर्यष्ट्या दुग्धेन रोपयेत् ।
 
@@ -1386,15 +1460,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उपयुङ्क्तेऽन्न-पानाय शीतं चाम्बु बुभुक्षितः ।
 
-भुक्त्वा यो देहसंक्षोभि कुरुते कर्म सत्वरम् ॥ २५४ ॥
+भुक्त्वा यो देहसङ्क्षोभि कुरुते कर्म सत्वरम् ॥ २५४ ॥
 
-तस्य सञ्जायते गुल्मो वातसंक्षोभहेतुकः ।
+तस्य सञ्जायते गुल्मो वातसङ्क्षोभहेतुकः ।
 
 उग्रगन्धा बिडं शुण्ठी पुष्करं लवणत्रयम् ॥ २५५ ॥
 
 रामठं चित्रकं तेषां चूर्णं गुल्मनिबर्हणम् ।
 
-मरीचाजाजि-हपुषा - पृथ्वीका पञ्चकोलकैः॥ २५६ ॥
+मरीचाजाजि-हपुषा - पृथ्वीका पञ्चकोलकैः ॥ २५६ ॥
 
 दध्ना दुग्धेन सम्मिश्रैस्तथा मांसरसेन च ॥।
 
@@ -1430,7 +1504,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पलानि विंशतिः सर्पिः सलिलस्याढके पचेत् ।
 
-पाण्डुरोगे च हृद्रोगे गुल्मेष्वर्शस्सुमारुते ॥ २६५ ॥
+पाण्डुरोगे च हृद्रोगे गुल्मेष्वर्शस्सु मारुते ॥ २६५ ॥
 
 बलास-प्लीहरोगे च प्रयोगोऽयमुदाहृतः ।
 
@@ -1444,7 +1518,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एरण्डातिविषा-रास्ना - देवदारुमहौषधैः ॥ २६८ ॥
 
-सहितो गुग्गुलुर्देयःसर्वाङ्गे च यथा नृणाम् ।
+सहितो गुग्गुलुर्देयः सर्वाङ्गे च यथा नृणाम् ।
 
 अतिप्रकुपितं रक्तं तीक्ष्णैरन्नैर्विदाहिभिः ॥ २६९ ॥
 
@@ -1456,7 +1530,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वटप्ररोहास्तरुणाः कदलीमध्यमिश्रिताः ॥ २७१ ॥
 
-मृणालग्रन्थिसम्मिश्रा विसर्पंघ्नन्तिलेपनात् ।
+मृणालग्रन्थिसम्मिश्रा विसर्पं घ्नन्ति लेपनात् ।
 
 विरुद्धेनान्नपानेन साधूनां निन्दया वधात् ॥ २७२ ॥
 
@@ -1466,9 +1540,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कासमर्दशिफाकुष्टं लिम्पेद् दन्तशठाम्बुना ।
 
-गुडूची निम्बपत्राणि पटोलंकण्टकारिका ॥ २७४ ॥
+गुडूची निम्बपत्राणि पटोलं कण्टकारिका ॥ २७४ ॥
 
-त्रिफला च करञ्जश्चवासा रास्ना समांशकाः ।
+त्रिफला च करञ्जश्च वासा रास्ना समांशकाः ।
 
 तेषां क्वाथेन कल्केन घृतं सम्यग् विपाचितम् ॥ २७५ ॥
 
@@ -1476,7 +1550,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 क्षारेण राजवृक्षस्य पूतिकीटः समन्वितः ॥ २७६ ॥
 
-लेपाच्छ्वित्रंनिहन्त्याशु कुर्याच्च समवर्णताम् ।
+लेपाच्छ्वित्रं निहन्त्याशु कुर्याच्च समवर्णताम् ।
 
 अत्यर्थं सेवितैर्वायुर्धातूनां क्षयकारकैः ॥ २७७ ॥
 
@@ -1488,7 +1562,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शुण्ठी रास्ना चित्रकं च देवदारु सहाचरम् ॥ २७९ ॥
 
-एषां क्वाथंतैलमिश्रं पिबेद् वातरुजापहम् ।
+एषां क्वाथं तैलमिश्रं पिबेद् वातरुजापहम् ।
 
 रक्तं प्रकुप्यत्यन्नेन पटुनाऽतिविदाहिना ॥ २८० ॥
 
@@ -1516,13 +1590,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ललाटे लोचनोपान्ते नासायां रसनातले ॥ २८६ ॥
 
-मणिबन्धे बाहुसन्धौ द्वयङ्गुलेगुल्फमूर्धनि ।
+मणिबन्धे बाहुसन्धौ द्वयङ्गुले गुल्फमूर्धनि ।
 
 हरेत् प्रादेशिकं शृङ्गैर्ग्रथितं वारिजन्मभिः ॥ २८७ ॥
 
 मेदोग्रन्थीन् शितैः शस्त्रैः पाटयित्वा समुद्धरेत् ।
 
-प्रवृद्धामश्मरींशस्त्रैः पाटयित्वा बहिः क्षिपेत् ॥ २८८ ॥
+प्रवृद्धामश्मरीं शस्त्रैः पाटयित्वा बहिः क्षिपेत् ॥ २८८ ॥
 
 गुदमध्येऽङ्गुलीं क्षिप्त्वा मध्यमां परिवर्तयेत् ।
 
@@ -1532,19 +1606,20 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कुलत्थमश्मभेदं च गोक्षुरं क्वाथयेज्जले ॥ २९० ॥
 
-तद्यूषंपाययेत् प्राज्ञो हरेत् तेनापि चाश्मरीम् ।
+तद्यूषं पाययेत् प्राज्ञो हरेत् तेनापि चाश्मरीम् ।
 
 एवमन्येषु रोगेषु[^19] दोषो यत्राधिको भवेत् ॥ २९१ ॥
 
-[^19]: "१ B दोषेषु ।"
+[^19]: # "१ B दोषेषु ।"
 
 तस्य दोषस्य कुर्वीत चिकित्सां मतिमान् भिषक् । ॥
 
 **॥ इति वैद्यकम् ॥**
 
-**  औषधपर्यायानाह**—यवासो दुरालभा । कटुका तिक्ता । सारिवा सुगन्धिः । धन्वयवासो यशस्वी दुरालभा । लघुपञ्चमूली बृहतीद्वयं शालिपर्णीपृष्ठिपर्णी गोक्षुरम् । कायस्था काकमाची । नाकुली लाङ्गुलिका । वयस्था धात्री। चोरकः ग्रन्थिपर्णी । शिला मनःशिला । कालयादार्वी। अनन्ता दुरालभा । श्यामा कृष्णा । त्रिवृद् अरुणं त्रिवृत् । औषधं शुण्ठी \। वटशुङ्गः अविकासितपल्लवः । वृक्षाम्लःतिन्तिडीकः । कोलः बदरः । शृङ्गी कर्कटकशृङ्गी । पीलु कर्णाटे गोत्रुः[^20]। एरण्डः उरुबुकश्च पञ्चाङ्गुलः । विषा अतिविषा \। माणिमन्थं सैन्धवम् । बिल्वः श्रीपर्णी । काश्मर्या तर्क्कारी \। टक्कली टुण्टुकः कर्णाटे डुडुलुः । महापञ्चमूलम् । अभीरुका शतावरी । वृश्चिकः कर्णाटे वेलाडके\। सैन्धवं सौवर्चलं बिडं काचः समुद्रः । पयस्या दुग्धी \। रामठंहिङ्गु । ऊषणं मरीचम् । महौषधं शुण्ठी । वासा आटरूषकेः। इत्यौषधनिघण्टुः ॥ ३०० ॥
+** औषधपर्यायानाह**—यवासो दुरालभा । कटुका तिक्ता । सारिवा सुगन्धिः । धन्वयवासो यशस्वी दुरालभा । लघुपञ्चमूली बृहतीद्वयं शालिपर्णी पृष्ठिपर्णी गोक्षुरम् । कायस्था काकमाची । नाकुली लाङ्गुलिका । वयस्था धात्री। चोरकः ग्रन्थिपर्णी । शिला मनःशिला । कालया दार्वी । अनन्ता दुरालभा । श्यामा कृष्णा । त्रिवृद् अरुणं त्रिवृत् । औषधं शुण्ठी \। वटशुङ्गः अविकासितपल्लवः । वृक्षाम्लः तिन्तिडीकः । कोलः बदरः । शृङ्गी कर्कटकशृङ्गी । पीलु कर्णाटे गोत्रुः [^20]। एरण्डः उरुबुकश्च पञ्चाङ्गुलः । विषा अतिविषा \। माणिमन्थं सैन्धवम् । बिल्वः श्रीपर्णी । काश्मर्या तर्क्कारी \। टक्कली टुण्टुकः कर्णाटे डुडुलुः । महापञ्चमूलम् । अभीरुका शतावरी । वृश्चिकः कर्णाटे वेलाडके \।
+सैन्धवं सौवर्चलं बिडं काचः समुद्रः । पयस्या दुग्धी \। रामठं हिङ्गु । ऊषणं मरीचम् । महौषधं शुण्ठी । वासा आटरूषकेः। इत्यौषधनिघण्टुः ॥ ३०० ॥
 
-[^20]: "२ B गोतु"
+[^20]: # "२ B गोतु"
 
 पितृपक्षसमुद्भूता मातृपक्षसमुद्भवाः ।
 
@@ -1560,9 +1635,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एतेषां रक्षणं सम्यक् तथा भरणपोषणम् ।
 
-दानं सम्माननं कार्यंलोकद्वयहितैषिणा ॥ ३०४ ॥
+दानं सम्माननं कार्यं लोकद्वयहितैषिणा ॥ ३०४ ॥
 
-इति दीनानाथार्त-बन्धु-भृत्यपोषणाध्यायः ॥ १९ ॥
+**इति दीनानाथार्त-बन्धु-भृत्यपोषणाध्यायः ॥ १९ ॥**
 
 व्याघ्र-सिंह-गजैश्चौरैः शत्रुभिश्चापि विद्रुतः ।
 
@@ -1586,15 +1661,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पुण्यौघानामपि च महतां वृद्धये वृ(बु)द्धये च ॥ ३०८ ॥
 
-इति श्रीमहाराजाधिराजसत्याश्रयकुलतिलक-चालुक्याभरण-श्रीमद्भूलोकमल्ल-
 
-श्रीसोमेश्वरदेवविरचितेऽभिलषितार्थ-चिन्तामणौ मानसोल्लासे
 
-राज्यप्राप्तेर्हेतूपायकथने प्रथमं प्रकरणम् ।
+**इति श्रीमहाराजाधिराजसत्याश्रयकुलतिलक-चालुक्याभरण-श्रीमद्भूलोकमल्ल-**
 
-** द्वितीयं प्रकरणम् ।**
+**श्रीसोमेश्वरदेवविरचितेऽभिलषितार्थ-चिन्तामणौ मानसोल्लासे**
 
-**<MISSING_FIG href="../books_images/1680677553.jpg"/>**
+**राज्यप्राप्तेर्हेतूपायकथने प्रथमं प्रकरणम् ।**
+
+** ** ** द्वितीयं प्रकरणम् ।**
+
+** <MISSING_FIG href="../books_images/1680677553.jpg"/>**
 
 राज्यप्राप्तिनिमित्तानि कथितानीह विंशतिः ।
 
@@ -1628,7 +1705,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अवश्यम्भाविनः पञ्च गुणास्त्वेते महीभुजाम् ॥ ८ ॥
 
-विभूतिंच तथा कीर्तिंधर्मं च विजयं सुखम् ।
+विभूतिं च तथा कीर्तिं धर्मं च विजयं सुखम् ।
 
 यशश्चेत् सततं राजा गुणानेतान् विधारयेत् ॥ ९ ॥
 
@@ -1644,15 +1721,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तस्माद् रसायनान् योगान् यत्नात् सेवेत पार्थिवः ।
 
-दृढगात्रोभवेत् तेन वलीपलितवर्जितः ॥ १२ ॥
+दृढगात्रो भवेत् तेन वलीपलितवर्जितः ॥ १२ ॥
 
-जीवेच्च सुचिरं कालंराजा रोगविवर्जितः ।
+जीवेच्च सुचिरं कालं राजा रोगविवर्जितः ।
 
 तस्माद् रसायनं वक्ष्ये नृपाणां हितकाम्यया ॥ १३ ॥
 
-रसायनक्रिया द्वेधाकथिता पूर्वसूरिभिः ।
+रसायनक्रिया द्वेधा कथिता पूर्वसूरिभिः ।
 
-कुटीप्रवेशनादेका वातातपसहापरा ॥ १४ ॥
+कुटीप्रवेशनादेका वातातपसहा परा ॥ १४ ॥
 
 कुटीप्रवेशका वर्ज्या लोकरक्षापरैर्नृपैः ।
 
@@ -1662,13 +1739,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 बलि-पूजादिकं कृला रक्तसूत्रेण वेष्टयेत् ॥ १६ ॥
 
-'ॐ ह्रां अमृतस्यन्दिनी अमृतं स्रव स्वाहा '
+'ॐ ह्राम् अमृतस्यन्दिनी अमृतं स्रव स्वाहा '
 
 सप्तकृत्वः प्रयुक्तेन मन्त्रेणानेन शाल्मलीम् ।
 
-अभिमन्त्र्य कुठारेणहन्याद्वारान् बहून् सुधी ॥ १७ ॥
+अभिमन्त्र्य कुठारेण हन्याद् वारान् बहून् सुधी ॥ १७ ॥
 
-तस्या निर्यासमादाय प्रभातेभास्करोदये।
+तस्या निर्यासमादाय प्रभाते भास्करोदये ।
 
 धात्र्या भृङ्गशतावर्गा गुडूच्याः स्वरसैः पृथक् ॥ १८ ।
 
@@ -1700,15 +1777,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 जीवत्यब्दसहस्राणि तेजस्वी तरुणाकृतिः ॥ २५ ॥
 
-नीरुजो वीर्यसम्पन्नो नात्रकार्या विचारणा ।
+नीरुजो वीर्यसम्पन्नो नात्र कार्या विचारणा ।
 
 पुष्यार्कदिवसे याते हस्तिकर्णीं समाहरेत् ॥ २६ ॥
 
-छायाशुष्कांप्रकुर्वीत समूलां चूर्णयेत् ततः ।
+छायाशुष्कां प्रकुर्वीत समूलां चूर्णयेत् ततः ।
 
 वाससा गालितं सूक्ष्मं मधु-सर्पिः समायुतम् ।
 
-स्निग्धभाण्डे निधायाथधान्यराशौ निगूहयेत् ॥ २७ ॥
+स्निग्धभाण्डे निधायाथ धान्यराशौ निगूहयेत् ॥ २७ ॥
 
 एकविंशे दिने याते समुद्धृत्य तदौषधम् ।
 
@@ -1718,7 +1795,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मुद्गयूषसमायुक्तं भुञ्जीत मधुरं लघु ॥ २९ ॥
 
-वर्षषोडषदेशीयो मेधावीकोकिलस्वरः ।
+वर्षषोडषदेशीयो मेधावी कोकिलस्वरः ।
 
 योजनानां शतं याति दिनेनैकेन मानवः ॥ ३० ॥
 
@@ -1726,7 +1803,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 हस्तिकर्णीप्रयोगेण निश्चितं भवभाषितम् ॥ ३१ ॥
 
-सितां रक्तां च पीतां च कृष्णां मुण्डिंचतुर्विधाम् \।
+सितां रक्तां च पीतां च कृष्णां मुण्डिं चतुर्विधाम् \।
 
 पञ्चम्यां शुक्लपक्षस्य पूर्णिमायां तु वा निशि ॥ ३२ ॥
 
@@ -1738,7 +1815,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तच्चूर्णमुपयुञ्जीत क्षीरषष्टिकभोजनः ॥ ३४ ॥
 
-एकविंशे दिने याते दिव्यदेहोभवेन्नरः ।
+एकविंशे दिने याते दिव्यदेहो भवेन्नरः ।
 
 मासत्रयप्रयोगेण पुमान् प्राप्नोत्यदृश्यताम् ॥ ३५ ।
 
@@ -1752,7 +1829,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सप्तरात्रप्रयोगेण बलीपलितवर्जितः ।
 
-द्व्यष्टवर्षाकृतिर्मर्त्योजीवेदब्दशतत्रयम् ॥ ३८ ॥
+द्व्यष्टवर्षाकृतिर्मर्त्यो जीवेदब्दशतत्रयम् ॥ ३८ ॥
 
 अमरीं पुष्यनक्षत्रे समूलां पल्लवान्विताम् ।
 
@@ -1762,7 +1839,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 गव्यक्षीरसमायुक्तं कुर्याच्छा[^21]ल्यन्नभोजनम् ॥ ४० ॥
 
-[^21]: "B दल्पान्न ।"
+[^21]: # "B दल्पान्न ।"
 
 ज्वराः सर्वे विनश्यन्ति मुखरोगो जलग्रहः ।
 
@@ -1770,7 +1847,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कण्डूतिः किटभो दाहः कुष्ठं लूता भगन्दरः ।
 
-प्रमेहोजठरो गुल्मः क्षयोऽपस्मार एव च ॥ ४२ ॥
+प्रमेहो जठरो गुल्मः क्षयोऽपस्मार एव च ॥ ४२ ॥
 
 सप्ताहे प्रथमे याते नश्यन्त्येता रुजः स्फुटम् ।
 
@@ -1806,19 +1883,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एवं रसायनं प्रोक्तमव्याधिकरणं नृणाम् ।
 
-नृपाणां हितकामेन सोमेश्वरमहीभूजा॥ ५१ ॥
+नृपाणां हितकामेन सोमेश्वरमहीभूजा ॥ ५१ ॥
 
-  इति रसायनम् । इति स्वाम्यध्यायः ॥ १ ॥
+** इति रसायनम् । इति स्वाम्यध्यायः ॥ १ ॥**
 
-कुलीनाः श्रुतसंपन्नाः शुचयश्चानुरागिणः ।
+कुलीनाः श्रुतसम्पन्नाः शुचयश्चानुरागिणः ।
 
-शूरा धीराश्चनीरोगा नीतिशास्त्रविशारदाः ॥ ५२ ॥
+शूरा धीराश्च नीरोगा नीतिशास्त्रविशारदाः ॥ ५२ ॥
 
-प्रगल्भा वाग्मिनःप्राज्ञारागद्वेषविवर्जिताः ।
+प्रगल्भा वाग्मिनः प्राज्ञा रागद्वेषविवर्जिताः ।
 
-वैराणां चाप्यकर्तारः सचिवाःस्युर्विभूतये ॥ ५३ ॥
+वैराणां चाप्यकर्तारः सचिवाः स्युर्विभूतये ॥ ५३ ॥
 
-सत्यसन्धा महात्मानो दृढचित्तानिरामयाः ।
+सत्यसन्धा महात्मानो दृढचित्ता निरामयाः ।
 
 जनानां सम्मता दक्षाः सचिवाः कोशवृद्धये ॥
 
@@ -1850,19 +1927,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 **इति पुरोहितलक्षणम् ॥**
 
-षोडशभिर्हृताषष्टिः प्रभवाद्यद्वसंयुता ।
+षोडशभिर्हृता षष्टिः प्रभवाद्यद्वसंयुता ।
 
-तानैरपिसमायुक्ता शकभूपोद्गताः समाः॥ ६१ ॥
+तानैरपि समायुक्ता शकभूपोद्गताः समाः ॥ ६१ ॥
 
 एकपञ्चाशदधिके सहस्रे शरदां गते ।
 
 शकस्य सोमभूपाले सति चालुक्यमण्डने ॥ ६२ ॥
 
-समुद्ररशनामुर्वींशासति क्षतविद्विषि ।
+समुद्ररशनामुर्वीं शासति क्षतविद्विषि ।
 
 सर्वशास्त्रार्थसर्वस्वपाथोधिकलशोद्धवे ॥ ६३ ॥
 
-सौम्यसंवत्सरे चैत्रमासादौशुक्रवासरे।
+सौम्यसंवत्सरे चैत्रमासादौ शुक्रवासरे।
 
 परिशोधितसिद्धान्तलब्धाः स्युर्ध्रुवका इमे ॥ ६४ ॥
 
@@ -1870,7 +1947,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 यानि षड्विंशतिस्वेकचत्वारिंशच्च नाडिकाः ॥ ६५ ॥
 
-प्रतिमासं क्षिपेद् वारं द्वात्रिंशन्नाडिकास्तिथौ।
+प्रतिमासं क्षिपेद् वारं द्वात्रिंशन्नाडिकास्तिथौ ।
 
 नक्षत्रे द्वे पदे द्वे च नाड्यश्चैकादशापराः ॥ ६६ ॥
 
@@ -1886,27 +1963,27 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 चतुर्दशावधि ज्ञेयं धनं शिष्टमृणं भवेत् ॥ ६९ ॥
 
-आद्येत्रयोदशे पश्च द्वितीये द्वादशे दश ।
+आद्ये त्रयोदशे पश्च द्वितीये द्वादशे दश ।
 
 एकादशे तृतीये च नाड्यः पञ्चदश स्मृताः ॥ ७० ॥
 
 चतुर्थे दशमे तु स्यादेकोना विंशतिस्तु ताः ।
 
-पञ्चमे नवमे नाड्योद्वाविंशतिरुदीरिताः ॥ ७१ ॥
+पञ्चमे नवमे नाड्यो द्वाविंशतिरुदीरिताः ॥ ७१ ॥
 
-षष्टेऽष्टमेच घटिकाश्चतुर्विंशतिरीरिताः ।
+षष्टेऽष्टमे च घटिकाश्चतुर्विंशतिरीरिताः ।
 
 सप्तमे घटिका ज्ञेयाः सङ्ख्यया पश्चविंशतिः ॥ ७२ ॥
 
-मकरे सूर्यघटिकास्तिस्रः षट्च प्रवेशयेत् ।
+मकरे सूर्यघटिकास्तिस्रः षट् च प्रवेशयेत् ।
 
-कर्कटेऽप्येवमेव स्याद्घटिकास्तु वियोजयेत् ॥ ७३ ॥
+कर्कटेऽप्येवमेव स्याद् घटिकास्तु वियोजयेत् ॥ ७३ ॥
 
 कुम्भे द्वादश विज्ञेयाः संयोज्या रविनाडिकाः । -
 
-तावत्योघटिका सिंहे रेचनीया विचक्षणैः ॥ ७४ ॥
+तावत्यो घटिका सिंहे रेचनीया विचक्षणैः ॥ ७४ ॥
 
-मीने रुद्राश्च रुद्राश्चयोज्याः सूर्यस्य नाडिकाः ।
+मीने रुद्राश्च रुद्राश्च योज्याः सूर्यस्य नाडिकाः ।
 
 चावत्य एव कन्यायां स्फोटनीया मनीषिभिः ॥ ७५ ॥
 
@@ -1916,9 +1993,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वृषेऽष्टौ षट् च नाड्यः स्युर्मिश्रणीया विपश्चिता ।
 
-अपसार्य़ास्तु ता नाडयो वृश्चिके परिकीर्त्तिताः ॥ ७७ ॥
+अपसार्य़ास्तु ता नाडयो वृश्चिके परिकीर्त्तिताः ॥ ७७ ॥
 
-युग्मे तिस्रश्चशून्यं च घटयेद् गणकोत्तमः ।
+युग्मे तिस्रश्च शून्यं च घटयेद् गणकोत्तमः ।
 
 तदेव वारयेद् राशौ कोदण्डाख्ये विचक्षणः ॥ ७८ ॥
 
@@ -1926,11 +2003,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तृतीयं तु तिथेर्भागं नक्षत्रघटिका अपि ॥ ७९ ॥
 
-धनाख्या रविनाड्योऽत्रयोज्यास्त्याज्या ऋणाभिधाः ।
+धनाख्या रविनाड्योऽत्र योज्यास्त्याज्या ऋणाभिधाः ।
 
-संयोज्य विभजेत् षष्ट्यात्वर्धमृक्षेण योजयेत् ॥ ८० ॥
+संयोज्य विभजेत् षष्ट्या त्वर्धमृक्षेण योजयेत् ॥ ८० ॥
 
-वक्ष्यामि शशिनक्षत्रं सूर्यर्क्षेयोजयेत् तिथिम् ।
+वक्ष्यामि शशिनक्षत्रं सूर्यर्क्षे योजयेत् तिथिम् ।
 
 तिथिं सङ्गुणयेत् षड़भिर्योजयेत् तिथिनाडिभिः ॥ ८१ ॥
 
@@ -1952,21 +2029,21 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 नक्षत्रं च तथा योगं करणं गणकोत्तमः ॥ ८५ ॥
 
-अभिषेके पटबन्धेविवाहे जातकादिषु ।
+अभिषेके पटबन्धे विवाहे जातकादिषु ।
 
 गृहप्रवेशे यात्रायां गृहारम्भे च सङ्गरे ॥ ८६ ॥
 
-शुक्ले चन्द्रबलंमुख्यं कृष्णे ताराबलाबलम् ।
+शुक्ले चन्द्रबलं मुख्यं कृष्णे ताराबलाबलम् ।
 
 शतानि पञ्च दोषाणां बुधो हन्ति विनिश्चितम् ॥ ८७ ॥
 
-शुक्रः पञ्च सहस्राणि दोषाणां हन्तिनिश्चितम् ।
+शुक्रः पञ्च सहस्राणि दोषाणां हन्ति निश्चितम् ।
 
 लक्षमेकं तु दोषाणां सुराचार्यो व्यपोहति ॥ ८८ ॥
 
 एवं ग्रहबलं ज्ञात्वा दुर्बलत्वं च पापिनाम् ।
 
-लग्नं यः कथयेत् सम्यक् स कार्योगणको नृपैः ॥ ८९ ॥
+लग्नं यः कथयेत् सम्यक् स कार्यो गणको नृपैः ॥ ८९ ॥
 
 **इति ज्योतिर्विद्- गणकलक्षणम् ॥**
 
@@ -1988,7 +2065,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 धर्माधिकारिणः कार्या विलोभा भयवर्जिताः ॥ ९३ ॥
 
-स्मार्त्तैःसह समालोच्य यथोक्तं दण्डमाचरेत् ।
+स्मार्त्तैः सह समालोच्य यथोक्तं दण्डमाचरेत् ।
 
 शक्तो राज्ञा विचारज्ञः कार्यो दण्डधरो द्विजः ॥ ९४ ॥
 
@@ -2000,27 +2077,27 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अनाहार्यः सुसन्तुष्टश्चाप्तो बहुकुटुम्बकः ।
 
-सावधानोगणितविद् भाण्डागारे नियोजयेत् ॥ ९६ ॥
+सावधानो गणितविद् भाण्डागारे नियोजयेत् ॥ ९६ ॥
 
 एकाद्या नवपर्यन्ता नवैकाङ्काः स्वरूपतः ।
 
-दशोत्तरक्रमेणैतेवर्धन्ते बिन्दुवर्धिताः ॥ ९७ ॥
+दशोत्तरक्रमेणैते वर्धन्ते बिन्दुवर्धिताः ॥ ९७ ॥
 
 बिन्दुरेको दशस्थाने शते बिन्दुद्वयं भवेत् ।
 
-बिन्दुत्रयं सहस्रेस्यादयुते तच्चतुष्टयम् ॥ ९८ ॥
+बिन्दुत्रयं सहस्रे स्यादयुते तच्चतुष्टयम् ॥ ९८ ॥
 
-बिन्दवः पञ्च लक्षे स्युः प्रयुते बिन्दवस्तु षट्।
+बिन्दवः पञ्च लक्षे स्युः प्रयुते बिन्दवस्तु षट् ।
 
 बिन्दवः सप्त कोटौ स्युरर्बुदे चाष्ट बिन्दवः ॥ ९९ ॥
 
-बिन्दवो नव पद्मेस्युः खर्वे स्युर्दश बिन्दवः ।
+बिन्दवो नव पद्मे स्युः खर्वे स्युर्दश बिन्दवः ।
 
 एकादश निखर्वे तु द्वादश स्युर्महाम्बुजे ॥ १०० ॥
 
 शङ्खे त्रयोदश प्रोक्ताः समुद्रे मनुबिन्दवः ।
 
-अन्त्यसंज्ञे समाख्याता बिन्दवस्तिथिसंज्ञया ॥ १०१ ॥
+अन्त्यसञ्ज्ञे समाख्याता बिन्दवस्तिथिसञ्ज्ञया ॥ १०१ ॥
 
 द्विरष्ट बिन्दवो मध्ये परार्धे दश सप्त च ।
 
@@ -2028,9 +2105,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एकाङ्के बिन्दुरेकश्चेद् दशकं तत् प्रकीर्तितम् ।
 
-द्वितीयाङ्केपुरो बिन्दौसङ्ख्या विंशतिरिष्यते ॥ १०३ ॥
+द्वितीयाङ्के पुरो बिन्दौ सङ्ख्या विंशतिरिष्यते ॥ १०३ ॥
 
-एवं तृतीयाद्यङ्केषुबिन्दुः स्यात् पुरतो यदि ।
+एवं तृतीयाद्यङ्केषु बिन्दुः स्यात् पुरतो यदि ।
 
 त्रिंशदाद्या तदा सङ्ख्या नवत्यन्ता प्रकीर्तिता ॥ १०४ ॥
 
@@ -2042,7 +2119,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अधस्तात् प्रथमाङ्कस्य गुणकाभ्याङ्कमागालिखेत् ॥ १०६ ॥
 
-एकैकं गुणयेत् सर्वैरुपरिस्थमधस्तनैः।
+एकैकं गुणयेत् सर्वैरुपरिस्थमधस्तनैः ।
 
 लब्धं निवेशयेत् तत्र स्वाङ्कस्योपरि लेखयेत् ॥ १०७ ॥
 
@@ -2056,7 +2133,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अधोऽङ्कं हृदये कृत्वा तर्कयेदङ्कमूर्ध्वगम्।
 
-विभागो लभ्यते येन तेन भागं प्रकल्पयत्॥ ११० ॥
+विभागो लभ्यते येन तेन भागं प्रकल्पयत् ॥ ११० ॥
 
 अनेन क्रमयोगेण भजनीयं विभाजयेत् ।
 
@@ -2070,7 +2147,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 इच्छया गुणितं वस्तु प्रमाणेन विभाजयेत् ॥ ११३ ॥
 
-प्रमाणं द्रव्यमाख्यातं फलंद्रविणमिष्यते ।
+प्रमाणं द्रव्यमाख्यातं फलं द्रविणमिष्यते ।
 
 द्रव्यजातिविभागोत्थामिच्छामिच्छन्ति सूरयः ॥ ११४ ॥
 
@@ -2086,21 +2163,21 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रूपमंशस्तथा च्छेदो नामैतद् व्यावहारिकम् ॥ ११७ ॥
 
-रूपमूर्ध्वमधश्चांशरतस्याधः छेदइष्यते ।
+रूपमूर्ध्वमधश्चांशरतस्याधः छेद इष्यते ।
 
 राशिद्वयं प्रकर्तव्यं गुण्यं गुणकमेव च ॥ ११८ ॥
 
-संपूर्णं कथ्यते रूपमंशउद्धरितो भवेत् ।
+सम्पूर्णं कथ्यते रूपमंश उद्धरितो भवेत् ।
 
-तस्यांशस्य विभागो यःस च्छेदः परिकीर्तितः ॥ ११९ ॥
+तस्यांशस्य विभागो यः स च्छेदः परिकीर्तितः ॥ ११९ ॥
 
 गुणयेदंशमंशेन च्छेदं छेदेन बुद्धिमान् ।
 
-फलांशं विभजेत् तज्ज्ञःफलेन च्छेदजन्मना ॥ १२० ॥
+फलांशं विभजेत् तज्ज्ञः फलेन च्छेदजन्मना ॥ १२० ॥
 
 गुणनं भिन्नमाख्यातं भिन्नभागोऽभिधीयते ।
 
-रूपांशच्छेदमार्गेण भाज्योराशिर्विधीयते ॥ १२१ ॥
+रूपांशच्छेदमार्गेण भाज्यो राशिर्विधीयते ॥ १२१ ॥
 
 भाजकश्च तथा चान्यो राशिर्लेख्यो विपश्चिता ।
 
@@ -2142,7 +2219,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अर्थरक्षापरो भृत्यः कृत्याकृत्यविवेकवित् ।
 
-सान्धिविग्रहिकः कार्योराज्ञा कार्यविशारदः ॥ १३० ॥
+सान्धिविग्रहिकः कार्यो राज्ञा कार्यविशारदः ॥ १३० ॥
 
 **इति सान्धिविग्रहिकलक्षणम् ॥**
 
@@ -2196,7 +2273,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 औषधं रूप-नामभ्यां जानन्तो भिषजो वराः ॥ १४१ ॥
 
-वमौविरेचने नस्ये वस्तौ शस्त्रक्रियास्वपि ।
+वमौ विरेचने नस्ये वस्तौ शस्त्रक्रियास्वपि ।
 
 शस्यन्ते भिषजः सम्यक् निष्णाताः पञ्चकर्मसु ॥ १४२ ॥
 
@@ -2210,7 +2287,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 असाध्याः परकीयाणामात्मस्वामिहिते रताः ।
 
-धर्मज्ञा दृढचित्ताश्चवैद्याः कार्या महीभुजा ॥ १४५ ॥
+धर्मज्ञा दृढचित्ताश्च वैद्याः कार्या महीभुजा ॥ १४५ ॥
 
 **इति वैद्यलक्षणम् ।**
 
@@ -2218,21 +2295,21 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 इङ्गिताकारकुशलः शुद्धान्ताध्यक्ष इष्यते ॥ १४६ ॥
 
-सुप्तकामोपमाः[^22] शुद्धाःपुरुषाः कृतबुद्धयः ।
+सुप्तकामोपमाः[^22] शुद्धाः पुरुषाः कृतबुद्धयः ।
 
-[^22]: "B सप्तकामोपधाः ।"
+[^22]: # "B सप्तकामोपधाः ।"
 
 अन्तःपुरेक्षकाः कार्या नृपेण शुचियोनयः ॥ २४७ ॥
 
-धर्मज्ञाः शुचयो धीराःप्रभूभक्ताःजितेन्द्रियाः ।
+धर्मज्ञाः शुचयो धीराः प्रभूभक्ताः जितेन्द्रियाः ।
 
-कार्याराज्ञा कुमाराणामध्यक्षाः स्युः परीक्षिताः॥ १४८ ॥
+कार्या राज्ञा कुमाराणामध्यक्षाः स्युः परीक्षिताः॥ १४८ ॥
 
 कर्मस्वन्येषु सर्वेषु दक्षाश्च शुचयस्तथा ।
 
-शूराश्चबुद्धिमन्तश्चशस्त्र-शास्त्रकलाविदः ॥ १४९ ॥
+शूराश्च बुद्धिमन्तश्च शस्त्र-शास्त्रकलाविदः ॥ १४९ ॥
 
-योग-क्षेमसुखार्थायदुष्टसंयमनाय च।
+योग-क्षेमसुखार्थाय दुष्टसंयमनाय च ।
 
 आत्मनश्च विनोदाय राज्ञा योज्या यथार्हतः ॥ १५० ॥
 
@@ -2250,7 +2327,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स्तम्बेरमवनोपेता बहुद्याना सुशोभना ।
 
-भूर्नदीमातृका शस्ता सर्वदाधरणीभुजाम् ॥ १५३ ॥
+भूर्नदीमातृका शस्ता सर्वदा धरणीभुजाम् ॥ १५३ ॥
 
 ईदृग्भूमियुतं राष्ट्रं महापत्तनभा\[सि\]तम् !
 
@@ -2260,29 +2337,29 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 चौरेभ्योऽमात्यकेभ्यश्च तथैवार्थाधिकारितः ॥ १५५ ॥
 
-चौरैः साहसिकैश्चाटैर्दुराचारैस्तथापरैः ।
+चौरैः साहसिकैश्चाटैर्दुराचारैस्तथा परैः ।
 
 विशेषेण च कायस्थैः पीडिताः पालयेत् प्रजाः ॥ १५६ ॥
 
-स्वराष्ट्रंयो नृपो मोहात् पीडयेदनवेक्षया ।
+स्वराष्ट्रं यो नृपो मोहात् पीडयेदनवेक्षया ।
 
-राज्यात् सच्यवते शीघ्रं प्राणेभ्यः सह बन्धुभिः ॥ १५७ ॥
+राज्यात् स च्यवते शीघ्रं प्राणेभ्यः सह बन्धुभिः ॥ १५७ ॥
 
 यथैव प्राणिनां प्राणा हीयन्ते देहपीडनात् ।
 
-तथैव भूभुजां प्राणाहीयन्ते देशपीडनात् ॥ १५८ ॥
+तथैव भूभुजां प्राणा हीयन्ते देशपीडनात् ॥ १५८ ॥
 
-एकग्रामप्रभुं कुर्याद् दशग्रामप्रभुंतथा ।
+एकग्रामप्रभुं कुर्याद् दशग्रामप्रभुं तथा ।
 
-ग्रामाणां विंशतेःकुर्यात् पभुं शत-सहस्त्रयोः । १५९ ॥
+ग्रामाणां विंशतेः कुर्यात् पभुं शत-सहस्त्रयोः । १५९ ॥
 
 ग्रामे दोषं समुत्पन्नमशक्तश्शासितुं यदि ।
 
 दशग्रामेशिनं शंसेद् दशेशो विंशतीश्वरे ॥ १६० ॥
 
-विंशतीशः शतेशायतत्सर्वंविनिवेदयेत् ।
+विंशतीशः शतेशाय तत् सर्वं विनिवेदयेत् ।
 
-ब्रूयाद्ग्रामशतस्वामी सहस्रस्वामिनेऽखिलम् ॥ १६१ ॥
+ब्रूयाद् ग्रामशतस्वामी सहस्रस्वामिनेऽखिलम् ॥ १६१ ॥
 
 उत्पन्नांस्तु तथा दोषान् ग्रामादाशु निवेदितान् ।
 
@@ -2314,25 +2391,25 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मृगसङ्घातसम्पन्नं क्रूरसत्त्वैर्विवर्जितम् ।
 
-वनमात्मविहारार्थंपालयेत् पुरपार्श्वगम् ॥ १६८ ॥
+वनमात्मविहारार्थं पालयेत् पुरपार्श्वगम् ॥ १६८ ॥
 
 प्रत्यन्तदेशसम्भूतं वनं गिरिदरीयुतम् ।
 
-सर्वेषां गृहकृत्पर्थेपार्थिवः प्रतिपादयेत् ॥ १६९ ॥
+सर्वेषां गृहकृत्पर्थे पार्थिवः प्रतिपादयेत् ॥ १६९ ॥
 
 फलैर्मूलैस्तृणैः काष्ठैः शाकैस्तत्रोत्थितैर्नराः ।
 
-जीवन्ति ये ततो ग्राह्यो दशमोंऽशो महीभुजा ॥ १७० ॥
+जीवन्ति ये ततो ग्राह्यो दशमोऽंशो महीभुजा ॥ १७० ॥
 
 द्विपिजन्मवनं श्रेष्ठं वर्तमानगजं च यत् ।
 
-अटवीवर्तिभिर्लोकैरक्षणीयं क्षमाभुजा ॥ १७१ ॥
+अटवीवर्तिभिर्लोकै रक्षणीयं क्षमाभुजा ॥ १७१ ॥
 
 **इति देशजनरक्षा ॥**
 
 गङ्गासागरहेमाद्रिप्रयागाणां च मध्यतः ।
 
-वनं प्राच्यमिति प्रोक्तं लोहिताब्धिश्चपश्चिमे ॥ १७२ ॥
+वनं प्राच्यमिति प्रोक्तं लोहिताब्धिश्च पश्चिमे ॥ १७२ ॥
 
 त्रिपुर्याः कोसलादौ च वेदिकारूषकं वनम् ।
 
@@ -2340,7 +2417,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 विन्ध्याद्रिचित्रकूटाद्रिकलिङ्गद्रविडाश्रितम् ।
 
-वनंकालिङ्गकं नाम समुद्रावधि कीर्त्यते ॥ १७४ ॥
+वनं कालिङ्गकं नाम समुद्रावधि कीर्त्यते ॥ १७४ ॥
 
 श्रीशैले वेदशैले च मलयाद्रौ तथैव च ।
 
@@ -2354,7 +2431,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वनं पाञ्चनदं प्रोक्तं हिमालयकृतावधि ॥ १७७ ॥
 
-कालिङ्गं वेदिकारूषं दाशार्णंच वनं वरम् ।
+कालिङ्गं वेदिकारूषं दाशार्णं च वनं वरम् ।
 
 आङ्गिरेयं तथा प्राच्यं मध्यमं वनमिष्यते ॥ १७८ ॥
 
@@ -2366,7 +2443,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 घ्नन्ति ये करिणः पापा घातयेत् तान्[^23] महीपतिः ।
 
-[^23]: "A यत्नतो ।"
+[^23]: # "A यत्नतो ।"
 
 दैवान्मृतेषु नागेषु तेषां दन्तान् समाहरेत् ॥ १८० ॥
 
@@ -2394,7 +2471,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उत्तमस्त्रिप्रकारः स्याद् बन्धः करटिनामयम् ॥ ९८६ ॥
 
-आपातश्चावपातश्च द्वौ बन्धौनिन्दितौ मतौ ।
+आपातश्चावपातश्च द्वौ बन्धौ निन्दितौ मतौ ।
 
 विनश्यन्ति गजा यस्मात् तस्मात् तौ परिवर्जयेत् ॥ १८७ ॥
 
@@ -2406,31 +2483,31 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वैणवं हरितं पत्रं तथैवान्यद् गजप्रियम् ॥ १८९ ॥
 
-द्विपियूथंसमागच्छेदार्द्रग्रासस्यलम्पटम् ।
+द्विपियूथं समागच्छेदार्द्रग्रासस्य लम्पटम् ।
 
 प्रत्यहं दृश्यते तत्र तदा मार्गो निरुप्यते ॥ १९०
 
-क्रोशमात्रावतां भूमिंविस्तारेण चतत्समाम् ।
+क्रोशमात्रावतां भूमिं विस्तारेण च तत्समाम् ।
 
 वृक्षैः परिघया वाऽपि समन्तात् परिवेष्टयेत् ॥ १९९ ॥
 
 द्वारं तत्र प्रकुर्वीत निवर्तनमहीमितम् ।
 
-कुञ्जराणां प्रवेशार्थंवारिबन्धविचक्षणः॥ १९२॥
+कुञ्जराणां प्रवेशार्थं वारिबन्धविचक्षणः ॥ १९२ ॥
 
 प्रविष्टान् द्विरदांस्तत्र सम्यगालोक्य बुद्धिमान् ।
 
-वारिद्वारंनिरुन्धोतमहावृक्षैस्तिरस्कृतम् ॥ १९३ ॥
+वारिद्वारं निरुन्धोत महावृक्षैस्तिरस्कृतम् ॥ १९३ ॥
 
-अन्तःस्थान्बन्धयेन्नागान् सर्वलक्षणसंयुतान् ।
+अन्तःस्थान् बन्धयेन्नागान् सर्वलक्षणसंयुतान् ।
 
-ईदृग्विधस्तु या बन्धो वारिबन्धःस उच्यते ॥ १९४ ॥
+ईदृग्विधस्तु या बन्धो वारिबन्धः स उच्यते ॥ १९४ ॥
 
 **इति वारिबन्धः ॥**
 
 सप्ताष्टौ वा वशा वश्या महाकाया महाजवाः ।
 
-आरूढाः पत्रसंछन्नाः पाशहस्ताश्चहस्तिपाः ॥ १९५ ॥
+आरूढाः पत्रसञ्छन्नाः पाशहस्ताश्च हस्तिपाः ॥ १९५ ॥
 
 करिणीनां करे पाशान् हस्तिवन्धाय दापयेत् ।
 
@@ -2448,11 +2525,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शृङ्गहस्तैस्तथा कैश्चदाराहस्तैश्च कैश्चन ।
 
-वाद्यकैर्विविधैः सार्धं गच्छेन्मातङ्गबन्धकः॥ १९९ ॥
+वाद्यकैर्विविधैः सार्धं गच्छेन्मातङ्गबन्धकः ॥ १९९ ॥
 
 अश्वारूढैर्वशारुढैर्गजारूढैर्विचक्षणैः ।
 
-सङ्गतो गजबन्धाय गच्छेद् राज्ञा नियोजितः॥ २०० ॥
+सङ्गतो गजबन्धाय गच्छेद् राज्ञा नियोजितः ॥ २०० ॥
 
 तोयस्थानेषु सर्वेषु समीपस्थेषु शाखिषु ।
 
@@ -2460,19 +2537,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 निद्रावशसमापन्नं यत्र यूथं व्यवस्थितम् ।
 
-प्रातःकाले शनैर्गच्छेन्निदाघेसमुपस्थिते॥ १०२ ॥
+प्रातःकाले शनैर्गच्छेन्निदाघे समुपस्थिते ॥ १०२ ॥
 
 सदागतेरधोभागे निवार्य जननिस्वमम् ।
 
-सहसा वादयेत् तूर्यंकाहलारचसंयुतम् ॥ २०३ ॥
+सहसा वादयेत् तूर्यं काहलारचसंयुतम् ॥ २०३ ॥
 
-उत्थाय चकितं वेगान्नागयूथंविनिद्रितम् ।
+उत्थाय चकितं वेगान्नागयूथं विनिद्रितम् ।
 
 सम्भ्रान्तमानसं भीतं पलायनपरं भवेत् ॥ २०४ ॥
 
 ततस्तदनुगच्छेयुर्वारिबन्धविशारदाः ।
 
-येन मार्गेण सन्त्रस्तं गतं यूथं वनान्तरम्॥ २०५॥
+येन मार्गेण सन्त्रस्तं गतं यूथं वनान्तरम्॥ २०५ ॥
 
 यूथं विहाय यो गच्छेद् भयसन्त्रस्तमानसः ।
 
@@ -2484,7 +2561,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शुष्कलालाजलेऽत्यर्थं गते च जडतां गजे ।
 
-श्लथेकरे च पुच्छे च निश्चले कर्णपल्लवे ॥ २०८ ॥
+श्लथे करे च पुच्छे च निश्चले कर्णपल्लवे ॥ २०८ ॥
 
 ततो वेगयुता वश्या वशाश्चाधोरणेरिताः ।
 
@@ -2500,7 +2577,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अनेन विधिना यत्र क्रियते गजबन्धनम् ।
 
-स बन्धोऽनुगतो ज्ञेयोबन्धविद्यासुकोविदैः ॥ २१२ ॥
+स बन्धोऽनुगतो ज्ञेयो बन्धविद्यासु कोविदैः ॥ २१२ ॥
 
 **इत्यनुगतबन्धः ॥**
 
@@ -2508,7 +2585,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 षष्टिस्तायु(य)तं स्थौल्ये प्रकोष्टसमतां गतम् ॥ २९३ ॥
 
-तस्यार्धंनिक्षिपेद् गात्रे पूरयेच्च दृढं मृदा ।
+तस्यार्धं निक्षिपेद् गात्रे पूरयेच्च दृढं मृदा ।
 
 शेषार्धं पाशवत् कुर्याद् गजग्रीवाङि्घ्ररोधनम् ॥ २१४ ॥
 
@@ -2538,7 +2615,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 यस्मान्नागाः प्रणश्यन्ति तेनैवं वर्जयेद् बुधः ॥ २२० ॥
 
-॥ इत्यवपातबन्धः॥
+**॥ इत्यवपातबन्धः॥**
 
 प्रबध्य कुञ्जरान् राजा तेषां लक्षणमुत्तमम् ।
 
@@ -2546,7 +2623,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सप्तारत्निसमुत्सेधो नवारत्न्यायतश्च यः ।
 
-दशारत्निपरीणाहः स गजोमानतः शुभः ॥ २२२ ॥
+दशारत्निपरीणाहः स गजो मानतः शुभः ॥ २२२ ॥
 
 अरत्निमात्रेणाधिक्यादरालः परिकीर्तितः ।
 
@@ -2558,11 +2635,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कनिष्ठादपि यो हीनो वामनः स निगद्यते ।
 
-वामनादपि यो हीनः कुब्जौ निन्द्यौगजाविमौ ॥२२५ ॥
+वामनादपि यो हीनः कुब्जौ निन्द्यौ गजाविमौ ॥ २२५ ॥
 
 सुस्निग्धौ रदनौ वृत्तौ दक्षिणश्च समुन्नतः ।
 
-अकृष्टं तालु ताम्रं च दशाष्टौनखराः शुभाः ॥२२६ ॥
+अकृष्टं तालु ताम्रं च दशाष्टौ नखराः शुभाः ॥ २२६ ॥
 
 अपाण्डु मेहनं शस्तं बालयुक्तश्च वालधिः ।
 
@@ -2574,7 +2651,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शुभं लक्षणमेतत् स्याद् गजानां जयकारिणाम् ।
 
-तस्माल्लक्षणसंयुक्ता गजा ग्राह्या महीभुजा॥२२९॥
+तस्माल्लक्षणसंयुक्ता गजा ग्राह्या महीभुजा॥ २२९॥
 
 **इति गजशुभलक्षणम् ॥**
 
@@ -2584,7 +2661,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 हीनलक्षणसंयुक्ता गजास्त्याज्या महीभुजा।
 
-दुर्भिक्षशोकभयदा लोचनोद्वेगकारिणः॥२३१ ॥
+दुर्भिक्षशोकभयदा लोचनोद्वेगकारिणः॥ २३१ ॥
 
 गति - चेष्टा - स्वरान् यस्य सत्त्वस्यानुकरोति यत् ।
 
@@ -2596,15 +2673,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सुव्यक्ता विन्दवो यस्य गौरो वर्णो मनोहरः ।
 
-लोहितौ नेत्रयोः प्रान्तौ स्निन्धौ च बलिनौरदौ॥ २३४ ॥
+लोहितौ नेत्रयोः प्रान्तौ स्निन्धौ च बलिनौ रदौ ॥ २३४ ॥
 
 एवं लक्षणसम्पूर्णो गजो ब्रह्मांशको मतः ।
 
-पूजार्होऽसौनरेन्द्राणां विजयारोग्यवर्धनः ॥ २३५ ॥
+पूजार्होऽसौ नरेन्द्राणां विजयारोग्यवर्धनः ॥ २३५ ॥
 
 कक्षाभागे तथा कण्ठे यः समः पृथुलासनः ।
 
-मुखे कोकनदच्छायो युग्मरोमविराजितः ॥२३६ ॥
+मुखे कोकनदच्छायो युग्मरोमविराजितः ॥ २३६ ॥
 
 बहुकालमदः शूरो मेघनादेन हृष्यति ।
 
@@ -2632,7 +2709,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स्रवति प्रचुरं दानं वरुणांशकसम्भवः ।
 
-आहवेरिपुसंहारी निजभर्त्तुर्जयप्रदः ॥ २४३ ॥
+आहवे रिपुसंहारी निजभर्त्तुर्जयप्रदः ॥ २४३ ॥
 
 त्रिवलीमण्डितः कण्ठे क्षौद्रपिङ्गविलोचनः ।
 
@@ -2640,7 +2717,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 बिन्दुमान् पाण्डुवर्णश्च शशाङ्कांशकसम्भवः ।
 
-सङ्गरप्राङ्गणे राज्ञां गजोऽयं विजयप्रदः ॥२४६ ॥
+सङ्गरप्राङ्गणे राज्ञां गजोऽयं विजयप्रदः ॥ २४६ ॥
 
 अग्निज्वालासदृग्रोमा केशवालेषु पिङ्गलः ।
 
@@ -2650,11 +2727,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 भस्मसात् कुरुते सैन्यमशेषं द्विषतां सदा ॥ २४७ ॥
 
-कृष्णा यस्य तनोश्छाया गौरी चाक्ष्णोश्चकर्णयोः ।
+कृष्णा यस्य तनोश्छाया गौरी चाक्ष्णोश्च कर्णयोः ।
 
 नखा दीपशिखाभासा निबिडा मांसला तनुः ॥ २४८ ॥
 
-अग्नि-मारुतयोरंशसंजातः कोपनो जवी \।
+अग्नि-मारुतयोरंशसञ्जातः कोपनो जवी \।
 
 तस्य दोषोऽयमेकः स्यादङ्कुशं यन्न मन्यते ॥ २४९ ॥
 
@@ -2674,7 +2751,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 श्रीगर्भपुष्करच्छाया कान्तिः सर्वाङ्गसङ्गिनी ॥ २६३ ॥
 
-सुवर्णकेतकोद्योतौरदनौवर्त्तुलौ दृढौ ।
+सुवर्णकेतकोद्योतौ रदनौ वर्त्तुलौ दृढौ ।
 
 आयतः प्रोन्नतो मध्ये निम्नः स्याद् वादकुम्भकः ॥ २५४ ॥
 
@@ -2684,19 +2761,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पुष्पसारसमे नेत्रे पक्ष्मले प्रान्तलोहिते ।
 
-बलिनौमृदुविस्तीर्णौ समौ छेदविवर्जितौ॥ २५६ ॥
+बलिनौ मृदुविस्तीर्णौ समौ छेदविवर्जितौ ॥ २५६ ॥
 
 शिराविरहितौ कर्णजलौ दुन्दुभिनिस्वनौ ।
 
-वर्त्तुलावुन्नतौ कुम्भौसमौ लक्ष्मीकुचापमौ ॥ २२७ ॥
+वर्त्तुलावुन्नतौ कुम्भौ समौ लक्ष्मीकुचापमौ ॥ २२७ ॥
 
 रम्यौ मालतलन्यासौ विपुलं चासनं समम् ।
 
-ऋजुर्ह्रस्वो मलोद्देशोदीर्घावंसौ च मांसलौ॥ २५८ ॥
+ऋजुर्ह्रस्वो मलोद्देशो दीर्घावंसौ च मांसलौ ॥ २५८ ॥
 
-बाहू दीर्घावृजू पीनावधोऽधःक्रमशः कृशौ ।
+बाहू दीर्घावृजू पीनावधोऽधः क्रमशः कृशौ ।
 
-कूर्माकारतलालग्नाःस्निग्धार्धेन्दुनिभा नखाः ॥ २५९ ॥
+कूर्माकारतलालग्नाः स्निग्धार्धेन्दुनिभा नखाः ॥ २५९ ॥
 
 विंशतिर्वा दशाष्टौ वा शोभनाः परिकीर्तिताः ।
 
@@ -2728,15 +2805,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दान्तः शूरः सदोत्साहो बली युद्धविशारदः ।
 
-अभीरुराहवे धीरः क्षत्रसत्त्वोभवेद् द्विपः ॥ २६७ ॥
+अभीरुराहवे धीरः क्षत्रसत्त्वो भवेद् द्विपः ॥ २६७ ॥
 
-दण्डसाध्यस्तथा नीचोमूर्खश्च मलिनाशनः ।
+दण्डसाध्यस्तथा नीचो मूर्खश्च मलिनाशनः ।
 
-आहवे निरतः शूरः शूद्रसत्त्वोभवेत् करी ॥ २६८ ॥
+आहवे निरतः शूरः शूद्रसत्त्वो भवेत् करी ॥ २६८ ॥
 
 विश्वासघातकः क्रूरो गमने कुटिलक्रमः ।
 
-न भुङ्क्ते च मदेऽत्यर्थंसर्पसत्त्वः करी मतः ॥ २६९ ॥
+न भुङ्क्ते च मदेऽत्यर्थं सर्पसत्त्वः करी मतः ॥ २६९ ॥
 
 एतानि त्रीणि सत्त्वानि राजसस्य भवन्ति हि ।
 
@@ -2744,33 +2821,33 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उन्मार्गेण सदा याति विवेकरहितो भृशम् ।
 
-उन्मत्त इवं चेष्टायां द्विपः पैशाचसत्त्वजः॥२७१॥
+उन्मत्त इवं चेष्टायां द्विपः पैशाचसत्त्वजः ॥२७१॥
 
 निशायां चरति स्वैरं मनुष्याणां बधे रतः ।
 
-वेगवान् सबलोहस्ती रक्षःसत्त्वसमुद्भवः ॥ २७२॥
+वेगवान् सबलो हस्ती रक्षःसत्त्वसमुद्भवः ॥ २७२॥
 
 एते द्वे तामसे सत्त्वे तामसो वातलो भृशम् ।
 
-सवातो दृश्यते रूक्षो निद्रालुश्चपलोगजः ॥२७३॥
+सवातो दृश्यते रूक्षो निद्रालुश्चपलो गजः ॥२७३॥
 
 जायते पाण्डुरो यस्तु केशे रोमणि वालधौ
 
 वर्णे च नेत्रयाोश्चैव स स्यादैरावतान्वयः॥२७४॥
 
-युद्धक्षमः सारसदृक्कोपी युद्धविशारदः ।
+युद्धक्षमः सारसदृक् कोपी युद्धविशारदः ।
 
 क[^24]ुब्जरोमा स्थूलशीर्षः पुण्डरीकान्वयो गजः॥२७५॥
 
-[^24]: " Aकृष्णं ।"
+[^24]: # " A कृष्णम् ।"
 
-श्यामवर्णः सुदेहश्चकृष्णकेशः कृशोदरः ।
+श्यामवर्णः सुदेहश्च कृष्णकेशः कृशोदरः ।
 
 स्थूलबिन्दुर्द्धनुर्वंशः पुष्पदन्तान्वयः करी ॥ २७६ ॥
 
 अग्निवर्णः सुवर्णाक्षो वेगवान् जललम्पटः ।
 
-आयतो विस्तृतोऽत्यर्थंवामनान्वंयजो द्विपः॥२७७॥
+आयतो विस्तृतोऽत्यर्थं वामनान्वंयजो द्विपः॥२७७॥
 
 प्रचण्डः कुमुदच्छायः कपोतनयनः शमी ।
 
@@ -2782,17 +2859,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रौद्रः पृथुशिरा ह्रस्वश्रोत्रहस्तसमन्वितः ।
 
-पेचकेऽल्पःस्थूलकलः सार्वभौमान्वयो गजः ॥ २८० ॥
+पेचकेऽल्पः स्थूलकलः सार्वभौमान्वयो गजः ॥ २८० ॥
 
 कुमुदाभः स्थूलतनुः स्निग्धलोहितलोचनः ।
 
 कृष्णविस्तीर्णहस्ताग्रः कुञ्जरः कुमुदान्वयः ॥ २८२ ॥
 
-इति गजजातिभेदलक्षणम् ॥
+**इति गजजातिभेदलक्षणम् ॥**
 
 एवं परीक्ष्य यत्नेन लक्षणैरुत्तमान् गजान् ।
 
-स्वीकुर्यादवनीपालोविपरीतान् परित्यजेत्॥२८२॥
+स्वीकुर्यादवनीपालो विपरीतान् परित्यजेत्॥२८२॥
 
 स्वीकृताननुबद्धांस्तान् सिन्धुरान् शिक्षयेन्नृपः।
 
@@ -2812,11 +2889,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उत्तमेऽहनि नागानामपराणि प्रबन्धयेत् ।
 
-निगडैश्चर्मनिर्माणैर्दृढं गाढं यथासुखम्॥२८७ ॥
+निगडैश्चर्मनिर्माणैर्दृढं गाढं यथासुखम्॥ २८७ ॥
 
 पुरोभागे त्रयं स्थाप्यं कर्णदेशे नरावुभौ ।
 
-पश्चाद्भागेतथा द्वौ च सप्ताराधारिणः क्रमात् ॥ २८८ ॥
+पश्चाद्भागे तथा द्वौ च सप्ताराधारिणः क्रमात् ॥ २८८ ॥
 
 पक्षयोरुभयोः स्थाप्ये करिण्यावतिशिक्षिते।
 
@@ -2828,9 +2905,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एह्येहीति च सञ्चाले स्थितावप्यपसारणे ।
 
-हेडे हेडेति वक्तव्यं गजशिक्षाविशारदैः॥२९१ ॥
+हेडे हेडेति वक्तव्यं गजशिक्षाविशारदैः॥ २९१ ॥
 
-पार्श्वद्वयापसारे चफापेति विनियोजयेत् ।
+पार्श्वद्वयापसारे च फापेति विनियोजयेत् ।
 
 उपवेशे प्रयोक्तव्यं विश्वीति वचनं स्फुटम् ॥ २९२ ॥
 
@@ -2844,33 +2921,33 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 गात्रस्योत्क्षेपणे वाच्यं भले भलेति यन्त्रिभिः ।
 
-अपरानमने किःकिर्भणनीयं विचक्षणैः ॥ २९५ ॥
+अपरानमने किः किर्भणनीयं विचक्षणैः ॥ २९५ ॥
 
-याचनार्थं महामात्रोदे दे शब्दमुदीरयेत् ।
+याचनार्थं महामात्रो दे दे शब्दमुदीरयेत् ।
 
-करप्रहारणे शिक्ष्योहेहैयेति द्विरुक्तितः ॥ २९६ ॥
+करप्रहारणे शिक्ष्यो हेहैयेति द्विरुक्तितः ॥ २९६ ॥
 
 कवलग्रसने द्विर्द्विर्यावद् ग्रासो निगी[^25]र्यते ।
 
-[^25]: "A गिह गिहेति."
+[^25]: # "A गिह गिहेति."
 
-परित्यागे प्रयोक्तव्या चुरु चुदेति भारती॥२९७ ॥
+परित्यागे प्रयोक्तव्या चुरु चुदेति भारती॥ २९७ ॥
 
 मा मा निवारणे वाच्यो गजशिक्षाविशारदैः ।
 
-हिंग हिंगेति वक्तव्यो भूमौ दन्ताभिघातने ॥ २९८ ॥
+हिङ्ग हिङ्गेति वक्तव्यो भूमौ दन्ताभिघातने ॥ २९८ ॥
 
 बहिः शुण्डाभिघाते तु हू हू वाक्यं प्रबोधयेत् ।
 
 शनैः सञ्चारणे वाच्यो लेच लेचेति कोर्विदैः ॥ २९९ ॥
 
-आह्वाने कुञ्जरो ज्ञाप्य इच्चभूभेति यन्त्रिभिः ।
+आह्वाने कुञ्जरो ज्ञाप्य इच्च भूभेति यन्त्रिभिः ।
 
 कस्यापि ग्रहणे वाच्यो घे घे शब्दं मतङ्गजः ॥ ३०० ॥
 
 ईदृशी प्रथमा भाषा शिक्षयेत मतङ्गजम् ।
 
-भाषाभिज्ञंगजं जातं पश्चात्कर्मणि योजयेत् ॥ ३०१ ॥
+भाषाभिज्ञं गजं जातं पश्चात्कर्मणि योजयेत् ॥ ३०१ ॥
 
 पुरः स्थितेन शुण्डाया नारदो (आरतो)दः शनैः शनैः ।
 
@@ -2886,7 +2963,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 आराघातभयत्रस्तो यदि पश्चाद् व्रजेद् गजः।
 
-आराभ्यां तोदनं तस्य कुर्वातेपार्श्वसंस्थितौ ॥ ३०५ ॥
+आराभ्यां तोदनं तस्य कुर्वाते पार्श्वसंस्थितौ ॥ ३०५ ॥
 
 ततः स्थानकसंसिद्धः सौष्ठवं लभते गजः।
 
@@ -2896,7 +2973,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स्थानके तिष्ठतस्तस्य प्रविश्य करिणोऽग्रतः॥ ३०७ ॥
 
-आस्फाल्य भस्त्रिकेपूर्वं दर्शयेदेकभस्त्रिकाम् ।
+आस्फाल्य भस्त्रिके पूर्वं दर्शयेदेकभस्त्रिकाम् ।
 
 हूहूकारैर्द्विपं यन्ता भस्त्रिकाहनने नुदेत् ॥ ३०८ ॥
 
@@ -2930,7 +3007,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ततोऽङ्गधारणैः शिक्ष्यस्तज्ज्ञैः कर्मकरैः करी ।
 
-घासं चेष्टं गुडं शालिमिक्षुकाण्डमथापि वा॥३१६ ॥
+घासं चेष्टं गुडं शालिमिक्षुकाण्डमथापि वा॥ ३१६ ॥
 
 दर्शयित्वा प्रलोभ्यैनं प्रसारितकरं गजम् ।
 
@@ -2946,11 +3023,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ततोऽङ्कुशेन संरुद्धः प्रतोदेन च पीडितः ।
 
-हिग हिगेति संप्रोक्तो धृत्वा कर्मकरं दृढम् ॥ ३२० ॥
+हिग हिगेति सम्प्रोक्तो धृत्वा कर्मकरं दृढम् ॥ ३२० ॥
 
 मुखं निक्षिप्य भूभागे प्रोहावाकुञ्च्य तिष्ठति ।
 
-हस्तेन वेष्टयेदङ्गं कर्मकारस्य कुञ्जरः ॥ ३२१॥
+हस्तेन वेष्टयेदङ्गं कर्मकारस्य कुञ्जरः ॥ ३२१ ॥
 
 पश्चाद् वर्मविनिर्माणं प्रतिरूपं निराकृतिः ।
 
@@ -2962,9 +3039,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 चूर्णीकरोति तद्रूपं वधकर्मणि शिक्षितः ।
 
-ततोऽप्तौमारयेज्जन्तून् कृतान्त इव शिक्षितः ॥ ३२४ ॥
+ततोऽप्तौ मारयेज्जन्तून् कृतान्त इव शिक्षितः ॥ ३२४ ॥
 
-चतुरस्रं कर्मक्लृप्तंवालुकापूरितं मनाक् ।
+चतुरस्रं कर्मक्लृप्तं वालुकापूरितं मनाक् ।
 
 दण्डाग्रसंस्थितं कार्यं तल्लाक्षेत्यभिधीयते ॥ ३२५ ॥
 
@@ -2974,13 +3051,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 समुन्नतैस्तथा नीचैर्घनैः पार्श्वसमाश्रितैः ।
 
-विविधैः प्रहरेल्लाक्षांदन्तघातेषु शिक्षितः ॥ ३२७ ॥
+विविधैः प्रहरेल्लाक्षां दन्तघातेषु शिक्षितः ॥ ३२७ ॥
 
 उन्मोच्य बन्धनं पश्चात् पूर्वस्थानकमाश्रितम् ।
 
 सञ्चारयेत् ततो वीथ्यामङ्गुष्ठाभ्यां नुदन् गजम् ॥ ३२८ ॥
 
-कवलं दर्शयित्वा तु धावयेदनुधावतः ।
+कवलं दर्शयित्वा तु धावयेदनु धावतः ।
 
 पार्श्वाभ्यां वर्तनैः पश्चान्मण्डलेषु प्रचारयेत् ॥ ३२९ ॥
 
@@ -2992,7 +3069,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शिक्षिताः सर्वकर्माणि बले कार्या महीभुजा ॥ ३३१ ॥
 
-इति गजशिक्षानिरूपणम् ॥
+**इति गजशिक्षानिरूपणम् ॥**
 
 रजतस्य सुवर्णस्य रत्नानां रक्षयेत् खनिम् ।
 
@@ -3010,7 +3087,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 निरिन्धनो ज्वलेद् वह्निर्ध्रुवं तत्र भवेन्निधिः ॥ ३३५ ॥
 
-आवर्तोदृश्यते यत्र विना हेतुं जलाशये ।
+आवर्तो दृश्यते यत्र विना हेतुं जलाशये ।
 
 पङ्कजानि द्विशीर्षाणि तत्र तोये भवेन्निधिः ॥ ३३६ ॥
 
@@ -3026,7 +3103,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वारं वारं प्रहृष्टात्मा क्षोण्यां तत्र भवेन्निधिः ॥ ३३९ ॥
 
-हस्तद्वयसमुत्सेधोवाष्पो यत्रानिमित्तकः ।
+हस्तद्वयसमुत्सेधो वाष्पो यत्रानिमित्तकः ।
 
 रूढिर्वा लौकिकी यत्र निधिं तत्र खनेन्नृपः ॥ ३४० ॥
 
@@ -3040,7 +3117,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उलूकस्य वसाङ्कोलतैलं कमलतन्तवः ।
 
-एतैर्विहितया वर्त्त्याकज्जलं परिकल्पयेत् ॥ ३४३ ॥
+एतैर्विहितया वर्त्त्या कज्जलं परिकल्पयेत् ॥ ३४३ ॥
 
 कज्जलेनाञ्जयेत् तेन लोचने प्रयतो नरः ।
 
@@ -3070,25 +3147,25 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पद्मसूत्रार्कतू[^26]लेन वर्त्तिमे[^27]तैः प्रकल्पयेत् ॥ ३५० ॥
 
-[^26]: "१ B 'तूले च।"
+[^26]: # "१ B 'तूले च।"
 
-[^27]: "२ B मेकां ।"
+[^27]: # "२ B मेकाम् ।"
 
-कपिलसर्पिषादीप्ता वर्तिर्निधिसमीपगा ।
+कपिलसर्पिषा दीप्ता वर्तिर्निधिसमीपगा ।
 
 उत्पतेत् सु[^28]स्फुटे द्रव्ये निपतेत् सा महानिधौ ॥ १५१ ॥
 
-[^28]: "३ Bप्रस्फुटे ।"
+[^28]: # "३ B प्रस्फुटे ।"
 
 अर्क - शाल्मलि - कार्पास तूलकल्पिततन्तुभिः ।
 
-प[^29]ट्ट- पङ्कजसूत्रैश्चवेष्टयेच्छिखिनः शिखाम् ॥ ३५२ ॥
+प[^29]ट्ट- पङ्कजसूत्रैश्च वेष्टयेच्छिखिनः शिखाम् ॥ ३५२ ॥
 
-[^29]: "४ B पक्वं ।"
+[^29]: # "४ B पक्वम् ।"
 
 महानिल[^30]प्रदीप्ता सा निधिस्थाने प्रदर्शिता ।
 
-[^30]: "५ B तैल ।"
+[^30]: # "५ B तैल ।"
 
 त्रिशिखा जायते सद्यो निपतेद् वा निधिस्थले ॥ ३५३ ॥
 
@@ -3110,13 +3187,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 त्रिभिर्वा पञ्चभिर्वापि सप्तभिर्नवभिस्तथा ।
 
-अधिकैर्विषमैर्वापि साधकैः खननोद्यतैः॥ ३५८ ॥
+अधिकैर्विषमैर्वापि साधकैः खननोद्यतैः ॥ ३५८ ॥
 
 उपोषितैः शुचिर्भूतैः शक्तैर्भयविवर्जितैः ।
 
 खन्य[^31]शास्त्रानुसारेण निजाङ्गक्षतरक्षणैः ॥३५९॥
 
-[^31]: "B खनि ।"
+[^31]: # "B खनि ।"
 
 समुद्धरेन्निधिं राजा निजाध्यक्षपुरःसरम् ।
 
@@ -3126,7 +3203,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 भूगतानां विशेषेण यतोऽसौ विबुधाधिपः ॥ ३६१ ॥
 
-इति निधिः ॥
+**इति निधिः ॥**
 
 मौक्तिकानां समुत्पत्तिः स्थाने स्थाने मदोदधौ ।
 
@@ -3146,7 +3223,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वज्रपातभयत्रस्तकुलाचलककुप्स्थितेः ।
 
-रत्नौघदीप्तिसम्मिश्रफेनस्यातिवितन्वतः॥३६६ ॥
+रत्नौघदीप्तिसम्मिश्रफेनस्यातिवितन्वतः ॥ ३६६ ॥
 
 सुधासूतिकलादानात् कृतार्थीकृतशूलिनः।
 
@@ -3154,7 +3231,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रत्यग्रविद्रुमलतासन्दिग्धौर्वानलत्विषः ।
 
-शङ्खैश्चवडवावह्निभूतिभ्रान्तिं वितन्वतः ॥ ३६८ ॥
+शङ्खैश्च वडवावह्निभूतिभ्रान्तिं वितन्वतः ॥ ३६८ ॥
 
 उल्लसद्भिर्जलेभानां वृन्दैः फेनलवोज्ज्वलैः ।
 
@@ -3166,11 +3243,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पक्षच्छेद भयायातभूभृद्रक्षाविधायिनः ।
 
-उपमां बिभ्रतः साक्षात् सोमेश्वरमहीभुजः ॥३७१ ॥
+उपमां बिभ्रतः साक्षात् सोमेश्वरमहीभुजः ॥ ३७१ ॥
 
 ऐरावत-सुधा-लक्ष्मी-शीतदीधितिजन्मनः ।
 
-शयनस्य हरेस्तुङ्गभङ्गव्याप्तविधद्दिशः॥ ३७२ ॥
+शयनस्य हरेस्तुङ्गभङ्गव्याप्तविधद्दिशः ॥ ३७२ ॥
 
 पारिजातं सुधां लक्ष्मीं वारुणीं शीतदीधितिम् ।
 
@@ -3178,7 +3255,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वेलापुरेषु सर्वेषु समीपस्थेषु वारिधेः।
 
-रक्षा विधेया यत्नेन राज्ञासम्पदमिच्छता ॥ ३७४ ॥
+रक्षा विधेया यत्नेन राज्ञा सम्पदमिच्छता ॥ ३७४ ॥
 
 निजवेलातटस्थानां पोतवाहनकर्मणाम् ।
 
@@ -3188,7 +3265,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स्वीकुर्यात् सकलं द्रव्यं किञ्चिद् दद्याच्च भूपतिः ॥ ३७६ ॥
 
-इति राष्ट्राध्यायः ॥ २ ॥
+**इति राष्ट्राध्यायः ॥ २ ॥**
 
 धातुवादप्रयोगैश्च विविधैर्वर्धयेद् धनम् ।
 
@@ -3202,19 +3279,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पुटपाकेन तद् दग्धं तारं भवति शोभनम् ॥ ३७९ ॥
 
-श्वेतब्रह्मतरोःपुष्पं स्वरसेन विभावयेत् ।
+श्वेतब्रह्मतरोः पुष्पं स्वरसेन विभावयेत् ।
 
 तालं द्वात्रिंशतं वारान् तेन वङ्गं प्रलेपयेत् ॥ ३८० ॥
 
-पुटपाकेन तद् दग्धं वङ्गंव्रजति तारताम् ।
+पुटपाकेन तद् दग्धं वङ्गं व्रजति तारताम् ।
 
 मार्दवं कालिमां गन्धं वङ्गं त्यजति निश्चितम् ॥ ३८१ ॥
 
 श्वेतब्रह्मतरोर्बीजतैलेन परिभावयेत् ।
 
-गन्धकं सप्तकृत्वोऽथतेन ताम्रदलानि च ॥ ३८२ ॥
+गन्धकं सप्तकृत्वोऽथ तेन ताम्रदलानि च ॥ ३८२ ॥
 
-लेपितं तत्पुटेदग्धं शुल्वं काञ्चनतां व्रजेत् ।
+लेपितं तत्पुटे दग्धं शुल्वं काञ्चनतां व्रजेत् ।
 
 दाहच्छेदनिघर्षादिकर्मयोग्यं भवेत् ततः ॥ ३८३ ॥
 
@@ -3226,17 +3303,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दग्ध्वा दग्ध्वा पुनर्लिम्पेद् वारान् द्वात्रिंशतं बुधः ॥ ३८५ ॥
 
-ततो वङ्गं भवेत् स्वर्णंरञ्जितं दरदादिभिः ।
+ततो वङ्गं भवेत् स्वर्णं रञ्जितं दरदादिभिः ।
 
 व्यवहारक्षमं शुद्धं कर्मयोग्यं भवेच्च तत् ॥ ३८६ ॥
 
-निर्यासं शाकवृक्षस्य श्लक्ष्णवस्त्रेणगालयेत् ।
+निर्यासं शाकवृक्षस्य श्लक्ष्णवस्त्रेण गालयेत् ।
 
 समूलशिग्रुचूर्णेन निर्याससहितेन च ॥ ३८७ ॥
 
 परितस्ताम्रपत्राणि दग्ध्वा दग्ध्वा विलेपयेत् ।
 
-दाहैःपञ्चभिरेतत् तु काञ्चनं जायते शुभम् ॥ ३८८ ॥
+दाहैः पञ्चभिरेतत् तु काञ्चनं जायते शुभम् ॥ ३८८ ॥
 
 फलानि शाकवृक्षस्य पक्वान्यादाय भावयेत्।
 
@@ -3256,7 +3333,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एवमादिभिरन्यैश्च वादग्रन्थक्रियाक्र[^32]मैः ।
 
-[^32]: "१. A त्मकैः"
+[^32]: # "१. A त्मकैः"
 
 कारयेत् कनकं तारं धनवृद्ध्यै नराधिपः ॥ ३९३ ॥
 
@@ -3264,7 +3341,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पूर्णो व्ययसहः कार्यः कोशो नित्यं महीभुजा ॥ ३९४ ॥
 
- इति धातुवाद-रसायनम् ॥
+** इति धातुवाद-रसायनम् ॥**
 
 पुटीकृत्यानले तप्तं यत् स्वर्णं निरुपक्षयम्।
 
@@ -3290,9 +3367,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 चन्द्रमण्डलसङ्काशं कोशे स्थाप्यं महीभुजा ॥ ४०० ॥
 
-यशः - सौभाग्यजननं श्रे[^33]ष्ठंपुत्रप्रदायकम् ।
+यशः - सौभाग्यजननं श्रे[^33]ष्ठम्पुत्रप्रदायकम् ।
 
-[^33]: "१ A B श्रेष्ठं ।"
+[^33]: # "१ A B श्रेष्ठम् ।"
 
 गृहे विधारितं रौप्यं मलिनं चासुखप्रदम् ॥ ४०१ ॥
 
@@ -3304,7 +3381,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 हिमालये मतङ्गाद्रौ त्रेतायां कुलिशोद्भवः ॥ ४०३ ॥
 
-पौण्ड्रके च सुराष्ट्रे च द्वापरे याच सन्ततिः ।
+पौण्ड्रके च सुराष्ट्रे च द्वापरे या च सन्ततिः ।
 
 वैरागरे च सोपारे कलौ हीरकसम्भवः ॥ ४०४ ॥
 
@@ -3322,7 +3399,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 श्वेता रक्ता तथा पीता कृष्णा छाया च[^34]तुर्विधा।
 
-[^34]: "२ B तथा विधा ।"
+[^34]: # "२ B तथा विधा ।"
 
 विप्रक्षत्रियवैश्यानां शूद्रजातेर्यथाक्रमम् ॥४०८॥
 
@@ -3348,27 +3425,27 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दोषेषु बिन्दुरावर्तः परिवर्ती यवाकृतिः ।
 
-चतुर्द्धैवंसमाख्याता बिन्दवो वज्रसंश्रयाः ॥ ४१४ ॥
+चतुर्द्धैवं समाख्याता बिन्दवो वज्रसंश्रयाः ॥ ४१४ ॥
 
-रक्तोऽत्र वर्त्तुलोबिन्दुरावर्तः सव्यवर्तनः ।
+रक्तोऽत्र वर्त्तुलो बिन्दुरावर्तः सव्यवर्तनः ।
 
-रक्तश्च परिवर्तस्तु र[^35]क्त एवापसव्यकः॥ ४१५ ॥
+रक्तश्च परिवर्तस्तु र[^35]क्त एवापसव्यकः ॥ ४१५ ॥
 
-[^35]: "१ B एवं सव्याप ।"
+[^35]: # "१ B एवं सव्याप ।"
 
 बिन्दुरायुर्धनं हन्यादावर्तो भयमादिशेत् ।
 
-परिवर्ते भवेद् व्याधिर्यवेतु फलमुच्यते ॥ ४१६ ॥
+परिवर्ते भवेद् व्याधिर्यवे तु फलमुच्यते ॥ ४१६ ॥
 
 स च रक्तस्तथा पीतः श्वेतश्च त्रिविधो मतः ।
 
-रक्तवर्णे यवेख्यातं गजाश्वस्य विनाशनम् ॥ ४१७ ॥
+रक्तवर्णे यवे ख्यातं गजाश्वस्य विनाशनम् ॥ ४१७ ॥
 
 यवे पीते कुलस्यान्तो धनमायुः सिते भवेत् ।
 
 एवं दोषा गुणाश्चोक्ता यवबिन्दोरशेषतः ॥ ४१८ ॥
 
-सव्यवक्रा शुभा रेखा वामवक्राभयङ्करी ।
+सव्यवक्रा शुभा रेखा वामवक्रा भयङ्करी ।
 
 छेदभ्रान्तिकरी छेदा रेखा शस्त्रभयप्रदा ॥ ४१९ ॥
 
@@ -3376,13 +3453,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रेखा बन्धुविनाशाय जायते वज्रसंश्रिता ॥ ४२० ॥
 
-शुकः काकपदाकारो दृश्यते यः पवौस्थितः ।
+शुकः काकपदाकारो दृश्यते यः पवौ स्थितः ।
 
 स मृत्युमादिशत्याशु धनं वा सकलं हरेत् ॥ ४२१ ॥
 
-भग्नाग्रंभग्नम[^36]ध्यं च दलहीनं च वर्त्तुलम् ।
+भग्नाग्रं भग्नम[^36]ध्यं च दलहीनं च वर्त्तुलम् ।
 
-[^36]: "१ B वारं ।"
+[^36]: # "१ B वारम् ।"
 
 कान्तिहीनं च यद् वज्रं दोषाय न गुणाय तत् ॥ ४२२ ॥
 
@@ -3390,7 +3467,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एवं दोषा गुणाः प्रोक्ता वज्राणां सोमभूभुजा ॥ ४२३ ॥
 
-इति वज्रदोष - गुणाः ॥
+**इति वज्रदोष - गुणाः ॥**
 
 कोलाहि -करि-मत्स्यानां शीर्षे मुक्ताफलोद्भवः ।
 
@@ -3452,7 +3529,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दुर्लभं नृपयोग्यं स्यात् स्वल्पभाग्यैर्न लभ्यते ॥ ४३८ ॥
 
-सुस्निग्धं मधुरच्छायंमौक्तिकं सिंहलोद्भवम्।
+सुस्निग्धं मधुरच्छायं मौक्तिकं सिंहलोद्भवम्।
 
 आरबाटसमुत्पन्नं पीतच्छायं सुनिर्मलम् ॥ ४३९ ॥
 
@@ -3484,7 +3561,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 त्रिवृत्तं नामतः ख्यातं दुर्भगत्वविधायकम् ॥ ४४६ ॥
 
-अवृत्तं वलनं यत्तु चर्पटं तन्निगद्यते ।
+अवृत्तं वलनं यत् तु चर्पटं तन्निगद्यते ।
 
 मौक्तिकं ध्रियते येन तस्य कीर्त्तिर्भवेत् सदा ॥ ४४७ ॥
 
@@ -3492,7 +3569,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दीर्घं यत् तत् कृशं प्रोक्तं प्रज्ञाविध्वंसकारकम् ॥ ४४८ ॥
 
-निर्भुग्नमेकतो यत् तुकृशपार्श्वं तदुच्यते ।
+निर्भुग्नमेकतो यत् तु कृशपार्श्वं तदुच्यते ।
 
 सदोषं मौक्तिकं नित्यं निरुद्योगकरं हि तत् ॥ ४४९ ॥
 
@@ -3506,7 +3583,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स्वच्छं दोषविनिर्मुक्तं निर्मलं मौक्तिकं मतम् ।
 
-गुरुत्वं तोलने यस्य तद्धनं मौक्तिकं मतम् ॥ ४५२ ॥
+गुरुत्वं तोलने यस्य तद् धनं मौक्तिकं मतम् ॥ ४५२ ॥
 
 शीतांशुबिम्बसङ्काशं मौक्तिकं स्निग्धमुच्यते ।
 
@@ -3524,17 +3601,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शुक्ला यशःकरी छाया नीला सौभाग्यनाशनी ॥ ४५६ ॥
 
-इति मौक्तिकपरीक्षा ॥
+**इति मौक्तिकपरीक्षा ॥**
 
 माञ्जली प्रोच्यते गुञ्जा तास्तिस्रो रूपकं भवेत् ।
 
-रूपकैर्दशभिः प्रोक्तः कलञ्जोनाम नामतः ॥ ४५७ ॥
+रूपकैर्दशभिः प्रोक्तः कलञ्जो नाम नामतः ॥ ४५७ ॥
 
 कांस्यपात्रद्वयं वृत्तं समानं रूपनामतः ।
 
 चतुश्छिद्रसमायुक्तं प्रत्येकं रज्जुयन्त्रितम् ॥ ४५८ ॥
 
-दण्डः कांस्यमयः श्लक्ष्णो द्वादशाङ्गुलसंमितः ।
+दण्डः कांस्यमयः श्लक्ष्णो द्वादशाङ्गुलसम्मितः ।
 
 पक्षद्वयसमानश्च प्रान्तयोर्मुद्रिकायुतः ॥ ४५९ ॥
 
@@ -3556,9 +3633,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कण्टके च समे जाते तोरणस्य च मध्यमे ।
 
-तदा समं विजानीयात्तोलनं नाम कोविदः ॥ ४६४ ॥
+तदा समं विजानीयात् तोलनं नाम कोविदः ॥ ४६४ ॥
 
-इति तुलालक्षणम् ॥
+**इति तुलालक्षणम् ॥**
 
 चत्वारि त्रीणि युग्मं वा तथैकं वा तुलास्थिनम् ।
 
@@ -3586,7 +3663,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कलञ्जद्वयमानेन यद्येकं मौक्तिकं भवेत् ।
 
-न धार्यंनरनाथैस्तद् देवयोग्यमनुत्तमम् ॥ ४७१ ॥
+न धार्यं नरनाथैस्तद् देवयोग्यमनुत्तमम् ॥ ४७१ ॥
 
 उत्पत्तिराकरश्छाया गुणदोषाः शुभाशुभम् ।
 
@@ -3600,13 +3677,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सिंहलं प्रथमं क्षेत्रं तत्र कालपुरं परम् ।
 
-अन्ध्रंतृतीयमादिष्टं चतुर्थंतुम्बरं स्मृतम् ॥ ४७४ ॥
+अन्ध्रं तृतीयमादिष्टं चतुर्थं तुम्बरं स्मृतम् ॥ ४७४ ॥
 
 सिंहले तु भवेद् रक्तं पद्मरागमनुत्तमम् ।
 
 पीतं कालपुरोद्भूतं कुरुविन्दमिति स्मृतम् ॥ ४७५ ॥
 
-अशोकपल्लवच्छायमन्ध्रेसौगन्धिकं विदुः ।
+अशोकपल्लवच्छायमन्ध्रे सौगन्धिकं विदुः ।
 
 तुम्बरच्छायया नीलं नीलगन्धि प्रकीर्त्तितम् ॥ ४७६ ॥
 
@@ -3626,7 +3703,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कर्करं शर्करायुक्तं पशुबन्धुविनाशकृत् ॥ ४८० ॥
 
-दुग्धेन च समालिप्तंलशुनापटमुच्यते ।
+दुग्धेन च समालिप्तं लशुनापटमुच्यते ।
 
 अशोभनं तदुद्दिष्टं माणिक्यं मणिकोविदैः ॥ ४८१ ॥
 
@@ -3656,7 +3733,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सारसाक्षी चकोरस्य सन्निपातश्च सप्तधा ।
 
-एते गुणाः फलं छाया सिंहलोत्थमहामणौ॥। ४८८ ॥
+एते गुणाः फलं छाया सिंहलोत्थमहामणौ ॥। ४८८ ॥
 
 सिन्दूर - लोध्रपुष्पाभा गुञ्जा-किंशुकसन्निभाः ।
 
@@ -3664,7 +3741,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अच्छत्वात् क्षीरसच्छाया कुङ्कुमोदकसन्निभा ।
 
-ईषद्रक्ताभवेच्छाया सौगन्धिकमणेरियम् ॥ ४९० ॥
+ईषद्रक्ता भवेच्छाया सौगन्धिकमणेरियम् ॥ ४९० ॥
 
 नीलोत्पलदलप्रख्या लोहवह्निसमप्रभा ।
 
@@ -3688,7 +3765,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 धारणे तस्य सम्पत्तिरायुश्चैव विनश्यति ॥ ४९५ ॥
 
-शर्करामिश्रितं यत् तुतद् विज्ञेयं सशर्करम् ।
+शर्करामिश्रितं यत् तु तद् विज्ञेयं सशर्करम् ।
 
 तस्मिन् धृते दरिद्रत्वं देशत्यागश्च जायते ॥ ४९६ ॥
 
@@ -3724,7 +3801,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 यस्य हस्ते भवेत् तस्य वित्तमायुर्बलं यशः ॥ ५०४ ॥
 
-क्षीरमध्ये क्षिपेन्नीलं दुग्धंचेन्नीलतां व्रजेत् ।
+क्षीरमध्ये क्षिपेन्नीलं दुग्धं चेन्नीलतां व्रजेत् ।
 
 इन्द्रनीलः स विज्ञेयो रविनन्दनवल्लभः ॥ ५०५ ॥
 
@@ -3732,11 +3809,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 आयुश्च महतीं लक्ष्मीमारोग्यं च प्रयच्छति ॥ ५०६ ॥
 
-इती इन्द्रनीलपरीक्षा ॥
+**इती इन्द्रनीलपरीक्षा ॥**
 
-तुरुष्कविषयेऽम्भोधेःसमीपे विषमस्थले ।
+तुरुष्कविषयेऽम्भोधेः समीपे विषमस्थले ।
 
-भवेन्मरकतं रत्नंगुणो दोषोऽस्य कथ्यते ॥ ५०७ ॥
+भवेन्मरकतं रत्नं गुणो दोषोऽस्य कथ्यते ॥ ५०७ ॥
 
 दोषाः सप्त भवन्त्यस्य गुणः पञ्चविधः स्मृतः ।
 
@@ -3774,7 +3851,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 नवशाद्वलसच्छाया शिरीषकुसुमोपमा ॥ ५१६ ॥
 
-एवमष्टौसमाख्याताश्छाया मरकताश्रयाः ।
+एवमष्टौ समाख्याताश्छाया मरकताश्रयाः ।
 
 छायाभिर्युक्तमेताभिः श्रेष्ठं मरकतं भवेत् ॥ ५१७ ॥
 
@@ -3782,7 +3859,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अनर्घ्यं तं मरकतं प्राहुः सर्वविषापहम् ॥ ५१८ ॥
 
-  इति मरकतपरीक्षा ॥
+** इति मरकतपरीक्षा ॥**
 
 हिमालये सिंहले च विन्ध्ये तापीतटे तथा ।
 
@@ -3814,25 +3891,25 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पुष्परागमिति ख्यातं रत्नं रत्नपरीक्षकैः ॥ ५२५ ॥
 
-इति पुष्परागपरीक्षा ॥
+**इति पुष्परागपरीक्षा ॥**
 
 सि[^37]तं च धूम्रसङ्काशमीषत्कृष्णं सितं तु यत् ।
 
-[^37]: "१ B सिताभ्रधूम ।"
+[^37]: # "१ B सिताभ्रधूम ।"
 
 वैडूर्यं नाम तत् प्रोक्तं मा[^38]र्जारनयनोपमम् ॥ ५२६ ॥
 
-[^38]: "२ B रत्नं वर्णपरीक्षकैः।"
+[^38]: # "२ B रत्नं वर्णपरीक्षकैः ।"
 
-इति वैडूर्यपरीक्षा ॥
+**इति वैडूर्यपरीक्षा ॥**
 
 मधुबिन्दुसमं वाऽपि गोमूत्रादिसमप्रभम् ।
 
 गोमेदकं तदाख्यातं रत्नं सोममहीभुजा ॥ ५२७ ॥
 
-इति गोमेदपरीक्षा ॥
+**इति गोमेदपरीक्षा ॥**
 
-सेतौसागरमध्ये तु जायते वल्लरी तु या ।
+सेतौ सागरमध्ये तु जायते वल्लरी तु या ।
 
 विद्रुमाख्या सुरक्ता सा दुर्लभा रत्नरूपिणी ॥ ५२८ ॥
 
@@ -3840,7 +3917,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रवालं नाम तद् रत्नं वर्णाढ्यं मन्दकान्तिकम् ॥ १२९ ॥
 
-इति विद्रुमपरीक्षा ॥
+**इति विद्रुमपरीक्षा ॥**
 
 पद्मरागस्य नीलस्य ये दोषाः परिकीर्तिताः।
 
@@ -3870,9 +3947,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 आयुर्लक्ष्मीं जयं कीर्त्तिं ल[^39]भते रत्नसङ्ग्रहात् ॥ ५३६ ॥
 
-[^39]: "१ B प्रयच्छन्ति मनीषिताम् ।"
+[^39]: # "१ B प्रयच्छन्ति मनीषिताम् ।"
 
-इति रत्नपरीक्षा ॥
+**इति रत्नपरीक्षा ॥**
 
 स्तोकस्तोकेन पूर्यन्ते तडागा जलबिन्दुभिः ।
 
@@ -3890,15 +3967,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कोशवान् सुखमाप्नोति कोशहीनस्तु सीदति ॥ ५४० ॥
 
-इति कोशाध्यायः ॥ ४ ॥
+**इति कोशाध्यायः ॥ ४ ॥**
 
-जलदुर्गंगिरिदुर्गंदुर्गंपाषाणनिर्मितम् ।
+जलदुर्गं गिरिदुर्गं दुर्गं पाषाणनिर्मितम् ।
 
-इष्टिकाभिः कृतं दुर्गंदुर्गंस्यान्मृत्तिकामयम् ॥ ५४१ ॥
+इष्टिकाभिः कृतं दुर्गं दुर्गं स्यान्मृत्तिकामयम् ॥ ५४१ ॥
 
-वनदुर्गंमरुदुर्गंदुर्गंदारुविनिर्मितम् ।
+वनदुर्गं मरुदुर्गं दुर्गं दारुविनिर्मितम् ।
 
-नरदुर्गंच नवमं तेषां वक्ष्यामि लक्षणम् ॥ ५४२ ॥
+नरदुर्गं च नवमं तेषां वक्ष्यामि लक्षणम् ॥ ५४२ ॥
 
 अगाधेनाथ तोयेन वेष्टितं जलजं भवेत् ।
 
@@ -3912,29 +3989,29 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 इष्टिका दुर्गमाख्यातं परिखावेष्टितं महत् ॥ ५४९ ॥
 
-मृदा विरचितं यत् तुतद् दुर्गंमृत्तिकामयम् ।
+मृदा विरचितं यत् तु तद् दुर्गं मृत्तिकामयम् ।
 
-वनदुर्गंसमाख्यातं धनं कण्टकशाखिभिः ॥ ५४६ ॥
+वनदुर्गं समाख्यातं धनं कण्टकशाखिभिः ॥ ५४६ ॥
 
-अन्तःस्थैःसञ्चितेतीर्थं बहिःरथानां चदुर्लभम् ।
+अन्तःस्थैः सञ्चिते तीर्थं बहिःरथानां च दुर्लभम् ।
 
 मरुदुर्गं समाख्यातं मरुदेशसमं यतः ॥ ५४७ ॥
 
-दारुभिर्वेणुभिः क्लुप्तं दुर्गंदारुमयं स्मृतम् ।
+दारुभिर्वेणुभिः क्लुप्तं दुर्गं दारुमयं स्मृतम् ।
 
 शस्त्रहस्तैर्महायोधैर्निर्मितं नरदुर्गकम् ॥ ५४८ ॥
 
-एतेषामुत्तमं दुर्गंगिरिजं जलजं तथा ।
+एतेषामुत्तमं दुर्गं गिरिजं जलजं तथा ।
 
 मध्यमानीतराण्याहुः कनिष्ठं स्याच्च दारुजम् ॥ ५४९ ॥
 
 दुर्गे यन्त्राणि कार्याणि नाना प्रहरणानि च ।
 
-दुर्गद्वाराणि गुप्तानि कार्याण्यपि च भूभुजा ॥ ५५०॥
+दुर्गद्वाराणि गुप्तानि कार्याण्यपि च भूभुजा ॥ ५५० ॥
 
 सञ्चयश्चात्र सर्वेषामायुधानां विधीयते ।
 
-अश्मनां च प्रभूतानां सिकतानां तथैव च ॥ ५५१॥
+अश्मनां च प्रभूतानां सिकतानां तथैव च ॥ ५५१ ॥
 
 कुद्दालरज्जुवेत्राणां पिटकानां तथैव च।
 
@@ -3942,21 +4019,21 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 औषधानां च सर्वेषां वादिश्राणां तथैव च ।
 
-यवसानां प्रभूतानामिन्धनानां च सञ्चयः ॥ ५५३॥
+यवसानां प्रभूतानामिन्धनानां च सञ्चयः ॥ ५५३ ॥
 
 गुडस्य सर्वतैलानां घृतस्य मधुनस्तथा ।
 
-तथा च सर्वधान्यानां पशुगोमययोरपि ॥ ५५४॥
+तथा च सर्वधान्यानां पशुगोमययोरपि ॥ ५५४ ॥
 
 कुम्भेष्वाशीविषा धार्या व्याघ्रा सिंहाश्च बन्धनैः ।
 
-अन्यानि सर्ववस्तूनि दुर्गे सञ्चिनुयान्नृपः ॥ ५५५॥
+अन्यानि सर्ववस्तूनि दुर्गे सञ्चिनुयान्नृपः ॥ ५५५ ॥
 
-  इति दुर्गाध्यायः ॥ १ ॥
+** इति दुर्गाध्यायः ॥ १ ॥**
 
 मौलं भृत्यं तथा मैत्रं श्रैणमाटविकं बलम् ।
 
-अमित्रमपरं षष्ठंसप्तमं नोपलभ्यते ॥ ५५६ ॥
+अमित्रमपरं षष्ठं सप्तमं नोपलभ्यते ॥ ५५६ ॥
 
 वंशक्रमागतं मौलं भृत्यं द्रविणदानतः ।
 
@@ -3974,13 +4051,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तेषां बलं तु विज्ञेयममित्रजबलं बुधैः ॥ ५६० ॥
 
-सन्निधौ न च तत् कार्यंविश्वसेन्न कदाचन।
+सन्निधौ न च तत् कार्यं विश्वसेन्न कदाचन।
 
-युद्धेषु पुरतः कार्यंनृपैर्युद्धविशारदैः ॥५६१॥
+युद्धेषु पुरतः कार्यं नृपैर्युद्धविशारदैः ॥५६१॥
 
 लोहचर्मविनिर्माणाः कार्पासरचिता अपि ।
 
-शल्कैश्चघटिताः कार्याः सन्नाहाः सुदृढाः सदा ॥ ५६२ ॥
+शल्कैश्च घटिताः कार्याः सन्नाहाः सुदृढाः सदा ॥ ५६२ ॥
 
 बाहुत्राणैः शिरस्त्राणैरङ्गत्राणैश्च संवृतम् ।
 
@@ -3996,9 +4073,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मौले बले तु ये मुख्यास्तेषां कुर्वीत पाननम् ।
 
-रत्नैर्विभूषणैर्वस्त्रैःप्रियैर्वाक्यैर्मनोहरैः ॥ ५६६ ॥
+रत्नैर्विभूषणैर्वस्त्रैः प्रियैर्वाक्यैर्मनोहरैः ॥ ५६६ ॥
 
-वृत्तिं तेषां प्रकुर्वीतयथायोग्यं सुपुष्कलाम् ।
+वृत्तिं तेषां प्रकुर्वीत यथायोग्यं सुपुष्कलाम् ।
 
 ग्रामेण ग्रामयुग्मेन ग्रामैर्वा हेमसञ्चयैः ॥ ५६७ ॥
 
@@ -4022,7 +4099,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अलसानायुधैर्हीनान् दण्डयेत् तान् महीपतिः ॥ ५७२ ॥
 
-इति पदातिलक्षणम् ॥
+**इति पदातिलक्षणम् ॥**
 
 सैन्धवैर्यवनोद्भूतैः काम्बोजप्रभवैरपि ।
 
@@ -4212,7 +4289,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अश्वकायगतान् सर्वान् ग्रहानुच्चाटयत्यलम् ॥ ६१९ ॥
 
-इत्यश्ववैद्यकम् ॥
+**इत्यश्ववैद्यकम् ॥**
 
 वारणैर्भद्रजातीयैः कालिङ्गवनजन्मभिः ।
 
@@ -4292,19 +4369,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ज्वरो नेरषु विख्यातः पालकः[^40] सामजन्मसु ।
 
-[^40]: "C E पाकलः"
+[^40]: # "C E पाकलः"
 
 अभितापस्तुरङ्गेषु वारको[^41] रासभेष्वसौ ॥ ६३९ ॥
 
-[^41]: "D खरको ।"
+[^41]: # "D खरको ।"
 
 उष्ट्रेष्वलसकः[^42] प्रोक्तो गोषु प्रोक्तस्तथेश्वरः ।
 
-[^42]: "D° ष श्वास° ।"
+[^42]: # "D° ष श्वास° ।"
 
 अक्षको[^43] दन्दशूकेषु हारिद्रो महिषेष्वपि ॥ ६४० ॥
 
-[^43]: "A अन्तिको ।"
+[^43]: # "A अन्तिको ।"
 
 अजाविके प्रलापः स्यान्मृगरोगो मृगेष्वपि ।
 
@@ -4324,13 +4401,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पालकस्य[^44] ततश्चास्य चिकित्सा नोपदिश्यते ।
 
-[^44]: "CE पाकल° । "
+[^44]: # "CE पाकल° । "
 
 अन्तर्धातून् पुरो व्याप्य बहिः पश्चात् प्रकाशते ॥ ६४५ ॥
 
 दुश्चिकित्सस्ततश्चासौ पालको[^45] मृत्युरूपकः ।
 
-[^45]: "CE पाकलो"
+[^45]: # "CE पाकलो"
 
 आचार्यैर्बहुभिस्तस्माच्चिकित्सा नास्य वर्णिता ॥ ६४६ ॥
 
@@ -4450,7 +4527,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
    पर्णिका मुद्गपर्णी माषपर्णी । उग्रगन्धा वचा-रसोनौ । रसपञ्चकः । पूतिद्वयं कृष्णा पिप्पली । वासा आटरूषकः । ग्रन्थिकं पिप्पलीमूलम् । कट्फलं काश्मर्यम् । सौराष्ट्रिका तुवरमृत्तिका । त्रिवृतं त्रिस्नेहम् । श्रीवेष्टः सरलद्रुमनिर्यासः ॥ ६७७ ॥
 
-  इति गजौषधिनिघण्टुः ।
+** इति गजौषधिनिघण्टुः ।**
 
 मुख्यं दन्तिबलं राज्ञां समरे विजयैषिणाम् ।
 
@@ -4482,7 +4559,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कुर्यादतन्द्रितो राजा शत्रुसंहरणोद्यतः ॥ ६८४ ॥
 
-इति बलाध्यायः ॥ ६ ॥
+**इति बलाध्यायः ॥ ६ ॥**
 
 कुलीनं च सुशीलं च सुखे दुःखे च सम्मतम् ।
 
@@ -4532,7 +4609,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रभुशक्तिर्हि सा ज्ञेया सप्रभा महिमोदया ॥ ६९६ ॥
 
- इति प्रभुशक्त्यध्यायः ॥ ८॥
+** इति प्रभुशक्त्यध्यायः ॥ ८॥**
 
 कार्यस्य साधनोपायाः सहायास्तत्कृतौ क्षमाः ।
 
@@ -4632,7 +4709,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 यया शक्त्या युतः कार्य(र्ये) मन्त्रशक्तिस्तु सा स्मृता ॥ ७२१॥
 
-  इति मन्त्रशक्त्यध्यायः ॥ ९ ॥
+** इति मन्त्रशक्त्यध्यायः ॥ ९ ॥**
 
 भूमिं द्रव्यं गजानश्वान् रत्नानि विजयं तथा ।
 
@@ -4646,7 +4723,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उत्साहशक्तिः सा ज्ञेया नृपाणां भूतिमिच्छताम् ॥ ७२४ ॥
 
- इत्युत्साहशक्त्यध्यायः ॥ १० ॥
+** इत्युत्साहशक्त्यध्यायः ॥ १० ॥**
 
 नाक्रान्तिसाध्यो यः कश्चिद् देशकालाद्यपेक्षया ।
 
@@ -4680,11 +4757,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दत्त्वा यः क्रियते सन्धिरुपहारः स उच्यते ॥ ७३२ ॥
 
-इति सन्ध्यध्यायः ॥ ११ ॥
+**इति सन्ध्यध्यायः ॥ ११ ॥**
 
 सुयत्नेन सहायेन सामर्थ्येन बलेन च ।
 
-मन्त्रैर्हीनेन भूपालः सार्द्धं कुर्वीत विग्रहम् ॥ ७३३ ॥
+मन्त्रैर्हीनेन भूपाल: सार्द्धं कुर्वीत विग्रहम् ॥ ७३३ ॥
 
 कामजो लोभजश्चैव भूभवो मानसम्भवः ।
 
@@ -4722,7 +4799,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स प्रोक्तः शास्त्रतत्त्वज्ञैरेकद्रव्याभिलाषुकः ॥ ७४२ ॥
 
- इति विग्रहाध्यायः ॥ १२ ॥
+** इति विग्रहाध्यायः ॥ १२ ॥**
 
 दैवोपहतकोशश्च व्याधिना बाधितोऽपि वा ।
 
@@ -4768,7 +4845,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सहसा क्रियते यात्रा सा भवेच्छ्रीघ्रगा भृशम् ॥ ७५३ ॥
 
-इति यात्राभेदाः ॥
+**इति यात्राभेदाः ॥**
 
 देशं कालं तथा मित्रं निमित्तं बलमात्मनः ।
 
@@ -4800,7 +4877,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रतिपद् गमने शस्ता द्वितीया क्षेमदा भवेत् ।
 
-तृतीया धनलाभाय चतुर्थी निन्दिता सदा॥ ७६१॥
+तृतीया धनलाभाय चतुर्थी निन्दिता सदा ॥ ७६१ ॥
 
 पञ्चमी श्रीकरी ज्ञेया षष्ठी यानेऽतिकुत्सिता ।
 
@@ -4842,17 +4919,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ग्रहाणां च बलं प्राप्य गच्छेदिच्छन् जयं नृपः ॥ ७७१ ॥
 
-गुरुर्लग्ने बुधस्तुर्येपञ्चमे भृगुनन्दनः।
+गुरुर्लग्ने बुधस्तुर्ये पञ्चमे भृगुनन्दनः।
 
 षष्ठे कुजार्कतनयौ तृतीये चण्डदीधितिः ॥ ७७२ ॥
 
 चन्द्रमा दशमो यस्य स यात्रायां जयी भवेत् ।
 
-क्षेमेण गन्तव्यं तस्य क्षेमेण च निवर्तते॥७७३॥
+क्षेमेण गन्तव्यं तस्य क्षेमेण च निवर्तते ॥ ७७३ ॥
 
 बुधजीवसितानां च यदि केन्द्रत्रिकोणगः ।
 
-एको भवेद् ग्रहो यस्य तस्य यात्रा सुखप्रदा ॥ ७७४॥
+एको भवेद् ग्रहो यस्य तस्य यात्रा सुखप्रदा ॥ ७७४ ॥
 
 द्वौ चेत् केन्द्रत्रिकोणस्थावतियोगः स कथ्यते ।
 
@@ -4900,7 +4977,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मैत्राश्वि-पुष्य-हस्ताश्च सर्वदिक्षु शुभावहाः ।
 
-यात्रायां सुप्रशस्तास्ते सर्वद्वारिकसंज्ञिताः ॥ ७८६ ॥
+यात्रायां सुप्रशस्तास्ते सर्वद्वारिकसञ्ज्ञिताः ॥ ७८६ ॥
 
 गच्छेत् प्राचीमुदीचीं च कृत्तिकादिषु सप्तसु ।
 
@@ -4928,7 +5005,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 धनिष्ठादिषु धिष्ण्येषु वायव्यामथ वारुणीम् ।
 
-ककुभंगच्छता नैव परिघो लङ्घितो भवेत् ॥ ७९३ ॥
+ककुभं गच्छता नैव परिघो लङ्घितो भवेत् ॥ ७९३ ॥
 
 ज्येष्ठा प्राचीदिशं हन्ति गच्छतां कामितं फलम् ।
 
@@ -4936,9 +5013,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उत्तराफाल्गुनी तद्वदुत्तरां ककुभं सदा ।
 
-यातॄणां च भवेत्क्लेशः सन्देहेन निवर्त्तनम् ॥ ७९५ ॥
+यातॄणां च भवेत् क्लेशः सन्देहेन निवर्त्तनम् ॥ ७९५ ॥
 
-इति सर्वदिगृक्षाणि ।
+**इति सर्वदिगृक्षाणि ।**
 
 शुक्रादित्यदिने गन्ता वर्जयेत् पश्चिमां दिशम् ।
 
@@ -4952,7 +5029,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तस्मादस्मिन् न गन्तव्यं वारशूले विचक्षणैः ॥ ७९८ ॥
 
-इति वारशूलम् ॥
+**इति वारशूलम् ॥**
 
 आदित्यस्य दिने वर्ज्या धनिष्ठा कृत्तिका मघा ।
 
@@ -4974,7 +5051,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मन्दवारे त्यजेत् प्राज्ञो यात्रायां पार्थिवोत्तमः ॥ ८०३ ॥
 
- इति ऋक्षदोषवारणानि ॥
+** इति ऋक्षदोषवारणानि ॥**
 
 बहुलासु दधि प्राश्यं ब्राह्म्यां च घृतपायसम् ।
 
@@ -4994,7 +5071,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मूले मूलकमास्वाद्यं पूर्वाषाढे घनं दधि ।
 
-उत्तरायांजलं शीतं श्रवणे श्लक्ष्णसक्तवः ॥ ८०८ ॥
+उत्तरायां जलं शीतं श्रवणे श्लक्ष्णसक्तवः ॥ ८०८ ॥
 
 शालिभक्तं धनिष्ठायां वारुणर्क्षे च शष्कुलीः ।
 
@@ -5004,7 +5081,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 भरण्यां सतिलं तोयं प्राश्य याता सुखी भवेत् ॥ ८१० ॥
 
- इति नक्षत्रदोहदम् ॥
+** इति नक्षत्रदोहदम् ॥**
 
 पुष्पवत्यां महादेव्यामकाले वृष्टिदर्शने ।
 
@@ -5022,7 +5099,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शशे दिगम्बरे सर्पे न गन्तव्यं सुखार्थिना ॥ ८१४ ॥
 
-खरोष्ट्रमहिषारूढाः संन्यासिश्रावकान्त्यजाः ।
+खरोष्ट्रमहिषारूढाः सन्न्यासिश्रावकान्त्यजाः ।
 
 कर्णनासादिभिर्हीना विकेशाः कृष्णवाससः ॥ ८१५ ॥
 
@@ -5034,7 +5111,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 आत्मनो दौर्मनस्ये च न यात्रा सिद्धिदा भवेत् ॥ ८१७ ॥
 
-  इत्यमङ्गलानि शकुनानि ॥
+** इत्यमङ्गलानि शकुनानि ॥**
 
 पूर्णकुम्भे तथाऽऽदर्शे दध्नि मद्ये तथाऽऽमिषे ।
 
@@ -5060,7 +5137,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उद्यतानां रिपोर्घाते पापर्द्धौ शोभनाः सदा । ८२३ ॥
 
-इति यात्रायां मङ्गलप्रदानि शकुनानि ॥
+**इति यात्रायां मङ्गलप्रदानि शकुनानि ॥**
 
 श्वा यात्रासमये गच्छेद् वामं दक्षिणतो यदि ।
 
@@ -5098,7 +5175,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 उपस्थितः प्रमुञ्चेच्चेत् सारमेयः सुखप्रदः ॥ ८३२ ॥
 
-इति श्वशकुनानि ॥
+**इति श्वशकुनानि ॥**
 
 शान्तदीप्तप्रभेदेन ज्ञातव्याः ककुभः क्रमात् ।
 
@@ -5112,7 +5189,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शेषाः शान्ता दिशः प्रोक्ताश्चतस्रः पूर्वसूरिभिः ॥ ८३५ ॥
 
-निष्फलं भस्मनःस्थानमङ्गारस्त्रासमावहेत् ।
+निष्फलं भस्मनः स्थानमङ्गारस्त्रासमावहेत् ।
 
 ज्वाले मृत्युर्भवेद् धूमस्थाने दुःखं विनिश्चितम् ॥। ८३६ ॥
 
@@ -5128,7 +5205,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तृतीये धनदस्थाने प्रत्यूषे दिशि शूलिनः ॥ ८३९ ॥
 
-शिवा रटन्ति दीप्तेषु फलमीरितमावहेत्।
+शिवा रटन्ति दीप्तेषु फलमीरितमावहेत् ।
 
 शिवा शान्ते ज्वलन्तीषु शुभं शंसति निश्चितम् ॥ ८४० ॥
 
@@ -5156,7 +5233,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मूर्द्धस्थाने शुभं वक्ति सर्वदा बलिभोजनः ॥ ८४६ ॥
 
-इति शिवा-पल्ली-काकशकुनानि ॥
+**इति शिवा-पल्ली-काकशकुनानि ॥**
 
 पोतकीस्थानमालोक्य तोरणानि प्रकल्पयेत् ।
 
@@ -5194,11 +5271,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सव्यसाची च पार्थश्च श्वेताश्वोऽथ धनञ्जयः ॥ ८५५ ॥
 
-   "ॐ शिवे ज्वालामुखि बलिं गृहाण स्वाहा ॥ ॐ शिवे शिवदूति भगवति चण्डे इदमर्घ्यं मया लीलया समर्पितंगृहाण गृहाण ॥ आगच्छ वायुवेगेन शुभं कुरु कुरु स्वाहा ॥ "
+   "ॐ शिवे ज्वालामुखि बलिं गृहाण स्वाहा ॥ ॐ शिवे शिवदूति भगवति चण्डे इदमर्घ्यं मया लीलया समर्पितं गृहाण गृहाण ॥ आगच्छ वायुवेगेन शुभं कुरु कुरु स्वाहा ॥ "
 
-    अनेन मन्त्रेण त्रिपथे चतुष्पथे वा[^46]शिवायै बलिमर्घ्यं दद्यात् । तोरणेषु नामान्येतानि कीर्तयेत् ।
+    अनेन मन्त्रेण त्रिपथे चतुष्पथे वा[^46] शिवायै बलिमर्घ्यं दद्यात् । तोरणेषु नामान्येतानि कीर्तयेत् ।
 
-[^46]: "BC वा बलि ० ।"
+[^46]: # "BC वा बलि ० ।"
 
 सिद्धिदा जायते देवी पाण्डुपुत्रोपकारिणी ॥। ८५७ ॥
 
@@ -5226,7 +5303,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पोतकीशकुनज्ञानं कीर्तितं सोमभूभुजा ॥ ८६३ ॥
 
-   इति पोतकीशकुनम् ॥
+** इति पोतकीशकुनम् ॥**
 
 फल-पुष्प-पलाशाढ्यं क्षीरिणं वा महीरुहम् ।
 
@@ -5254,17 +5331,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वृक्षस्था[^47]नाय नमः इत्यासनमन्त्रः । ॐ ह्रीं श्रीं चा[^48]मुण्डे हुं नमोऽस्मिन् वृक्षे अवतर स्वाहा ।
 
-[^47]: "BC वृषभस्था ०"
+[^47]: # "BC वृषभस्था ०"
 
-[^48]: "CE प्रं चा ० । "
+[^48]: # "CE प्रं चा ० । "
 
 ध्यायन्ननेन मन्त्रेण चण्डीं वृक्षेऽवतारयेत् ।
 
 पिङ्गलायुगलस्यापि मन्त्रोऽयं कथ्यतेऽधुना ॥ ८७० ॥
 
-    ॐ पिङ्गले मेखले रेवति रात्रिचारिणि ब्रह्मपुत्रि सत्यमेतद् ब्रूहि मे स्वाहा । इत्यावाहनमन्त्रः । ॐ श्रीं ह्रीं ह्रूं चलि वौषट्[^49]इति मूलमन्त्रः ।
+    ॐ पिङ्गले मेखले रेवति रात्रिचारिणि ब्रह्मपुत्रि सत्यमेतद् ब्रूहि मे स्वाहा । इत्यावाहनमन्त्रः । ॐ श्रीं ह्रीं ह्रूं चलि वौषट्[^49] इति मूलमन्त्रः ।
 
-[^49]: "CE ॐ ह्रीं ह्रीं हूं वलि वलि वौषट् ।"
+[^49]: # "CE ॐ ह्रीं ह्रीं हूं वलि वलि वौषट् ।"
 
 ॐ सिद्धचामुण्डे कृष्णपिङ्गले स्वाहा । ॐ नमो भगवति कालरात्रि मन्त्रमूर्त्ति महेश्वरि चामुण्डे प्रजापालनि योगेश्वरि आगच्छ आगच्छ एह्येहि
 
@@ -5282,7 +5359,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 घूकध्वजां[^50] शूलहस्तां रक्तपां मुण्डमालिनीम् ॥ ८७३ ॥
 
-[^50]: "D शूलध्वजसदास्तां रक्ताक्तमु० ।"
+[^50]: # "D शूलध्वजसदास्तां रक्ताक्तमु॰ ।"
 
 वसासृग्रचितां कृष्णां गजसिंहाजिनाम्बराम् ।
 
@@ -5308,7 +5385,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 इत्युक्त्वा पृष्ठतः कृत्वा[^51] प्रदीप्तां ककुभं बुधः ॥ ८७९ ॥
 
-[^51]: "D कुर्याद् दीप्ताशां चतुरो बुधः ॥"
+[^51]: # "D कुर्याद् दीप्ताशां चतुरो बुधः ॥"
 
 शृणुयाद् विरुतं तस्या स्तथा वीक्षेत चेष्टितम् ।
 
@@ -5316,11 +5393,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पार्थिवो वाडिवस्त्वाप्यः[^52] कैलकस्तैजसः पुनः ।
 
-[^52]: "D वायव० ।"
+[^52]: # "D वायव॰ ।"
 
-कुरङ्गुली[^53]समीरोत्थो वीशः किंशुरिवाम्बरः ॥ ८८१ ॥
+कुरङ्गुली[^53] समीरोत्थो वीशः किंशुरिवाम्बरः ॥ ८८१ ॥
 
-[^53]: "कुरु० ।"
+[^53]: # "कुरु॰ ।"
 
 एते पञ्च स्वराः ख्याताः पिङ्गलाख्यस्य पक्षिणः ।
 
@@ -5338,7 +5415,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पार्थिवः ॥ किच् १ । किचि २ । किचिचि ३ । किचि किचि ४ । किचि किचिचि ५ आप्यः ॥ कुग् १ । कुकु २ । कुकुकु ३
 
-| कुकुकुकु ४ | कुकुकुकुकु ५ तैजसः | चीच् १ | चीचु २ | चीचुचु ३ | चीचुचीचु ४ | चीचुचीचुचु ५ वायुः ॥ सृक् १ |
+। कुकुकुकु ४ । कुकुकुकुकु ५ तैजसः । चीच् १ । चीचु २ । चीचुचु ३ । चीचुचीचु ४ । चीचुचीचुचु ५ वायुः ॥ सृक् १ ।
 
 चिच २ । कुसुरु ३ । कीः कीसरु ४ । चुरुचुरु चुरु ५ आकाशः॥
 
@@ -5446,9 +5523,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कुर्वन्[^54] लाभं सुखं कीर्तिं जयं शंसति पिङ्गलः ॥ ९१० ॥
 
-[^54]: "D अतुलं च सुखं ।"
+[^54]: # "D अतुलं च सुखम् ।"
 
-अवतीर्य निजस्थानात् कुर्वन्नादौ शुभावहौ ।
+अवतीर्य निजस्थानात् कुर्वन् नादौ शुभावहौ ।
 
 कनिष्ठं फलमाचष्टे क्लेशाल्लाभं विहङ्गमः ॥ ९११ ॥
 
@@ -5476,11 +5553,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कुर्वन् शान्ते शुभादन्यनादं शंसत्यशोभनम् ॥ ९१७ ॥
 
-वा[^55]मतः शान्तदिग्वर्ती[^56]कुर्वाणः शोभनं ध्वनिम् ।
+वा[^55]मतः शान्तदिग्वर्ती[^56] कुर्वाणः शोभनं ध्वनिम् ।
 
-[^55]: "C वासतः । "
+[^55]: # "C वासतः । "
 
-[^56]: "D ०दिग्भागे"
+[^56]: # "D ०दिग्भागे"
 
 शोभनं फलमाचष्टे चिरकालेन पिङ्गलः ॥ ९१८ ॥
 
@@ -5488,7 +5565,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पिङ्गला प्रीतिमाचष्टे सुखं लाभं जयं यशः ॥ ९१९ ॥
 
-   इति पिङ्गलाशकुनम् ॥
+** इति पिङ्गलाशकुनम् ॥**
 
 अर्चयित्वा गणाधीशं सर्वविघ्नविनाशनम् ।
 
@@ -5514,7 +5591,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शृण्वन्तीभिः फलं ज्ञेयं तद्वाक्यार्थविचारतः ॥ ९२५ ॥
 
-चण्डालनिलयेऽप्येवं श्रवणेबोधने क्रमः ।
+चण्डालनिलयेऽप्येवं श्रवणे बोधने क्रमः ।
 
 यद् ब्रूयुर्वचनं तत्र तत् तथा न तदन्यथा ॥ ९२६ ॥
 
@@ -5522,17 +5599,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शकुनं वर्णितं सम्यक् सोमेश्वरमहीभुजा ॥ ९२७ ॥
 
- इत्युपश्रुतिशकुनम् ॥ इति यात्राध्यायः ॥ १३॥
+** इत्युपश्रुतिशकुनम् ॥ इति यात्राध्यायः ॥ १३ ॥**
 
-अवृष्ट्यातोयरहिते दुर्भिक्षे मरकान्विते ।
+अवृष्ट्या तोयरहिते दुर्भिक्षे मरकान्विते ।
 
 परेषां दुःस्थिते देशे नैव यायात् कथञ्चन ॥ ९२८ ॥
 
 परस्परविरोधेन क्षीयमाणेषु शत्रुषु ।
 
-तद्विनाशो भवेद् यावत् तावत् तिष्ठतु[^57]बुद्धिमान् ॥ ९२९ ॥
+तद्विनाशो भवेद् यावत् तावत् तिष्ठतु[^57] बुद्धिमान् ॥ ९२९ ॥
 
-[^57]: "ABCE तिष्ठेत "
+[^57]: # "ABCE तिष्ठेत "
 
 स्वस्थासनमुपेक्षाख्यं मार्गरोधासनं तथा ।
 
@@ -5540,13 +5617,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रमणीयासनं चान्यत् तथा च निकटासनम् ।
 
-दूरमार्गासनं चैव प्रलोभाख्यं तथैव च ॥ ९३१॥
+दूरमार्गासनं चैव प्रलोभाख्यं तथैव च ॥ ९३१ ॥
 
 पराधीनासनं चैतद् दशमं परिकीर्तितम् ।
 
 इतोऽधिकं न दृश्येत नीतिज्ञैरन्यदा[^58]सनम् ॥ ९३२ ॥
 
-[^58]: " D थास ।"
+[^58]: # " D थास ।"
 
 निष्कण्टके तथा राज्ये संहते वैरिमण्डले ।
 
@@ -5562,19 +5639,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 नद्याः पूर्णप्रवाहेण गमनं रोधितं यदि ।
 
-तेन दोषेण यत् स्थानं मार्गरोधासनं स्मृतम् ॥ ९३६॥
+तेन दोषेण यत् स्थानं मार्गरोधासनं स्मृतम् ॥ ९३६ ॥
 
-दुर्गंग्रहीतुमुद्युक्तो वारयन् यवसादिकम् ।
+दुर्गं ग्रहीतुमुद्युक्तो वारयन् यवसादिकम् ।
 
 तदुपान्ते वसेद् यस्तु दुर्गसाध्यासनं हि तत् ॥ ९३७ ॥
 
 बलादुपार्जिते राष्ट्रे व[^59]शार्थं यत्र तिष्ठति ।
 
-[^59]: " A वासार्थं "
+[^59]: # " A वासार्थं "
 
 तत् स्थानं कथितं राज्ञां राष्ट्रस्वीकरणासनम् ॥ ९३८ ॥
 
-विजिगीषुर्नृपोगत्वा रिपुं हत्वा रणाङ्गणे ।
+विजिगीषुर्नृपो गत्वा रिपुं हत्वा रणाङ्गणे ।
 
 रम्यां वसतिमालोक्य यत्र तिष्ठति सानुगः ॥ ९३९ ॥
 
@@ -5584,17 +5661,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दूरस्थस्य रिपो राजा विनाशाय समुद्यतः ।
 
-समीपे यत् स्थितिं कुर्यात् तद् भवेन्निकटासनम् ॥ ९४१॥
+समीपे यत् स्थितिं कुर्यात् तद् भवेन्निकटासनम् ॥ ९४१ ॥
 
 दूरदेशं नृपो गत्वा कृत्वा कार्यमशेषतः ।
 
 विज्ञाय स्वपुरं दूरं यत्र तिष्ठत्यनाकुलम् ॥ ९४२ ॥
 
-वर्षर्त्तुव्यत्ययो यावच्छरत्कालस्यसम्भवः ।
+वर्षर्त्तुव्यत्ययो यावच्छरत्कालस्य सम्भवः ।
 
 तावद् यदुचितं स्थानं दूरमार्गासनं हि तत् ॥ ९४३ ॥
 
-हस्त्यश्व-धन-रत्नानि दुर्गंराष्ट्रं तथैव च ।
+हस्त्यश्व-धन-रत्नानि दुर्गं राष्ट्रं तथैव च ।
 
 किञ्चित्कालं स्थितिः कार्या रिपुं हत्वा ददामि ते ॥ ९४४ ॥
 
@@ -5606,17 +5683,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्राभृतं ते ददामीति प्र[^60]लोभ्य स्थापयेन्नृपम् ॥ ९४६ ॥
 
-[^60]: " B प्रभृतं तन्मनीषिभिः"
+[^60]: # " B प्रभृतं तन्मनीषिभिः"
 
 आशया धार्यमाणस्तु तत्र तिष्ठति यच्चिरम् ।
 
 प्रलोभासनमेवं वा तदाख्यातं मनीषिभिः ॥ ९४७ ॥
 
-स्नेहाद् वा वैरिभावाद् वागन्तुं देशं स्वकं न यः ।
+स्नेहाद् वा वैरिभावाद् वा गन्तुं देशं स्वकं न यः ।
 
 लभते तस्य तत् स्थानं पराधीनासनं स्मृतम् ॥ ९४८ ॥
 
-   इत्यासनाध्यायः ॥ १४ ॥
+** इत्यासनाध्यायः ॥ १४ ॥**
 
 स्वयं हीनबलो राजा जयहेतुं न पश्यति ।
 
@@ -5628,7 +5705,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 महता शत्रुणा यस्तु पीडितोऽल्पबलो नृपः ।
 
-सत्यसन्धं परिज्ञाय तमेवाश्रयते बुधः ॥ ९५१॥
+सत्यसन्धं परिज्ञाय तमेवाश्रयते बुधः ॥ ९५१ ॥
 
 बहून् वा सद्गुणान् वीक्ष्य शत्रुं यस्तु समाश्रयेत् ।
 
@@ -5638,19 +5715,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 गुणहीनं रिपुं ज्ञात्वा श्रयेदन्यं गुणाधिकम् ॥ ९५३ ॥
 
-बलिनंक्रियया युक्तं धर्मज्ञं सत्यवादिनम् ।
+बलिनं क्रियया युक्तं धर्मज्ञं सत्यवादिनम् ।
 
 आश्रयेदीदृशं यस्तु सोऽन्यसंश्रय उच्यते ॥ ९५४ ॥
 
 वैरिणा बलयुक्तेन पीडितो ह्यसमो रिपुः ।
 
-यत् तु संश्रयते दुर्गंदुर्गसंश्रय इष्यते ॥ ९५५ ॥
+यत् तु संश्रयते दुर्गं दुर्गसंश्रय इष्यते ॥ ९५५ ॥
 
-  इत्याश्रयाध्यायः ॥ १५ ॥
+** इत्याश्रयाध्यायः ॥ १५ ॥**
 
 बलिनोर्द्विषतोर्मध्ये वाचाऽऽत्मानं समर्पय[^61]न् ।
 
-[^61]: "ABDE र्पयेत्"
+[^61]: # "ABDE र्पयेत्"
 
 द्वैधीभावेन वर्तेत काकाक्षिवदलक्षितः ॥ ९५६ ॥
 
@@ -5668,15 +5745,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 चित्ते विरोधमाधत्ते वचसा प्रियभाषणम् ।
 
-द्वैधीभावोऽयमाख्यातोमिथ्याचित्तोऽर्थकोविदैः ॥ ९६० ॥
+द्वैधीभावोऽयमाख्यातो मिथ्याचित्तोऽर्थकोविदैः ॥ ९६० ॥
 
 वचसा प्रियमाख्याति कर्मणा वर्त्ततेऽन्यथा ।
 
-द्वैधीभावोऽपरःप्रोक्तो मिथ्यावचनसंज्ञकः ॥ ९६१॥
+द्वैधीभावोऽपरः प्रोक्तो मिथ्यावचनसञ्ज्ञकः ॥ ९६१ ॥
 
-स्तोकं स्तोकं किमप्यादौ कार्यंविश्वासकारणात् ।
+स्तोकं स्तोकं किमप्यादौ कार्यं विश्वासकारणात् ।
 
-करोति भावदुष्टोऽसौ महत् कार्यंविनाशयेत् ॥ ९६२ ॥
+करोति भावदुष्टोऽसौ महत् कार्यं विनाशयेत् ॥ ९६२ ॥
 
 एवं यः कुरुते मिथ्या रिपोर्नाशाय पार्थिवः ।
 
@@ -5686,7 +5763,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 गृहीत्वा यश्चरन् मायी गुप्तं दस्युहितेच्छया ॥ ९६४ ॥
 
-अलक्षितो रिपोर्मन्त्रं भित्त्वास्वस्वामिनेऽर्पयेत् ।
+अलक्षितो रिपोर्मन्त्रं भित्त्वा स्वस्वामिनेऽर्पयेत् ।
 
 यत्र तिष्ठति द्वैविध्यात् स स्यादुभयवेतनः ॥ ९६५ ॥
 
@@ -5694,7 +5771,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अन्येनापि तमुद्दिश्य दत्तं वाजि-गजादिकम् ॥ ९६६ ॥
 
-संवाहंप्रेषयिष्यामि साधयिष्यामि ते रिपुम् ।
+संवाहं प्रेषयिष्यामि साधयिष्यामि ते रिपुम् ।
 
 इति ब्रुवन् विरुद्धाभ्यां द्वाभ्यामर्थं समाहरेत् ॥ ९६७ ॥
 
@@ -5702,11 +5779,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 द्वैधीभावं तमप्याहुर्युग्मप्राभृतकं बुधाः ॥ ९६८ ॥
 
-द्वैधीभावं समालम्ब्यय एवं वर्तते नृपः ।
+द्वैधीभावं समालम्ब्य य एवं वर्तते नृपः ।
 
 विपक्षलक्ष्मीमादत्ते मन्त्ररक्षाविचक्षणः ॥ ९६९ ॥
 
- इति द्वैधीभावाध्यायः ॥ १६ ॥
+** इति द्वैधीभावाध्यायः ॥ १६ ॥**
 
 सन्धिं च विग्रहं चैव यानमासनमाश्रयम् ।
 
@@ -5714,7 +5791,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 बलवान् कोशसम्पन्नो गुणषट्कक्रियाबुधः ।
 
-स कृत्स्नां पृथिवीं भुङ्क्तेदेशकालसहायवित् ॥ ९७१॥
+स कृत्स्नां पृथिवीं भुङ्क्ते देशकालसहायवित् ॥ ९७१ ॥
 
 उपायेषूत्तमं साम भेदो मध्यम इष्यते ।
 
@@ -5728,11 +5805,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अतः सन्देहरूपत्वाद् भेदोऽयं मध्यमः स्मृतः ॥ ९७४ ॥
 
-वित्तस्य संक्षयः पूर्वं सिद्धिर्दैवे व्यवस्थिता ।
+वित्तस्य सङ्क्षयः पूर्वं सिद्धिर्दैवे व्यवस्थिता ।
 
 उपप्रदानमधमं तेन प्रोक्तं मनीषिभिः ॥ ९७५ ॥
 
-लाभार्थंक्रियते युद्धं रणे संशयितो जयः ।
+लाभार्थं क्रियते युद्धं रणे संशयितो जयः ।
 
 राज्यं च जीवितं चैव दण्डः कष्टतमस्ततः ॥ ९७६ ॥
 
@@ -5742,11 +5819,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कुलीनेषु कृतज्ञेषु सार्द्रचित्तेषु साधुषु ।
 
-कार्यार्थेषु च मेधावी पूर्वंसाम प्रयोजयेत् ॥ ९७८ ॥
+कार्यार्थेषु च मेधावी पूर्वं साम प्रयोजयेत् ॥ ९७८ ॥
 
 प्रथमं कर्णसुभगं द्वितीयं दैविकं तथा ।
 
-तृतीयं स्मारकं प्रोक्तं चतुर्थंलोभजं स्मृतम् ॥ ९७९ ॥
+तृतीयं स्मारकं प्रोक्तं चतुर्थं लोभजं स्मृतम् ॥ ९७९ ॥
 
 तथैव पञ्चमं साम निजार्पणमिति स्मृतम् ।
 
@@ -5760,7 +5837,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 क्रियते यच्च नीतिज्ञैः साम तद् दैविकं विदुः ॥ ९८२ ॥
 
-यदासीद् बान्धवं पूर्वंसाम्प्रतं विस्मृतं त्वया ।
+यदासीद् बान्धवं पूर्वं साम्प्रतं विस्मृतं त्वया ।
 
 इति संस्मार्यते यत्र स्मारकं साम तत् स्मृतम् ॥ ९८३ ॥
 
@@ -5770,9 +5847,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 भवत्कार्ये मदीयं स्वं शरीरं च मयार्पितम् ।
 
-इति वागर्पिते साम्निकथितं तन्निजार्पणम् ॥ ९८५॥
+इति वागर्पिते साम्नि कथितं तन्निजार्पणम् ॥ ९८५ ॥
 
-  इति सामाध्यायः ॥ १७ ॥
+** इति सामाध्यायः ॥ १७ ॥**
 
 सामोपायैरसाध्या ये शत्रवो मदमोहिताः ।
 
@@ -5794,7 +5871,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अद्य श्वो वाऽति[^62]तीक्ष्णैश्च किञ्चिन्नाद्यापि बुध्यसे ॥ ९९० ॥
 
-[^62]: "ABC वापि"
+[^62]: # "ABC वापि"
 
 पैशुन्येनाप्यनाख्याप्यहेतुभिः प्रत्ययात्मकैः ।
 
@@ -5802,9 +5879,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 त्वद्द्विषत्प्रेरितो राजा तव मानं हरि[^63]ष्यति ।
 
-[^63]: "DE हनि"
+[^63]: # "DE हनि"
 
-एवं विद्वेष्य यो भेदो मानभङ्गः स वर्णितः ॥९९२ ॥
+एवं विद्वेष्य यो भेदो मानभङ्गः स वर्णितः ॥ ९९२ ॥
 
 धनिकोऽयं महानेव तव किञ्चिन्न दित्सति ।
 
@@ -5816,7 +5893,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 यत्रैवं पिशुनत्वेन भिनत्त्युभयवेतनः ।
 
-धनहानिस्त्वयं भेदो नीतिज्ञैःसमुदाहृतः ॥ ९९५ ॥
+धनहानिस्त्वयं भेदो नीतिज्ञैः समुदाहृतः ॥ ९९५ ॥
 
 न करोति तव स्वामी विश्वासं त्वयि कर्हिचित् ।
 
@@ -5824,21 +5901,21 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 इति विश्वासमुद्भाव्य निजस्वामिहिते रतः ।
 
-यद् भिनत्ति परं बुद्ध्याभेदो बन्धकः स्मृतः ॥ ९९७ ॥
+यद् भिनत्ति परं बुद्ध्या भेदो बन्धकः स्मृतः ॥ ९९७ ॥
 
 विलासी चपलो भोगी रूपवांस्तरुणो विटः ।
 
 अन्तःपुरे मदीयां स्त्रीं कटाक्षैः स्प्र[^64]ष्टुमीक्षते ॥ ९९८ ॥
 
-[^64]: "Aस्पष्ट°, BC सस्पृह° E स्पृह°"
+[^64]: # "A स्पष्ट°, BC सस्पृह° E स्पृह°"
 
 वध्योऽयमिति भूपालो मया सार्द्धममन्त्रयत् ।
 
 इति यं कुरुते भेदं स स्याद् दाराभिलाष[^65]कः ॥ ९९९ ॥
 
-[^65]: " BD °लाषुकः "
+[^65]: # " BD °लाषुकः "
 
-त्वद्भार्यांरूपसम्पन्नां नवयौवनशालिनीम् ।
+त्वद्भार्यां रूपसम्पन्नां नवयौवनशालिनीम् ।
 
 ममाग्रे वर्णयन् राजा सापेक्ष इति लक्षितः ॥ १००० ॥
 
@@ -5858,7 +5935,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 भेदवज्रेण तद् भिन्नं हृदयं प्रतिभूभृतः ॥ १००४ ॥
 
-  इति भेदाध्यायः ॥ १८ ॥
+** इति भेदाध्यायः ॥ १८ ॥**
 
 अर्थभारप्रदानेन स्वाधिकारकुलेन च ।
 
@@ -5866,7 +5943,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 द्विषतां कारणैरेभिर्विरक्ता ये च मन्त्रिणः ।
 
-अमात्याः सचिवाश्चैवतथा सामन्तमान्यकाः ॥ १००६ ॥
+अमात्याः सचिवाश्चैव तथा सामन्तमान्यकाः ॥ १००६ ॥
 
 भृत्याश्च बान्धवाश्चैव ये चान्तर्वर्त्तिनो जनाः ।
 
@@ -5878,7 +5955,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एवं रागविहीना ये स्वकीयाः सचिवादयः ।
 
-तेषामपि प्रयुञ्जीत दानं राज्याभिवृद्धये ॥१००९ ॥
+तेषामपि प्रयुञ्जीत दानं राज्याभिवृद्धये ॥ १००९ ॥
 
 अभीष्टं हायनं देश्यं करजं दन्ति-सप्तिजम् ।
 
@@ -5900,13 +5977,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 राष्ट्रोत्थकरदानं यत् तत् स्मृनं करजं बुधैः ॥ १०१४ ॥
 
-वारणस्य प्रदानं यत् तद् दानं दन्तिसंज्ञितम् ।
+वारणस्य प्रदानं यत् तद् दानं दन्तिसञ्ज्ञितम् ।
 
-हयस्य दानमाख्यातंसप्तिजं नीतिकोविदैः ॥ १०१५ ॥
+हयस्य दानमाख्यातं सप्तिजं नीतिकोविदैः ॥ १०१५ ॥
 
-अगृहीतकरोवाऽपि प्रगृहीतकरोऽपि वा ।
+अगृहीतकरो वाऽपि प्रगृहीतकरोऽपि वा ।
 
-ग्रामः प्रदीयते यत् तुतद् दानं ग्रामजं मतम् ॥ १०१६ ॥
+ग्रामः प्रदीयते यत् तु तद् दानं ग्रामजं मतम् ॥ १०१६ ॥
 
 पुत्रपौत्रप्रपौत्रेण दत्तं नैव विलुप्यते ।
 
@@ -5922,7 +5999,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 वस्त्राण्यतिमनोज्ञानि प्रभूतानि प्रसादतः ।
 
-दीयते यत् तुतद् दानं वसनं परिकीर्त्तितम् ॥ १०२० ॥
+दीयते यत् तु तद् दानं वसनं परिकीर्त्तितम् ॥ १०२० ॥
 
 आसनं चामरं छत्रं यानं सम्माननोचितम् ।
 
@@ -5930,13 +6007,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रौप्य-काञ्चन-रत्नानि सञ्जायन्ते यतो भुवः ।
 
-सा खनिर्दीयते यत् तुतदाकरमितीरितम् ॥ १०२२ ॥
+सा खनिर्दीयते यत् तु तदाकरमितीरितम् ॥ १०२२ ॥
 
 दीयन्ते यत्र निष्काणि प्रभूतानि वराणि च ।
 
 तद् दानं रुक्मजं प्रोक्तमर्थशास्त्रवि[^66]चक्षणैः ॥ १०२३ ॥
 
-[^66]: "D °विशारदैः "
+[^66]: # "D °विशारदैः "
 
 भूषणैर्भूषिता कन्या लक्षणैश्च समन्विता ।
 
@@ -5944,15 +6021,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रूपयौवनसम्पन्ना नृत्यगीतविशारदा ।
 
-वेश्याप्रदीयते यत् तुतद् दानं वैश्यमुच्यते ॥ १०२५ ॥
+वेश्या प्रदीयते यत् तु तद् दानं वैश्यमुच्यते ॥ १०२५ ॥
 
-यत्राढ्याबहवः सन्ति वहित्रस्योपजीविनः ।
+यत्राढ्या बहवः सन्ति वहित्रस्योपजीविनः ।
 
 रत्नाकरस्य वेलायां बहुपण्यप्रचारिणः ॥ १०२६ ॥
 
 अपूर्वोपायनोपेतं पट्टनं बहुवस्तुदम् ।
 
-दीयते यत् तुतद् दानं वैलाकरमिति स्मृतम् ॥ १०२७ ॥
+दीयते यत् तु तद् दानं वैलाकरमिति स्मृतम् ॥ १०२७ ॥
 
 यदसाध्यं हि भेदस्य तद् दानेन प्रसिध्यति ।
 
@@ -5966,7 +6043,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दानशीलो नृपो लोके देववत् पूज्यते जनैः ॥ १०३० ॥
 
-  इति दानाध्यायः ॥ १९ ॥
+** इति दानाध्यायः ॥ १९ ॥**
 
 उपायत्रितयेनापि यो न शक्यो भवेद् रिपुः ।
 
@@ -5976,7 +6053,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तस्माद् दण्डं प्रयुञ्जीत दण्डो हि वशकृन्नृणाम् ॥ १०३२ ॥
 
-बलिष्ठेनतथा कार्या दण्डा द्वादशभेदजाः ।
+बलिष्ठेन तथा कार्या दण्डा द्वादशभेदजाः ।
 
 अशक्तेन त्रयः कार्या एवं पञ्चदश स्मृताः ॥ १०३३ ॥
 
@@ -5986,19 +6063,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 देशनाशश्च शत्रूणां जनाङ्गच्छेदकस्तथा ।
 
-गोग्रहो धान्यहरणो बन्दिग्राहस्तथाऽपरः॥ १०३५ ॥
+गोग्रहो धान्यहरणो बन्दिग्राहस्तथाऽपरः ॥ १०३५ ॥
 
 देशहारो धनादानः सर्वस्वहरणोऽपरः ।
 
 दुर्गभङ्गः स्थानदाहो देशनिर्वासकस्तथा ॥ १०३६ ॥
 
-युद्धावहो महादण्डः शत्रुसंहारकारकः।
+युद्धावहो महादण्डः शत्रुसंहारकारकः ।
 
 उपायानां तुरीयश्च कथितः सोमभूभुजा ॥ १०३७ ॥
 
 वनानि यत्र छेद्य[^67]न्ते भेद्यन्ते च जलाशयाः ।
 
-[^67]: "D छिद्यन्ते भिद्यन्ते"
+[^67]: # "D छिद्यन्ते भिद्यन्ते"
 
 ग्रामाश्च यत्र दह्यन्ते स दण्डो देशनाशकः ॥ १०३८ ॥
 
@@ -6008,17 +6085,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 देशजाः पशवः सर्वे गृह्यन्ते सहसा बलात् ।
 
-दण्डोऽसौगोग्रहो नाम विख्यातः परभूमिषु ॥ १०४० ॥
+दण्डोऽसौ गोग्रहो नाम विख्यातः परभूमिषु ॥ १०४० ॥
 
 गर्भेषु पिहितं धान्यं क्षेत्रसस्यशिखाह[^68]तम् ।
 
-[^68]: "B °खापहं, CE °खापहतं"
+[^68]: # "B °खापहं, CE °खापहतं"
 
-आपणेपुञ्जितं यच्च खले राशीकृतं च यत् ॥ १०४१ ॥
+आपणे पुञ्जितं यच्च खले राशीकृतं च यत् ॥ १०४१ ॥
 
 तत् सर्वं हीयते यत् तु रिपुराष्ट्रेषु संस्थितम् ।
 
-दण्डोऽसौ धान्यहरणोदेशदुर्भिक्षकारकः ॥ १०४२ ॥
+दण्डोऽसौ धान्यहरणो देशदुर्भिक्षकारकः ॥ १०४२ ॥
 
 कुटुम्बिनो गृहस्था ये धनिका व्यवहारिणः ।
 
@@ -6028,13 +6105,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 आत्मसात् क्रियते राष्ट्रं स दण्डो देशहारकः ॥ १०४४ ॥
 
-आक्रम्य सैनिकैर्ग्रामान् बलात्कृत्वा सुसङ्गतिम् ।
+आक्रम्य सैनिकैर्ग्रामान् बलात् कृत्वा सुसङ्गतिम् ।
 
 आहरेत् काञ्चनं दण्डो बला( धना )दानः स उच्यते ॥ १०४५ ॥
 
 महत्या सेनया युक्तः ख्यातं नगरपट्टनम् ।
 
-आवेष्ट्यलुप्यते यत्र धन-धान्य-गवादिकम् ॥ १०४६ ॥
+आवेष्ट्य लुप्यते यत्र धन-धान्य-गवादिकम् ॥ १०४६ ॥
 
 लोहभाण्डानि वस्त्राणि गृहोपकरणानि च ।
 
@@ -6070,7 +6147,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तस्य बाह्यस्थितास्तारा अष्टौ प्राकारसङ्गताः ।
 
-ततो बाह्यस्थिताश्चान्यास्तारा बाह्याः प्रकीर्त्तिताः ॥ १०५५॥
+ततो बाह्यस्थिताश्चान्यास्तारा बाह्याः प्रकीर्त्तिताः ॥ १०५५ ॥
 
 स्तम्भप्राकारवर्तीनि नक्षत्राण्यपराणि हि ।
 
@@ -6086,13 +6163,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 परिखासंस्थितं तोयं खनित्वा परिवाहयेत् ।
 
-सेतुं वा कारयेत् तत्र पूरयेद् वा मृदादिभिः ॥ १०५९॥
+सेतुं वा कारयेत् तत्र पूरयेद् वा मृदादिभिः ॥ १०५९ ॥
 
-यद्यगाधंमहत् तोयं तरेद् वा तन्नवादिभिः ( ? ) ।
+यद्यगाधं महत् तोयं तरेद् वा तन्नवादिभिः ( ? ) ।
 
-एवमुत्तार्य सैन्यानि दुर्गंवारिमयं जयेत् ॥ १०६० ॥
+एवमुत्तार्य सैन्यानि दुर्गं वारिमयं जयेत् ॥ १०६० ॥
 
-दुरारोहं तु गिरिजं दुर्गमावेष्ट्यसेनया ।
+दुरारोहं तु गिरिजं दुर्गमावेष्ट्य सेनया ।
 
 अप्रवेशात् तु धान्यानां दुर्गस्थानामनिर्गमात् ॥ १०६१ ॥
 
@@ -6102,13 +6179,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पाषाणैरिष्टकाभिर्वा मृदा वा निर्मितं च यत् ।
 
-तद् दुर्गंयन्त्रपाषाणैः खननैश्च निपातयेत् ॥ १०६३ ॥
+तद् दुर्गं यन्त्रपाषाणैः खननैश्च निपातयेत् ॥ १०६३ ॥
 
 मण्डपैश्चर्मभिर्नद्धैश्चलद्भिश्चक्रयन्त्रकैः ।
 
 नदद्भिः संस्थितैर्योधैः प्रसरद्भिः समन्ततः ॥ १०६४ ॥
 
-अग्नितैलमुखैर्बाणैर्वायुसंप्रेरितैरपि ।
+अग्नितैलमुखैर्बाणैर्वायुसम्प्रेरितैरपि ।
 
 आरोहद्भिर्भटानीकैः शूरैर्निःश्रेणिकान्वितैः ॥ १०६५ ॥
 
@@ -6118,7 +6195,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 कुठारैः शतसाहस्रैः छेदयेद् विटपांस्तरून् ।
 
-दहन् दावाग्निना वाऽपि वनदुर्गंजयेन्नृपः ॥ १०६७ ॥
+दहन् दावाग्निना वाऽपि वनदुर्गं जयेन्नृपः ॥ १०६७ ॥
 
 पूर्णानि जलभाण्डानि तोयैर्दूरसमाहृतैः ।
 
@@ -6130,7 +6207,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 आरभेत ततो युद्धं यन्त्रपाषाणपाव[^69]कैः ।
 
-[^69]: "DE °पातकैः"
+[^69]: # "DE °पातकैः"
 
 अनलश्चा(लं चा)नुकूलेन वायुना समुदापयेत् ॥ १०७० ॥
 
@@ -6140,13 +6217,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तोयपानेन सन्तृप्तं कुर्यादात्मबलं नृपः ।
 
-एवंप्रकारैरन्यैश्च मरुदुर्गं प्रसाधयेत् ॥ १०७२ ॥
+एवम्प्रकारैरन्यैश्च मरुदुर्गं प्रसाधयेत् ॥ १०७२ ॥
 
-साधयेद् दारुजं दुर्गंचूर्णनाद् गजघट्टनैः ।
+साधयेद् दारुजं दुर्गं चूर्णनाद् गजघट्टनैः ।
 
 पाषाणपातिभिर्यन्त्रैर्दाहनाद् दहनेन वा ॥ १०७३ ॥
 
-नरदुर्गंजयेद् राजा गजाश्वबलसंयुतः ।
+नरदुर्गं जयेद् राजा गजाश्वबलसंयुतः ।
 
 एवं दण्डः समाख्यातो दुर्गभङ्गसमाह्वयः ॥ १०७४ ॥
 
@@ -6156,7 +6233,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अन्तःपुरे पुरन्ध्रीणां रम्याणि भवनानि च ।
 
-निकेतनानि पुत्राणामपत्यानांगृहाणि च ॥ १०७६ ॥
+निकेतनानि पुत्राणामपत्यानां गृहाणि च ॥ १०७६ ॥
 
 सचिवानां निवासाश्च मन्त्रिणां सदनानि च ।
 
@@ -6168,13 +6245,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 देशत्यागपरिभ्रष्टः कृ[^70]तभोगपरिच्युतः ।
 
-[^70]: "ABCE कृतो भोº "
+[^70]: # "ABCE कृतो भोº "
 
 गिरिकन्दरकान्तारनिकुञ्जभवनाश्रयः ॥ १०७९ ॥
 
-वियुक्तो दा[^71]रपुत्रै़श्चबन्धुभिः सचिवैस्तथा ।
+वियुक्तो दा[^71]रपुत्रै़श्च बन्धुभिः सचिवैस्तथा ।
 
-[^71]: "B दासº "
+[^71]: # "B दासº "
 
 क्षुत्पिपासापरीतश्च चिन्ताशोकसमन्वितः ॥ १०८० ॥
 
@@ -6184,19 +6261,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ज्ञात्वा स्वरबलं राजा बलं भूमेस्तथैव च ।
 
-कुर्वीत सर्वकार्याणि सङ्ग्रामंतु विशेषतः ॥ १०८२ ॥
+कुर्वीत सर्वकार्याणि सङ्ग्रामं तु विशेषतः ॥ १०८२ ॥
 
-अतः स्वरबलंवक्ष्ये दशधा प्रविभाजितम् ।
+अतः स्वरबलं वक्ष्ये दशधा प्रविभाजितम् ।
 
-मात्रा वर्णो ग्रहो जीवो राशिरेवं चपञ्चधा॥ १०८३ ॥
+मात्रा वर्णो ग्रहो जीवो राशिरेवं च पञ्चधा ॥ १०८३ ॥
 
-बालः कुमारस्तरुणोवृद्धश्चास्तङ्गतः स्वरः ।
+बालः कुमारस्तरुणो वृद्धश्चास्तङ्गतः स्वरः ।
 
 द्वितीयः पञ्चभेदोऽयमित्थं दशविधः स्मृतः ॥ १०८४ ॥
 
 अकारः प्रथमस्तस्मिन्निकारस्तदनन्तरम् ।
 
-उकारश्चैवमेकार ओकारोमातृका पुरा ॥ १०८५ ॥
+उकारश्चैवमेकार ओकारो मातृका पुरा ॥ १०८५ ॥
 
 ककारादिहकारान्तान् वर्णान् ङञणवर्जितान् ।
 
@@ -6210,25 +6287,25 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 लिखेद् वर्णानधस्तेषां कादीन् ङञणवर्जितान् ॥ १०८८ ॥
 
-अकारपङ्क्तौये वर्णा अधोऽधः संव्यवस्थिताः ।
+अकारपङ्क्तौ ये वर्णा अधोऽधः संव्यवस्थिताः ।
 
 अकारसमधर्माणः सर्वे वर्णाः स्वराश्च ते ॥ १०८९ ॥
 
 इकारादिस्वरेष्वेवमधस्ताद् ये व्यवस्थिताः ।
 
-तत्तद्धर्माण एव स्युस्ते वर्णाः स्वरसंज्ञिताः ॥ १०९० ॥
+तत्तद्धर्माण एव स्युस्ते वर्णाः स्वरसञ्ज्ञिताः ॥ १०९० ॥
 
 नामादौ यो भवेद् वर्णः स स्वरः परिकीर्तितः ।
 
-संयोगे प्रथमो ग्राह्यःस्वराणां नियमो न हि ॥ १०९१ ॥
+संयोगे प्रथमो ग्राह्यः स्वराणां नियमो न हि ॥ १०९१ ॥
 
 मात्रास्वराः समाख्यातास्तथा वर्णस्वरा मया ।
 
-ग्रहस्वरा निरूप्यन्ते साम्प्रतंराशिभेदतः ॥ १०९२ ॥
+ग्रहस्वरा निरूप्यन्ते साम्प्रतं राशिभेदतः ॥ १०९२ ॥
 
-मेषवृश्चिकसिंहानामकारःस्याद् ग्रहस्वरः ।
+मेषवृश्चिकसिंहानामकारः स्याद् ग्रहस्वरः ।
 
-एवं ग्रहस्वराः प्रोक्ताः कथ्यन्ते जीवसंज्ञिताः ॥ १०९३ ॥
+एवं ग्रहस्वराः प्रोक्ताः कथ्यन्ते जीवसञ्ज्ञिताः ॥ १०९३ ॥
 
 यत्र नामनि यावन्तो वर्णाः स्वरसमन्विताः ।
 
@@ -6242,9 +6319,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 राशिस्वरमतो वक्ष्ये स्वरशास्त्रानुसारतः ॥ १०९६ ॥
 
-प्रोक्तो राशिस्वरोऽकारोरेवत्यादिषु सप्तसु ।
+प्रोक्तो राशिस्वरोऽकारो रेवत्यादिषु सप्तसु ।
 
-एवं परेष्विकाराद्याःस्वराः पञ्चसु पञ्चसु ॥ १०९७ ॥
+एवं परेष्विकाराद्याः स्वराः पञ्चसु पञ्चसु ॥ १०९७ ॥
 
 राशिस्वराः समाख्याता वक्ष्यन्ते उदितादयः ।
 
@@ -6252,7 +6329,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 जयासूकारस्सर्वासु भवेदुदयवान् सदा ।
 
-उदेति रिक्तास्वेकारओकारः पूर्णके तिथौ ॥ १०९९ ॥
+उदेति रिक्तास्वेकार ओकारः पूर्णके तिथौ ॥ १०९९ ॥
 
 उदितः प्रथमेऽह्नि स्याद् द्वितीयेऽह्नि कुमारकः ।
 
@@ -6262,7 +6339,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अकारादिषु सर्वेषु क्रमोऽयं परिकीर्त्तितः ॥ ११०१ ॥
 
-अकारादिस्वराः पञ्चप्रकृतित्वेन रूपिताः ।
+अकारादिस्वराः पञ्च प्रकृतित्वेन रूपिताः ।
 
 वर्णादिस्वरभेदोऽपि ककारादिषु सङ्गतः ॥ ११०२ ॥
 
@@ -6276,7 +6353,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सिंहस्याधिपतिः सूर्यः कर्कटस्य निशापतिः ।
 
-मेषवृश्चिकयोर्भौमःकन्या-मिथुनयोर्बुधः ॥ ११०५॥
+मेषवृश्चिकयोर्भौमः कन्या-मिथुनयोर्बुधः ॥ ११०५ ॥
 
 चाप-मीने सुराचार्यस्तुलायां वृषभे कविः ।
 
@@ -6284,7 +6361,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ऋतु-काल-दिशा-रुद्रैः सूर्यः शुभकरो भवेत् ।
 
-जन्मसन्ध्यर्त्तुसूर्याश्चदिगीशानैः शुभः शशी ॥ ११०७ ॥
+जन्मसन्ध्यर्त्तुसूर्याश्च दिगीशानैः शुभः शशी ॥ ११०७ ॥
 
 हरनेत्र- कुमारास्य- रुद्रैर्भौमः शुभावहः ।
 
@@ -6296,7 +6373,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सुराणां च गुरुः शुक्रः स्थानैरेभिः शुभावहः ।
 
-कृशानु-रस-रुद्रैश्चशुभकारी शनैश्चरः ॥ १११० ॥
+कृशानु-रस-रुद्रैश्च शुभकारी शनैश्चरः ॥ १११० ॥
 
 स्वस्य ग्रहबलं प्राप्य परेषां ग्रहदूषणम् ।
 
@@ -6308,7 +6385,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 रेवत्यादिषु धि[^72]ष्ण्येषु सङ्गता यत्र ये ग्रहाः ।
 
-[^72]: "D ऋक्षेषु "
+[^72]: # "D ऋक्षेषु "
 
 राशिस्वरे विचार्यास्ते शुभाश्चेद् युद्धमाचरेत् ॥ १११३ ॥
 
@@ -6320,7 +6397,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स्वरमैत्रीं विदित्वैवं नृपः कुर्वीत सङ्गरम् ॥ १११५ ॥
 
-मात्रास्वरोयदोदेति तदा कुर्वीत शोभनम् ।
+मात्रास्वरो यदोदेति तदा कुर्वीत शोभनम् ।
 
 गर्भाधानादिकं कर्म निधिधान्यादिसङ्ग्रहम् ॥ १११६ ॥
 
@@ -6330,13 +6407,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मात्रास्वरे कु[^73]मारे तु विवाहः प्रीतिकृद् भवेत् ।
 
-[^73]: "D तु सततं"
+[^73]: # "D तु सततं"
 
 भृत्यानां सङ्ग्रहः शस्तः स्वामिसंश्रयणं तथा ॥ १११८ ॥
 
 उत्कोचनमरातीनां ग्रामगेहप्रवेशनम् ।
 
-वैरनिर्मूलनोद्युक्तोयात्रां कुर्वीत भूपतिः ॥ १११९ ॥
+वैरनिर्मूलनोद्युक्तो यात्रां कुर्वीत भूपतिः ॥ १११९ ॥
 
 यूनि मात्रास्वरे जाते पट्टबन्धाभिषेचनम् ।
 
@@ -6360,7 +6437,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पश्चिमात् कोणमाग्नेयमाग्नेयादुत्तरं नयेत् ।
 
-उत्तरान्नैर्ऋतं कोणं नैर्ऋतादैन्द्रमानयेत् ॥ ११२५॥
+उत्तरान्नैर्ऋतं कोणं नैर्ऋतादैन्द्रमानयेत् ॥ ११२५ ॥
 
 एवमष्टाश्रितं चक्रं जायते सन्निवेशतः ।
 
@@ -6376,7 +6453,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 आश्विनं कार्त्तिकस्यार्द्धं वारुण्यां दिशि विन्यसेत् ।
 
-अर्द्धकार्त्तिक-मार्गौच हुताशनदिशि क्षिपेत् ॥ ११२९ ॥
+अर्द्धकार्त्तिक-मार्गौ च हुताशनदिशि क्षिपेत् ॥ ११२९ ॥
 
 पौषमर्धं च माघस्य कौबेर्यां ककुभि क्षिपेत् ।
 
@@ -6394,7 +6471,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 चतुर्यामेषु मेदिन्यां दिक्षु भ्रमणमष्टसु ॥ ११३३ ॥
 
-भूबलं पृष्ठतः कार्यंदक्षिणे वा जिगीषुणा ।
+भूबलं पृष्ठतः कार्यं दक्षिणे वा जिगीषुणा ।
 
 एवमन्यानि कार्याणि सिद्धिं यान्ति विनिश्चयम् ॥ ११३४ ॥
 
@@ -6402,7 +6479,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अष्टौ वर्गानकारादीन् प्रादक्षिण्येन पूर्वतः ॥ ११३५ ॥
 
-अवर्गेगरुडः प्रोक्तः कवर्गे वृषदंशकः ।
+अवर्गे गरुडः प्रोक्तः कवर्गे वृषदंशकः ।
 
 चवर्गे मृगराजः स्यात् टवर्गे सरमासुतः ॥ ११३६ ॥
 
@@ -6424,9 +6501,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ब्रह्माणी पूर्वदिग्भागे प्रतिपन्नवमे तिथौ ।
 
-द्वितीयायां दशम्यां च माहेशी सौम्यदिग्गता ॥११४१ ॥
+द्वितीयायां दशम्यां च माहेशी सौम्यदिग्गता ॥ ११४१ ॥
 
-एकादश्यां तृतीयायां कौबेरी वह्निदिक्स्थिता।
+एकादश्यां तृतीयायां कौबेरी वह्निदिक्स्थिता ।
 
 द्वादश्यां च चतुर्थ्यां च वैष्णवी नैर्ऋते स्थिता ॥ ११४२ ॥
 
@@ -6442,9 +6519,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 योगिनीनां बलं त्वे[^74]वं कथितं सोमभूभुजा ॥ ११४५ ॥
 
-[^74]: "D चैवं"
+[^74]: # "D चैवं "
 
-इति योगिनीचक्रम् ॥
+**इति योगिनीचक्रम् ॥**
 
 युद्धपूर्वदिने राजा कृतोत्साहः सभागतः ।
 
@@ -6456,15 +6533,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तेषां प्रतिज्ञां संश्रित्य सुभटानां नृपोत्तमः ।
 
-मातङ्गान् मदसंयुक्तान् वाजिनश्चजवोत्तमान् ॥ ११४८ ॥
+मातङ्गान् मदसंयुक्तान् वाजिनश्च जवोत्तमान् ॥ ११४८ ॥
 
-दद्याद् यथार्हंसर्वेषां सङ्ग्रामजयकाङ्क्षया ।
+दद्याद् यथार्हं सर्वेषां सङ्ग्रामजयकाङ्क्षया ।
 
 ततो विसर्जयेत् सर्वान् युद्धाय कृतनिश्चयः ॥ ११४९ ॥
 
 तस्यां रात्र्या[^75]मलातैश्च पूरयेद् गगनाङ्गणम् ।
 
-[^75]: " DE रात्राव°"
+[^75]: # " DE रात्राव°"
 
 महातूर्यप्रघोषैश्च काहलाशङ्खनिस्वनैः ॥ ११५० ॥
 
@@ -6472,7 +6549,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अधिवास्य ततो राजा शस्त्राणि कुलदेवताः ॥ ११५१ ॥
 
-ततः शयीत मेदिन्यां कुशानास्तीर्ययत्नतः ।
+ततः शयीत मेदिन्यां कुशानास्तीर्य यत्नतः ।
 
 ततः प्रातः समुत्थाय निरीक्ष्य घृत-दर्पणौ ॥। ११५२ ॥
 
@@ -6492,13 +6569,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 बृंहितेन गजानां च जानीयाज्जयञ्जसा ॥ ११५६ ॥
 
-नराणांशुभवाक्यैश्चमङ्गलद्रव्यदर्शनैः ।
+नराणां शुभवाक्यैश्च मङ्गलद्रव्यदर्शनैः ।
 
 प्रदक्षिणागमैश्चापि भरद्वाजशिखण्डिनाम् ॥ ११५७ ॥
 
 अन्यैश्च शकुनैर्[^76]भव्यैर्जयमङ्गलसूचकैः ।
 
-[^76]: "BCE सर्वैर्भय°"
+[^76]: # "BCE सर्वैर्भय°"
 
 दक्षिणाक्ष्णः परिस्पन्दाद् दक्षिणस्य भुजस्य च ॥ ११५८ ॥
 
@@ -6554,19 +6631,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 भूभागे रचयेद् राजा व्यू[^77]हं व्यूहविचक्षणः ॥ ११७१ ॥
 
-[^77]: "E प्रतिव्यूहं वि° "
+[^77]: # "E प्रतिव्यूहं वि° "
 
 अल्पवृक्षोपलाच्छिद्राऽलङ्घनीयदरीस्थिता ।
 
 निःशर्करा विपङ्का भूरश्वव्यूहाय शस्यते ॥ ११७२ ॥
 
-निःस्थाणुसिकतापङ्कानिर्वल्मीकोपला समा ।
+निःस्थाणुसिकतापङ्का निर्वल्मीकोपला समा ।
 
 केदारव्रततिश्वभ्रवृक्षगुल्मविवर्जिता ॥ ११७३ ॥
 
 अ[^78]तीवकठिना भूश्च क्षुरचङ्क्रमणक्षमा ।
 
-[^78]: " ABC निरुद्याना निर्द्दरणा "
+[^78]: # " ABC निरुद्याना निर्द्दरणा "
 
 स्थिरा चक्रसमा धात्री रथव्यूहे प्रशस्यते ॥ ११७४ ॥
 
@@ -6596,7 +6673,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रतिग्रहपरो भागः पृष्ठमित्यभिधीयते ।
 
-एवं व्यूहविभागांश्चविज्ञाय नृपतिस्ततः ॥ ११८१॥
+एवं व्यूहविभागांश्च विज्ञाय नृपतिस्ततः ॥ ११८१ ॥
 
 मुखे मदमुखं नागं शूरारूढं सुशिक्षितम् ।
 
@@ -6614,7 +6691,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सुभटैः शतसङ्ख्यातैः सुलक्षैर्दृढघा[^79]तिभिः ॥ ११८५ ॥
 
-[^79]: "D यायिभि "
+[^79]: # "D यायिभि "
 
 पक्षदेशे तथा शूरैः शक्तिखेटकधारिभिः ।
 
@@ -6634,7 +6711,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 त्रिमुखं द्विमुखं तद्वदेकवक्त्रमथापि वा ।
 
-परव्यूहस्य भेदार्थंकुर्याद् व्यूहमुखं नृपः ॥ ११९० ॥
+परव्यूहस्य भेदार्थं कुर्याद् व्यूहमुखं नृपः ॥ ११९० ॥
 
 उरःस्थाने महीपालः श्रैणमाटविकं बलम् ।
 
@@ -6642,11 +6719,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रौ[^80]रस्ये युद्धभाण्डानि शस्त्राणि विविधानि च ।
 
-[^80]: "अत्यन्तयु° "
+[^80]: # "अत्यन्तयु° "
 
-वारि भूरि नयेदुष्ट्रैस्तृषार्तानां सुतृप्त[^81]ये॥ ११९२ ॥
+वारि भूरि नयेदुष्ट्रैस्तृषार्तानां सुतृप्त[^81]ये ॥ ११९२ ॥
 
-[^81]: " A आदर्श पुस्तकेऽयमधिकः पाठः- मौलिमित्रबले सम्यक् पुत्रान् प्रतिग्रहे न्यसेत् "
+[^81]: # " A आदर्श पुस्तकेऽयमधिकः पाठः- मौलिमित्रबले सम्यक् पुत्रान् प्रतिग्रहे न्यसेत् "
 
 प्रतिग्रहप्रदेशे तु स्वयं तिष्ठेन्महीपतिः ।
 
@@ -6658,7 +6735,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 मदावस्थां च[^82]तुर्थीं च सम्प्राप्तं गिरिसन्निभम् ।
 
-[^82]: " ABC च कुर्वीत "
+[^82]: # " ABC च कुर्वीत "
 
 शूरं महाबलं दान्तं धीरमन्वर्थवेदिनम् ॥ ११९५ ॥
 
@@ -6666,7 +6743,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 त[^83]नुत्राणसमोपेतं दृढढेञ्चाकधारिणम् ॥ ११९६ ॥
 
-[^83]: " B वक्त्रत्राण° "
+[^83]: # " B वक्त्रत्राण° "
 
 मयूरपिच्छगुच्छाङ्कध्वजदण्डविमण्डितम् ।
 
@@ -6678,7 +6755,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अन्तरारूढशूरेण खेटकद्वयधारिणा ।
 
-ईदृग्गुणयुतंनाममारोहेद् विनयोद्यतः ॥ ११९९ ॥
+ईदृग्गुणयुतं नाममारोहेद् विनयोद्यतः ॥ ११९९ ॥
 
 विज्ञातनामभिर्मौलैः कृत्तिकाचर्मपाणिभिः ।
 
@@ -6700,25 +6777,25 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रकक्षेऽयुतयुग्मेन संवृतश्च महीपतिः ॥ १२०४ ॥
 
-पृष्ठे भूमौवशारूढपुष्पकान्तरसंस्थितैः।
+पृष्ठे भूमौ वशारूढपुष्पकान्तरसंस्थितैः ।
 
-अवरोधवधूवृन्दैरक्षिभिः परिरक्षितैः ॥ १२०५ ॥
+अवरोधवधूवृन्दै रक्षिभिः परिरक्षितैः ॥ १२०५ ॥
 
 धेनुकाव्याशिताशेन कोशेनाधिष्ठितस्तथा ।
 
-तेषां तु पृष्ठरक्षार्थं नरवाजिबलं न्यसेत् ॥ १२०६॥
+तेषां तु पृष्ठरक्षार्थं नरवाजिबलं न्यसेत् ॥ १२०६ ॥
 
 ईदृशीं व्यूहरचनां विधाय परवीरहा ।
 
-व्रजेदब्धिरिव क्षुब्धो निगिरन्परवाहिनीम् ॥ १२०७ ॥
+व्रजेदब्धिरिव क्षुब्धो निगिरन् परवाहिनीम् ॥ १२०७ ॥
 
-   इति सैन्यरचनालक्षणम् ॥
+** इति सैन्यरचनालक्षणम् ॥**
 
-शूराणां सिंहनादैश्चखुरारात्रैश्चवाजिनाम् ।
+शूराणां सिंहनादैश्च खुरारात्रैश्च वाजिनाम् ।
 
-महामात्रकरास्फालमातङ्गगलगर्जितैः ॥ १२०८॥
+महामात्रकरास्फालमातङ्गगलगर्जितैः ॥ १२० ८॥
 
-भेरीप्रहारघोषैश्च काहलाशङ्खनिस्वनैः।
+भेरीप्रहारघोषैश्च काहलाशङ्खनिस्वनैः ।
 
 युद्धाशंसिमहातूर्यनिनादैः स्फोटयन् दिशः ॥ १२०९ ॥
 
@@ -6738,37 +6815,37 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अग्नितैलार्चितैर्बाणैर्निर्भिन्द्याद् द्विपयूथपान् ॥ १२१३ ॥
 
-प्रभूतकुञ्जरानीकघ[^84]टासङ्घट्टघट्टनैः।
+प्रभूतकुञ्जरानीकघ[^84]टासङ्घट्टघट्टनैः ।
 
-[^84]: "D °घंटा°"
+[^84]: # "D °घण्टा° "
 
-पाटनैः करटिव्रातंद्विषतां रणमूर्द्धनि ॥ १२१४ ॥
+पाटनैः करटिव्रातं द्विषतां रणमूर्द्धनि ॥ १२१४ ॥
 
 विमृश्य राजचिह्नानि निश्चित्य नृपतेः पदम् ।
 
-सर्वसैन्येन संयुक्तस्तत्र यायाज्जयोत्सु[^85]कः॥ १२१५ ॥
+सर्वसैन्येन संयुक्तस्तत्र यायाज्जयोत्सु[^85]कः ॥ १२१५ ॥
 
-[^85]: "ADE °योन्मुखः "
+[^85]: # "ADE °योन्मुखः "
 
 नाराचैर्जर्जरीकृत्य कुन्तैर्निर्भिद्य निर्भरम् ।
 
 चक्राघा[^86]तैर्द्विधाकृत्य पाशैराकृष्य पातयेत् ॥ १२१६ ॥
 
-[^86]: "  BC °कौ ° "
+[^86]: # " BC °कौ ° "
 
-सञ्चूर्ण्य मुद्गराघातैश्छित्त्वापरशुना भटान् ।
+सञ्चूर्ण्य मुद्गराघातैश्छित्त्वा परशुना भटान् ।
 
 स्वारूढकुञ्जरेणाथ संयोज्य परवारणम् ॥ १२१७ ॥
 
-तद्गजंस्वगजोद्दामदन्ताघातैर्निपात्य च ।
+तद्गजं स्वगजोद्दामदन्ताघातैर्निपात्य च ।
 
 निस्त्रिंशेन रिपोश्छिन्द्यात् कुण्डलालङ्कृतं शिरः ॥ १२१८ ॥
 
-एवं निहत्य सङ्ग्रामेदुष्टशत्रुं मदोद्धतम् ।
+एवं निहत्य सङ्ग्रामे दुष्टशत्रुं मदोद्धतम् ।
 
 जयतूर्यनिनादेन हर्षय[^87]न् सुभटान् स्वकान् ॥ १२१९ ॥
 
-[^87]: "D °यंश्च स्वसैनिकान् "
+[^87]: # "D °यंश्च स्वसैनिकान् "
 
 कुमारामात्यसचिवान् सामन्तान् मण्डलेश्वरान् ।
 
@@ -6792,23 +6869,23 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 बलशक्तिविहीनेन नृपेण रिपुघातिना ।
 
-प्रयोज्या स्युस्त्रयोदण्डा विषघाताभिचारजाः ॥ १२२५ ॥
+प्रयोज्या स्युस्त्रयो दण्डा विषघाताभिचारजाः ॥ १२२५ ॥
 
 विषं हालाहलं शृङ्गि कालकूटं भयावहम् ।
 
 वत्सना[^88]भं चतुर्थं तु स्थावरं परिकीर्तितम् ॥ १२२६ ॥
 
-[^88]: "BC नागं"
+[^88]: # "BC नागं"
 
 सर्पदंष्ट्रादिसञ्जातं विषं तज्जङ्गमं विदुः ।
 
 विरुद्धद्रव्यमिलितं कृत्रिमं विषमुच्यते ॥ १२२७ ॥
 
-शात्रवाणां विरक्ता ये कृत्यास्ते पुरुषा वराः।
+शात्रवाणां विरक्ता ये कृत्यास्ते पुरुषा वराः ।
 
-तान् विभेद्य[^89]प्रदानेन रसं तैस्तु प्रयोजयेत् ।
+तान् विभेद्य [^89]प्रदानेन रसं तैस्तु प्रयोजयेत् ।
 
-[^89]: "D विभिद्य ।"
+[^89]: # "D विभिद्य ।"
 
 तडाग-कूप-वापीषु तथा लघुसरस्सु च ॥ १२२८ ॥
 
@@ -6824,7 +6901,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 क्षीणेन क्रियते यत् तु विषदण्डः स उच्यते ॥। १२३१ ॥
 
-शूरश्चदृढभक्तश्चत्यक्तप्राणभयश्च यः ।
+शूरश्च दृढभक्तश्च त्यक्तप्राणभयश्च यः ।
 
 वीरश्च समयज्ञश्च वधोपायविचक्षणः ॥ १२३२ ॥
 
@@ -6832,7 +6909,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 तेन घातं प्रयुञ्जीत प्रमत्तारिवधेच्छया ॥ १२३३ ॥
 
-गीतवाद्यप्रसक्तेषुद्यूतक्रीडारतेषु च ।
+गीतवाद्यप्रसक्तेषु द्यूतक्रीडारतेषु च ।
 
 मृगव्यासक्तचित्तेषु देवयात्राप्रसङ्गिषु ॥ १२३४ ॥
 
@@ -6846,23 +6923,23 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पूर्वोदितगुणैस्तीक्ष्णैः सुभद्रैर्यन्त्रपातनम् ।
 
-मायया क्रियते शत्रोर्घातदण्डः स[^90]कीर्त्तितः ॥ १२३७ ॥
+मायया क्रियते शत्रोर्घातदण्डः स[^90] कीर्त्तितः ॥ १२३७ ॥
 
-[^90]: "D प्रकी°"
+[^90]: # "D प्रकी°"
 
 अथर्वविधितत्त्वज्ञैर्ब्राह्मणैर्विजितेन्द्रियैः ।
 
 मन्त्र-तन्त्रविधानज्ञैर्दूरादुन्मूलयेद् रिपुम् ॥ १२३८ ॥
 
-अभिचारिकहोमैस्तुमन्त्रैः षट्कर्मसाधकः।
+अभिचारिकहोमैस्तु मन्त्रैः षट्कर्मसाधकः ।
 
-यन्त्रलेखनकैरुग्रैरूपांशुजपनादिभिः॥ १२३९॥
+यन्त्रलेखनकैरुग्रैरूपांशुजपनादिभिः ॥ १२३९ ॥
 
-मन्त्र-तन्त्रसुसिद्धैश्चपटहैःकाहलादिभिः ।
+मन्त्र-तन्त्रसुसिद्धैश्च पटहैः काहलादिभिः ।
 
-पताका[^91]कारकैर्दीपैर्धूपैर्मायूरकूर्चकैः॥ १२४० ॥
+पताका[^91]कारकैर्दीपैर्धूपैर्मायूरकूर्चकैः ॥ १२४० ॥
 
-[^91]: "  D रत्नकै "
+[^91]: # " D रत्नकै "
 
 बाणैर्मन्त्रप्रयुक्तेैश्च सिद्धार्थकयुताक्षतैः ।
 
@@ -6872,7 +6949,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 संहरेज्जीवितं यत्तु स्यात् स दण्डोऽभिचारकः ॥ १२४२ ॥
 
-इति दण्डभेदाः ॥
+**इति दण्डभेदाः ॥**
 
 व्यवहारान् नृपः पश्येद् विप्रैर्विद्वद्वरैः सह ।
 
@@ -6882,45 +6959,45 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 अकीर्तिं महतीमेति दुर्गतिं चाधिगच्छति ॥ १२४४ ॥
 
-ऋत्विक् पुरोहितः पुत्रोभ्राता बन्धुस्तथा सुहृत् ।
+ऋत्विक् पुरोहितः पुत्रो भ्राता बन्धुस्तथा सुहृत् ।
 
 अदण्ड्यो नृपतेर्नास्ति स्वधर्माच्चलितो नरः ॥ १२४५ ॥
 
-वेदशास्त्रार्थतत्त्वज्ञाः सत्यसन्धाश्चधार्मिकाः ।
+वेदशास्त्रार्थतत्त्वज्ञाः सत्यसन्धाश्च धार्मिकाः ।
 
 सभ्या नृपतिना कार्या मित्रामित्रेषु वै समाः ॥ १२४६ ॥
 
 धीरैरलोलुपैर्मौलैर्लोकव्यापारकोविदैः ।
 
-विप्रैः सह महीपालोगुण-दोषौ विचारयेत् । १२४७ ॥
+विप्रैः सह महीपालो गुण-दोषौ विचारयेत् । १२४७ ॥
 
-विचारे यत्र तिष्ठन्ति विप्राःश्रुतिविदस्त्रयः ।
+विचारे यत्र तिष्ठन्ति विप्राः श्रुतिविदस्त्रयः ।
 
 पञ्च वा सप्त वा सा स्याच्छतक्रतुसमा सभा ॥ १२४८ ॥
 
 तस्यां सभायां यः कश्चिद् धर्मज्ञः श्रुतिकोविदः ।
 
-निर्दिष्टो वाप्यनिर्दिष्टः स तत्त्वंवक्तुमर्हति ॥ १२४९ ॥
+निर्दिष्टो वाप्यनिर्दिष्टः स तत्त्वं वक्तुमर्हति ॥ १२४९ ॥
 
 न्याय्यं पन्थानमुत्सृज्य ये गतस्यानुयायिनः ।
 
 सभ्यास्ते बोधनीयाः स्युर्मार्गं धर्मस्य शाश्वतम् ॥ १२५० ॥
 
-अनिर्दिष्टश्च तत्सर्वं सत्यं ब्रूयात् समञ्जसम् ।
+अनिर्दिष्टश्च तत् सर्वं सत्यं ब्रूयात् समञ्जसम् ।
 
-ज्ञात्वा वा न वदेत् तत्त्वं मिथ्यावादी चपापभाक् ॥ १२५१ ॥
+ज्ञात्वा वा न वदेत् तत्त्वं मिथ्यावादी च पापभाक् ॥ १२५१ ॥
 
-कुलीनाः शीलवन्तश्चधनिनो वयसाऽधिकाः ।
+कुलीनाः शीलवन्तश्च धनिनो वयसाऽधिकाः ।
 
-अमत्सराविशः कार्याः कियन्तोऽपि सभासदः ॥ १२५२ ॥
+अमत्सरा विशः कार्याः कियन्तोऽपि सभासदः ॥ १२५२ ॥
 
 अलोभं सत्यसन्धं च धर्मशीलं प्रियंवदम् ।
 
 धर्मशास्त्रार्थकुशलं लोकयात्राविचक्षणम् ॥ १२५३ ॥
 
-विचारे पण्डितं दक्षं प्राड्विवाकतयायुतम् ।
+विचारे पण्डितं दक्षं प्राड्विवाकतया युतम् ।
 
-इङ्गिताकारतत्त्वज्ञमूहापोहविशारदम् ॥ १२५४॥
+इङ्गिताकारतत्त्वज्ञमूहापोहविशारदम् ॥ १२५४ ॥
 
 ब्राह्मणं श्रुतसम्पन्नं धर्मशास्त्रविशारदम् ।
 
@@ -6928,13 +7005,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 प्रागेव पृच्छति प्रायो वाक्यं वादार्थमागतौ ।
 
-विचारयति यः सम्यक् माड्विवाकस्ततःस्मृतः ॥ १२५६ ॥
+विचारयति यः सम्यक् माड्विवाकस्ततः स्मृतः ॥ १२५६ ॥
 
 व्यग्रस्य राजकार्येण देहजाड्येन वा स्वयम् ।
 
 अपश्यतः प्रभोः कार्यं प्राड्विवाको विचारयेत् ॥ १२५७ ॥
 
-विप्रालाभेतु कर्तव्यः कुलीनो दमसंयुतः ।
+विप्रालाभे तु कर्तव्यः कुलीनो दमसंयुतः ।
 
 परत्र भीरुर्धर्मज्ञः शूरः शान्तो विमत्सरः । १२५८ ॥
 
@@ -6942,7 +7019,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 स[^92]दोद्युक्तः समर्थश्च क्षत्रियोऽपि सभापतिः ॥ १२५९ ॥
 
-[^92]: " B मदोज्झितः "
+[^92]: # " B मदोज्झितः "
 
 दौर्लभ्यात् क्षत्रियस्यापि वैश्यं कुर्यात् सभापतिम् ।
 
@@ -6952,19 +7029,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सर्वथाऽपि न कर्त्तव्यः शूद्रः[^93] क्वापि विचारणे ॥ १२६१ ॥
 
-[^93]: " BCE शूद्रश्चापि, D शूद्रश्चापि न कर्तव्यो व्यवहारवि "
+[^93]: # " BCE शूद्रश्चापि, D शूद्रश्चापि न कर्तव्यो व्यवहारवि "
 
-लोभाद् वाऽपिभया[^94]द् रागात् स्मृतिशास्त्रार्थनाशकाः ।
+लोभाद् वाऽपि भया[^94]द् रागात् स्मृतिशास्त्रार्थनाशकाः ।
 
-[^94]: " D तथा "
+[^94]: # " D तथा "
 
-दण्डनीयाः पृथक् सभ्या विवादाद्द्विगुणं धनम् ॥ १२६२ ॥
+दण्डनीयाः पृथक् सभ्या विवादाद् द्विगुणं धनम् ॥ १२६२ ॥
 
-सतां मार्गंसमुल्लङ्घ्य बाधितो यो बलीयसा ।
+सतां मार्गं समुल्लङ्घ्य बाधितो यो बलीयसा ।
 
 निवेदयेत यद् राज्ञे तद् विवादपदं स्मृतम् ॥ १२६३ ॥
 
-अभियोगो द्विधाज्ञेयः शङ्कया प्रत्ययेन वा ।
+अभियोगो द्विधा ज्ञेयः शङ्कया प्रत्ययेन वा ।
 
 असत्संसर्गतः शङ्का प्रत्ययोऽन्याङ्गदर्शनात् ॥ १२६४ ।
 
@@ -6974,13 +7051,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 सम्भूय च समुत्थानं चतुर्थं परिभाषितम् ।
 
-पञ्चमं दत्तमाख्यातं षष्ठंदत्तापहार[^95]कम् ॥ १२६६ ॥
+पञ्चमं दत्तमाख्यातं षष्ठं दत्तापहार[^95]कम् ॥ १२६६ ॥
 
-[^95]: "BCE पहारिकं "
+[^95]: # "BCE पहारिकं "
 
 सप्तमं वेतनादानं संविल्लङ्घनमष्टमम् ।
 
-क्रयविक्रयानुशयौनवमं दशमं तथा ॥ १२६७ ॥
+क्रयविक्रयानुशयौ नवमं दशमं तथा ॥ १२६७ ॥
 
 एकादशं तथा प्रोक्तं विवादः स्वामिपालयोः ।
 
@@ -6990,17 +7067,17 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 निरूपितं बुधैरत्र वाक्पारुष्यं चतुर्दशम् ॥ १२६९ ॥
 
-उक्तं पञ्चदशंतज्ज्ञैर्दण्डपारुष्यसंज्ञितम् ।
+उक्तं पञ्चदशं तज्ज्ञैर्दण्डपारुष्यसञ्ज्ञितम् ।
 
 स्तेयं षोडशमाख्यातमृषिभिस्तत्त्वदर्शिभिः ॥ १२७० ॥
 
-पदं सप्तदशंनाम साहसं सद्भिरीरितम् ।
+पदं सप्तदशं नाम साहसं सद्भिरीरितम् ।
 
 अष्टादशं समादिष्टं स्त्रीसङ्ग्रहणसंज्ञ[^96]कम् ॥ १२७१ ॥
 
-[^96]: " D संज्ञितं "
+[^96]: # " D सञ्ज्ञितं "
 
-एकोनविंशं सम्प्रोक्तं स्त्रीपुंधर्मोविचारकैः ।
+एकोनविंशं सम्प्रोक्तं स्त्रीपुन्धर्मो विचारकैः ।
 
 दायभागाभिधानं च तत् स्याद् विंशतिमं पदम् ॥ १२७२ ॥
 
@@ -7008,7 +7085,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 व्यवहारपदान्येतान्याह सोमेश्वरो नृपः ॥ १२७३ ॥
 
-इति व्यवहारपदानि ।
+**इति व्यवहारपदानि ।**
 
 स्वयं नोत्पादयेत् कार्यं समर्थः पृथिवीपतिः ।
 
@@ -7028,15 +7105,15 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 आहूतो यदि नागच्छेद् व्याधितो दुःखितोऽथवा ।
 
-निरुद्धो विषमस्थो वा क्रियाव्यग्रो ज्वरन्नपि॥१२७८ ॥
+निरुद्धो विषमस्थो वा क्रियाव्यग्रो ज्वरन्नपि ॥ १२७८ ॥
 
-स्वामिकार्यप्रदोवाऽपि नृपकार्यरतोऽथवा ।
+स्वामिकार्यप्रदो वाऽपि नृपकार्यरतोऽथवा ।
 
-मत्तो वाऽथ प्रमत्तो वा तथाप्येष न दुष्यति ॥१२७९ ॥
+मत्तो वाऽथ प्रमत्तो वा तथाप्येष न दुष्यति ॥ १२७९ ॥
 
 कुलीना परभार्या च युवतिश्च प्रसूतिका ।
 
-रजस्वला पक्षहीना नाह्वातव्या सभां प्रति ॥१२८० ॥
+रजस्वला पक्षहीना नाह्वातव्या सभां प्रति ॥ १२८० ॥
 
 अर्थिप्रत्यर्थिवाक्यानि लेखयित्वा विचारयेत् ।
 
@@ -7056,7 +7133,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 शङ्कितानां नरेन्द्रेण कथितानां च तस्करैः ।
 
-शुद्धिमन्विच्छतां तस्य दिव्यं देयं विना शिरः ॥१२८५ ॥
+शुद्धिमन्विच्छतां तस्य दिव्यं देयं विना शिरः ॥ १२८५ ॥
 
 प्रमाणैर्निश्चिते वाऽपि दिव्यैर्वाऽपि विचारिते ।
 
@@ -7068,7 +7145,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 केशानां कर्णयोरक्ष्णोर्नासिकायास्तथैव च ।
 
-जिह्वायाः करयोस्तद्वदङ्गुलीप्रजनस्य च ॥१२८८ ॥
+जिह्वायाः करयोस्तद्वदङ्गुलीप्रजनस्य च ॥ १२८८ ॥
 
 पादयोरेवमादीनामङ्गानां छेदनं च यत् ।
 
@@ -7078,7 +7155,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 एवंविधप्रकारोऽपि क्लेशदण्डः प्रकीर्त्तितः ॥ १२९० ॥
 
-पणानां द्वे शतंसार्द्धेप्रथमः साहसः स्मृतः ।
+पणानां द्वे शतं सार्द्धे प्रथमः साहसः स्मृतः ।
 
 मध्यमः पञ्च विज्ञेयः सहस्रं चैव चोत्तमः ॥ १२९१ ॥
 
@@ -7090,19 +7167,19 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 दोषद्रव्यानुसारेण दण्डोऽर्थहरणः स्मृतः ॥ १२९३ ॥
 
-दण्डो रक्षति मर्यादां दण्डो धर्मंप्रवर्त्तयेत् ।
+दण्डो रक्षति मर्यादां दण्डो धर्मं प्रवर्त्तयेत् ।
 
 निवारयेदधर्माच्च तस्माद् दण्डं प्रयोजयेत् ॥ १२९४ ॥
 
 दण्डहीने यतो राष्ट्रे मात्स्यो न्यायः प्रवर्तते ।
 
-तस्माद् दण्डं प्रयुञ्जीत दुष्टानां धार्मिको नृपः[^97]॥ १२९५ ॥
+तस्माद् दण्डं प्रयुञ्जीत दुष्टानां धार्मिको नृपः[^97] ॥ १२९५ ॥
 
-[^97]: "E मतः"
+[^97]: # "E मतः"
 
 दण्डपातभयाल्लोको धर्मे तिष्ठति सूत्रितः ।
 
-करीव विजयो मत्तोऽप्यङ्कुशेनवशीकृतः ॥ १२९६ ॥
+करीव विजयो मत्तोऽप्यङ्कुशेन वशीकृतः ॥ १२९६ ॥
 
 तीव्रदण्डभयाल्लोके भृशमुद्विजते जनः ।
 
@@ -7120,14 +7197,30 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 विंशतिः सोमभूपालः कृतवान् नीतिकोविदः । १३०० ॥
 
-इति दण्डाध्यायः ॥ २० ॥
+
+
+**इति दण्डाध्यायः ॥ २० ॥**
+
+
 
 **इति महाराजाधिराज-सत्याश्रयकुलतिलक-चालुक्याभरण-श्रीमद्भूलोकमल्ल-**
 
-**श्रीसोमेश्वरदेवविरचितेमानसोल्लासेऽभिलषितार्थचिन्तामणौ**
+**श्रीसोमेश्वरदेवविरचिते मानसोल्लासेऽभिलषितार्थचिन्तामणौ**
 
 **राज्यस्थिरीकरणोपायकथने द्वितीयं प्रकरणम् ॥**
 
+
+
+
+
 **<MISSING_FIG href="../books_images/1680688134.jpg"/>**
+
+
+
+
+
+
+
+
 
 \]

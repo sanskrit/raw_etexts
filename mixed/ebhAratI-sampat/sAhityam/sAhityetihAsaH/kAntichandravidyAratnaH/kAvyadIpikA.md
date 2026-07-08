@@ -1,1985 +1,3255 @@
 +++
 title = "काव्यदीपिका"
 author = "कान्तिचन्द्रविद्यारत्नः"
-"publish year" = "1870"
+publisher = "जीवानन्दविद्यासागरभट्टाचार्यः"
+"publish year" = "1886"
 domain = "साहित्यम्"
 sub-domain = "साहित्येतिहासः"
-pages = "108"
+pages = "148"
 language = "संस्कृतम्"
-printer = "काव्यप्रकाश-मुद्रणालयः"
-"serial no." = "Ebharati-5936"
-source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5NjEwNTk2MzM4OTY1&pageno=MjI0MjQyNjk5NTk="
-
+editor = "जीवानन्दविद्यासागरभट्टाचार्यः"
+printer = "सरस्वती-यन्त्रालयः"
+"serial no." = "Ebharati-8742"
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIxMzUyMTUxOTkxOTM4&pageno=MjI0MjQyNjk5NTk="
 +++
-[[काव्यदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5NjEwNTk2MzM4OTY1&pageno=MjI0MjQyNjk5NTk=)]]
+[[काव्यदीपिका	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDIxMzUyMTUxOTkxOTM4&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 
 [TABLE]
 
-[TABLE]
+**एतानि मुद्रितसंस्कृतपुस्तकानि।**
 
-**বিজ্ঞাপন ।**  
-\~\~\~\~\~\~\~
-
- যেরূপ ব্যাকরণ-জ্ঞান ব্যতীত সংস্কৃতে অধিকারহয় না সেইরূপ অলঙ্কার-শাস্ত্রে বোধ না থাকিলেকাব্যের সম্যক্ জ্ঞানে ও প্রকৃত রসাস্বাদনে ক্ষমতাজন্মে না। ব্যাকরণ-দোষ-শূন্য হইলেই কাব্য সৰ্ব্বাঙ্গসুন্দর হয় না। কাব্যের কতকগুলি স্বতন্ত্র দোষ, স্বতন্ত্রগুণ ও স্বতন্ত্র অলঙ্করণ আছে। কবিগণ ব্যাকরণ-বিশুদ্ধবাক্যও, দূষিত গুণান্বিত কিংবা অলঙ্কৃত করিতে পারেন।যে শাস্ত্রে ঐ সমস্ত দোষ গুণ এবং অলঙ্কার বিবেচিতহইয়াছে তাহার নাম অলঙ্কার-শাস্ত্র। অলঙ্কারশাস্ত্রকারেরাদোষাদি নিরূপণের সহিত কাব্যের লক্ষণ,বিভাগ, বাক্য ও লক্ষণাদির স্বরূপ, এবং কেহ কেহনাটকাদিরও লক্ষণ প্রভৃতি নিরূপণ করিয়াছেন ।
-
- কবিচূড়ামণি কালিদাসের কাব্য বিশ্ববিদ্যালয়েরছাত্রদিগের পাঠার্থ নির্দিষ্ট হইয়াছে। ইহা প্রায় সৰ্ব্বত্রই স্বভাবোক্তি, উপমা প্রভৃতি অলঙ্কারে অলঙ্কৃত,
-
-এবং মাধুর্য্যগুণে পদে পদে সহৃদয়গণের হৃদয় আকষর্ণ করে । কালিদাস এবং ভবভূতির নাটকও ছাত্রগণের পাঠ্য পুস্তকের অন্তর্নিবেশিত হইয়াছে। নাটকসংক্রান্ত কতকগুলি নিয়ম অবগত হওয়া ছাত্রদিগেরনিতান্ত আবশ্যক। যে সকল প্রসিদ্ধ অলঙ্কারপুস্তকপ্রচলিত আছে, সে সমস্তই প্রায় বিস্তৃতকলেবর কঠিনতর্ক-পরিপূর্ণ এবং আদিরস প্রধান; কোন মতেইবালকদিগের পাঠের উপযুক্ত নহে। অথচ অলঙ্কারশাস্ত্রের কিঞ্চিৎ জ্ঞান তাহাদের আবশ্যক বলিয়।অনেকেই বিবেচন। করিয়া থাকেন। সেই আবশ্যকঅংশগুলি প্রসিদ্ধ অলঙ্কারগ্রন্থ সকল হইতে সঙ্কলনকরিয়।কাব্যদীপিকানামে এই ক্ষুদ্র পুস্তকখানি মুদ্রিতকরিলাম। ইহাতে কাব্য ও বাক্যের লক্ষণ, লক্ষণাপ্রভৃতির স্বরূপ ও সাধারণ বিভাগ, প্রসিদ্ধ দোষ, গুণ,অলঙ্কার এবং নাটক-সংক্রান্ত যে যে বিষয় অবগতহওয়।নিতান্ত আবশ্যক তৎসমস্ত মাত্র সংক্ষেপেসন্নিবেশিত হইয়াছে। উদাহরণগুলি প্রায়ই কুমারসম্ভব, রঘুবংশ, ভারবি, মাঘ, শকুন্তলা, উত্তরচরিতপ্রভৃতি প্রসিদ্ধ কাব্য হইতে উদ্ধত হইয়াছে। আদি-
-
-রসের কবিতা যত দূর পারিয়াছি পরিহার করিয়াছি।সংস্কৃত কাব্যের সংক্ষিপ্ত ইতিবৃত্ত ইংরাজি ভাষায়লিখিয়াপ্রথমে সন্নিবেশিত করিয়াছি, বোধ হয় ইটীপাঠ করিলে বালকগণের কিঞ্চিৎ উপকার হইতেপারিবে।
-
- পরিশেষে কৃতজ্ঞতার সহিত স্বীকার করিতেছি,মুদ্রাঙ্কন আরম্ভ হইলে সংস্কৃত কালেজের ব্যাকরণেরঅধ্যাপক সুরাচার্য্যকল্প পূজ্যপাদ শ্রীযুক্ত তারানাথতর্কবাচস্পতি মহোদয় এবং ঐ বিদ্যালয়ের সাহিত্যশাস্ত্রের অধ্যাপক মহামতি শ্রীযুক্ত দ্বারকানাথ বিদ্যাভূষণমহাশয় যত্নের সহিত আদ্যন্ত পরিশোধিত করিয়াদিয়াছেন। এবং ইংরাজিটাও সংস্কৃতবিদ্যালয়ের অধ্যক্ষসুধীর-বুদ্ধি শ্রীযুত প্রসন্নকুমার সর্বাধিকারী মহাশয়সস্নেহে এবং কাথিড্রাল মিশন কলেজের ইংরাজীকাব্যশাস্ত্রের অধ্যাপক শ্রীযুক্ত মিলার সাহেব মহোদয়সাদরে দেখিয়া সংশুদ্ধ করিয়াছেন।
-
- এক্ষণে কাব্যদীপিকা সৰ্ব্বত্র সাদরে পরিগৃহীত হইলেই শ্রম সফল বোধ করি ।
-
-**শ্রীকান্তিচন্দ্ৰ শৰ্ম্মা**
-
-**सूचीपत्रम्।**
-
-**\~\~\~\~\~\~\~**
-
-|                      |                                  |
-|:--------------------:|----------------------------------|
-|    **प्रथमशिखा**     | लक्षणामूला व्यञ्जना              |
-|    काव्यप्रयोजनम्    | आर्थीव्यञ्जना                    |
-|     काव्यलक्षणम्     | **तृतीयशिखा**                    |
-|   **द्वितीयशिखा**    | काव्यभेदाः                       |
-|    वाक्यस्वरूपम्     | ध्वनिः                           |
-|      पदस्वरूपम्      | ध्वनेर्भेदौ                      |
-|      शब्दविभागः      | लक्षणामूलः (अविवक्षितवाच्यः)     |
-|      अर्थविभागः      | अभिधामूलः (विवक्षितान्यपरवाच्यः) |
-|     वाचकस्वरूपम्     | अर्थान्तरसंक्रमितवाच्यः          |
-|    अभिधास्वरूपम्     | अत्यन्ततिरस्कृतवाच्यः            |
-|    लक्षणास्वरूपम्    | विवक्षितान्यपरवाच्यः             |
-|     लक्षणाविभागः     | तद्विभागः                        |
-|     उपादानलक्षणा     | असंलक्ष्यक्रमव्यङ्ग्यः           |
-|     लक्षणलक्षणा      | रसभेदाः                          |
-|   व्यञ्जनास्वरूपम्   | स्थायिभावाः                      |
-|    व्यञ्जनाविभागः    |                                 |
-|    शाब्दीव्यञ्जना    |                                 |
-| अभिधामूलाव्यञ्जना |                                 |
-
-|                              |                               |
-|------------------------------|-------------------------------|
-| व्यभिचारिभावाः               | प्रस्तावनाभेदाः               |
-| संलक्ष्यक्रमव्यङ्ग्यः        | उद्घात्यकलक्षणम्              |
-| गुणीभूतव्यङ्ग्यम्            | कथोद्घातलक्षणम्               |
-| चित्रकाव्यम्                 | प्रयोगातिशयलक्षणम्            |
-| **चतुर्थशिखा**               | प्रवृत्तकलक्षणम्              |
-| दृश्यश्रव्यभेदेन काव्यविभागः | अवलगितलक्षणम्                 |
-| दृश्यकाव्यलक्षणम्            | पताकास्थानकलक्षणम्            |
-| अभिनयस्वरूपंतद्भेदाश्च      | अर्थोपक्षेपकाः                |
-| नाटकलक्षणम्                  | विष्कम्भकलक्षणम्              |
-| नायकलक्षणम्                  | प्रवेशकलक्षणम्                |
-| धीरोदात्तलक्षणम्             | अङ्कावतारलक्षणम्              |
-| धीरोद्धतलक्षणम्              | सन्धिलक्षणम्                  |
-| धीरललितलक्षणम्               | सन्धिभेदाः                    |
-| धीरप्रशान्तलक्षणम्           | नाट्योक्तयः                   |
-| प्रकरणलक्षणम्                | श्रव्यकाव्यलक्षणम् तद्भेदाश्च |
-| प्रहसनलक्षणम्                | महाकाव्यलक्षणम्               |
-| नाटिकालक्षणम्                | खण्डकाव्यलक्षणम्              |
-| अङ्कलक्षणम्                  | गद्यलक्षणम्                   |
-| त्रोटकलक्षणम्                | चम्पूलक्षणम्                  |
-| पूर्व्वरङ्गलक्षणम्           | **पञ्चमशिखा**                 |
-| नान्दीलक्षणम्                | दोषस्वरूपं तद्भेदाश्च         |
-| प्रस्तावनास्वरूपम्           | पदमात्रगताः दोषाः             |
+| | | | | | |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| **क्र.** | **पुस्तकस्य नाम ** | **मूल्य** | **क्र.** | **पुस्तकस्य नाम** | **मूल्य** |
+| १ | आशुबोधव्याकरणम् | २ | ३० | सर्वदर्शनसङ्ग्रहः | ४ |
+| २ | धातुरूपादर्शः | १॥ | ३१ | भामिनीविलास सटीक | ॥ |
+| ३ | शब्दस्तोममहानिधिः | ८ | ३२ | हितोपदेश सटीक | ॥। |
+| ४ | सिद्धान्तकौमुदी सरलासहिता | १० | ३३ | भाषापरिच्छेदमुक्तावलीसहित | ॥ |
+| ५ | सिद्धान्तविन्दुसारः (वेदान्त) | ॥ | ३४ | बहुविवाहवाद | ।० |
+| ६ | तुलादानादिपद्धतिः (वङ्गाक्षरैः) | ४ | ३५ | दशकुमारचरित सटीक | १ |
+| ७ | गयाश्राद्धादिपद्धतिः | १ | ३६ | परिभाषेन्दुशेखर | ॥० |
+| ८ | शब्दार्थरत्नम् | ॥। | ३७ | कविकल्पद्रुम धातुपाठः | । |
+| ९ | वाक्यमञ्जरी (वङ्गाक्षरैः) | ।० | ३८ | चक्रदत्त (वैद्यक) | १॥ |
+| १० | छन्दोमञ्जरी तथा वृत्तरत्नाकर सटीक | ॥० | ३९ | उणादिसूत्र सटीक | २ |
+| ११ | वेणीसंहार नाटक सटीक | ॥।० | ४० | मेदिनीकोष | १ |
+| १२ | मुद्राराक्षस नाटक सटीक | ॥। | ४१ | पञ्चतन्त्रम् | ॥ |
+| १३ | रत्नावली नाटिका सटीक | ॥ | ४२ | विद्वन्मोदतरङ्गिणी (चम्पूकाव्य) | ॥ |
+| १४ | मालविकाग्निमित्र सटीक | १ | ४३ | माधवचम्पू | ।० |
+| १५ | धनञ्जय विजय सटीक | ।० | ४४ | तर्कसङ्ग्रह | ॥ |
+| १६ | महावीरचरितनाटक | ॥• | ४५ | प्रसन्नराघव नाटक | १ |
+| १७ | साङ्ख्यतत्त्वकौमुदी सटीक | २ | ४६ | विवेकचूडामणि | १ |
+| १८ | वैयाकरणभूषणसार | ॥ | ४७ | काव्यसङ्ग्रह (सम्पूर्ण) | ।/ |
+| १९ | लीलावती | ॥ | ४८ | लिङ्गानुशासन सटीक | ५ |
+| २० | बीजगणित | ॥। | ४९ | ऋतुसंहार सटीक | । |
+| २१ | शिशुपालवध सटीक (माघ) | २ | ५० | विक्रमोर्वशी (सटीक) | ।/ |
+| २२ | किरातार्जुनीय सटीक | १॥ | ५१ | वसन्ततिलक भाण | ।/ |
+| २३ | कुमारसम्भव पूर्वखण्ड सटीक | ॥ | ५२ | गायत्रीव्याख्या | ॥० |
+| २४ | कुमारसम्भव उत्तरखण्ड | ॥ | ५३ | साहित्यदर्पण (भाष्यसहित) | २ |
+| २५ | अष्टकम् पाणिनीयम् | ॥० | ५४ | भोजप्रबन्ध | ॥ |
+| २६ | वाचस्पत्यम् (बृहदभिधान) | १०० | ५५ | नलोदय सटीक | ।/ |
+| २७ | कादम्बरी सटीक | १॥ | ५६ | ईश केन कठ प्रश्न मुण्ड माण्डूक्य (सटीक सभाष्य) | ५ |
+| २८ | राजप्रशस्ति | / | ५७ | छान्दोग्य सटीक सभाष्य | ५ |
+| २९ | अनुमानचिन्तामणि तथा अनुमानदीधिति | ४ | ५८ | तैत्तिरीय ऐतरेय श्वेताश्वतर (उपनिषद्) सभाष्य सटीक | २ |
 
 [TABLE]
 
-|              |             |
-|--------------|-------------|
-| व्याजस्तुतिः | विरोधः      |
-| प्रतीपम्     | विषमम्      |
-| अर्थश्लेषः   | असङ्गतिः    |
-| सहोक्तिः     | कारणमाला    |
-| काव्यलिङ्गम् | सारः        |
-| विभावना      | एकावली      |
-| विशेषोक्तिः  | अर्थापत्तिः |
+[TABLE]
 
-———————————
+**सूचीपत्रम्।  
+<MISSING_FIG href="../books_images/U-IMG-17645725774.png"/>**
 
-**सूचीपत्रं सम्पूर्णम्।**  
+| |
+|------------------------------|
+| **विषयः** |
+| प्रथमशिखा |
+| काव्यप्रयोजनम् |
+| काव्यलक्षणम् |
+| द्वितीयशिखा |
+| वाक्यस्वरूपम् |
+| पदस्वरूपम् |
+| शब्दविभागः |
+| अर्थविभागः |
+| वाचकस्वरूपम् |
+| अभिधास्वरूपम् |
+| लक्षणास्वरूपम् |
+| लक्षणाविभागः |
+| उपादानलक्षणा |
+| लक्षणलक्षणा |
+| व्यञ्जनास्वरूपम् |
+| व्यञ्जनाविभागः |
+| शाब्दीव्यञ्जना |
+| अभिधामूला व्यञ्जना |
+| लक्षणामूला व्यञ्जना |
+| आर्थीव्यञ्जना |
+| तृतीयशिखा |
+| काव्यभेदाः |
+| ध्वनिः |
+| ध्वनेर्भेदौ |
+| लक्षणामूलः (अविवक्षितवाच्यः) |
+| अभिधामूलः (विवक्षितान्यपरवाच्यः) |
+| अर्थान्तरसङ्क्रमितवाच्यः |
+| अत्यन्ततिरस्कृतवाच्यः |
+| विवक्षितान्यपरवाच्यः |
+| तद्विभागः |
+| असंलक्ष्यक्रमव्यङ्ग्यः |
+| रसनिरूपणम् |
+| रसभेदाः |
+| स्थायिभावाः |
 
-**शुद्धिपत्रम्।**
+| |
+|:--------------------:|
+| **विषयः** |
+| व्यभिचारिभावाः |
+| संलक्ष्यक्रमव्यङ्ग्यः |
+| गुणीभूतव्यङ्ग्यम् |
+| चित्रकाव्यम् |
+| चतुर्थशिखा |
+| दृश्यश्रव्यभेदेन |
+| काव्यविभागः |
+| दृश्यकाव्यलक्षणम् |
+| अभिनयस्वरूपं तद्भेदाश्च |
+| नाटकलक्षणम् |
+| नायकलक्षणम् |
+| धीरोदात्तलक्षणम् |
+| धीरोद्धतलक्षणम् |
+| धीरललितलक्षणम् |
+| धीरप्रशान्तलक्षणम् |
+| प्रकरणलक्षणम् |
+| प्रहसनलक्षणम् |
+| नाटिकालक्षणम् |
+| अङ्कलक्षणम् |
+| त्रोटकलक्षणम् |
+| पूर्वरङ्गलक्षणम् |
+| नान्दीलक्षणम् |
+| प्रस्तावनास्वरूपम् |
+| प्रस्तावनाभेदाः |
+| उद्घात्यकलक्षणम् |
+| कथोद्घातलक्षणम् |
+| प्रयोगातिशयलक्षणम् |
+| प्रवृत्तकलक्षणम् |
+| अवलगितलक्षणम् |
+| पताकास्थानकलक्षणम् |
+| अर्थोपक्षेपकाः |
+| विष्कम्भकलक्षणम् |
+| प्रवेशकलक्षणम् |
+| अङ्कावतारलक्षणम् |
+| सन्धिलक्षणम् |
+| सन्धिभेदाः |
+| नाट्योक्तयः |
+| श्रव्यकाव्यलक्षणं तद्भेदाश्च |
+| महाकाव्यलक्षणम् |
+| खण्डकाव्यलक्षणम् |
+| गद्यलक्षणम् |
+| चम्पूलक्षणम् |
+| पञ्चमशिखा |
+| दोषस्वरूपं तद्भेदाश्च |
+| पदमात्रगताः दोषाः |
 
-|               |                |
-|:-------------:|:--------------:|
-| **अशुद्धम्**  |  **शुद्धम्**   |
-|     माश्ख     |     मास्ख      |
-|    विलंघ्य    |    विलङ्घ्य    |
-|      ऽथ       |     ऽर्थः      |
-|     पत्रा     |     त्रपा-     |
-|      ‚–       |       |        |
-|    पुलिङ्ग    |    पुंलिङ्ग    |
-|     येत्य     |     मेत्य      |
-|      ,–       |       |        |
-|      ,–       |       |        |
-|   कर्मकस्य    |   कर्म्मकस्य   |
-| प्रबालोद्मस्य | प्रबालोद्गमस्य |
-|  कीर्त्त्या   |   कीर्त्त्यो   |
-|    यऽङ्के     |    येऽङ्के     |
-|     पूव्व     |    पूर्व्व     |
-|    विश्वः     |     विश्व°     |
-|      लभा      |      लता       |
-|     गताः      |      गता       |
-|    भण्डला     |     मण्डला     |
-|      चरो      |      रुचो      |
+| |
+|:---------------------------:|
+| **विषयः** |
+| पदवाक्यगताः दोषाः |
+| वाक्यमात्रगतदोषाः |
+| अर्थदोषाः |
+| रसदोषाः |
+| दोषाणां कचिद्गुणत्वं कचिददोषत्वञ्च |
+| षष्ठशिखा |
+| गुणस्वरूपम् |
+| गुणविभागः |
+| माधुर्य्यस्वरूपम् |
+| ओजःस्वरूपम् |
+| प्रसादस्वरूपम् |
+| सप्तमशिखा |
+| रीतिस्वरूपं तद्भेदाश्च |
+| वैदर्भीलक्षणम् |
+| गौड़ीलक्षणम् |
+| अष्टमशिखा |
+| अलङ्कारस्वरूपम् |
+| अलङ्कारविभागः |
+| शब्दालङ्काराः |
+| अनुप्रासः |
+| यमकम् |
+| श्लेषः |
+| अर्थालङ्काराः |
+| स्वभावोक्तिः |
+| उपमा |
+| मालोपमा |
+| रूपकम् |
+| उत्प्रेक्षा |
+| अतिशयोक्तिः |
+| अन्यरूपा अतिशयोक्तिः |
+| व्यतिरेकः |
+| प्रतिवस्तूपमा |
+| निदर्शना |
+| दृष्टान्तः |
+| अर्थान्तरन्यासः |
+| तुल्ययोगिता |
+| दीपकम् |
+| अन्यरूपं दीपकम् |
+| सन्देहः |
+| भ्रान्तिमान् |
+| अपह्नतिः |
+| समासोक्तिः |
+| अप्रस्तुतप्रशंसा |
 
-SANSKRIT POETRY.
+| |
+|:---------:|
+| **विषयः** |
+| व्याजस्तुतिः |
+| प्रतीपम् |
+| अर्थश्लेषः |
+| सहोक्तिः |
+| काव्यलिङ्गम् |
+| विभावना |
+| विशेषोक्तिः |
+| विरोधः |
+| विषमम् |
+| असङ्गतिः |
+| कारणमाला |
+| सारः |
+| एकावली |
+| अर्थापत्तिः |
 
-  "Poetry," says Hazlitt, “is the language of the imagination and the passions. It relates to whatever gives immediate pleasure or pain to the human mind". Its existence may, therefore, be co-eval with the primary institution of society, and even with the first creation of man. His earliest efforts would, indeed, consist of unconnected and separate pieces without any systematic arrangement. First of all, the marvellous and gigantic power of the elements, and the splendid appearance of the heavenly bodies,-the visible symbols of the invisible and infnite, would strike his mind. The exploits and prowess of the favored few,' shining pre-eminently over their fellow-brethren, and dazzling their eyes by a charming brilliancy, would not fail to produce their effect. Hence would, naturally, spring two sorts of poetry, the first consisting of hymns addressed to, and singing the glory and power of, the visible deities, and through them extolling the mysterious potency of the Omnipotent: and the second comprehending short ballads and songs, celebrating the exploits and adventures of some favorite hero. It would be long, before systematic and continued pieces would be originated. System is the work of time, the production of mature judgment and consummate genius.  
-  The Greeks had got hymns and ballads before the immortal father of their poesy touched his harp. His mighty and grasping
 
-genius could hardly remain content with a few poor scraps and scattered patches, which had satisfied his predecessors. He, at once, laid and established his claim over the vast empire of poetry, and gave it a poetical organization of his own.
 
-     The Romans, under the republic, had no high aspirations in this departmemt of literature. They felt not the delicate charms of poetry,—the sweet phrensy of fancy. They were emphatically the children of Mars, and bore too manly a spirit to stoop before the feminine Muses. They boasted of their stern discipline and rigid martial spirit, as the characteristic of a sovereign people, and hated the softer arts as belonging to the subject races and the effeminate barbarians. Poetry, in consequence, languished in their age, and never grew with vigor and luxuriance. It was not till the Augustan era, that this elegant art flourished in Rome. It is a delicate plant that grows only in the congenial warmth of imagination; it cannot bear the blighting heat of stern utility and rigid discipline.
+सूचीपत्रं सम्पूर्णम्।  
+———
 
-     The Hindus have been pre-eminently celebrated for the originality and antiquity of their poetry. Their chief defect lies in the almost absolute want of any historical records properly so called. Whatever imformation can be gleaned of their past history is through the gorgeous and delusive coloring of poetry, or through their intercourse with other nations. It was not till the invasion of Alexander, that any knowledge of them could be had from foreign sources. We must then look to the country itself to gain any information of the times anterior to the Greek invasion, and, in the absence, in general, of external evidence, we must place our chief reliance on the internal testimony to be extracted from the living monuments of our ancestors,— the works they have left us as an inexhaustible and priceless patrimony,–the everlasting memorials of their divine genius.
+**काव्यदीपिका।**  
+<MISSING_FIG href="../books_images/U-IMG-176457336754.png"/>
 
-The vast field yet remains unexplored, or only partially explored, presenting, indeed, at the first sight, a desolate and dark appearance, but containing rich mines of gold in the interior; and although the indefatigable zeal and the indomitable perseverance of some master-minds in Europe have, to some extent, smoothed the way, the deep recesses of Hindu history lie yet in darkness. A Niebuhr of Indian history is yet to be born.  
-    I do not presume at all to throw any light on Hindu history. It is beyond my capacity and acquirements. I will only attempt, in the following pages, to trace the changes, Sanskrit Poetry underwent, from its rude structure in the Vedas to the highest refinements it attained to, and its decline in latter days.  
-    The hymns of the Rig Veda, the only portion of the sacred Scriptures which can be classed with poetry, are principally addressed to Indra, 'the deity of the visible firmament,' 'the God of lightning and rain', and Agni 'the God of fire'. They are the oldest monuments of Hindu genius, and the earliestspecimens of their poetry. The poetry, however, of the hymns, is not so simple as could be expected in so early a period of Society. "The poetry of the Rig Veda is remarkably deficient in that simplicity and natural pathos or sublimity which we usually look for in the songs of an early period of civilization.
-
-   Next in succession comes the Ramayana of.Valmiki, the earliest and the greatest epic in Sanskrit. Valmíki is said to be the A'dikavi or primeval poet, and the inventor of *Sloka*, ( Sanskrit verse) so called from the occasion of its birth, the *compassion* which filled the heart of the sage at the sight of a pair of cranes,
-
-Ed. E. Cowell. Elphinstone's History of lndia.
-
-one of which had been cruelly pierced by the arrow of a fowler.The simplicity of the style, the sweet and natural pathos pervading throughout and the *prolixity* (if I may so use the term) in the structure, are quite in keeping with its early date.<MISSING_FIG href="../books_images/U-IMG-1704269607image13.jpg"/>
-
-    The Mahabharata of Vedavya'sa contains passages full of pathos and grandeur. The descriptions in the Sabha Parva, and the pathetic delineations in the Stri Parva are genuine touches of poetry. But although the style is, in general, characterized by simplicity, and we meet with occasional prolixity in the structure, we have not here invariably the smooth and flowing strain of the Ramayana, nor always its simple, natural, yet vivid style. The work of Valmi'ki is like a garden of nature, where she shines in simple and naked beauty, and sports wild at her pleasure; while in the Mahabharata we have, now and then, a sprinkling of artificial tinge,—a touch of later refinements; and the style bears evident proofs of an advanced stage in the language.  
-  But it was in the hands of Kalidasa and Bhavabhuti, that Sanskrit poetry attained to its highest refinements, consistent with purity, and without the extravagant coloring imparted to it by later writers. But as we are acquainted with Bhavabhuti as a dramatic writer, and as I shall speak of Sanskrit drama separately, I postpone noticing his poetry, till I come to treat of the subject of the Hindu theatre.  
-  Ka'lida'sa is known to the world both as an epic and a dramatic poet. His style is pure, chaste and simple; it has not, in the least, the laxity of the sacred poems, and though characterised by brevity, perspicuity runs through
-
------------------------------------------------------------------------------------------------  
-<MISSING_FIG href="../books_images/U-IMG-1704269607image13.jpg"/>The Upanishads and the Puranas, including the Bhagavata, though they, now and then, glow with poetic sentiments, cannot properly be classed with poetry. I am not in a position to fix their dates in the progress of Sanskrit literature.  
-------------------------------------------------------------------------------------------------
-
-every vein of his poetry. His discriptions are always true to nature, his delineation of characters faithful to the minutest point; his similes are every where appropriate, natural, beautiful. Nature yielded to him as a gentle bride, and ever remained faithful in his hands. The description of the ocean, of the forest scenery, and the hermitage of the sages therein, in the 13th Book of the Raghuvansa, when Rama returned home from Lanka ;—the parting scene of Lakshmana in the 14th, leaving Sita, the queen of Rama, alone and helpless in the wilderness, a prey to the howling beasts, and crying aloud like a frightened kurari;— the suddenand wonderful appearnce, at midnight, of the goddess of Ayodhya, before Kusha sleeping in his apartment with doors all barred and closed, and her descriptions of deserted Ayodhya, graphically contrasted with her former glory and beauty;—the most faithful delineation of the acts of the maidens of Beder, eager to feast their eyes with the sight of Aja in the 7th, and of those of Indraprastha, when Śiva advanced through that capital in marriage procession in the 7th of Kumara ;—the discourse of Śiva in the disguise of an ascetic, and Pa'rvati practising hard austerities to gain his favor ;—and the vivid descriptions in the Meghadu'ta, are among the master-pieces in the Language.
-
-      Another rare quality characterizes his poetry. He could delineate, within the shortest compass imaginable, subjects which had occupied volumes in the hands of others, and yet would not leave out a single prominent fact in his descriptions. His epithets are always appropriate and full of meaning, and he seldom uses particles merely to fill up the verse.
-
-       The style of the Kiratarjuniya of Bharavi is classical and elaborate. It has not the simplicity of the Raghuvansa, nor
-
-its natural structure. The peculiar characteristic of Bharavi's writings is the great condensation of matter. Almost every sine of his poetry may form the subject of an essay. The great work of Bharavi marks a new epoch in Sanskrit poetry. In his work, to a certain extent only, but to a greater degree, in the noble productions of the poets subsequent to him, we find a more ostentatious display of learning and ingenuity, than indication of genuine touches of true and simple poetry.They possessed great powers of description, but they knew not where and when to stop. Their descriptions and discourses are sometimes too long to attract the attention of the readers. Some of them carried their refinements too far, and to an extravagance quite beyond the region of true poetry.  
-     The Bhattikavya is a work of great merit, both as an epic poem, and possessing great grammatical interest besides. The description of autumn, opening the second Book of his work, is an excellent piece of poetry, and clearly proves that the author possessed great natural powers, and a high poetical genius. But unfortunately, his object was to teach *grammar* through poetry, and he was therefore often forced to sacrifice the latter at the stern and rigid altar of the former.   
-    The S'isu'palabadha of Magha is an exact prototype of the great work of Bharavi. His descriptions are often too long and tedious. That of Krishna's passage, from Dwaraka to Indraprastha, takes up the space of ten long books in his hands. But the copy surpasses the original in evincing greater variety, learning and skill in the discourses and descriptions. The conference of Uddhava, Krishn'a and Balarama in the 2nd Book, and the quaint reproaches of S'isu'pala in the 15th, shew great artistic skill in the author, and are excellent pieces of their kind.  
-     But it was in the hands of Sri Harsha in his Naishadha
-
-Charita, that refinements were carried to their utmost extravagance. His genius was too sharp to keep the tender graces of Poetry unhurt. His exaggerations knew no bonnds—were checked by no rules. His horses were too ambitious to rest satisfied with the whole space of earth for their range; they must dry the occan with the dust of their hoofs to have a wider scope for their course. The moon had the misfortune to part with a great portion of the bright matter of her orb for the formation of the face of Damayanti, by the great creator, and hence the dark spots in her disc. Such unnatural exaggerations abound in the great work of Sri. Harsha. But his descriptions, arguments and discourses shew marks of a very sharp intellect, great geuins, consummate skill, and most profound learning.  
-  The Ràghavapàndaviya of Kaviraja is a work of little merit, contains less poetry, and is noted only for its verbal ingenuity, all its slokas bearing a double sense throughout the poem.  
-  Thus Sanskrit poetry gradually degenerated into mere verbal quibbles and pompous bombastic trash.  
-  The Sugared' pastoral songs of our honey-tongued' Jayadeva are the only exceptions, and they are the only pieces of the kind in Sanskrit poetry. They flow in soft and liquid strain. They are, indeed, as the poet boasts, sweeter than nectar, softer than the softest feminine graces, and more musical than the harmonious tune of the *Vina*.  
-  I purposely omitted to mention the name of the Nalodaya ascribed to Kalidasa. I need hardly remark, that as a poetical work, it is of little merit, contains mere verbal ingennity, and is not at all worthy the name of the greatest of Sanskrit bards. It is perhaps the work of a Kalidasa who lived long after his celebrated namesake.  
-  Sanskrit poetry is very poor in prose productions. I shall barely mention the names of the only ones which can be
-
-classed with poetry. These are the Das'akumára Charita of Sri-Dandin, the Kadambari of Vana Bhatta and the Vashavadattà of Subundhu.  
-  The dramatic literature of a country is important and interesting not only in a literary and philological point of view, but also as it throws light on the manners and customs of the people, on the state of religion and philosophy of the time, and in short, on the general history of the nation. "The objects," says Prof. Wilson "for which an ancient dialect may be studied are its philology and its literature, or the arts and sciences, the notion and manners, the history and belief, of the people by whom it was spoken. Particular branches of composition may be preferably cultivated for the due understanding of each of these subjects, but there is no one species which will be found to embrace so many purposes as the dramatic. The dialogue varies from simple to elaborate, from the conversation of ordinary life to the highest refinements of poetical taste. The illustrations are drawn from every known product of art, as well as every observable phenomenon of nature. The manners and feelings of the people are delineated living and breathing before us, and history and religion furnish the most important and interesting topics to the bard. Wherever therefore there exists a dramatic literature, it must be pre-eminently entitled to the attention of the philosopher as well as the philologist, of the man of general literary taste as well as the professional scholar".  
- The drama of the Hindus is original and their own; it is borrowed from no other nation ancient or modern. It belongs to that class of dramatic literature which modern European scholars have termed `Romantic`, in opposition to what has been styled *classical*. Schlegel remarks “the only specimen of their plays hitherto known to us is the delightful
-
-Sakuntala, which, notwithstanding the foreign coloring of its native climate, bears in its general structure such a striking resemblance to our own romantic drama, that we might be inclined to suspect, we owe this resemblance to the predilection for Shakespeare, entertained by the English translator Sir W. Jones, if his fidelity were not attested by other learned orientalists".
-
-  The number of Sanskrit dramas, now extant, is indeed very small, when compared with the theatre of some other nations. But this is probably owing to the unfrequency of their representations, and to the neglect of this department of literature by the learned. "They seem to have been acted only on solemn and public occasions".<MISSING_FIG href="../books_images/U-IMG-1704269607image13.jpg"/>Numbers doubtless are lost, and only those of peculiar merit have come down to us. And that the Hindu theatre is only partially represented by the surviving specimens, is proved by the fact, that one of the earliest of their plays, the Vicramorvasí of Kalidasa, refers to the sage Bharata as having analysed the dramatic art. The long lost *poetics* of the Hindu Aristotle in 34 chapters have been recently discovedre by Dr. Hall. Many plays must have been composed before a critic could have written so copiusly on the theory". **†**
-
-  A peculiarity of the Hindu drama is the mixing of Prakrita dialects in the speeches of the inferior *dramatis personce*. This shews, that Sanskrit ceased to be the spoken language of the country before the rise of dramatic literature. I doubt, whether Sanskrit was ever the spoken dialect of the people of all India. India is not a country but a continent; and to expect a common dialect throughout this vast extent would be almost extravagant.As the descendants of the Aryas spread on all sides, their dialects, gradually and of necessity, changed, differing from the mother tongue and from each other. Hence sprang the various dialects
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-<MISSING_FIG href="../books_images/U-IMG-1704269607image13.jpg"/>Wilson's Hindu Theatre.  
-**†**E. B. Cowell,  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-in the different countries of India. They are all, however, the daughters of the same mother (Sanskrit), and bear a near familyrelation to each other. Sanskrit, however, continued to be the language of the learned and the higher classes, and like Latin in Europe during the middle ages, formed the medium for the productions of great minds in every department of learning.   
-  Sanskrit dramatists are not shackled by the rigid and artificial rules of the Greeks and the French,—nor are they allowed the extravagance of the Chinese play-writers. They have little regard for the unities of time and place. As for the unity of action, I do not clearly understand what is meant by it. "In the highest and proper signification" says Schlegel, "action is an activity dependent on the will of man. Its unity will consist in the direction towards a single end, and to its completeness belongs all that lies between the first determination and the execution of the deed." This idea of action does not apply to Hindu drama. To quote again the words of Schlegel, "What comes to pass through the principal characters, and proceeds with them,has frequenlty no more connection with a voluntary determination than a ship's striking on a rock in a storm". "If by unity of action" says Prof. Wilson, "be meant singleness of incident, they (Hindu dramatists) exhibit an equal disdain for such a restriction."  
-  Another characteristic of our drama is, that we have no etragedies, that\* is, no dramatic compositions ending tragically. Hindu dramas must, invariably and of necessity, have a happyend. The hero may encounter dread ful and serious calamities,—h may suffer excruciating pangs of separation, —he may wander from forest to forest, his head deranged, his mind distracted, in mad quest of his love; but he must be crowned with successin the end. The tragical end of the hero is shocking to Hindu idea,—shocking to their tender feelings.
-
-Though thus we have no tragedy at all, which forms an important branch of dramatic composition of many nations, ancient and modern, there is not wanting a great variety in this department of Sanskrit literature. There are ten kinds of *Rùpakas* properly so termed, and eighteen sorts of *Uparu'pakas*, the minor or inferior *Rùpakas*. We have also moral plays as the Prabodha Chandrodaya, which are, however included in one or other of the former divisons.  
-  I have mentioned before the numerical paucity of the Hindu dramas. To each of the two greatest masters of the art Kalidasa and Bhavabhuti are ascribed only three pieces. We have, indeed, no Antiphanes whose fertile genius could produce three hundred and sixty five comedies, nor a giant Lope de Vega, the incredible number of whose dramatic compositions astounds our ears; and the lightning flash of whose genius could extend to a thousand lines, while walking in his garden. I am quite in the dark about the merit of these wonderful productions; but of this, I am sure, that Sanskrit drama loses little by the smallness of the number of works in this department of poetry. Its quality fully compensates for its quantity. Moreover, we have in Kalidasa combined the greatest epic and the greatest dramatic genius in the language, an excellence which no other poet, in any nation, as far I am aware,has ever been endowed with.  
-  Many of the earliest Sanskrit dramas are certainly lost. The oldest specimen extant of the Hindu theatre, is the Mrichhakatika attributed to the royal poet S'u'draká (শূদ্রক), whom tradition places in the first century before Christ. That the work is of considerable antiquity, is proved by internal evidence, and by the structure of the style which is characterized by the simplicity of an early age, and has not the elaborate polish of later times.  
-  Next we come to Kalidasa, the prince of Sanskrit bardsto
-
-whose immortal genius are ascribed three dramatic pieces. I°The Abhijnana Sakuntala, the greatest, sweetest and finest drama in the language. 2° The Vicramorvasí, which excels in poetic and visionary charm, reminding us of the fairy scenes of Shakespeare in his Midsummer-Night's Dream. 3° The Malavikagnimitra. That the first two are the genuine productions of the same hand, there is no reason to doubt. "The subject of each is taken from heroic mythology, and a royal demigod and a nymph of more than human mould are the hero and heroine of either; there is the same vivacity of description and tenderness of feeling in both; the like delicate beauty in the thoughts and extreme elegance in the style"<MISSING_FIG href="../books_images/U-IMG-1704269901image13.jpg"/>. The Malavikagnimitra is a work of inferior merit. There is doubt whether it is the production of the favored child of Saraswati. "The internal evidence" says Prof. Wilson "is adverse to the drama's being the work of the author of Sakuntala and Vikramorvasí. There is neither the same melody in the verse, nor fancy in the thoughts."  
-  Bhavabhúti is second only to Kalidasa in this department of poetry. To him also are attributed three dramas.— The Uttararamacharita, the Malati Madhava, and the Mahaviracharita. The peculiar merit of his poetry is the sublimity of descriptions,a quality rarely met with in the productions of other Sanskrit bards. His style is classical, and though elaborate, is not deformed by extravagant refinements. His descriptions of mountain scenery are highly picturesque and truly grand. His glowing delineation of the sites of the Dandakaranya,—here shining in tender green,—there looking dismal with their vast and dreary extent,-and resounding in places with the rushing of the waterfalls; and his descripitons of the transparent rills moving gently along, with their banks  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-<MISSING_FIG href="../books_images/U-IMG-1704269901image13.jpg"/>Wilson's Hindu Theatre.  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-shaded with groves of canes, are indeed sublime and romantic.The pathetic strain,— describing the painful situation of Ayodhya's and Sita's lord, and depicting in breathing terms his tender feelings, roused by the sight of the familiar scenes, where he had lived for years with his beloved queen, whom his own cruel hands have banished from his kingdom, a victim to the howling forest, and whom he never hoped to see any more, can  
-                                "create a soul,   
-                             Under the ribs of death";  
-and move the senseless rocks.  
-  The Mudra Rakshasa of Visakhadatta is a drama of a quite different description from the works of Kalidasa and Bhavabhuti. It is entirely of a political character, and interesting in the display of Machiavelian artifices througout the work. The plot is well-conducted. The poet is much inferior to the two great masters of the art in fancy, imagery and brilliancy of thought. "The style though wanting in beauty is always vigorous and occasionally splendid".<MISSING_FIG href="../books_images/U-IMG-1704269901image13.jpg"/>  
-  To Srí Harsha are ascribed the Ratnavalí and the Nàgànanda. Though the former is decidedly superior to the latter, there, is little doubt, that they are the productions of the same hand. Whether they are, really, the works of the Royal Bard, or presented to his Highness by Dhavaka (who got plenty of money in return.) as is alleged by the author of the Kavyaprakas'a, we gain or lose little by the information. This, however, is certain that they were written in the reign of the above named Cashmerian prince, and thus we have a certain clue to their date.  
-   The style in both, and especially in the Ratnavali, is very smooth, elegant, and excedingly beautiful. The Prakrita of the Ratnavali, in paticular, is eminently elegant, and appears to equal advantage in no other drama. The poetry of the Ratnavali  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-<MISSING_FIG href="../books_images/U-IMG-1704269901image13.jpg"/>Wilson's Hindu Theatre.  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-is, indeed, inferior to that of the works of Kalidasa and Bhavabhuti, both in fancy and elevation of thoughts; but I cannot go so far as Prof. Wilson in the assertion, "that there is in it no poetic spirit, no gleam of inspiration, scarce even enough to suggest a conceit in the ideas"."The Ratnavalí he proceeds, and not without reason, as it seems to me, "may be taken as one of the connecting links between the old and new school, as a not unpleasing production of that middle region through which Hindu poetry passed from elevation to extravagance.”  
-  The Venísanhàra of Bhattanarayana is a drama of ordinary merit. The style though spirited is harsh. There is enongh of passion, but very little of fancy. The peculiar excellence of the piece is the nice distinction of characters. Those of Duryodhana, Arjuna, Karna and Ashathama, and above all, that of Bhímasena, are faithfully delineated and minutely distinguished. Yet even in this our author failed, and miserably failed, in depicting the hero himself. Yudhisthira cannot but be the hero of the play. But he acts no prominent part in it. We do not find him at all in the stage till the commencement of the last act, where even he acts the part of a credulous fool, quite incompatible with the character of the hero of *nataka*.  
-  The dramatic works of subsequent writers abound more or less in extravagant refinements. A few only deserve notice. The Chandakaushika of Aryakshemishwaramay be noted for its pathetic stṛain, elegant style, and the dramatic interest in the hero. The Anargharaghava of Murari is celebrated for its elaborate style, has little dramatic merit, contains few poetic thoughts, and is full of hyperbolical extravagance and flat commonplace. The Mrigánkalekha' by Vishwanatha bears nothing original. Almost every incident and every thought in it, is borrowed from his predecessors. The Dhurtanartaka, the Hasyarnava and the Kautakasurvaswa are comic pieces or farces, being.
-
-satirical attacks, the first upon the Sàiva ascetics, the second upon the licentious Brahmanas, assuming the character of religious mendicants, and the third upon princes who addiet themselves to sensuality, and fail to patronize learning.  
-  Even the present century is not altogether barren of dramatic compositions. But the productions cause only incredible labor in their birth, and are either born lifeless, or suffer a miserable life to the great uneasiness of their parents.  
-  I shall conclude with a few remarks on the Hanumannataka or the *Maha* or great *nataka* as it is emphatically called. It is evidently the work of several hands, the different fragments put together, aranged and formed into an entire whole (most probably) by Damodara Misra at the command of Bhoja. The poem contains passages of genuiue poetry; but it has no consistence with the principles of drama. There is no mention of entrance or exit, and the poet himself is the speaker in several places.
-
-K. C. B.
-
-**काव्यदीपिका**
-
-**प्रथमशिखा।**
+**प्रथम शिखा।**
 
 **मातरं हृदये ध्यात्वा विशदाम्बुजवासिनीम्।  
-बालानां सुखबोधाय क्रियते काव्यदीपिका॥  
-"काव्यं यशसेऽर्थकृते व्यवहारविदे शिवेतरक्षतये** <MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>**।  
-सद्यः परनिर्वृतये कान्तासम्मिततयोपदेशयुजे"॥**
+बालानां सुखबोधाय क्रियते काव्यदीपिका॥**
 
-मम्मटः।
+**"काव्यं यशसेऽर्थकृते व्यवहारविदे शिवेतरक्षतये\*।  
+सद्यः परनिर्वृतये कान्तासम्मिततयोपदेशयुजे"॥ मम्मटः। (१)**
 
-  काव्यं हि पाठादिसमनन्तरमेव अनिर्वचनीय-विलक्षणानन्दाय, **↑[^1]**कालिदासादीनामिव यशःसम्पत्तये, श्रीहर्षादेर्धावकादीनामिव धनाधिगमाय, लोकाचारादिपरिज्ञानाय, सुधामयेनोपदेशवचनेन रामादिवत्प्रवर्त्तितव्यं न रावणादिवत् इति सत्पथप्रवर्त्तनाय साधुविगर्हितवर्त्मनिवर्त्तनाय च, तत्तद्भाषासुव्युत्पत्तिलाभाय च यथायोगं कवेः पाठकानाञ्च भवतीति बहुफलतया काव्यस्य तल्लक्षणादिकमवश्यमवगन्तव्यंधीमतामिति प्रथमतः काव्यस्य लक्षणमाह,—  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>काव्यादनर्थनिवारणञ्च भवतीत्याह, तथा च मयूरभट्टः सूर्य्यशतकं विरचय्य महारोगान्निर्मुक्त इति प्रवादः।  
-**↑[^1]**इदमेव काव्यस्य प्रधानफलमिति कारिकाक्रममनादृत्य प्रथममुपन्यस्तम् ।  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+——————————————————————————————————
 
-[^1]: "↑ इदमेव काव्यस्य प्रधानफलमिति कारिकाक्रममनादृत्य प्रथममुपन्यस्तम् ।"
+ \*काव्यादनर्थनिवारणञ्च भवतीत्याहुः, तथा च मयूरभट्टः सूर्य्यशतकं विरचय्य महारोगान्निर्मुक्त इति प्रवादः।
 
-**कथ्यते काव्यम् “इष्टार्थव्यवच्छिन्ना पदावली”॥** दण्डी**।**
+——————————————————————————————————
 
-  इष्टा अलौकिकचमत्कारित्वेन सहृदयमनोरमा अर्थास्तैर्व्यवच्छिन्ना विलक्षणीकृता पदावली पदसमूहः काव्यम्। “रिपुस्ते मृतः" "पुत्रस्ते जातः” इत्यादिवाक्येन जनितस्य आह्लादस्य न लोकोत्तरत्वमिति न तत्र काव्यत्वप्रसक्तिः।तथा च लोकोत्तरचमत्कारितया सहृदयहृदयाकर्षि वाक्यं काव्यमिति फलितम्। तन्नाम वाक्यं काव्यं, यत् खलु विलक्षणाचमत्कारितया बलादिव वशमानीय सामाजिकजनमनांसि रञ्जयति। यथा—
+प्रणम्य परमात्मानम् ओजोवानन्दशर्मणा।  
+व्याख्यया समलङ्कृत्य तन्यते काव्यदीपिका॥
 
-“ मानुषीभ्यः कथं नु स्यादस्य रूपस्य सम्भवः।  
-न प्रभातरलं ज्योतिरुदेति वसुधातलात्"॥अ० श०।
+ (१) काव्यमिति काव्यं कविकृतमलौकिकचमत्कारिवाक्यं यशसे कीर्त्तये ख्यातिलाभायेत्यर्थः रचयितुः प्रयोक्तुश्चेति शेषः I अर्थकृते धनाधिगमाय, व्यवहारविदे रामादिवत् प्रवर्त्तितव्यं न रावणादिवदित्यादिशिष्टाचारज्ञानाय, शिवेतरक्षतये शिवात् मङ्गलात् इतरमशिवमङ्गलमित्वर्थः तस्य क्षनये नाशाय भगवान्नामकीर्त्तनादिनेति शेषः। सद्यः पाठस्य श्रावणस्य च समनन्तरमेव परा महती निर्वृत्तिः आनन्दः तस्यै तथा कान्तासम्मिततया उपदेशयुजे उपदेशदानाय यथा कान्ताया उपदेशो मधुरतया स्वदते तथा मधुरभावेनोपदेशदानाय भवतीति शेषः।
 
-“उग्गिणदब्भकवला मईपरिच्चत्तणत्तणा मोरी।  
-ओसरिअपाण्डुपत्ता मुअत्तिअस्सुंविअलदाओ<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>'॥अ० श०।
+——————————————————————————————————
 
-“अयि कठोर !यशः किल ते प्रियं  
-  किमयशो ननु घोरमतः परम्।  
-किमभवद्विपिने हरिणीदृशः  
-  कथय नाथ ! कथं बत मन्यसे”॥उत्त०
+ काव्यं हि पाठादिसमनन्तरमेव अनिर्वचनीय–विल–क्षणानन्दाय, कालिदासादीनामिव यशः सम्पत्तये, श्रीहर्षादेर्धावकादीनामिव धनाधिगमाय, लोकाचारादिपरिज्ञानाय, सुधामयेनोपदेशवचनेन रामादिवत्प्रवर्त्तितव्यं न रावणादिवत् इति सत्पथप्रवर्त्तनायं साधुविगर्हितवर्त्मनिवर्त्तनाय च, तत्तद्भाषासु व्युत्पत्तिलाभाय च यथायोगं कवेः पाठकानाञ्च भवतीति बहुफलतया काव्यस्य तल्लक्षणादिकमवश्यमवगन्तव्यं धीमतामिति प्रथमतः काव्यस्य लक्षणमाह,—
 
-एतानि वाक्यानि पाठानन्तरमेव कमपि लोकोत्तरमानन्दं सहृदयानामातन्वन्तीति तेषां काव्यत्वम्।
+**कथ्यते काव्यम् "इष्टार्थव्यवच्छिन्ना पदावली"॥ दण्डी।**
 
-इति काव्यनिरूपणं नाम प्रथमशिखा।
+ दृष्टा अलौकिकचमत्कारित्वेन सहृदयमनोरमा अर्थास्तैर्व्यवच्छित्रा विलक्षणीकृता पदावली पदसमूहः काव्यम्। "रिपुस्ते मृतः" "पुत्त्रस्ते जातः" इत्यादिवाक्येन जनितस्य आह्लादस्य न लोकोत्तरत्वमिति (२) न तत्र काव्यत्वप्रसक्तिः। तथा च लोकोत्तरचमत्कारितया
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>उद्गीर्णदर्भकवला मृगी परित्यक्तनर्तना मयूरी।  
-  अपसृतपाण्डुपत्रा मुञ्चन्ति अश्रु इव लताः॥  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+——————————————————————————————————
+
+ \* इदमेव काव्यस्य प्रधानफलमिति कारिकाक्रममनाहृत्य प्रथममुपन्यस्तम्।
+
+——————————————————————————————————
+
+ (२) इष्टेति। सहृदयमनोरमा सामाजिकसनःप्रह्लादका इत्यर्थः। विलक्षणीकृताः अलङ्कृता इत्यर्थः। लोकोत्तरत्वम् अलौकिकत्वं लोकेष स्वतो यः सुखानुभवः, स लौकिकः, यश्च काव्यनाट्यपरिशीलनजनितः स खल्वलौकिकः तादृशालौकिकानन्दजनकपदावली काव्यमिति निष्कर्षः।
+
+——————————————————————————————————
+
+सहृदयहृदयाकर्षि वाक्यं काव्यमिति फलितम्। तन्नाम वाक्यं काव्यं, यत् खलु विलक्षणचमत्कारितया बलादिव वशमानीय सामाजिकजनमनांसि रञ्जयति। यथा—
+
+**"मानुषीभ्यः कथं नु स्यादस्य रूपस्य सम्भवः।  
+न प्रभातरलं ज्योतिरुदेति वसुधातलात्"॥ (३) अ॰ श॰**
+
+**"उग्गिणदबभकबला मई परिच्चत्तणत्तणा मोरी।  
+ओसरिअपाण्डुपत्ता मुअन्ति अस्मुं विअ लदाओ\*"॥ (४) अ॰ श॰**
+
+**"अयि कठोर ! यशः किल ते प्रियं किमयशो ननु घोरमतः परम्।**
+
+——————————————————————————————————   
+
+**\***उद्गीर्णदर्भकवला मृगी परित्यक्तनर्तना मयूरी!  
+अपसृतपाण्डुपत्रा मुञ्चन्ति अश्रु इव लताः॥
+
+——————————————————————————————————           
+
+ (३) मानुषीभ्य इति। मानुषीभ्यः अस्य एतादृशस्येत्यर्थः रूपस्य सौन्दर्य्यस्य कथं नु केन प्रकारेण वा सम्भवः समुद्भवः स्यात् नैव स्यादित्यर्थः। प्रभातरलं लावण्यपूर्णं ज्योतिः तेजः वसुधातलात् पृथिव्याः न उदेति नोत्पद्यते।
+
+ (४) उद्गीर्णेति। उद्गीर्णाः परित्यक्ता इत्यर्थः दर्भाः कुशा एव कवला ग्रामाः यया तादृशी शकुन्तलायाः पतिगृहयात्राकाले तद्विरहदुःखादिति सर्वत्र योज्यम्। परित्यक्ताहारा इत्यर्थः। परित्यक्तं नर्त्तनं यया सा नृत्यपराङ्मुखीत्यर्थः। अपसृतानि गलितानि पाण्डुपत्राणि यासां तथाविधाः अतएव अश्रु वाष्पवारि इत्यर्थः मुञ्चन्ति त्यजन्ति।
+
+ (५) अयीति। रामं प्रति वासन्त्या उक्तिः। अयि कठोर! हे निष्ठुर इत्यर्थः ते तव यशः प्रजारञ्जनजमिति शेषः प्रियं प्रीतिकरं किल निश्चितम्। ननु देवेति शेषः अतः परं यस्मादन्यदित्यर्थः  
+——————————————————————————————————
+
+**किमभवद्विपिने हरिणीदृशः  
+कथय नाथ! कथं वत मन्यसे”॥ (५) उत्त॰**
+
+ एतानि वाक्यानि पाठानन्तरमेव कमपि लोकोत्तरमानन्दं सहृदयानामातन्वन्तीति (६) तेषां काव्यत्वम्।
+
+**इति काव्यनिरूपणं नाम प्रथमशिखा।**  
+* *
 
 **द्वितीयशिखा।**
 
- ————
+<MISSING_FIG href="../books_images/U-IMG-1766573094sample-6.png"/>
 
-वाक्यस्वरूपमाह,—
+ वाक्यस्वरूपमाह,—
 
-**अन्वितैकार्थबोधेतु वाक्यं पदसमुच्चयः। **
+**अन्वितैकार्थबोधे तु वाक्यं पदसमुच्चयः। (१)**
 
-  पदानां प्रत्येकं सार्थकत्वेऽपि तेषामर्थो नान्वितः, वाक्यन्तु तदन्तर्गतपदार्थसमुदितमेकमर्थं बोधयति। यथा, 'जननी सुताननं सस्नेहमीक्षते'।
+——————————————————————————————————
 
-**“सुप्तिङन्तं पदं” प्राहपाणिनिर्मुनिसत्तमः। **
+घोरं दारुणम् अयशः सीतानिर्वासनजनितमिति शेषः किं नातः परमयशो नास्तीति भावः। विपिने अरण्ये हरिणीदृशः सीतायाः किमभवत् वृत्तमिति शेषः हे नाथ! हे प्रभो! कथय वद, वत खेदे, कथं मन्यसे किं विवेचयसि ?
 
-  सुबन्तः तिङन्तश्चशब्दः पदम्। यथा, 'रामः' 'भवति' इत्यादि।  
-शब्दः पुनस्त्रिविधः, यथाह मम्मट-भट्टः,—
+ (६) आतन्वन्ति जनयन्ति।
 
-**"स्याद्वाचको लाक्षणिकः शब्दोऽत्र व्यञ्जकस्त्रिधा”।**
+इति प्रथमशिखा।  
+<MISSING_FIG href="../books_images/U-IMG-1766573401sample-7.png"/>
 
-अर्थोऽपि शब्दप्रतिपाद्यस्त्रिविध एव, वाच्यः, लक्ष्यः, व्यङ्ग्यश्च।
+ (१) अन्वितैकार्थबोधे इति। अन्वितस्य अन्वययुक्तस्य परस्परसम्बद्धस्येत्यर्थः एकस्य अर्थस्य बोधे सति तु पदानां सुप्तिङन्तरूपाणां समुच्चयः समूहः अनेकसङ्ख्यकपदावलीत्यर्थः तथाचान्तर्गतपदार्थसमुदितैकार्थबोधकं पदद्वयं वा पदसमुदायो वाक्यमिति फलितमिति भावः। तत्र पदद्वयं यथा राजा गच्छति, पदसमुदायस्य मूल एवोदाहरणं द्रष्टव्यम्।
 
-**"वाच्यादयस्तदर्थाः स्युः" मम्मटेन यथोदिताः। **
+——————————————————————————————————
 
-वाचकादीनां क्रमेण स्वरूपमाह,—
+ पदानां प्रत्येकं सार्थकत्वेऽपि तेषामर्थो नान्वितः, वाक्यन्तु तदन्तर्गतपदार्थसमुदितमेकमर्थं बोधयति। यथा, 'जननी सुताननं सस्नेहमीक्षते,।
 
-**" साक्षात् सङ्केतितं योऽर्थमभिधत्तेस वाचकः”। **
+**"सुप्तिङन्तं पदं" प्राह पाणिनिर्मुनिसत्तमः।**
 
-मम्मटः।
+ सुबन्तः तिङन्तश्च शब्दः पदम्। यथा, 'रामः' 'भवति' इत्यादि
 
-साक्षात् सङ्केतितस्तु ‘अस्मात् शब्दादयमर्थो बोद्धव्य' इति
+ शब्दः पुनस्त्रिविधः, यथाह मम्मट–भट्टः,—
 
-शब्दस्य स्वाभाविक्या शक्त्या<MISSING_FIG href="../books_images/U-IMG-1703781037image13.jpg"/>व्याकरणादिना वा नियन्त्रितः। इयमेव शक्तिः “अभिधा” इत्युच्यते। अनया बोध्योऽर्थः वाच्यः, स चसाक्षाद् बोध्यत्वेन प्रधानतया मुख्यार्थ इत्यपि अभिधीयते। यथा गो–शब्दोऽभिधया गलकम्बलादिमज्जीवविशेषरूपं, पाचकशब्दश्च पाककर्तृरूपञ्चार्थं साक्षात् बोधयति।  
-  लक्षणयाऽर्थबोधकः शब्दो लाक्षणिकः, तथा बोध्योऽर्थः लक्ष्यः।लक्षणास्वरूपमाह विश्वनाथः,—
+**"स्याद्वाचको लाक्षणिकः शब्दोऽत्र व्यञ्जकस्त्रिधा"। (२)**
 
-**"मुख्यार्थबाधे तद्युक्तोययाऽन्योऽर्थः प्रतीयते।  
-रूढ़ेःप्रयोजनाद्वासौ लक्षणा शक्तिरर्पिता"॥**
+ अर्थोऽपि शब्दप्रतिपाद्यस्त्रिविध एव, वाच्यः, लक्ष्यः, व्यङ्ग्यश्च।
 
-  मुख्यार्थस्य अन्वयानुपपत्तिग्रहे तदर्थसम्बन्धी अन्योऽर्थः, रूढ़िप्रयोजनयोरन्यतरस्मिन् हेतौ सम्भवति, यया प्रतीयते सा वृत्तिर्लक्षणा नाम।रूढ़िःप्रसिद्धिः, यथा, 'कलिङ्गः साहसिक' इत्यत्र कलिङ्गशब्दो देशविशेषरूपे स्वाभिधेयेऽर्थोऽसम्भवन् तद्देशवासिनः पुरुषान् बोधयति। प्रसिद्धिश्च अत्र हेतुः। 'गङ्गायां घोषः' इत्यत्र च गङ्गाशब्दःप्रवाहविशेषरूपं स्वाभिधेयमर्थं बोधयितुमसमर्थः सामीप्यसम्बन्धसम्बन्धिनं तटं बोधयति। हेतुश्चात्र शीतत्वपावनत्वातिशयबोधनरूपं प्रयोजनम्।  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-<MISSING_FIG href="../books_images/U-IMG-1703781037image13.jpg"/> शब्दस्य स्वाभाविकीं शक्तिं सर्वे नाद्रियन्ते, रूढ़सम्मतिरेव शब्दानामर्थवाचने हेतुरिति केचिदाचक्षते, तथा च अभिधापि तन्मते लक्षणाव्यञ्जने इव आरोपितैवेत्यलमतिगहमावगाहनेन।  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**"वाच्यादयस्तदर्थाः स्युः" मम्मटेन यथोदिताः। (३)**
 
-“उपकृतं बहु तत्रकिमुच्यते सुजनता प्रथिता भवता परम्।  
-विदधदीदृशमेव सदा सखे ! सुखितमाश्स्वततः शरदां शतम्"॥
+ वाचकादीनां क्रमेण स्वरूपमाह,—
 
-  इयं हि कञ्चिदपकारिणं प्रत्युक्तिरिति मुख्यार्थस्यान्वयानुपपत्तेः वैपरीत्यसम्बन्धेन अपकारादिरूपमर्थं ज्ञापयति, अपकाराद्यतिशयद्योतनञ्चात्र प्रयोजनम्।
+——————————————————————————————————
 
-**इत्येवं सा द्विविधा रूढिमूला प्रयोजनमूला च।  
+ (२) स्यादिति। अत्र अलङ्कारग्रन्थे शब्दः त्रिधा, वाचकः वक्ति अभिधया अर्थं प्रकाशयतीति वाचकः, लाक्षणिकः लक्षणया प्रकाशयतीति लाक्षणिकः। व्यञ्जकः व्यञ्जनया अर्थं प्रकाशयतीति व्यञ्जकः।
+
+ (३) वाच्यादय इति। वाच्यादयः वाच्यलक्ष्यव्यङ्ग्या इत्यर्थः तदर्थाः तेषां वाचकलाक्षणिकव्यञ्जकानाम् अर्थाः, तत्र वाचकस्य शब्दस्यार्थः वाच्यः, लाक्षणिकस्य शब्दस्यार्थः लक्ष्यः, व्यञ्जकस्य शब्दस्यार्थः व्यङ्ग्यः।
+
+——————————————————————————————————
+
+**"साक्षात् सङ्केतितं योऽर्थमभिधत्ते स वाचकः"। मम्मटः। (४)**
+
+ साक्षात् सङ्केतितस्तु 'अस्मात् शब्दादयमर्थो बोद्धव्य' इति शब्दस्य स्वाभाविक्या शक्त्या\* व्याकरणादिना वा नियन्त्रितः। इयमेव शक्तिः "अभिधा" इत्युच्यते। अनया बोध्योऽर्थः वाच्यः, स च साक्षाद् बोध्यत्वेन प्रधानतया मुख्यार्थ इत्यपि अभिधीयते। यथा गो शब्दोऽभिधया गलकम्बलादिमज्जीवविशेषरूपं, पाचकशब्दश्च पाककर्तृरूपञ्चार्थं साक्षात् बोधयति। (५)
+
+——————————————————————————————————
+
+ \*शब्दस्य स्वाभाविकीं शक्तिं सर्वे नाद्रियन्ते, रूढ़सम्मतिरेव शब्दानामर्थवाचने हेतुरिति केचिदाचक्षते, तथा च अभिधापि तन्मते लक्षणाव्यञ्जने इव आरोपितैवेत्यलमतिगहनावगाहनेन।
+
+——————————————————————————————————
+
+ (४) साक्षादिति। साक्षात् अव्यवधानेनेत्यर्थः सङ्केतितं स्वतो नियमितम् अर्थं यः शब्दः अभिधत्ते प्रतिपादयति स वाचकः।
+
+ (५) शब्दस्येति। स्वाभाविक्या स्वतःसिद्धयेत्यर्थः शक्त्या सामर्थ्येनेत्यर्थः। शक्तिश्च तत्तद्भाषावादिभिर्नियमितेति बोध्यम्। व्याकरणादिनेति आदिपदेन उपमानादयो गृह्यन्ते तदुक्तम्।
+
+शक्तिग्रहं व्याकरणोपमानकोषाप्तवाक्याद् व्यवहारतश्च।  
+सान्निध्यतः सिद्धपदस्य वृद्धा वाक्यस्य शेषाद् विवृतेर्वदन्तीति॥
+
+ नियन्त्रिता नियमिता निर्द्धारितेत्यर्थः। तत्र व्याकरणाद् यथा पाचक इत्यादि। उपमानाद् यथा गोसदृशो गवय इत्यादि। कोषाद् यथा विनायके विघ्नराजद्वैमातुर गणाधिपा इत्यादि। आप्तवाक्याद् यथा अयमश्वशब्दवाच्य इत्यादि। व्यवहाराद् यथा वृद्धेन युवानमुद्दिश्य गामानयेत्युक्ते तं गवानयनप्रवृत्तं
+
+*                                   
+                                                                      
+             *
+
+ लक्षणयाऽर्थबोधकः शब्दो लाक्षणिकः, तथा बोध्योऽर्थः लक्ष्यः। लक्षणास्वरूपमाह विश्वनाथः,—
+
+**"मुख्यार्थबाधे तद्युक्तो ययाऽन्योऽर्थः प्रतीयते।  
+रूढ़ेः प्रयोजनाद्वासौ लक्षणा शक्तिरर्पिता"॥ (६)**
+
+ मुख्यार्थस्य अन्वयानुपपत्तिग्रहे तदर्थसम्बन्धी अन्योऽर्थः, रूढ़िप्रयोजनयोरन्यतरस्मिन् हेतौ सम्भवति, यया
+
+——————————————————————————————————
+
+दृष्ट्वा बालोऽस्य वाक्यस्य सास्नादिमत्पिण्डानयनमर्थं प्रथममवधारयति ततो गां वधान अश्वमानयेत्युक्ते तथा कुर्वाणं युवकमवलोक्य गोशब्दस्य सास्नादिमत्पिण्डरूपमर्थम् आनयनशब्दस्य चाहरणरूपमर्थञ्च पृथगवधारयतीत्यादि। सिद्धपदसान्निध्याद् यथा प्रभिन्नकमलोदरे मधुनि मधुकरः पिबतीत्यादि। अत्र कमलोदरे मधुपानकर्तृत्वं भ्रमरस्यैवेति मधुकरशब्दो भ्रमरमेव बोधयतीति द्रष्टव्यम्। वाक्यस्य शेषाद् यथा यवमयश्चरुर्भवतीति वाक्ये यवशब्दः किं वासन्तशस्यविशेषबाधकः, उत यावनिकप्रसिद्धतदाख्यशस्यविशेषबोधक इति संशये तद्वाक्यशेषे वसन्ते सर्वशस्यानां जायते पत्रशातनम्। मोदमानाश्च तिष्ठन्ति यवाः कणिशशालिन इति वाक्यशेषात् वासन्तयवमेव बाधयतीत्यादि। विवृतेर्विवरणाद् यथा रामो दाशरथिरित्यादि।
+
+ (६) मुख्यार्थेति। मुख्यार्थस्य अभिधेयार्थस्य बाधे अन्वयानुपपत्तिग्रहे तद् युक्तः मुख्यार्थसम्बन्धवान् अन्योऽर्थः यया शक्त्या प्रतीयते ज्ञायते सा शक्तिः अर्पिता आरोपिता अस्वाभाविकीत्यर्थः लक्ष्यते अनयेति व्युत्पत्त्या लक्षणा नाम सा च क्वचित् रूढेः प्रसिद्धेः, क्वचित् प्रयोजनाद्वा भवतीति द्विधा रूढ़िहेतुका प्रयोजनहेतुकेति चेत्यर्थः। इदञ्च हेतुद्वयमन्तरेण यस्य कस्यचित् सम्बन्धस्य सद्भावे लक्षणा नाङ्गीक्रियते इति बोध्यम्।
+
+——————————————————————————————————
+
+प्रतीयते सा वृत्तिर्लक्षणा नाम। रूढ़िः प्रसिद्धिः, यथा, 'कलिङ्गः साहसिक' इत्यत्र कलिङ्गशब्दो देशविशेषरूपे स्वाभिधेयेऽर्थेऽसम्भवन् तद्देशवासिनः पुरुषान् बोधयति। प्रसिद्धिश्च अत्र हेतुः। 'गङ्गायां घोषः' इत्यत्र च गङ्गाशब्दः प्रवाहविशेषरूपं स्वाभिधेयमर्थं बोधयितुमसमर्थः सामीप्यसम्बन्धसम्बन्धिनं तटं बोधयति। हेतुश्चात्र शीतत्वपावनत्वातिशयबोधनरूपं प्रयोजनम्।
+
+**"उपकृतं बहु तत्र किमुच्यते सुजनता प्रथिता भवता परम्।  
+विदधदीदृशमेव सदा सखे! सुखितमास्स्व ततः शरदां शतम्"॥ (७)**
+
+ इयं हि कञ्चिदपकारिणं प्रत्युक्तिरिति मुख्यार्थस्यान्वयानुपपत्तेः वैपरीत्यसम्बन्धेन अपकारादिरूपमर्थं ज्ञापयति, अपकाराद्यतिशयद्योतनञ्चात्र प्रयोजनम्।
+
+**इत्येवं सा द्विविधा रूढ़िमूला प्रयोजनमूला च।  
 सेयं पुनर्द्विधा स्यादुपादानं लक्षणञ्चेति॥**
 
-  उपादानलक्षणा लक्षणलक्षणा चेति सालक्षणा पुनर्द्विविधा।
+ उपादानलक्षणा लक्षणलक्षणा चेति सा लक्षणा पुनर्द्विविधा।
 
-**स्वसिद्धये पराक्षेपेऽसावुपादानलक्षणा।**
+——————————————————————————————————
 
-  वाच्यार्थस्य अन्वयसिद्ध्यर्थं लक्ष्यार्थस्य बोधने वाच्यार्थस्यापि उपादानादियमुपादानलक्षणा यथा,— “यष्ट्यःप्रविशन्ति” इत्यत्र यष्टीनां स्वतः प्रवेशक्रिययाऽन्वयासम्भवात् प्रवेशान्वयार्थं स्वसंयोगिनः पुरुषा आक्षिप्यन्ते। अत्रच स्वार्थस्यापरित्यागादियम् "अजहत्स्वार्था" इति च कथ्यते।
+ (७) उपकृतमिति। हे सखे! बहु उपकृतं त्वयेति शेषः तत्र विषये इति शेषः किमुच्यते न किमपीत्यर्थः भवता परं सुजनता सौजन्यं प्रथिता प्रकटिता, ईदृशमेव कर्मेति शेषः सदैव विदधत् अनुतिष्ठन् ततः विधानादित्यर्थः शरदां वर्षाणां शतम् अत्यन्तसंयोगे द्वितीया सुखितम् आस्स्व सुखं तिष्ठेत्यर्थः।
 
-**परार्थमात्रबोधे तु भवेल्लक्षणलक्षणा।**
+——————————————————————————————————
 
-  सर्वथा स्वार्थपरित्यागेनान्यार्थमात्रबोधने द्वयं लक्षणलक्षणा। अत एवासौ ‘जहत्स्वार्था' इति च भण्यते। यथा पूर्व्वोदाहृते, 'उपकृतं बहु तत्र' इत्यादौ।
+**स्वसिद्धये पराक्षेपेऽसावुपादानलक्षणा। (८)**
 
-  व्यञ्जनयाऽर्थबोधकः शब्दः व्यञ्जकः, तयाबोध्योऽर्थो व्यङ्ग्यः। व्यञ्जनास्वरूपमाह,—
+ वाच्यार्थस्य अन्वयसिद्ध्यर्थं लक्ष्यार्थस्य बोधने वाच्यार्थस्यापि उपादानादियमुपादानलक्षणा यथा,—"यष्टयः प्रविशन्ति" इत्यत्र यष्टीनां स्वतः प्रवेशक्रिययाऽन्वयासम्भवात् प्रवेशान्वयार्थं स्वसंयोगिनः पुरुषा आक्षिप्यन्ते। अत्र च स्वार्थस्यापरित्यागादियम् "अजहत्स्वार्था" इति च कथ्यते।
 
-**“विरतास्वभिधाद्यासु[^3] ययार्थी बोध्यतेऽपरः।  
-सा वृत्तिर्व्यञ्जना नाम शब्दस्यार्थादिकस्य च”॥**
+**परार्थमात्रबोधे तु भवेल्लक्षणलक्षणा। (९)**
 
-[^3]: "* विश्वनाथादयः केचित् तात्पर्याख्यामतिरिक्तां वृत्तिं कथयन्ति तत एव 'अभिधाद्यासु' इति बहुवचनम् । वृत्तिमिमामन्ये न मन्यन्ते ।"
+ सर्वथा स्वार्थपरित्यागेनान्यार्थमात्रबोधने इयं लक्षणलक्षणा। अतएवासौ 'जहत्स्वार्था' इति च भण्यते। यथा पूर्वोदाहृते, 'उपकृतं बहु तत्र' इत्यादौ।
 
-विश्वनाथः।
+ व्यञ्जनयाऽर्थबोधकः शब्दः व्यञ्जकः, तया बोध्योऽर्थो व्यङ्ग्यः। व्यञ्जनास्वरूपमाह,—
 
-  अभिधायां लक्षणायाञ्च स्वं स्वमर्थं बोधयित्वा विरतायां ययाऽपरोऽर्थो बोध्यते सा वृत्तिर्व्यञ्जना नाम।शब्दवदर्थोऽपि अर्थान्तरव्यञ्जक इति प्रथमतो द्विविधा व्यञ्जना शाब्दी आर्थो च।  
-  शाब्दी च द्विविधा, अभिधामूला लक्षणामूला च।यथाह विश्वनाथः,—
+——————————————————————————————————
+
+ (८) स्वसिद्धये इति। स्वस्य मुख्यार्थस्य सिद्धये अन्वयबोधार्थं परस्य अपरार्थस्य लक्ष्यार्थस्येत्यर्थः आक्षेपे उपस्थापने बोधने इत्यर्थः सतीत्यर्थः असौ लक्षणा उपादानं ग्रहणं मुख्यार्थस्येति भावः तेन लक्षणा उपादानलक्षणा तथा च मुख्यार्थसमेतलक्ष्यार्थबोधिका लक्षणा उपादानलक्षणेति तात्पर्य्यम्। अजहत्स्वार्था न जहत् त्यजन् स्वार्थो यामिति अजहत्स्वार्था वाच्यार्थापरित्यागिनीत्यर्थः।
+
+ (९) परार्थेति। परस्य अन्यस्य लक्ष्यस्येत्यर्थः अर्थमात्रस्य मात्रपदेन मुख्यार्थव्यवच्छेदः। बोधे सति तु लक्षणेन येन केनचित् सम्बन्धरूपेण चिह्नेनेत्यर्थः लक्षणा लक्षणलक्षणा। जहत्स्वार्था जहत् त्यजन् स्वार्थो यामिति सर्वथा वाच्यार्थपरित्यागिनीत्यर्थः।
+
+——————————————————————————————————
+
+**"विरतास्वभिधाद्यासु \* ययार्थो बोध्यतेऽपरः।  
+सा वृत्तिर्व्यञ्जना नाम शब्दस्यार्थादिकस्य च"॥ (१०) विश्वनाथः।**
+
+ अभिधायां लक्षणायाञ्च स्वं स्वमर्थं बोधयित्वा विरतायां ययाऽपरोऽर्थो बोध्यते सा वृत्तिर्व्यञ्जना नाम। शब्दवदर्थोऽपि अर्थान्तरव्यञ्जक इति प्रथमतो द्विविधा व्यञ्जना शाब्दी आर्थी च।
+
+ शाब्दी च द्विविधा, अभिधामूला लक्षणामूला च।
+
+यथाह विश्वनाथः,—
 
 **"अभिधालक्षणामूला शब्दस्य व्यञ्जना द्विधा"।**
 
-अभिधामूलामाह विश्वनाथः,—
+ अभिधामूलामाह विश्वनाथः,—
 
 **"अनेकार्थस्य शब्दस्य संयोगाद्यैर्नियन्त्रिते।  
-एकत्रार्थेऽन्यधीहेतुर्व्यञ्जना साभिधाश्रया”॥**
+एकत्रार्थेऽन्यधीहेतुर्व्यञ्जना साभिधाश्रया"॥(११)**
 
-  संयोगाद्याश्च,—
+——————————————————————————————————
 
-"संयोगो विप्रयोगश्च साहचर्यंविरोधिता।  
-अर्थः प्रकरणं लिङ्गं शब्दस्यान्यस्य सन्निधिः॥  
-सामर्थ्यमौचिती देशःकालो व्यक्तिः स्वरादयः।  
-शब्दार्थस्यानवच्छेदेविशेषस्मृतिहेतवः<MISSING_FIG href="../books_images/U-IMG-1706016688image13.jpg"/>"॥
+ \* विश्वनाथादयः केचित् तात्पर्य्याख्यामतिरिक्तां वृत्तिं कथयन्ति ततएव 'अभिधाद्यासु' इति बहुवचनम्। वृत्तिमिमामन्ये न मन्यन्ते।
 
-  यथा,—“सशङ्खचक्रो हरिः" इति शङ्खचक्रसंयोगेन हरिर्विष्णुः। ‘फणहीनो नागः' इति फणवियोगेन नागः सर्पः। ‘रामलक्ष्मणौ‛ इति लक्ष्मणसाहचर्य्येण रामो दाशरथिः। ‘रामार्जुनौ’ इत्यत्र विरोधितया रामो भार्गवः, अर्जुनः कार्त्तवीर्य्यः। अर्थः प्रयोजनम् यथा,— 'स्थाणुं भज भवच्छिदे' इति भवच्छेदरूपप्रयोजन- सम्बन्धेन स्थाणुः शिवः न तु शाखाविहीनो वृक्षः। प्रकरणं प्रस्तावः यथा,— 'यथाज्ञापयति देवः' इति देवो भवान् राजा वा। लिङ्गं विशेषकं चिह्नंयथा,–'कपर्द्दी भीमः' इति कपर्द्देन विशेषकेण भीमः शिवः।अन्यस्य प्रसिद्धार्थकस्य शब्दस्य सन्निधिः समभिव्याहारः यथा—'स्थलारविन्दश्रियम्' इत्यत्र अरविन्दसन्निधानेन श्रीः शोभा। सामर्थ्यं शक्तिः यथा,—‘मधुना मत्तः कोकिलः' इति मधुर्वसन्तः तस्यैव कोकिलमादने सामर्थ्यात्। औचितौयुक्तता यथा,— 'गौरेका तु मनस्विनः' इत्यत्र औचित्येन गौर्वाक्। “भाति गगने चन्द्रः” इति  
-----------------------------------------------------------------------------  
-<MISSING_FIG href="../books_images/U-IMG-1706016688image13.jpg"/>अनेकार्थस्य शब्दस्य कस्यार्थस्य बोधोभवतोत्यनिश्चये संयोगादयोऽर्थविशेषबोधने नियामका इत्यर्थः।  
------------------------------------------------------------------------------
+——————————————————————————————————
 
-गगनरूपेण देशेन चन्द्रः शशाङ्क।'रात्रौ विभावसुः' इति विभावसुर्वह्निः दिवसेतु सूर्य्यः। व्यक्तिः स्त्रीपुंस्त्वादिकं लिङ्गं यथा,—'मित्रंभाति' इति नपुंसकलिङ्गेन मित्रं बन्धुः, 'मित्रो भाति' इति मित्रः सूर्य्यः। स्वरा उदात्तादयोवेद एव प्रसिद्धाः।  
-  इत्थं संयोगादिभिरेकस्मिन्नर्थे नियमिते अर्थान्तरबोधनप्रतिरोधेन तन्मात्रे एव व्यवस्थापिते ययाअर्थान्तरं बोध्यते सा अभिधामूला व्यञ्जना। यथा,—
+ (१०) विरतास्विति। अभिधाद्यासु अभिधालक्षणातात्पर्य्याख्यासु वृत्तिषु विरतासु स्वं स्वमर्थं बोधयित्वा उपक्षीणासु यया वृत्त्या अपरोऽर्थः बोध्यते सा शब्दस्य अर्थादिकस्य च वृत्तिः व्यज्यते अनयेति व्युत्पत्त्या व्यञ्जना नाम।
 
-“कुबेरगुप्तां दिशमुष्णरश्मौगन्तुं प्रवृत्ते समयं विलंघ्य।  
-दिग्दक्षिणा गन्धवहं मुखेन व्यलीकनिश्वासमिवोत्ससर्ज्ज"॥ कुमारस०"
+ (११) अनेकार्थस्येति। अनेकार्थस्य भिन्नार्थस्य शब्दस्य एकत्र एकस्मिन् अर्थे संयोगाद्यैः नियन्त्रिते निर्धारिते सति अन्यस्य अर्थस्य
 
-'आच्छादितायतदिगन्तरमुञ्चकैर्गा-  
-   माक्रम्य संस्थितमुदग्रविशालशृङ्गम्।  
-मूर्ध्निस्खलत्तुहिनदीधितिकोटिमेन-  
-  मुद्वीक्ष्यको भुवि न विस्मयते नगेशम्”॥ शिशुपालवधम्।
+——————————————————————————————————
 
-  प्रथमे दक्षिणाशब्दस्य प्रकरणवशात् तदभिधानदिग्रूपेऽर्थे नियमिते व्यञ्जनया दाक्षिण्यशीलनायिका- रूपोऽर्थः, द्वितीये च नगेशशब्दस्य प्रकरणेन रैवतकपर्व्वतरूपेऽर्थे नियमिते व्यञ्जनया शिवरूपोऽर्थो बोध्यते।  
-लक्षणामूलामाह विश्वनाथः,—
+ संयोगाद्याश्च,—
+
+**"संयोगो विप्रयोगश्च साहचर्य्यं विरोधिता।  
+अर्थः प्रकरणं लिङ्गं शब्दस्यान्यस्य सन्निधिः॥**
+
+**सामर्थ्यमौचिती देशः कालो व्यक्तिः स्वरादयः।  
+शब्दार्थस्यानवच्छेदे विशेषस्मृतिहेतवः\*"॥ (१२)**
+
+ यथा,—"सशङ्खचक्रो हरिः" इति शङ्खचक्रसंयोगेन हरिर्विष्णुः। 'फणहीनो नागः' इति फणवियोगेन नागः सर्पः। 'रामलक्ष्मणौ' इति लक्ष्मणसाहचर्य्येण रामो दाशरथिः। 'रामार्जुनौ' इत्यत्र विरोधितया रामो भार्गवः, अर्जुनः कार्त्तवीर्य्यः। अर्थः प्रयोजनं यथा—'स्थाणुं भज भवच्छिदे' इति भवच्छेदरूपप्रयोजनसम्बन्धेन स्थाणुः शिवः न तु शाखाविहीनो वृक्षः। प्रकरणं प्रस्तावः यथा,—'यथाज्ञापयति देवः' इति देवो भवान् राजा वा। लिङ्गं विशेषकं चिह्नं यथा,—'कपर्दी भीमः' इति कपर्देन विशेषकेण भीमः शिवः। अन्यस्य प्रसिद्धार्थ
+
+——————————————————————————————————
+
+ \*अनेकार्थस्य शब्दस्य कस्यार्थस्य बोधोभवतीत्यनिश्चये संयोगादयोऽर्थविशेषबोधने नियामका इत्यर्थः।
+
+——————————————————————————————————
+
+धीहेतुः प्रतीतिकारणं या व्यञ्जना, सा अभिधा आश्रयो यस्या इति अभिधाश्रया अभिधामूलेत्यर्थः।
+
+ (१२) संयोग इति। संयोगः संसर्गः, विप्रयोगः विरहः, साहचर्य्यं सङ्गः, विरोधिता वैरम् अन्यद् व्याख्यातम्। एते शब्दार्थस्य अनवच्छेदे अनिर्द्धारणे विशेषस्मृतिहेतवः विशेषार्थबोधकारणानीत्यर्थः
+
+——————————————————————————————————
+
+कस्य शब्दस्य सन्निधिः समभिव्याहारः यथा,—'स्थलारविन्दश्रियम्' इत्यत्र अरविन्दसन्निधानेन श्रीः शोभा। सामर्थ्यं शक्तिः यथा—'मधुना मत्तः कोकिलः' इति मधुर्वसन्तः तस्यैव कोकिलमादने सामर्थ्यात्। औचिती युक्तता यथा,—'गौरेका तु मनस्विनः' इत्यत्र औचित्येन गौर्वाक्। "भाति गगने चन्द्रः" इति गगनरूपेण देशेन चन्द्रः शशाङ्कः। 'रात्रौ विभावसुः' इति विभावसुर्वह्निः दिवसे तु सूर्य्यः। व्यक्तिः स्त्रीपुंस्त्वादिकं लिङ्गं यथा,—'मित्रं भाति' इति नपुंसकलिङ्गेन मित्रं बन्धुः, 'मित्रो भाति' इति मित्रः सूर्य्यः। स्वरा उदात्तादयो वेद एव प्रसिद्धाः।
+
+ इत्थं संयोगादिभिरेकस्मिन्नर्थे नियमिते अर्थान्तरबोधनप्रतिरोधेन तन्मात्रे एवं व्यवस्थापिते यथा अर्थान्तरं बोध्यते सा अभिधामूला व्यञ्जना। यथा,—
+
+**"कुवेरगुप्तां दिशमुष्णरश्मौ गन्तुं प्रवृत्ते समयं विलङ्घ्य।  
+दिग्दक्षिणा गन्धवहं मुखेन व्यलीकनिश्वासमिवोत्ससर्ज"॥ (१३) कुमारस॰**
+
+——————————————————————————————————
+
+ (१३) कुवेरगुप्तामिति। आकालिकवसन्ताविर्भाववर्णनमिदम्। उष्णरश्मौ सूर्य्ये समयं कालं विलङ्घ्य अकाले इत्यर्थः कुवेरगुप्तां धनपतिरक्षितां दिशमुत्तरामित्यर्थः गन्तुं प्रवृत्ते उद्यते दक्षिणा दिक् सुखेन प्रारम्भेण व्यलीकनिश्वासमिव दुःखनिश्वासमिव व्यलीकन्त्वप्रियानृते इत्यमरः। गन्धवहं वायुम् उत्ससर्ज तत्याज दक्षिणो वायुर्वहति स्मेति भावः। अत्र प्रकरणेन उष्णरश्मिशब्देन सूर्य्यरूपे कुवेरशब्देन धनपतिरूपे दक्षिणाशब्देन तदाख्यादिग्रूपे मुखशब्देन प्रारम्भरूपे
+
+——————————————————————————————————
+
+**"आच्छादितायतदिगन्तरमुच्चकैर्गा–  
+माक्रम्य संस्थितमुदग्रविशालशृङ्गम्।  
+मूर्द्ध्निस्खलत्तुहिनदीधितिकोटिमेन–  
+मुद्वीक्ष्य को भुवि न विस्मयते नगेशम्"॥ (१४) शिशुपालबधम्।**
+
+ प्रथमे दक्षिणाशब्दस्य प्रकरणवशात् तदभिधानदिग्रूपेऽर्थे नियमिते व्यञ्जनया दाक्षिण्यशीलनायिकारूपोऽर्थः, द्वितीये च नगेशशब्दस्य प्रकरणेन रैवतकपर्वतरूपेऽर्थे नियमिते व्यञ्जनया शिवरूपोऽर्थो बोध्यते।
+
+——————————————————————————————————
+
+अर्थे नियमिते व्यञ्जनया उष्मरश्मौ साहसिके पुरुषे कुवेरेण कुत्सितशरीरेण केनचित् पुरुषेण गुप्तां रक्षितां कामिनीमिति शेषः गन्तुं प्रवृत्ते सति तदीया दक्षिणा दाक्षिण्यवती सुचरित्रेति भावः कामिनी मुखेन वदनेन दुःखनिश्वासं त्यजतीति व्यङ्गार्थोऽभिहित इति द्रष्टव्यम्।
+
+ (१४) आच्छादितेति। को जनः आच्छादितं व्याप्तम् आयतं दीर्घं दिगन्तरं दिग्भागो येन तथोक्तम् उच्चकैः उन्नतं गां पृथिवीमाक्रम्य अवष्टभ्य संस्थितं वर्त्तमानम् उदग्राणि उन्नतानि विशालानि महान्ति शृङ्गाणि यस्य तादृशं मूर्द्ध्नि शिरसि शिखरे इत्यर्थः स्खलन् संलगन् तुहिनदीधितेः चन्द्रस्य कोटिर्यस्य तथाविधम् अत्युन्नतत्वादिति भावः एनं नगेशं पर्वतराजम् उद्वीक्ष्य न विस्मयते न चित्रीयते सर्व एव विस्मयं गच्छतीत्यर्थः। अत्र प्रकरणेन गोशब्देन पृथिवीरूपे, शृङ्गशब्देन शिखररूपे मूर्द्धशब्देन शिखररूपे नगेशशब्देन पर्वतरूपे अर्थे नियमिते व्यञ्जनया उदग्रविशालशृङ्ग गां वृषम् आक्रम्य आस्थाय संस्थितं मूर्ध्नि शिरसि विराजितचन्द्रकलं नगेशं गिरीशम् उद्वीक्ष्य दृष्ट्वा को जनः न विस्मयते इति व्यङ्ग्यार्थोऽभिहित इति बोध्यम्।
+
+——————————————————————————————————
+
+ लक्षणामूलामाह विश्वनाथः,—
 
 **"लक्षणोपास्यते यस्य कृते तत्तु प्रयोजनम्।  
-यया प्रत्याय्यते सा स्याद् व्यञ्जना लक्षणाश्रया"॥**
+या प्रत्याय्यते सा स्याद् व्यञ्जना लक्षणाश्रया"॥ (१५)**
 
-उपास्यते आश्रीयते विधीयते इति यावत्, प्रत्याय्यते बोध्यते। यथा 'गङ्गायां घोषः' इत्यत्र प्रवाहविशेष- रूपार्थबोधनादभिधायां, तटरूपार्थबोधनाल्लक्षणायाञ्च विरतायां ययाशीतत्वपावनत्वातिशयरूपं प्रयोजनम् बोध्यते सा लक्षणामूला व्यञ्जना।  
-आर्थींं व्यञ्जनामाह,—
+ उपास्यते आश्रीयते विधीयते इति यावत्, प्रत्याय्यते बोध्यते। यथा 'गङ्गायां घोषः' इत्यत्र प्रवाहविशेषरूपार्थबोधनादभिधायां, तटरूपार्थबोधनाल्लक्षणायाञ्च विरतायां यया शीतत्वपावनत्वातिशयरूपं प्रयोजनम् बोध्यते सा लक्षणामूला व्यञ्जना।
 
-**“वक्तृबोद्धव्यवाक्यानां काकोश्चेष्टादिकस्य च।  
-वैशिष्ट्यादन्यमर्थंया बोधयेत् सार्थसम्भवा"॥**
+ आर्थीं व्यञ्जनामाह,—
 
-विश्वनाथः।
+**"वक्तृबोद्धव्यवाक्यानां काकोश्चेष्टादिकस्य च।  
+वैशिष्ट्यादन्यमर्थं या बोधयेत् सार्थसम्भवा"॥ (१६) विश्वनाथः।**
 
-  सा अर्थसम्भवा आर्थी, व्यञ्जनेतिशेषः। यं पुरुषं बोधयितुं शब्द उच्चार्य्यते स बोद्धव्यः, काकुर्ध्वनेर्विकारः, वैशिष्ट्यात् विशेषयोगात्।  
-  यथा 'गतोऽस्तमर्क' इति वाक्येन आस्तिके द्विजातौ वक्तरि प्रतिपाद्ये वा 'सन्ध्यावन्दनस्यायमवसर' इति, गोपालबालके वक्तरि प्रतिपाद्ये वा “संह्रियन्तां गावो गृहं प्रतिनिवर्त्तामहे" इत्यादिका अर्थावक्त्रादिवैशिष्ट्यात् प्रतीयन्ते। यथा वा,
+ सा अर्थसम्भवा आर्थी, व्यञ्जनेतिशेषः। यं पुरुषं बोधयितुं शब्द उच्चार्य्यते स बोद्धव्यः, काकुर्ध्वनेर्विकारः वैशिष्ट्यात् विशेषयोगात्।
 
-**“तथाभूतां दृष्ट्वा नृपसदसि पाञ्चालतनयां  
-वने व्याधैःसार्द्धंसुचिरतमुषितंवल्कलधरैः।  
+——————————————————————————————————
+
+ (१५) लक्षणेति। यस्य प्रयोजनस्य कृते बोधनिमित्तं लक्षणा उपास्यते अङ्गीक्रियते तत्तु प्रयोजनं यया प्रत्याय्यते बोध्यते, सा लक्षणाश्रया लक्षणामूला व्यञ्जना स्यात्।
+
+ (१६) वक्तृबोद्धव्येति। वक्ता च बोद्धव्यश्च वाक्यञ्च तेषां काकोः ध्वनिविकारविशेषस्य काकुः स्त्रियां विकारो यः शोकभीत्यादिभिर्ध्वनेरित्यमरः। चेष्टादिकस्य च वैशिष्ट्यात् विशेषयोगात् या अन्यमर्थं बोधयेत् सा अर्थसम्भवा आर्थी व्यञ्जनेति शेषः।
+
+——————————————————————————————————
+
+ यथा 'गतोऽस्तमर्क' इति वाक्येन आस्तिके द्विजातौ वक्तरि प्रतिपाद्ये वा 'सन्ध्यावन्दनस्यायमवसर' इति, गोपालबालके वक्तरि प्रतिपाद्ये वा "संह्रियन्तां गावो गृहं प्रतिनिवर्त्तामहे" इत्यादिका अर्था वक्तादिवैशिष्ट्यात् प्रतीयन्ते। यथा वा,
+
+**"तथाभूतां दृष्ट्वा नृपसदसि पाञ्चालतनयां  
+वने व्याधैः सार्द्धं सुचिरमुषितं वल्कलधरैः।  
 विराटस्यावासे स्थितमनुचितारम्भनिभृतं  
-गुरुः खेदं खिन्ने मयि भजति नाद्यापि कुरुषु”॥ वेणीसं०।**
+गुरुः खेदं खिन्ने मयि भजति नाद्यापि कुरुषु"॥ (१७) वेणीसं॰।**
 
-  अत्र मयि नयोग्यः खेदः कुरुषु तु योग्य इति काक्वाप्रकाश्यते।
+ अत्र मयि न योग्यः खेदः कुरुषु तु योग्य इति काक्वा प्रकाश्यते।
 
-शब्दार्थनिरूपणं नाम द्वितीयशिखा।
+**इति शब्दार्थनिरूपणं नाम द्वितीयशिखा।**
 
-**तृतीयशिखा ।**  
-**—————**
+——————————————————————————————————
 
-ध्वन्यादिभेदेन काव्यस्य भेदत्रयमाह,—
+ (१७) तथाभूतामिति। नृपसदसि राजसभायां तथाभूतां केशाम्बरयोराकृष्टामिति भावः पाञ्चालतनयां द्रौपदीं वने व्याधैः सार्द्धं वल्कलधरैः सद्भिः सुचिरं दीर्घकालमुषितं स्थितं तथा विराटस्य आवासे सदने अनुचितः य आरम्भः कर्म सूपकारत्वादिकमिति भावः तत्र निभृतं समासक्तं यथा तथा स्थितं दृष्ट्वा गुरुः आर्य्यः युधिष्ठिर इति यावत् खिन्ने सुदुःखिते क्षुभिते इति यावत् मयि खेदं क्षोभं भजति अद्यापि कुरुषु धार्त्तराष्ट्रेष्विति यावत् न खेदं भजतीत्यर्थः। कुरवस्तादृशनिकारकारिणोऽपि न राज्ञः खेदं जनयन्ति, निकारक्षुभितं मां दृष्ट्वा खेदं करोति राजा इत्यहो महच्चित्रमिति काक्वा व्यज्यते इति बोध्यम्।
 
-**काव्यं ध्वनिर्गुणीभूतव्यङ्ग्यं चित्रमिति त्रिधा।**
+इति द्वितीयशिखा।  
+———————
 
-ध्वनिं लक्षयति विश्वनाथः,—
+——————————————————————————————————
 
-**“वाच्यातिशयिनि व्यङ्ग्ये ध्वनिस्तत् काव्यमुत्तमम्”।**
+**तृतीयशिखा।**  
+**<MISSING_FIG href="../books_images/U-IMG-1765990635sample-03.png"/>**
 
-यस्मिन् काव्ये व्यङ्गार्थो वाच्यार्थादधिकचमत्कारी तन्नाम ध्वनिः, तच्च उत्तमं काव्यम्।
+ ध्वन्यादिभेदेन काव्यस्य भेदत्रयमाह,—
 
-**"भेदौध्वनेरपि द्वावुदीरितौलक्षणाभिधामूलौ।  
-अविवक्षितवाच्योऽन्यो विवक्षितान्यपरवाच्यश्च"॥ **
+**काव्यं ध्वनिर्गुणीभूतव्यङ्ग्यं चित्रमिति त्रिधा। (१)**
 
-विश्वनाथः।
+ ध्वनिं लक्षयति विश्वनाथः,—
 
-  लक्षणामूलः अभिधामूलश्चेति ध्वनेर्द्वौभेदौ, तौ च क्रमेण अविवक्षितवाच्यः विवक्षितान्यपरवाच्यश्चेति नामभ्यामपि व्यपदिश्येते। तत्र अविवक्षितं बाधितस्वरूपं वाच्यं यत्र सअविवक्षितवाच्यो नाम लक्षणामूलो ध्वनिः; लक्षणामूलत्वादेवात्रवाच्यमविवक्षितम्। स च द्विविधः अर्थान्तरसंक्रमितवाच्यः, अत्यन्ततिरकृतवाच्यश्च।
+**"वाच्यातिशयिनि व्यङ्ग्ये ध्वनिस्तत् काव्यमुत्तमम्"।**
 
-  यदाहविश्वनाथः,—
+ यस्मिन् काव्ये व्यङ्ग्यार्थो वाच्यार्थादधिकचमत्कारी तन्नाम ध्वनिः, तच्च उत्तमं काव्यम्।
 
-**“अर्थान्तरं संक्रमिते वाच्येऽत्यन्तं तिरस्कृते।  
-अविवक्षितवाच्योऽपि ध्वनिर्द्वैविध्यमृच्छति”॥**
+**"भेदौ ध्वनेरपि द्वावुदीरितौ लक्षणाभिधामूली।  
+अविवक्षितवाच्योऽन्यो विवक्षितान्यपरवाच्यश्च"॥ विश्वनाथः। (२)**
 
- यत्र स्वयमनुपयुज्यमानो मुख्योऽर्थः स्वविशेषरूपे अर्थान्तरे परिणमति तत्र मुख्यार्थस्य स्वविशेषरूपेऽर्थान्तरे संक्रमितत्वादर्थान्तरसंक्रमितवाच्यत्वम् \। यथा,—
+ लक्षणामूलः अभिधामूलश्चेति ध्वनेर्द्वौ भेदौ, तौ च क्रमेण अविवक्षितवाच्यः विवक्षितान्यपरवाच्यश्चेति नामभ्यामपि व्यपदिश्येते। तत्र अविवक्षितं बाधितस्वरूपं वाच्यं यत्र स अविवक्षितवाच्यो नाम लक्षणामूलो ध्वनिः,
 
-"त्वामस्मि वच्मि विदुषां समवायोऽत्रतिष्ठति।  
-आत्मीयां मतिमास्थाय स्थितिमत्र विधेहि तत्”॥
+——————————————————————————————————
 
-अत्रवचनादि उपदेशादिरूपतया परिणमति, सम्बोध्येआत्मीयभावाद्यतिशयश्च व्यङ्ग्यः।
+ (१) काव्यमिति। ध्वन्यते यस्मिन्निति ध्वनिः। अन्यत् स्पष्टम्।
 
-    यत्र पुनः स्वार्थं सर्व्वथा परित्यजन्नर्थान्तरं बोधयति तत्र मुख्यार्थस्यात्यन्ततिरस्कृतत्वादत्यन्ततिर- स्कृतवाच्यत्वम्। यथा**‘उपकृतं बहु तत्र’** इत्यादौ (५ पृ०) पूर्व्वमुक्ते।अत्राद्ये मुख्यार्थस्यार्थान्तरे संक्रमणं प्रवेशः नतु तिरोभावः, अत एवात्रअजहत्स्वार्था लक्षणा। द्वितीये स्वार्थस्यात्यन्तं तिरस्कृतत्वाज्जहत्स्वार्था।
+ (२) भेदाविति। ध्वनेरपि लक्षणाभिधामूलौ द्वौ भेदौ उदीरितौ कथितौ, तत्र लक्षणामूलो नाम अविवक्षितवाच्यः, अभिधामूलो विवक्षितान्यपरवाच्यः।
 
-**"विवक्षितञ्चान्यपरं वाच्यं यत्रापरस्तु सः”।** मम्मटः।
+——————————————————————————————————
 
-  यत्र वाच्यं विवक्षितं प्रकाशितस्वरूपं सदन्यपरं व्यङ्ग्यनिष्ठं सोऽपरः विवक्षितान्यपरवाच्योध्वनिः, अत्र हि वाच्योऽर्थः स्वरूपं प्रकाशयन्नेव व्यङ्ग्यार्थस्य प्रकाशकः, यथा प्रदीपो घटस्य।
+लक्षणामूलत्वादेवात्र वाच्यमविवक्षितम्। स च द्विविधः अर्थान्तरसङ्क्रमितवाच्यः, अत्यन्ततिरस्कृतवाच्यश्च।
 
-स च द्विविधः असंलक्ष्यक्रमव्यङ्ग्यः संलक्ष्यक्रमव्यङ्ग्यश्च।
+ यदाह विश्वनाथः,—
 
-  यदाह स एव,–
+**"अर्थान्तरं सङ्क्रमिते वाच्येऽत्यन्तं तिरस्कृते।  
+अविवक्षितवाच्योऽपि ध्वनिर्द्वैविध्यमृच्छति"॥ (३)**
 
-**"कोऽप्यलक्ष्यक्रमव्यङ्ग्यो लक्ष्यव्यङ्ग्यक्रमः परः”।**
+ यत्र स्वयमनुपयुज्यमानो मुख्योऽर्थः स्वविशेषरूपे अर्थान्तरे परिणमति तत्र मुख्यार्थस्य स्वविशेषरूपेऽर्थान्तरे सङ्क्रमितत्वादर्थान्तरसङ्क्रमितवाच्यत्वम्। यथा,—
 
-   न संलक्ष्यः सम्यगनुभूयमानः क्रमः प्रतीतिक्रमो यस्य तादृशं व्यङ्ग्यं यस्मिन् सोऽसंलक्ष्यक्रम-व्यङ्ग्यः। स च रसभावादिः। अत्र व्यङ्ग्यप्रतीतेर्विभावादिप्रतीतिकारणकत्वात् क्रमोऽवश्यमस्त्येव, किन्तु उत्पलपत्रशतव्यतिभेदवल्लाघवान्न संलक्ष्यते।  
-  अथ कोऽयं नाम रसः के च विभावादय इत्याहर्मम्मटभट्टपादाः।
+**"त्वामस्मि वच्मि विदुषां समवायोऽत्र तिष्ठति।  
+आत्मीयां मतिमास्थाय स्थितिमत्र विधेहि तत्"॥ (४)**
+
+ अत्र वचनादि उपदेशादिरूपतया परिणमति, सम्बोध्ये आत्मीयभावाद्यतिशयश्च व्यङ्ग्यः।
+
+ यत्र पुनः स्वार्थं सर्वथा परित्यजन्नर्थान्तरं बोधयति
+
+——————————————————————————————————
+
+ (३) अर्थान्तरमिति। अविवक्षितवाच्यो ध्वनिः वाच्ये अर्थान्तरम् अर्थविशेषं सङ्क्रमिते प्रविष्टे अथवा अत्यन्तं तिरस्कृते अपह्नुते इत्यर्थः सति द्वैविध्यं द्वौ भेदौ ऋच्छति प्राप्नोति तथाच अर्थान्तरसङ्क्रमितवाच्यः अत्यन्ततिरस्कृतवाच्य इति फलितम्।
+
+ (४) त्वामिति। अस्मीति अव्ययम् अहमित्यर्थः त्वां वच्मि, अत्र विदुषां पण्डितानां समवायः समूहः तिष्ठति, तत् तस्मात् आत्मीयाम् आत्मने हितां मतिमादाय अत्र स्थितिं विधेहि कुरु। अत्र विधेहीति कथनेनैव वच्मीत्यस्य निरर्थकत्वे मुख्यार्थबाधात् लक्षणया वचनस्य उपदेशरूपतया परिणाम इत्यतः वचनस्य व्यापकस्य उपदेशरूपविशेषार्थे सङ्क्रमणमिति अर्थान्तरसङ्क्रमितवाच्यत्वमिति बोध्यम्।
+
+——————————————————————————————————
+
+तत्र मुख्यार्थस्यात्यन्ततिरस्कृतत्वादत्यन्ततिरस्कृतवाच्यत्वम्। यथा 'उपकृतं बहु तत्र' इत्यादौ (८ पृ.) पूर्वमुक्ते। अत्राद्ये मुख्यार्थस्यार्थान्तरे सङ्क्रमणं प्रवेशः नतु तिरोभावः, अत एवात्र अजहत्स्वार्था लक्षणा। द्वितीये स्वार्थस्यात्यन्तं तिरस्कृतत्वाज्जहत्स्वार्था।
+
+**"विवक्षितञ्चान्यपरं वाच्यं यत्रापरस्तु सः"। (५) मम्मटः।**
+
+ यत्र वाच्यं विवक्षितं प्रकाशितस्वरूपं सदन्यपरं व्यङ्ग्यनिष्ठं सोऽपरः विविक्षितान्यपरवाच्यो ध्वनिः, अत्र हि वाच्योऽर्थः स्वरूपं प्रकाशयन्नेव व्यङ्ग्यार्थस्य प्रकाशकः, यथा प्रदीपो घटस्य।
+
+ स च द्विविधः असंलक्ष्यक्रमव्यङ्ग्यः संलक्ष्यक्रमव्यङ्ग्यश्च।
+
+ यदाह स एव,—
+
+**"कोऽप्यलक्ष्यक्रमव्यङ्ग्यो लक्ष्यव्यङ्ग्यक्रमः परः" (६)**
+
+——————————————————————————————————
+
+ (५) विवक्षितमिति। यत्र वाच्यं विवक्षितं किन्तु अन्यपरं व्यङ्ग्यार्थबोधप्रवणं स अपरः विवक्षितान्यपरवाच्य इत्यर्थः।
+
+ (६) क इति। अलक्ष्यः अननुभवनीयः क्रमः पौर्वापर्यं यस्य तादृशं व्यङ्ग्यं यत्र सः अलक्ष्यक्रमव्यङ्ग्यः। लक्ष्यः क्रमो यस्य तादृशं व्यङ्ग्यं यत्र सः लक्ष्यक्रमव्यङ्ग्य इति। स चेति स च व्यङ्ग्य इत्यर्थः। विभावादीति विभावादयः विभावानुभावव्यभिचारिणः तेषां प्रतीतिः बोधः कारणं यस्य तत्त्वात् तदुक्तं विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिरिति।
+
+——————————————————————————————————
+
+ न संलक्ष्यः सम्यगनुभूयमानः क्रमः प्रतीतिक्रमो यस्य तादृशं व्यङ्ग्यं यस्मिन् सोऽसंलक्ष्यक्रमव्यङ्ग्यः। स च रसभावादिः। अत्र व्यङ्ग्यप्रतीतेर्विभावादिप्रतीतिकारणकत्वात् क्रमोऽवश्यमस्त्येव, किन्तु उत्पलपत्रशतव्यतिभेदवल्लाघवान्न संलक्ष्यते।
+
+ अथ कोऽयं नाम रसः के च विभावादय इत्याहुर्म्मटभट्टपादाः।
 
 **"कारणान्यथ कार्य्याणि सहकारीणि यानि च।  
-रत्यादेःस्थायिनो लोके तानि चेन्नाट्यकाव्ययोः॥  
-विभावा अनुभावाश्च कथ्यन्ते व्यभिचारिणः।**  
-**व्यक्तः स तैर्विभावाद्यैः स्थायी भावो रसः स्मृतः”॥**
+रत्यादेः स्थायिनो लोके तानि चेन्नाट्यकाव्ययोः॥  
+विभावा अनुभावाश्च कथ्यन्ते व्यभिचारिणः।  
+व्यक्तः स तैर्विभावाद्यैः स्थायी भावो रसः स्मृतः"॥ (७)**
 
-  रत्यादेरित्यादिपदेन हासोत्साहादयो गृह्यन्ते। लौकिके उत्साहादीनां वक्ष्यमाणानां स्थायिभावानां यानि कारणानि उत्पादकरूपाणि नायकप्रतिनायकादीनि, उद्दीपनरूपाणि नायकप्रतिनायकचेष्टादीनि, यानि कार्य्याणि विपक्षाभिमुखगमनादीनि, यानि च सहकारीणि सहायभूतानि धृतिगर्वादीनि, तानि नाट्येकाव्ये च चेन्निबध्येरन्, क्रमेण विभावाः, अनुभावाः, व्यभिचारिणश्च कथ्यन्ते। तैर्विभावादिभिर्व्यक्तः स्फुटीकृतःविल–
+ रत्यादेरित्यादिपदेन हासोत्साहादयो गृह्यन्ते। लौकिके उत्साहादीनां वक्ष्यमाणानां स्थायिभावानां यानि
 
-क्षणप्रतीतिविषयीकृतइति यावत् स्थायी भावः रसः कथितः।  
-  तद्विशेषानाह,—
+——————————————————————————————————
+
+ (७) कारणानीति। कारणानि हेतुभूतानि आलम्बनरूपाणि नायकप्रतिनायकादीनि, उद्दीपनानि नायकप्रतिनायकचेष्टादीनि। तैः विभावाद्यैः व्यक्तः स्फुटीकृतः स्फुटतामापादितः। विलक्षणप्रतीतिविषयीकृतः अलौकिकत्वेन बोधित इत्यर्थः। विभाव्यन्ते काव्यनाट्यनिवेशितत्वेन विलक्षणत्वेन भाव्यन्ते प्रतीतिविषयीक्रियन्ते सहृदयैरिति विभावाः, अनु पश्चात् भवन्तीति अनुभावाः विभावत्वं गतानां नायकादीनां धर्मविशेषा इति यावत्। विशेषेण आभिमुख्येन परिपोषकत्वनेति यावत् चरन्तीति व्यभिचारिणः। तिष्ठतीति स्थायी यावत् सन्दर्भं स्थित इत्यर्थः।
+
+——————————————————————————————————
+
+कारणानि उत्पादकरूपाणि नायकप्रतिनायकादीनि, उद्दीपनरूपाणि नायकप्रतिनायकचेष्टादीनि, यानि कार्य्याणि विपक्षाभिमुखगमनादीनि, यानि च सहकारीणि सहायभूतानि धृतिगर्वादीनि, तानि नाट्ये काव्ये च चेन्निबध्येरन्, क्रमेण विभावाः, अनुभावाः, व्यभिचारिणश्च कथ्यन्ते। तैर्विभावादिभिर्व्यक्तः स्फुटीकृतः विलक्षणप्रतीतिविषयीकृत इति यावत् स्थायी भावः रसः कथितः तद्विशेषानाह,—
 
 **आदिमो "हास्यकरुणरौद्रवीरभयानकाः।  
-बीभत्साद्भुतसंज्ञौ चेत्यष्टौ काव्ये रसाः स्मृताः”॥**  
-                            मम्मटः।
+वीभत्साद्भुतसञ्ज्ञौ चेत्यष्टौ काव्ये रसाः स्मृताः"॥ मम्मटः।**
 
-  एषां क्रमेणोदाहरणानि।आदिमस्य‚—
+ एषां क्रमेणोदाहरणानि। आदिमस्य,—
 
-“विवृण्वती शैलसुतापि भावमङ्गैः स्फुरद्बालकदम्बकल्पैः।  
-साक्षीकृता चारुतरेण तस्थौ मुखेन पर्य्यस्तविलोचनेन"॥कुमा०
+**"विवृण्वती शैलसुतापि भावमङ्गैः स्फुरद्बालकदम्बकल्पैः  
+साचीकृता चारुतरेण तस्थौ मुखेन पर्य्यस्तविलोचनेन"। (८) कुमा॰।**
 
-  हास्यस्य,—
+——————————————————————————————————
 
-“भिक्षो ! मांसनिषेवनंप्रकुरुषे किं तेन मद्यं विना  
-मद्यञ्चापि तव प्रियं प्रियमहो वाराङ्गनाभिः सह।  
-तासामर्थरुचिः कुतस्तव धनं द्यूतेन चौर्य्येण वा  
-चौर्य्यद्यूतपरिग्रहोऽपि भवतो नष्टस्य कान्या गतिः”॥
+ (८) विवृण्वतो इति। शैलसुता पार्वती अपि स्फुरन्ति विकसन्ति यानि बालकदम्बानि अभिनवकदम्बपुष्पाणि तेभ्यः ईषदूनानि तैः कदम्बकुसुमसदृशैरित्यर्थः सञ्जातरोमाञ्चैरिति भावः अङ्गैः अवयवैः भावं रत्याख्यं विवृण्वती प्रकाशयन्ती पर्य्यस्ते परितः क्षिप्ते हरादन्यस्मिन् चालिते इत्यर्थः विलोचने नेत्रे यस्य तादृशेन अत एव चारुतरेण अतिमनोहरेण मुखेन साचीकृता वक्रीकृता लज्जया विवृतमुखीति भावः तस्थौ स्थिता। अत्र स्थायीभावो रतिः पार्वतीरूपविभावेन तस्याश्च अङ्गानां रोमाञ्चोदयरूपानुभावेन पर्य्यस्त
 
-  करुणस्य,—
+——————————————————————————————————
 
-“अदृष्टदुःखो धर्म्मात्मा सर्व्वभूतप्रियंवदः।  
-मयि जातो दशरथात् कथमुञ्छेन वर्त्तयेत्॥  
-यस्य भृत्याश्च दासाश्च स्वादून्यन्नानि भुञ्जते।  
-कथं स भोक्ष्यते रामो वने मूलफलान्ययम्”॥रामा०।
+ हास्यस्य,—
 
-  रौद्रस्य,—
+**"भिक्षो! मांसनिषेवणं प्रकुरुषे? किं तेन मद्यं विना–  
+मद्यञ्चापि तव प्रियं? प्रियमहो वाराङ्गनाभिः सह।  
+तासामर्थरुचिः कुतस्तव धनं? द्यूतेन चौर्य्येण वा  
+चौर्य्यद्यूतपरिग्रहोऽपि भवतो? नष्टस्य कान्या गतिः"॥ (९)**
 
-“कृतमनुमतं दृष्टं वा यैरिदं गुरुपातकं  
-मनुजपशुभिर्निर्म्मर्य्यादैर्भवद्भिरुदायुधैः।
+ करुणस्य,—
 
-**नरकरिपुणा सार्द्धंतेषां सभीमकिरीटिना -  
-मयमहमसृङ्मेदोमांसैः करोमि दिशां बलिम्"॥** वेणी०।
+**अदृष्टदुःखो धर्मात्मा सर्वभूतप्रियंवदः  
+मयि जातो दशरथात् कथमुञ्छेन वर्त्तयेत्॥**
 
-  वीरस्य,—
+——————————————————————————————————
 
-**“क्षुद्राः सन्त्रासमेते विजहतु हरयः क्षुणशक्रेभकुम्भा-  
-युष्मद्देहेषु लज्जां दधति परममीसायका निष्पतन्तः।  
-सौमित्रे ! तिष्ठ पात्रं त्वमसि न हि रुषां नन्वहं मेघनादः  
-किञ्चिद्भ्रूभङ्गलीलानियमितजलधिं राममन्वेषयामि”॥** महाना०।
+विलोचनत्वादिना लज्जारूपव्यभिचारिभावेन परिपुष्टा आदिरसत्वमापद्यते इति बोध्यम्।
 
-  भयानकस्य,—
+ (९) भिक्षो इति। भिक्षुविषयिणोरुक्तिप्रत्युक्ती। हे भिक्षो! मांसनिषेवणं मांसभोजनं प्रकुरुषे? इत्युक्तिः, मद्यं विना तेन मांसेन किं विना मद्यं मांसभोजनं वृथेत्यर्थः इति प्रत्युक्तिः। मद्यञ्चापि तव प्रियं प्रीतिकरम्? इत्युक्तिः, अहो वाराङ्गनाभिः वेश्याभिः सह प्रियं मद्यमिति शेषः केवलं मद्यं न मम प्रियं वाराङ्गनामोदसहितं मद्यं मम प्रियमित्यर्थः इति प्रत्युक्तिः। तासां वाराङ्गनानाम् अर्थरुचिः धनलोभः विना धनं ता न प्रसीदन्तीति भावः, तव धनं कुतः? धनं नास्तीत्यर्थः भिक्षुत्वादिति भाव इत्युक्तिः। द्यूतेन चौर्य्येण वा धनम् उपार्ज्यते मयेति शेष इत्युक्तिः, भवतः तव चौर्य्यद्यूतपरिग्रहोऽपि, चौर्य्यं द्यूतञ्च भवता क्रियते? इत्युक्तिः नष्टस्य दुर्वृत्तस्य अन्या अपरा गतिः का? नैवेत्यर्थ इति प्रत्युक्तिः॥ अत्र तथाविधभिक्षुरालम्बनविभावः तस्य च मांसनिषेवणादिकमनुभावः तत्तत्कार्यप्रवृत्तिकीर्त्तनेनाक्षिप्ता चपलता व्यभिचारिभावः एतैः परिपुष्टो हासः सहृदयानां हास्यरसत्वनापद्यते इति बोध्यम्।
 
-**"नष्टं वर्षवरैर्मनुष्यगणनाभावादपास्य त्रपा  
-मन्तः कञ्चुकिकञ्चुकस्य विशति त्रासादयं वामनः।  
-पर्य्यन्ताश्रयिभिर्निजस्य सदृशं नाम्नः किरातैः कृतम्  
-कुब्जा नीचतयैव यान्ति शनकैरात्मेक्षणाशङ्गिनः"॥** रत्नावली।
+ (१०) अदृष्ट इति। न दृष्टं दुःखं येन सः अदृष्टदुःखः कदाप्यप्राप्तदुःखः, धर्मात्मा धार्मिकः सर्वभूतप्रियंवदः सर्वजनरञ्जन इति
 
-  बीभत्सस्य,—
+——————————————————————————————————
 
-**“उत्कृत्योत्कृत्य कृत्तिं प्रथममथ पृथूच्छोथभूयांसि मांसा-  
-न्य॑सस्फिक्पृष्ठपिण्डाद्यवयवसुलभान्युग्रपूतीनि जग्ध्वा।  
-अन्तःपर्य्यस्तनेत्रःप्रकटितदशनः प्रेतरङ्कःकरङ्का-  
-दङ्कस्थादस्थिसंस्थं स्थपुटगतमपि क्रव्यमव्यग्रमत्ति"॥** मा०मा०।
+**"यस्य भृत्याश्च दासाश्च स्वादून्यन्नानि भुञ्जते।  
+कथं स भोक्ष्यते रामो वने मूलफलान्ययम्"। (१०) रामा॰।**
 
-**“मानुषीभ्यः कथं नुस्यादस्य रूपस्य सम्भवः।  
-न प्रभातरलं ज्योतिरुदेति वसुधातलात्"॥** अ०श०
+ रौद्रस्य,—
 
-एषां क्रमेण स्थायिभावानाह मम्मटः—
+**"कृतमनुमतं दृष्टं वा यैरिदं गुरुपातकं  
+मनुजपशुभिर्निर्म्मर्य्यादैर्भवद्भिरुदायुधैः।  
+नरकरिपुणा सार्द्धं तेषां सभीमकिरीटिना–  
+मयमहमसृङ्मे दोमांसैः करोमि दिशां बलिम्"॥ (११) वेणी॰।**
 
-**“रतिर्हासश्च शोकश्च क्रोधोत्साहौभयं तथा।  
-जुगुप्सा विस्मयश्चैव स्थायिभावाः प्रकीर्त्तिताः”॥**
+——————————————————————————————————
 
-व्यभिचारिभावान् कथयति स एव,—
+भावः मयि दशरथात् जातः राम इति शेषः कथं केन प्रकारेण उञ्छेन क्षेत्रपतितैकैकधान्योज्वयनेनेत्यर्थः वर्त्तयेत् वृत्तिं जीविकां कुर्य्यादित्यर्थः यस्य भृत्याः परिजनाः दासाः किङ्कराश्च स्वादूनि अन्नानि भुञ्जते, सोऽयं रामः वने मूलफलानि कथं भोक्ष्यते? कौशल्याया उक्तिरियम्। अत्र राम आलम्बनविभावः तस्य उञ्छवृत्त्या जीवनादिकमनुभावः कौशल्याया विषादावेगादिकञ्चाक्षिप्तं व्यभिचारिभावः तैः परिपुष्टः सामाजिकानां शोकः करुणरसत्वमापद्यते इति बोध्यम्।
 
-“निर्वेदग्लानिशङ्काख्यास्तथासूयामदश्रमाः।  
-आलस्यञ्चैव दैन्यञ्च चिन्ता मोहः स्मृतिधृतिः॥  
-व्रीड़ा चपलता हर्ष आवेगो जड़ता तथा।  
-गर्वोविषाद औत्सुक्यं निद्रापस्मार एव च॥  
-सुप्तं प्रबोधोऽमर्षश्चाप्यवहित्यमथोग्रता।  
-मतिर्व्याधिस्तथोन्मादस्तथा मरणमेव च॥  
-त्रामश्चैव वितर्कश्च विज्ञेया व्यभिचारिणः।  
-त्रयस्त्रिंशदमी भावाः समाख्यातास्तु नामतः<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>**”**॥
+ (११) शतमिति। अश्वत्थाम्न उक्तिः। यैः निर्मर्य्यादैः मर्यादा धर्मव्यवस्था तद्रहितैरित्यर्थः उदायुधैः अस्त्रधारिभिः मनुजपशुभिः पशुरूपैर्मनुष्यैर्भवद्भिः इदं गुरुपातकं महापातकम् आचार्य्यहननरूपमिति भावः कृतम् अनुमतं वा दृष्टम् अयम् अहं नरकरूपिणा कृष्णेन सार्द्धं सभीमकिरीटिनां कृष्णभीमार्जुनसहितानामित्यर्थः तेषां भवताम् असृङ्मेदोमांसैः रक्तवसामांसैः दिशां बलिं पूजां बलिः पूजोपहारयोरित्यमरः। करोमि तान् नाशयामीति भावः अत्राचार्य्य आलम्बनविभावः तस्य तथाविधहननादिकमनुभावः अश्वत्थाम्नो गर्वामर्षादिकं व्यभिचारिभावः एतैः परिपुष्टः सामाजिकानां क्रोधः रौद्ररसत्वमायातीति बोध्यम्।
 
-**“निर्वेदस्थायिभावोऽस्ति शान्तोऽपि नवमो रसः"॥**
+——————————————————————————————————
 
-------------------------------------------------------------------------------------------------------------------------
+ वीरस्य,—
 
-<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>विपत्पातेन तत्त्वज्ञानादिना वा स्वावमानना निर्व्वेदः, परगुणादीनामसहिष्णुता असूया मद्योपयोगेन चित्तविकाशो मदः.अभीष्टलाभादिना सम्पूर्णस्पृहता धृतिः, अहाद्यावेशादिना मनःक्षेपः अपस्मारः, निद्रागतस्य विषयानुभवः सुप्तं, निन्दादिकत्तुर्वैरनिर्यासननिश्चयः अमर्षः, लज्जादिना हेतुना हर्षाद्याकारगोपनम् अवहित्थं, नीतिमार्गानु-सरणादिनाऽर्थनिर्द्धारणं मतिः; अन्यत् स्पष्टम् ।  
---------------------------------------------------------------------------------------------------------------------------
+**"क्षुद्राः सन्त्रासमेते विजहतु हरयः क्षुणशक्रेभकुम्भा–  
+युष्मद्देहेषु लज्जां दधति परममी सायका निष्पतन्तः!  
+सौमित्रे! तिष्ठ पात्रं त्वमसि न हि रुषां नन्वहं मेघनादः  
+किञ्चिद्भूभङ्गलीलानियमितजलधिं राममन्वेषयामि"॥ (१२) महाना॰।**
 
-  यथा —
+ भयानकस्य,—
 
-"अहौवा हारे वा कुसुमशयने वा दृशदि वा  
-मणौ वा लोष्ट्रेवा बलवति रिपौ वा सुहृदि वा।  
+**"नष्ट वर्षवरैर्मनुष्यगणनाभावादपास्य त्रपा–  
+मन्तः कञ्चुकिकञ्चुकस्य विशति त्रासादयं वामनः।**
+
+——————————————————————————————————
+
+ (१२) क्षुद्रा इति। क्षुद्रा एते हरयः कपयः सन्त्रासं विजहतु त्यजन्तु, अमी क्षुणौ शाक्रम्य इभकुम्भौ ऐरावतकुम्भौ यैः तथाभूताः सायकाः शरा समेति शेषः युष्मद्देहेषु पतन्तः परम् अत्यर्थं लज्जां दधति धारयन्ति, हे सौमित्रे! तिष्ठ, त्वमपि न हि नैव रुषां क्रोधानां समेति शेषः पात्रं भाजनं न असि, नतु अहं मेघनादः मेघ इव नदतीति तथोक्तः, किञ्चिद्भ्रूभङ्गलीलया नियमितः बद्धः जलधिर्येन तादृशं रामम् अन्वेषयामि। पुरा यदा महता प्रयासेनापि सेतुर्बद्धुं न शक्तः, तदा किञ्चित् कुपितं रामं वीक्ष्यैव स्वयं समुद्रः समागत्य चरणनिपतितः कोपं सान्त्वयन् स्वयमेवात्मानं बन्धनाय दत्तवानिति कथात्रानुसन्धेया। अत्रालम्बनविभावो रामः तत्कोपविजृम्भितजलधिबन्धनादिकमनुभावः मेघनादस्य गर्वादिकं व्यभिचारिभावः एतैः परिपुष्टः मेघनादोत्साहः सामाजिकानां वीररसत्वं लभते इति बोध्यम्।
+
+ (१३) नष्टमिति। अश्वशालाया वानरं निर्गतं दृष्ट्वा वर्षवराटीनामावेगवर्णनमिदम्। वर्षवरैः क्लीवैः मनुष्यगणनाभावात् मनुष्येषु अगण्यत्वादित्यर्थः त्रपां लज्जाम् अपास्य नष्ट पलायितम्। अयं
+
+——————————————————————————————————
+
+**पर्य्यन्ताश्रयिभिर्निजस्य सदृशं नाम्नः किरातैः कृतं  
+कुब्जा नीचतयैव यान्ति शनकैरात्मेक्षणाशङ्किनः"॥ (१३) रत्नावली।**
+
+ बीभत्सस्य,—
+
+**"उत्कृत्योत्कृत्य कृत्तिं प्रथममथ पृथूच्छोथभूयांसि मांसा–  
+न्यं सस्फिक्पृष्ठपिण्डाद्यवयवसुलभान्युग्रपूतीनि जग्ध्वा।  
+अन्तःपर्य्यस्तनेत्रः प्रकटितदशनः प्रेतरङ्कः करङ्का–  
+दङ्कस्थादस्थिसंस्थं स्थपुटगतमपि क्रव्यमव्यग्रमत्ति"॥ (१४) मालतीमाधवम्।**
+
+——————————————————————————————————
+
+वामनः खर्वपुरुषः त्रासात् कञ्चुकिनः अन्तःपुरचरो वृद्धो विप्रो गुणगणान्वितः। सर्वकार्य्यार्थकुशलः कञ्चुकीत्यभिधीयते इत्युक्तलक्षणस्य पुरुषस्य यः कञ्चुकः वारवाणः कञ्चुको वारवाणोऽस्त्रीत्यमरः। तस्य अन्तः अभ्यन्तरं विशति। पर्य्यन्ताश्रयिभिः नगरप्रान्तवासिभिः किरातैः व्याधैः निजस्य नाम्नः किरातेत्यस्य सदृशं किरं प्रान्तदेशम् अतन्ति गच्छन्तीति व्युत्पत्तिलभ्यार्थानुरूपमित्यर्थः कृतं पर्य्यन्तेषु पलायितमिति भावः। कुब्जा आत्मनः ईक्षणं दर्शनं वानरकर्त्तृकमिति भावः तस्मात् आशङ्कन्ते इति तथोक्ताः सन्तः नीचतया सङ्कुचिततयैव शनकैः मन्दं मन्दं यान्ति गच्छन्ति। अत्र वानरनिर्गम आलम्बनविभावः तत् कार्य्यसुल्लम्फनादिकमनुभावः वर्षवरादीनां त्रासावेगादिकं व्यभिचारिभावः एतैः परिपुष्टा भीतिः सामाजिकानां भयानकरसत्वमायातीति बोध्यम्।
+
+ (१४) उत्कृत्येति। प्रेतरङ्कः प्रेताधमः प्रथमं कृत्तिं चर्म उत्कृत्य उत्कृत्य छित्त्वा छित्त्वा अथ अनन्तरं पृथुभिः महद्भिः उच्छोथैः स्फोतताभिः भूयांसि प्रभूतानि, अंसश्च स्फिक् च पृष्ठपिण्डञ्च तेषु अवयवेषु अङ्गेषु सुलभानि सुप्रापानि उग्रपूतीनि अतिदुर्गन्धानि मांसानि
+
+——————————————————————————————————
+
+ अद्भुतस्य,—
+
+**"मानुषीभ्यः कथं नु स्यादस्य रूपस्य सम्भवः।  
+न प्रभातरलं ज्योतिरुदेति वसुधातलात्"॥ (१५) अ॰ श॰।**
+
+ एषां क्रमेण स्थायिभावानाह मम्मटः—
+
+**"रतिर्हासश्च शोकश्च क्रोधोत्साहो भयं तथा।  
+जुगुप्सा विस्मयश्चैव स्थाविभावाः प्रकीर्त्तिताः"॥**
+
+ व्यभिचारिभावान् कथयति स एव,—
+
+**"निर्वेदग्लानिशङ्काख्यास्तथासूयामदश्रमाः।  
+आलस्यञ्चैव दैन्यञ्च चिन्ता मोहः स्मृतिर्धृतिः॥  
+व्रीड़ा चपलता हर्ष आवेगो जड़ता तथा।  
+गर्वो विषाद औत्सुक्यं निद्रापस्मार एव च"॥**
+
+——————————————————————————————————
+
+जग्ध्वा भक्षयित्वा अन्तः अभ्यन्तरे शवस्येति शेषः पर्य्यस्ते पातिते नेत्रे येन तथोक्तः तथा प्रकटिता दशना दन्ता येन तथाविधः सन् अङ्कस्थात् करङ्कात् शवात् अस्थिसंस्थं कङ्कालान्तर्गतं स्थपुटगतमपि अस्थिसन्धिस्थितमपि क्रव्यं मांसम् अव्यग्रं व्यग्रतारहितं शनैःशनैरित्यर्थः अस्ति भक्षयति। अत्र प्रेतरङ्क आलम्बनविभावः तस्य तथाविधमांसभक्षणादिचेष्टादिकमनुभावः, तस्य च हर्षादयो व्यभिचारिभावाः एतैः परिपुष्टा जुगुप्साख्यः स्थायिभावः वीभत्सरसत्वं प्रतिपद्यते इति बोध्यम्।
+
+ (१५) मानुषीभ्य इति। पूर्वं व्याख्यातम्। अत्र शकुन्तला आलम्बनविभावः तस्याः तथाविधरूपविलासादिकमनुभावः, औत्सुक्यादयो व्यभिचारिणः, तैः परिपुष्टो विस्मयाख्यः स्थायिभावः सामाजिकानाम् अद्भुतरसत्वमापद्यते इति बोध्यम्।
+
+——————————————————————————————————
+
+**"सुप्तं प्रबोधोऽमर्षश्चाप्यवहित्थमथोग्रता।  
+मतिर्व्याधिस्तथोन्मादस्तथा मरणमेव च॥**
+
+**त्रासश्चैव वितर्कश्च विज्ञेया व्यभिचारिणः।  
+त्रयस्त्रिंशदमी भावाः समाख्यातास्तु नामतः"॥**
+
+**"निर्वेदस्थाविभावोऽस्ति शान्तोऽपि नवमो रसः"॥**
+
+ यथा—
+
+**"अहौ वा हारे वा कुसुमशयने वा दृशदि वा  
+मणौ वा लोष्टे वा बलवति रिपौ वा सुहृदि वा।  
 तृणे वा स्त्रैणे वा मम समदृशो यान्तु दिवसाः  
-क्वचित् पुण्येऽरण्ये शिव ! शिव ! शिवेति प्रलपतः"॥
+क्वचित् पुण्येऽरण्ये शिव! शिव! शिवेति प्रलपतः"॥ (१६)**
 
-**"केचिच्चमत्कारितया वत्सलञ्च रसं विदुः”।**विश्वनाथः।
+——————————————————————————————————
 
-  यथा—
+ \* विपत्पातेन तत्त्वज्ञानादिना वा स्वावमानना निर्वेदः, परगुणादीनामसहिष्णुता असूया, मद्योपयोगेन चित्तविकाशो मदः, अभीष्टलाभादिना सम्पूर्णस्पृहता धृतिः, ग्रहाद्यावेशादिना मनःक्षेपः अपस्मारः, निद्रागतस्य विषयानुभवः सुप्तं, निन्दादिकर्त्तुर्वैरनिर्यातननिश्चयः अमर्षः, लज्जादिना हेतुना हर्षाद्याकारगोपनम् अवहित्थं, नीतिमार्गानुसरणादिनाऽर्थनिर्द्धारणं मतिः, अन्यत् स्पष्टम्।
 
-"यदाहधात्र्याप्रथमोदितं वचो  
+——————————————————————————————————
+
+ (१६) अहाविति। अहौ वा सर्पे वा हारे मुक्तादिरचितकण्ठाभरणे वा, कुसुमशयने पुष्पशय्यायां वा, दृषदि पाषाणे वा, मणौ हीरकादिरत्ने वा लोष्टे मृत्पिण्डे वा, बलवति रिपौ शत्रौ वा सुहृदि मित्रे वा, तृणे वा स्त्रैणे स्त्रियां वा स्त्रीशब्दात् स्वार्थे ष्णप्रत्ययः। समदृशः तुल्यदृष्टेः मम क्वचित् कुत्रापि पुण्ये पवित्रे
+
+——————————————————————————————————
+
+**"केचिच्चमत्कारितया वत्सलञ्च रसं विदुः"॥ विश्वनाथः।**
+
+ यथा—
+
+**"यदाह धात्र्या प्रथमोदितं वचो  
 ययौ तदीयामवलम्ब्य चाङ्गुलिम्।  
-अभूच्च नम्रःप्रणिपातशिक्षया  
-पितुर्मुदं तेन ततान सोऽर्भकः”॥रघु०।
+अभूच्च नम्रः प्रणिपातशिक्षया  
+पितुर्मुदं तेन ततान सोऽर्भकः"॥ (१७) रघु॰।**
 
-  संलक्ष्यक्रमव्यङ्ग्यमाह,—
+ संलक्ष्यक्रमव्यङ्ग्यमाह,—
 
 **यत्र व्यङ्ग्यप्रतीतेस्तु क्रमः सम्यग्विभाव्यते।  
 स संलक्ष्यक्रमव्यङ्ग्यस्तद्भेदा बहवः स्मृताः॥**
 
-   यथा पूर्व्वोदाहृते (८ पृ०) कुवेरगुप्तामित्यादिश्लोके दक्षिणाशब्देन दाक्षिण्यशीलनायिकारूपं वस्तु व्यज्यते। अयञ्च शब्दशक्त्युद्भवो वस्तुध्वनिः।
+ यथा पूर्वोदाहृते (१२पृ॰) कुवेरगुप्तामित्यादिश्लोके
 
-  गुणीभूतव्यङ्ग्यमाह,—
+——————————————————————————————————
 
-**अनुत्तमे गुणीभूतव्यङ्ग्यं व्यङ्ग्येतु वाच्यतः।**
+अरण्ये कानने शिव शिव शिवेति प्रलपतः प्रलापं कुर्वतः सतः दिवसा यान्तु गच्छन्तु। अत्त्र तथाविधसमदर्शी पुरुष आलम्बनविभावः तस्य सर्वत्त्र समदर्शनमनुभावः हर्षप्रबोधादयो व्यभिचारिणः एतैः परिपुष्टो निर्वेदः शान्तरसत्वमायातीति बोध्यम्।
 
-    व्यङ्ग्येव्यङ्ग्यार्थे वाच्यतो वाच्यार्थादनुत्तमेऽनधिकचमत्कारिणि सति गुणीभूतव्यङ्ग्यं तच्च मध्यमं काव्यं कथ्यते। यथा,—
+ (१७) यदाहेति। सः अर्भकः शिशुः रघुरित्यर्थः धात्र्या उपमात्र्या प्रथमोदितं प्रथमतः उक्तं वचः आह ब्रवीति, तदीयां धात्रीसम्बन्धिनीम् अङ्गुलिम् अवलम्ब्य ययौ च, प्रणिपातशिक्षया प्रणामशिक्षणेन एवं गुरवः प्रणम्या इत्युपदेशेनेत्यर्थः नम्रः नतशिरा इत्यर्थः अभूच्च इति यत् तेन पितुः जनकस्य दिलीपस्य मुदं यानन्दं ततान विस्तारयामास जनयामासेत्यर्थः। अत्रार्भक आलम्बनविभावः तस्य चेष्टादिकमनुभावः हर्षादयश्च व्यभिचारिणः तैः परिपुष्टः स्नेहाख्यः स्थायिभावः वत्सलरसत्वमापद्यते इति बोध्यम्।
 
-"अत्रासीत् फणिपाशबन्धनविधिः शक्त्या भवद्देवरे  
-गाढ़ं वक्षसि ताड़िते हनुमता द्रोणाद्रिरत्राहृतः।  
-दिव्यैरिन्द्रजिदत्रलक्ष्मणशरैर्लोकान्तरं प्रापितः  
-केनाप्यत्र मृगाक्षि! राक्षसपतेः कृत्ताच कण्ठाटवी"॥
+——————————————————————————————————
 
-  अत्र अनुनायकोपनायकप्रतिनायकेषु निर्दिष्टेषु चतुर्थपादे नायको राम एवार्थशक्त्या प्रतीयते, स च केनापीत्युपादानेन वाच्यायमानतयाऽगूढ़ः कृत इति व्यङ्ग्यस्य चमत्कारित्वमपनीतम्। चित्रकाव्यमाह,—
+दक्षिणाशब्देन दाक्षिण्यशीलनायिकारूपं वस्तु व्यज्यते। अयञ्च शब्दशक्त्युद्भवो वस्तुध्वनिः।
 
-**व्यङ्ग्यार्थहीनं काव्यं यत्तत्तु चित्रमिति स्मृतम॥**
+ गुणीभूतव्यङ्ग्यमाह—
 
-  चित्रमिति गुणालङ्कारयुक्तं, व्यङ्ग्यार्थहीनं स्फुटप्रतीयमानव्यङ्ग्यार्थरहितम्, तच्च अधमं काव्यमुच्यते।
+**अनुत्तमे गुणीभूतव्यङ्ग्यं व्यङ्ग्ये तु वाच्यतः।**
+
+ व्यङ्ग्ये व्यङ्ग्यार्थे वाच्यतो वाच्यार्थादनुत्तमेऽनधिकचमत्कारिणि सति गुणीभूतव्यङ्ग्यं, तच्च मध्यमं काव्यं कथ्यते।
+
+यथा,—
+
+**"अत्रासीत् फणिपाशबन्धनविधिः, शक्त्या भवद्देवरे  
+गाढ़ं वक्षसि ताड़िते हनुमता द्रोणाद्रिरत्राहृतः।  
+दिव्यैरिन्द्रजिदत्र लक्ष्मणशरैर्लोकान्तरं प्रापितः  
+केनाप्यत्र मृगाक्षि! राक्षसपतेः कृत्ता च कण्ठाटवी"॥ (१८) (बालरामायण नाटकम्)।**
+
+ अत्र अनुनायकोपनायकप्रतिनायकेषु निर्दिष्टेषु चतुर्थपादे नायको राम एवार्थशक्त्या प्रतीयते, स च केनापीत्युपादानेन वाच्यायमानतयाऽगूढ़ः कृत इति
+
+——————————————————————————————————
+
+ (१८) अत्रेति। सीतां राक्षससङ्कटादुद्धृत्य पुष्पकरथमारूढ़ेन रामेण सीतां प्रत्युक्तमिदम्। हे मृगाक्षि! मृगनयने! अत्र अस्मिन् स्थाने फणिपाशबन्धनविधिः नागपाशास्त्रबन्धनव्यापार आसीत्, अत्र भवद्देवरे भवत्या देवरे लक्ष्मणे शक्त्या तदाख्यास्त्रविशेषेण वक्षसि गाढं ताड़िते प्रहृते रावणेनेति शेषः हनुमता द्रोणाद्रिः गन्धमादनगिरिः आहृतः आनीतः, अत्र दिव्यैः अत्युत्कृष्टैरित्यर्थः लक्ष्मणशरैः इन्द्रजित् लोकान्तरं प्रापितः निहत इत्यर्थः। अत्र केनापि जनेन राक्षसपतेः रावणस्य कण्ठाटवी कण्ठवनं कृत्ता छिन्ना।
+
+——————————————————————————————————
+
+व्यङ्ग्यस्य चमत्कारित्वमपनीतम्। चित्रकाव्यमाह,—
+
+**व्यङ्ग्यार्थहीनं काव्यं यत्तत्तु चित्त्रमिति स्मृतम्॥**
+
+ चित्रमिति गुणालङ्कारयुक्तं, व्यङ्ग्यार्थहीनं स्फुटप्रतीयमानव्यङ्ग्यार्थरहितम्, तच्च अधमं काव्यमुच्यते।
 
 **शब्दचित्रं वाच्यचित्रं द्विविधं तत्प्रकीर्त्तितम्।**
 
-   यत्र वाच्यार्थात् शब्दस्य प्राधान्येन चमत्कारित्वं तत् शब्दचित्रम् । यथा,—
+ यत्र वाच्यार्थात् शब्दस्य प्राधान्येन चमत्कारित्वं तत् शब्दचित्रम्। यथा,—
 
-“कूजत्कुञ्जकुटीरकौशिकघटाघूत्कारवत्कीचक-  
-स्तम्बाड़म्बरमूकमौकुलिकुलःक्रौञ्चावतोऽयं गिरिः।
+**"कूजत्कुञ्जकुटीरकौशिकघटाघुत्कारवत्कीचक–  
+स्तम्बाड़म्बरमूकमौकुलिकुलः क्रौञ्चावतोऽयं गिरिः।  
+एतस्मिन् प्रचलाकिनां प्रचलतामुद्वेजिताः कूजितै–  
+रुद्वेल्लन्ति पुराणचन्दनतरुस्कन्धेषु कुम्भीनसाः"॥ (१९) (उत्तररामचरितम्)**
 
-एतस्मिन् प्रचलाकिनां प्रचलतामुद्वेजिताःकूजितै-  
-रुद्देल्लन्ति पुराणचन्दनतरुस्कन्धेषु कुम्भीनसाः” <MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>॥ ( उ० च० )
+——————————————————————————————————
 
-यत्रशब्दाद्वाच्यार्थस्य प्राधान्येन चमत्कारित्वं तद्वाच्यचित्रम्. यथा,—
+ (१९) कूजदिति। कुजन्तीनां रटन्तीनां कुञ्जकुटीरेषु लतादिवेष्टितस्थानरूपक्षुद्रगृहेषु कौशिकघटानां पेचकसङ्घानां घुत्कारः शब्दविशेषः तद्वन्तः ये कीचकाः वेणुविशेषाः वेणवः कीचकास्ते स्युर्ये स्वनन्त्यनिलोद्धता इत्यमरः तेषां स्तम्बाड़म्बरेषु गुच्छविस्तारेषु मूकानि पेचकभयात् निःशब्दानि मौकुलिकुलानि काकसमूहा यत्र तथाभूतः अयं दृश्यमान इत्यर्थः क्रौञ्चावतः क्रौञ्चाः पक्षिविशेषा अत्र सन्तीति तथोक्तः गिरिः। एतस्मिन् गिरौ प्रचलताम् इतस्ततः सञ्चरतां प्रचलाकिनां मयूराणां कूजितैः ध्वनिविशेषैः उद्वेजिताः उद्वेगं प्रापिताः कुम्भीनसाः क्रूरसर्पाः पुराणानां चन्दनतरूणां स्कन्धेषु उद्वेल्लन्ति निलीयन्ते।
 
-"ते दृष्टिमात्रपतिता अपि कस्य नात्र  
-लोभाय पक्ष्मलदृशामलकाःखलाश्च।  
-नीचाःसदैव सविलासमलीक↑[^4] लग्ना  
-ये कालतां कुटिलतामिव न त्यजन्ति "॥
+——————————————————————————————————
 
-[^4]: "↑ अलीकं ललाटं मिथ्या च ।"
+ यत्र शब्दाद्वाच्यार्थस्य प्राधान्येन चमत्कारित्वं तद्वाच्यचित्रं यथा,—
 
-इति काव्यप्रभेदनं नाम तृतीयशिखा।
+**"ते दृष्टिमात्रपतिता अपि कस्य नात्र  
+क्षोभाय पक्ष्मलदृशामलकाः खलाश्च।  
+नीचाः सदैव सविलासमलीक लग्ना  
+ये कालतां कुटिलतामिव न त्यजन्ति"॥ (२०)**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>\*कौशिकघटा पेचकसमूहः, मौकुलिकुलं काकसमूहः प्रचलाकिनां मयूराणाम्, कुम्भीनसाः क्रूरसर्पाः।  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**इति काव्यप्रभेदनं नाम तृतीयशिखा।**
 
-**चतुर्थशिखा ।**   
-**————**
+——————————————————————————————————
 
-एवं ध्वनिगुणीभूतव्यङ्ग्यचित्रत्वेन काव्यस्य भेदत्रयमुक्त्वापुनर्दृश्यश्रव्यत्वभेदेन भेदद्वयमाह,—
+ (२०) ते इति। ते पक्ष्मलदृशां पक्ष्मले नेत्रलोमशालिन्यौ दृशौ नेत्रे यासां तथाभूतानां सुनयनानामित्यर्थः नारीणाम् अलकाः चूर्णकुन्तलाः खलाः दुर्जनाश्च दृष्टिमात्रपतिता अपि अत्र संसारे कस्य जनस्य क्षोभाय न? अपि तु सर्वस्यैव क्षोभा मनोविकाराय भवन्तीति शेषः ये अलकाः खलाश्च सदैव नीचा लताः क्षुद्राश्च तथा सविलासं विलाससहितं यथा तथा अलीकलग्नाः भालस्थिताः मिथ्याप्रतारणादिरताश्च सन्तः कालतां कृष्णवर्णतां मलिनताञ्च कुटिलतामिव कौटिल्यमिव भङ्गिवत्त्वमिवेत्यर्थः खलत्वमिव च न त्यजन्ति।
 
-**" दृश्यश्रव्यत्वभेदेन पुनः काव्यं द्विधा मतम्”। **  
-                           विश्वनाथः।
+इति तृतीयशिखा।
 
-**“दृश्यं तत्राभिनेयं तद् रूपारोपात्तु रूपकम्”॥**  
-                            विश्वनाथः।
+———————
 
-  अभिनेयम् अभिनययोग्यम्, तच्च दृश्यं काव्यं नटैरामादिस्वरूपारोपाद्रूपकमिति च कथ्यते।
+——————————————————————————————————
 
-अभिनयस्य स्वरूपं भेदाश्च कथ्यन्ते,—
+**चतुर्थशिखा।**  
+<MISSING_FIG href="../books_images/U-IMG-1765391879sample-02.png"/>
+
+ एवं ध्वनिगुणीभूतव्यङ्ग्यचित्रत्वेन काव्यस्य भेदत्रयमुक्त्वा पुनर्दृश्यश्रव्यत्वभेदेन भेदद्वयमाह,—
+
+**"दृश्यश्रव्यत्वभेदेन पुनः काव्यं द्विधा मतम्"। विश्वनाथः।**
+
+**"दृश्यं तत्राभिनेयं तद् रूपारोपात्तु रूपकम्"॥ विश्वनाथः। (१)**
+
+ अभिनेयम् अभिनययोग्यम्, तच्च दृश्यं काव्यं नटैः रामादिस्वरूपारोपाद्रूपकमिति च कथ्यते।
+
+ अभिनयस्य स्वरूपं भेदाश्च कथ्यन्ते,—
 
 **"भवेदभिनयोऽवस्थानुकारः स चतुर्विधः।  
 आङ्गिको वाचिकश्चैवमाहार्य्यः सात्विकस्तथा"॥**
 
-  नटैरङ्गेन, वाचा, वस्त्रालङ्कारादिभिः, मानसभावैश्च रामयुधिष्ठिरादीनामवस्थानुकरणमभिनयः।       दृश्यकाव्यानि कानिचिद् रूपकनाम्नाऽपराणि उपरूपकनाम्ना कथ्यन्ते। तत्र रूपकाणि नाटक-प्रकरणप्रहसनप्रभृतीनि दशविधानि, उपरूपकाणि च नाटिकात्रोटकादीनि अष्टादशभेदानि। विशेषं विना सर्वेषामेव स्वरूपं नाटकलक्षणसमानम्।
+ नटैरङ्गन, वाचा, वस्त्रालङ्कारादिभिः, मानसभावैश्च रामयुधिष्ठिरादीनामवस्थानुकरणमभिनयः।
 
-नाटकलक्षणमाह विश्वनाथः,—
+ दृश्यकाव्यानि कानिचिद् रूपकनाम्नाऽपराणि उपरूपकनाम्ना कथ्यन्ते। तत्र रूपकाणि नाटकप्रकरणप्रहसनप्रभृतीनि दशविधानि, उपरूपकाणि च नाटिका
 
-**“नाटकं ख्यातवृत्तं स्यात् पञ्चसन्धिसमन्वितम्।  
-विलासर्द्ध्यादिगुणवद् युक्तं नानाविभूतिभिः॥  
-सुखदुःखसमुद्भूति नानारसनिरन्तरम्।  
-पञ्चादिका दशपरास्तत्राङ्काःपरिकीर्त्तिताः॥  
-प्रख्यातवंशो राजर्षिर्धीरोदात्तः प्रतापवान्।  
-दिव्योऽथ दिव्यादिव्यो वा गुणवान्नायको** <MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>**मतः॥**
+——————————————————————————————————
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ (१) दृश्यमिति। दृश्यं दर्शनीयं तत्र तयोरित्यर्थः अभिनेयम् अभिनयार्हम्।
 
-<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>नायकलक्षणमाह विश्वनाथः — 
+——————————————————————————————————
 
-“ त्यागी कृती कुलीनः सुश्रीको रूपयौवनोत्साही \।  
-दक्षोऽनुरक्तलोकस्तेजोवैदग्ध्यशीलवान् नेता”॥
+त्रोटकादीनि अष्टादशभेदानि। विशेषं विना सर्वेषामेव स्वरूपं नाटकलक्षणसमानम्।
 
-  दक्षःक्षिप्रकारी, शीलं सद्वृत्तम् एवमादिगुणसम्पन्नो नेता नायको भवति। स च चतुर्विधः, धीरोदात्तः, धीरोद्धतः, धीरललितः, धीरप्रशान्तश्च।
+ नाटकलक्षणमाह विश्वनाथः,—
 
-तेषां क्रमेण लक्षणमाह स एव—
+**नाटकं ख्यातवृत्तं स्यात् पञ्चसन्धिसमन्वितम्।  
+विलासर्द्ध्यादिगुणवद् युक्तं नानाविभूतिभिः॥**
 
-“अविकत्थनः क्षमावानतिगम्भीरो महासत्त्वः।  
-स्थेयान्निगूढ़मानो धीरोदात्तो दृढव्रतः कथितः̋॥
+**सुखदुःखसमुद्भूति नानारसनिरन्तरम्।  
+पञ्चादिका दशपरास्तत्राङ्गाः परिकीर्त्तिताः॥**
 
- अविकत्थन अनात्मश्लाघाकरः, महासत्वः हर्षशोकादीभिरनभिभूतस्वभावः, निगूढमानः विनयच्छद्मगर्वः, दृढव्रतः अङ्गीकृतनिर्वहकः यथा रामयुधिष्ठिरादिः।
+**प्रख्यातवंशो राजर्षिर्धीरोदात्तः प्रतापवान्।  
+दिव्योऽथ दिव्यादिव्यो वा गुणवान्नायको\* मतः॥**
 
-̏मायापरः प्रागल्भः प्रचण्डश्चपलोहङ्कारदर्पभूयिष्ठ।  
-आत्मश्लाघानिरतो धीरैर्धीरोद्धतः कथितः̋॥
+——————————————————————————————————
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ \*नायकलक्षण्माह विश्वनाथः—
+
+"त्यागी कृती कुलीनः सुश्रीको रूपयौवनोत्साही।  
+दक्षोऽनुरक्तलोकस्तेजीवैदग्ध्यशीलवान् नेता"॥
+
+ दक्षः क्षिप्रकारी शीलं सद्वृत्तम् एवमादिगुणसम्पन्नो नेता नायको भवति। स च चतुर्विधः, धीरोदात्तः, धीरोद्धतः, धीरललितः, धीरप्रशान्तश्च।
+
+ तेषां क्रमेण लक्षणमाह स एव,—
+
+"अविकत्थनः क्षमावानतिगम्भीरो महासत्त्वः।  
+स्थेयान्निगूढमानो धीरोदात्तो दृढ़व्रतः कथितः"॥
+
+ अविकत्थनः अनात्मश्लाघाकरः, महासत्त्वः हर्षशोकादिभिरनभिभूतस्वभावः, निगूढ़मानः विनयच्छन्नगर्वः, दृढ़व्रतः अङ्गीकृतनिर्वाहकः, यथा रामयुधिष्ठिरादिः।
+
+——————————————————————————————————
 
 **चत्वारः पञ्च वा मुख्याः कार्य्यव्यापृतपूरुषाः।  
-एक एव भवेदङ्गी” प्रथमो "वीर एव वा॥  
-अङ्गमन्ये रसाः सर्वे कार्य्यं निर्वहणेऽद्भुतम्**<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>**”।**
+एक एव भवेदङ्गी" प्रथमो "वीर एव वा॥**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+——————————————————————————————————
 
-माया कपटाचारः तत्परायणः, यथा भीमसेनादिः।
+**"मायापरः प्रगल्भः प्रचण्डश्चपलोऽहङ्कारदर्पभूयिष्ठः।  
+आत्मश्लाघानिरतो धीरैर्धीरोद्धतः कथितः"॥**
 
-“निश्चिन्तो मृदुरनिशं कलापरो धोरललितःस्यात्।
+**माया कपटाचारः तत्परायणः, यथा भीमसेनादिः।  
+"निश्चिन्तो मृदुरनिशं कलापरो धीरललितः स्यात्"।**
 
-कलाःनृत्यादिकाः यथा रत्नावल्यां वत्सराजः,—
+ कलाः नृत्यादिकाः यथा रत्नावल्यां वत्सराजः,—
 
-“सामान्यगुणैर्भूयान् द्विजादिको धीरप्रशान्तः स्यात्”।
+——————————————————————————————————
 
-यथा मालतीमाधवे माधवः।
+ (२) नाटकमिति। ख्यातं प्रसिद्धं महाभारतादिष्विति शेषः, वृत्तं चरितं यस्य तादृशम्। पञ्चभिः वक्ष्यमाणैः सन्धिभिः मुखादिभिः समन्वितं युक्तम्। विलासः नायकस्य गुणविशेषः। तदुक्तं दर्पणे,
 
-<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>प्रकरणादिषु विशेषाः कथ्यन्ते विश्वनाथेन,—
+ धीरा दृष्टिर्गतिश्चित्रा विलासे सस्मितं वच इति, ऋद्धिः सम्पद् तदादयो गुणाः सन्त्यत्रेति तथोक्तं नानाविभूतिभिः विविधैरैश्वर्य्यैः युक्तम्। सुखञ्च दुःखञ्च तयोः समुद्भूतिः सम्यगुत्पत्तिः यस्मिन् तथोक्तम्। नानारसैः शृङ्गारादिभिर्निरन्तरमविच्छिन्नं नाटकं भवतीति शेषः। तत्र नाटके पञ्चादिका दशपरा अङ्काः तदाख्याः परिच्छेदाः परिकीर्त्तिता उक्ताः। पञ्चाङ्कं षड़ङ्कं सप्ताङ्कम् अष्टाङ्कं नवाङ्कं दशाङ्कञ्च भवतीत्यर्थः। प्रख्यातः प्रतिद्धो वंशो यस्य तादृशः राजा ऋषिरिवेति राजर्षिः ऋषिवत् सदाचारपरायणः, धीरोदात्तः अविकत्थनत्वादिगुणशालीत्यर्थः प्रतापवान् कोषदण्डजतेजःशालीत्यर्थः स प्रभावः प्रतापश्च यत्तेजः कोषदण्डजमित्यमरः। दिव्यः स्वर्गीयः अथवा दिव्यादिव्यः दिव्यः सन्नदिव्यः, गुणवान् नायकसामान्यगुणशाली नायकः मतः कथितः। चत्वारः पञ्च वा मुख्याः प्रधानानि कार्य्येषु तत्तदभिनयव्यापारेषु व्यापृताः निरताः पुरुषाः भवन्तीति शेषः। प्रथमः आद्यः शृङ्गार इत्यर्थः वा वीरः एक एव उभयोरन्यतर एव अङ्गी प्रधानरसः भवेत् अन्ये सर्वे रसा अङ्गं तत् परि
 
-“भवेत् प्रकरणे वृत्तं लौकिकं कविकल्पितम्।  
-'आदिमो’ऽङ्गी नायकस्तु विप्रोऽमात्योऽथ वा वणिक्॥  
-सापायधर्म्मकामार्थपरो धीरप्रशान्तकः।  
-नायिका कुलजा क्वापि वेश्या क्वापि द्वयं क्वचित् ”\।
+——————————————————————————————————
 
-यथा मृच्छकटिकमालतीमाधवादि।
+**अङ्गमन्ये रसाः सर्वे कार्य्यं निर्वहणेऽद्भुतम्\*"। (२)**
+
+——————————————————————————————————
+
+"सामान्यगुणैर्भूयान् (३) द्विजादिको धीरप्रशान्तः स्यात्"।
+
+ यथा मालतीमाधवे माधवः।
+
+ \* प्रकरणादिषु विशेषाः कथ्यन्ते विश्वनाथेन,—
+
+"भवेत् प्रकरणे वृत्तं लौलिकं कविकल्पितम्।  
+'आदिमो'ऽङ्गी नायकस्तु विप्रोऽमात्योऽथ वा वणिक्॥
+
+सापायधर्म्मकामार्थपरो धीरप्रशान्तकः। (४)
+
+नायिका कुलजा क्वापि वेश्या क्वापि द्वयं क्वचित्"॥ (५)
+
+ यथा मृच्छकटिकमालतीमाधवादि।
+
+——————————————————————————————————
+
+पोषका इति यावत्। निर्वहणे, चरमे सन्धौ उपसंहारे इत्यर्थः अद्भुतम् आश्चर्यं कार्य्यम्।
+
+ (३) सामान्यगुणैरिति। सामान्यगुणैः नायकसामान्यगुणैः त्यागी कृतीत्यत्रोक्तैस्त्यागादिभिः, भूयान् प्रचुरः सामान्यनायकगुणशालीत्यर्थः।
+
+ (४) भवेदिति। प्रकरणे तदाख्ये रूपके कविना कल्पितं रचितं न तु प्रसिद्धमित्यर्थः लौकिकं स्वतः सम्भवीत्यर्थः वृत्तं चरितं भवेत्। आदिमः शृङ्गारः अङ्गी प्रधानं विप्रः, अमात्यः अथवा वणिक् नायकः, स च सापायधर्मकामार्थपरः विनश्वरधर्मकामार्थसाधननिरतः न तु निरपायमोक्षसाधनपर इति भावः तथा धीरप्रशान्तकः धीरप्रशान्त एवेति स्वार्थे कन्प्रत्ययः।
+
+ (५) नायिकेति। क्वापि प्रकरणे नायिका कुलजा कुलीना, क्वापि वेश्या, क्वापि द्वयं कुलीना वेश्या चेत्यर्थः।
+
+——————————————————————————————————
+
+ ख्यातं रामायणमहाभारतादिप्रसिद्धं रामयुधिष्ठिरादिचरितम्, सन्धयो वक्ष्यमाणाः, विलासादयो नायकगुणाः तैर्युक्तम्, सुखदुःखसमुद्भवत्वं रामयुधिष्ठिरादिवृत्तान्तेष्वभिव्यक्तम्, नानाविधैरसैर्निरन्तरमविच्छिन्नम्, राजर्षयो दुष्मन्तादयः, दिव्याः श्रीकृष्णादयः, दिव्योऽप्यात्मनि नराभिमानी दिव्यादिव्यः श्रीरामचन्द्रः, निर्वहणे पञ्चमे सन्धौ।
+
+——————————————————————————————————
 
 "भवेत् प्रहसने वृत्तं निन्द्यानां कविकल्पितम्।  
-अङ्गी हास्यरसो नात्रविष्कम्भकप्रवेशकौ”॥
+अङ्गी हास्यरसो नात्र विष्कम्भकप्रवेशकौ"॥ (६)
 
-यथा हास्यार्णवकौतुकसर्वस्वादि।
+ यथा वसन्ततिलक हास्यार्णवकौतुकसर्वस्वादि।
 
-“नाटिका क्लृप्तवृत्ता स्यात् स्त्रीप्राया चतुरङ्किका।  
-प्रख्यातो घोरललितस्तत्र स्यान्नायको नृपः॥  
-स्यादन्तःपुरसम्बन्धा सङ्गीतव्यापृताथ वा।  
-नवानुरागा कन्याऽत्रनायिका नृपवंशजा॥  
+"नाटिका क्लृप्तवृत्ता स्यात् स्त्रीप्राया चतुरङ्गिका।  
+प्रख्यातो धीरललितस्तत्र स्यान्नायको नृपः॥
+
+स्यादन्तःपुरसम्बन्धा सङ्गीतव्यापृताथवा।  
+नवानुरागा कन्याऽत्र नायिका नृपवंशजा॥
+
 सम्प्रवर्तेत नेतास्यां देव्यास्त्रासेन शङ्कितः।  
 देवी पुनर्भवेद् ज्येष्ठा प्रगल्भा नृपवंशजा॥
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+पदे पदे मानवती तद्वशः सङ्गमो द्वयोः।  
+वृत्तिः स्यात् कौशिकी स्वल्पविमर्षाः सन्धयः पुनः"॥ (७)
 
-  ख्यातं रामायणमहाभारतादिप्रसिद्धं रामयुधिष्ठिरादिचरितम् ; सन्धयोवक्ष्यमाणाः; विलासादयो नायकगुणाः तैर्युक्तम् ; सुखदुःखसमुद्भवत्वं रामयुधिष्ठिरादिवृत्तान्तेष्वभिव्यक्तम् ;
-नानाविधैरसैर्निरन्तरमविच्छिन्नम्;राजर्षयो दुष्यन्तादयः, दिव्याः श्रीकृष्णादयः, दिव्योऽप्यात्मनि नराभिमानी दिव्यादिव्यः श्रीरामचन्द्रः; निर्वहणे पञ्चमे सन्धौ।
+——————————————————————————————————
 
-अङ्कलक्षणमाह,—
+ (६) भवेदिति। प्रहसने तदाख्ये रूपके कविना कल्पितं रचितं निन्द्यानां निन्दनीयानां वृत्तं चरितं भवेत्। अत्र हास्यरसः अङ्गी प्रधानम्। अत्र विष्कम्भकप्रवेशकौ वक्ष्यमाणलक्षणौ न स्तः इति शेषः।
 
-**“प्रत्यक्षनेतृचरितो रसभावसमुज्ज्वलः।  
-नानाविधानसंयुक्तो बीजसंहृतिमान्न च॥  
-युक्तो न बहुभिः कार्य्यैर्नातिप्रचुरपद्यवान्।  
-आवश्यकानां कार्य्याणामविरोधाद् विनिर्म्मितः॥  
-नानेकदिननिर्वर्त्त्यकथया संप्रयोजितः।  
+ (७) नाटिकेति। क्लृप्तं रचितं वृत्तं यस्याः तथोक्ता, स्त्रीपाया स्त्रीबहुला, तथा चतुरङ्किका अङ्कचतुष्टयशालिनी स्यात्। अन्तःपुर
+
+——————————————————————————————————
+
+ अङ्कलक्षणमाह,—
+
+**"प्रत्यक्षनेतृचरितो रसभावसमुज्ज्वलः।  
+नानाविधानसंयुक्तो वीजसंहृतिमान्न च॥**
+
+**युक्तो न बहुभिः कार्य्यैर्नातिप्रचुरपद्यवान्।  
+आवश्यकानां कार्य्याणामविरोधाद् विनिर्म्मितः॥**
+
+**नानेकदिननिर्वर्त्य कथया सम्प्रयोजितः।  
 आसन्ननायकः पात्रैर्युतस्त्रिचतुरैस्तथा॥**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-पदे पदेमानवती तद्वशः सङ्गमो द्वयोः।  
-वृत्तिः स्यात् कौशिकीस्वल्पविमर्षाः सन्धयः पुनः"॥
-
-विमर्षश्चतुर्थः सन्धिः। यथा रत्नावल्यादिः।
-
-“सप्ताष्टनवपञ्चाङ्कं दिव्यमानुषसंन्त्रयम्।  
-त्रोटकं नाम तत् प्राहुःप्रत्यङ्कं सविदूषकम्”॥
-
-यथा विक्रमोर्व्वशी।  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 **बधयुद्धविवाहाद्यैर्वर्जितो नातिविस्तरः।  
-देवीपरिजनादीनां प्रत्यक्षचरितैर्युतः॥  
-अन्तनिष्क्रान्तनिखिलपात्रोऽङ्क इति कीर्तितः”।**
+देवीपरिजनादीनां प्रत्यक्षचरितैर्युतः"॥**
 
-  भावाः देवादिविषयकरत्यादयः, बीजस्य<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>संहृतिः सङ्कोचः,—
+——————————————————————————————————
 
-**"तत्र पूर्व्वंपूर्व्वरङ्गः सभापूजा ततः परम्।  
-कथनं कविसंज्ञादेर्नाटकस्याप्यथामुखम्"॥**
+ विमर्षश्चतुर्थः सन्धिः। यथा रत्नावल्यादिः।
 
-  तत्रनाटके, सभापूजा विनीतवचनादिना सभ्यानामाभिमुख्यसम्पादनम्। आमुखं प्रस्तावना।  
-  पूर्व्वरङ्गस्य लक्षणमाह,—
+"सप्ताष्टनवपञ्चाङ्कं दिव्यमानुषसंश्रयम्।  
+त्रोटकं नाम तत् प्राहुः प्रत्यङ्कं सविदूषकम्"॥ यथा विक्रमोर्वशी।
 
-**“यन्नाट्यवस्तुनः पूर्व्वं रङ्गविघ्नोपशान्तये।  
-कुशीलवाः प्रकुर्व्वन्ति पूर्व्वरङ्गः स उच्यते”॥**
+——————————————————————————————————
 
-**  **अस्य नान्दीनामाङ्गस्य स्वरूपमाह भरतः,—
+सम्बन्धा अन्तःपुरसम्बन्धवती अन्तःपुरस्थितेत्यर्थः। कन्या कुमारी। नेता नायकः। अस्यां कन्यायाम्। देव्या राजमहिष्याः। द्वयोः नायिकानायकयोः। कौशिकी वृत्तिः या श्लक्ष्णनेपथ्यविशेषचित्रा स्त्रीसङ्कुला प्रोज्ज्वलन्नृत्यगीता। कामोपभोगप्रचुरोपचारा सा कौशिकी चारुविलासशीलेत्युक्तलक्षणा। स्वल्पः न्यूनः विमर्षः तदाख्यसन्धिभेदः येषु तादृशाः सन्धयः अन्ये सुखादय इत्यर्थः अत्र भवन्तीति शेषः। अन्यत् सुगमम्।
 
-**"देवद्विजनृपादीनामाशीर्वादपरायणा।  
-नन्दन्ति देवता यस्मात् तस्मान्नान्दीति संज्ञिता”॥**
+ (८) प्रत्यक्षेति। प्रत्यक्षं प्रत्यक्षवदाभासनानं नेतुर्नायकस्य चरितं यत्न तथाविधः, रसेन भावेन देवादिविषयकरत्यादिना तदुक्तं दर्पणे, सञ्चारिणः प्रधानानि देवादिविषया रतिः। उद्बुद्धमात्रः स्थायी
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+——————————————————————————————————
 
-<MISSING_FIG href="../books_images/U-IMG-1703778816image13.jpg"/>“स्वल्पमात्रं समुद्दिष्टं बहुधा यद्विसर्पति ।  
-  फलावसानं यच्चैषं बीजं तदिह कीर्तितम्॥ भरतः।  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**अन्तनिष्क्रान्तनिखिलपात्रोऽङ्क इति कीर्त्तितः"॥ (८)**
 
-सृत्रधारः †[^5] नान्दींप्रयोज्य काव्यार्थसृचकैर्मधुरैर्वचनैः रङ्गस्थान् सभ्यान् प्रसाद्य रूपकस्य कवेश्च आख्यां कवेः गोत्राद्यपि कीत्तयेत्। ततः प्रस्तावना।तल्लक्षणमाह भरतः,—
+ भावाः देवादिविषयकरत्यादयः, वीजस्य\* संहृतिः सङ्कोचः,–
 
-[^5]: "* सूत्रम् अभिनयानुष्ठानंधारयति यः सः । इदानीं सूत्रधार एव काव्यस्थापनादिकं सर्वमेव स्थापककार्य्यंप्रयोजयतीति व्यवहारः । स्थापकाभिधानं नटान्तरं न दृश्यते ।"
+**"तत्र पूर्वं पूर्वरङ्गः सभापूजा ततः परम्।  
+कथनं कविसञ्ज्ञादेर्नाटकस्याप्यथामुखम्"॥**
 
-**"नटी विदूषको वापि पारिपार्श्विक एव वा।  
-सूत्रधारेण सहिताः संलापं यत्र कुर्वते॥  
-चित्रैर्वाक्यैःस्वकारर्य्योत्थैःप्रस्तुताक्षेपिभिर्मिथः।  
-आमुखं तत्तु विज्ञेयं नाम्ना प्रस्तावनापि सा”॥**
+ तत्र नाटके, सभापूजा विनीतवचनादिना सभ्यानामाभिमुख्यसम्पादनम्। आमुखं प्रस्तावना।
 
-  नटीति स्त्रीत्वमविवक्षितम्, प्रस्तुतस्य आक्षेपिभिरुद्बोधकैः। तद्भेदाः कथितास्तेनैव,—
+——————————————————————————————————
 
-**‘‘उद्घात्यकं कथोद्घातः प्रयोगातिशयस्तथा।  
-प्रवृत्तका[^14]वलगिते आमुखाङ्गानि पञ्च वै**†**”॥ **
+\* "स्वल्पमात्रं समुद्दिष्टं बहुधा यद्विसर्पति।  
+फलावसानं यच्चैवं वीजं तदिह कीर्त्तितम्"॥ भरतः।
 
-[^14]: # "† दर्पणे उत्घात्यकमिति पुंलिङ्गान्तं प्रवृत्तकेत्यस्य स्थाने प्रवर्त्तकेति च दृश्यते ।"
+——————————————————————————————————
 
-  एषां क्रमेण लक्षणमाह स एव.—
+च भाव इत्यभिधीयते इति समुज्ज्वलः सम्पोषित इति भावः, विधानैः विविधानुष्ठानैः नानाविधव्यापारैरित्यर्थः संयुक्तः सहितः अलङ्कृत इति यावत् वीजस्य मूलीभूतकारणविशेषस्य संहृतिः संहारः विलोप इत्यर्थः सा अस्यास्तीति तथाभूतः न, वीजसद्भावसहित इत्यर्थः। बहुभिः अतिविस्तृतैरित्यर्थः कार्य्यैः व्यापारैः न युक्तः, नातिप्रचुरपद्यवान् नातिबहुलपद्यसमन्वित इत्यर्थः आयश्यकानाम् अवश्यकर्त्तव्यानां सामयिककार्य्याणाम् अविरोधात् अबाधात् विनिर्मितः रचितः। अनेकदिननिर्वर्त्त्यकथया बहुदिनसमाप्यकथया न सम्प्रयोजितः न कल्पितः। त्रिचतुरैः त्रिभिश्चतुर्भिर्वा पात्रैः नटैर्युतः तथा आसन्नः सम्बद्धः नायको यत्र तादृशः, बधयुद्धविवाहादिरहितः देवीपरिजनादीनां प्रत्यक्षचरितैः प्रत्यक्षवटाभासमानैश्चरितैः युतः। अन्ने शेषे निष्क्रान्तानि निखिलानि पात्राणि यस्य तत्रोक्तः अङ्क इति कीर्त्तितः कथितः।
 
-**“पदानि त्वगतार्थानि तदर्थगतये नराः।  
-योजयन्ति पदैरन्यैस्तदुद्घात्यकमुच्यते”॥**
+——————————————————————————————————
 
-   अगतः अबोधित इति यावत् अर्थो हृद्गतो यैस्तानि, तस्य हृद्गतस्यार्थस्य गतये बोधनाय।यथा मुद्रा-राक्षसे,—  
-  "सूत्र।क्रूरग्रहः सकेतुश्चन्द्रमसम्पूर्णमण्डलमिदानीमभिभवितुमिच्छति बलात्।  
-  अनन्तरं नेपथ्ये। आःक एषमयि जीवति चन्द्रगुप्तमभिभवितुमिच्छति।
+ पूर्वरङ्गस्य लक्षणमाह,—
 
-   अत्र अन्यार्थवन्त्यपि पदानि हृद्गतार्थबोधनविरहात् पदान्तरैर्योजयित्वा पात्रप्रवेशः।
+**"यन्नाट्यवस्तुनः पूर्वं रङ्गविघ्नोपशान्तये।  
+कुशीलवाः प्रकुर्वन्ति पूर्वरङ्गः स उच्यते"॥ (९)**
+
+ अस्य नान्दीनामाङ्गस्य स्वरूपमाह भरतः,—
+
+**"देवद्विनृजपादीनामाशीर्वादपरायणा।  
+नन्दन्ति देवता यस्मात् तस्मान्नान्दोति सञ्ज्ञिता"॥ (१०)**
+
+ सूत्रधारः\* नान्दीं प्रयोज्य काव्यार्थसूचकैर्मधुरर्वचनैः रङ्गस्थान् सभ्यान् प्रसाद्य रूपकस्य कवेश्च आख्यां कवेः गोत्राद्यपि कीर्त्तयेत्। ततः प्रस्तावना। तल्लक्षणमाह भरतः,—
+
+——————————————————————————————————
+
+ \* सूत्रम् अभिनयानुष्ठानं धारयति यः सः। इदानीं सूत्रधार एवं काव्यस्थापनादिकं सर्वमेव स्थापककार्य्यं प्रयोजयतीति व्यवहारः। स्थापकाभिधानं नटान्तरं न दृश्यते।
+
+——————————————————————————————————
+
+ (९) यदिति। कुशीलवा नटाः रङ्गविघ्नोपशान्तये नाट्यव्याघातनिवारणाय नाट्यवस्तुनः अभिनयव्यापारस्य पूर्वं यत् देवताध्यानादिकं कुर्वन्ति स पूर्वरङ्गः उच्यते रङ्गात् पूर्वं क्रियमाणत्वादस्य पुर्वरङ्गसञ्ज्ञेति बोध्यम्।
+
+ (१०) देवति। देवद्विजनृपादीनाम् आशीर्वादः शुभशंसनं परम् अयनम् आश्रयो यस्यास्तादृशी या वाक् नटैः कीर्त्यते इति शेषः यस्मात् देवता नन्दन्ति तुष्यन्ति तयेति शेषः तस्मात् सा नन्दयतीति व्युत्पत्त्या नान्दीति सञ्ज्ञिता कोर्त्तिता।
+
+——————————————————————————————————
+
+**"नटी विटूषको वापि पारिपार्श्विक एव वा।  
+सूत्रधारेण सहिताः संलापं यत्र कुर्वते॥**
+
+**चित्रैर्वाक्यैः स्वकार्य्योत्थैः प्रस्तुताक्षेपिभिर्म्मिथः।  
+आमुखं तत्तु विज्ञेयं नाम्ना प्रस्तावनापि सा"॥ (११)**
+
+ नटीति स्त्रीत्वमविवक्षितम्, प्रस्तुतस्य आक्षेपिभिरुद्बोधकैः। तद्भेदाः कथितास्तेनैव,—
+
+**"उद्घात्यकं कथोद्घातः प्रयोगातिशयस्तथा।  
+प्रवृत्तकावलगिते आमुखाङ्गानि पञ्च वै\*"॥**
+
+ एषां क्रमेण लक्षणमाह स एव,—
+
+**"पदानि त्वगतार्थानि तदर्थगतये नराः।  
+योजयन्ति पदैरन्यैस्तदुद्घात्यकमुच्यते"॥ (१२)**
+
+——————————————————————————————————
+
+ \* दर्पणे उद्घात्यकमिति पुंलिङ्गान्तं प्रवृत्तकेत्यस्य स्थाने प्रवर्त्तकेति च दृश्यते।  
+——————————————————————————————————
+
+ (११) नटीति। नटी विदूषकः वा पारिपार्श्विकः सूत्रधारसदृशः प्रधाननटविशेषः सूत्रधारस्य पार्श्वचर इत्यर्थः सूत्रधारेण प्रधाननटेन सहिताः सङ्गताः सन्तः चित्रैः मनोहरैः स्वकार्य्यात् उत्थितैः उद्भूतैः प्रस्तुताक्षेपिभिः प्रकृतार्थसूचिभिः वाक्यैः मिथः परस्परं यत्रेत्यव्ययं यदित्यर्थः संलापं कुर्वते समालपन्तीत्यर्थः तत्तु तदेव आमुखं विज्ञेयं सा नाम्ना प्रस्तावनापि विज्ञेयेति शेषः।
+
+ (१२) पदानीति। नरा नटा इत्यर्थः अगतार्थानि अबोधिताभिप्रेतार्थानि पदानि तदर्थगतये तस्य अर्थस्य अभिप्रेतस्येत्यर्थः गतये
+
+——————————————————————————————————
+
+ अगतः अबोधित इति यावत् अर्थो हृद्गतो यैस्तानि तस्य हृद्गतस्यार्थस्य गतये बोधनाय। यथा मुद्राराक्षसे,—
+
+ "सूत्र। क्रूरग्रहः सकेतुश्चन्द्रमसम्पूर्णमण्डलमिदानीमभिभवितुमिच्छति बलात्।
+
+ अनन्तरं नेपथ्ये। आः क एष मयि जीवति चन्द्रगुप्तमभिभवितुमिच्छति।
+
+ अत्र अन्यार्थवन्त्यपि पदानि हृद्गतार्थबोधनविरहात् पदान्तरैर्योजयित्वा पात्रप्रवेशः।
 
 **"सूत्रधारस्य वाक्यं वा यत्र वाक्यार्थमेव वा।  
-गृहीत्वा प्रविशेत् पात्रं कथोद्घातः स उच्यते”॥**
+गृहीत्वा प्रविशेत् पात्रं कथोद्घातः स उच्यते"॥**
 
-वाक्यमादाय रत्नावल्याम्, वाक्यार्थं गृहीत्वा, वेण्याम्।
+ वाक्यमादाय रत्नावल्याम् (१३) वाक्यार्थं गृहीत्वा वेण्याम्। (१४)
 
-**“यदि प्रयोग एकस्मिन् प्रयोगोऽन्यः प्रयुज्यते।  
-तेन पात्रप्रवेशश्चेत्प्रयोगातिशयस्तदा”॥**
+——————————————————————————————————
 
-यथा उत्तररामचरिते,—
+बोधाय अन्यैः पदैः योजयन्ति सङ्गमयन्ति इति यदिति शेषः तत् उद्घात्यकमुच्यते।
 
- “सूत्र। तत् किमनेन, एहि राजद्वारमेव स्वंजातिसमयेनोपतिष्ठाव इति स्तुतिप्रयोगोद्यते सूत्रधारे, नटेन,—
+ (१३) वाक्यमादाय रत्नावल्यां यथा। द्वीपादन्यस्मादपि मध्यादपि दिशोऽप्यन्तात्। आनीय झटिति घटयति विधिरभिमतमभिमुखीभूय। इति सूत्रधारेण पठिते एवमेतत् कः सन्देहः द्वीपादन्यस्मादपीत्यादि पठित्वा यौगन्धरायणस्य प्रवेशः। इति दर्पणः।
 
-स्नेहात् सभाजयितुयेत्य दिनान्यमूनि  
-नीत्वोत्सवेन जनकोऽद्य गतो विदेहान्।
+ (१४) वाक्यार्थं गृहीत्वा वेण्यां यथा। निर्वाणवैरदहनाः प्रशमादरीणां नन्दन्तु पाण्डुतनयाः सह माधवेन। रक्तप्रसाधितभुवः क्षतविग्रहाय स्वस्था भवन्तु कुरुराजसुताः सभृत्याः॥ इति सूत्रधारेण पठितस्य वाक्यस्यार्थं गृहीत्वा नेपथ्ये आः दुरात्मन्! वृथा मङ्गलपाठक! कथं स्वस्था भवन्तु मयि जीवति धार्त्तराष्ट्राः। ततः सूत्रधारो निष्क्रान्तः। अथ भीमसेनस्य प्रवेशः।
 
+——————————————————————————————————
+
+**"यदि प्रयोग एकस्मिन् प्रयोगोऽन्यः प्रयुज्यते।  
+तेन पात्रप्रवेशश्चेत् प्रयोगातिशयस्तदा"॥ (१५)**
+
+ यथा उत्तररामचरिते,—
+
+ "सूत्र। तत् किमनेन, एहि राजद्वारमेव स्वजातिसमयेनोपतिष्ठाव इति स्तुतिप्रयोगोद्यते सूत्रधारे, नटेन,—
+
+**"स्नेहात् सभाजयितुमेत्य दिनान्यमूनि  
+नीत्वोत्सवेन जनकोऽद्य गतो विदेहान् ।  
 देव्यास्ततो विमनसः परिसान्त्वनाय  
-धर्म्मासनाद्विशति वासगृहंनरेन्द्रः"॥
+धर्म्मासनाद्विशति वासगृहं नरेन्द्रः"॥ (१६) (उत्तररामचरितम्)**
 
-  इति रामस्यान्तःपुरप्रवेशरूपं स्तुतिप्रयोगमतिशयानां प्रयोगान्तरं प्रयुञ्चानेन सीतारामयोः प्रवेशः प्रयोजितः।
+ इति रामस्यान्तःपुरप्रवेशरूपं स्तुतिप्रयोगमतिशयानं प्रयोगान्तरं प्रयुञ्जानेन सीतारामयोः प्रवेशः प्रयोजितः।
 
-**“कालं प्रवृत्तमाश्रित्य सूत्रमृद् यत्र वर्णयेत्।  
-तदाश्रयश्च पात्रस्य प्रवेशस्तत्प्रवृत्तकम्”\।\।**
+——————————————————————————————————
 
-  सूत्रभृत् सूत्रधारः। यथा,—
+ (१५) यदीति। यदि एकस्मिन् प्रयोगे प्रसङ्गे अन्यः प्रयोगः प्रसङ्गः प्रयुज्यते उत्थाप्यते, तेन चेत् यदि पात्रस्य नटस्य प्रवेशो भवति तदासौ प्रयोगातिशयः स्यादिति शेषः।
 
-'आसादितप्रकटनिर्मलचन्द्रहासः  
+ (१६) स्नेहादिति। जनको विदेहः स्नेहात् प्रीत्या सभाजयितुं सम्भाषणादिना जामातॄन् रामभरतादीन् प्रीणयितुम् एत्य अयोध्यायां राजभवनमागत्येत्यर्थः अमूनि एतानि दिनानि उत्सवेनानन्दव्यापारेण नीत्वा यापयित्वा विदेहान् जनपदान् स्वराज्यमित्यर्थः गतः प्रस्थितः ततस्तस्मात् पितृगमनात् इत्यर्थः विमनसः उत्कण्ठितायाः देव्याः सीतायाः परिसान्त्वनाय विनोदनाय नरेन्द्रः रामः धर्मासनाद् विचारासनात् स्वीयसिंहासनादित्यर्थः, वासगृहं शयनागारं विशति प्रविशति। राजकार्य्यमपि परित्यज्य देव्याः परिसान्त्वनार्थं स्वयमेव याति।
+
+——————————————————————————————————
+
+**"कालं प्रवृत्तमाश्रित्य सूत्रभृद् यत्र वर्णयेत्।  
+तदाश्रयश्च पात्रस्य प्रवेशस्तत्प्रवृत्तकम्"॥ (१७)**
+
+ सूत्रभृत् सूत्रधारः। यथा,—
+
+**"आसादितप्रकटनिर्मलचन्द्रहासः  
 प्राप्तः शरत्समय एष विशुद्धकान्तः।  
 उत्खाय गाढ़तमसं घनकालमुग्रं  
-रामो दशास्यमिव सम्भृतबन्धुजीवः”॥
+रामो दशास्यमिव सम्भृतबन्धुजीवः"॥ (१८)**
 
-  ततो रामस्य प्रवेशः।
+ ततो रामस्य प्रवेशः।
+
+——————————————————————————————————
+
+ (१७) कालमिति। प्रवृत्तम् उपस्थितं कालं समयं वसन्तादिकम् आश्रित्य सूत्रभृत् सूत्रधारः यत्र यदित्यर्थः वर्णयेत् तत्तत्कालिकं वस्तु इति शेषः स आश्रयः अवलम्बनं यस्य तादृशः तदवलम्ब्येत्यर्थः यः पात्रस्य प्रवेशः, तत् प्रवृत्तकम्।
+
+ (१८) आसादितेति। आसादितः प्राप्तः प्रकटः समुज्ज्वलः निर्मलः चन्द्रश्य हासः विकाशो येन तथोक्तः अन्यत्र आसादितः गृहीतः प्रकटः सुतीक्ष्णः निर्मलः चन्द्रहासोऽसिर्येन तथोक्तः। विशुद्धः मेघाद्यावरणराहित्यात् स्वच्छः अत एव कान्तः रम्यः अन्यत्र विशुद्धः निर्दोषः कान्तः सर्वजनप्रियः। सम्भृतानि समुपचितानि बन्धुजीवानि तदाख्यपुष्पाणि येन तथोक्तः अन्यत्र सम्भृता रक्षिता बन्धूनां जीवा जीवनोपाया येन तथोक्तः एष शरत्समयः गाढ़तमसं निविड़ान्धकाराच्छन्नम् अन्यत्र सान्द्रतमोगुणाक्रान्तम् उग्रम् भयावहं दशास्यमिव रावणमिव घनकालं वर्षाकालम् अन्यत्र अतिकृष्णवर्णम् उत्खाय उन्मूल्य प्राप्तः उपस्थितः। अत्र शरद्वर्णनमाश्रित्य पात्रस्य रामस्य प्रवेशः।
+
+——————————————————————————————————
 
 **"यत्रान्यस्मिन् समावेश्य कार्य्यमन्यत् प्रसाध्यते।  
-परानुरोधात् तज्ज्ञेयं नाम्नावलगितं बुधैः”॥**
+परानुरोधात् तज्ज्ञेयं नाम्नावलगितं बुधैः"॥ (१९)**
 
-समावेश्य सादृश्यमुद्भाव्य, यथा अभिज्ञानशकुन्तले।प्रस्तावनान्ते रूपकस्य प्रकृतेतिवृत्तमारभेत,—
+ समावेश्य सादृश्यमुद्भाव्य, यथा अभिज्ञानशकुन्तले। (२०)
 
-**" पताकास्थानकं योज्यं सुविचार्य्यह वस्तुनि”।**
+ प्रस्तावनान्ते रूपकस्य प्रकृतेतिवृत्तमारभेत।
 
-इह रूपके, वस्तुनि इतिवृत्ते !
+**"पताकास्थानकं योज्यं सुविचार्य्येह वस्तुनि"।**
 
-तल्लक्षणमुक्तं भरतेन,—
+ इह रूपके, वस्तुनि इतिवृत्ते।
 
-**“यत्रार्थे चिन्तितेऽन्यस्मिन् तल्लीनोऽन्यः प्रयुज्यते।  
-आगन्तुकेन भावेन पताकास्थानकन्तु तत्”॥**
+ तल्लक्षणमुक्तं भरतेन,—
 
-यत्र एकस्मिन् विषये चिन्तिते तत्संसक्तः अपरोऽर्थः अतर्कितेन भावेन बोध्यते तत्पताकास्थानकम्।यथा उत्तरचरिते,—
+**"यत्रार्थं चिन्तितेऽन्यस्मिन् तल्लीनोऽन्यः प्रयुज्यते।  
+आगन्तुकेन भावेन पताकास्थानकन्तु तत्"॥**
 
-“रामः। कथं प्रियवचना वक्ष्यसिप्रसुप्तैव। निर्वर्ण्यसस्नेहम्,
+ यत्र एकस्मिन् विषये चिन्तिते तत्संसक्तः अपरोऽर्थः अतर्कितेन भावेन बोध्यते तत्पताकास्थानकम्। यथा उत्तरचरिते,—
 
-इयं गेहे लक्ष्मोरियममृतवर्त्तिर्नयनयो-  
-रसावस्याःस्पर्शो वपुषि बहलचन्दनरसः।  
+——————————————————————————————————
+
+ (१९) यत्रेति। यत्र परानुरोधात् परस्य वस्तुनः अनुरोधात् अन्यस्मिन् परस्मिन् तद् वस्तुनीत्यर्थः समावेश्य सादृश्यमुद्भाव्य अन्यत् कार्यं प्रसाध्यते सम्पाद्यते, बुधैः विद्वद्भिः तत् नाम्ना अवलगितं ज्ञेयम्।
+
+ (२०) अभिज्ञानशकुन्तले यथा। तवास्मि गीतरागेण हारिणा प्रसभं हृतः। एष राजेव दुष्मन्तः शारङ्गेणातिरंहसा॥ अत्र दुष्मन्तरूपपात्रप्रवेशानुरोधेन तस्मिन्नेव सादृश्यमुद्भाव्य आत्मनो गीतेन हृतत्वरूपं कार्य्यं निष्पाद्यते इति बोध्यम्।
+
+——————————————————————————————————
+
+ "रामः। कथं प्रियवचना वक्षसि प्रसुप्तैव। निर्वर्ण्य सस्नेहम्,
+
+**इयं गेहे लक्ष्मीरियममृतवर्त्तिर्नयनयो–  
+रसावस्याः स्पर्शो वपुषि बहलश्चन्दनरसः।  
 अयं कण्ठे बाहुः शिशिरमसृणो मौक्तिकसरः  
-किमस्या न प्रेयो यदि परमसह्यस्तु विरहः॥
+किमस्या न प्रेयो यदि परमसह्यस्तु विरहः॥ (२१)**
 
-  प्रविश्य प्रतीहारी। देव! उव्प्रत्थिदो।  
-  रामः। अये कः।  
-  प्रती। आसण्ण्परिचारओदुम्मुहो”।
+**प्रविश्य प्रतीहारी। देव! उ अत्थिदो। (२२)**
 
-  अत्रदुम्मुखोपस्थितिरूपार्थे चिन्तिते सीताविरहरूपार्थः सूचितः।  
-  यथा वा वेण्याम्,—  
-  ‘पर्य्याप्तमेव करभोरु समोरुयुग्मम्। इति दुर्योधनेन कथिते। प्रविश्य सम्भ्रान्तः कञ्चुकी। ‘देव भग्नं भग्नम्' इत्यनेन वायुना रथकेतनभङ्गरूपार्थे चिन्तिते भीमेन दुर्योधनोरुभङ्गरूपार्थः सूचितः।
+ रामः। अये कः।
 
-यत्तु युद्धबधादिकमन्यच्चानुचितमङ्केष्वदर्शनीयं तत्सर्वमर्थोपक्षेपकैर्विष्कम्भकादिभिः सूच्येत। आदिपदेन प्रवेशकाङ्कावतारादयो गृह्यन्ते।
+ प्रती। आसन्नपरिचारओ (२३) दुम्मुहो"।
 
-विष्कम्भकस्यलक्षणमाह धनञ्जयः,—
+ अत्र दुर्मुखोपस्थितिरूपार्थे चिन्तिते सीताविरहरूपार्थः सूचितः।
 
-**"वृत्तवर्त्तिव्यमाणानां कथांशानां निदर्शकः।  
-संक्षिप्तार्थस्तु विष्कम्भोमध्यपात्रप्रयोजितः[^6]”॥**
+——————————————————————————————————
 
-[^6]: "'आदावङ्कस्यदर्शितः' इति दर्पणे पाठः ।"
+ (२१) इयमिति। इयं सीता गेहे लक्ष्मीः श्रीः, नयनयोः अमृतवर्त्तिः अमृताञ्जनतूलिकेत्यर्थः नितरां नेत्रानन्दिनीति यावत्। अस्याः सीतायाः असौ वपुषि शरीरे स्पर्शः बहलः सान्द्रः चन्दनरसः, वनचन्दनरसस्पर्गवत् अस्याः शरीरस्पर्श इति भावः। कण्ठे अर्पित इति शेषः अयं बाहुः अस्या इति शेषः शिशिरश्चासौ मसृणश्चेति तथाविधः शीतलकोमल इत्यर्थः मौक्तिकसरः मुक्ताहार इत्यर्थः अस्याः सीतायाः किं न प्रेयः प्रियतरमित्यर्थः न स्यात् सर्वमेव प्रेय इत्यर्थः तु किन्तु यदि विरहः अस्याः इति शेषः परम् अत्यर्थम् असह्यः दुःषहः न स्यादित्यर्थः विरह एवास्या दुःसह इत्यर्थः।
 
-वृत्तवर्त्तिव्यमाणानाम् अतीतानां भाविनाञ्च, निदर्शकैःसूचकैः, मध्येन मध्यमाभ्यां वा पात्राभ्यां प्रयोजितः। यथारत्नावल्यां प्रथमाङ्कादौ, अभिज्ञानशकुन्तले च चतुर्थाङ्कादौ।
+ (२२) उअत्थिदो। उपस्थित इति सं विरह इति शेषः।
 
-**“प्रवेशकोऽनुदात्तोक्त्या नीचपात्रप्रयोजितः।  
-अङ्कद्व्ययान्तर्विज्ञेयः शेषं विष्कम्भके यथा”॥** विश्वनाथः।
+ (२३) आसन्नपरिचारओ। आसन्नपरिचारक दुर्मुखः इति सं परिचरति सेवते इति परिचारकः, आसन्नः सदा सन्निहितः स चासौ परिचारकश्चेति तथोक्तः।
 
-अनुदात्तोक्त्या प्राकृतवचनेन अङ्कद्व्ययान्तरिति प्रथमाङ्केऽस्यप्रतिषेधः । यथा वेण्यां तृतीयाङ्कादौ,—
+——————————————————————————————————
+
+ यथा वा वेण्याम्,—
+
+ 'पर्य्याप्तमेव करभोरु! ममोरुयुग्मम्'। इति दुर्योधनेन कथिते। प्रविश्य सम्भ्रान्तः कञ्चुकी। 'देव! भग्नं भग्नम्' इत्यनेन वायुना रथकेतनभङ्गरूपार्थे चिन्तिते भीमेन दुर्य्योधनोरुभङ्गरूपार्थः सूचितः।
+
+ यत्तु युद्धवधादिकमन्यच्चानुचितमङ्केष्वदर्शनीयं तत्सर्वमर्थोपक्षेपकै(२४)र्विष्कम्भकादिभिः सूच्येत। आदिपदेन प्रवेशकाङ्कावतारादयो गृह्यन्ते।
+
+ विष्कम्भकस्य लक्षणमाह धनञ्जयः,—
+
+**"वृत्तवर्त्तिष्यमाणानां कथांशानां निदर्शकः।  
+सङ्क्षिप्तार्थस्तु विष्कम्भो मध्यपात्रप्रयोजितः\*"॥ (२५)**
+
+ वृत्तवर्त्तिष्यमाणानाम् अतीतानां भाविनाञ्च, निदर्शकैः सूचकैः, मध्येन मध्यमाभ्यां वा पात्राभ्यां प्रयोजितः। यथा रत्नावल्यां प्रथमाङ्कादौ, अभिज्ञानशकुन्तले च चतुर्थाङ्कादौ।
+
+——————————————————————————————————
+
+ \* 'आदावङ्कस्य दर्शितः' इति दर्पणे पाठः।
+
+——————————————————————————————————
+
+ (२४) अर्थोपक्षेपकैः अर्थसूचकैरित्यर्थः।
+
+ (२५) वृत्तेति। वृत्तानाम् अतीतानां वर्त्तिष्यमाणानां भविष्यतां कथाङ्गानां कथाविभागानां निदर्शकः, सूचकः, सङ्क्षिप्तः सङ्क्षेपेणोक्तोऽर्थः प्रयोजनं यस्मिन् तथोक्तः मध्येन मध्यविधेन न प्रधानेन न नीचेनेति यावत् मध्याभ्यां वा पात्राभ्यां नटाभ्यां प्रयोजितः अभिनीतः विषय इति शेषः विष्कम्भ उच्यते इति शेषः।
+
+——————————————————————————————————
+
+**"प्रवेशकोऽनुदात्तोक्त्या नीचपात्रप्रयोजितः।  
+अङ्गद्वयान्तर्विज्ञेयः शेषं विष्कमके यथा"॥ (२६) विश्वनाथः।**
+
+ अनुदात्तोक्त्या प्राकृतवचनेन अङ्कद्वयान्तरिति प्रथमाङ्केऽस्य प्रतिषेधः। यथा वेण्यां तृतीयाङ्कादौ।
 
 **"अङ्कान्ते सूचितः पात्रैस्तदङ्कस्याविभागतः।  
-यत्राङ्कोऽवतरत्येषोऽङ्गावतार इति स्मृतः”॥**
+यत्राङ्कोऽवतरत्येषोऽङ्कावतार इति स्मृतः"॥ (२७)**
 
-यथा **अभिज्ञानशकुन्तले** पञ्चमाङ्कान्ते पात्रेैःसूचितःषंष्ठाङ्कः तदङ्कस्य अङ्गविशेष दूवावतीर्णः।
+ यथा अभिज्ञानशकुन्तले पञ्चमाङ्कान्ते पात्रैः सूचितः षष्ठाङ्कः तदङ्कस्य अङ्गविशेष इवावतीर्णः।
 
-**नाटकलक्षणोक्तसन्धिलक्षणमुक्तं दशरूपके, —**
+ नाटकलक्षणोक्तसन्धिलक्षणमुक्तं दशरूपके,—
 
-**"अन्तरैकार्थसम्बन्धः सन्धिरेकान्वये सति”।**
+**"अन्तरैकार्थसम्बन्धः सन्धिरेकान्वये सति"। (२८)**
 
- एकेन प्रयोजनेनान्वितानां कथांशानामवान्तरैकप्रयोजनसम्बन्धः सन्धिः।  
-तद्भेदानाह विश्वनाथः,—
+——————————————————————————————————
 
-**"मुखं प्रतिमुखं गर्भो विमर्ष उपसंहृतिः”।**
+ (२६) प्रवेशक इति। अनुदात्तोक्त्या प्राकृतवचनेन अङ्कद्वयान्तः अङ्कयोरुभयोर्मध्ये इत्यर्थः नीचपात्रेण प्रयोजितः अभिनीतः कथाविभाग इति शेषः प्रवेशकः विज्ञेयः, शेष वृत्तवर्त्तिष्यमाणकथांशनिदर्शकत्वादिकं विष्कम्भके यथा विष्कम्भकवत् अत्र योज्यमिति शेषः।
 
-<MISSING_FIG href="../books_images/U-IMG-1703916144image13.jpg"/>यत्न बीजसमुत्पत्तिस्तम्मुखं परिकीर्त्तितम्”। विश्वनाथः।
+ (२७) अङ्कान्ते इति। अङ्कस्य परिच्छेदस्य अन्ते अवसाने पात्रैः नटैः सूचितः प्रकटितः तदङ्कस्य तस्य अङ्कस्य अविभागतः विभागो विच्छेदः स न भवतीति अविभागः तस्मात् अविभक्तभावेनेत्यर्थः यत्रेत्यव्ययं य इत्यर्थः अङ्कः अवतरति उत्तिष्ठति, एषः अङ्कावतार इति स्मृतः।
 
-यथा अभिज्ञानशकुन्तले प्रथमाङ्केदुष्यन्तशकुन्तलयोः परस्परानुरागरूपस्यवीजस्य उत्पत्तिः। “लक्ष्यालक्ष्य इवोद्गेदस्तस्य प्रतिमुखं भवेत्”।दशरूपकम्।तस्य वीजस्य, यथा तत्रैव द्वितीयेऽङ्गे दुष्यन्तानुरागस्य नातिपरिस्फुटप्रकाशः।
+ (२८) अन्तरेति। एकान्वये एकप्रयोजने सति अन्तरा मध्ये एकेन अपरेणेत्यर्थः अर्थेन प्रयोजनेन सम्बन्धः संयोगः सन्धिः।
 
-“फलप्रधानोपायस्य प्रागुड्भिन्नस्य किञ्चन।  
-गर्भो यत्र समुद्भेदो ह्रासान्वेषणवान्मुहुः”। विश्वनाथः।
+——————————————————————————————————
 
-यथा तत्रैव तृतीयेऽङ्के उभयानुरागस्य सम्यक् प्रकाशः मुहुरन्वेषणं शकुन्तलाप्रस्थानादिना ह्रासश्च।
+ एकेन प्रयोजनेनान्वितानां कथांशानामवान्तरैकप्रयोजनसम्बन्धः सन्धिः।
 
-यत्नमुख्यफलोपाय उद्भिन्नोगर्भतोऽधिकः।  
-शापाद्यैः सान्तरायश्च स विमर्षइति स्मृतः”। दर्पणः।
+ तद्भेदानाह विश्वनाथः,—
 
-यथा तत्रैव चतुर्थेऽङ्के उत्कर्षं प्राप्तोऽनुरागो दुर्वाससः शापेन विधितः।
+**"मुखं प्रतिमुखं गर्भो विमर्ष उपसंहृतिः"\*।**
 
-“बीजवन्तो सुखाद्यर्था विप्रकीर्णा यथायथम्।  
-एैकार्थमुपनीयन्ते यत्र निर्व्वहणं हि तत्”। दशरूपकम्।
+——————————————————————————————————
 
-यथा तत्रैव सप्तमाऽङ्के शकुन्तलादुष्यन्तयोर्मेलनरूपतया सर्व्वकार्याणाभवसानम्। उपसंहृतेरेव नामान्तरं निर्व्वहणम्।
+\* "यत्र वीजसमुत्पत्तिस्तन्मुखं परिकीर्त्तितम्"। (२९) विश्वनाथः।
 
-अथ नाट्योक्तयः. —
+ यथा अभिज्ञानशकुन्तले प्रथमाङ्के दुष्मन्तशकुन्तलयोः परस्परानुरागरूपस्य वीजस्य उत्पत्तिः।
 
-'सर्वश्राव्यं प्रकाशं स्वादश्राव्यं स्वगतं मतम्।  
-रहस्यं कथ्यतेऽन्यस्य परावृत्यापवारितम्[^7]॥  
-त्रिपताककरेणानान्यानपवार्य्याऽन्तरा कथाम्।  
-अन्योन्यामन्त्रं यत् स्याज्जनान्ते तज्जनान्तिकम्[^8]॥  
-किं ब्रवीष्वेवमित्यादि विना पात्रंब्रवीति यत्।  
-श्रुत्वेवानुक्तमप्येकस्तत् स्यादाकाशभाषितम्"॥ दशरूपकम्।  
-“प्रायेण ण्यन्तकः साधिर्गमेः स्थाने प्रयुज्यते।  
-राजा स्वामीति देवेति भृत्यैर्भट्टेति चाधमैः॥  
-राजर्षिभिर्वयस्येति तथा विदूषकेण च।  
-राजन्नित्यृषिभिर्वाच्यः सोऽपत्यप्रत्ययेन च॥  
-स्वेच्छया नामभिर्विप्रोविप्र आर्येति चेतरैः।  
-वयस्येत्यथवा नाम्ना वाच्यो राज्ञा विदूषकः॥  
-वाच्यौ नटीसूत्रधारावार्यनाम्ना परस्परम्।  
-सूत्रधारं वदेद्भाव इति वै पारिपार्श्विकः॥  
-(तं) सूत्रधारोमारिषेति हण्डे इत्यधर्मैःसमाः।  
-वयस्येत्युत्तमैर्हहो मध्यैरार्येति चाग्रतः॥  
-भगवन्नितिवक्तव्याः सर्वेैर्देवर्षिलिङ्गिनः।
+"लक्ष्यालक्ष्य इवोद्भेदस्तस्य प्रतिमुखं भवेत्"। (३०) दशरूपकम्।
 
-[^7]: "परावृत्य अन्यस्य रहस्यकथनमपवारितम् ।"
+ तस्य वीजस्य, यथा तत्रैव द्वितीयेऽङ्के दुष्मन्तानुरागस्य नातिपरिस्फुटप्रकाशः।
 
-[^8]: "यस्य न श्राव्यं तस्यान्तरे ऊर्द्धसर्वाङ्गलं वक्रानाभिकं त्रिपतानलक्षणंकरं कृत्वाऽन्येन सह यन्मन्त्यते तज्जनान्तिकम् ।"
+——————————————————————————————————
 
-वदेद्रातीञ्चचेटीञ्चभवतीति विदूषकः॥  
-आयुन् रथिनं तो वृद्धं नातेति चेतरः।  
-वत्स पुलक तातेति नाम्ना गोलेण वा सुतः॥  
-शिष्योऽनुजय वक्तव्योऽमात्य आति चाधर्मः।  
-विप्रेरयममात्येति सचिवेति च भण्यते॥  
-उपाध्यायेति चाचार्यः कुमारी भर्टदारकः।  
-सौम्यभद्रमुवेत्येवमधमैस्तु कुमारकः॥  
-वाच्या प्रकृतिमीराज्ञः कुमारी भर्टदारिका"।दर्पणः।  
-"हण्डे हने हलाह्वानं नोचं चेटीं सखों प्रति"॥अमरः।
+ (२६) यत्रेति। यत्र सन्धौ वीजस्य।
 
-श्रव्यकाव्यस्य लक्षणं भेदांश्चाह—
+स्वल्पमात्त्रं समुद्दिष्टं बहुधा यद् विसर्पति।  
+फलावसानं यच्चैवं वीजं तदिह कीर्त्तितम्॥
+
+ इत्युक्तलक्षणस्य समुत्पत्तिः समुद्भवः, तत् सुखं तदाख्यसन्धिरित्यर्थः परिकीर्त्तितम्। यथा अभिज्ञानशकुन्तले मृगयारूपप्रयोजनसम्बद्धस्य राज्ञः वनमार्गे शकुन्तलारूपदर्शनेन तदनुरागरूपप्रयोजनान्तरसम्बन्धः।
+
+ (२०) लक्ष्यालक्ष्येति। तस्य सुखस्य सन्धेः लक्ष्यालक्ष्य इव कियतांशेन लक्ष्यः अनुमेयः कियता वा अलक्ष्यः अननुमेय इत्यर्थः उद्भेदः उदयः प्रकाश इति यावत् प्रतिमुखं भवेत्।
+
+——————————————————————————————————
+
+**"फलप्रधानोपायस्य प्रागुद्भिन्नस्य किञ्चन।  
+गर्भो यत्र समुद्भेदो ह्रासान्वेषणवान् मुहुः"॥ (३१) विश्वनाथः।**
+
+ यथा तत्रैव तृतीयेऽङ्के उभयानुरागस्य सम्यक् प्रकाशः मुहुरन्वेषणं शकुन्तलाप्रस्थानादिना ह्रासश्च।
+
+**"यत्र मुख्यफलोपाय उद्भिन्नो गर्भतोऽधिकः।  
+शापाद्यैः सान्तरायश्च स विमर्ष इति स्मृतः"॥ (३२) दर्पणः।**
+
+ यथा तत्रैव चतुर्थेऽङ्के उत्कर्षं प्राप्तोऽनुरागो दुर्वाससः शापेन विघ्नितः।
+
+**"वीजवन्तो मुखाद्यार्था विप्रकीर्णा यथायथम्।  
+ऐकार्थमुपनीयन्ते यत्र निर्वहणं हि तत्"॥ (३३) दशरूपकम्।**
+
+——————————————————————————————————
+
+ (३१) फलेति। फलस्य प्रतिपादयिषितस्य वस्तुनः यः प्रधानोपायः तस्य किञ्चन कथञ्चनेत्यर्थः प्रागुद्भिन्नस्य पूर्वमुद्भूतस्य सुखसन्धेरिति शेषः यत्र य इत्यर्थः मुहुः पुनःपुनः ह्रासान्वेषणवान् समुद्भेदः सम्यक् स्फुरणं स गर्भः।
+
+ (३२) यत्रेति। यत्र मुख्यस्य प्रधानस्य फलस्य उपायः गर्भतः गर्भसन्धेः अधिकः अतिरिक्तः उद्भिन्नः प्रकटतां गतः, शापाद्यैः विघ्नविशेषैरिति भावः सान्तरायः सव्याघातः, स विमर्ष इति स्मृतः।
+
+ (३३) वीजवन्त इति। वीजवन्तः मुखाद्यर्थाः मुखप्रतिमुखगर्भविमर्षा इत्यर्थः यथायथं यथानुरूपं विप्रकीर्णा विक्षिप्ताः प्रयुक्ता इत्यर्थः यत्र ऐकार्थम् एकप्रयोजनवत्त्वम् उपनीयन्ते प्राप्यन्ते तत् हि निश्चितं निर्वहणम् उपसंहृतिरित्यर्थः।
+
+——————————————————————————————————
+
+** अथ नाट्योक्तयः,—**
+
+**"सर्वश्राव्यं प्रकाशं स्यादश्राव्यं स्वगतं मतम्।  
+रहस्यं कथ्यतेऽन्यस्य परावृत्यापवारितम्\*॥**
+
+**त्रिपताककरेणानान्यानपवार्य्याऽन्तरा कथाम्।  
+अन्योन्यामन्त्रणं यत् स्याज्जनान्ते तज्जनान्तिकम्**†**॥**
+
+**किं ब्रवीष्वेवमित्यादि विना पात्रं ब्रवीति यत्।  
+श्रुत्वेवानुक्तमप्येकस्तत् स्यादाकाशभाषितम्"॥ दशरूपकम्।**
+
+——————————————————————————————————
+
+ यथा तत्रैव सप्तमाङ्के शकुन्तलादुष्मन्तयोर्मेलनरूपतया सर्वकार्य्याणामवसानम्। उपसंहृतेरेव नामान्तरं निर्वहणम्।
+
+**\*परावृत्य अन्यस्य रहस्यकथनमपवारितम्।**
+
+ †यस्य न श्राव्यं तस्यान्तरे ऊर्द्धसर्वाङ्गुलं वक्रानामिकं त्रिपताकलक्षणं करं कृत्वाऽन्येन सह यन्मन्त्र्यते तज्जनान्तिकम्।  
+——————————————————————————————————
+
+ (३४) सर्वश्राव्यमिति। सर्वेषां श्राव्यं श्रवणार्हं प्रकाशं स्यात्। अश्राव्यं स्वगतं मतम्। अन्यस्य परावृत्य यत् रहस्यं गोप्यं कथ्यते तत् अपवारितम्। तिस्रः पताकाः यस्य तादृशेन करेण करस्याङ्गुलित्रयेणेत्यर्थः अन्यान् अपवार्य्य आच्छाद्य कथामन्तरा कथामध्ये जनान्ते जनसमीपे यत् अन्योन्यामन्त्रणं परस्परकथोपकथनं तत् जनान्तिकम्। पात्रं सम्बोध्यजनं विना किं ब्रवीषि एवम् इत्यादि, अनुक्तमपि श्रुत्वेव एकः यद् ब्रवीति, तत् आकाशभाषितं स्यात्। गमेः गमधातोः स्थाने प्रायेण ण्यन्तकः साधिः साधधातुः प्रयुज्यते।
+
+——————————————————————————————————
+
+**"प्रायेण ण्यन्तकः साधिर्गमे स्थाने प्रयुज्यते।  
+राजा स्वामीति देवेति भृत्यैर्भट्टेति चाधमैः॥**
+
+**राजर्षिभिर्वयस्येति तथा विदूषकेण च।  
+राजन्नित्यृषिभिर्वाच्यः सोऽपत्यप्रत्ययेन च॥**
+
+**स्वेच्छया नामभिर्विप्रो विप्र आर्य्येति चेतरैः।  
+वयस्येत्यथवा नाम्ना वाच्यो राज्ञा विदूषकः॥**
+
+**वाच्यौ नटीसूत्रधारावार्य्यनाम्ना परस्परम्।  
+सूत्रधारं वदेद्भाव इति वै पारिपार्श्विकः।**
+
+**(तं) सूत्रधारो मारिषेति हण्डे इत्यधमैः समाः।  
+वयस्येत्युत्तमैर्हंहो मध्यैरार्य्यति चाग्रजः॥**
+
+**भगवन्निति वक्तव्याः सर्वैर्देवर्षिलिङ्गिनः।  
+वदेद्राज्ञीञ्च चेटीञ्च भवतीति विदूषकः॥**
+
+——————————————————————————————————
+
+राजा भृत्यैः स्वामीति देव इति, अधमैः नीचैः भट्टेति, राजर्षिभिः विदूषकेण च ययस्य इति ऋषिभिः राजन्निति अपत्यप्रत्ययेन ष्णादिप्रत्यययोगेन दाशरथेत्यादिनेत्यर्थः वाच्यः वक्तव्यः सम्बोध्य इत्यर्थः। विप्रः द्विजः स्वेच्छया यथाकामं नामभिर्वाच्य इत्यन्वयः। इतरैः अन्यैः विप्रभिन्नैरित्यर्थः विप्र आर्य्येति वाच्य इति शेषः। विदूषकः कुसुमवसन्ताद्यभिधः कर्मवपुर्वेशभाषाद्यैर्हास्यकरः कलहरतिर्विदूषकः स्यात् स्वकर्मज्ञ इत्युक्तलक्षणो नर्मसचिवः राज्ञा वयस्य इति अथवा नाम्ना वसन्तक इत्यादि रूपेणेत्यर्थः वाच्यः। नटीसूत्रधारौ परस्परम् आर्य्यनाम्ना वाच्यौ नट्या सूत्रधारः आर्य्येति सूत्रधारेण नटी आर्य्ये इति सम्बोध्येत्यर्थः। पारिपार्श्विकः सूत्रधारस्य पार्श्वचरो नटः सूत्रधारं भाव इति वदेत्। सूत्रधारः तं पारिपार्श्विकं मारिषेति वदेत् भावमारिषशब्दौ यथाक्रमं महाशय भद्रार्थकौ नाटके प्रयुज्येते
+
+——————————————————————————————————
+
+**आयुष्मन् रथिनं सूतो वृद्धं तातेति चेतरः।  
+वत्स पुत्रक तातेति नान्ना गोत्रेण वा सुतः॥**
+
+**शिष्योऽनुजश्च वक्तव्योऽमात्य आर्य्येति चाधमैः।  
+विप्रैरयममात्येति सचिवेति च भण्यते॥**
+
+**उपाध्यायेति चाचार्य्यः कुमारी भर्तृदारकः।  
+सौम्यभद्रमुखेत्येवमधमैस्तु कुमारकः॥**
+
+**वाच्या प्रकृतिभीराज्ञः कुमारी भर्तृदारिका"। दर्पणः।  
+"हण्डे हञ्जे हलाह्वानं नीचं चेटीं सखीं प्रति"॥ (३४) अमरः।**
+
+——————————————————————————————————
+
+इति बोध्यम्। अधमैः नीचैः समाः तुल्याः जनाः हण्डे इति वाच्या इति शेषः। उत्तमैः समाः वयस्येति तथा मध्यैः समाः हंहो इति वाच्या इत्यन्वयः। अग्रजः ज्येष्ठः आर्य्येति वाच्यः कनिष्ठैरिति शेषः। देवर्षिलिङ्गिनः देवा ऋषयः लिङ्गिनः सन्न्यासधर्मिप्रभृतयः सर्वैः जनैः भगवन् इति वक्तव्याः। विदूषकः राज्ञीं चेटीं राज्ञीसहचरीमित्यर्थः भवतीति, सूतः सारथिः रथिनम् आयुष्मन् इति इतरः वृद्धभिन्नः युवकादिरित्यर्थः वृद्धं स्थविरं जनं तातेति वदेत्। सुतः पुत्रः शिष्यः छात्रः अनुजः कनीयांश्च वत्स, पुत्रक, इति नाम्ना आख्यया गोत्रेण काश्यप इत्यादिरूपेणेत्यर्थः वक्तव्यः। अमात्यः अधमैः नीचैः आर्य्येति, विप्रैः अमात्येति सचिवेति च भण्यते उच्यते। आचार्यः उपनीय वेदाध्यापयिता उपनीय ददद् वेदमाचार्य्यः स उदाहृत इति शास्त्रात्। उपाध्यायेति शिष्यैरिति शेषः वाच्यः। कुमारः भर्तृदारक इत्युच्यते। अधमैस्तु कुमारकः सौम्य भद्रमुख इत्येवं वाच्यः। प्रकृतिभिः अमात्यादिभिः राज्ञः कुमारी भर्त्तृदारिका वाच्या। नीचं प्रति हण्डे इति चेटीं प्रति इति हञ्जे प्रति सखीं प्रति हलेति आह्वानं सम्बोधनं कार्य्यमिति शेषः।
+
+——————————————————————————————————
+
+ श्रव्यकाव्यस्य लक्षणं भेदांश्चाह,—
 
 **श्रव्यं श्रोतव्यमात्रं तत् त्रिविधं परिकीर्त्तितम्।  
-पद्यं गद्यञ्च मिश्रञ्च पद्यं चतुष्पदी मतम्॥  
-जातिवृत्तमिति द्वेधा जातिमीत्राकृतेन तत्।  
-वृत्तमक्षरसंख्यातं पद्येनैकेन मुक्तकम्॥  
-द्वाभ्यान्तु युग्मकं ज्ञेयं त्रिभिः श्लोकैर्विशेषकम्।  
-कलापकं चतुर्भिः स्यात् तदूर्द्ध कुलकं स्मृतम्॥**
+पद्यं गद्यञ्च मिश्रञ्च पद्यं चतुष्पदी मतम्॥**
 
-पद्यमयस्य महाकाव्यस्य लक्षणमुक्तं काव्यादर्शे—
+**जातिर्वृत्तमिति द्वेधा जातिर्मात्राकृतेन तत्।  
+वृत्तमक्षरसङ्ख्यातं पद्येनैकेन मुक्तकम्॥ (३५)**
 
-**“सर्गबन्धो महाकाव्यमुच्यते तस्य लक्षणम्।**
+**द्वाभ्यान्तु युग्मकं ज्ञेयं त्रिभिः श्लोकैर्विशेषकम्।  
+कलापकं चतुर्भिः स्यात् तदूर्द्धं कुलकं स्मृतम्॥**
 
-**आशीर्नमस्क्रियावस्तुनिर्देशो वापि तन्मुखम्॥**  
-**इतिहासकथोद्भूतमितरद्वासदाश्रयम्।**  
-**चतुर्वर्गफलोपेतं चतुरोदात्तनायकम्॥**  
-**गरार्णवशैलर्त्तुचन्द्रसूर्यादिवर्णनैः।**  
-**अलङ्कृतमसंक्षिप्तं रसभावनिरन्तरम्॥**  
-**सर्गैरनतिविस्तीर्णैःश्रव्यवृत्तैः सुसन्धिभिः।**  
-**सर्वत्र भिन्नवृत्तान्तैरूपेतं लोकरञ्जकम्॥**  
-**काव्यं कल्पान्तरस्थायि जायते सदलङ्कृति”।**  
-**यथा रामायणरघुवंशशिशुपालबधनैषधचरितादि।**  
-**खण्डकाव्यं भवेत् काव्यस्यैकदेशानुसारि च”। **
+ पद्यमयस्य महाकाव्यस्य लक्षणमुक्तं काव्यादर्शे,—
 
-यथा मेघदूतादि।
+**"सर्गबन्धो महाकाव्यमुच्यते तस्य लक्षणम्।  
+आशीर्नमष्क्रिया वस्तुनिर्देशो वापि तन्मुखम्॥**
 
-**“वृत्तबन्धोज्झितं गद्यं” तद्भेदास्तु कथादयः।**
+**इतिहासकथोद्भूतमितरद्वा सदाश्रयम्।  
+चतुर्वर्गफलोपेतं चतुरोदात्तनायकम्॥**
 
-यथा कादम्बर्यादि।
+——————————————————————————————————
+
+ (३५) श्रव्यमिति। श्रोतव्यमात्रं केवलं श्रवणीयं नत्वभिनयार्हमिति भावः। पद्यं छन्दसा निबद्धं, गद्यं छन्दोरहितम्। जातिरिति मात्रा ह्रस्ववर्णः तया कृतं रचितं रचनमित्यर्थः तेन उपलक्षितं पद्यं जातिरित्यर्थः। अक्षरैः सङ्ख्यातं परिगणितं पद्यं वृत्तम्। पद्येनेति एकेन पद्येन निबद्धमिति शेषः मुक्तकम् अन्याश्रयराहित्यात् स्वतः सिद्धमिति यावत्।
+
+ (३६) सर्गबन्ध इति। सर्गेण तदाख्यपरिच्छेदेन बन्धः बन्धनं रचनमित्यर्थः यस्य तादृशं श्रव्यकाव्यं महाकाव्यं तस्य लक्षणं स्वरूपम् उच्यते। आशीः शुभाशंसनं नमस्क्रिया नमस्कारः वापि अथवा वस्तुनिर्देशः वस्तुनः इतिवृत्तस्य निर्देशः समुल्लेखः तन्मुखं तस्य महाकाव्यस्य मुखं प्रारम्भः। इतिहासकयाभिरुद्भूतम् उत्थितं वा इतरत्
+
+——————————————————————————————————
+
+**नगरार्णवशैलर्त्तुचन्द्रसूर्य्यादिवर्णनैः।  
+अलङ्कृतमसङ्क्षिप्तं रसभावनिरन्तरम्॥**
+
+**सर्गैरनतिविस्तीर्णैः श्रव्यवृत्तैः सुसन्धिभिः।  
+सर्वत्र भिन्नवृत्तान्तैरुपेतं लोकरञ्जकम्॥**
+
+**काव्यं कल्पान्तरस्थायि जायते सदलङ्कृति"॥ (३६)**
+
+ यथा रामायणरघुवंशशिशुपालवधनैषधचरितादि।
+
+**"खण्डकाव्यं भवेत् काव्यस्यैकदेशानुसारि च"।**
+
+ यथा मेघदूतादि।  
+——————————————————————————————————
+
+अन्यत् कविकल्पितमिति भावः सदाश्रयम् उत्कृष्टाधारम् उत्तमं वस्तु समाश्रित्य निबद्धमित्यर्थः। चतुर्वर्गफलोपेतं धर्मार्थकाममोक्षसाधनमित्यर्थः। चतुरोदात्तनायकं धीरोदात्तादिचतुर्विधनायकयुतम्। नगरेति नगरस्य पुरस्य अर्णवस्य समुद्रस्य, शैलस्य पर्वतस्य, ऋतूनां ग्रीष्मादीनां चन्द्रसूर्य्यादीनाञ्च वर्णनैः अलङ्कृतं शोभितम्। असङ्क्षिप्तं सङ्क्षेपेण नाभिहितं विस्तीर्णमित्यर्थः। रसभावेति रसाः शृङ्गारादयः, भावाः सञ्चारिणः प्रधानानि देवादिविषया रतिः। उद्बुद्धमात्त्रः स्थायी च भाव इत्यभिधीयते इत्युक्तलक्षणाः तैः निरन्तरं निरवकाशं सततसन्निहितमित्यर्थः। सर्गैः तदाख्यपरिच्छेदैः अनतिविस्तीर्णैः नातिविस्तारितैरित्यर्थः। श्रव्यवृत्तैः श्रवणीयचरितैः। सुसन्धिभिः सुष्ठु सन्धयः सुखप्रतिमुखगर्भविमर्षोपसंहृतिरूपाः पूर्वोक्ता यत्र तादृशैः। लोकरञ्जकं लोकानन्दकरम्। कल्पान्तरस्थायि आप्रलयस्थिति। सदलङ्कृति अलङ्कारसहितम्।
+
+इति चतुर्थशिखा
+
+———————
+
+——————————————————————————————————
+
+**"वृत्तबन्धोज्झितं गद्यं" तद्भेदास्तु कथादयः।**
+
+ यथा कादम्बर्य्यादि।
 
 **गद्यपद्यमयं मिश्रं चम्पूरित्यभिधीयते।**
 
-  पद्यमिश्रत्वञ्चात्र बाहुल्येनेति ज्ञेयम्। ततश्च कादम्बर्यादिषु एकद्वित्रिपद्यसत्त्वेऽपि न तेषां गद्यकाव्यत्व हानिः।
+ पद्यमिश्रत्वञ्चात्र बाहुल्येनेति ज्ञेयम्। ततश्च कादम्बर्य्यादिषु एकद्वित्रिपद्यसत्त्वेऽपि न तेषां गद्यकाव्यत्वहानिः।
 
-दृश्यश्रव्यत्वभेदेन काव्यप्रभेदनं नाम चतुर्थशिखा।
+इति दृश्यश्रव्यत्वभेदेन काव्यप्रभेदनं नाम चतुर्थशिखा।  
+* *
 
-**पञ्चमशिखा।  
-\_\_\_\_\_\_\_\_\_**
+**पञ्चमशिखा।**  
+<MISSING_FIG href="../books_images/U-IMG-1766316644sample-5.png"/>
 
-दोषस्वरूपमाह,—
+ दोषस्वरूपमाह,—
 
 **काव्यापकर्षका दोषास्ते पुनः पञ्चधा मताः।  
 पदांशपदवाक्यार्थरसानां दूषणेन हि॥**
 
- ये खलु पदवाक्यरसादिदूषणहारेण काव्यस्थापकर्षमुत्पादयन्ति, ते नाम दोषनाम्ना कथ्यन्ते। ते पुनः पद-पदांश-वाक्यार्थ-रस-दूषणद्वारेण काव्यं दूषयन्तीति प्रथमतः पञ्चविधाः। तत्र,
+ ये खलु पदवाक्यरसादिदूषणद्वारेण काव्यस्यापकर्षमुत्पादयन्ति, ते नाम दोषनाम्ना कथ्यन्ते। ते पुनः पद–पदांश–वाक्यार्थरस–दूषणद्वारेण काव्यं दूषयन्तीति प्रथमतः पञ्चविधाः। तत्र,
 
-निरर्थकासमर्थत्वेच्युतसंस्कृतित्वञ्च पदगतान्येव।
+**निरर्थकासमर्थत्वे च्युतसंस्कृतित्वञ्च पदगतान्येव।**
 
-निरर्थकत्वम् अर्थहीनत्वं, यथा च, वा, हादीनि वृत्त-पूरणमात्रप्रयोजनानि रामायणादिषु बाहुल्येन ट्रष्टव्यानि।असमर्थे तदर्थे पठितमपि तस्य अवाचकम्।यथा, 'कुञ्जं हन्तिक्वशोदरी' इत्यत्र हन्तीति[^9]\* गमनार्थे पठितमपि न तत्र समर्थम्।च्युतसंस्कारत्वं व्याकरणलक्षणहीनत्वम्, यथा, —  
+ निरर्थकत्वम् अर्थहीनत्वं, यथा च, वा, हादीनि वृत्तपूरणमात्रप्रयोजनानि रामायणादिषु बाहुल्येन द्रष्टव्यानि।
 
-[^9]: "पदान्तरसहकारेण तु 'पद्धतिः' इत्यादौ हन्तेर्गमनार्थत्वमस्येव ।"
+ असमर्थं तदर्थे पठितमपि तस्य अवाचकम्। यथा, 'कुञ्जं हन्ति कृशोदरी' इत्यत्र हन्तीति \* गमनार्थे पठितमपि न तत्र समर्थम्।
 
-“गाण्डीवी कनकशिलानिभं भुजाभ्यां  
-माजघ्नेविषमविलोचनस्य वचः"। किरातार्जुनीयम्।
+ च्युतसंस्कारत्वं व्याकरणलक्षणहीनत्वम्, यथा,—
 
-आङो यमहनः' \[१\।३\।२८पा०\] इत्यनुशासनबलादाङ्पूर्व्वस्यहनः स्वाङ्गकर्मकस्थाकर्मकस्य चात्मनेपदं नियमितम्।
+**"गाण्डीवी कनकशिलानिभं भुजाभ्या  
+माजघ्ने विषमविलोचनस्य वक्षः"। (१) किरातार्जुनीयम्।**
 
- इह तु तदुल्लङ्घितमिति व्याकरणलक्षणहीनत्वात्च्युत-संस्कारत्वम्।
+ 'आङो यमहनः' \[१।३।२८ पा॰\] इत्यनुशासनबलादाङपूर्वस्य हनः स्वाङ्गकर्मकस्याकर्मकस्य चात्मनेपदं नियमितम्। इह तु तदुल्लङ्घितमिति व्याकरणलक्षणहीनत्वात् च्युतसंस्कारत्वम्।
 
 **दुःश्रवानुचितार्थत्वे ग्राम्यत्वं निहतार्थता।  
-क्लिष्टत्वमप्रतीतत्वं विरुद्धमतिकारिता॥  
-अविमृष्टविधेयांशभावः सन्दिग्धना तथा।  
-पदवाक्याश्रिता दोषाः** **<MISSING_FIG href="../books_images/U-IMG-1703917134image13.jpg"/>पदांशेऽप्येषु केचन॥**
+क्लिष्टत्वमप्रतीतत्वं विरुद्धमतिकारिता॥**
 
- दुःश्रवत्वं परुषवर्णतया श्रुतिदुःखावहत्वम् **↑[^1]**।पदगतं यथा,—
+**अविमृष्टविधेयांशभावः सन्दिग्धता तथा।  
+परवाक्याश्रिता दोषाः + पदांशेऽप्येषु केचन॥**
 
-बन्धुभिः सादरं नेत्रैःप्रीयमानेव सा मुहुः।  
-सुताननेन्दुपूर्णाङ्का कार्त्तार्थं लभतां कदा॥
+——————————————————————————————————
 
-**अत्र कार्त्तार्थ्यमिति श्रुतिकटु वाक्यगतं यथा, —**  
-"सोऽध्यैष्ट वेदांविदशानयष्ट पितृनतासीत्सममंस्त बन्धून्।  
-व्यजेष्ट षड्वर्गमरंस्त नीतौ समूलघातं न्यवधीदरींच्च”॥ भट्टि॰।
+ \* पदान्तरसहकारेण तु "पद्धति" इत्यादौ हन्तेर्गमनार्थत्वमस्त्येव।
 
---------------------------------------------------------------------------------
+ + एकमात्रस्य पदस्य दुष्टत्वे पददोषः, पदानामेका
 
-**<MISSING_FIG href="../books_images/U-IMG-1703917134image13.jpg"/>**एकमात्रस्य पदस्य दुष्टत्वे पददोष, पदानामेकाधिकानां तथात्वेवाक्यदोषः, पदानां परिवर्त्तनेऽपि दोषस्य तादवस्थ्येऽर्थदोषः इत्याहः\।
+——————————————————————————————————
 
-**↑[^1]**“वक्तरि क्रोधसंयुक्ते तथा वाच्येसमुद्धते।  
- रौद्रादौ तुरमेऽत्यन्तं दुःश्रवत्वं गुणो भवेत्”॥ विश्वनाथः।
+ (१) गाण्डीवीति। गाण्डीवं तदाख्यं धनुः अस्यास्तीति गाण्डीवी अर्जुनः कपिध्वजस्य गाण्डीवं गाण्डिवं पुन्नपुंसकमित्यमरः। भुजाभ्यां बाहुभ्यां विषमाणि विरूपाणि विलोचनानि यस्य तथोक्तस्य त्रिलोचनस्येत्यर्थः कनकशिलानिभं स्वर्णपाषाणसदृशं वक्षः आजघ्ने आहतवान्।
+
+——————————————————————————————————
+
+ दुःश्रवत्वं परुषवर्णतया श्रुतिदुःखावहत्वम् \* पदगतं यथा,—
+
+**बन्धुभिः सादरं नेत्रैः पीयमानेव सा मुहुः  
+सुताननेन्दुपूर्णाङ्का कार्त्तार्थ्यं लभतां कदा॥ (२)**
+
+ अत्र कार्त्तार्थ्यमिति श्रुतिकटु। वाक्यगतं यथा,—
+
+**"सोऽध्यैष्ट वेदांस्त्रिदशानयष्ट पितॄनतार्प्सीत् सममंस्त बन्धून्।  
+व्यजेष्ट षड्वर्गमरंस्त नीतौ समूलघातं न्यबधीदरींश्च"॥ (३) भट्टिः।**
+
+——————————————————————————————————
+
+धिकानां तथात्वे वाक्यदोषः, पदानां परिवर्त्तनेऽपि दोषस्य तादवस्थ्येऽर्थदोषः इत्याहुः।
+
+\* "वक्तरि क्रोधसंयुक्ते तथा वाच्ये समुद्धते।  
+रौद्रादौ तु रसेऽत्यन्तं दुःश्रवत्वं गुणो भवेत्"॥ विश्वनाथः।
+
+——————————————————————————————————
+
+ (२) बन्धुभिरिति। बन्धुभिः पित्रादिभिः। सुताननेन्दुपूर्णाङ्का पुत्रसुखचन्द्रोद्द्योतितोत्सङ्गा। कार्त्तार्थ्यं कृतार्थतां पुत्रप्रसवेन साफल्यमित्यर्थः। अन्यत् सुगमम्।
+
+ (३) स इति। स राजा दशरथः वेदान् अध्यैष्ट अधीतवान् त्रिदशान् तिस्रो दशा बाल्ययौवनप्रौढ़ाख्या अवस्था येषां तान् देवानित्यर्थः त्रिदशा विबुधाः सुरा इत्यमरः। अयष्ट यज्ञेनार्च्चितवान्, पितॄन् अग्निष्वात्तादीन् अतार्प्सीत् श्राद्धतर्पणादिभिः प्रीणितवान्, बन्धून् पितृव्यभ्रात्रादीन् सममंस्त सम्यक् मानितवान्, षण्णां कामादीनां वर्गः तं व्यजेष्ट विशेषेण जितवान् नीतो नीतिशास्त्रे अरंस्त रतवान् यथानीति राजकार्य्यमद्राक्षीदित्यर्थः। किञ्चेति चार्थः अरीन् शत्रून् समूलघातं मूलघातसहितं यथातथेत्यर्थः न्यवधीत् निहतवांश्च।
+
+——————————————————————————————————
+
+ पदांशेऽप्येतत्, यथा,—
+
+ "तद्गच्छ सिद्ध्यै कुरु देवकार्य्यम्" इत्यत्र 'द्ध्यै' इति पदांशं दुष्टमाहुः।
+
+ अनुचितार्थत्वं (४) पदगतं यथा,—
+
+**"तपस्विभिर्या सुचिरेण लभ्यते  
+प्रयत्नतः सत्रिभिरिष्यते च या।  
+प्रयान्ति तामाशु गतिं यशस्विनी  
+रणाश्वमेधे पशुतामुपागताः"॥ (५)**
+
+——————————————————————————————————
 
  क्रमेणोदाहरणम्,—
 
-“यो यः शस्त्रं बिभर्त्ति स्वभुजगुरुमदात् पाण्डवीनां चमूनां  
-यो यः पाञ्चालगोत्रेशिशुरधिकवया गर्भशय्यां गतो वा।  
-यो यस्तत्कर्मसाक्षीचरति मयि रथे यश्चयश्चप्रतीपः  
-क्रोधान्बस्तस्य तस्य स्वयमिह जगतामन्तकस्सान्तकोऽहम्”॥ वेणी०
+**"यो यः शस्त्रं विभर्त्ति स्वभुजगुरुमदात् पाण्डवीनां चमूनां  
+यो यः पाञ्चालगोत्रे शिशुरधिकवया गर्भशय्यां गतो वा।  
+यो यस्तत्कर्म्मसाक्षी चरति मयि रणे यश्च यश्च प्रतीपः  
+क्रोधान्धस्तस्य तस्य स्वयमिह जगतामन्तकस्यान्तकोऽहम्"॥ (६) वेणी॰।**
 
----------------------------------------------------------------------------------
+——————————————————————————————————
 
-**पदांशेऽप्येत्, यथा,—**  
-  “तद्गच्छ सिद्धं कुरु देवकार्य्यम्” इत्यत्व 'द्धै' इति पदांशं दुष्टमाञ्ज। अनुचितार्थत्वं पदगतं यथा, —
+ (४) अनुचितार्थत्वम् अयुक्तार्थत्वम्।
 
-“तपस्विभिर्या सुचिरेण लभ्यते  
-प्रयत्नतः सत्तिभिरिष्यते च या।  
-प्रयान्ति तामाशु गतिं यशस्विनो  
-रणाश्वमेधे पशुतामुपागताः”॥
+ (५) तपस्विभिरिति। तपस्विभिः चान्द्रायणादिव्रतपरायणैः जनैः या गतिः सुचिरेण सुदीर्घकालेन अतिदीर्घकालिकतपोऽनुष्ठानेनेति भावः लभ्यते प्राप्यते, सत्रिभिः याज्ञिकैः जनैः प्रयत्नतः बहुप्रयासेनेत्यर्थः या गतिः इष्यते वाञ्छ्यते च, रणाश्वमेधे सङ्ग्रामरूपाश्वमेधयज्ञे पशुताम् उपागताः निहता इति भावः अतएव यशस्विनः कीर्त्तिशालिनो वीरा इति शेषः तां गतिं स्वर्गरूपामिति भावः आशु शीघ्रं प्रयान्ति गच्छन्ति।
 
- अत्र पशुपदं कातर्य्यमभिव्यक्तीत्यनुचितार्थम्। वाक्य-गतन्तूयम्।ग्राम्यत्वं <MISSING_FIG href="../books_images/U-IMG-1703917451image13.jpg"/> केवलं लोके एव स्थितत्वम्। पदगतं यथा, —
+ (६) य इति। अश्वत्थाम्न उक्तिरियम्। पाण्डवीनां चमूनां सेनानां मध्ये यो यः स्वभुजगुरुमदात् निजबाहुबलदर्पात् शस्त्रं वि
 
-  किं रुषा शोणितस्तर्द्धी गलस्ते स्सन्दते भृशम्।
+——————————————————————————————————
 
-वाक्यगतं यथा—
+ अत्र पशुपदं कातर्य्य(७)मभिव्यनक्तीत्यनुचितार्थम्। वाक्यगतन्तूह्यम्।
 
-<MISSING_FIG href="../books_images/U-IMG-1703917451image13.jpg"/>"ताम्बूलभृतगल्लोऽयं भल्लंजल्पति मानुषः।  
-करोति खादनं पानं सदैव तु यथा तथा”॥
+——————————————————————————————————
 
- प्रथमे गल्लशब्दः,द्वितीये गलादयश्च शब्दाः, ग्राम्याः।  
-------------------------------------------------------------------------------
+ अत्र कुपितो वक्ता। उद्धतं वाचं यथा,—
 
-  अत्र कुपितो वक्ता।उद्धतंवाच्यं यथा, —
+**"संवर्तप्रकटविवर्तसप्तपाथो–  
+नाथोर्मिव्यतिकरविभ्रमप्रचण्डः।  
+निर्घोषः स्फुरति भृशं परःसहस्र–  
+व्यावलात्प्रबलगतागतास्रपाणाम्"॥(८) वीर॰।**
 
-<MISSING_FIG href="../books_images/U-IMG-1703917451image13.jpg"/>“संवर्तप्रकटविवर्तसप्तपाथोनाथोर्भिव्यतिकरविभ्रमप्रचण्डः।  
-  निर्घोषः स्फुरति भृशं परसहस्त्रव्यावलात्प्रबलगतागतास्त्रपाद्याम्"॥ वीर० ।
+ रौद्रादिरसे तूदाहरणानि पूर्वमुक्तानि।
 
-रौद्रादिरसे तूदाहरणानि पूर्व्वमुक्तानि।  
-**  ** <MISSING_FIG href="../books_images/U-IMG-1703917451image13.jpg"/>ग्राम्यत्वमधमोतिषु गुणः। यथा अभिज्ञानशकुन्तले, —  
-  जातु। 'एत्तिके दाव एतद्मआगमे, अध मां मालेध कुट्टेध वा'।'मालेध' 'कुट्टेधइति पदे ग्राम्ये।
+——————————————————————————————————
 
----------------------------------------------------------------------------------
+भर्त्ति धरति, यः यः पाञ्चालगोत्रे द्रुपदवंशे शिशुः बालकः, अधिकवयाः युवा प्रौढ़ः स्थविरो वेत्यर्थः वा किंवा गर्भशय्यां गतः मातृजठरस्थित इत्यर्थः, यो यः तस्य कर्मणः मातृपितृबधरूपस्येति भावः साक्षी साक्षात् द्रष्टा दृष्ट्वापि अनिषेद्धेति भावः, तथा यश्च यश्च मयि रणे सङ्ग्रामव्यापारे इत्यर्थः चरति तिष्ठति सति प्रतीपः प्रतिकूलः मद्विरोधमाचरिष्यतीति भावः। क्रोधान्धोऽहं तस्य तस्य स्वयं जगताम् अन्तकस्यापि यमस्यापीत्यर्थः अन्तकः संहर्त्ता तान् सर्वान् नाशयिष्यामीत्यर्थः।
 
-निहतार्थत्वम्<MISSING_FIG href="../books_images/U-IMG-1703917451image13.jpg"/>उभयार्थकस्य शब्दस्य अप्रसिद्धेऽर्थे प्रयोगः।
+ (७) कातर्य्यमिति। कातर्य्यं दैन्यं पशवो हि परायत्तत्वात् सततदीना एव, तादृशवीराणान्तु स्वाधीनवृत्तित्वात् पशुत्वकीर्त्तनमतीवायुक्तमिति भावः।
 
-यथा,— “यमुनाशम्बरमम्बरं व्यतानीत्"।
+ (८) संवर्त्तेति। संवर्त्ते कल्पान्ते प्रकटो विषमः विवर्त्तः परिणामो येषां तादृशाः ये सप्त पाथोनाथाः सागराः तेषाम् ऊर्मीणां तरङ्गाणां ये व्यतिकराः सम्मेलनानि तेषां यो विभ्रमः विलासः विषमगतिविशेषः तद्वत् प्रचण्डः दारुणः परःसहस्राणां सहस्राधिकानां परःशताद्यास्ते येषां परा सङ्ख्या शताधिकेत्यमरः व्यावलतां सञ्चरतां प्रबलानां गतानां रणकर्मणा निहतानाम् अगतानां
 
-**शम्बरशब्दो दैत्यविशेषे प्रसिद्ध, इह तु जले निहतार्थः।**
+——————————————————————————————————
 
-क्लिष्ट[^12]त्वमर्थप्रतीतेर्व्यवहितत्वम्। पदगतं यथा,—
+ ग्राम्यत्वं \* (९) केवलं लोके एव स्थितत्वम्। पदगतं यथा,—
 
-[^12]: "  क्लिष्टत्वं विरुद्धमतिकारित्वम् अविसृष्टविधेयांशभावञ्चएतानिसभासगतान्येव गददोषाः ।"
+**किं रुषा शोणितस्पर्द्धी गल्लस्ते स्पन्दते भृशम्। (१०)**
 
-'क्षीरोदजावसतिजन्मभुवः प्रसन्नाः'।
+ वाक्यगतं यथा,—
 
-  अत्र क्षीरोदजा लक्ष्मीस्तस्यावसतिः पद्मं तस्य जन्मभुवोजलानीत्यतिकष्टेन बोधः।  
-वाक्यगतं यथा—
+**"ताम्बूलभृतगल्लोऽयं भल्लं जल्पति मानुषः।  
+करोति खादनं पानं सदैव तु यथा तथा"॥ (११)**
 
-“धम्मिल्लस्य न कस्य प्रेक्ष्य निकामं कुरङ्गशावाच्याः।  
-रज्यत्यपूर्व्वबन्धव्युत्पत्तेर्नसं  शोभाम्”॥
+——————————————————————————————————
 
-  अत्र धम्मिल्लस्य (केशबन्धस्य ) शोभां प्रेक्ष्य कस्य मानसं नरज्यतीति सम्बन्धः क्लिष्टः।
+\* ग्राम्यत्वमधमोक्तिषु गुणः। यथा अभिज्ञानशकुन्तले—
 
-**अप्रतीतत्वमेकदेशशास्त्रान्तरमात्रप्रसिद्धत्वम्++। यथा,**—
+ जालु। 'एत्तिके दाव एदस्त आगमे, अध मां मालेध कुट्टेध वा'। (१२) अत्र 'मालेध' 'कुट्टे ध' इति पदे ग्राम्ये।
 
-'योगेन दलिताशयः' आशयशब्दो वासनार्थो योगशास्त्रे एव प्रसिद्धः
+——————————————————————————————————
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+तानां रणकर्मणि सक्तानाम् अस्रपाणां राक्षसानां राक्षसः कौणपः क्रव्याद् क्रव्यादोऽस्रप आसव इत्यमरः निर्घोषः सिंहनादः भृशम् अत्यर्थं स्फुरति प्रसरति।
 
-<MISSING_FIG href="../books_images/U-IMG-1703917451image13.jpg"/>श्लेषादौ एतन्न दोषः।  
-++    “गुणः स्यादप्रतीतत्वं ज्ञत्वं चेद्वक्तृवाच्चयोः” । विश्वनाथः ।  
-यथा, — “त्वामामनन्ति प्रकृतिं पुरुषार्थप्रवर्तिनीम् ।        
-      तद्दर्शिनमुदासीनं त्वामेव पुरुषं विदुः "॥ कुमारसं०  
-अत्र वक्तृवाच्ययोस्तदर्थबोधान्नदोषः।  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ (९) ग्राम्यत्वमिति। काव्येषु अलौकिकचमत्कारिपद्मयोग एव युक्तः न तु सामान्यजनप्रयोज्यपदप्रयोगः, तथात्वे काव्यस्य चमत्कारित्वं नश्यतीति भावः ग्राम्यः ग्रामीणजनः सामान्यजन इत्यर्थः तस्य भावः ग्राम्यत्वं येन प्रयोगेण ग्राम्यत्वं प्रतीयते तादृशप्रयोगो ग्राम्यः स तु सहृदयानामप्रीतिकर इत्यस्य दोषत्वमिति भावः।
 
-विरुद्धमातिकारिता यथा, —
+ (१०) किमिति। रुषा क्रोधेन शोणितस्पर्द्वी रुधिरनिभः ते तव गल्लः कपोलः इत्यर्थः भृशम् अत्यर्थं स्पन्दते स्फुरति। अत्र गल्लशब्दो ग्राम्यः।
 
-“उदारचरितोधीमान् सर्व्वलोकप्रियङ्करः।  
-अकार्यमलमेकोऽसौ तस्य किं. वर्णयामहे"॥
+ (११) ताम्बूलेति। ताम्बूलभृतगल्लः ताम्बूलपूर्णवदन इत्यर्थः अयं मानुषः भल्लं सुष्ठु इत्यर्थः जल्पति कथयति, किञ्चेति त्वर्थः यथा तथा सदैव खादनं भोजनं पानञ्च करोति।
 
- अत्र कार्यं विना मित्रमिति विवक्षितम्, अकार्य्येषुमित्रमिति विरुद्धाप्रतीतिः ।अविसृष्टः प्राधान्येनानिर्दिष्टो विधेयांशो यत्र तस्य भावःअविमृष्टविधेयांशभावः, अयं विधेयाविमर्श इति च कथ्यते।
+ (१२) एत्तिके इति। एतावांस्तावदेतस्यागमः, अथ मां मारयत, कुड्डयत वा।
 
-यथा,— "वपुर्विरूपाचमलच्या जन्मता दिगम्बरत्वेन निवेदितं वसु।  
-      वरेषु यद्दालम्हगाच्चि म्हग्यते तदस्ति किं व्यस्तमपि त्रिलोचने”।कु॰स॰
+——————————————————————————————————
 
- अत्र अलक्ष्यं विधेयं तस्य च समासे गुणीभावादप्राधान्येननिर्देशः। यथा वा**,** — “अमुक्ता भवता नाथ मुहूर्त्तमपि मा पुरा”।  
- अत्रनञो विधेयत्वमेवोचितम्, यथा निम्ने लोके,—
+ प्रथमे गल्लशब्दः, द्वितीये गल्लादयश्च शब्दाः, ग्राम्याः।
 
-"नवजलधरः सन्नद्धोऽयं न दृप्तनिशाचरः  
-सुरधनुरिदं दूराकष्टं न तस्य शरासनम्।  
-अयमपि पटुर्धारासारो न बाणपरम्परा  
-कणकनिकषस्निग्धा विद्युत् प्रिया न ममोर्वशी"॥(विक्रमो०)  
-"जुगोपात्मानमवस्तो भेजे धर्ममनातुरः।  
-व्यग्टध्नुराददे सोऽर्थमसक्तः सुखमन्वभूत्। (रघुवं०)
+ निहतार्थत्वम् \*उभयार्थकस्य शब्दस्य अप्रसिद्धेऽर्थे प्रयोगः। यथा,— "यमुनाशम्बरमम्बरं व्यतानीत्"।
 
-  **इत्यत्रतु अत्रस्तताद्यनुवादेनात्मगोपनाद्येव विधेयमितिन दोषः।वाक्यगतो यथा, —**
+ शम्बरशब्दो दैत्यविशेषे प्रसिद्धः, इह तु जले निहतार्थः।
 
-"न्यक्कारोह्ययमेवमे वदरयस्तत्वाप्यसौ तापसः  
-सोऽप्यत्रैवनिहन्ति राक्षसकुलं जीवत्यहोरावणः।
+ \* क्लिष्टत्वमर्थप्रतीतेर्व्यवहितत्वम्। पदगतं यथा,—
 
-धिक् ! धिक् शक्रजितं प्रबोधितवता किं कुम्भकर्णेन वा  
-स्वर्गपामटिकाविलुस्टनटघोच्छूनः किमेभिर्भुजैः”॥
+**'क्षीरोदजावसतिजन्मभुवः प्रसन्नाः'।**
 
-**  **“अनुवाद्यमनुक्त्वैव न विधेयमुदीरयेद्” इत्युक्तेरुद्देश्यप्रथमं ततो विधेयस्य निर्देशो युक्तः। अत्र, न्यक्कारस्य विधेयत्वेविवक्षितेऽपि प्रथमं निर्देशात् न तथा प्रतीतिः। रचना चपदद्वयस्य विपरीतेति वाक्यदोषः।
+ अत्र क्षीरोदजा लक्ष्मी स्तस्यावसतिः पद्मं तस्य जन्मभुवो जलानीत्यतिकष्टेन बोधः।
 
-  यथा वा, —
+ वाक्यगतं यथा,—
 
-"आनन्दयतिते नेत्रेयोऽसौ सुभ्रुसमागतः"॥
+**"धम्मिल्लस्य न कस्य प्रेक्ष्य निकामं कुरङ्गशावाक्ष्याः।  
+रज्यत्यपूर्वबन्धव्युत्पत्तेर्मानसं शोभाम्"॥ (१३)**
 
- अत्र, 'असौ' इत्यस्य विधेयत्वमेव भवितुं युक्तं, तच्च यच्छ्रब्दनिकटस्थतया अनुवाद्यत्वप्रतीतिकृत्। सन्दिन्धत्वं<MISSING_FIG href="../books_images/U-IMG-1703919246image13.jpg"/>यथा, —
+ अत्र धम्मिल्लस्य। (केशबन्धस्य) शोभां प्रेक्ष्य कस्य मानसं न रज्यतीति सम्बन्धः क्लिष्टः।
 
-“आशीःपरम्परां वन्द्यां कर्णे कृत्वा कृपां कुरु"।
+——————————————————————————————————
 
- अत्र, वन्द्यामिति वन्दाभूतायां उत वन्दनीयामिति सन्देहः। —
+ \* श्लेषादौ एतन्न दोषः।
 
-वाक्यमात्रगतान् दोषानाह, —
+ + क्लिष्टत्वं विरुद्धमतिकारित्वम् अविमृष्टविधेयांशभावश्च एतानि समासगतान्येव पददोषाः।
 
-**वर्णनां प्रतिकूलत्वं सन्धौ विश्लेषकष्टते।  
+——————————————————————————————————
+
+ (१३) धम्मिल्लस्येति। अपूर्वा बन्धे व्युत्पत्तिः ज्ञानं नैपुण्यमित्यर्थः यस्याः तथाभूतायाः कुरङ्गशावाक्ष्याः मृगाक्ष्याः धम्मिल्लस्य संयतकेशकलापस्य धम्मिल्लाः संयताः कचा इत्यमरः। शोभां सौन्दर्य्यं प्रेक्ष्य कस्य मानसं विकासम् अत्यर्थे न रज्यति? न रक्तं भवति? सर्वस्यैव रज्यतीत्यर्थः।
+
+——————————————————————————————————
+
+अप्रतीतत्वमेकदेशशास्त्रान्तरमात्रप्रसिद्धत्वम्+। यथा,—
+
+ 'योगेन दलिताशयः' आशयशब्दो वासनार्थो योगशास्त्रे एव प्रसिद्धः।
+
+ विरुद्धमतिकारिता यथा,—
+
+**"उदारचरितो धीमान् सर्वलोकप्रियङ्करः।  
+अकार्य्यमित्रमेकोऽसौ तस्य किं वर्णयामहे"॥ (१४)**
+
+ अत्र कार्य्यं विना मित्रमिति विवक्षितम्, अकार्य्येषु मित्रमिति विरुद्धा प्रतीतिः।
+
+ अविमृष्टः प्राधान्येनानिर्दिष्टो विधेयांशो यत्र तस्य  
+——————————————————————————————————
+
+† "गुणः स्यादप्रतीतत्त्वं ज्ञत्वं चेद्वक्तृवाच्ययोः"। विश्वनाथः।
+
+ यथा,—
+
+"त्वामामनन्ति प्रकृतिं पुरुषार्थप्रवृत्तिनीम्।  
+तद्दर्शिनमुदासीनं त्वामेव पुरुषं विदुः"॥ (१५) कुमारस॰।
+
+ अत्र वक्तृवाच्ययोस्तदर्थबोधान्न दोषः।  
+——————————————————————————————————
+
+ (१४) उदारेति। असौ एकः उदारं महत् चरितं यस्य तादृशः धीमान् प्राज्ञः सर्वलोकानां प्रियङ्करः प्रियकारी अकार्य्यमित्रं तस्य किं वर्णयामहे? न किमपीति भावः।
+
+ (१५) त्वामिति। ब्रह्माणं प्रति देवानां स्तुतिरियम्। हे देव! त्वां पुरुषार्थप्रवृर्त्तिनीं भोगापवर्गसाधयित्रीं प्रकृतिं मूलकारणं तथा त्वामेव तस्याः प्रकृतेः दर्शिनं द्रष्टारम् अध्यक्षरूपेणेति शेषः मयाध्यक्षेण प्रकृतिः सूयते सचराचरमिति अर्जुनं प्रति भगवदुक्तेः। उदासीनम् असंसृष्टं पुरुषम् आत्मानं विदुः जानन्ति बुधा इति शेषः।
+
+——————————————————————————————————
+
+भावः अविमृष्टविधेयांशभावः, अयं विधेयाविमर्श इति च कथ्यते। यथा,—
+
+**"वपुर्विरूपाक्षमलक्ष्यजन्मता  
+दिगम्बरत्वेन निवेदितं वसु।  
+वरेषु यद् बालमृगाक्षि! मृग्यते  
+तदस्ति किं व्यस्तमपि त्रिलोलने"॥ (१६) कुमारस॰।**
+
+ अत्र अलक्ष्यं विधेयं तस्य च समासे गुणीभावादप्राधान्येन निर्देशः। यथा वा,—
+
+**"अमुक्ता भवता नाथ! मुहूर्त्तमपि सा पुरा"।**
+
+ अत्र नञो विधेयत्वमेवोचितम्, यथा निम्ने श्लोके,—
+
+**"नवजलधरः सन्नद्धोऽयं, न दृप्तनिशाचरः?  
+सुरधनुरिदं दूराकृष्टं, न तस्य शरासनम्?।**
+
+——————————————————————————————————
+
+ (१६) वपुरिति। पार्वतीं प्रति जटिलरूपिणो हरस्योक्तिरियम्। हे बालमृगाक्षि! मृगशावकनयने! वपुः शरीरं शम्भोरिति शेषः विरूपाणि विषमाणि अक्षीणि यस्य तादृशं त्रिनेत्रं कुत्सितमिति भावः, अलक्ष्यं जन्म यस्य तथोक्तः, तस्य भावः अलक्ष्यजन्मता अकुलीनत्वमिति भावः, तथा दिगम्बरत्वेन नग्नत्वेन वसु धनं निवेदितं सूचितं यस्य धनमस्ति स कदापि न नग्नस्तिष्ठति, अस्य तु तद्भावाद् दिगम्बरत्वमिति भावः अतः वरेषु उपयन्तृषु यत् रूपादिकमित्यर्थः। तदुक्तम्, कन्या वरयते रूपं माता वित्तं पिता श्रुतम्। बान्धवाः कुलमिच्छन्ति मिष्टान्नमितरे जनाः॥ इति। मृग्यते अन्विष्यते त्रिलोचने हरे तत् व्यस्तमपि एकमपीत्यर्थः समस्तं दूरापास्तमिति भावः किम् अस्ति? नैवेत्यर्थः।
+
+ (१७) नवेति। उर्वशीविरहिणः पुरुरवस उक्तिरियम्। अयं नवजलधरः नूतनमेघः सन्नद्धः समुदितः, दृप्तश्चासौ निशाचरश्चेति
+
+——————————————————————————————————
+
+**अयमपि पटुर्धारासारो, न बाणपरम्परा?  
+कनकनिकषस्निग्धा, विद्युत्, प्रिया न ममोर्वशी"?॥ (१७) (विक्रमो॰)**
+
+**"जुगोपात्मानमत्रस्तो भेजे धर्म्ममनातुरः।  
+अगृध्नुराददे सोऽर्थमसक्तः सुखमन्वभूत्"॥ (१८) (रघुवंशम्)**
+
+ इत्यत्र तु अत्रस्तताद्यनुवादेनात्मगोपनाद्येव विधेयमिति न दोषः। वाक्यगतो यथा,—
+
+**"न्यक्कारो ह्ययमेव मे यदरयस्तत्राप्यसौ तापसः  
+सोऽप्यत्रैव निहन्ति राक्षसकुलं जीवत्यहो रावणः।  
+धिक्! धिक्! शक्रजितं प्रबोधितवता किं कुम्भकर्णेन वा  
+स्वर्गग्रामटिकाविलुण्ठनवृथोच्छूनैः किमेभिर्भुजैः"॥ (१९)**
+
+——————————————————————————————————
+
+न, इदं दूराकृष्टं दूरात् आकृष्टं सुरधनुः शक्रकार्मुकं, तस्य निशाचरस्य शरासनं धनुः न, अयमपि पटुः प्रबलः धारासारः वृष्टिधारापातः, न बाणपरम्परा शरवर्षणधारा, कनकस्य निकषः कषणरेखा तद्वत् स्निग्धा स्फुरन्ती विद्युत् इयमिति शेषः, मम प्रिया उर्वशी न।
+
+ (१८) जुगोपेति। स राजा दिलीपः अत्रस्तः त्रासरहितः सन् आत्मानं जुगोप ररक्ष अनातुरः अक्लान्तः सन् धर्मं भेजे सिषेवे अगृध्नुः अलोलुपः सन् अर्थं धनं राजस्वरूपमित्यर्थः आददे जग्राह प्रजाभ्य इति शेषः। तथा असक्तः आसक्तिरहितः सन् सुखम् अन्वभूत् बुभुजे।
+
+ (१९) न्यक्कार इति। रावणस्योक्तिरियम्। मे मम अरयः शत्रव इति यत्, अयमेव न्यक्कारः निकारः अवमाननमित्यर्थः तत्रापि अरिष्वपि असौ अरिः राम इति भावः तापसः तपस्वी क्षुद्र इति
+
+——————————————————————————————————
+
+ "अनुवाद्यमनुक्त्वैव न विधेयमुदीरयेद्" इत्युक्तेरुद्देश्यस्य प्रथमं ततो विधेयस्य निर्देशो युक्तः। अत्र, न्यक्कारस्य विधेयत्वे विवक्षितेऽपि प्रथमं निर्देशात् न तथा प्रतीतिः। रचना च पदद्वयस्य विपरीतेति वाक्यदोषः।
+
+ यथा वा,—
+
+**"आनन्दयति ते नेत्रे योऽसौ सुभ्रु! समागतः"॥**
+
+ अत्र, 'असौ' इत्यस्य विधेयत्वमेव भवितुं युक्तं, तच्च यच्छब्द निकटस्थतया अनुवाद्यत्वप्रतीतिकृत्।
+
+ सन्दिग्धत्वं \* यथा,—
+
+——————————————————————————————————
+
+\* 'सन्दिग्धत्वं गुणो व्याजस्तुतिपर्य्यवसायि चेत्'। (विश्वनाथः)
+
+ व्याजस्तुतिश्च अलङ्कारप्रस्तावे वक्ष्यमाणा। यथा,—
+
+"पृथुकार्त्तस्वरपात्रं भूषितनिःशेषपरिजनं देव!  
+विलसत्करेणुगहनं सम्प्रति समभावयोः सदनम्"॥
+
+——————————————————————————————————
+
+भावः, सोऽपि तापसोऽपि अत्रैव लङ्कायामेव आगत्येति शेषः राक्षसकुलं निहन्ति नाशयति अहो! आश्चर्य्यं रावणो जीवति एतावति निकारे रावणस्य जीवनमाश्चर्य्यमित्यर्थः। शक्रजितम् इन्द्रजितं धिक्! धिक्! निन्दामीत्यर्थ धिक् निर्भत्सननिन्दयोरित्यमरः। इन्द्रजयिनापि तापसात् पराजयो लब्ध इति भावः। प्रबोधितवता जागरितेन कुम्भकर्णेन वा किम्? न किमपि कार्य्यं साधितमित्यर्थः। तथा स्वर्ग एव ग्रामटिका क्षुद्रो ग्रामः तस्या विलुण्ठनेन वृथा उच्छूनाः उद्दृप्ताः तैः एभिः मदीयैरित्यर्थ भुजैः बाहुभिः विंशतिसङ्ख्यकैरिति भावः किम्? न किमपि प्रयोजनमित्यर्थः।
+
+——————————————————————————————————
+
+**"आशीःपरम्परां (२०) वन्द्यां कर्णे कृत्वा कृपां कुरु"।**
+
+ अत्र, वन्द्यामिति वन्दीभूतायाम् उत वन्दनीयामिति सन्देहः।
+
+ वाक्यमात्रगतान् दोषानाह,—
+
+**वर्णानां प्रतिकूलत्वं सन्धौ विश्लेषकष्टते।  
 अधिकन्यूनकथितपदताऽक्रमता तथा॥**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-<MISSING_FIG href="../books_images/U-IMG-1703919246image13.jpg"/>'सन्दिग्धत्वं गुणो व्याजस्तुतिपर्य्यवसायि चेत्'। (विश्वनाथः )  
- व्याजस्तुतिश्चअलङ्कारप्रस्तावे वक्ष्यमाणा। यथा, —
-
- “पृथुकार्त्तस्वरपात्रं भूषितनिःशेषपरिजनं देव।  
- विलसत्करेणुगहनंसम्प्रति समभावयोः सदनम्”॥
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 **भग्नप्रक्रमता ख्यातिहतता सङ्करोऽपि च।  
-गर्भितत्वं तथा काव्ये दोषाः स्युर्वाक्यमात्रगाः॥**
+गर्ब्भितत्वं तथा काव्ये दोषाः स्युर्वाक्यमात्रगाः॥**
 
-  वर्णानां रसानुगुणत्वं वक्ष्यते तद्वैपरीत्यं प्रतिकूलत्वम्।यथा, ‘कृतमनुमतम्’ (१२ ४०) इत्यादिपूर्वमुक्तम्। अत्र हिगाढ़बन्धत्वं दीर्घसमासत्वञ्च उचितम्। तद्वैपरीत्यकरणात्दोषः।सन्धौ विश्लेषः द्विविधः, व्याकरणलक्षणानुसारेण कृतः,अनुशासनमुल्लङ्घय स्वेच्छया कृतश्च पूर्वःअमकृदेव दोषः,द्वितीयस्तु सकृदपि। आद्यो यथा, —
+ वर्णानां रसानुगुणत्वं वक्ष्यते तद्वैपरीत्यं प्रतिकूलत्वम्। यथा, 'कृतमनुमतम्' (२२ पृ॰) इत्यादि पूर्वमुक्तम्। अत्र हि गाढ़बन्धत्वं दीर्घसमासत्वञ्च उचितम्। तद्वैपरीत्यकरणात् दोषः।
 
-"दलिते उत्पन्नेएते अक्षिणी अमलाङ्गि ! ते”।
+ सन्धौ विश्लेषः द्विविधः, व्याकरणलक्षणानुसारेण कृतः, अनुशासनमुल्लङ्घ्य स्वेच्छया कृतश्च। पूर्वः असकृदेव दोषः, द्वितीयस्तु सकृदपि। आद्यो यथा,—
 
-द्वितीयो यथा,—
+**"दलिते उत्पले एते अक्षिणी अमलाङ्गि! ते"।**
 
-“वासवाशामुखे भाति इन्दुश्चन्दनविन्दुवत्”।
+ द्वितीयो यथा,—
 
-सन्धौ कष्टता श्रुतिदुःखावहत्वम्। यथा,
+**"वासवाशामुखे भाति इन्दुश्चन्दनविन्दुवत्"।  
+सन्धौ कष्टता श्रुतिदुःखावहत्वम्। यथा,**
 
-"उर्व्यप्रसावत्रतर्व्वाली मर्वन्ते चार्व्ववस्थितिः।  
-नावर्ज्जु युज्यते गन्तुंशिरो नमय तन्मनाक्”॥
+——————————————————————————————————
 
-अधिकपदता <MISSING_FIG href="../books_images/U-IMG-1703919643image13.jpg"/> यथा,—  
-"सदाशिवं नौमि पिनाकपाणिम्” इत्यत्र 'पिनाकपाणिम्' इतिविशेषणमधिकम्।  
------------------------------------------------------------------------------
+ (२०) आशीःपरम्पराम् आशिषां सङ्घम्।
 
-<MISSING_FIG href="../books_images/U-IMG-1703919643image13.jpg"/>'गुणःकाप्यधिकं पदम्' यथा, — 
+——————————————————————————————————
+
+**"उर्व्यसावत्र तर्वाली मर्वन्ते चार्ववस्थितिः।  
+नात्रर्जु युज्यते गन्तुं शिरो नमय तन्मनाक्"॥ (२१)**
+
+ अधिकपदता \* यथा—
+
+ "सदाशिवं नौमि पिनाकपाणिम्" इत्यत्र 'पिनाकपाणिम्' इति विशेषणमधिकम्।
+
+——————————————————————————————————
+
+ \*'गुणः क्वाप्यधिकं पदम्' यथा,—
 
 "आचरति दुर्जनो यत् सहसा मनसोऽप्यगोचरानर्थान्।  
-तन्न न जाने जाने स्म, सति मनः किन्तु नैव निष्ठुरताम्"॥
+तत्र न जाने जाने स्पृशति मनः किन्तु नैव निष्ठुरताम्"॥ (२२)
 
------------------------------------------------------------------------------
+ अत्र न न जाने इत्ययोगव्यवच्छेदकम्, द्वितीयं जाने इति अन्ययोगव्यवच्छेदकम् (२३) इति वैचित्र्यातिशयः।
 
-  “कुर्यांहरस्यापि पिनाकपाणेः" **इत्यत्र तु अतिदुष्यधृष्यत्वसूचनाय** 'पिनाकपाणेः' इति **विशेषणं** **युक्तमेव**।  
-  **न्यूनपदता** <MISSING_FIG href="../books_images/U-IMG-1703940728image13.jpg"/> **यथा**, "तथाभूतां दृष्टा" **इत्यादौ** ( ६ ट ० )**पूर्वमुक्ते**।  
-  अत्र, ‘अस्माभिः' इति ‘खिन्ने' **इत्यस्मात् पूर्वम्** ‘इत्यम्’ **इतिच पदं न्यूनम्।**  
- अत्रन न जाने इत्ययोगव्यवच्छेदकम्, द्वितीयं जाने इति अन्ययोगव्यवच्छेदकम् इतिवैचित्त्रातिशयः।"सम्भ्रमेविवाये हर्षे विषादेऽप्यधिकं पदम्”। गुण एव। सम्भ्रमे  
-यथा —
+ "सम्भ्रमे विस्मये हर्षे विषादेऽप्यधिकं पदम्"। गुण एव। सम्भ्रमे यथा,—
 
-“अर्ध्यमर्ध्यमिति वादिनं नृपं सोऽनवेक्ष्यभरतायजो यतः।  
-अत्रकोपदहनार्चिषंततः सन्दधे दृशमुद्यतारकाम्”॥ रघुवंशम्।
+——————————————————————————————————
 
-विस्मये हर्षे च यथा, —
+ (२१) उर्वसाविति। अत्र मर्वन्ते मरोरन्ते असौ उर्वी महती चार्ववस्थितिः सुष्ठुस्थिता तर्बाली तरूणां श्रेणी यत्र ऋजु सरलं यथा तथा गन्तुं न युज्यते न शक्यते इत्यर्थः, तत् तस्मात् मनाक् ईषत् शिरः मस्तकं नमय नतं कुरु॥
+
+ (२२) आचरतीति। दुर्जनः सहसा मनसोऽपि अगोचरान् अर्थान् यत् आचरति अनुतिष्ठति तत् न जाने न जाने किन्तु मनः निष्ठुरतां नैव स्पृशति। दुर्जनस्य दौर्जन्यं ज्ञायते परं तस्य अनिष्टं कर्त्तुं नोच्छामीति भावः।
+
+ (२३) अयोगव्यवच्छेदकम् अयोगस्य ज्ञानाभावस्येत्यर्थः व्यवच्छेदकं निराकारकं तथा च दुर्जनस्य दौःशील्यं मे ज्ञातमस्तीति भावः,
+
+——————————————————————————————————
+
+ "कुर्य्यां हरस्यापि पिनाकपाणेः" इत्यत्र तु अतिदुष्प्रधृष्यत्वसूचनाय 'पिनाकपाणेः' इति विशेषणं युक्तमेव।
+
+——————————————————————————————————
+
+"अर्घ्यमर्घ्यमिति वादिनं नृपं सोऽनवेक्ष्य भरताग्रजो यतः।  
+क्षत्रकोपदहनार्चिषं ततः सन्दधे दृशमुदग्रतारकाम्"॥ (२४) रघुवंशम्।
+
+ विस्मये हर्षं च यथा,—
 
 "दृष्ट्वा स्फीतोऽभवदलिरसौ लेख्यपद्मं विशालं  
-चित्रं! चित्रं! किमिति ! किमिति ! व्याहरन् निष्पपात।  
-नास्मिन् गन्धो न च मधुकणो नास्ति तत्सौकुमार्यं  
-घूर्णन् मूर्द्धा वत ! नतशिरा ब्रीडया निर्जगाम"॥
+चित्रं! चित्रं! किमिति! किमिति! व्याहरन् निष्पपात।  
+नास्मिन् गन्धो न च मधुकणो नास्ति तत्सौकुमार्य्यं  
+घूर्णन् मूर्द्ध्ना वत! नलशिरा ब्रीड़या निर्जगाम"॥ (२५)
 
-विषादे यथा, —
+——————————————————————————————————
 
-“रात्रिर्गमिष्यति भविष्यति सुप्रभातं  
-भास्वानुदेष्यति हसिष्यति पद्मजालम्।  
-इत्थंविचिन्तयति कोषगते द्विरेफे  
-हा ! हन्त ! हन्त ! नलिनीगज उज्जहार"॥
+जाने इति अन्ययोगस्य अपरज्ञानस्य व्यवच्छेदकं तथाच अहमेव जाने नान्य इति अथवा अहं यथा जाने तथा नान्य इति च भावः।
 
-<MISSING_FIG href="../books_images/U-IMG-1703940728image13.jpg"/>'उक्तावानन्दमग्नादेः'
-स्यान्नजनपता गुणः”।
+ (२४) अर्घ्यमिति। भग्नहरकार्मुकं कृतसीतोद्वाहं पुत्रं रामं गृहीत्वा अयोध्याभिमुखं गच्छतो दशरथस्य परशुरामं सक्रोधमागतं वीक्ष्य ससम्भ्रमोक्तिरियम्। यः परशुरामः अर्घ्यम् अर्घ्यं गृहाणेति शेषः इति वादिनं नृपम् अनवेक्ष्य अगणयित्वा इत्यर्थः यतः यस्यां दिशि भरताग्रजः रामः तिष्ठतीति शेषः ततः तस्यां दिशि क्षत्रकोपदहनार्चिषं क्षत्रियान् प्रति कोपानलशिखाम् उदग्रतारकां भयङ्करतारकां दृशं चक्षुः सन्दधे पातयामास।
 
-  कथितपदत्वं <MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>यथा, —
+ (२५) दृष्ट्वेति। असौ अलिर्भ्रमरः विशालं महत् लेख्यपद्मं चित्रितकमलं दृष्ट्वा स्फीतः आनन्दोत्फुल्ल इत्यर्थः अभवत्। चित्रं चित्रम् आश्चर्य्यमाश्चर्य्यं किमिति किमिति व्याहरन् ब्रुवन् निष्पपात तस्मिन् लेख्यपद्मे इति शेषः। अस्मिन् लेख्यपद्मे न गन्धः न च मधुकणः मकरन्दविन्दुः, न तस्य सौकुमार्य्यं सुकोमलत्वम् अस्ति
 
-"प्रियं चेद्भरतस्यैतद्राममब्राजनं भवेत्।  
-माझ मे भरतः कार्षीत् प्रेतलत्यं कदाचन"। (रामा.)
+——————————————————————————————————
 
-**अत्र भरत इति पुनः कथितं, सर्व्वनाम्मैव अस्य परामर्शोयुक्तः, —“मास्म मेऽसौ सुत” इत्यदुष्टम्।अक्रमत्वं,अविद्यमानः क्रमः पदस्थितिक्रमो यत्र तत्अक्रमम् तस्य भावः। यथा, —**
+ न्यूनपदता \* यथा, "तथाभूतां दृष्ट्वा" इत्यादौ (१५ पृ॰ ) पूर्वमुक्ते।
 
-"इयं गतं सम्प्रतिशोचनीयतां समागमप्रार्थनया पिनाकिनः।  
-कला च सा कान्तिमती कलावतस्त्वमस्य लोकस्य च नेत्रकोमुदी"॥ कु०
+ अत्र, 'अस्माभिः' इति 'खिन्ने' इत्यस्मात् पूर्वम् 'इत्थम्, इति च पदं न्यूनम्।
 
-  अत्रत्वम् इत्यनन्तरं चकारो युक्तः।भग्नप्रक्रमता, भग्नः प्रक्रमः उद्देशानुगुणाः प्रस्तावो यस्मिन्तद्   भग्नप्रक्रमम् तस्य भावः। यथा, —
+ कथितपदत्वं यथा,—
 
-“यशोऽधिगन्तुं सुखलिप्सयावा मनुष्यसंख्यामतिवर्त्तितुं वा।  
-निरुत्सुकानामभियोगभाजां समुत्युकेवाङ्कमुपैति लक्ष्मीः"॥ (किरा०)
+**"प्रियं चेद्भरतस्यैतद्रामप्रब्राजनं भवेत्।  
+मास्म मे भरतः कार्षीत् प्रेतकृत्यं कदाचन"॥ (२६) ** **(रामायणे)**
 
- **अत्र सुखलिप्सयेत्यत्र सुखमीहितम् वा' इति तुमन्तप्रयोगएव युक्तः।**
+——————————————————————————————————
 
----------------------------------------------------------------------------------  
-<MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>यत्नतत्पदप्रयोग एव न युक्तस्तत्रअधिकपदत्वम्, यत्रतु पर्यायान्तरेण सर्व्वनाम्ना वा तत्प्रयोगो युक्तस्तत्रकथित-पदत्वम्।  
-  विहितस्य अनुवाद्यत्वे कथितपदत्वं गुणः। यथा—
+ विषादे यथा,—
 
-“उदेति सविता ताम्रस्ताम्रवास्तमेति च।  
-सम्पत्तौ च वियत्तौ च महतामेकरूपता"॥
+"रात्रिर्गमिष्यति भविष्यति सुप्रभातं भास्वानुदेष्यति हसिष्यति पद्मजालम्।  
+इत्थं विचिन्तयति कोषगते द्विरेफे हा! हन्त! हन्त! नलिनीं गज उज्जहार"॥ (२७)
 
----------------------------------------------------------------------------------
+\* "उक्तावानन्दमग्नादेः स्यान्न्यूनपदता गुणः"।
 
-**ख्यातिहतता प्रसिद्धित्यागः।मेघादीनां ^(१)गर्जिताद्येवप्रसिद्धं तदन्यथावर्णने ख्यातिहतत्वम्।वाक्यान्तरपदानां वाक्यान्तरेऽनुप्रवेशः सङ्करः। यथा,—**
+ यत्र तत्पदप्रयोग एव न युक्तस्तत्र अधिकपदत्वम्,
 
-"किमिति न पश्यसि कोपं पादगतं बहुगुणमाद्रिय^(२)स्वैनम्।  
-ननु मुञ्च हृदयनाथं सदयं मनसस्तमोरूपम्”॥
+——————————————————————————————————
 
- अत्र, पादगतं बहुगुणं हृदयनाथं किमिति न पश्यसि दूमंसदयमाद्रियस्व मनसस्तमोरूपं कोपं मुञ्चेत्यन्वयः। एकवाक्यगतत्वेतु क्लिष्टत्वमित्यस्माद्भेदः।  
- **वाक्यान्तरे वाक्यान्तरप्रवेशो गर्भितत्वम्**<MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>**। यथा, —**
+इति दृष्ट्वेति शेषः वत खेदे मूर्द्ध्ना घूर्णन् ब्रीड़या लज्जया नतशिराः अवनतमस्तकः सन् निर्जगाम।
 
-“परापकारनिरतैर्दुर्ज्जनैः सह सङ्गतिः।  
-कर्त्तव्यः साधुसंसर्गो न विधेया कदाचन”॥
+ (२६) प्रियमिति। चेत् यदि एतद् रामस्य प्रव्राजनं वनप्रेषणं भरतस्य प्रियं भवेत् तदा भरतः कदाचन मे प्रेतकृत्यं मास्म कार्षीत् न करोतु।
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ (२७) रात्रिरिति। रात्रिः गमिष्यति, प्रभातो भविष्यतीत्यर्थः, सुप्रभातं भविष्यति, भास्वान् सूर्य्यः उदेष्यति उत्थास्यति पद्मजालं कमलसङ्घः हसिष्यति विकसिष्यति, कोषगते कमलकुद्मलस्थिते द्विरेफे भ्रमरे इत्थं विचिन्तयति सति हा हन्त! हन्त,! विषादसूत्रकमव्ययमेतत्त्रयं गजः नलिनीम् उज्जहार उदपाटयत्।
 
-अत्रनामपदस्य कथितपदत्वेऽपि उत्तरवाक्येऽनुवाद्यत्वान्नदोषः। यथा वा,—
+——————————————————————————————————
+
+ अत्र भरत इति पुनः कथितं, सर्वनाम्नैव अस्य परामर्शो युक्तः,— "मास्म मेऽसौ सुत" इत्यदुष्टम्।
+
+ अक्रमत्वं, अविद्यमानः क्रमः पदस्थितिक्रमो यत्र तत् अक्रमं तस्य भावः। यथा,—
+
+**"द्वयं गतं सम्प्रति शोचनीयतां  
+समागमप्रार्थनया पिनाकिनः।  
+कला च सा कान्तिमती कलावतस्त्वमस्य  
+लोकस्य च नेत्रकौमुदौ"॥ (२८) कुमारस॰।**
+
+——————————————————————————————————
+
+यत्र तु पर्य्यायान्तरेण सर्वनाम्ना वा तत्प्रयोगो युक्तस्तत्र कथितपदत्वम्।
+
+ विहितस्य अनुवाद्यत्वे कथितपदत्वं गुणः। यथा,—
+
+"उदेति सविता ताम्रस्ताम्रएवास्तमेति च।  
+सम्पत्तौ च विपत्तौ च महतामेकरूपता"॥ (२९)
+
+ अत्र ताम्रपदस्य कथितपदत्वेऽपि उत्तरवाक्येऽनुवाद्यत्वान्न दोषः। यथा वा,—
 
 "जितेन्द्रियत्वं विनयस्य कारणं गुणप्रकर्षो विनयादवाप्यते।  
-गुणप्रकर्षेण जनोऽनुरज्यते जनानुरागप्रभवा हि सम्पदः॥
+गुणप्रकर्षेण जनोऽनुरज्यते जनानुरागप्रभवा हि सम्पदः"॥
 
-<MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>गर्भितत्वं क्वचिद्गुणः यथा,—
+——————————————————————————————————
 
-'दिङ्मातङ्गघटाविभक्तचतुराघाटा मही साध्यते  
-सिद्धा' सापि 'वदन्त एव हि वयं रोमाञ्चिताः पश्यत'।  
+ (२८) द्वयमिति। पार्वतीं प्रति जटिलरूपिणो हरस्योक्तिरियम्। कलावतः चन्द्रस्य सा प्रसिद्धा कान्तिमती लावण्यपूर्णा कला रेखा अस्य लोकस्य जगतः नेत्रकौमुदी नयनानन्ददायिनीत्यर्थः त्वञ्च एतत् द्वयं सम्प्रति पिनाकिनः शम्भोः समागमप्रार्थनया सङ्गाभिलाषेण शोचनीयतां गतम्।
+
+ (२९) उदेतीति। सविता सूर्य्यः ताम्रः रक्तः सन् उदेति उद्गच्छति, ताम्र एव रक्त एव अस्तमेति च अस्तं गच्छति च।
+
+——————————————————————————————————
+
+ अत्र त्वम् इत्यनन्तरं चकारो युक्तः।
+
+ भग्नप्रक्रमता, भग्नः प्रक्रमः उद्देशानुगुणः प्रस्तावो यस्मिन् तद् भग्नप्रक्रमं तस्य भावः। यथा,—
+
+**"यशोऽधिगन्तुं सुखलिप्सया वा मनुष्यसङ्ख्यामतिवर्त्तितुं वा।  
+निरुत्सुकानामभियोगभाजां समुत्सुकेवाङ्कमुपैति लक्ष्मीः॥" (३०) (किरातार्जु॰)**
+
+ अत्र सुखलिप्सयेत्यत्र 'सुखमीहितुं वा' इति तुमन्तप्रयोग एव युक्तः।
+
+ ख्यातिहतता प्रसिद्धित्यागः। मेघादीनां गर्जिताद्येव प्रसिद्धं तदन्यथावर्णने ख्यातिहतत्वम्।
+
+ वाक्यान्तरपदानां वाक्यान्तरेऽनुप्रवेशः सङ्करः। यथा,—"किमिति न पश्यसि कोपं पादगतं बहुगुणमाद्रियस्वैनं ननु मुञ्च हृदयनाथं सदयं मनसस्तमोरूपम्"॥
+
+ अत्र, पादगतं बहुगुणं हृदयनाथं किमिति न पश्यसि इमं सदयमाद्रियस्व मनसस्तमोरूपं कोपं मुञ्चेत्यन्वयः। एकवाक्यगतत्वे तु क्लिष्टत्वमित्यस्माद्भेदः।
+
+——————————————————————————————————
+
+तथाहि महतां जनानां सम्पत्तौ सम्पदि च विपत्तौ विपदि च एकरूपता तुल्यता सम्पदि विपदि च महान्तः समभावेनैवावतिष्ठन्ते इति भावः।
+
+ (३०) यश इति। यशः कीर्त्तिम् अधिगन्तु लब्धुं सुखाय लिप्सया लाभेच्छया वा मनुष्यसङ्ख्यां मनुष्यगणानाम् अतिवर्त्तितुम् अतिक्रमितुम् अमानुषीं क्रियां कर्त्तुमिति यावत् वा निरुत्सुकानां निरुद्वेगानाम् अभियोगभाजाम् उद्योगिनां निरुद्वेगेनोद्योगमातन्वतामित्यर्थः सिद्धिः समुत्सुकेव समुत्कण्ठिता कामिनीय अङ्कं क्रोड़मुपैति आगच्छति।
+
+——————————————————————————————————
+
+ 'वाक्यान्तरे वाक्यान्तरप्रवेशो गर्ब्भितत्वम्\*। यथा,—
+
+**"परापकारनिरतैर्दुर्जनैः सह सङ्गतिः।  
+कर्त्तव्यः साधुसंसर्गो न विधेया कदाचन"॥**
+
+ अथ तृतीयपादवाक्यं वाक्यान्तरमध्ये प्रविष्टम्। अर्थदोषानाह,—
+
+**"दुष्क्रमग्राम्यकष्टत्वं व्याहतत्वमहेतुता।  
+अनवीकृतता पौनरुक्तं ख्यातिविरुद्धता॥**
+
+——————————————————————————————————
+
+ \*गर्भितत्वं क्वचिद्गुणः यथा,—
+
+"दिङ्मातङ्गघटाविभक्तचतुराघाटा मही साध्यते  
+सिद्धा सापि वदन्त एव हि वयं रोमाञ्चिताः पश्यत।  
 विप्राय प्रतिपाद्यते किमपरं रामाय तस्मै नमः  
-यस्मात् प्रादुरभूत् कथाद्भुतमिदं यत्नैवचास्तं गतम्'॥
+यस्मात् प्रादुरभूत् कथाद्भुतमिदं यत्रैव चास्तं गतम्"॥ (३१)
 
-अत्र"वदन्त एव हि " इत्यादिवाक्यं वाक्यान्तरमध्ये प्रविष्टं चमत्कारातिशयंपुष्णाति।  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ अत्र "वदन्त एव हि” इत्यादिवाक्यं वाक्यान्तरमध्ये प्रविष्टं चमत्कारातिशयं पुष्णाति।
 
-  अथ तृतीयपादवाक्यं वाक्यान्तरमध्ये प्रविष्टम्।
+——————————————————————————————————
 
-  अर्थदोषानाह—
+ (३१) दिङ्मातङ्गेति। सर्वां पृथिवीं जित्वा विग्रसात् कृतवन्तं परशुरामं दृष्ट्वा जनानामुक्तिः। दिङ्मातङ्गानां दिग्गजानां घटाभिः समूहैः चतुष्टयैरिति भावः विभक्ता विभज्य गृहीताः चतस्रः आघाटाः सीमानः यस्याः तादृशी मही पृथ्वी साध्यते उपार्ज्यते महामहिमशालिभिरिति शेषः सा मही सिद्धापि विप्राय प्रतिपाद्यते समर्प्यते वदन्त एव वयं रोमाञ्चिताः सञ्जातरोमहर्षाः जाता इति शेषः पश्यत अवलोकयत अपरं किं वक्तव्यमिति शेषः, यस्मात् रामात् इदं कथाद्भुतम्, अद्भुतकथेत्यर्थः प्रादुरभूत् जातो, यत्रैव च रामे अस्तं गतं तस्मै रामाय नमः।
 
-**"दुष्क्रमग्राम्यकष्टत्वं व्याहतत्त्वमहेतुता।  
-अनवीकृतता पौनरुक्तं ख्यानिविरुद्धता॥  
-अनुवादो विधेश्चैवमर्थदोषाः प्रकीर्त्तिताः”।**
+——————————————————————————————————
 
-दुष्क्रमतार्दुदुष्टोविरुद्ध इति यावत् क्रमो वचनक्रमो यस्मिन्स दुष्क्रमः, यथा, वमन्तादिवर्णने प्रथमं प्रवालोद्मस्यततः कुसुमोत्पत्तेरनन्तरं पुष्पेषु शिलीमुखानामापतनमितियथा-क्रममेवैतेषामाविष्करणमुचितम्, विशिष्टहेतुं विना ततोऽन्यथावर्णने दुष्क्रमतादोषः, एवमन्यत्रापि।  
-ग्राम्यत्वं <MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>यथा, — ताम्रभृङ्गारतुल्योऽयमर्को मज्जति वारिधौ।  
-**कष्टत्वमर्थप्रतीतेर्व्यवहितत्वम्।** यथा, —
+**अनुवादो विधेश्चैवमर्थदोषाः प्रकीर्त्तिताः"॥**
 
-"सदा मध्ये यासामियममृतनिष्यन्दसरसा  
-सरस्वत्युद्दामा वहति बहुमार्गा परिमलम्।
+ दुष्क्रमता दुर्दुष्टोविरुद्ध इति यावत्क्रमो वचनक्रमो यस्मिन् स दुष्क्रमः, यथा, वसन्तादिवर्णने प्रथमं प्रवालोद्गमस्य ततः कुसुमोत्पत्तेरनन्तरं पुष्पेषु शिलीमुखानामापतनमिति यथाक्रममेवैतेषामाविष्करणमुचितम्, विशिष्टहेतुं विना ततोऽन्यथावर्णने दुष्क्रमतादोषः, एवमन्यत्रापि।
 
---------------------------------------------------------------------------  
-<MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>ग्राम्यत्वमधमोक्तिषु गुणः, यथा,—
+ ग्राम्यत्वं \* यथा,—
 
-"एषोसमहरबिम्बो दोसर हैबङ्गबोणपिण्डोब्ब।  
-एदेश्चग्रम्ससमोहा वदन्ति आसानु दुद्धधाराब्ब"॥  
-"एष शशधरविम्बो दृश्यते हैयङ्गवीनपिण्ड इव।
+**ताम्रभृङ्गारतुल्योऽयमर्को मज्जति वारिधौ। (३२)**
 
-  एते च रश्मिसमूहाः पतन्ति आशाञ्चदुग्धधारा इव"॥इयं हि विदूषकोक्तिः।
+ कष्टत्वमर्थप्रतीतेर्व्यवहितत्वम्। यथा,—
 
---------------------------------------------------------------------------
+**"सदा मध्ये यासामियममृतनिष्यन्दसरसा  
+सरस्वत्युद्दामा वहति बहुमार्गा परिमलम्।**
 
-प्रसादं ता एता घनपरिचिताः केन महतां  
-महाकाव्यव्योम्नि स्फुरितमधुरा यान्त रुचयः”॥
+——————————————————————————————————
 
-** **अत्र यासां कविरुचीनां मध्ये सुकुमारचित्रमध्यमात्मक-त्रिमार्गा भारती चमत्कारं वहति, ता गम्भीरकाव्य-परिचिताःकथमितर-काव्यवत् प्रसन्ना भवन्तु इत्येकोऽर्थः। यासामादित्यप्रभानां मध्ये त्रिपथगा वहति, ता मेघपरिचिताः कथं प्रसन्नाभवन्तीति द्वितीयोऽर्थः। अर्थद्वयमपि नितरां दुर्बोधम्।शब्दानां परिवर्त्तनेऽपि कटतायास्तादवस्थादयमर्थदोषः।  
-   कस्यचित् प्रागुत्कर्षमपकर्षं वाभिधाय पश्चात्तदन्यथाप्रतिपादनं व्याहतत्वम्।  
-यथा, —
+ \* ग्राम्यत्वमधमोक्तिषु गुणः, यथा,—
 
-हरन्ति हृदयं यूनां न भवेन्दुकलादयः।  
-वीक्ष्यतेयैरियं तन्वी लोकलोचनचन्द्रिका"॥
+"एसो ससहरबिम्बो दीसइ है अङ्गबीणपिण्डोव्व।  
+एदेअ रस्मिसमोहा पदन्ति आसासु दुद्धधाराब्ब"॥
 
- **अत्र येषामिन्दुकला नानन्दहेतुस्तेषामेवानन्दाय तन्वयांचन्द्रिकात्वारोपः।अहेतुता (निर्हेतुता**<MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/> **हेतोरवचनम्, यथा, —**
+"एष शशधरविम्बो दृश्यते हैयङ्गवीनपिण्ड इव।  
+एते च रश्मिसमूहाः पतन्ति पाशासु दुग्धधारा इव"। (३३) स॰
 
-"गृहीतं येनासोः परपरिभवान्नोचितमपि  
-प्रभावाद्यस्याभून्न खलु तव कश्चिन्न विषयः।
+ इयं हि विदूषकोक्तिः।
 
-------------------------------------------------------------------------------------------
+——————————————————————————————————
 
-<MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>"निर्हेतुतातु ख्यातेऽर्थेदोषतां नैव गच्छति”।
+ (३२) ताम्रेति । तामृभृङ्गारेण रक्तवर्णजलपात्रविशेषेण तुल्यः अर्कः सूर्य्यः वारिधौ समुद्रे निमज्जति अस्तमेतीत्यर्थः।
 
-यथा, “चन्द्रं गता पद्मगुणान्नभुङ्क्ते पद्माश्रिता चान्द्रमसीमभिख्याम्।  
-उभामुखन्त प्रतिपद्य लोला द्विसंत्रयां प्रीतिभवाप लक्ष्मीः "॥ कुमा०
+ (३३) एदेअ इति। एते च रश्मिसमूहाः किरणसङ्घाः आशासु दिक्षु दुग्धधारा इव पतन्ति।
 
-अत्र रात्रौपद्मस्य सङ्कोचः दिवा चन्द्रमञ्चनिष्प्रभवं लोकप्रसिद्ध-मिति 'न भुङ्क्ते' इति हेतु नापेक्षते।
+——————————————————————————————————
 
-------------------------------------------------------------------------------------------
+**प्रसादं ता एता घनपरिचिताः केन महतां  
+महाकाव्यव्योम्नि स्फुरितमधुरा यान्तु रुचयः"॥ (३४)**
 
-परित्यक्तं तेन त्वमसि सुतशोकान्न तु भयाद्-  
-विमोच्ये शस्त्र ! त्वामहमपि ततः स्वस्ति भवते" ॥(वेणी०)
+ अत्र वासां कविरुचीनां मध्ये सुकुमारचित्रमध्यमात्मकत्रिमार्गा भारती चमत्कारं वहति, ता गम्भीरकाव्यपरिचिताः कथमितरकाव्यवत् प्रसन्ना भवन्तु इत्येकोऽर्थः। यासामादित्यप्रभाणां मध्ये त्रिपथगा वहति, ता मेघपरिचिताः कथं प्रसन्ना भवन्तीति द्वितीयोऽर्थः। अर्थद्वयमपि नितरां दुर्बोधम्। शब्दानां परिवर्त्तनेऽपि कष्टतायास्तादवस्थ्यादयमर्थदोषः।
 
-**  अत्रद्वितीयशस्त्रमोचने हेतुर्नोक्तइति निर्हेतुत्वम्।अनवीकृतत्वं**<MISSING_FIG href="../books_images/U-IMG-1706016688image13.jpg"/> **यथा, —**
+ कस्यचित् प्रागुत्कर्षमपकर्षं वाभिधाय पश्चात्तदन्यथाप्रतिपादनं व्याहतत्वम्। यथा,—
 
-“प्राप्ताः त्रियः सकलकामदुधास्ततः किं  
-दत्त पदं शिरसि विद्विषतां ततः किम्।  
-सन्तर्पिताः प्रणयिनो विभवस्ततः किं  
-कल्पं स्थितं तनुभृतां तनुभिस्ततः किम्”॥
+——————————————————————————————————
 
-  **अत्र ततः किमिति न नवीकृतम्।**  
-**  पौनरुक्तं यथा,** —
+ (३४) सदेति। अमृतवत् निष्यन्दः प्रकाश इति यावत् तेन सरसा रसवती बहुमार्गा नानारीतिसङ्घटिता उद्दामा प्रौढ़ा इयं सरस्वती वाणी यासां रुचीनां मध्ये सदा परिमलं सौरभं वहति रुचीनां स्वदते इति भावः। अन्यत्र बहुमार्गा त्रिपथगेत्यर्थः उद्दामा उत्कटवेगा अमृतनिष्यन्दिनी सरस्वती मन्दाकिनीत्यर्थः यासां सौरीणां रुचीनां किरणानां मध्ये सदा परिमलं देवाङ्गनानां विमर्दजनितगन्धं वहति, ता एता महतां स्फुरितेन सहजबोधेनेति भावः मधुरा मधुरास्वादवत्यः रुचयः अभिलाषाः महाकाव्यं दुर्बोधकाव्यं व्योमेव आकाशमिह तस्मिन् घनपरिचिताः अतिपरिचिता अपिरत्नाध्याहार्य्यः केन कथं प्रसादं प्रसन्नतां यान्तु? न कथमपि प्रसन्ना भवन्तीत्यर्थः अन्यत्र ता एता महतां भास्वतामित्यर्थः स्फुरितेन विकासेन मधुरा मनोहारिण्यः रुच्यः प्रभाः महाकाव्यमिव व्योम्नि तस्मिन् घनपरिचिताः मेघाच्छादिता इति यावत् तेन कथं प्रसादं यान्तु न कथमपि प्रसन्ना भवन्तीत्यर्थः।
 
-"अस्वज्वालावलीप्रतिढबलजलधेरन्तरौर्खायमाणे -  
-सेनानाथे स्थितेऽस्मिन् मम पितरि गुरौ सर्वधन्वीश्वराणाम्।  
-कर्णालं सम्भ्रमेण व्रज रूप ! समरं मुञ्च हार्दिक्य! शङ्कां  
-ताते चापहितीये वहति रणधुरां को भयस्यावकाशः"॥ (वेणी.
+——————————————————————————————————
 
-**    अत्र चतुर्थपादवाक्यार्थः पुनरुक्तः।ख्यातिविरुद्धता+ यथा,—**
+**"हरन्ति हृदयं यूनां न नवेन्दुकलादयः।  
+वीक्ष्यते यैरियं तन्वी लोकलोचनचन्द्रिका"॥ (३५)**
 
--------------------------------------------------------------------  
-<MISSING_FIG href="../books_images/U-IMG-1706016688image13.jpg"/> भयन्तरेण निर्देश्यत्वं नवीकृतत्वम्'। 'किं तत्' इत्यत्र 'किं तस्माद्' इत्यादिरूपेण शब्दपरिवर्त्तनेऽपि उत्कर्षाभावादनवीलतत्वमेवेति कथितपदत्वाद्भेदः ।  
-**+** "कवीनां समये ख्याते गुणः ख्यातविरुद्धता"। (विश्वनाथः।) कविसमयख्यातानि च दर्पणे—
+ अत्र येषामिन्दुकला नानन्दहेतुस्तेषामेवानन्दाय तन्व्यां चन्द्रिकात्वारोपः।
 
-मालिन्यं व्योम्नि पापे यशसि धवलता वर्ण्यते ह्रासकीर्त्यो-  
-रक्तौ च क्रोधरागौ सरिदुदधिगतम् पङ्कजेन्दोवरादि।
+ अहेतुता (निर्हेतुता) \* हेतोरवचनम, यथा,—
 
----------------------------------------------------------------------
+——————————————————————————————————
 
-“ततश्चचार समरे शितशूलधरो[^13]हरिः”।
+\* "निर्हेतुता तु ख्यातेऽर्थे दोषतां नैव गच्छति"
 
-[^13]: "अत्र शूलशब्दस्य पर्यायान्तरेणोपादानेऽपि दोषस्यास्य सद्भाव इति प्रसिद्धिहतत्वाद्भेदः।"
+यथा,
 
-**अत्रहरेः शूलं लोकेऽप्रसिद्धम् ।विधेर्विधेयस्य अनुवादः प्राधान्येन निर्देशः, यथा,** —  
-‘प्रयत्नपरिबोधितः स्तुतिभिरद्य शेषे निशाम्' **इत्यत्रशयितः प्रयत्नेनबोध्यसेइति विधेयम्।**
+"चन्द्रं गता पद्मगुणान्न भुङ्क्ते  
+पद्माश्रिता चान्द्रमसीमभिख्याम्।  
+उमामुखन्तु प्रतिपद्य लोला  
+द्विसंश्रयां प्रीतिमवाप लक्ष्मीः"॥ (३६) कुमार॰
 
-**रसदोषानाह,—**
+ अत्र रात्रौ पद्मस्य सङ्कोचः, दिवा चन्द्रमसश्च निष्प्रभत्वं लोकप्रसिद्धमिति 'न भुङ्क्ते' इति हेतुं नापेक्षते।
 
-**“रसस्योक्तिः स्वशब्देन स्थायिसञ्चारिणोरपि।  
-प्रतिकूलविभावादिग्रहो दीप्तिः पुनः पुनः॥  
-अकाण्डे प्रथनच्छेदायङ्गस्याप्यतिविस्तृतिः।**
+——————————————————————————————————
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ (३५) हरन्तीति। यैः युवभिः लोकानां लोचनचन्द्रिका नयनानन्दिनीति यावत् इयं तन्वी कृशाङ्गी वीक्ष्यते अवलोक्यते नवेन्दुकलादयः अभिनवाश्चन्द्रकलाप्रभृतयः तेषां यूनां हृदयं न हरन्ति नाकर्षन्ति।
 
-तोयाधारेऽखिलेऽपि प्रसरति च मरालादिकः पक्षिसंघो  
-ज्योत्स्ना पेया चकोरैर्जलधर दिवसे मानसं यान्ति हंसाः॥  
-पादाघातादशोकं विकसति वकुलं योषितामास्यमद्य-  
-यूनामङ्गेषु हाराः स्फुटति च हृदयं विप्रयोगस्य तापैः।  
-मौर्वी रोलम्बमाला धनुरथ विशिखाः कौमाः पुष्पकेतो-  
-भिन्न स्यादस्य वाणैर्युवजनहृदयं स्वीकटाक्षेण तद्दत्॥  
-अम्भोजं निशायां विकसति कुमुदं चन्द्रिका शुरूप चे  
-मेघध्वानेषु न्हत्यं भवति च शिखिनां नाप्यशोके फलं स्यात्।  
-न ब्याज्जातो वसन्ते न च कुसुमफले गन्धसारद्रुमाणा-  
-मित्यादन्यमयत् कविसमयगतं सत्कवीनां प्रबन्धे"॥
+ (३६) चन्द्रमिति। पार्वत्या मुखवर्णनमिदम्। लोला चपला लक्ष्मीः चन्द्रं गता रात्राविति भावः पद्मगुणान् कमलस्थितिजनितसुखानीति यावत् न भुङ्क्ते नास्वादयति, पद्माश्रिता दिवसे इति भावः अङ्गम्भोजं विकसतीति कविसमयप्रसिद्धेः। चान्द्रमसीं चान्द्रीम् अभिख्यां शोभाम् अभिख्या नाम शोभयोरित्यमरः। न भुङ्क्ते। तु किन्तु उमायाः पार्वत्या मुखं प्रतिपद्य प्राप्य द्विसंश्रयां चन्द्रकमलवासजनितामिति भावः प्रीतिम् आनन्दम् अवाप प्राप। पार्वत्या वदनं चन्द्रः कमले च नेत्रे तेषाञ्च दिवारात्रं तुल्यविकासित्वादिति भावः।
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+——————————————————————————————————
 
-**अङ्गिनोऽननुसन्धानं प्रकृतीनां विपर्य्ययः”॥  
-इत्यादिकाः सहृदयैरसेदोषाः प्रकीर्त्तिताः॥**
+**"गृहीतं येनासीः परपरिभवान्नोचितमपि  
+प्रभावाद्यस्याभून्न खलु तव कश्चिन्न विषयः।  
+परित्यक्तं तेन त्वमसि सुतशोकान्न तु  
+भयाद्विमोक्ष्ये शस्त्र! त्वामहमपि ततः स्वस्ति भवते"॥ (३७) (वेणीसंहार॰)**
 
-रसस्य स्वशब्देन रमेतिशब्देन हास्यादिशब्देन वाऽभिधानम्,स्थायिनां हासादीनां सञ्चारिणां निर्वेदादीनाञ्च स्वनाम्नाकथनं दोषः।
+ अत्र द्वितीयशस्त्रमोचने हेतुर्नोक्त इति निर्हेतुत्वम्। अनवीकृतत्वं \* यथा,—
 
-<MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>प्रतिकूलानां विरुद्धानां विभावादीनां ग्रहो ग्रहणम्।
+**"प्राप्ताः श्रियः सकलकामदुधा, स्ततः किं?  
+दत्तं पदं शिरसि विद्विषतां, ततः किम्?।  
+सन्तर्पिताः प्रणयिनो विभवै, स्ततः किं?  
+कल्पं स्थितं तनुभृतां तनुभि, स्वतः किम्"?॥ (३८) **
 
-यथा, आदिमे निर्वेदादीनां शान्तसञ्चारिणां, वीरे चवैवर्ण्यत्रामादीनाम् भयानकस्यानुभावादीनां ग्रहणम्।
+——————————————————————————————————
 
-पुनः पुनदीप्तिर्यथा, कादम्बर्य्यांमहाश्वेताविलापे।
+** \* **भङ्ग्यन्तरेण निर्देश्यत्वं नवीकृतत्वम्। 'किं तत' इत्यत्र 'किं तस्माद्' इत्यादिरूपेण शब्दपरिवर्त्तनेऽपि उत्कर्षाभावादनवीकृतत्वमेवेति कथितपदत्वाद्भेदः।
 
-अकाण्डेऽनुचितेऽवसरे प्रथनं प्रकटनं, यया वेण्यां द्वितीयऽङ्के अनेकवीरसंक्षये प्रवृत्ते दुर्योधनस्य भानुमत्या प्रमोदवर्णनम्ृअकाण्डे वेदो यथा वीरचरिते राघवभार्गवयोर्दूराधिरूढ़े संग्रामे “कङ्कणमोचनाय गच्छामि" इति राघवस्योक्तिः।  
-**-----------------------------------------------------------------------**
+——————————————————————————————————
 
-<MISSING_FIG href="../books_images/U-IMG-1703940882image13.jpg"/>“सञ्चार्य्यादेविरुद्धस्य बाध्यत्वेन वचो गुणः”। विश्वनाथः।  
-यथा, —
+ (३७) गृहीतमिति। अश्वत्थाम्न उक्तिरियं हे शस्त्र! येन मत्पित्रेति शेषः त्वं परपरिभवात् शत्रुभिः परिभवभयादित्यर्थः नोचितम् अनुचितग्रहणमपीति यावत् ब्राह्मणस्य शस्त्रग्रहणनिषेधादिति भावः गृहीतम् अवलम्बितम् आसोः, यस्य मत्पितुः प्रभावात् कश्चिदपि जन इति शेषः तत्र न विषयः अपि सर्व एव जन स्तव गोचरीभूत इत्यर्थः द्रोणस्य सर्वजयित्वादिति भावः। तेन मम पित्रा सुतशोकात् न तु भयात् त्वं परित्यक्तम् असि अहमपि त्वां विमोक्ष्ये त्यक्ष्यामि ततः अतः परमित्यर्थः भवते तुभ्यं स्वस्ति शुभं भयादिति शेषः।
 
-“काकार्यंशशलक्ष्मणः क्वच कुलं भूयोऽपि दृश्येत सा,  
-दोषाणां प्रशमाय मे श्रुतमहो कोपेऽपि कान्तं सुखम्।  
+ (३८) प्राप्ता इति कस्यचिद्विरागिण उक्तिरियम्। सकलकाम
+
+——————————————————————————————————
+
+ अत्र ततः किमिति न नवीकृतम्।
+
+ पौनरुक्तं यथा,—
+
+**"अस्त्रज्वालावलीढ़प्रतिबलजलधेरन्तरौर्वायमाणे सेनानाथे स्थितेऽस्मिन् मम पितरि गुरौ सर्वधन्वीश्वराणाम्।  
+कर्णालं सम्भ्रमेण व्रज कृप! समरं मुञ्च हार्दिक्य! शङ्कां ताते चापद्वितीये वहति रणधुरां को भयस्यावकाशः"॥ (३९) (बेणीसंहार॰)**
+
+ अत्र चतुर्थपादवाक्यार्थः पुनरुक्तः।
+
+——————————————————————————————————
+
+दुधाः सर्वमनोरथपूरण्यः श्रियः सम्पदः प्राप्ताः जनैरिति शेषः सर्वत्र योज्यः। ततः किम्? न किमपीत्यर्थः, विद्विषतां वैरिणां शिरसि पदं दत्तं वैरिणो निर्जिता इति भावः ततः किम्?। विभवैः सम्पद्भिः प्रणयिनः बन्धवः सन्तर्पिताः प्रीणिताः ततः किम्?। तनुभृतां प्राणिनां तन्तुभिः शरीरैः कल्पं प्रलयकालं यावदित्यर्थः स्थितं प्राणिनः प्रलयपर्य्यन्तजीविन इत्यर्थः ततः किम्?। सर्वमेवालोकसारञ्च जगदिति भावः।
+
+ (३९) अस्त्रेति। अस्त्राणां ज्वालाभिः अवलीढ़ः ग्रस्तः यः प्रतिबलजलधिः प्रतिपक्षसैनिकनागरः तस्य अन्तः अभ्यन्तरे और्वायमाणे बड़वानले इवाचरति सर्वधन्वीश्वराणां सर्वेषां महाधनुर्धराणां गुरौ आचार्य्ये सेनानाथे मम पितरि अस्मिन् द्रोणे इति शेषः स्थिते वर्त्तमाने हे कर्ण! सम्भ्रमेण भयेन अलं भयं मा कुरु इत्यर्थः हे कृप! समरं सङ्ग्रामक्षेत्रं व्रज गच्छ, हे हार्दिक्य हृदिकनन्दन! कृतवर्मन्नित्यर्थः शङ्कां त्रासं मुञ्च त्यज, चापद्वितीये धनुर्धरे ताते पितरि रणधुरां सङ्ग्रामभारं वहति सति भयस्य अवकाशः अवसरः कः? नैव भयसम्भव इत्यर्थः।
+
+——————————————————————————————————
+
+ ख्यातिविरुद्धता \* यथा,—
+
+——————————————————————————————————
+
+\* "कवीनां समये ख्याते गुणः ख्यातविरुद्धता"। (विश्वनाथः।)
+
+ कविसमयख्यातानि च दर्पणे,—
+
+मालिन्यं व्योम्नि पापे यशसि धवलता वर्ण्यते हासकीर्त्त्यो रक्तौ च क्रोधरागौ सरिदुदधिगतं पङ्कजेन्दीधरादि।  
+तोयाधारेऽखिलेऽपि प्रसरति च मरालादिकः पक्षिसङ्घो ज्योत्स्ना पेया चकोरैर्जलधरदिवसे मानसं यान्ति हंसाः॥
+
+पादाघातादशोकं विकसति वकुलं योषितामास्यमद्यैर्यूनामङ्केषु हाराः स्फुटति च हृदयं विप्रयोगस्य तापैः।  
+मौर्वी रोलम्बमाला धनुरथ विशिखाः कौसुमाः पुष्पकेतोर्भिन्नं स्यादस्य वाणैर्युवजनहृदयं स्त्रीकटाक्षेण तद्वत्॥
+
+अह्य्नम्भोजं निशायां विकसति कुमुदं चन्द्रिका शुक्लपक्षे मेघध्वानेषु नृत्यं भवति च शिखिनां नाप्यशोके फलं स्यात्।  
+न स्याज्जाती वसन्ते न च कुसुमफले गन्धसारद्रुमाणामित्याद्युन्नेयमन्यत् कविसमयगतं सत्कवीनां प्रबन्धे"॥ (४0)
+
+——————————————————————————————————
+
+ (४०) मालिन्यमिति। व्योम्नि आकाशे पापे च मालिन्यं यशसि हासकीर्त्र्योश्च धवलता वर्यते आकाशं पापञ्च कृष्णवर्णं यशः कीर्त्तिर्हासश्च श्वेतवर्णो वर्णनीय इत्यर्थः क्रोधरागो कोपानुरागौ रक्तौ रक्तवर्णौ वर्ण्येते इति शेषः। पङ्कजेन्दोवरादि सरिदुदधि गतं नदीसमुद्रगतं वर्ण्यते इति शेषः। रोलम्बमाला भ्रमरश्रेणी। मौर्वी ज्या। विशिखाः शराः। पुष्पकेतोः कामस्य। चन्द्रिका शुक्लपक्षे वर्णनीयेति शेषः शिखिनां मयूराणां गन्धसारद्रुमाणां चन्दनतरूणाम्। अन्यत् सुगमम्।
+
+——————————————————————————————————
+
+ "ततश्चचार समरे शितशूलधरो \* हरिः"।
+
+ अत्र हरेः शूलं लोकेऽप्रसिद्धम्।
+
+ विधेर्विधेयस्य अनुवादः अप्राधान्येन निर्देशः, यथा,—
+
+ 'प्रयत्न परिबोधितः स्तुतिभिरद्य शेषे निशाम्' इत्यत्र शयितः प्रयत्नेन बोध्यसे इति विधेयम्।
+
+ रसदोषानाह,—
+
+**"रसस्योक्तिः स्वशब्देन स्थायिसञ्चारिणोरपि।  
+प्रतिकूलविभावादिग्रहो दीप्तिः पुनः पुनः॥**
+
+**अकाण्डे प्रथनच्छेदावङ्गस्याप्यतिविस्तृतिः।  
+अङ्गिनोऽननुसन्धानं प्रकृतीनां विपर्ययः॥"**
+
+**इत्यादिकाः सहृदयै रसे दोषाः प्रकीर्त्तिताः॥**
+
+ रसस्य स्वशब्देन रसेतिशब्देन हास्यादिशब्देन वाऽभिधानम्, स्थायिनां हासादीनां सञ्चारिणां निर्वेदादीनाञ्च स्वनाम्ना कथनं दोषः।
+
+ ≍प्रतिकूलानां विरुद्धानां विभावादीनां ग्रहो ग्रहणम्।
+
+ यथा, आदिमे निर्वेदादीनां शान्तसञ्चारिणां, वीरे च वैवर्ण्यत्रासादीनाम् भयानकस्यानुभावादीनां ग्रहणम्।
+
+ पुनः पुनदीप्तिर्यथा, कादम्बर्यां महाश्वेताविलापे।
+
+——————————————————————————————————
+
+ \* अत्र शूलशब्दस्य पर्य्यायान्तरेणोपादानेऽपि दोषस्यास्य सद्भाव इति प्रसिद्धहतत्वाद्भेदः।
+
+ ≍ "सञ्चार्य्यादेर्विरुद्धस्य बाध्यत्वेन वचो गुणाः"। विश्वनाथः।
+
+——————————————————————————————————
+
+ अकाण्डेऽनुचितेऽवसरे प्रथनं प्रकटनं, यथा वेण्यां द्वितीयेऽङ्के अनेकवीरसङ्क्षये प्रवृत्ते दुर्योधनस्य भानुमत्या प्रमोदवर्णनम्।
+
+ अकाण्डे छेदो यथा वीरचरिते राघवभार्गवयोर्दूराधिरूढे सङ्ग्रामे "कङ्कणमोचनाय गच्छामि" इति राघवस्योक्तिः।
+
+——————————————————————————————————
+
+ यथा,—
+
+"क्वाकार्य्यं शशलक्ष्मणः क्व च कुलं भूयोऽपि दृश्यते सा दोषाणां प्रशमाय मे श्रुतमहो कोपेऽपि कान्तं मुखम्।  
 किं वक्ष्यन्त्यपकल्मषाः कृतधियः स्वप्नेऽपि सा दुर्लभा  
-चेतः स्वास्थाप्रमुमेहि कः खलु युवा धन्यो, धरं धास्यति”।विक्र०
+चेतः स्वास्थ्यमुपेहि कः खलु युवा धन्योऽधरं धास्यति। (४१) विक्रमो॰
 
-  अत्रप्रशमाङ्गानां वितर्कमतिशङ्गाष्टतीनामभिलापाङ्गौत्सुक्यस्मृतिदैन्यचिन्नामिस्तिरस्कारः।
+ अत्र प्रथमाङ्गानां वितर्कमतिशङ्काधृतीनामभिलाषाङ्गौत्सुक्यस्मृतिदैन्यचिन्ताभिस्तिरस्कारः।
 
-**-------------------------------------------------------------------------**
+——————————————————————————————————
 
- अङ्गस्य अतिविस्तृतिः किरातार्जुनीये सुराङ्गनाविलासादिवर्णने। अङ्गिनोऽननुसन्धानं यथा रत्नावन्यां चतुर्थोऽङ्के वाभ्रव्यागमने सागरिकाया विस्मृतिः।
+ (३१) क्वाकार्य्यमिति। अकार्य्यं कुमार्गगमनमित्यर्थः क्व, शशलक्ष्मणः चन्द्रस्य कुलञ्च क्व? चन्द्रवंशोत्पन्नस्य मन आश्चर्यं न कथमपि युज्यते इति भावः, सा ऊर्वशो भूयोऽपि पुनरपि दृश्यते पुनस्तां द्रष्टुम् आश्चर्यामि किमित्यर्थः। मे मम श्रुतं ज्ञानं दोषाणां कुकार्य्याणां प्रशमाय शान्तये, अहो इति विषादे कामेऽपि मुखं तस्या इति शेषः कान्तं मनोहरम्। अपकल्मषाः निष्पापाः कृतधियः विद्वांसः किं वक्ष्यन्ति? ईदृशं मां दृष्ट्वा निन्दिष्यन्तीत्यर्थः सा स्वप्नेऽपि दुर्लभा प्रदर्शनीयेति यावत् हे चेतः चित्तं, स्वास्थ्यं धैर्यम् उपेहि अवलम्बस्व कः खलु धन्यो भाग्यवान् युवा अधरं तस्या इति शेषः धास्यति पास्यति।
 
- प्रकृतयो दिव्याः, अदिव्याः, दिव्यादिव्याश्च; तेषु च धीरोदात्तादयः; तत्र यो यथाभूतस्तस्यायथावर्णने प्रकृतिविपर्य्ययोदोषः, यथा रामस्य छद्मना बालिवधः यथा वा कुमारसम्भवेअष्टमे उत्तमदैवतयोः पार्व्वतीपरमेश्वरयोः सम्भोगवर्णनम्।उक्तानां दोषाणां केषाञ्चित् क्वचिददोषत्वं क्वचिद्गुणत्वञ्च। तच्चतत्तद्दोषोल्लेखस्थलेषु पबाधोभागे द्रष्टव्यम्।
+——————————————————————————————————
 
-**"अनुकरणे च सर्व्वेषां दोषाणां स्याददोषता"।**
+ अङ्गस्य अतिविस्तृतिः किरातार्जुनीये सुराङ्गनाविलासादिवर्णने।
 
-यथा — प्रलपत्येष वैधेयः 'स्कन्धस्ते यदि बाधति'।  
-अत्र बाधतीति दुष्टमप्यनुकरणत्वाद्दुष्टम्।  
+ अङ्गिनोऽननुसन्धानं यथा रत्नावल्यां चतुर्थेऽङ्के वाभ्रव्यागमने सागरिकाया विस्मृतिः।
 
-दोषविवेचनं नाम पञ्चमशिखा।
+ प्रकृतयो दिव्याः, अदिव्याः, दिव्यादिव्याश्च, तेषु च धीरोदात्तादयः, तत्र यो यथाभूतस्तस्यायथावर्णने प्रकृतिविपर्य्ययो दोषः, यथा रामस्य छद्मना बालिबधः, यथा वा कुमारसम्भवे अष्टमे उत्तमदैवतयोः पार्वतीपरमेश्वरयोः सम्भोगवर्णनम्।
 
-**षष्ठशिखा।  
-\_\_\_\_\_\_**
+ उक्तानां दोषाणां केषाञ्चित् क्वचिददोषत्वं क्वचिदगुणत्वञ्च। तच्च तत्तद्दोषोल्लेखस्थलेषु पत्राधोभागे द्रष्टव्यम्।
 
-  गुणस्वरूपमाह मम्मटः, —
+**"अनुकरणे च सर्वेषां दोषाणां स्याददोषता"।**
 
-**“ये रसस्याङ्गिनो धर्म्याःशौर्य्यादय इवात्मनः।  
+यथा,—प्रलपत्येष वैधेयः 'स्कन्धस्ते यदि बाधति'। (४२)
+
+ अत्र बाधतीति दुष्टमप्यनुकरणत्वादटुष्टम्।
+
+इति दोषविवेचनं नाम पञ्चमशिखा।
+
+——————————————————————————————————
+
+ (४२) प्रलपतीति एष वैधेयः मूर्खः प्रलपति वक्ति। अन्यत् स्पष्टम्।
+
+इति पञ्चमशिखा।
+
+——————————————————————————————————
+
+**षष्ठशिखा**  
+————
+
+ गुणस्वरूपनाह मम्मटः,—
+
+**"ये रसस्याङ्गिनो धर्म्माः शौर्य्यादय इवात्मनः।  
 उत्कर्षहेतवस्ते स्युरचलस्थितयो गुणाः"॥**
 
-  आत्मन एव हि यथा शौर्य्यादयः, नाकारस्य; तथा रसस्यैव माधुर्य्यादयो गुणाः न वर्णानाम्। अचलस्थितयो नियतावस्थानाः।
+ आत्मन एवं हि यथा शौर्य्यादयः, नाकारस्य, तथा रसस्यैव माधुर्य्यादयो गुणाः न वर्णानाम्। अचलस्थितयो नियतावस्थानाः।
 
-**“माधुर्यौजः प्रसादाख्यास्त्रयस्ते" समुदीरिताः।**
+**"माधुर्य्यौजः प्रसादाख्यास्त्रयस्ते" समुदीरिताः।**
 
-  माधुर्य्यलक्षणमुक्तं काव्यप्रकाशे,—
+ माधुर्यलक्षणमुक्तं काव्यप्रकाशे,—
 
-**“आह्लादकत्वं माधुर्य्यं” चित्तस्य “द्रुतिकारणम्”।  
-आह्लादकत्वमानन्दजनकत्वम्, द्रुतिर्गलितत्वमिव।  
-"करुणे विप्रलम्भे तत् शान्ते चातिशयान्वितम्”।**
+**"आह्लादकत्वं माधुर्य्यं" चित्तस्य "द्रुतिकारणम्"।**
 
-  अत्यन्तद्रुतिहेतुत्वादित्यर्थः।
+ आह्लादकत्वमानन्दजनकत्वम्, द्रुतिगलितत्वमिव।
 
-**"मूर्ध्नि वर्गान्त्यत्रर्णेन युक्ताष्टठडढान् विना।  
-रणौ लघू च तद्व्यक्तौ वर्णाःकारणतां गताः।  
-अवृत्तिरल्पवृत्तिर्वा मधुरा रचना तथा"॥ विश्व०**
+**"करुणे विप्रलम्भे तत् शान्ते चातिशयान्वितम्"।**
 
-   यथा, —
+ अत्यन्तद्रुतिहेतुत्वादित्यर्थः।
 
-"तदिदं क्रियतामनन्तरं भवता बन्धुजनप्रयोजनम्।  
-विधुरांज्वलनातिमर्ज्जनान्ननुमां प्रापय पन्युरन्तकम्”। कु० स०
+**"मूर्द्ध्नि वर्गान्त्यवर्णेन युक्ताष्टठडढान् विना।  
+रणौ लघू च तद्व्यक्तौ वर्णाः कारणतां गताः।  
+अवृत्तिरल्पवृत्तिर्वा मधुरा रचना तथा"॥ (१) (विश्वनाथः)**
 
-ओजःस्वरूपं तद्व्यञ्जकंवर्णादिकञ्चाह विश्वनाथः, —
+——————————————————————————————————
 
-**“ओजश्चित्तस्य विस्ताररूपं दीप्तत्वमुच्यते॥  
-वीरबीभत्सरौद्रेषु क्रमेणाधिक्यमस्य तु"॥  
-“वर्गस्याद्यतृतीयाभ्यां युक्तौ वर्णौतदन्तिमौ।  
-उपर्य्यधोद्वयोर्वासरेफाष्टठडढैः सह॥  
-शकारश्चषकारश्चतस्य व्यञ्जकतां गताः।  
-तथा समासबहुला घटनौड्वत्यशालिनी”॥**
+  (१) मूर्द्ध्नीति। मूर्द्ध्नि शिरसि वर्गस्य अन्त्यवर्णेन शेषवर्णेन युक्ताः ङ्क ञ्च प्रभृतय इत्यर्थः ट ठ ड ढान् विना टादिव्यतिरिक्ता
 
-यथा, —
+——————————————————————————————————
 
-“चञ्चङ्गुजम्भ्रमितचण्डगदाभिषात-  
-सञ्चूर्णितोरुयुगलस्य सुयोधनस्य।  
-स्त्यानावनद्धघमशोणित शोणपाणि-  
-रुत्तंसविष्यति कचांस्तव देवि ! भीमः"॥वेणीस.
+ यथा,—
 
-प्रसादस्वरूपं तद्व्यञ्जकान्वर्णांश्चाह स एव —
+**"तदिदं क्रियतामनन्तरं भवता बन्धुजनप्रयोजनम्।  
+विधुरां ज्वलनातिसर्जनान्ननु मां प्रापय पत्युरन्तिकम्"॥(२) कु॰स॰।**
 
-**“चित्तं व्याप्नोति यः क्षिप्रं शुष्केन्धनमिवानलः।  
+ ओजःस्वरूपं तद्व्यञ्जकं वर्णादिकञ्चाह विश्वनाथः,—
+
+**"ओजश्चित्तस्य विस्ताररूपं दीप्तत्वमुच्यते॥  
+वीरबीभत्सरौद्रेषु क्रमेणाधिक्यमस्य तु"॥**
+
+**"वर्गस्याद्यतृतीयाभ्यां युक्तौ वर्णौ तदन्तिमौ।  
+उपर्य्यधोद्वयोर्वा सरेफाष्टठडढैः सह॥**
+
+**शकारश्च षकारश्च तस्य व्यञ्जकतां गताः।  
+तथा समासबहुला घटनौद्धत्यशालिनी"॥ (३)**
+
+——————————————————————————————————
+
+इत्यर्थः लघू दीर्घस्वरायुक्तौ रणौ च रकारो णकाराश्च वर्णाः तद्व्यक्तौ तस्य माधुर्य्यस्य व्यक्तौ प्रकटने कारणतां हेतुतां गताः हेतवो भवन्तीत्यर्थः तथा अवृत्तिः असमस्ता अल्पवृत्तिर्वा अल्पसमस्ता वा मधुरा मनोहारिणी रचना तद्व्यक्तौ कारणतां गतेति शेषः।
+
+ (२) तदिति। कामविरहिण्या रतेर्वसन्तं प्रति विलापोक्तिरियम्। हे वसन्त! तत् तस्मात् भवता दृढम् अनन्तरम् अतःपरकरणीयं बन्धुजनप्रयोजनं मित्रकृत्यं क्रियताम् अनुदीयतां किं तदित्याह विधुरानिति ननु सखे! विधुरां कातरां मां ज्वलनातिसर्जनात् अग्निप्रदानात् पत्युरन्तिकं स्वामिसन्निधिं प्रापय नय।
+
+ (३) ओज इति। चित्तस्य मनसः विस्ताररूपं दीप्तत्वं ज्वलितत्वम् ओजः उच्यते वीरबीभत्सरौद्रेषु अस्य ओजसः क्रमेण आधिक्यं वीररसे ओजः, बीभत्सरसे ततोऽपि अधिकमोजः रौद्रे तु ततोऽपि अधिकमित्यर्थः। वर्गस्य आद्यतृतीयाभ्यां क ग च ज ट ड त द पञ्चैरित्यर्थः
+
+——————————————————————————————————
+
+यथा,—
+
+**"चञ्चद्भुजभ्रमितचण्डगदाभिघातसञ्चूर्णितोरुयुगलस्य सुयोधनस्य।  
+स्त्यानावनद्धघनशोणितशोणपाणिरुत्तं सयिष्यति कचांस्तव देवि! भीमः"। (४) वेणीस॰।**
+
+ प्रसादस्वरूपं तद्व्यञ्जकान् वर्णांश्चाह स एव,—
+
+**"चित्तं व्याप्नोति यः क्षिप्रं शुष्केन्धनमिवानलः।  
 स प्रसादः समस्तेषु रसेषु रचनासु च।  
-शब्दास्तद्द्व्यञ्जका अर्थबोधकाः श्रुतिमात्रतः”॥**
+शब्दास्तद्व्यञ्जका अर्थबोधकाः श्रुतिमात्रतः"॥**
 
-यथा, —
+ यथा,—
 
-“टहिणी सचिवः सखी मिथः प्रियशिष्या ललिते कलाविधौ।  
- करुणाविसुखेनमृत्युनाहरता त्वां वद किं न मे हृतम्”। रघु ०
+————————————————————————————————————————
 
-इत्यादिकं कालिदासग्रन्थेषु रामायणेच बाहुल्येन द्रष्टव्यम्।
+युक्तौ तदन्तिमौ तयोराद्यतृतीययोः कगादीनामित्यर्थः अन्तिमौ परवर्त्तिनौ ख घ छ झ ठ ढ थ ध भा इत्यर्थः वर्णो यथा क्ख ग्घ इत्यादयः तथा उपरि अधः द्वयोर्वा उपर्य्यध इत्यर्थः सरेफाः रेफसहिता यथा अर्क अग्र आर्द्र इत्यादयः टठडढैः सह टादिसहिता इत्यर्थः शकारश्च षकारश्च एते वर्णाः तस्य ओजसः व्यञ्जकतां प्रकाशकत्वं गताः। तथा समासबहुला बहुसमस्तपदा औद्धत्यशालिनी उत्कटा घटना रचना पदविन्यासः तस्य व्यञ्जकतां गतेति शेषः।
 
-**"एषां शब्दगुणत्वञ्च गुणवृत्त्योच्यते बुधैः”।**
+ (४) चञ्चदिति। पाञ्चालीं प्रति युधिष्ठिरस्योक्तिरियम्। हे देवि! भीमः चञ्चद्भ्यां चलद्भ्यां भुजाभ्यां भ्रमिता घूर्णिता या चण्डगदा तथा अभिघातेन प्रहारेण सञ्चूर्णितम् ऊरुयुगलं यस्य तथाभूतस्य सुयोधनस्य स्त्यानेन विस्तृतेन अवनद्धेन संलिप्तेन घनेन गाढे़न शोणः रक्तः पाणिर्यस्य तादृशः सन् तव कचान् केशान् उत्तं सयिष्यति सं यंस्यति।
 
-गुणवृत्त्या परम्परया।
+—————————————————————————————————————————
 
-गुणविवेको नाम षष्ठशिखा।
+**"गृहिणी सचिवः सखी मिथः प्रियशिष्या ललिते कलाविधौ।  
+करुणाविमुखेन मृत्युना हरता त्वां वद किं न मे हृतम्"॥ (५) रघु॰।**
 
-**सप्तमशिखा।  
-\_\_\_\_\_\_\_\_\_\_**
+ इत्यादिकं कालिदासग्रन्थेषु रामायणे च बाहुल्येन द्रष्टव्यम्।
 
-रीतिस्वरूपं तद्भेदांश्चाह, —
+**"एषां शब्दगुणत्वञ्च गुणवृत्योच्यते बुधैः"।**
 
-**“अस्त्यनेको गिरां मार्गः सूक्ष्मभेदः परस्परम्।  
-तत्र वैदर्भगौड़ीयौ वर्ण्येतेप्रस्फुटान्तरौ”॥ दण्डी**
+ गुणवृत्या परम्परया।
 
-प्रस्फुटान्तरौ स्फुटप्रतीयमानभेदौ। मार्गः रीति, साचपदविन्यासप्रणालीरूपा। यथाह विश्वनाथः, —
+इति गुणविवेको नाम षष्ठशिखा ।
 
-**“पदसङ्घट्टना रीतिरङ्गसंस्थाविशेषवन्”।**
+———————
 
-वैदर्भीस्वरूपमाह स एव,—
+**सप्तम शिखा।**
 
-**“माधुर्य्यव्यञ्ञ्जकैर्वर्णैरचना ललितात्मिका।  
-अवृत्तिरल्पवृत्तिर्वावैदर्भी रीतिरिष्यते"॥**
+——————
 
-ललितात्मिका मधुरस्वरूपा, वृत्तिः समासः, यथा, "तदिदंक्रियताम्" ( पृ. ४०) इत्यादि पूर्वमुक्तम्,—
+ रीतिस्वरूपं तत्भेदांश्चाह—
 
-**"ओजः प्रकाशकैर्बन्ध आडम्बरः पुनः।  
-समासबहुला गौडी” दर्पणे समुदीरिता॥**
+**"अस्त्यनेको गिरां मार्गः सूक्ष्मभेदः परस्परम्।  
+तत्र वैदर्भगौड़ीयौ वर्ण्येते प्रस्फुटान्तरौ॥ दण्डी।**
 
-वन्धः रचना; आडम्बरः गाढ़ः। यथा, —  
-'चञ्चद्भुजभ्रमित' इत्यादि (इ० ५०) पूर्वमुक्तम्।
+—————————————————————————————————————————
 
-रीतिविवेचनं नाम सप्तमशिखा।
+ (५) गृहिणीति। इन्दुमतीविरहे अजस्य राज्ञ प्रलापवचनमिदम्। हे प्रिये! त्वं मम गृहिणी गृहस्वामिनी सचिवः मन्त्री मिथः एकान्ते सखी सहचारिणी तथा ललिते मनोज्ञे ललितं त्रिषु सुन्दरमिति कोषः कलाविधौ नृत्यगीतादिव्यापारे प्रियशिष्या अतः त्वां हरता करुणाविमुखेन निर्दयेन मृत्युना अन्तकेन मे मम किं न हृतं वद, सर्वमेव गृहिण्यादिकं हृतमित्यर्थः।
 
-**अष्टमशिखा।  
-\_\_\_\_\_\_\_\_**
+इति षष्ठशिखा।
 
-  अलङ्कारस्वरूपमाह, —
+—————
 
-**"काव्यशोभाकरान् धर्मानलङ्कारान् प्रचक्षते"।** दण्डी
+—————————————————————————————————————————
 
-  ते च द्विविधाः, शब्दगताः अर्थगताश्च।शब्दगताः अनुप्रासयमकादयः । तत्र, —
+ प्रस्फुटान्तरौ स्फुटप्रतीयमानभेदौ। मार्गः रीतिः, सा च पदविन्यासप्रणालीरूपा। यथाह विश्वनाथः,—
 
-**"अनुप्रासः शब्दसाम्यं वैषम्येऽपि स्वरस्य यत्”।**
+**"पदसङ्घट्टना रीतिरङ्गसंस्थाविशेषवत्'। (१)**
 
-  स्वरवैसादृश्येऽपि व्यञ्जनमात्रसादृश्यम्अनुप्रासः, स च रमानुगुणो वर्णानां प्रकर्षेण न्यासः। यथा, —
+ वैदर्भीस्वरूपमाह स एव—
 
-"लताकुञ्जंगुञ्जन्मदवदलिपुञ्जंचपलयम्  
-समालिङ्गनङ्गंद्रुततरमनङ्गं प्रबलयन्।  
-मरुन्मन्दं मन्दं दलितमरविन्दं तरलयम्  
-रजोवृन्द' विन्दन् किरति मकरन्दं दिशि दिशि॥ विश्वः
+**"माधुर्य्यव्यञ्जकैर्वर्णैरचना ललितात्मिका।  
+अवृत्तिरल्पवृत्तिर्वा वैदर्भी रीतिरिष्यते"॥**
+
+ ललितात्मिका मधुरस्वरूपा, वृत्तिः समासः, यथा, "तदिदं क्रियताम्" (पृ॰ ८२) इत्यादि पूर्वमुक्तम्,—
+
+**"ओजः प्रकाशकैर्वर्णैर्बन्ध आड़म्बरः पुनः।  
+समासबहुला गौड़ी" दर्पणे समुदीरिता"॥**
+
+ बन्धः रचना, आडम्बरः गाढ़ः। यथा,—'चञ्चद्भुजभ्रमित' इत्यादि ( पृ॰ ८३) पूर्वमुक्तम्।
+
+इति रीतिविवेचनं नाम सप्तमशिखा।
+
+—————————————————————————————————————————
+
+ (१) पदेति। पदानां सुप्तिङन्तानां सङ्घट्टना संयोजना सम्यक् विन्यास इत्यर्थः। अङ्गानाम् अवयवानां संस्थाविशेषवत् यथास्थानविन्यासवत् रीतिः प्रणाली।
+
+इति सप्तमशिखा।  
+————
+
+—————————————————————————————————————————
+
+**अष्टमशिखा।**  
+**—————**
+
+ अलङ्कारस्वरूपमाह,—
+
+**"काव्यशोभाकरान् धर्म्मानलङ्कारान् प्रचक्षते"। दण्डी।**
+
+ ते च द्विविधाः, शब्दगताः अर्थगताश्च। शब्दगताः अनुप्रासयमकादयः। तत्र,—
+
+**"अनुप्रासः शब्दसाम्यं वैषम्येऽपि स्वरस्य यत्"।**
+
+ स्वरवैसादृश्ये ऽपि व्यञ्जनमात्रसादृश्यम् अनुप्रासः, स च रसानुगुणो वर्णानां प्रकर्षेण न्यासः। यथा,—
+
+**"लताकुञ्जं गुञ्जन्मदवदलिपुञ्जं चपलयन् मालिङ्गन्नङ्गं द्रुततरमनङ्गं प्रवलयन्।  
+मरुन्मन्दं मन्दं दलितमरविन्दं तरलयन् रजोवृन्दं विन्दन् किरति मकरन्दं दिशि दिशि"॥ (१) विश्वनाथः।**
+
+—————————————————————————————————————————
+
+ (१) लतेति। गुञ्जन्तः गुणगुणध्वनिं कुर्वन्तः मदवन्तः सोल्लासा अलीनां भ्रमराणां पुञ्जा यस्मिन् तादृशं लताकुञ्जं व्रततीमण्डलं चपलयन् कम्पयन् अङ्गं शरीरं प्राणिनामिति शेषः समालिङ्गन् संस्पृशन् द्रुततरं सद्यः अनङ्गं मदनं प्रबलयन् वर्द्धयन् दलितं विकसितम् अरविन्दं कमलं तरलयन् चञ्चलीकुर्वन् रजोवृन्दं रजसां परागाणां वृन्दं चयं विन्दन् लभमानः सन् मरुत् वायुः दिशि दिशि
+
+—————————————————————————————————————————
 
 **"सत्यर्थे पृथगर्थायाः स्वरव्यञ्जनसंहतेः।  
-क्रमेण तेनैवावृत्तिर्यमकं विनिगद्यते”॥ विश्वनाथः।**
+क्रमेण तेनैवावृत्तिर्यमकं विनिगद्यते"॥ (२) विश्वनाथः।**
 
- अत्र द्वयोरपि वर्णसङ्घातयोः क्वचित् सार्थकत्वं क्वचिन्निरर्थकत्वं क्वचिदेकस्य सार्थकत्वमपरस्य निरर्थकत्वमत उक्त 'मत्यर्थे'इति, तेनैव क्रमेणेति 'दमोमोद' इत्यादेर्विविक्तविषयत्वम्।एतच्च पदपादाद्यावृत्तित्वेन प्रभूततमभेदम्।दिङ्मात्रमुदाह्रियते, —
+ अत्र द्वयोरपि वर्णसङ्घातयोः क्वचित् सार्थकत्वं क्वचिन्निरर्थकत्वं क्वचिदेकस्य सार्थकत्वमपरस्य निरर्थकत्वमत उक्तं 'सत्यर्थे' इति, तेनैव क्रमेणेति 'दमोमोद' इत्यादेर्विविक्तविषयत्वम् (३)। एतच्च पदपादाद्यावृत्तित्वेन प्रभूततमभेदम् (४)। दिङ्मात्र(५)मुदाह्रियते,—
 
-"नवपलाशपलाशवनं पुरः स्फुटपरागपरागतपङ्कजम्।  
-मृदुलतान्तलतान्तमलोकयत् स सुरभिं सुरभिं सुमनोहरैः"॥माघः
+**"नवपलाशपलाशवनं पुरः स्फुटपरागपरागतपङ्कजम्।  
+मृदुलतान्तलतान्तमलोकयत् स सुरभिं सुरभिं सुमनोभरैः"॥ (६) माघः।**
 
-**प्रथमे पादे द्वयोरपि, द्वितीये प्रथमस्यैव, तृतीये च द्वितीयस्यैव सार्थकत्वम्, चतुर्थे द्वयोरपि ‘रभिंसु' इत्येतयोर्निरर्थकत्वम्।**
+—————————————————————————————————————————
 
-**"शिष्टैःपदैरनेकार्थाभिधाने श्लेष इष्यते”। विश्वः**  
-स चवर्णप्रत्ययप्रकृतिपदादिश्लेषाद्द्बहुविधः। यथा, —
+मकरन्दं पुष्परसं किरति वर्षति। वसन्तवर्णनमिदम्। अत्र प्रथमे पादे ञ्ज इति द्वितीये पादे ङ्ग इति तृतीये चतुर्थे च पादे न्द इति व्यञ्जनसङ्घानां पुनः पुनरावृत्तिः।
 
-“प्रतिकूलतामुपगते हि विधौ विफलत्वमेति बहुसाधनता।  
-अवलम्बनाय दिनभर्त्तुमुपगतेपतिष्यतः करमहलमपि"॥ माघः
+ (२) सतीति। अर्थे सति विद्यमाने पृथगर्थायाः भिन्नार्थायाः स्वरव्यञ्जनसंहतेः तेनैव क्रमेण पूर्वावृत्तक्रमेणेत्यर्थः आवृत्तिः पुनःपुनरुच्चारणं यमकं विनिगद्यते कथ्यते।
 
-**  अत्र विधावित्यत्र विधुविधिशब्दयोरुकारेकारयोरौकाररूपत्वाद् वर्णश्लेषः, करेत्यत्र प्रकृतिश्लेषोऽपि।**
+ (३) विविक्तविषयत्वं विभिन्नविषयत्वम्।
 
-"पृथुकार्त्तस्वरपात्रंभूषितनिःशेष परिजनं देव !।  
-विलसत्करेणुगहनं सम्मति समभावयोः सदनम्”॥
+ (४) प्रभूततमभेदं बहुतरप्रकारम्।
 
-**  अत्र पदश्लेषः**
+ (५) दिङ्मात्रं प्रदर्शनमात्रमित्यर्थः।
 
- अर्थालङ्काराः स्वभावोक्तिरुपमादयच्च। तत्र स्वभावोक्तेर्वस्तुस्वभाववर्णनस्वरूपत्वात् स्वभाववर्णनञ्च वस्तूनां प्रकृतञ्चेत्तत-हस्तूनि प्रत्यक्षमिव दर्शयिता सहृदयमनांसि नितरामाकर्षतीति तस्या अतीव चमत्कारित्वात्तामेव प्रथममाह।
+ (६) नवेति। राजसूये निमन्त्रितस्य इन्द्रप्रस्थं गच्छतः कृष्णस्य पथि वसन्ताविर्भावदर्शनवर्णनमिदम्। स कृष्णः पुरः अग्रतः नवानि पलाशानि पत्राणि यत्र तादृशं पलाशवनं किंशुककाननं यस्मिन्
 
-**"स्वभावोक्तिरसौ चारु यथावद्वस्तुवर्णनम्"।**
+—————————————————————————————————————————
 
-  यथा अभिज्ञानशकुन्तले,—
+ प्रथमे पादे द्वयोरपि द्वितीये प्रथमस्यैव, तृतीये च द्वितीयस्यैव सार्थकत्वम्, चतुर्थे द्वयोरपि 'रभिंसु' इत्येतयोर्निरर्थकत्वम्।
 
-"ग्राीवाभङ्गाभिरामं मुजरनुपतति स्यन्दने दत्तदृष्टिः  
-पश्चार्धेनप्रविष्टः शरपतनभयाद्भयमासर्वकायम्।
+**"श्लिष्टैः पदैरनेकार्थाभिधाने श्लेष इष्यते"। (७) विश्वनाथः।**
 
-शष्येैरर्द्धालीढैः त्रयविवृततुक्षभ्रंशिभिः कीर्णवर्त्मा  
-पश्योपप्लुतत्वाद्वियतिबहुतरं स्तोकसुर्वप्रांप्रयाति"॥
+ स च वर्णप्रत्ययप्रकृतिपदादिश्लेषाद् बहुविधः यथा,—
 
- **यथा वा तत्रैव पञ्चमाङ्कादौ कञ्चुकिनो जरावर्णनम्। तत्रैवच सप्तमे नृपशिशोः सिंहशावकास्कन्दनविक्रान्तिवर्णनम्।  
-उपमास्वरूपमुक्तमादर्थे—**
+**"प्रतिकूलतामुपगते हि विधौ विफलत्वमेति बहुसाधनता।  
+अवलम्बनाय दिनभर्त्तुरभून्न पतिष्यतः करसहस्रमपि"॥ (८) माघः।**
 
-**"प्रस्फुटं सुन्दरं साम्यमुपमेत्यभिधीयते”।**
+——————————————————————————————————
 
- प्रस्फुटमिति रूपकादेर्गम्यसाम्याद्भेदाय, सुन्दरं वैचित्यजनकं,तेन "गौरिव गवयः" इत्यत्र नायमलङ्कारः, साम्यं सादृश्यम्।साम्यञ्च क्रियागतं, गुणगतम्, उभयगतञ्चेति त्रिविधम्।  
-क्रमेणोदाहरणानि, तत्र क्रियागतं यथा, —
+तथोक्तं स्फुटैः प्रचुरैः परागैः रजोभिः परागतानि व्याप्तानि पङ्कजानि पद्मानि यस्मिन् तथाविधं मृदुलाभिः कोमलाभिः तान्ताभिः मल्लवकुसुमभरेणावनताभिः लताभिः वल्लीभिः अन्तं रम्यं तथा सुमनसां पुष्पाणां भरैः समूहैः सुरभिं सुगन्धं सुरभिं वसन्तम् अलोकयत् अपश्यत्।
 
-“क्षणात् प्रबोधमायाति लङ्घयते तमसा पुनः।  
-निर्मास्यतः प्रदीपस्य शिखेब जरतो मतिः”॥ ज०म०
+ (७) श्लिष्टैरिति। श्लिष्टैः नानार्थैः पदैः सुबन्ततिङन्तरूपैः अनेकानां बहूनाम् अर्थानाम् अभिधाने अभिधया प्रतिपादने श्लेष इष्यते अभिधया बह्वर्थप्रतिपादनमेव श्लेष इति फलितम्।
 
-** अत्र 'आयाति' 'लङ्घ्यते' इति च क्रियापदस्य उपमेयेउपमाने च साम्यम्।**  
-**गुणगतं यथा, —**
+ (८) प्रतिकूलतामिति। सूर्यास्तवर्णनमिदम्। विधौ विधातरि चन्द्रे च प्रतिकूलतां विरोधिताम् उदयोन्मुखत्वञ्च उपगते प्राप्ते सति बहुसाधनता विविधोपायवत्त्वं विफलत्वं वैफल्यम् एति प्राप्नोति। हि तथाहि पतिष्यतः अस्तं गमिष्यत इति यावत् दिनभर्त्तुः सूर्य्यस्य कराणां किरणानां हस्तानाञ्च वलिहस्तांशवः करा इत्यमरः सहस्रमपि अवलम्बनाय आश्रयाय पतनप्रतिबन्धायेति यावत् न अभूत्। विधिर्विधाने दैवे चेति विधुः सुधांशुः शुभ्रांशुरिति चामरः।
 
-"हरस्तु किञ्चित् परिलुप्तधैर्य चन्द्रोदयारम्भ इवाम्बुराशिः।  
-उमामुखे बिम्बफलाधरोष्ठे व्यापारायामास विलोचनानि"**॥**कु० स०  
-**अत्र परिसुप्तधैर्यत्वं गुण उभयत्रापि समानः।**
+——————————————————————————————————
 
-**उभयगतं यथा—**
+ अत्र विधावित्यत्र विधुविधिशब्दयोरुकारेकारयोरौकाररूपत्वाद् वर्णश्लेषः, करेत्यत्र प्रकृतिश्लेषोऽपि।
 
-"हृपयति हृदयेशं स्नेहनिष्यन्दिनी ते  
-धबलवहलमुग्धा दुग्धकुल्येच दृष्टिः"।उत्तरच०।
+**"पृथुकार्त्तस्वरपात्रं भूषितनिःशेषपरिजनं देव!।  
+विलसत्करेणुगहनं सम्प्रति समभावयोः सदनम्"॥ (९)**
 
-  अत्र स्नपयतीति क्रियासाम्यं 'स्नेहनिष्यन्दिनी धवलबहलमुग्धा'इति गुणसादृश्यञ्च।
+ अत्र पदश्लेषः।
 
-**"मालोपमा यदेकस्योपमानं बहु दृश्यते”।** विश्व०। 
+ अर्थालङ्काराः स्वभावोक्तिरुपमादयश्च। तत्र स्वभावोक्तेर्वस्तुस्वभाववर्णनस्वरूपत्वात् स्वभाववर्णनञ्च वस्तूनां प्रकृतञ्चेत्तद्वस्तुनि प्रत्यक्षमिव दर्शयित्वा सहृदयमनांसि नितरामाकर्षतीति तस्या अतीव चमत्कारित्वात्तामेव प्रथममाह।
 
-यथा, —
+**"स्वभावोक्तिरसौ चारु यथावद्वस्तुवर्णनम्"। (१०)**
 
-"प्रभामहत्या शिखयेव दोषन्त्रिभार्गयेव लिदिवस्य मार्गः।  
-संस्कारवत्येव गिरा मनीषी तया स प्रतत्र विभूषितञ्च"॥
+————————————————————————————————————————————
 
-**“तद्रूपकमभेदो य उपमानोपमेययोः" मम्मटः।**
+ (९) पृथ्विति। राजानं प्रति कस्यचिद् भिक्षोरुक्तिः। हे देव! सम्प्रति आवयोः तव मम चेत्यर्थः सदनं गृहं पृथुकार्त्तस्वरपात्रं भूषितनिःशेषपरिजनं तथा विलसत्करेणुगहनम् अतएव समं तुल्यम्। अर्थस्तु पृथूनि बहूनि कार्त्तस्वरपात्राणि सौवर्णभाजनानि यस्मिन् तत् अन्यत्र पृथुकानां शिशूनां पृथुकः शावकः शिशुरित्यमरः आर्त्तस्वरस्य आहाराभावेन कातरवस्य पात्रं स्थानम्। भूषिताः अलङ्कृताः निःशेषाः समस्ताः परिजनाः परिवारा यस्मिन् तथाविधम् अन्यत्र भुवि भूतले शय्यादिरहिते इति भावः उषिताः स्थिताः निःशेषाः परिजना यस्मिन् तथाविधम्। विलसद्भिः विलसन्तीभिश्च करेणुभिः हस्तिभिः हस्तिनीभिश्च करेणुरिभ्यां स्त्रीनेभे इत्यमरः। गहनं निविड़ं पूर्णमित्यर्थः अन्यत्र विलेषु गर्तेषु सीदन्तीति विलसदोमूषिकाः तेषां रेणुभिः रजोभिः गहनं पूर्णम्।
 
-  उपमानं चन्द्रादि, उपमेयं मुखादि। प्रकाशितविभिन्नस्वरूपयोरपिउपमानोपमेययो-रतिसाम्यप्रदर्शनाय काल्पनिकोऽभेदारोपो रूपकमित्यर्थः। यथा,—
+ (१०) स्वभावोक्तिरिति। चारु मनोज्ञं सहृदयहृदयरञ्जनमित्यर्थः यथावत् यथास्थितं वस्तुनः; विषयस्य वर्णनम् असौ स्वभावोक्तिः।
 
-“पर्याप्तपुष्पस्तवकस्तनाभ्यः स्फुरत्मवालोठमनोहराभ्यः।  
-लभावधूभ्यस्तरवोऽप्य वार्विनमुशाखाभुङबन्धनामि”॥ कु० स०
+————————————————————————————————————————————
 
-  अत्र लतासु बधूनां पुष्पस्तवकादिषु च स्तनादीनामभेदारोपः।
+ यथा अभिज्ञानशकुन्तले
 
-**“सम्भावनमथोत्प्रेक्षा प्रकृतस्य समेन यत्"।काव्यप्र०।**
+**"ग्रीवाभङ्गाभिरामं मुहुरनुपतति स्यन्दने दत्तदृष्टिः पश्चार्द्धेन प्रविष्टः शरपतनभयाद्भूयसा पूर्वकायम्।  
+शष्पैरर्द्धावलीढै़ः श्रमविवृतमुखभ्रंशिभिः कीर्णवर्त्मा पश्योदग्रप्लुतत्वाद्वियति बहुतरं स्तोकमुर्व्यां प्रयाति"॥ (११)**
 
-  प्रकृतस्य उपमेयस्य समेन उपमानेन। सम्भावनञ्चउत्कटकोटिकः संशयः,
-प्रस्तुत-कोटेरुत्कटत्वञ्च प्रस्तुतकोटेनि-र्गरणेनजायते, निगरणञ्च प्रस्तुतस्य क्वचिदनुपादानेन क्वचिदुपात्तस्याप्यधःकरणेन भवति। यदुक्तम्,—
+ यथा वा तत्रैव पञ्चमाङ्कादौ कञ्चुकिनो जरावर्णनम्। तत्रैव च सप्तमे नृपशिशोः सिंहशावकास्कन्दनविक्रान्तिवर्णनम्। उपमास्वरूपमुक्तमादर्शे,—
 
-**"विषयस्यानुपादानेऽप्युपादाने च सूग्यः।  
-अधःकरणमात्रेण निगीर्णत्वं प्रचक्षते"॥**
+**"प्रस्फुटं सुन्दरं साम्यमुपमेत्यभिधीयते"। (१२)**
 
-**विषयः प्रस्तुतम् । क्रमेणोदाहरणम् —**
+ प्रस्फुटमिति रूपकादेर्गम्यसाम्याद्भेदाय, सुन्दरं वैचित्र्यजनकं, तेन "गौरिव गवयः" इत्यत्र नायमलङ्कारः, साम्यं सादृश्यम्। साम्यञ्च क्रियागतं, गुणगतम्, उभयगतञ्चेति त्रिविधम्।
 
-"लिम्पतीव तमोऽङ्गानि वर्धतीवालनं नमः।  
-व्यसत्पुरुषसेवेव दृष्टिर्विफलतां गताः"॥ मृच्छ०
+  क्रमेणोदाहरणानि, तत्र क्रियागतं यथा,—
 
-**अत्रतमसः प्रसरसम्पातादिरूपो विषयो नोपात्तः।**
+———————————————————————————————————
 
-“समयः स वर्त्तत दुवैष यत्र मां समनन्दयत् सुमुखि गौतमार्पितः।  
-अयमागृहीतकमनीयकङ्कःणस्तव मूर्त्तिमानिव महोत्सवः करः"॥ उ० च०
+ (११) ग्रीवेति। अयं मृग इति पूर्वेणान्वयः। अनुपतति अनुगच्छति स्यन्दने रथे ग्रीवाभङ्गाभिरामं ग्रीवाया भङ्गेन अभिरामं मनोज्ञं यथा तथा मुहुः पुनः पुनः दत्तदृष्टिः दृष्टिं ददत् शरस्य पतनभयात् पश्चार्द्धेन देहस्य पश्चिमभागेन भूयसा बाहुल्येन पूर्वकायं प्रविष्टः तथा अर्द्धावलीढै़ः अर्द्धजग्धैः अतएव श्रमेण विष्टतात् प्रकटितात् सुखात् भ्रंशन्नीति तथोक्तैः शष्पैः बालतृणैः कीर्णवर्त्मा आच्छादितपथः सन् उदग्रप्लुतत्वात् अतिप्लुतगतित्वात् वियति आकाशे बहुतरम् अत्यन्तं तथा उर्व्यां पृथिव्यां स्तोकमल्पं प्रयाति धावति पश्य अवलोकय।
 
- अत्र विषयःकर उपात्तोऽपि मूर्त्तिमन्महोत्सवरूपेणाधःकृतः।
+ (१२) प्रस्फुटमिति। प्रस्फुटं सुव्यक्तम्। अन्यत् स्पष्टम्।
 
-**"मन्ये शङ्खे ध्रुवं प्रायो नूनमित्येवमादिभिः।  
-उत्प्रेक्षा व्यज्यते शब्दैरिवशब्दोऽपि तादृशः”॥** दण्डी
+———————————————————————————————————————————
 
-मन्येप्रभृतयः शब्दा उत्प्रेक्षाव्यञ्जकाः।
+**"क्षणात् प्रबोधमायाति लङ्घ्यते तमसा पुनः।  
+निर्वास्यतः प्रदीपस्य शिखेव जरतो मतिः"॥ (१३) अ॰ श॰**
 
-**"सिद्धत्वेऽध्यवसायस्यातिशयोक्तिनिर्गद्यते”।** विश्व०।
+ अत्र 'आयाति' 'लङ्घ्यते' इति च क्रियाद्वयस्य उपमेये उपमाने च साम्यम्।
 
-प्रकृतस्य निगरणेनाभेदज्ञानमप्रकृतस्य अध्यवसायः तस्यच उत्प्रेक्षायामप्रस्तुतस्यानिश्चितत्वेन निर्देशात् साध्यत्वम् इह तुनिश्चितत्वेनैव प्रतीतिरिति सिद्धत्वमित्यनयोर्भेदः। निगरनञ्च उभयत्रापि समानमेव। यथा,—
+ गुणगतं यथा,—
 
-"वाकालजलदावली किरतु नाम मुक्नावली-  
-रपर्वणि विधुन्त दस्तुदत हन्त शीतदुतम्।  
-इदन्त महदद्भुतं यदनपायिविता-  
-वलम्बिकनकाच लड्यमधोमुखं लम्बते”।
+**"हरस्तु किञ्चित परिलुप्तधैर्य्यश्चन्द्रोदयारम्भ इवाम्बुराशिः।  
+उमामुखे विम्बफलाधरोष्ठे व्यापारयामास विलोचनानि"॥ (१४) कु॰स॰।**
 
-  अत्रकेशादेर्जलदावल्यादिरूपेनाध्यवसानम्।यथा वा —
+ अत्र परिलुप्तधैर्य्यत्वं गुण उभयत्रापि समानः।
 
-\*दृष्टिस्तृतीतन्त्रकतमतयसवारा  
-धीरोद्धतानमवतीब गतिर्धरित्वीम्।  
-कौमारकेऽपि गिरिषद्गुरुतान्द धानो  
-वीरो रसः किमयमेतदर्प एषः"॥उ० च०
+ उभयगतं यथा,—
 
- अत्रकुशस्य वीररसरूपेष दर्परूपेण चाध्यवसानम्।प्रथमे विषयः केशादिर्नोपात्तः, द्वितीयेऽयमित्यनेनोपात्तोऽप्यधः कृतः।
+**"स्नपयति हृदयेशं स्नेहनिष्यन्दिनौ ते।  
+धवलबहलमुग्धा दुग्धकुल्ये च दृष्टिः"॥ (१५) उत्तरच॰।**
 
-"**प्रस्तुतस्य यदन्यत्वं यद्यर्थोक्तौ च कल्पनम्।  
+ अत्र स्नपयतीति क्रियासाम्यं 'स्नेहनिष्यन्दिनी धवलबहलमुग्धा' इति गुणसादृश्यञ्च।
+
+———————————————————————————————————————————
+
+ (१३) क्षणादिति। जरतः जरां गच्छतः स्थविरस्येत्यर्थः मतिः निर्यास्यतः निर्वाणं गमिष्यतः प्रदीपस्य शिखेव क्षणात् क्षणमात्रेण प्रबोधं प्रकृष्टं ज्ञानं विकाशञ्च आयाति प्राप्नोति पुनः क्षणात् तमसा मोहेन तिमिरेण लङ्घ्यते आक्रम्यते आव्रियते इत्यर्थः।
+
+ (१४) हर इति। हरस्तु चन्द्रोदयस्य आरम्भे अम्बुराशिः समुद्र इव किञ्चित् ईषत्परिलुप्तं विनष्टं धैर्य्यं यस्य तथाभूतः सन् विम्बफलाधरौष्ठे उमायाः पार्वत्या मुखे विलोचनानि नेत्राणि व्यापारयामास पातयामास चुम्बनार्थं साभिलाषमद्राक्षीदिति भावः।
+
+ (१५) स्नपयतीति। ते तव धवला बहलमुग्धा अतिमनोहारिणी स्नेहनिष्यन्दिनी स्नेहवर्षिणी दृष्टिः दुग्धकुल्येव क्षीरसरिदिव हृदयेशं जीवितेश्वरं स्नपयति आर्द्रयतीत्यर्थः।
+
+————————————————————————————————————————————
+
+**"मालोपमा यदेकस्योपमानं बहु दृश्यते"। विश्वनाथः।**
+
+ यथा,—
+
+**"प्रभामहत्या शिखयेव दीपस्त्रिमार्गयेव त्रिदिवस्य मार्गः  
+संस्कारवत्येव गिरा मनीषी तया स पूतश्च विभूषितश्च"॥(१६)**
+
+**"तदूपकमभेदो य उपमानोपमेययोः"। मम्मटः।**
+
+ उपमानं चन्द्रादि, उपमेयं मुखादि। प्रकाशितविभिन्नस्वरूपयोरपि उपमानोपमेययोरतिसाम्यप्रदर्शनाय काल्पनिकोऽभेदारोपो रूपकमित्यर्थः। यथा,—
+
+**"पर्य्याप्तपुष्पस्तवकस्तनाभ्यः स्फुरत्प्रबालोष्ठमनोहराभ्यः।  
+लतावधूभ्यस्तरवोऽप्यवापुर्विनम्रशाखाभुजबन्धनानि"॥ (१७) कु॰ स॰।**
+
+————————————————————————————————————
+
+ (१६) प्रभेति। स हिमवान् प्रभामहत्या प्रभोज्ज्वलया शिखया दीप इव, त्रिमार्गया मन्दाकिन्या त्रिदिवस्य स्वर्गस्य मार्ग इव तथा संस्कारवत्या विशुद्धया गिरा वाचा मनीषीव विद्वानिव तया पार्वत्या पूतश्च पवित्रीकृतश्च विभूषितश्च अलङ्कृतश्च।
+
+ (१७) पर्य्याप्तेति। वसन्तवर्णनमिदम्। तरवोऽपि वृक्षा अपि किमु वक्तव्यं सचेतनानामित्यपिशब्दार्थः। पर्याप्ताः प्रभूताः पुष्पाणां स्तवका गुच्छा एव स्तना यासां ताभ्यः स्फुरद्भिः विकसद्भिः प्रवालैः नवपल्लवैरेव ओष्ठैः मनोहराभ्यः लता एव वध्वः ताभ्यः विनम्राः शाखा एव भुजाः तैः बन्धनानि वेष्टनानि आलिङ्गनानीत्यर्थः अवापुः प्रापुः।
+
+————————————————————————————————————————————
+
+ अत्र लतासु बधूनां पुष्पस्तवकादिषु च स्तनादीनामभेदारोपः।
+
+**"सम्भावनमथोत्प्रेक्षा प्रकृतस्य समेन यत्"। काव्यप्रका॰।**
+
+ प्रकृतस्य उपमेयस्य, समेन उपमानेन। सम्भावनञ्च उत्कटकोटिकः संशयः, अप्रस्तुतकोटेरुत्कटत्वञ्च प्रस्तुतकोटेर्निगरणेन जायते, निगरणञ्च प्रस्तुतस्य क्वचिदनुपादानेन क्वचिदुपात्तस्याप्यधः करणेन भवति। यदुक्तम,—
+
+**"विषयस्यानुपादानेऽप्युपादाने च सूरयः।  
+अधःकरणमात्रेण निगीर्णत्वं प्रचक्षते"॥ (१८)**
+
+ विषयः प्रस्तुतम्। क्रमेणोदाहरणम्,—
+
+**"लिम्पतीव तमोऽङ्गानि वर्षतीवाञ्जनं नभः।  
+असत्पुरुषसेवेव दृष्टिर्विफलतां गता"॥ (१९) मृच्छ॰**
+
+ अत्र तमसः प्रसरसम्पातादिरूपो विषयो नोपात्तः।
+
+——————————————————————————————————
+
+ (१८) विषयस्येति। सूरयः विद्वांसः विषयस्य प्रस्तुतस्य अनुपादाने अग्रहणे उपादाने ग्रहणेऽपि अधःकरणमात्रेण निगीर्णत्वं निगरणं प्रचक्षते कथयन्ति अधःकरणमेव निगरणमिति फलितम्।
+
+ (१९) लिम्पतीति। सन्ध्यावर्णनमिदम्। तमः अन्धकारम् अङ्गानि अवयवानि लिम्पतीव लिप्तानि करोतीव नभः अन्तरीक्षम् अञ्जनं कज्जलं वर्षतीव दृष्टिः चक्षुः असतां पुरुषाणां सेवेव विफलतां निष्फलतां गता दर्शनव्यापारराहित्यादिति भावः। अत्र तमः प्रसरसम्पातरूपौ विषयौ लेपनवर्षणाभ्याम् अधःकृताविति बोध्यम्।
+
+——————————————————————————————————
+
+**"समयः स वर्त्तत इवैष यत्र मां समनन्दयत् सुमुखि! गौतमार्पितः।  
+अयमागृहीतकमनीयकङ्कणस्तव मूर्त्तिमानिव महोत्सवः करः"॥ (२०) उ॰च॰।**
+
+ अत्र विषयः कर उपात्तोऽपि मूर्त्तिमन्महोत्सवरूपेणाधः कृतः।
+
+**"मन्ये शङ्के ध्रुवं प्रायो नूनमित्येवमादिभिः।  
+उत्प्रेक्षा व्यज्यते शब्दैरिवशब्दोऽपि तादृशः"॥ (२१) दण्डी।**
+
+ मन्ये प्रभृतयः शब्दा उत्प्रेक्षाव्यञ्जकाः।
+
+**"सिद्धत्वेऽध्यवसायस्यातिशयोक्तिनिर्गद्यते"। विश्वनाथः।**
+
+ प्रकृतस्य निगरणेनाभेदज्ञानमप्रकृतस्य अध्यवसायः, तस्य च उत्प्रेक्षायामप्रस्तुतस्यानिश्चितत्वेन निर्देशात् साध्यत्वम् इह तु निश्चितत्वेनैव प्रतीतिरिति सिद्धत्वमित्यनयोर्भेदः। निगरणञ्च उभयत्रापि समानमेव। यथा,—
+
+——————————————————————————————————
+
+ (२०) समय इति। हे सुमुखि ! एष स समयः वर्त्तत इव, यत्र अयं गौतमेन गोतमनन्दनेन शतानन्देन अर्पितः समन्त्रं प्रदत्तः आगृहीतं धृतं कङ्कणं हस्ताभरणविशेषः हस्तसूत्रं वा येन तादृशः तव करः मूर्त्तिमान् देहवद्धः महोत्सव इव मां समनन्दयत्।
+
+ (२१) मन्ये इति। इव शब्दोऽपि तादृशः उत्प्रेक्षाव्यञ्जक इत्यर्थः।
+
+——————————————————————————————————
+
+**"अकालजलदावली किरतु नाम मुक्तावलीरपर्वणि विधुन्तुदस्तुदतु हन्त शीतद्युतिम्।  
+इदन्तु महदद्भुतं यदनपायिविद्युल्लतावलम्बिकनकाचलद्वयमधोमुखं लब्बते"॥ (२२)**
+
+ अत्र केशादेर्जलदावल्यादिरूपेणाध्यवसानम्। यथावा,—
+
+**"दृष्टिस्तृणीकृतजगत्त्रयसत्त्वसारा धीरोद्धता नमयतीव गतिर्धरित्रीम्।  
+कौमारकेऽपि गिरिवद्गुरुतान्दधानो वीरो रसः किमयमेत्युत दर्प एषः"॥ (२३) उ॰ च॰।**
+
+——————————————————————————————————
+
+ (२२) अकालेति। अकाले असमये जलदानां मेघानाम् आवली राजिः सुक्तावलीः मुक्ताप्रकरान् किरतु वर्षतु नाम सम्भावनायात् अकालमेघराजिभ्यो मुक्तावर्षणं सम्भाव्यते इत्यर्थः। विधुन्तुदो राहुः अपर्वणि पोर्णमासीव्यतिरिक्ते काले शीतद्युतिं चन्द्रं तुदतु असतु हन्तेत्यपि सम्भवनायां तदपि सम्भाव्यते इति भावः तु किन्तु अनपायिनी स्थायिनीत्यर्थः या विद्युल्लता सौदामनीवल्ली तस्याम् अवलम्बते इति तथोक्तं कनकाचलद्वयं सौवर्णगिरियुगलम् अधोमुखं सत् लम्बते इति यत् इदं महत् अद्भुतम् आश्चर्यम्। स्नातोत्थितायाः कस्याश्चिन्नायिकायाः केशकलापात् सम्मुखस्थितात् जलनिःसारणव्यापारवर्णनमिदम्। अत्र केशादिरूपोविषयोनोपात्तः जलदावल्यादिरूपेण निश्चिततयोधःकृतः प्रतीयते।
+
+ (२३) दृष्टिरिति। दृष्टिः तृणीकृतः तृणवदवगणित इत्यर्थः जगत्त्रयस्य त्रिजगतामित्यर्थः सत्त्वसारः प्रभावोत्कर्षः यया तादृशी। धीरा चोद्धता गतिः पादविक्षेपः धरित्रीं पृथिवीं नमयतीव नतां करोतीव। एषः कौमारकेऽपि शैशवेऽपि गिरिवत् पर्वतवत् गुरुतां गौरवं दधानः अतएव वीरो रसः किम्? उत अथवा दर्पः एति
+
+——————————————————————————————————
+
+ अत्र कुशस्य वोररसरूपेण दर्परूपेण चाध्यवसानम्। प्रथमे विषयः केशादिर्नोपात्तः, द्वितीयेऽयमित्यनेनोपात्तोऽप्यधः कृतः।
+
+**"प्रस्तुतस्य यदन्यत्वं यद्यर्थोक्तौ च कल्पनम्।  
 कार्य्यकारणयोर्य्यश्च पौर्वापर्य्यविपर्य्ययः।  
-विज्ञयातिशयोक्तिः सा” ऽप्यन्यैव प्रथमोक्ततः॥ काव्यम्•**
+विज्ञेयातिशयोक्तिः सा"ऽप्यन्यैव प्रथमोक्ततः"॥ (२४) काव्यप्रका॰।**
 
-क्रमेणोदाहरणम् —
+ क्रमेणोदाहरणम,—
 
-“अन्यदेवाङ्गलावण्यमन्याः सौरभसम्पदः।  
-तस्याः पद्मपल्लाशाच्याः सरसत्वमलौकिकम्॥
+**"अन्यदेवाङ्गलावण्यमन्याः सौरभसम्पदः।  
+तस्याः पद्मपलाशाक्ष्याः सरसत्वमलौकिकम्"॥ (२५)**
 
- यदि शब्देन तत्पर्य्यायान्तरेण वा यद्यर्थस्य कथनेऽसम्भविनोऽर्थस्य कल्पनमित्यर्थः।  
-यथा, —
+——————————————————————————————————
 
-“पुष्प प्रबालोपहितं यदि साम्मुक्ताफलं वा स्फुटविद्रुमस्थम्।  
-ततोऽनुकुर्य्याद्दिशदस्य तस्यास्तामोडपर्यस्तरः मितव्य"। कु०स०
+आगच्छति। ग्रन्थकृता यदतिशयोक्त्यलङ्कार इत्युक्तं तद्धेयम् अत्र किमुतशब्दाभ्यां संशयद्योतकाभ्याम् अध्यवसायस्य अनिश्चिततया प्रतीतेः, निश्चिततया प्रतीतेरेव अतिशयोक्तेर्विषयत्वात्। अस्मन्मते तु अत्र सन्देहालङ्कार एवेति बोध्यम्।
 
- कार्य्यकारणयोः पौर्वापर्य्यविपर्ययश्च द्विधा भवति कारणात्पूर्व्वं कार्य्यस्य भावे, द्वयोः समकालत्वे च। क्रमेण यथा—
+ (२४) प्रस्तुतस्येति। प्रस्तुतस्य विषयस्य अन्यत्वं पृथक्त्वं पृथक्तयाध्यवसानमित्यर्थः यद्यर्थोक्तौ कल्पनं यदि शब्दार्थवलात् कल्पितेन अप्रस्तुतेन प्रस्तुतस्य अध्यवसानमित्यर्थः। कार्य्यकारणयोः पौर्वापर्य्यविपर्य्ययः कारणात् पूर्वं कार्य्यस्य भावितारूपेण, समकालत्वेन वा अध्यवसानं द्वितीयातिशयोक्तिरिति बोध्यं सर्वत्रैवाध्यवसानमस्तीति सुधीभिर्भाव्यम्।
 
-“उदेति पूर्ण कुञ्चमं ततः फलं मनोदयः प्राक् तदनन्तरं पञ्चः।  
-मिमित्तनैमित्तिकयोरयं\] क्रमस्तव प्रसादस्य पुरस्तु सम्पदः"॥अ०भ०
+ (२५) अन्यदिति। तस्याः पद्मपलाशाक्ष्याः कमलदललोचनायाः कान्ताया इति शेषः अङ्गानां लावण्यं कान्तिविशेषः मुक्ताफलेषु छायायास्तरलत्वमिवान्तरा। प्रतिभाति यदङ्गेषु तल्लावण्यमिहोच्यते इति अन्यदेव पृथगेव सौरभसम्पदः गुणत्रियः अन्याः अपराः, सरसत्वं
 
-"सममेव समाक्रान्तं इयं द्विरदगामिना।  
-तेन सिंहासनं पिलामखिलञ्चारिमण्डलम्"॥ रघुवं.
+——————————————————————————————————
 
-**"उपमानाद्यदन्यस्य व्यतिरेकः स एव सः ”।**मम्मटः।
+ यदि शब्देन तत्पर्य्यायान्तरेण वा यद्यर्थस्य कथनेऽसम्भविनोऽर्थस्य कल्पनमित्यर्थः। यथा,—
 
-अन्यस्य उपमेयस्य, व्यतिरेक आधिक्यम्। स एव व्यतिरेकालङ्कारः। यथा, —
+**"पुष्पं प्रबालोपहितं यदि स्यान्मुक्ताफलं वा स्फुटविद्रुमस्थम्।  
+ततोऽनुकुर्य्याद्विशदस्य तस्यास्ताम्रोष्ठपय्यैस्तरुचः स्मितस्य"॥ (२६) कु॰स॰।**
 
-"चन्द्रं गता पद्मगुणान्न भुक्त पद्माश्रिता चान्द्रमसोमभिख्याम्।  
-सभामुखन्त प्रतिपद्य खोला हिसंन्त्रयां प्रीतिमबाप लक्ष्मीः"॥कु० स०
+ कार्य्यकारणयोः पौर्वापर्य्यविपर्य्ययश्च द्विधा भवति कारणात् पूर्वं कार्य्यस्य भावे, द्वयोः समकालत्वे च।
 
-अत्र उपमाभूतचन्द्रपद्मापेक्षया उपमेयस्य उमामुखस्यअधिक गुणवत्त्वकथनम्। यथा वा, —
+ क्रमेण यथा,—
 
-“दिशि मन्दायते तेजो दक्षिणस्यां रवेरपि।  
-तस्यामेव रषोः पाण्डयाः प्रतापं न विषेहिटे”॥ रघु०
+**"उदेति पूर्वं कुसुमं ततः फलं घनोदयः प्राक् तदनन्तरं पयः।  
+निमित्तनैमित्तिकयोरयं क्रमस्तव प्रसादस्य पुरस्तु सम्पदः"॥ (२७) अ॰ श॰।**
 
-अत्र उपमानभूतात् सूर्यादपि रघोः प्रतापातिशयवर्णनम्।
+——————————————————————————————————
 
-**"प्रतिवस्तुूपमा सा स्याद्वाक्ययोर्गम्यसाम्ययोः।  
-एकोऽपि धर्मः सामान्यो यत्र निर्द्दिश्यते पृथक्”॥** विव•
+रसिकत्वम् अलौकिकं लोकविलक्षणम्। अत्र प्रस्तुतस्य लावण्यस्य अन्यत्वेनाध्यवसानम्।
 
-प्रतीयमानसादृश्ययोर्वाक्ययोरेकस्यापि धर्मस्य पौनरुत्वभिया शब्दान्तरेण निर्देशः प्रतिवस्तूपमा।  
-यथा,—
+ (२६) पुष्पमिति। पार्वत्याः स्मितवर्णनमिदम्। यदि पुष्पं प्रबाले नवपल्लवे उपहितम् अर्पितं वा मुक्ताफलं मौक्तिकं स्फुटे समुज्ज्वले विद्रुमे प्रबाले तिष्ठतीति तथोक्तं स्यात् ततः तदा तस्याः पार्वत्याः विशदस्य स्वच्छस्य ताम्म्रोष्ठपर्य्यस्तरुचः रक्ताधरपतितप्रभस्य स्मितस्य मृदुहासस्य अनुकुर्य्यात् स्मितस्येति कर्मणि षष्ठी। अत्र यदि शब्दार्थबलात् प्रबालोपहितपुष्पादिना स्मितमध्यवसीयते।
 
-"मधुर से मन्मथ साहचर्यादसावनुकोऽपि सहाय एव।  
-समीरयो नोदविता भवेति व्यादिश्यते केन तामनस्य"॥कु० स०
+ (२७) उदेतीति। पूर्वं प्रथमं फलोदयात् प्रागित्वर्थः कुतुमं पुष्पम् उदेति विकसति, ततः कुसुमोदयादनन्तरं फलम् उदेतीति शेषः, प्राक् घनानां मेघानाम् उदयः, तदनन्तरं पयः जलं भव
 
-अत्र अनुक्तस्यापिसहजसहायस्यस्वत एव साहान्यसम्पादनेप्रवृत्तिरित्येक एवार्थः शब्दान्तरेण निर्दिष्टः। यथा वा—
+——————————————————————————————————
 
-“धन्यासि वैदर्भिः पुणेरुदारवया समाकृष्यत नैषधोऽषि।  
-प्रतः स्तुतिः का खलु चन्द्रिकाया यदग्धिमभ्युत्तरलीकरोति”॥
+**"सममेव समाक्रान्तं द्वयं द्विरदगामिना।  
+तेन सिंहासनं पित्र्यमखिलञ्चारिमण्डलम्"॥ (२८) रघु॰**
 
- अत्र समाकर्षणरूप एक एव धर्मः भयन्तरेण पृथङ्निर्दिष्टः।
+**"उपमानाद्यदन्यस्य व्यतिरेकः स एव सः"। मम्मटः।**
 
-**"अभवन् वस्तुसम्बन्ध उपमापरिकल्पकः”।  
-निदर्शना भवेत्सेयं मम्मटेन यथोदिता ॥**
+ अन्यस्य उपमेयस्य, व्यतिरेक आधिक्यम्। स एव व्यतिरेकालङ्कारः। यथा,—
 
- उपमापरिकल्पकः पर्यवसाने साम्यबोधकः। यथा—
+**"चन्द्रं गता पद्मगुणान्न भुङ्क्ते पद्माश्रिता चान्द्रमसीमभिख्याम्।  
+उमामुखन्तु प्रतिपद्य लोला द्विसंश्रयां प्रीतिमवाप लक्ष्मीः"॥ (२९) कु॰ स॰।**
 
-"क्वसूर्यप्रभवो वंशः क चाल्पविषया मतिः।  
-तितीर्षुर्दुस्तरं मोहादुडुपेनामि सागरम्”॥ रघुवं०
+ अत्र उपमाभूतचन्द्रपद्मापेक्षया उपमेयस्य उमामुखस्य अधिकगुणवत्त्वकथनम्। यथा वा,—
 
- अत्र मन्मत्या सूर्य्यवंशवर्णनमुडुपेन सागरतरणमिवेत्युपमायांपर्यवस्यति। यथा वा,
+**"दिशि मन्दायते तेजो दक्षिणस्यां रवेरपि।  
+तस्यामेव रघोः पाण्ड्याः प्रतापं न विषेहिरे"॥ (३०) रघु॰**
 
-"अभ्युन्नताङ्गुष्ठमखमभाभिर्निक्षेपणाद्रागभिवोतिरन्तौ।  
-आजवृत्तस्तशरणौ पृथिव्यां स्थलारविन्दत्रियमव्यवस्थाम्॥ कु०स०
+——————————————————————————————————
 
-अत्र उपमाधर्मस्य अरविन्दवियच्चरणयोरूपमेयभृतयोरसम्भवादरविन्दश्रियमिव श्रियमित्युमायां पर्थ्यवसानम्।
+तीति शेषः। निमित्तनैमित्तिकयोः कारणकार्य्ययोः अयं क्रमः नियमः तव प्रसादस्य अनुग्रहस्य तु पुरः अग्रत एवं सम्पदः भवन्तीति शेषः। अत्र प्रसादस्य सम्पदां पश्चाद्भावितया अध्यवसानम्।
 
-**"दृष्टान्तस्तु सधर्मस्य वस्तुनः प्रतिविम्बनम्”।**
+ (२८) सममेवेति। द्विरदगामिना गजपतिना तेन रघुना पित्र्यं सिंहासनम् अखिलम् अरिमण्डलं शत्रुमण्डलञ्च द्वयं सममेव समाक्रान्तम् अधिकृतम् अभिभूतञ्चेत्यर्थः अत्र सिंहासनाक्रमात् परभावि शत्रुमण्डलाक्रमणम् उभयोः समकालभावितया अध्यवसानम्।
 
-सधर्मस्य समानधर्मस्य वस्तुनो विषयस्य प्रतिविम्बनं प्रणिधानेन गम्यसाम्यत्वम्। प्रतिवस्तूपमायामेकस्यैव धर्मस्य भङ्ग्यन्तरेण निर्देश इत्यस्मादः। यथा,—
+ (२९) चन्द्रं गतेति। पूर्वं व्याख्यातम् (७४ पृ॰)।
 
-“नैतज्ञधूपि भूयस्या बचो बाचातिशय्यते।  
-इन्वनौषधगम्बग्लिसिया नास्येति प्रवयम्॥ माघः।
+ (३०) दिशीति। दक्षिणस्यां दिशि रवेः सूर्य्यस्यापि तेजः मन्दायते अल्पायते, तस्यामेव दिशि दक्षिणस्यां पाण्ड्याः नदाख्य
 
-**"सामान्यं वा विशेषो वातदन्येन समर्थ्यते।  
-यत्र सोऽर्थारन्तन्यासः साधर्म्यणतरेण वा”॥ मम्मटः।**
+——————————————————————————————————
 
-साधर्म्येणवैधर्म्येणवा सामान्यं विशेषेण विशेषो वा सामान्येन यत्समर्थ्यते सोपपत्तिकतया दृढ़ः क्रियते सोऽर्थान्तरन्यासः।समर्थ्यसमर्थक-वाक्ययोः सामान्यविशेषभावेऽर्थान्तरन्यासः, दृष्टान्तेतु न तथेत्यनयोर्भेदः। सामान्यं विशेषेण यथा,—
+ अत्र उपमानभूतात् सूर्य्यादपि रघोः प्रतापातिशयवर्णनम्।
 
-"वृहत्सहायः कार्यान्तं चोदीयानपि गच्छति।  
-सम्भ्याम्भोधिमभ्येति महानद्या नगापगा”॥ शिशुपा०
+**"प्रतिवस्तूपमा सा स्याद्वाक्ययोर्गम्यसाम्ययोः।  
+एकोऽपि धर्म्मः सामान्यो यत्र निर्दिश्यते पृथक्"॥ (३१) विश्वनाथः।**
 
- अत्र द्वितीयार्द्धगतेन सामान्येनार्थेन प्रथमार्द्धगतोसामान्योऽर्थःसमर्थ्यते। विशेषोर्थःसामान्येन यथा, —
+ प्रतीयमानसादृश्ययोर्वाक्ययोरेकस्यापि धर्मस्य पौनरुक्त्यभिया शब्दान्तरेण निर्देशः प्रतिवस्तूपमा। यथा,—
 
-“यावदर्थपदां वाचमेवमादाय माधवः।  
-विरराम महीयांसः प्रकृत्या मितभाषिणः”।शि०ब०
+**"मधुश्च ते मन्मथ! साहचर्य्यादसावनुक्तोऽपि सहाय एव।  
+समीरणो नोदयिता भवेति व्यादिश्यते केन हुताशनस्य"?॥ (३२) कु॰स॰।**
 
- अत्र द्वितीयार्द्धगतेन सामान्येनार्थेन प्रथमार्द्धगतो विशेषोऽर्थः समर्थ्यते। वैधर्म्येणयथा, —
+ अत्र अनुक्तस्यापि सहजसहायस्य स्वत एव साहाय्यसम्पादने प्रवृत्तिरित्येक एवार्थः शब्दान्तरेण निर्दिष्टः।
 
-“इत्यमाराध्यमानोऽपि लिनाति भुवनत्रयम्।  
-शाम्येऽप्रत्ययकारेणभोपकारेण दुर्जनः"॥कु०स०
+——————————————————————————————————
 
- अत्रद्वितीयार्द्धगतेन सामान्येनार्थेन प्रथमार्द्धगतो विशेषोऽर्थो वैधर्म्येणसमर्थ्यते।
+क्षत्रियाः रघोः प्रतापं कोषदण्डजं तेजः सप्रभावः प्रतापश्च यत्तेजः कोषदण्डजमित्यमरः। न विषेहिरे न सोढुं शेकुरित्यर्थः। रघुदिग्विजयवर्णनमिदम्।
 
-**“पदार्थानां प्रस्तुतानामन्येषां वा यदा भवेत्।  
-एकधर्माभिसम्बन्धः स्यात्तदा तुल्ययोगिता”॥** विश्व.
+ (३१) प्रतिवस्तूपमेति। यत्र गम्यसाम्ययोः प्रतीयमानसादृश्ययोः वाक्ययोः एकोऽपि अभिन्नोऽपि सामान्यो धर्मः गुणक्रियारूपः पृथक् पौनरुक्त्यभिया पर्य्यायान्तरेण निर्दिश्यते, सा प्रतिवस्तूपमा वस्तुनि वस्तुनि प्रतिवस्तु तस्य उपमेति व्युत्पत्तिरत्र बोध्यते।
 
-  केवलं प्रस्तुतानामप्रस्तुतानां वा एकधर्मसम्बन्धः तुल्य योगिता। यथा, —
+ (३२) मधुरिति। कामं हरसमाधिभङ्गोद्यतं प्रति इन्द्रस्योक्तिरियम्। हे मन्मथ! काम! असौ पुरोवर्त्तीत्यर्थः मधुर्वसन्तश्च अनुक्तोऽपि अकथितोऽपि साहचर्य्यात् सहचरत्वात् ते तव सहाय एव भविष्यतीति शेषः, त्वं हताशनस्य अग्नेः नोदयिता सहायः भव इति समोरणः वायुः केन व्यादिश्यते नियुज्यते? न केनापीत्यर्थः।
 
-"यं सर्वशैलाःपरिकल्प बत्सं मेरौ स्थिते दोग्धरि दोहदशे।  
-भास्वन्ति रत्वानि महौषधीश्च पृथूपदष्टां दुदुर्धरित्लीम्”॥षु० स०
+——————————————————————————————————
 
-अत्र हिमवद्वर्णनस्यप्रकृतत्वात् तद्गतौषधिरत्नानां द्व्यानामपि प्रकृतत्वम्, तेषां दोहनक्रियारूपैक समानधर्मसम्बन्धात् केवलप्राकरणिकविषयोऽयमलङ्कारः।
+ यथा वा,—
 
-“नागेन्द्र हस्तास्तूचि कर्कशत्वादेकान्तशैत्यात् कदलोविशेषाः।  
-लब्ध्वापि लोके परिणाहि रूपं जातास्तदूर्बोरुपमानवाह्याः। कु०स •
+**"धन्यासि वैदर्भि! गुणैरुदारैर्यया समाकृष्यत नैषधोऽपि।  
+इतः स्तुतिः का खलु चन्द्रिकाया यदब्धिमप्युत्तग्लीकरोति"॥ (३३)**
 
-अत्र नागेन्द्रहस्तानांकदलीविशेषाणाञ्च इयानामप्यप्रस्तुतानां परिणाहिरूपलाभक्रियायाः समानधर्मस्य सम्बन्धात् केवलाप्राकरणिकविषयकमिदमुदाहरणम्।
+ अत्र समाकर्षणरूप एक एव धर्मः भङ्ग्यन्तरेण पृथङ्निर्दिष्टः।
 
-**"अप्रस्तुतप्रस्तुनयोर्दोपकन्तु निगद्यते”। विश्व०।  
-अप्रस्तुतप्रस्तुतयोरेकधर्माभिसम्बन्धो दीपकम्। यथा, —**
+**"अभवन् वस्तुसम्बन्ध उपमापरिकल्पकः"।  
+निदर्शना भवेत्येयं मम्मटेन यथोदिता॥ (३४)**
 
-“बलावलेपादधुनापि पूर्ववत् प्रबाध्यते तेन जगजिगीषया।  
-सती च योषित् प्रकृतिश्चनिचला पुमांसमस्येति भवान्तरेष्वपि॥
+ उपमापरिकल्पकः पर्य्यवसाने साम्यबोधकः। यथा,—
 
- अत्र प्रस्तुतायाः प्रकृतेरप्रस्तुतायाः पतिव्रतायाश्च जन्मान्तरेऽपि स्वकीयपुरुषानुगमनरूपैक क्रियासम्बन्धः।
+**"क्व सूर्य्यप्रभवो वंशः क्व चाल्पविषया मतिः।  
+तितीर्षुर्दुस्तरं मोहादुडुपेनास्मि सागरम्"॥ (३५) रघुव॰**
 
-**"अथ कारकमेकं स्यादनेकासु क्रियास चेत्”।** विश्व.
+——————————————————————————————————
 
- तत्रापि दीपकमेव। यथा, —
+ (३३) धन्यासीति। हे वैदर्भि! त्वं धन्या भाग्यवती असि, यया त्वया उदारैः महद्भिः गुणैः सौन्दर्य्यादिभिः नैषधः निषधराजः नलोऽपि समाकृष्यत समाकृष्टः, अब्धिं समुद्रमपि उत्तरलीकरोति चपलयतीति यत्, चन्द्रिकायाः इतः अस्मात् का स्तुतिः प्रशंसा खलु।
 
-"विनिश्चेतुंशक्यो न सुखमिति वा दुःखमिति वा  
-प्रमोहो निद्रा वा किमु विषविसर्पः किमु मदः।  
-तदस्पर्शेस्पर्धे मम हि परिमूढेन्द्रियगणो-  
-विकारचैतन्यं भ्रमयति च सम्मोलयति च”॥ उ०च०
+ (३४) अभवन्निति। वस्तुनः विषयस्य सम्बन्धः अन्वयः अभवन् असम्भवन् अघटमान इत्यर्थः उपमायाः सादृश्यस्य परिकल्पकः प्रतिपादकः सा इयं निदर्शना मम्मटेन यथोदिता यथा कथिता।
 
- अत्र भ्रमयति सम्मीलयति चेत्युभयोः क्रिययोः कर्त्तृकारकमेकं विकार इति कर्मकारकञ्चैकंचैतन्यमिति।
+ (३५) क्वेति। सूर्य्यः प्रभवति अस्मादिति प्रभवः कारणं यस्य स वंशः क? अल्पो विषयो यस्याः तथाभूता मतिश्च क्व? नानयोः सङ्गतिः कदाचिदपि भवितुमर्हतीति क्व द्वयस्यार्थः। अहं मोहात् अज्ञानात् उडुपेन भेलेन दुस्तरं सागरं तितीर्षुः अस्मि। अत्र
 
-**“सन्देहः प्रकृतेऽन्यस्य संशयः प्रतिभोत्थितः"। विश्व०  
-भेदोक्तौ तदनुक्तौ च द्विधासौ परिकीर्त्तितः॥**
+——————————————————————————————————
 
- प्रकृते उपमेये, अन्यस्यउपमानस्य। प्रतिभा कवि-प्रौढोक्तिःतथा उत्थितः, तेन स्थाणुर्वापुरूषो वेति सन्देहेनायमलङ्कारः।भेदो वैधर्म्यम्।भेदोक्तौ यथा, —
+ अत्र मन्मत्या सूर्य्यवंशवर्णनमुडुपेन सागरतरणमिवेत्युपमायां पर्य्यवस्यति। यथा वा,—
 
-“अयं मार्तण्डः किं स खलु तुरगैः सप्तभिरितः  
-कृशानुः किं सर्व्वाः प्रसरति दिशो नैवनियतम्।  
-कृतान्तः किं साक्षान्महिषवमोऽसाविति चिरं  
-समालोक्याजौ त्वां विदधति विकल्पान् प्रतिभटाः"॥
+**"अभ्युन्नताङ्गुष्ठनखप्रभाभिर्निक्षेपणाद्रागमिवोद्गिरन्तौ।  
+आजह्रतुस्तच्चरणौ पृथिव्यां स्थलारविन्दश्रियमव्यवस्थाम्"॥ (३६) कु॰ स॰।**
 
-भेदानुक्तौयथा,—
+ अत्र उपमाधर्मस्य अरविन्दश्रियश्चरणयोरुपमेयभूतयोरसम्भवादरविन्दश्रियमिव श्रियमित्युपमायां पर्य्यवसानम्।
 
-"अस्याः सर्वविधौ प्रजापतिरभूश्चन्द्रो तु कान्तिप्रद-  
-'चित्तोन्माद' रसः स्वयं तु मदनो मासो नु पुष्पाकरः।  
-वेदाभ्यासजड़ः कथं तु विषयव्यावृत्तकौतूहलो-  
-निर्मातुं प्रभवेषामोहरभिदं रूपं पुराची मुभिः”॥ विक्रमो०
+**"दृष्टान्तस्तु सधर्मस्य वस्तुनः प्रतिविम्बनम्"।**
 
-**"साम्यादतस्मिंस्तद्बुद्धिर्भ्रान्तिमान् प्रतिभोत्थिता"॥**  
-                                   
-    विश्वनाथः।
+ सधर्मस्य समानधर्मस्य वस्तुनो विषयस्य प्रतिविम्बनं प्रणिधानेन गम्यसाम्यत्वम्। प्रतिवस्तूपमायामेकस्यैव धर्मस्य भङ्ग्यन्तरेण निर्देशः इत्यस्माद्भेदः। यथा,—
 
-  प्रतिभोत्थितेति 'शक्तिकायां रजतम्' इति भ्रान्तिर्नास्यालङ्कारस्य विषयः। यथा, —
+**"नैतल्लघ्वपि भूयस्या वचो वाचातिशय्यते।  
+इन्धनौषधगप्यनिस्त्विषा नात्येति पूषणम्"॥ (३७) माघ॰**
 
-"महाराज ! श्रीमन् ! जगति यशसा से धवलिते  
-पयःपारावारं परमपुरुषोऽयं मृगयते।  
-कपर्दो कैलासं करिवरमघायं कुलिशभत्  
-कलानाथं राहुः कमलभवनो हंसमधुना”॥
+——————————————————————————————————
 
-  अत्र भोजराजस्य यशसा धवलोकृते जगत सर्वत्रापिपरमपुरुषादीनां
-समुद्रादिभ्रान्तिः कविप्रतिभो-त्थितेति भ्रान्तिमानलङ्कारः।
+मन्मत्या स्तूर्य्यवंशवर्णनरूपं वस्तु अभवत् उपमायां परिकल्पते इति बोध्यम्।
 
-**"प्रकृतं प्रतिषिध्यान्यस्थापनं स्यादपद्भुतिः”।** विश्व॰।
+ (३६) अभ्युन्नतेति। तस्याः पार्वत्याश्चरणौ अभ्युन्नतयोरङ्गुष्ठनखयोः प्रभाभिः रागं रक्तम् उङ्गिरन्ताविव पृथिव्याम् अव्यवस्थां चञ्चलां स्थलारविन्दश्रियम् आजह्रतुः आहृतवन्तौ प्रापतुरित्यर्थः।
 
-  इहापि कविप्रौक्ढौक्तिसिद्धमेव। यथा,—
+ (३७) नैतदिति। एतत् वासुदेवं वचः लघु अल्पमपि भूयस्या बहुतरया वाचा न अतिशय्यते नातिक्रम्यते, अग्निः इन्धनौषधगपि काष्ठराशिदाहकोऽपि त्विषा तेजसा पूषणं सूर्य्यं न अत्येति नातिक्रामति। अत्र ग्रन्थकृता यद् दृष्टान्तालङ्काराभिधानं तद्धेयम् अत्र एकस्यैव धर्मस्य अतिक्रमरूपस्य वाक्ययोः पर्यायान्तरेण निर्देशात्
 
-"नेदं नभोमण्डलमम्बुराशिनैताश्च तारा नवप्रेणभङ्ग्यः।  
-नायं शशी कुण्डलितः फणीन्द्रो नासौ कलङ्कः पवितो मुरारिः"॥
+——————————————————————————————————
 
-  अत्र प्रकृतानां नभोमण्डलादीनां प्रतिषेधेन अम्बुराशिप्रभृतीनामप्रस्तुतानां स्थापनम्। यथा वा ;
+**"सामान्य' वा विशेषो वा तदन्येन समर्थ्यते।  
+यत्र सोऽर्थान्तरन्यासः साधर्म्येणेतरेण वा"॥ (३८) मम्मटः।**
 
-"दशाननकिरीटेभ्यस्तत्क्षणंराक्षसन्त्रियः।  
-मणिव्याजेन पर्यस्ताःपृथिव्यामत्रुविन्दवः"॥रघुवंशम्।
+ साधर्म्येण वैधर्म्येण वा सामान्यं विशेषेण विशेषो वा सामान्येन यत्समर्थ्यते सोपपत्तिकतया दृढ़क्रियते सोऽर्थान्तरन्यासः। समर्थ्यसमर्थकवाक्ययोः सामान्यविशेषभावेऽर्थान्तरन्यासः, दृष्टान्ते तु न तथेत्यनयोर्भेदः (३८)।
 
-** **अत्र प्रस्तुतानां मणीनां प्रतिषेधेन अश्रुबिन्दूनां स्थापनम्।
-समासोक्तिलक्षणमुक्तमाग्नेये,—
+सामान्यं विशेषेण यथा,—
 
-**“यत्रोक्ताद्गम्यतेऽन्योऽर्थस्तत्समानविशेषणः।  
-सा समासोक्तिरुदिता संक्षेपार्थतया बुधैः”॥**
+**"वृहत्सहायः कार्य्यान्तं क्षोदीयानपि गच्छति।  
+सम्भूयाम्भोधिमभ्येति महानद्या नगापगा"॥ (३९) शिशुपाल॰।**
 
-तत्समानविशेषण इत्युपलक्षणम्, तेन तत्समानकार्य्यः तत्समानलिङ्गश्च गृह्यते। यत्र समैर्विशेषणैः कार्य्येलिङ्गेैश्च उक्तात्प्रस्तुतादप्रस्तुताहा-ऽन्यो यथाक्रममप्रस्तुतः प्रस्तुतो वाऽर्थो बोध्यतेसा संक्षेपोक्ति-स्वरूपत्वात्, 'समासेन संक्षेपेण उक्तिः' इति व्युत्पत्त्या समामोक्तिः कथिता। संक्षेपञ्च एकस्य वचनेनोभय-प्रतिपत्तिरिति। आदर्शे, अप्रस्तुताद्वाच्यात् प्रस्तुतस्य गम्यत्वे समासोक्तिरित्यभिहितम्; नव्यास्तु तद्वैपरीत्येन प्रस्तुतादप्रस्तुतप्रतीतौ समासोक्तिः अप्रस्तुतात् प्रस्तुतप्रतीतावप्रस्तुतप्रशंसेत्याः।वाच्ये प्रस्तुतेऽप्रस्तुतव्यवहारसमारोपः समासोक्तिरिति विश्वमाथादयः। वस्तुतस्तु उभयत्रापि समासोक्तेरेवाभ्युप-गमस्यौचित्यात्तदनुगुणमेव प्राचीनरीत्या लचणमुक्तमस्माभिः। उदाहरणं क्रमेण, —
+ अत्र द्वितीयार्द्धगतेन विशेषेणार्थेन पूर्वार्द्धगतः सामान्योऽर्थः समर्थ्यते। विशेषः सामान्येन यथा,—
 
-"श्रुतिसुखम्भ्रमरस्वनगोतयः कुसुमकोमलदन्तषको बभुः।  
-उपवनान्तलताः पवनाइतेः किसलयैः सल्यैरिव पाणिभिः”॥रघु०।
+**यावदर्थपदां वाचमेवमादाय माधवः।**
 
-**अत्र विशेषणसाम्यात् कार्य्यसाम्याच्चप्रस्तुताद्वनलतारूपार्थादप्रस्तुतो नर्तर्कारूपोऽर्थः प्रतीयते।**
+——————————————————————————————————
 
-"चातकस्त्रिचतुरान् पयःकणान् याचते जलधरं पिपासितः।  
-सोऽपि पूरयति भूयसाम्भसा चिलमल महतामुदारता॥
+प्रतिवस्तूपमैव। दृष्टान्तोदाहरणन्तु
 
- **अत्र अप्रस्तुताच्चातकाञ्जलधराच्चकार्यसाम्यात् प्रस्तुतोयाचक;उदाराशयो धनपतिश्च बोध्यते।**
+अविदितगुणापि सत्कविभणितिः कर्णेषु वसति मधुधाराम्।  
+अनधिगतपरिमलापि हरति दृशं मालती माला॥
 
-**“अप्रस्तुतप्रशंसा स्यादप्रक्रान्तेषु या स्तुतिः।  
-तन्मुखेन प्रस्तुतस्य निन्दा यत्र प्रतीयते”॥** दण्डी॰।
+इति बोध्यम्।
 
-  अप्रक्रान्तेषु, अप्रस्तुतेषु अप्रस्तुतानामित्यर्थः, षष्ठ्यर्थे सप्तमी।
+ (३८) समर्थ्यसमर्थकवाक्ययोः सामान्यविशेषभावेऽर्थान्तरन्यासः दृष्टान्ते प्रतिवस्तूपमायाञ्च न तथेति परस्परम् भेदः।
 
-यथा,—
+ (३९) वृहदिति। क्षोदीयानपि अतिक्षुद्रोऽपि वृहत्सहायः महासहायः सन् कार्य्यान्तं गच्छति, नगापगा गिरिनिर्झरिणी महानद्या सम्भूय मिलित्वा अम्भोधिं समुद्रम् अभ्येति प्राप्नोति।
 
-“पादाहतं यदुत्थाय मूडीनमधिरोहति।  
-स्वस्थादेवावमानेऽपि देव्हिनस्तहरं रजः”॥ शिशुपा०।
+ (४०) यावदिति। माधवः कृष्णः एवम् उक्तप्रकारां यावन्तोऽर्था
 
-  अत्र अप्रस्तुतस्य रजसः प्रशंसामुखेन प्रस्तुतस्य अवमानसहिष्णोर्निन्दा प्रतीयते।  
-यथा वा, —
+——————————————————————————————————
 
-"सुखं जीवन्ति हरिणा वनेष्वपरसेविनः।  
-अन्नैरयत्न सुलभैस्तृणदर्भाङ्कुरादिभिः”॥
+**विरराम महीयांसः प्रकृत्या मितभाषिणः"॥ (४०) शिशुपाल॰।**
 
-  अत्र मृगाणां सुखजीवनस्याप्रस्तुतस्य प्रशंसया प्रस्तुतस्यराजानुवृत्तिजीवनस्य निन्दा प्रतीयते।
+ अत्र द्वितीयार्द्धगतेन सामान्येनार्थेन प्रथमार्द्धगतो विशेषोऽर्थः समर्थ्यते। वैधर्म्येण यथा,—
 
-**"व्याजस्तुतिर्मुखे निन्दा तुतिवी रूढिरन्यथा"।मम्मटः।**
+**"इत्थमाराध्यमानोऽपि क्लिश्नाति भुवनत्रयम्।  
+शाम्येत्प्रत्यपकारेण नोपकारेण दुर्जनः"॥ (४१) कु॰स॰**
 
- मुखे आपाततः, अन्यथा यथाक्रमं स्तुत्यां निन्दायां वारूढ़िः पर्य्यवसानम्।स्तुतिपर्य्यवसानीनिन्दा निन्दापर्य्यवसायिनी
-स्तुतिश्चव्याजस्तुतिरिति फलितम्। निन्दायाः स्तुति-रूपेण पर्य्यवसाने व्याजेन स्तुतिरिति व्याजस्तुतिः, स्तुतेर्निन्दारूपेण पर्य्यवसाने व्याजरूपा स्तुतिः। क्रमेणयथा, —
+ अत्र द्वितीयार्द्धगतेन सामान्येनार्थेन प्रथमार्द्धगतो विशेषोऽर्थो वैधर्म्येण समर्थ्यते।
 
-त्यक्त्वा राज्यं गिरमनुसरन् स्त्रीवशान्मूढबुद्धे -  
-राज्ञोभ्रान्त्वागहनविपिने हारयन् मुग्धकान्ताम्।  
-सख्यं बद्धाकपिभिरसमं लङ्घयन् कीर्त्तिमपत्रां  
-सर्वेषां वो विजयमनयो हेमलङ्कां किमेतत्॥
+**"पदार्थानां प्रस्तुतानामन्येषां वा यदा भवेत्।  
+एकधर्माभिसम्बन्धः स्यात्तदा तुल्ययोगिता"॥ विश्वनाथः।**
 
- अत्र स्त्रीवशवर्त्तिनो मूढधियो मरपतेर्वचनप्रतिपालनम्,पूर्वेषां सगरसुतानां कीर्त्तिलङ्घनादि-कच्चापाततो निन्देवप्रतिभाति; चरमे तु पितुः प्रतिज्ञा संरक्षिता, दुखरं तोयनिधिमुत्तीर्य्य दुःसहप्रतापो वनितापहारी दशाननो विजितःसमूलमुन्मूलितश्चेत्यहो दुष्करं कृतमिति सर्व्वमेव स्तुत्यां पर्यवस्यतीति निन्दायाः स्तुतिरूपेण पर्य्यवसाने व्याजस्तुतिः।
+ केवलं प्रस्तुतानामप्रस्तुतानां वा एकधर्मसम्बन्धः तुल्ययोगिता। यथा,—
 
-युक्तं तवैतत् रघुवंशभूपते! सतां हि सख्युः परिपालमं व्रतम्।  
-इतः स्ततिः का जगदीश निर्मला भवान् यदर्थं न्यबधीन्निरागसम्॥
+**"यं सर्वशैलाः परिकल्प्य वत्सं मेरौ स्थिते दोग्धरि दोहदक्षे।**
 
- अत्र प्रियवन्धोः संरक्षणमुचितमेवेति तव सुग्रीवसहायत्वंयुक्तमेवेत्यापाततः स्तुतिरपि, मित्रकार्थ्यार्थं निरपराधस्य जीर्णकलेवरस्य शाखामृगस्य मे हननं सर्व्वथा गर्हितमेवेति चरमेनिन्दायां पर्य्यवस्थतीति स्तुतेर्निन्दायां पर्य्यवसाने व्याजस्तुतिः।
+——————————————————————————————————
 
-**“प्रसिद्स्योपमानस्योपमेयत्वप्रकल्पनम्।  
-निष्फलत्वाभिधानं वा प्रतीपमिति कथ्यते”॥** विश्व०
+इति यावदर्थं साकल्येऽव्ययोभावः यावदर्थं पदानि यस्याः तां वाचम् आदाय उक्ता इत्यर्थः विरराम, महीयांसः महत्तराः प्रकृत्या स्वभावेन मितभाषिणः अल्पवादिनो भवन्तीति शेषः।
 
-क्रमेण यथा,—
+ (४१) इत्थमिति। इत्थम् अनेन प्रकारेण आराध्यमानोऽपि सेव्यमानोऽपि स तारक इति पूर्वेणान्वयः। भुवनत्रयं क्लिश्नाति तापयति, दुर्जनः प्रत्यपकारेण शाम्येत् उपकारेण न। अत्र क्लेशशमने विरुद्धधर्माविति बोध्यम्।
 
-"यत्ववसनकान्ति सलिले मग्नं तदिन्दीवरं  
-मेघैरन्तरितः प्रिये तव मुखच्छायानुकारी शशी।  
-येऽपि त्वद्गमनानुकारिगतयस्ते राजहंसा गता-  
-स्त्वत्सादृश्यविनोदमात्वमपि मे दैवेन न क्षम्यते”॥  
-"मुखं यदि किमिन्दुना यदि चलाञ्चले लोचने  
-किमुत्पलकदम्बकैर्यदि तरङ्गभङ्गी भ्रुवौ।
+ (४२) यमिति। सर्वशैलाः सर्वे पर्वताः दोहदक्षे दोहनकुशले मेरौ दोग्धरि दोहके स्थिते सतीत्यर्थः यं हिमालयं वत्सं परिकल्प्य
 
-क्रियात्मभवधन्वना यदि स्तुसंयताः कुन्तलाः।  
-किमभ्युवहडब्बरैर्यदि तनूर्रियं किं त्रिया॥वी.च.
+——————————————————————————————————
 
- प्रथमे प्रसिद्धानामुपमावस्तूनामिन्दीवरादीनामुपमेचत्वप्रकल्पनम्, द्वितीये इन्दुप्रभृतीनां निष्फलत्व-कथनम्।
+**भास्वन्ति रत्नानि महौषधीश्च पृथूपदिष्टां दुदुहुर्धरित्रीम्"॥ (४२) कु॰ स॰।**
 
-**“शब्दैः स्वभावादिकार्थैः श्लेषोऽनेकार्थवाचनम्”।** विश्व.
+ अत्र हिमवद्वर्णनस्य प्रकृतत्वात् तद्गतौषधिरत्नानां द्वयानामपि प्रकृतत्वम्, तेषां दोहनक्रियारूपैकसमानधर्मसम्बन्धात् केवलप्राकरणिकविषयोऽयमलङ्कारः।
 
- स्वभावादेकार्थैरिति शब्दश्लेषात्, वाचनमिति च ध्वनेर्व्यवच्छेदः। यथा, —
+**"नागेन्द्रहस्तास्त्वचि कर्कशत्वादेकान्तशैत्यात् कदलीविशेषाः।  
+लब्ध्वापि लोके परिणाहि रूपं जातास्तदूर्व्वोरुपमानवाह्याः"॥ (४३) कु॰ स॰**
 
-“खलस्य कण्टकस्यैव द्विविधैव प्रतिक्रिया।  
-उपानहा वक्तभङ्गो दूरतो वा विषजनम्"॥
+ अत्र नागेन्द्रहस्तानां कदलीविशेषाणाञ्च द्वयानामप्यप्रस्तुतानां परिणाहिरूपलाभक्रियायाः समानधर्मस्य सम्बन्धात् केवलाप्राकरणिकविषयकमिदमुदाहरणम्।
 
-**“सा सहोक्तिः सहार्थस्य बलादेकं द्विवाचकम्"।**
+**"अप्रस्तुतप्रस्तुतयोर्दीपकन्तु निगद्यते"। विश्वनाथः।**
 
-“पुरोपनीतं मृय रामणीयकं द्विजातिशेषेण यदेतदन्धसा।  
-तदद्य ते वन्यफलाशिनः परम्परैति कायं यशसा समं वपुः"॥भार•
+ अप्रस्तुतप्रस्तुतयोरेकधर्माभिसम्बन्धी दीपकम्। यथा,—
 
-**अत्र वपुर्यशश्चोभयमपि चीयते इति महार्थवलाद्द्बोध्यते।**
+**बलावलेपादधुनापि पूर्ववत् प्रबाध्यते तेन जगज्जिगीषुणा।**
 
-**“हेतोर्वाक्यपदार्थत्वे काव्यलिङ्गमुदाहृतम्”।** विश्व.।
+——————————————————————————————————
 
- वाक्यस्य पदार्थस्य वा हेतुरूपेणोक्तौ काव्यलिङ्गम्। यथा, —
+पृथुना राज्ञा उपदिष्टां निर्दिष्टां धरित्रीं भास्वन्ति प्रभापूर्णानि रत्नानि महौषधीश्च दुदुहुः।
 
-“रे हस्त दक्षिण मृतस्य शिशोद्विजस्य  
-जीवातवे विसृज न्यूद्रसुनौ कृपाणम्।  
-रामस्य गावमसि दुर्भरनर्भिन्न-  
-सीताप्रवासनपटोः करुणा कुतस्ते"॥ (उ०प० )
+ (४३) नागेन्द्रेति। नागेन्द्रहस्ता गजशुण्डादण्डा इत्यर्थः त्वचि चर्मणि कर्कशत्वात् काठिन्यात्, कदलीविशेषाः एकान्तशैत्यात् अतिशीतलत्वात् लोके जगति परिणाहि विशालं परिणाहो विशालतेत्यमरः। रूपं लब्ध्वापि तदूर्व्वोः तस्याः पार्वत्याः ऊर्व्वोः उपमीयते अनेनेति उपमानं तस्मात् वाह्याः वहिस्थिता जाताः।
 
-  अत्र करुणया अभावे 'रामस्य गात्रमसि' इति वाक्यं,'दुर्भरगर्भखिन्नसीताप्रवासनपटोः' इति पदार्थश्चहेतुः।
+——————————————————————————————————
 
-**“विभावना विना हेतुं कार्योत्पत्तिर्यदुच्यते।** विश्व०
+**सती च योषित् प्रकृतिश्च निश्चला पुमांसमभ्येति भवान्तरेष्वपि"॥ (४४) शि॰ ब॰**
 
-यथा—
+ अत्र प्रस्तुतायाः प्रकृतेरप्रस्तुतायाः पतिव्रतायाश्च जन्मान्तरेऽपि स्वकीयपुरुषानुगमनरूपैकक्रियासम्बन्धः।
 
-'अपमेघोदयं वर्ष मदृष्ट कुसुमं फलम्।  
-अतर्कितोपपत्र वो दर्शनं प्रतिभाति मे"॥(कु०स०)
+**"अथ कारकमेकं स्यादनेकासु क्रियासु चेत्"। विश्वनाथः।**
 
-  अत्र मेघोदयकुसुमरूपकारणयोरभावेऽपि वर्षफलरूपकार्य्ययोरभिधानम्।
+ तत्रापि दीपकमेव। यथा,—
 
-**“सति हेतौ फलाभावे विशेषोक्तिस्” त्रिधा च सा।  
-उक्त्यनुक्तोर्निमित्तस्याप्यचिन्त्यत्वे च कुत्रचित्॥**
+**"विनिश्चेतुं शक्यो न सुखमिति वा दुःखमिति वा प्रमोहो निद्रा वा किमु विषविसर्पः किमु मदः।  
+तव स्पर्शे स्पर्शे मम हि परिमूढ़ेन्द्रियगणोविकारश्चैतन्यं भ्रमयति च सम्मीलयति च"॥ (४५) उ॰ च॰।**
 
-  उक्तनिमित्ता अनुक्तनिमित्ता अचिन्त्यनिमित्ता चेति साविधा।क्रमेण यथा, —
+ अत्र भ्रमयति सम्मीलयति चेत्युभयोः क्रिययोः कर्त्तृकारकमेकं विकार इति कर्मकारकञ्चैकं चैतन्यमिति।
 
-“धनिनोऽपि निरुन्मादा युवामोऽपि न चञ्चलाः।  
-प्रभवोऽप्यप्रमत्तास्ते महामहिमशालिनः"॥
+——————————————————————————————————
 
-  अत्र धनादिरूपहेतुसत्त्वेऽपि उन्मादादिरूपफलाभावः।महामहिमशाक्तोत्रं
-निमित्तमुक्तम्। अत्रैव चतुर्थपादे“कियन्तः सन्ति भूतले” इति पाठे निमित्तमनुक्तं भवति,—
+ (४४) बलावलेपादिति। जिगोषुणा तेन शिशुपालेन बलावलेपात् बलदर्पात् अधुनापि पूर्ववत् पूर्वजन्मनीव जगत् प्रबाध्यते प्रपीड्यते। सतो साध्वी योषित् नारी निश्चला स्थिरा प्रकृतिः स्वभावश्च भवान्तरेष्वपि जन्मान्तरेष्वपि पुमांसं पुरुषम् अभ्येति प्राप्नोति।
 
-“स एकस्त्रीणि जयति जगन्ति कुसुमायुधः।  
-हरतापि तनु यस्य शम्भुना न बलं हृतम्”॥
+ (४५) विनिश्चेतुमिति। सीतां प्रति रामस्योक्तिः। हे प्रिये! तव स्पर्शे स्पर्शे प्रतिस्पर्शं सुखमिति वा दुःखमिति वा प्रमोहो वा निद्रा वा, विषविसर्पः विषेण आच्छन्नता किमु, मदः मद्यपानजनितावस्था किमु विनिश्चेतुं विशेषेण निर्द्धारयितुं न शक्यः, हि यतः परिमूढ़ः विवश इत्यर्थः इन्द्रियगणो येन तादृशो मम विकारः चैतन्यं भ्रमयति च सम्मोलयति च आवृणोति च।
 
-  अत्र तनुहरणेऽपि बलाहरले निमित्तमचिन्त्यम्।
+——————————————————————————————————
 
-**“विरोधःसोऽविरोधेऽपि विरुद्धत्वेन यद्वचः”। मम्मटः।**
+**"सन्देहः प्रकृतेऽन्यस्य संशयः प्रतिभोत्थितः"। विश्वनाथः।**
 
- वस्तुतोऽविरोधेऽपि विरुद्धयोरिव धर्मयोर्यदभिधानं सविरोधः, अयमेव विरोधाभास इत्यप्युच्यते। व्यधिकरणयोरिवधर्मयोः सामान्याधिकरण्येन निर्देशो विरोधः। धर्मच्चात्रजातिगुणक्रियाद्रव्यरूपः। उदाहरणम् —
+**भेदोक्तौ तदनुक्तौ च द्विधासौ परिकीर्त्तितः॥**
 
-"अजस्य गृङ्क्षतोजन्म निरीहस्य हतद्विषः।  
-स्वपतो जागरूकस्य याथार्थ्यंवेद कस्तव"॥( रघुवं०)
+ प्रकृते उपमेये, अन्यस्य उपमानस्य। प्रतिभा कविप्रौढ़ोक्तिः तथा उत्थितः, तेन स्थाणुर्वा पुरुषो वेति सन्देहे नायमलङ्कारः। भेदो वैधर्म्यम्। भेदोक्तौ यथा,—
 
-"जगद्योनिरयोनिस्त्वं जगदन्तो निरन्तकः।  
-जगदादिरनादित्वं जगदोशो निरीश्वरः"॥ कु०स०
+**"अयं मार्त्तण्डः किं? स खलु तुरगैः सप्तभिरितः कृशानुः किं? सर्वाः प्रसरति दिशो नैष नियतम्।  
+कृतान्तः किं? साक्षान्महिषवहनोऽसाविति चिरं समालोक्याजौ त्वां विदधति विकल्पान् प्रतिभटाः"॥ (४६)**
 
- प्रथमे भगवतः प्रभावस्यातिशयित्वादापाततः प्रतीयमानस्यविरोधस्य समाधानम्, द्वितीये नञ्तत्पुरुष-समासे विरोधः,वहुव्रीहिणा परिहारः।
+ भेदानुक्तौ यथा,—
+
+**"अस्याः सर्गविधौ प्रजापतिरभूच्चन्द्रो नु कान्तिप्रदः? 'चित्तोन्माद'रसः स्वयं नु मदनो मासो नु पुष्पाकरः"?।**
+
+——————————————————————————————————
+
+ (४६) अयमिति। अयं किं मार्त्तण्डः सूर्य्यः? न हीत्याह, न मार्त्तण्डः खलु निश्चितं सप्तभिः तुरगैः अश्वैः इतः युक्तः, अयन्तु न तथेति भावः। कृशानुः अग्निः किम्? न हीत्याह एषः कृशानुः नियतं सर्वा दिशो न प्रसरति न विराजते इत्यर्थः प्रसिद्धमूर्द्धज्वलनं हविर्भुज इति नायं तथेति भावः। साक्षात् स्वयं कृतान्तः अन्तकः किम्? नहीत्याह असौ कृतान्तः महिषवहनः नायं तथेति भावः प्रतिभटाः प्रतिवीराः आजौ युद्धे त्वां समालोक्य चिरं बहुक्षणम् इति विकल्पान् तर्कान् विदधति कुर्वन्ति।
+
+ (४७) अस्या इति। ऊर्वशीं दृष्ट्वा पुरुरवसस्तर्कोक्तिः। अस्याः ऊर्वश्याः सर्गविधौ सृष्टिव्यापारे कान्तिप्रदः लावण्यदः चन्द्रः प्रजापतिः स्रष्टा अभूत् नु, चित्तस्य उन्मादे उन्मत्तीकरणे रसः अनुरागो
+
+——————————————————————————————————
+
+**वेदाभ्यासजड़ः कथं नु विषयव्यावृत्तकौतूहलोनिर्मातुं प्रभवेन्मनोहरमिदं रूपं पुराणो मुनिः"॥ (४७) विक्रमो॰।**
+
+**"साम्यादतस्मिंस्तद्बुद्धिर्भ्रान्तिमान् प्रतिभोत्थिता"॥ (४८) विश्वनाथः।**
+
+ प्रतिभोत्थितेति 'शक्तिकायां रजतम्' इति भ्रान्तिर्नास्यालङ्कारस्य विषयः। यथा,—
+
+**"महाराज! श्रीमन्! जगति यशसा ते धवलिते पयःपारावारं परमपुरुषोऽयं मृगयते।  
+कपर्दी कैलासं करिवरमथायं कुलिशभृत् कलानाथं राहुः कमलभवनो हंसमधुना"॥ (४९)**
+
+——————————————————————————————————
+
+यस्य तथाभूतः मदनः कामः स्वयं तु प्रजापतिरभूदिति शेषः अथवा पुष्पाकरो वसन्तः मासः नु, प्रजापतिरभूदिति शेषः। वेदाभ्यासेन जड़ः मन्थरमतिः अतएव विषयेभ्यः स्रक्चन्दनवनितादिभ्यो व्यावृत्त निवृत्तं कौतूहलं यस्य तथाभूतः पुराणो सुनिः वदरिकाश्रमवासी नारायणः इदं मनोहरं रूपं निर्मातुं कथं नु प्रभवेत् शक्नुयात् न कथमपीत्यर्थः।
+
+ (४८) साम्यादिति। अतस्मिन् वस्तुनीति शेषः साम्यात् सादृश्यात् प्रतिभोत्थिता कविप्रौढ़ोक्तिसमुद्भूता तद्वस्तुबोधः भ्रान्तिमान्।
+
+ (४९) महाराजेति। हे श्रीमन् महाराज! ते तत्र यशसा जगति धवलिते शुक्लीकृते अधुना अयं परमपुरुषः पयःपारावारं क्षीरसागरं, कपर्दी शम्भुः कैलासम्, अयं कुलिशभृत् वज्जी करिवरम् ऐरावतं राहुः कलानाथं चन्द्रं कमलभवनः ब्रह्मा हंसं मृगयते अन्विष्यति।
+
+——————————————————————————————————
+
+ अत्र भोजराजस्य यशसा धवलीकृते जगति सर्वत्रापि परमपुरुषादीनां समुद्रादिभ्रान्तिः कविप्रतिभोत्थितेति भ्रान्तिमानलङ्कारः।
+
+**"प्रकृतं प्रतिषिध्यान्यस्थापनं स्यादपह्नुतिः"। (५०) विश्वनाथः।**
+
+ इहापि कविप्रौढ़ोक्तिसिद्धमेव। यथा,—
+
+**"नेदं नभोमण्डलमम्बुराशिर्नैताश्च तारा नवफेणभङ्गाः।  
+नायं शशी कुण्डलितः फणीन्द्रो नासौ कलङ्कः शयितो मुरारिः"॥ (५१)**
+
+ अत्र प्रकृतानां नभोमण्डलादीनां प्रतिषेधेन अम्बुराशिप्रभृतीनामप्रतुतानां स्थापनम्। यथा वा,
+
+**"दशाननकिरीटेभ्यस्तत्क्षणं राक्षसश्रियः।  
+मणिव्याजेन पर्य्यस्ताः पृथिव्यामश्रुविन्दवः"॥ (५२) रघुवंशम्।**
+
+——————————————————————————————————
+
+ (५०) प्रकृतमिति। प्रकृतं प्रस्तुतं प्रतिषिध्य निषिध्य अन्यस्य अप्रकृतस्य स्थापनम् अपह्नुतिः स्यात्।
+
+ (५१) नेदमिति। इदं नभोमण्डलम् अकाशमण्डलं न, अम्बुराशिः समुद्रः, एताश्च तारा नक्षत्राणि न, नवाः फेनानां भङ्गाः छेदाः। अयं शशी चन्द्रो न, कुण्डलितः मण्डलाकारेण स्थितः फणीन्द्रः शेषः, असौ कलङ्कः न, शयितः मुरारिः नारायणः।
+
+ (५२) दशाननेति। तत्क्षणं रामजन्मक्षणे इत्यर्थः राक्षसानां श्रियः लक्ष्म्याः अश्रुविन्दवः बाष्पकणाः मणिव्याजेन दशाननस्य रावणस्य किरीटेभ्यः सुकुटेभ्यः पर्य्यस्ताः पतिताः।
+
+——————————————————————————————————
+
+ अत्र प्रस्तुतानां मणीनां प्रतिषेधेन अश्रुविन्दूनां स्थापनम्। समासोक्तिलक्षणमुक्तमाग्नेये—
+
+**"यत्रोक्ताद्गम्यतेऽन्योऽर्थस्तत्समानविशेषणः।  
+सा समासोक्तिरुदिता सङ्क्षेपार्थतया बुधैः"॥**
+
+ तत्समानविशेषण इत्युपलक्षणम्, तेन तत्समानकार्य्यः तत्समानलिङ्गश्च गृह्यते। यत्र समैर्विशेषणैः कार्य्यैर्लिङ्गैश्च उक्तात् प्रस्तुतादप्रस्तुताद्वाऽन्यो यथाक्रममप्रस्तुतः प्रस्तुतो वाऽर्थो बोध्यते सा सङ्क्षेपोक्तिस्वरूपत्वात्, 'समासेन सङ्क्षेपेण उक्तिः' इति व्युत्पत्त्या समासोक्तिः कथिता। 'सङ्क्षेपश्च एकस्य वचनेनोभयप्रतिपत्तिरिति। आदर्शे, अप्रस्तुताद्वाच्यात् प्रस्तुतस्य गम्यत्वे समासोक्तिरित्यभिहितम्, नव्यास्तु तद्वैपरीत्येन प्रस्तुतादप्रस्तुतप्रतीतौ समासोक्तिः अप्रस्तुतात् प्रस्तुतप्रतीतावप्रस्तुतप्रशंसेत्याहुः। वाच्ये प्रस्तुतेऽप्रस्तुतव्यवहारसमारोपः समासोक्तिरिति विश्वनाथादयः। वस्तुतस्तु उभयत्रापि समासोक्तेरेवाभ्युपगमस्यौचित्यात्तदनुगुणमेव प्राचीनरीत्या लक्षणमुक्तमस्माभिः। उदाहरणं क्रमेण,—
+
+**"श्रुतिसुखभ्रमरस्वनगीतयः कुसुमकोमलदन्तरुचो बभुः।  
+उपवनान्तलताः पवनाहतैः किसलयैः सलयैरिव पाणिभिः"॥ (५३) रघु॰।**
+
+——————————————————————————————————
+
+ (५३) श्रुतीति। श्रुतिसुखाः श्रवणानन्दिनः भ्रमराणां स्वना गुञ्जनानि गीतय इव यासां ताः तथा कुसुमानि कोमला दन्तानां
+
+——————————————————————————————————
+
+ अत्र विशेषणसाम्यात् कार्य्यसाम्याच्च प्रस्तुताद्वनलतारूपार्थादप्रसुतो नर्त्तकीरूपोऽर्थः प्रतीयते।
+
+**"चातकस्त्रिचतुरान् पयःकणान् याचते जलधरं पिपासितः।  
+सोऽपि पूरयति भूयसाम्भसा चित्रमत्र महतामुदारता"॥ (५४)**
+
+ अत्र अप्रस्तुताच्चातकाज्जलधराच्च कार्य्यसाम्यात् प्रस्तुतो याचकः, उदाराशयी धनपतिश्च बोध्यते।
+
+**"अप्रस्तुतप्रशंसा स्यादप्रक्रान्तेषु या स्तुतिः।  
+तन्मुखेन प्रस्तुतस्य निन्दा यत्र प्रतीयते"॥ दण्डी॰।**
+
+ अप्रक्रान्तेषु, अप्रस्तुतेषु अप्रस्तुतानामित्यर्थः, षष्ठ्यर्थ सप्तमी। यथा,—
+
+**"पादाहतं यदुत्याय मूर्द्धानमधिरोहति।  
+स्वत्यादेवापमानेऽपि देहिनस्तद्वरं रजः"॥ ( ५५) शिशुपा॰**
+
+——————————————————————————————————
+
+ऋचः प्रभा यासां तथाविधाः उपवनान्तलताः पवनाहतैः वायुकम्पितैः किसलयैः नवपल्लवैः सलयैः लयायख्यसङ्गीताङ्गहस्तचालनसहितैः पाणिभिः भुजैरिव बभुः शोभन्ते स्म।
+
+ (५४) चातक इति। चातकः पक्षिविशेषः पिपासितः सन् जलधरं त्रिचतुरान् पयःकणान् वारिविन्द्रून् याचते प्रार्थयते, सोऽपि जलधरोऽपि भूयसा प्रचुरेण अम्भसा पूरयति तत्प्रार्थनमिति शेषः। अत्र जगति महतां जनानाम् उदारता वदान्यता चित्रम् आश्चर्य्यम्।
+
+ (५५) पादाहतमिति। यत् पादाहतं चरणाताड़ितं सत्
+
+——————————————————————————————————
+
+ अत्र अप्रस्तुतस्य रजसः प्रशंसामुखेन प्रस्तुतस्य अपमानसहिष्णोर्निन्दा प्रतीयते यथा वा,—
+
+**"सुखं जीवन्ति हरिणा वनेष्वपरसेविनः।  
+अन्नैरयत्नसुलभैस्तृणदर्भाङ्कूरादिभिः"॥ (५६)**
+
+ अत्र मृगाणां सुखजीवनस्याप्रस्तुतस्य प्रशंसया प्रस्तुतस्य राजानुवृत्तिजीवनस्य निन्दा प्रतीयते।
+
+**"व्याजस्तुतिर्मुखे निन्दा स्तुतिर्वारूढ़िरन्यथा"।** **मन्मटः।**
+
+ मुखे आपाततः, अन्यथा यथाक्रमं स्तुत्यां निन्दायां वा रूढ़िः पर्य्यवसानम्। स्तुतिपर्य्यवसायिनी निन्दा निन्दापर्य्यवसायिनी स्तुतिश्च व्याजस्तुतिरिति फलितम्। निन्दायाः स्तुतिरूपेण पर्य्यवसाने व्याजेन स्तुतिरिति व्याजस्तुतिः, स्तुतेर्निन्दारूपेण पर्य्यवसाने व्याजरूपा स्तुतिः। क्रमेण यथा,—
+
+**त्यक्त्वा राज्यं गिरमनुसरन् स्त्रीवशान्मूढ़बुद्धेर्राज्ञो भ्रान्त्वा गहनविपिने हारयन् मुग्धकान्ताम्।**
+
+——————————————————————————————————
+
+पादाहन्तुरिति शेषः मूर्द्धानं मस्तकम् अधिरोहति आक्रामति, तत् रजः अपमाने शत्रुपराभवेऽपि स्वस्थात् देहिनः वरं मनाक् प्रियम्।
+
+ (५६) सुखमिति। वनेषु अपरसेविनः परसेवनवर्जिताः हरिणा अयत्नसृलभैः अनायासलभ्यैः तृणदर्भाङ्कुरादिभिः सुखं जीवन्ति।
+
+ (५७) त्यक्तेति। रामं प्रति कस्यचिद् व्याजस्तुतिः। हे राम! स्त्रीवशात् स्त्रैणत्वात् मूढ़बुद्धेः दुर्मतेरित्यर्थः राज्ञः दशरथस्येत्यर्थः गिरं त्वं वनं गच्छति वाचम् अनुसरन् प्रतिपालयन् राज्यं त्यक्त्वा गहन
+
+——————————————————————————————————
+
+**सख्यं बद्धा कपिभिरसमं लङ्घयन् कीर्त्तिमग्र्यां पूर्वेषां वो विलयमनयो हेमलङ्कां किमेतत्॥ (५७)**
+
+ अत्र स्त्रीवशवर्त्तिनो मूढ़धियो नरपतेर्वचनप्रतिपालनम्, पूर्वेषां सगरसुतानां कीर्त्तिलङ्घनादिकञ्चापाततो निन्देव प्रतिभाति, चरमे तु पितुः प्रतिज्ञा संरक्षिता, दुस्तरं तोयनिधिमुत्तीर्य्य दुःसहप्रतापो वनितापहारी दशाननो विजितः समूलमुन्मूलितश्चेत्यहो दुष्करं कृतमिति सर्वमेव स्तुत्यां पर्य्यवस्यतीति निन्दायाः स्तुतिरूपेण पर्य्यवसाने व्याजस्तुतिः।
+
+**युक्तं तवैतत् रघुवंशभूपते! सतां हि सख्युः परिपालनं व्रतम्।  
+इतः स्तुतिः का जगदीश! निर्मला भवान् यदर्थं न्यवधीन्निरागसम्॥ (५८)**
+
+——————————————————————————————————
+
+विपिने निविड़ारण्ये मुग्धकान्तां सुन्दरीं रमणीं हारयन् राक्षसेनेति शेषः कपिभिः वानरैः असमम् अतुल्यं सख्यं बद्धा कृत्वा वः युस्माकं पूर्वेषां पूर्वपुरुषाणां सगरवंशीयानामित्यर्थः अग्र्यां महतीं कीर्त्तिं सागरमित्यर्थः लङ्घयन् सेतुबन्धनेन तरन्नित्यर्थः हेमलङ्कां स्वर्णलङ्कापुरीं विलयं विध्वंसम् अनयः प्रापितवानसि, किमेतत्?
+
+ (५८) युक्तमिति। हे रघुवंशभूपते! तव एतत् सुग्रीवप्रीतिकरणमिति भावः युक्तम् उचितं हि यतः सतां साधूनां सख्युः परिपालनं परिरक्षणं व्रतम् अववश्यकर्त्तव्यमित्यथेः, हे जगदीश! इतः अस्मात् परं निर्मला विशुद्धा स्तुतिः का? यदर्थं यस्याः स्तुत्याः कृते इत्यर्थः भवान् निरागमं निरपराधं मामिति शेषः न्यवधीत् निहतवान्। रामं प्रति बालिराजस्योक्तिः।
+
+——————————————————————————————————
+
+ अत्र प्रियबन्धोः संरक्षणमुचितमेवेति तव सुग्रीवसहायत्वं युक्तमेवेत्यापाततः स्तुतिरपि, मित्रकार्य्यार्थं निरपराधस्य जीर्णकलेवरस्य शाखामृगस्य मे हननं सर्वथा गर्हितमेवेति चरमे निन्दायां पर्य्यवस्यतीति स्तुतेर्निन्दायां पर्य्यवसाने व्याजस्तुतिः।
+
+**"प्रसिद्धस्योपमानस्योपमेयत्वप्रकल्पनम्।  
+निष्फलत्वाभिधानं वा प्रतीपमिति कथ्यते"॥ विश्वनाथः।**
+
+ क्रमेण यथा,—
+
+**"यत्त्वन्नेत्रसमानकान्ति सलिले मग्नं तदिन्दीवरं मेघैरन्तरितः प्रिये! तव मुखच्छायानुकारी शशी।  
+येऽपि त्वद्गमनानुकारिगतयस्ते राजहंसा गतास्त्वत्सादृश्यविनोदमात्रमपि मे दैवेन न क्षम्यते"॥ (५९)**
+
+——————————————————————————————————
+
+ (५९) यदिति। हे प्रिये! तव नेत्रयोः समाना कान्तिर्यस्य तादृयं यत् इन्दीवरं नीलोत्पलम् इन्दीवरञ्च नीलेऽस्मिन्नित्यमरः। तत् सलिले जले मग्नं विनष्टम्। तव मुखच्छायानुकारी त्वन्मुखसदृशकान्तिरित्यर्थः शशी चन्द्रः मेघैरन्तरितः तिरोहितः, येऽपि तव गमनानुकारिणो गतिर्येषां तादृशाः राजहंसाः, तेऽपि गताः मानसमिति शेषः वर्षासु हंसानां मानसगमनस्य कविसमयसिद्धत्वादिति भावः। अतः दैवेन प्रतिकूलविधिनेत्यर्थः तव सादृश्येन यः विनोदः कथमपि चित्तसन्तोषः तन्मात्रमपि न क्षम्यते न सह्यते। सादृश्यदर्शनादयो हि विरहिणां विनोदा इति शास्त्रात्। सीतामुद्धृत्य रामस्य तां प्रत्युक्तिः।
+
+——————————————————————————————————
+
+**"मुखं यदि किमिन्दुना यदि चलाञ्चले लोचने किमुत्पलकदम्बकैर्यदि तरङ्गभङ्गी भ्रुवौ।  
+किमात्मभवधन्वना यदि सुसंयताः कुन्तलाः किमम्बुवहडम्बरैर्यदि तनूरियं किं श्रिया"॥ (६०) वी॰ च॰।**
+
+ प्रथमे प्रसिद्धानामुपमावस्तूनामिन्दीवरादीनामुपमेयत्वप्रकल्पनम्, द्वितीये इन्दुप्रभृतीनां निष्फलत्वकथनम्।
+
+**'शब्दैः स्वभावादेकार्थैः श्लेषोऽनेकार्थवाचनम्'। विश्वनाथः।**
+
+——————————————————————————————————
+
+ (६०) मुखमिति। यदि मुखं तस्या इति शेषः विद्यते इति शेषः तदा इन्दुना चन्द्रेण किम्? न किमपि प्रयोजनमित्यर्थः। तन्मुखेनैव इन्दुकार्य्यस्य समाधानादिति भावः। यदि चले अञ्चले प्रान्तभागौ अपाङ्गावित्यर्थः ययोः तादृशे लोचने विद्येते तस्या इति शैषः, तदा उत्पलानां नीलोत्पलानां कदम्बकैः सङ्घैः किम्? न किमपि प्रयोजनमित्यर्थः। तत् कार्य्यस्य लोचनाभ्यामेव समाधानादिति भावः। यदि तरङ्गस्येव भङ्गिः कौटिल्यं ययोः तादृश्यौ भ्रुवौ विद्येते तस्या इति शेषः, तदा आत्मभवस्य कामस्य धन्वना धनुषा किम्? नैव प्रयोजनमस्तीत्यर्थः कामकार्मुककार्य्यस्य तदु भ्रुयुगलाभ्यामेव समाधानादिति भावः। यदि सुसंयताः सुष्ठु बद्धाः कुन्तलाः केशाः विद्यन्ते तस्या इति शेषः तदा अम्बुवहानां मेघानां डम्बरैः विस्तरैः किं नैव प्रयोजनमस्तीत्यर्थः अत्रापि पूर्ववदेव हेतुर्द्रष्टव्यः। यदि इयं तनुः शरीरं विद्यते तस्या इति शेषः तदा श्रिया लक्ष्म्या किम्? नैव प्रयोजनमस्तीत्यर्थः अत्रापि पूर्ववदेव हेतुर्बोध्यः।
+
+——————————————————————————————————
+
+ स्वभावादेकार्थैरिति शब्दश्लेषात्, वाचनमिति च ध्वनेर्व्यवच्छेदः यथा,—
+
+**"खलस्य कण्टकस्यैव द्विविधैव प्रतिक्रिया।  
+उपानहा वक्तभङ्गो दूरतो वा विवर्जनम्"॥ (६१)**
+
+**"सा सहोक्तिः सहार्थस्य बलादेकं द्विवाचकम्"।**
+
+ यथा,—
+
+**"पुरोपनीतं नृप! रामणीयकं द्विजातिशेषेण यदेतदन्धसा।  
+तदद्य ते वन्यफलाशिनः परस्परैति कार्श्यं यशसा समं वपुः"॥ (६२) भार॰**
+
+ अत्र वपुर्यशश्चोभयमपि क्षीयते इति सहार्थवलाद्बोध्यते।
+
+——————————————————————————————————
+
+ (६१) खलस्येति। खलस्य दुर्जनस्य तथा कण्टकस्य द्विविधा एव प्रतिक्रिया प्रतीकारः, उपानहा चर्मपादुकया वक्तभङ्गः मुखभङ्गः, वा दूरतः विवर्जनं परिहारः संसर्गपरित्याग इत्यर्थः कर्त्तव्यमिति शेषः। वक्तशब्दः स्वभावादेकार्थ एव, अत्र तु खलस्य वक्तं वदनं कण्टकस्य वक्तम् अग्रभाग इति अनेकार्थयोः प्रतिपादनं बोध्यम्।
+
+ (६२) पुरोपनीतमिति। युधिष्ठिरं द्वैतवनवासिनं प्रति द्रौपद्या उक्तिः। हे नृप! राजन्! यदेतत् तव वपुः शरीरं पुरा पूर्वं द्विजातिशेषेण ब्राह्मणमुक्तावशिष्टेन अन्धसा अन्नेन रामणीयकं रमणीयत्वम् उपनीतं गमितं, तत् वपुः अद्य वन्यफलाशिनः, वनफलभोजिनः ते तव यशसा समं सह परम् अत्यर्थं कार्श्यं क्षयमित्यर्थः परैति प्राप्नोति।
+
+——————————————————————————————————
+
+**"हेतोर्वाक्यपदार्थत्वे काव्यलिङ्गमुदाहृतम्"। विश्वनाथः।**
+
+ वाक्यस्य पदार्थस्य वा हेतुरूपेणोक्तौ काव्यलिङ्गम्।
+
+ यथा,—
+
+**"रे हस्त ! दक्षिण मृतस्य शिशोर्द्विजस्य जीवातवे विसृज शूद्रमुनौ कृपाणम्।  
+रामस्य गात्रमसि दुर्भरगर्भखिन्नसीताप्रवासनपटोः करुणा कुतस्ते?"॥ (६३) (उ॰ च॰)**
+
+ अत्र करुणाया अभावे 'रामस्य गात्रमसि' इति वाक्यं, 'दुर्भरगर्भखिन्नसोताप्रवासनपटोः' इति पदार्थश्च हेतुः।
+
+**"विभावना विना हेतुं कार्य्योत्पत्तिर्वदुच्यते"। विश्वनाथः।**
+
+ यथा,—
+
+**"अपमेघोदयं वर्षमदृष्टकुसुमं फलम्।  
+अतर्कितोपपन्नं वो दर्शनं प्रतिभाति मे"॥ (६४) (कु॰ स॰)**
+
+——————————————————————————————————
+
+ (६३) रे हन्तेति हे दक्षिणहस्त! मृतस्य द्विजस्य शिशोः जीवातवे जावनाय शूद्रमुनौ कृपाणं विसृज शूद्रमुनिं प्रहरेत्यर्थः। कथमहसीदृशमकार्य्यं करवाणीत्याशङ्का तव अकरणीयं नास्तीति प्रबोध्याह रामस्येति दुर्वहेण वोढुमशक्येन गर्भेण खिन्ना क्लान्ता या सीताः तस्याः प्रवासने निर्वासने पटोः दक्षस्य रामस्य गात्रम् अङ्गमसि, ते तव करुणा कुतः?
+
+ (६४) अपमेघोदयमिति। वः युस्माकम् अतर्कितोपपन्नम् अभावितोपस्थितं दर्शनं मे मम अपगतो मेघानामुदयो यत्र तादृशं वर्षं तथा न दृष्टं कुसुमं यस्य तथाभूतं फलं प्रतिभाति।
+
+——————————————————————————————————
+
+ अत्र मेघोदयकुसुमरूपकारणयोरभावेऽपि वर्षफलरूपकार्य्ययोरभिधानम्।
+
+**'सति हेतौ फलाभावे विशेषोक्तिस्'त्रिधा च सा।  
+उक्त्यनुक्त्योर्निमित्तस्याप्यचिन्त्यत्वे च कुत्रचित्॥**
+
+ उक्तनिमित्ता अनुक्तनिमित्ता अचिन्त्यनिमित्ता चेति सा त्रिधा। क्रमेण यथा,—
+
+**"धनिनोऽपि निरुन्मदा युवानोऽपि न चञ्चलाः।  
+प्रभवोऽप्यप्रमत्तास्ते महामहिमशालिनः"॥ (६५)**
+
+ अत्र धनादिरूपहेतुमत्त्वेऽपि उन्मादादिरूपफलाभावः महामहिमशालित्वञ्चात्र निमित्तमुक्तम्। अत्रैव चतुर्थपादे "कियन्तः सन्ति भूतले" इति पाठे निमित्तमनुक्तं भवति,—
+
+**"स एकस्त्रीणि जयति जगन्ति कुसुमायुधः।  
+हरतापि तनुं यस्य शम्भुना न बलं हृतम्"॥ (६६)**
+
+ अत्र तनुहरणेऽपि बलाहरणे निमित्तमचिन्त्यम्।
+
+——————————————————————————————————
+
+ (६५) धनिन इति। ते जनाः धनिनोऽपि धनवन्तोऽपि निरुन्मादाः उन्मादरहिताः अप्रचण्डा इत्यर्थः युवानोऽपि तरुणा अपि न चञ्चलाः चापल्यरहिता इत्यर्थः। प्रभवः निग्रहानुपहसमर्था अपि अप्रमत्ताः अवहिता इत्यर्थः, यतः महामहिमशालिनः महाप्रभवन्त इत्यर्थः।
+
+ (६६) स इति। स प्रसिद्धः कुसुमायुधः एकः एकाकीत्यर्थः त्रीणि जगन्ति जयति, शम्भुना हरेण तनुम् अङ्गं हरतापि दहतापि यस्य कुसुमायुधस्य बलं सामर्थ्यं न हृतम्।
+
+——————————————————————————————————
+
+**"विरोधः सोऽविरोधेऽपि विरुद्धत्वे न यद्वचः"। मम्मटः।**
+
+ वस्तुतोऽविरोधेऽपि विरुद्धयोरिव धर्मयोर्यदभिधानं स विरोधः, अयमेव विरोधाभास इत्यप्युच्यते। व्यधिकरणयोरिव धर्मयोः सामान्याधिकरण्येन निर्देशो विरोधः। धर्मश्चात्र जातिगुणक्रियाद्रव्यरूपः। उदाहरणम्,—
+
+**अजस्य गृह्णतो जन्म निरीहस्य हतद्धिषः।  
+स्वपतो जागरूकस्य याथार्थ्यं वेद कस्तव"॥ (६७) (रघुवं॰)**
+
+**"जगद्योनिरयोनिस्त्वं जगदन्तो निरन्तकः।  
+जगदादिरनादिस्त्वं जगदीशो निरीश्वरः"॥ (६८) कु॰स॰**
+
+ प्रथमे भगवतः प्रभावस्यातिशयित्वादापाततः प्रतीवमानस्य विरोधस्य समाधानम्, द्वितीये नञ्तत्परुषसमासे विरोधः, बहुव्रीहिणा परिहारः।
+
+——————————————————————————————
+
+ (६७) अजस्येति। देवानां विष्णुं प्रति स्तुतिः। हे देव! को जनः अजस्य जन्मरहितस्य अथच जन्म गृह्णतः जायमानस्यैत्यर्थः निरीहस्य निश्चेष्टस्य अथच हता द्विषः शत्रवो येन तथोक्तस्य स्वपतः निद्राणस्य अथच जागरूकस्य तव याथार्थ्यं तत्त्वं वेद जानाति? न कोऽपीत्यर्थः।
+
+ (६८) जगदिति। ब्रह्माणं प्रति देवानां स्तुतिः हे देव! त्वं जगतां योनिः प्रभवः, स्वयम् अयोनिः नास्ति योनिः प्रभवो यस्य तथाभूतः। जगताम् अन्तयति अन्तः नाशक इत्यर्थः नास्ति अन्तको यस्य स निरन्तकः स्वयं नाशरहित इत्यर्थः। त्वं जगताम् आदिः मूलकारणं स्वयं नास्ति आदिर्यस्य तथोक्तः। जगताम् ईशः स्वामी, स्वयं निरीश्वरः स्वामिरहित इत्यर्थः।
+
+——————————————————————————————————
 
 **"गुणक्रिये वा यत् स्यातां विरुद्धे हेतुकार्य्ययोः।  
-यद्वारब्धस्य वैफल्यमनर्थस्य च सम्भवः।**  
-**विरूपयोः सङ्घटना या च तद्विषमं मतम्**<MISSING_FIG href="../books_images/U-IMG-1706016688image13.jpg"/>**”॥ विश्व.**
+यद्वारब्धस्य वैफल्यमनर्सस्व च सम्भवः।  
+विरूपयोः सङ्घटना या च तद्विषमं मतम्"॥ विश्वनाथः।**
 
-  यत्र, कारणगुण एकः कार्य्यगुणस्तद्विपरीतः, क्रिया वा  
-----------------------------------------------------------------------------  
-<MISSING_FIG href="../books_images/U-IMG-1706016688image13.jpg"/> यत्र गुणादेरेकात्रयवृत्तित्वेन परस्परविरोधः तत्रैव विरोधालङ्कारो भवितुमर्हति । यत्र पुनः कार्यकारणयोर्भिन्नात्रयत्तित्वेन परस्परविरुद्धत्वं तत्रैव विषमस्यावसर इत्ययोर्भेदः ।  
-----------------------------------------------------------------------------
+ यत्र, कारणगुण एकः कार्य्यगुणस्तद्विपरीतः, क्रिया वा द्वयोर्विरुद्धा, यत्र न केवलमारब्धस्य वैफल्यमनर्थापत्तिश्च, यद्विषमयोर्मेलनञ्च भवेत्। तदेवं चतुर्धा विषमम्, क्रमेण यथा,—
 
- द्वयोर्विरुद्धा, यत्र न केवलमारब्धस्य वैफल्यमनर्थापत्तिश्च, यद् विषमयोर्मेलनञ्च भवेत्। तदेवं चतुर्धा विषमम्, क्रमेण यथा —
+**"सद्यः करस्पर्शमवाप्य चित्रं  
+रणे रणे यस्य कृपाणलेखा।  
+तमालनीला शरदिन्दुपाण्डु  
+यशस्त्रिलोक्याभरणं प्रसूते"॥ (६९)**
 
-"सद्यः करस्पर्शमवाप्य चित्वं रणे रखे यस्य कृपाणलेखा।  
- तमालनीला शरदिन्दुपाण्ड यशविलोक्याभरणं प्रस्ते"।
+ अत्र कारणरूपासिलतायाः 'कारणगुणाः कार्य्यगुणमारभन्ते' इति स्थितेर्विरुद्धा शुक्लयशस उत्पत्तिः।
 
- अत्र कारणरूपासिलतायाः 'कारणगुणाः कार्यगुणमारभन्ते इति स्थितेर्विरुद्धाशुक्लयशस उत्पत्तिः।
+——————————————————————————————
 
-“आनन्दममन्दमिमं कुवलयदललोचने ददासि त्वम्।  
- विरहस्त्वयैव जनितस्तापयतितरां शरीरं मे॥
+ \*यत्र गुणादेरेकाश्रयवृत्तित्वेन परस्परविरोधः, तत्रैव विरोधालङ्कारो भवितुमर्हति। यत्र पुनः कार्य्यकारणयोर्भिन्नाश्रयवृत्तित्वेन परस्परविरुद्धत्वं तत्रैव विषमस्यावसर इत्यनयोर्भेदः।
 
- अत्रत्वमानन्दं ददासि तज्जनितो विरहस्तु तापयतितरामिति हेतुकार्य्ययोर्विरुद्धाक्रिया।
+——————————————————————————————
 
-“अयं रत्नाकरोऽम्भोधिरित्यसेवि धनाशया।  
-धनं दूरेऽस्तु वदनमपरि चारवारिभिः"॥
+ (६९) सद्य इति। तमालनीला कृपाणलेखा रणे रणे प्रतिरणम् अस्य करस्पर्शमवाप्य प्राप्य करे स्थित्वेत्यर्थः शरदिन्दुपाण्डु शरञ्चन्द्रशुभ्रं त्रिलोक्याभरणं त्रिलोक्या अलङ्कारभूतं यशः सद्यः प्रसूते तनोतीत्यर्थः चित्रम् आश्चर्य्यम्।
 
- अत्र न केवलं काङ्क्षितधनलाभो माभूत् प्रत्युत क्षारवारिभिर्वदनपूरणरूपानर्थपातः।
+——————————————————————————————
 
-“अन्दृताङ्गिरं न गदसीति जगति पटहैर्विधुष्यसे।  
-निन्द्यमथक्हटिमर्चयतस्तव कर्मणैवविकसत्यसत्यता”॥माघः 
+**"आनन्दममन्दमिमं कुवलयदललोचने! ददासि त्वम्।  
+विरहस्त्वयैव जनितस्तापयतितरां शरीरं मे"॥ (७०)**
 
-**अत्र सत्यप्रख्यापनासत्यसमाचरणयोर्विरूपयोः सङ्घटना।  
-"कार्य्यकारणयोर्भिन्नदेशतायामसङ्गतिः”। विश्व०**
+ अत्र त्वमानन्दं ददासि तज्जनितो विरहस्तु तापयतितरामिति हेतुकार्य्ययोविरुद्धा क्रिया।
 
-यथा, —
+**"अयं रत्नाकरोऽम्भोधिरित्यसेवि धनाशया।  
+धनं दूरेऽस्तु वदनमपूरि क्षारवारिभिः"॥ (७१)**
 
-“जस्सेच्च वणोतस्येश्चबेत्रणा भाद्र जथ्यो तं अखिन्नं।  
-दन्तक्यंकबोले वहए बेचणा सबत्तीणम्”॥
+ अत्र न केवलं कातिधनलाभो माभूत् प्रत्युत क्षारवारिभिर्वदनपूरणरूपानर्थपातः।
 
- अत्र एकस्याः कपोले दशनक्षतमपरस्यावेदनेति कार्य्यकारणयोर्भिन्नाश्रयत्वम्।
+**"अनृताङ्गिरं न गदसीति जगति पटहैर्विधुप्यसे।  
+निन्द्यमथ च हरिमर्चयतस्तव कर्मणैव विकसत्यसत्यता"॥ (७२) माघः।**
 
-**"परं परं प्रति यदा पूर्व्वपूर्व्वस्य हेतुता ।  
-तदा कारणमाला स्याद्” दर्पणे समुदीरिता॥**
+ अत्र सत्यप्रख्यापनासत्यसमाचरणयोर्विरूपयोः सङ्घटना।
 
-यथा “जितेन्द्रियत्वं विनयस्य कारणं गुणप्रकर्षो विनयादवाम्यते।  
-गुण प्रकर्षेण जनोऽनुरज्यते जनानुरागप्रभवा हि सम्पदः"॥
+——————————————————————————————————
 
-**“उत्तरोत्तरमुत्कर्षो भवेत् सारः परावधिः”।** मम्मटः
+ (७०) आनन्दमिति। हे कुवलयदललोचने! नीलोत्पलदलाक्षि! त्वम् इमम् अमन्दं महान्तमित्यर्थः आनन्दं ददासि, त्वयैव जनितः उत्पादितः विरहस्तु मे मम शरीरं तापयतितराम् अतिशयेन तापयतीत्यर्थः।
 
-“राज्ये सारं वसुधा बक्षुधाय पुरं पुरे सौधम्।  
-सौधे तल्पं तल्पे वराङ्गनानङ्गसर्व्वस्वम्”॥
+ (७१) अयमिति। अयम् अम्भोधिः समुद्रः रत्नानामाकर इति वुद्धेति शेषः धनाशया असेवि सेवितः मयेति शेषः। धनं दूरेऽस्तु तिष्ठतु, प्रत्युत क्षारवारिभिः लवणजलैः वदनम् अपूरि परिपूरितम्।
 
-**"पूर्व्वं पूर्वंप्रतिविशेषणत्वेन परं परम्।  
-स्थाप्यतेऽपोचते वा चेत् स्यात्तदैकावली द्विधा॥ विश्व०**
+ (७२) अमृतमिति। युधिष्ठिरं प्रति शिशुपालस्योक्तिः। हे धर्मराज! अनृताम् असत्यां गिरं वाचं न गदसि न कथयसि इति जगति पटहैः वाद्यभेदैः विधुप्यसे कीर्त्त्यसे अथ च निन्द्यं हरिं कृष्णम् अर्चयत स्तव कर्मणैव निन्दनीयार्चनरूपेणेत्यर्थः असत्यता अनृतवादिता विकसति प्रकाशते।
 
-पूर्वं पूर्व्वं प्रतियथोत्तरस्य वस्तुनो विशेषणत्वेन यत्स्थापनंनिषेधो वा सम्भवति सा द्विधा बुधैरेकावली कथ्यते। क्रमेणोदाहरणम्,—
+——————————————————————————————————
 
-“सरो विकसिताम्भोजमम्भोजं भृङ्गसङ्गतम्।  
-भृङ्गा यत्न समङ्गीताः सङ्गीतं मधुवर्षि च॥
+**"कार्य्यकारणयोर्भिन्नदेशतायामसङ्गतिः"। विश्वनाथः।**
 
- अत्र सरसोऽम्भोजं तस्य भृङ्गं इत्यादि क्रमेण विशेषणं विधीयते।
+ यथा,—
 
-“न तज्जलं यज्ञ सुचारुपङ्कजं म पङ्कजं तद्यदलीनषट्पदम्।  
-षट्पदोऽसौ न जुगुञ्ज यः कलं न गुञ्जितं तच जहार यन्मनः”॥भट्टिः
+**"जस्से अ बणो तस्से अ बेअणा भणइ जणो तम् अलिअम्।  
+दन्तक्खअं कबोले बहए बेअणा सबत्तीणम्"॥ (७३)**
 
- अत्र क्रमेण पूर्व्वपूर्व्वस्य निषेधः।
+ अत्र एकस्याः कपोले दशनक्षतमपरस्या वेदनेति कार्य्यकारणयोर्भिन्नाश्रयत्वम्।
 
-**"दण्डापूपिकयाऽन्यार्थागमोऽर्थापत्तिरिष्यते”।**
+**"परं परं प्रति यदा पूर्वपूर्वस्य हेतुता।  
+तदा कारणमाला स्याद्" दर्पणे समुदीरिता॥**
 
-  मूषिकेण दण्डो भक्षित इत्यनेन तत्सहचरितमपूपभक्षणमर्थादायातं भवतीति न्यायो दण्डापूपिका तयाऽर्थानन्तरबोधनमर्थापत्तिः। यथा, —
+ यथा,—
 
-"विललाप स बाष्पगद्गदं सहजामप्यपहाय धीरताम्।  
-अभितप्तमयोऽपि मार्हृवं भजते कैव कथा शरीरिषु”॥ रघु०
+**"जितेन्द्रियत्वं विनयस्य कारणं  
+गुणप्रकर्षो विनयादवाप्यते।  
+गुणप्रकर्षेण जनोऽनुरज्यते  
+जनानुरागप्रभवा हि सम्पदः"॥ (७४)**
 
-  अतिकठिनं लोहमपि तापेन गलितं भवतीति तदपेक्षयाऽतिसुकुमारस्य मनुष्यहृदयस्य गलनं सुतरामायातीत्यर्थापत्तिः।
+——————————————————————————————————
 
-अलङ्कारविवेको नाम अष्टमशिखा।
+ (७३) जस्से अ इति।
 
-**-------------------------**
+यस्यैव व्रणस्तस्यैव वेदना भणति जनस्तदलीकम्।  
+दन्तक्षतं कपोले बध्वा वेदना सपत्नीनाम्॥
 
-**समाप्तश्चायं ग्रन्थः।**
+ (७४) जितेन्द्रियत्वमिति। जितेन्द्रियत्वम् इन्द्रियदमनं विनयस्य शिष्टाचारस्य कारणं हेतुः विनयात् गुणप्रकर्षः गुणानामुत्कर्षः अवाप्यते लभ्यते। गुणप्रकर्षेण जनः लोकः अनुरज्यते सम्पदः जनानाम्
 
-<MISSING_FIG href="../books_images/U-IMG-1702562873Untitled-removebg-preview(1"/>.png)
+——————————————————————————————————
+
+**"उत्तरोत्तरमुत्कर्षो भवेत् सारः परावधिः। (७५) मम्मटः।**
+
+**"राज्ये सारं वसुधा वसुधायां पुरं पुरे सौधम् ।  
+सौधे तल्पं तल्पे वराङ्गनानङ्गसर्वस्वम्"॥ (७६)**
+
+**"पूर्वं पूर्वं प्रति विशेषणत्वेन परं परम्।  
+स्थाप्यतेऽपोह्यते वा चेत् स्यात्तदैकावली द्विधा"॥ विश्वनाथः।**
+
+ पूर्वं पूर्वं पति यथोत्तरस्य वस्तुनो विशेषणत्वेन यत् स्थापनं निषेधो वा सम्भवति सा द्विधा बुधैरेकावली कथ्यते। क्रमेणोदाहरणम्,—
+
+**"सरो विकसिताम्भोजमम्भोजं भृङ्गसङ्गतन्।  
+भृङ्गा यत्र ससङ्गीताः सङ्गीतं मधुवर्षि च"॥ (७७)**
+
+——————————————————————————————————
+
+अनुरागः प्रभवो यासां तथाविधा हि लोकानुरागेणैव सम्पदो लभ्यन्ते इति भावः।
+
+ (७५) उत्तरोत्तरमिति। उत्तरोत्तरम् उत्कर्षः परः त्रेष्ठः अवधिः यस्य तथाभूतः सारः तदाख्यालङ्कारो भवेत्।
+
+ (७६) राज्ये इति। राज्ये राज्यमध्ये वसुधा लोकवासभूता महोत्यर्थः सारं श्रेष्ठेत्यर्थः। वसुधायां पुरं नगरं पुरे नगरे सौधं हम्यं सौधे हर्म्ये तल्पं शय्या, तल्पे अनङ्गसर्वस्वं वराङ्गना उत्तमा कान्ता सारमित्यनेन सर्वत्र सम्बन्धः।
+
+ (७७) सर इति। यत्र सरः सरोवरं विकसितानि अम्भोजानि पद्मानि यस्मिन् तत् तथोक्तम्। अम्भोजं भृङ्गैः सङ्गतं युक्तं भृङ्गाः
+
+——————————————————————————————————
+
+ अत्र सरसोऽम्भोजं तस्य भृङ्गम् इत्यादि क्रमेण विशेषणं विधीयते।
+
+**"न तज्जलं यन्न सुचारु पङ्कजं  
+न पङ्कजं तद्यदधीनषट्पदम्।  
+न षट्पदौऽसौ न जुगुञ्ज यः कलं  
+न गुञ्जितं तत्र जहार यन्मनः"॥ (७८) भट्टिः।**
+
+ अत्र क्रमेण पूर्वपूर्वस्य निषेधः।
+
+**"दण्डापूपिकयाऽन्यार्थागमोऽर्थापत्तिरिष्यते'।**
+
+ मूषिकेण दण्डो भक्षित इत्यनेन तत्सहचरितमपूपभक्षणमर्यादायातं भवतीति न्यायो दण्डापूपिका तयाऽर्थानन्तरबोधनमर्थापत्तिः। यथा,—
+
+**"विललाप स बाष्पगद्गद सहजामप्यपहाय धीरताम्।**
+
+——————————————————————————————————
+
+ससङ्गीताः गुञ्जनकारिणः। सङ्गीतं गुञ्जनञ्च मधुवर्षि च अतिमधुरमित्यर्थः।
+
+ (७८) नेति। तत् जलं न आसीदिति शेषः यत् सुचारूणि पङ्कजानि यस्मिन् तयोक्तम्। तत् पङ्कजं पद्मं न यत् नलोनाः षट्पदा भ्रमरा यत्र तादृशम्। असौ षट्पदो भ्रमरो न यः कलं मधुरास्फुटं न जुगुञ्ज। तत् गुञ्जितं गुञ्जनं न, यत् मनः न जहार श्रोतॄणामिति शेषः।
+
+ (७९) इन्दुमतीविरहे अजस्य विलापं वर्णयति विललापेति। सः अजः सहजां स्वाभाविकीमपि धीरताम् अपहाय बाष्पगद्गदं
+
+——————————————————————————————————
+
+**अभितप्तमयोऽपि मार्दवं भजते कैव कथा शरीरिषु"॥ (७९) रघुवंशम्।**
+
+ अतिकठिनं लोहमपि तापेन गलितं भवतीति तदपेक्षयाऽतिसुकुमारस्य मनुष्यहृदयस्य गलनं सुतरामायातीत्यर्थापत्तिः।
+
+**इति अलङ्कारविवेको नाम अष्टमशिखा।**
+
+——————————————————————————————————
+
+विललाप तथाहि अभितप्तम् अयोऽपि लौहमपि मार्दवं भजते शरीरिषु कैव कथा? न कापीत्यर्थः।
+
+इति अष्टमशिखा।
+
+इति वि, ए, उपाधिधारिणा श्रीजीवानन्दविद्यासागरभट्टाचार्य्येण  
+विरचिता काव्यदीपिकाव्याख्या समाप्ता।
+
+———
+
+समाप्तश्चायं ग्रन्थः।
+
+——————————————————————————————
+
+[TABLE]
+
+**SANSKRIT POETRY.**
+
+**———**
+
+ "Poetry," says Hazlitt, "is the language of the imagination and the passions. It relates to whatever gives immediate pleasure or pain to the human mind". Its existence may, therefore, be co-eval with the primary institution of society, and even with the first creation of man. His earliest efforts would indeed, consist of unconnected and separate pieces without any systematic arrangement. First of all, the marvellous and gigantic power of the elements, and the splendid appearance of the heavenly bodies,—the visible symbols of the invisible and infinite, would strike his mind. The exploits and prowess of the 'favored few,' shining pre-eminently over their fellowbrethren, and dazzling their eyes by a charming brilliancy, would not fail to produce their effect. Hence would, naturally, spring two sorts of poetry, the first consisting of hymns addressed to, and singing the glory and power of, the visible deities, and through them extolling the mysterious potency of the Omnipotent : and the second comprehending short ballads and songs, celebrating the exploits and adventures of some favorite hero. It would be long, before systematic and continued pieces would be originated. System is the work of time, the production of mature judgment and consummate genius.
+
+ The Greeks had got hymns and ballads before the immortal father of their poesy touched his harp. His mighty and grasping genius could hardly remain content with a few poor scraps and scattered patches, which had satisfied his predecessors. He, at once, laid and established his claim over the vast empire of poetry, and gave it a poetical organization. of his own..
+
+ The Romans, under the Republic, had no high aspirations in this department of literature. They felt not the delicate
+
+charms of poetry,—the sweet phrensy of fancy. They were emphatically the children of Mars, and bore too manly a spirit to stoop before the feminine Muses. They boasted of their stern discipline and rigid martial spirit, as the characteristic of a sovereign people, and hated the softer arts as belonging to the subject races and the effeminate barbarians. Poetry, in consequence, languished in their age, and never grew with vigor aud luxuriance. It was not till the Augustan era, that this elegant art flourished in Rome. It is a delicate plant that grows only in the congenial warith of imagination; it cannot bear the blighting heat of stern utility and rigid discipline.
+
+ The Hindus have been pre-eminently celebrated for the originality and antiquity of their poetry. Their chief defect lies in the almost absolute want of any historical records properly so called. Whatever information can be gleaned of their past history is through the gorgeous and delusive coloring of poetry, or through their intercourse with other nations. It was not till the invasion of Alexander, that any knowledge of them could be had from foreign sources. We must then look to the country itself to gain any information of the times anterior to the Greek invasion, and, in the absence, in general, of external evidence, we must place our chief reliance on the internal testimony to be extracted from the living monuments of our ancestors,—the works they have left us as an inexhaustible and priceless patrimony—the everlasting memorials of their divine genius. The vast field yet remains unexplored, or only partially explored, presenting, indeed, at the first sight, a desolate and dark appearance, but containing rich mines of gold in the interior and although the indefatigable zeal and the indomitable perseverance of some master-minds in Europe have, to some extent, smoothed the way, the deep recesses of Hindu history he yet in darkness. A Niebuhr of Indian history is yet to be born.
+
+ I do not presume at all to throw any light on Hindu history. It is beyond my capacity and acquirements. I will only attempt, in the following pages, to trace the changes, Sanskrit Poetry underwent, from its rude structure in the
+
+Vedas to the highest refinements it attained to, and its decline in latter days.
+
+ The hymns of the Rig Veda, the only portion of the sacred Scriptures which can be classed with poetry, are principally addressed to India, 'the deity of the visible firmament,' 'the God of lightning and rain', and Agni 'the God of fire', They are the oldest monuments of Hindu genius, and the earliest specimens of their poetry. The poetry, however, of the hymns, is not so simple as could be expected in so early a period of Society, "The poetry of the Rig Veda is remarkably deficient in that simplicity and natural pathos or sublimity which we usually look for in the songs of an early period of civilization." \*[^1]
+
+[^1]: # "Ed. B. Cowell. Elphinstone's History of India."
+
+ Next in succession comes the Ramayana of Valmiki, the earliest and the greatest epic in Sanskrit. Valmiki is said to be the Adikavi or primeval poet, and the inventor of Sloka, (Sanskrit verse) so called from the occasion of its birth, the compassion which filled the heart of the sage at the sight of a pair of cranes, one of which had been cruelly pierced by the arrow of a fowler. The simplicity of the style, the sweet and natural pathos pervading throughout and the prolixity (if I may so use the term) in the structure, are quite in keeping with its early date. †
+
+ The Mahabharata of Vedavyàsa contains passages full of pathos and grandeur. The descriptions in the Sabha Parva, and the pathetic delineations in the Stri Parva are genuine touches of poetry. But although the style is, in general, characterized by simplicity, and we meet with occasional prolixity in the structure, we have not here invariably the smooth and flowing strain of the Ramayana, nor always its simple, natural, yet
+
+——————————————————————————————————
+
+ † The Upanishads and the Puranas, including the Bhagavata, though they, now and then, glow with poetic sentiments, cannot properly be classed with poetry. I am not in a position to fix their dates in the progress of Sanskrit literature.
+
+——————————————————————————————————
+
+vivid style. The work of Valmíki is like a garden of nature, where she shines in simple and naked beauty, and sports, wild at her pleasure; while in the Mahabharata we have, now and then, a sprinkling of artificial tinge,—a touch of later refinements; and the style bears evident proofs of an advanced stage in the language.
+
+ But it was in the hands of Kalidasa and Bhavábhuti, that Sanskrit poetry attained to its highest refinements, consistent with purity, and without the extravagant coloring imparted to it by later writers. But as we are acquainted with Bhavabhuti as a dramatic writer, and as I shall speak of Sanskrit drama separately, I postpone noticing his poetry, till l come to treat of the subject of the Hindu theatre.
+
+ Kálidása is known to the world both as an epic and a dramatic poet. His style is pure, chaste and simple; it has not, in the least, the laxity of the sacred poems, and though characterised by brevity, perspicuity runs through every vein of his poetry. His descriptions are always true to nature, his delineation of characters faithful to the minutest point; his similes are every where appropriate, natural, beautiful. Nature yielded to him as a gentle bride, and ever remained faithful in his hands. The description of the ocean, of the forest scenery, and the hermitage of the sages therein, in the 13th Book of the Raghuvansa, when Rama returned home from Lanka;—the parting scene of Lakshmana. in the 14th, leaving Sita, the queen of Rama, alone and help- less in the wilderness, a prey to the howling beasts, and crying aloud like a frightened Kurari;—the sudden and wonderful appearance, at midnight, of the goddess of Ayodhya, before Kusha sleeping in his apartment with doors all barred and closed, and her descriptions of deserted Ayodhya, graphically contrasted with her former glory and beauty;—the most faithful delineation of the acts of the maidens of Bidarva, eager to feast their eyes with the sight of Aja in the 7th, and of those of Indraprastha; when Siva advanced through that capital in marriage procession in the 7th of Kumara;—the discourse of Siva in the disguise of an ascetic, and Párvati prac
+
+tising hard austerities to gain his favor;—and the vivid descriptions in the Meghadúta, are among the master-pieces in the Language.
+
+ Another rare quality characterizes his poetry. He could delineate, within the shortest compass imaginable, subjects which had occupied volumes in the hands of others, and yet would not leave out a single prominent fact in his descriptions. His epithets are always appropriate and full of meaning, and he seldom uses particles merely to fill up the verse.
+
+ The style of the Kiratarjuniya of Bharavi is classical and elaborate. It has not the simplicity of the Raghuvansa, nor its natural structure. The peculiar characteristic of Bharavi's writings is the great condensation of matter. Almost every line of his poetry may form the subject of an essay. The great work of Bharavi marks a new epoch in Sanskrit poetry. In his work, to a certain extent only, but to a greater degree, in the noble productions of the poets subsequent to him, we find a more ostentatious display of learning and ingenuity, than indication of genuine touches of true and simple poetry. They possessed great powers of description, but they knew not where and when to stop. Their descriptions and discourses are sometimes too long to attract the attention of the readers. Some of them carried their refinements too far, and to an extravagance quite beyond the region of true poetry.
+
+ The Bhattikavya is a work of great merit, both as an epic poem, and possessing great grammatical interest besides. The description of autumn, opening the second Book of his work is an excellent piece of poetry, and clearly proves that the author possessed great natural powers, and a high poetical genius. But unfortunately, his object was to teach grammar through poetry, and he was therefore often forced to sacrifice the latter at the stern and rigid altar of the former.
+
+ The Sisupalabadha of Magha is an exact prototype of the great work of Bharavi. His descriptions are often too long and tedious. That of Krishna's passage, from Dwaraka to Indraprastha, takes up the space of ten long books in his hands. But the copy surpasses the original in evincing greater
+
+variety, learning and skill in the discourses and descriptions. The conference of Uddhava, Krishna and Balarama in the 2nd Book, and the quaint reproaches of Sisupala in the 15th, shew great artistic skill in the author, and are excellent pieces of their kind.
+
+ But it was in the hands of Sri Harsha in his Naishadha Charita, that refinements were carried to their utmost extravagance. His genius was too sharp to keep the tender graces of Poetry unhurt. His exaggerations knew no bounds—were checked by no rules. His horses, were too ambitious to rest satisfied with the whole space of earth for their range; they must dry the ocean with the dust of their hoofs to have a wider scope for their course. The moon had the misfortune to part with a great portion of the bright matter of her orb for the formation of the face of Damayanti, by the great creator, and hence the dark spots in her disst. Such unnatural exaggerations abound in the great work of Sri Harsha. But his descriptions, arguments and discourses shew marks of a very sharp intellect, great genius, consuramate skill, and most profound learning.
+
+ The Rághavapàndaviya of Kaviraja is a work of little merit, contains less poetry, and is noted only for its verbal in genuity, all its slokas bearing a double sense throughout the poem.
+
+ Thus Sankrit poetry gradually degenerated into mere verbal quibbles and pompous bombastic trash.
+
+ The 'Sugared' pastoral songs of our 'honoy-tongued' Jayadeva are the only exceptions, and they are the only pieces of the kind in Sanskrit poetry. They flow in soft and liquid strain. They are, indeed, as the poet boasts, sweeter than nectar, softer than the softest feminine graces, and more musical than the harmonious tune of the Vina.
+
+ I purposely omitted to mention the name of the Nalodaya ascribed to Kalidasa. I need hardly remark, that as a poetical work, it is of litte merit, contains mere verbal ingenuity, and is not at all worthy the name of the greatest of Sanskrit bards. It is perhaps the work of a Kalidasa who lived long after his celebrated namesake,
+
+ Sanskrit poetry is very poor in prose productions. I shall barely mention the names of the only ones which can be classed with poetry. These are the Dasakumara Charita of Sri-Dandin, the Kadambari of Vana Bhatta and the Vashavadatta of Subandhu.
+
+ The dramatic literature of a country is important and interesting not only in a literary and philological point of view, but also as it throws light on the manners and customs of the people, on the state of religion and philosophy of the time, and in short, on the general history of the nation. "The objects," says Prof. Wilson "for which an ancient dialect may be studied are its philology and its literature, or the arts and sciences, the notion and manners, the history and belief, of the people by whom it was spoken. Particular branches of composition may be preferably cultivated for the due understanding of each of these subjects, but there is no one species which will be found to embrace so many purposes as the dramatic. The dialogue varies from simple to elaborate, from the conversation of ordinary life to the highest refinements of poetical taste. The illustrations are drawn from every known product of art, as well as every observable phenomenon of nature. The manners and feeling of the people are delineated living and breathing before us, and history and religion furnish the most imporant and interesting topics to the bard. Wherever therefore there exists a dramatic literature, it must be pre-eminently entitled to the attention of the philosoplier as well as the philologist, of the man of general literary taste as well as the professional scholar."
+
+ The drama of the Hindus is original and their own; it is borrowed from no other nation ancient or modern. It belongs to that class of dramatic literature which modern European scholars have termed Romantic, in opposition to what has been styled classical. Schlegel remarks "the only specimen of their plays hitherto known to us is the delightful Sakuntala, which, not with standing the foreign coloring of its native climate, bears in its general structure such a striking resemblance to our own romantic drama, that we might be inclined to sus-
+
+peet, we owe this resemblance to the predilection for Shakespeare, entertained by the English translator Sir W. Jones, if his fidelity were not attested by other learned orientalists'.
+
+ The number of Sanskrit dramas, now extant, is indeed very small, when compared with the theatre of some other nations. But this is probably owing to the unfrequency of their representations, and to the neglect of this department of literature by the learned. "They seem to have been acted only on solemn and public occasions". Numbers[^2] doubtless are lost, and only those of peculiar merit have come down to us. And "that the Hindu theatre is only partially represented by the surviving specimens, is proved by the fact, that one of the earliest of their plays, the Vikramorvasi of Kalidasa, refers to the sage Bharata as having analysed the dramatic art. The long lost poetics of the Hindu Aristotle in 34 chapters have been recently discovered and printed. Many plays must have been composed before a critic could have written so copiously on the theory[^3]."
+
+[^2]: # "Wilson's Hindu Theatre."
+
+[^3]: # "E. B. Cowell."
+
+ A peculiarity of the Hindu drama is the mixing of Prakrita dialects in the speeches of the inferior dramatis personae. This shews, that Sanskrit ceased to be the spoken language of the country before the rise of dramatic literature. I doubt, whether Sanskrit was ever the spoken dialect of the people of all India. India is not a country but a continent; and to expect a common dialect throughout this vast extent would be almost extravagant. As the descendants of the Aryas spread on all sides, their dialects, gradually and of necessity, changed, differing from the mother tongue and from each other. Hence sprang the various dialects in the different countries of India. They are all, however, the daughters of the same mother (Sanskrit), and bear a near family relation to each other. Sanskrit, however, continued to be the language of the learned and the higher classes, and like Latin in Europe during the middle ages, formed the medium for the productions of great minds in every department of learning.
+
+ Sanskrit dramatists are not shakled by the rigid and
+
+artificial rules of the Greeks and the French, nor are they allowed the extravagance of the Chinese play-writers. They have little regard for the unities of time and place. As for the unity of action. I do not clearly understand what is meant by it. "In the highest and proper signification" says Schlegel, "action is an activity dependent on the will of man. Its unity will consist in the direction towards a single end, and to its completeness belongs all that lies between the first determination and the execution of the deed." This idea of action does not apply to Hindu drama. To quote again the words of Schlegel, "What comes to pass through the principal characters, and proceeds with them, has frequently no more connection with a voluntary determination than a ship's striking on a rock in a storm'. If by unity of action' says Prof. Wilson, "be meant singleness of incident, they (Hindu dramatists) exhibit an equal disdain for such a restriction."
+
+ Another characteristic of our drama is, that we have no tragedies, that is, no dramatic composition ending tragically. Hindu dramas must, invariably and of necessity, have a happy end. The hero may encounter dreadful and serious calamities, he may suffer excruciating pangs of separation. he may wander from forest to forest, his head deranged his mind distracted in mad quest of his love; but he must be crowned with success in the end. The tragical end of the hero is shocking to Hindu idea,—shocking to their tender feelings.
+
+ Though thus we have no tragedy at all, which forms an important branch of dramatic composition of many nations, ancient and modern, there is not wanting a great variety in this department of Sanskrit literature. There are ten kinds, of Rùpakas properly so termed, and eighteen sorts of Uparupakas, the minor or inferior Rupakas. We have also moral plays as the Prabodha Chandrodaya, which are, however included in one or other of the former divisions.
+
+ I have mentioned before the numerical pancity of the Hindu dramas. To each of the two greatest masters of the art Kalidasa and Bhavabhuti are ascribed only three pieces. We have indeed, no Antiphanes whose fertile genius could produce three
+
+hundred and sixty five comedies, nor a giant Lope de Vega, the incredible number of whose dramatic compositions astounds our ears; and the lightning flash of whose genius could extend to a thousand lines, while walking in his garden. I am quite in the dark about the merit of these wonderful productions but of this, I am sure, that Sanskrit drama loses little by the smallness of the number of works in this department of poetry. Its quality fully compensates for its quantity. Moreover, we have in Kalidasa combined the greatest epic and the greatest dramatic genius in the language, an excellence which no other poet, in any nation, as far I am aware, has ever been endowed with.
+
+ Many of the earliest Sanskrit dramas are certainly lost. That oldest specimen extant of the Hindu theatre is the Mrichhakatika attributed to the royal poet Sudraka (शूद्रक) whom trandition places in the first century before Christ. That the work is of considerable antiquity, is proved by internal evidence, and by the structure of the style which is characterized by the simplicity of an early age, and has not the elaborate polish of later times.
+
+ Next we come to Kalidasa, the prince of Sanskrit bards to whose immortal genius are ascribed three dramatic pieces. Ist The Abhijnana Sakuntala, the greatest, sweetest and finest drama in the language. 2nd The Vikramorvasi, which excels in poetic and visionary charm, reminding us of the fairy scenes of Shakespeare in his Midsummer Night's Dream. 3rd The Malavikagnimitra. That the first two are the genuine productions of the same hand, there is no reason to doubt, "The subject of each is taken from heroic, mythology and a royal demigod and a nymph of more than human mould are the hero and heroine of either; there is the same vivacity of description and tenderness of feeling in both; the like delicate beauty in the thoughts and extreme elegance in the style[^2]". The Malavikagnimitra is a work of inferior merit. There is doubt whether it is the production of the favored child of Saraswati.
+
+"The internal evidence" says Prof. Wilson "is adverse to the drama's being the work of the author of Sakuntala and Vikramorvasi. There is neither the same melody in the verse, nor fancy in the thoughts."
+
+ Bhavabhùti is second only to Kalidasa in this department of poetry. To him also are attributed three dramas.=The Uttararamacharita, the Malati Madhava, and the Mahaviracharita. The peculiar merit of his poetry is the sublimity of descriptions,—a quality rarely. met with in the productions of other Sanskrit bards. His style is classical, and though elaborate, is not deformed by extravagant refinements. His descriptions of mountain scenery are highly picturesque and truly grand. His glowing delineation of the sites of the Dandakaranya,—here shining in tender green,=there looking dismal with their vast and dreary extent,=and resounding in places with the rushing of the waterfalls; and his descriptions of the transparent rills moving gently along, with their banks shaded with groves of canes, are indeed sublime and romantic. The pathetic strain,=describing the painful situation of Ayodhya's and Sita's lord, and depicting in breathing terms his tender feelings, roused by the sight of the familiar scenes, where he had lived for years with his beloved queen, whom his own cruel hands have banished from his kingdom, a victim to the howling forest, and whom he never hoped to see any more, can
+
+"create a soul,  
+Under the ribs of death";
+
+and move the senseless rocks.
+
+ The Mudra Rakshasa of Visakhsdatta is a drama of a quite different description from the works of Kalidasa and Bhavabhuti. It is entirely of a political character, and interesting in the display of Machiavelian artifices througout the work. The plot is wellconducted. The poet is much inferior to the two great masters of the art in fancy, imagery and brilliancy of thought. "The style though wanting in beauty is always vigorous and occasionally splendid''. \*[^2]
+
+ To Sri Harsha are ascribed the Ratnavali and the Nagananda. Though the former is decidedly superior to the latter, there is little doubt, that they are the productions of the same hand. Whether they are, really, the works of the Royal Bard. or presented to his Highness by Dhavaka (who got plenty of money in return) as is alleged by the author of the Kavyaprakasa, we gain or lose little by the information. This, however, is certain that they were written in the reign of the above; named Kashmerian prince, and thus we have a certain clue to their date.
+
+ The style in both, and especially in the Ratnavali, is very smooth, elegant, and exceedingly beautiful. The Prakrita of the Ratnavali, in patieular, is eminently elegant, and appears to equal advantage in no other drama. The poetry of the Ratnavali is, indeed, inferior to that of the works of Kalidasa and Bhavabhuti, both in fancy and elevation of thoughts; but I cannot go so far as Prof. Wilson in the assertion, "that there is in it no poetic spirit, no gleam of inspiration, scarce even enough to suggest a conceit in the ideas".The Ratnavalí he proceeds, and not without reason, as it seems to me, "may be taken as one of the connecting links between the old and new, school, as a not unpleasing production of that middle region through which Hindu poetry passed from elevation to extravagance."
+
+ The Venisanhàra of Bhattanarayana is a drama of ordinary merit. The style though spirited is harsh. There is enongh of passion, but very little of fancy, The peculiar excellence of the piece is the nice distinction of characters. Those of Duryodhana, Arjuna, Karna and Ashwathama, and above all, that of Bhimashsena, are faithfully delineated and minutely distinguished. Yet even in this our author failed, and miserably failed, in depicting the hero himself. Yudhisthira cannot but be the hero of the play. But he acts no prominent part in it. we do not find him at all in the stage till the cnmmencement of the last act, where even he acts the part of a credulous fool, quite incompatible with the character of the hero of a Nataka.
+
+ The dramatic works of subsequent writers abound more or
+
+less in extravagant refinements. A few only deserve notice. The Chandakaushika of Aryakshemishwara may be noted for its pathetic strain, elegant style, and the dramatic interest in the hero. The Anargharaghava of Murari is celebrated for its elaborate style, has little dramatic, merit, contains few poetic thoughts, and is full of hyperbolical extravagance and flat commonplace. The Mrigànkalekhá by Vishwanatha bears nothing original. Almost every incident and every thought in it, is borrowed from his predecessors. The Dhurtanartaka, the Hasyarnava and the Kautukasarvaswa are comic pieces or farces, being satirical attacks, the first upon the Sàiva ascetics, the second upon the licentious Brahmanas, assuming the character of religious mendicants, and the third upon princes who addict themselves to sensuality, and fail to patronize learning.
+
+ Even the present century is not altogether barren of dramatic compositions. But the productions cause only incredible labor in their birth, and are either born lifeless, or suffer a miserable life to the great uneasiness of their parents.
+
+ I shall conclude with a few remarks on the Hanumannataka or the Maha or great Nataka as it is emphatically called. It is evidently the work of several hands, the different fragments put together, aranged and formed into an entire whole (most probably) by Damodara Misra at the command of Bhoja. The poem contains passages of genuiue poetry; but it has no consistence with the principles of drama. There is no mention of entrance or exit, and the poet himself is the speaker in several places.
+
+K. C. B.
+
+————
 
 \]

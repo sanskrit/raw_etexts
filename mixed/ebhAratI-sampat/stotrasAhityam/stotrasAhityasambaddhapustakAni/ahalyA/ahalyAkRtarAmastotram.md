@@ -4,10 +4,9 @@ author = "अहल्या"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2816"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUzMDY2ODE0NTIzMDcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[अहल्याकृतरामस्तोत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjUzMDY2ODE0NTIzMDcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -17,7 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUzMDY2ODE0NTI
 
 
 
-अहल्याकृतरामस्तोत्रम्
+अहल्याकृतरामस्तोत्रं
 
 
 
@@ -62,7 +61,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUzMDY2ODE0NTI
 वागीश्वरी च तमहं शरणं प्रपद्ये ॥ ६॥
 
 सोऽयं परात्मा पुरुषः पुराण  
-एषः स्वयंज्योतिरनन्त आद्यः ।
+एषः स्वयञ्ज्योतिरनन्त आद्यः ।
 
 मायातनुं लोकविमोहनीयां  
 धत्ते परानुग्रह एष रामः ॥ ७॥
@@ -100,7 +99,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUzMDY2ODE0NTI
 असङ्गो ह्यचलो नित्यः शुद्धो बुद्धः सदव्ययः ॥ १४॥
 
 योषिन्मूढाहमज्ञा ते तत्वं जाने कथं विभो ।  
-  
+    
 तस्मात्ते शतशो राम नमस्कुर्यामनन्यधीः ॥ १५॥
 
 देव मे यत्रकुत्रापि स्थिताया अपि सर्वदा ।

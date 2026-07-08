@@ -6,11 +6,10 @@ domain = "काव्यानि"
 sub-domain = "नाटकम्"
 pages = "75"
 language = "संस्कृतम्"
-editor = "जि.हरिहरशास्त्री  वि.श्रीनिवासशास्त्री"
+editor = "जि. हरिहरशास्त्री वि. श्रीनिवासशास्त्री"
 printer = "श्रीधरपवर्-प्रेस्"
 "serial no." = "Ebharati-5442"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MDYyMTU1MTE0MjI1&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[मधुराविजयम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MDYyMTU1MTE0MjI1&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -18,25 +17,31 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MDYyMTU1MTE
 
 [TABLE]
 
+
+
 [TABLE]
+
+
 
 **P R E F A C E.**  
 (First Edition)  
 ———
 
- This work called the Madhura vijaya or the Virakamparayacharita Was written by a female author called Gangadevi, as is evident from the colophon, **“इति श्रीगङ्गादेव्याविरचिते मधुराविजयनाम्नि वीरकम्परायचरिते”**occurring at the end of the tirst andthe second sargas. It is further clear from verses 39–41 of the seventh sarga that the authoress was a queen of the ofprince Kampana, the hero of the work, who ruled at Conjeevaram about 1367 A. D.
+ This work called the Madhura vijaya or the Virakamparayacharita Was written by a female author called Gangadevi, as is evident from the colophon, **“इति श्रीगङ्गादेव्याविरचिते मधुराविजयनाम्नि वीरकम्परायचरिते”** occurring at the end of the tirst and the second sargas. It is further clear from verses 39–41 of the seventh sarga that the authoress was a queen of the of prince Kampana, the hero of the work, who ruled at Conjeevaram about 1367 A. D.
 
- It is interesting to note that Sanskrit Literature claims a number of authors From among the fair sex. In Vedic times there were such highly cultured ladies as Gargi Vachaknavi, Badava Pratitheyi and others, who were seers of Vedic hymns, and whom Asvalayana mentions along with Sumantu, Vaisampayana and other venerable Rishis of old. Rajasekhara, the dramatist who is said to have flourished about 950 A. D., has immortalized in his verses the names of a few poetesses[^1]whose capacity judged from the merit of their verses found in the extant anthologies, must have been of a high order. In his Kavyamimamsa, a work on poetics, Rajasekhara cites as authority the views of his gifted wife Avantisundari[^2], "), and also observest that women too, like men,may become poets, as the inner genius and not the sex is the determining faci or, and that there were highly accomplished daughters of kings and ministers who were not only wellversed in Sastras but were also blessed with the poetic[^3] gift.Later than our authoress, there flourished in the Court of Achyutadevaraya at Vijayanagara in the early part of the 16th century A. D. a lady author by the name of Tirumalambika,who is said to have written[^4] a Champukavya called the Vara-dambikaparinaya commemorating the marriage of Achyutadevaraya and Varadambika. The poetess Ramabhadrambaihas written a beautiful kavya known as the Raghunathabhyudaya in honor of Raghunatha-Nayaka of Tanjore, a great patron of learning and an author of many Sanskrit works, who ruled over Tanjore in the early part of the 17th century A.D. In the court of this king had also flourished the illustrious poetess Madhuravani, who is known to have composed many Sanskrit poems and written a mahakavya rendering the Andhra Ramayana of her patron into Sanskrit. From this work we further learn that there were several other ladies along with her who were eminent in poetry and other fine arts.[^5], pp.")We can thus see that there have been several female poets shining now and then, in the realm of Sanskrit Literature; but we have been able till now to come across only a very few of their works.
+ It is interesting to note that Sanskrit Literature claims a number of authors From among the fair sex. In Vedic times there were such highly cultured ladies as Gargi Vachaknavi, Badava Pratitheyi and others, who were seers of Vedic hymns, and whom Asvalayana mentions along with Sumantu, Vaisampayana and other venerable Rishis of old. Rajasekhara, the dramatist who is said to have flourished about 950 A. D., has immortalized in his verses the names of a few poetesses[^1] whose capacity judged from the merit of their verses found in the extant anthologies, must have been of a high order. In his Kavyamimamsa, a work on poetics, Rajasekhara cites as authority the views of his gifted wife Avantisundari[^2], "), and also observest that women too, like men,may become poets, as the inner genius and not the sex is the determining faci or, and that there were highly accomplished daughters of kings and ministers who were not only wellversed in Sastras but were also blessed with the poetic[^3] gift.Later than our authoress, there flourished in the Court of Achyutadevaraya at Vijayanagara in the early part of the 16th century A. D. a lady author by the name of Tirumalambika, who is said to have written[^4] a Champukavya called the Vara-dambikaparinaya commemorating the marriage of Achyutadevaraya and Varadambika. The poetess Ramabhadrambai[^5]") has written a beautiful kavya known as the Raghunathabhyudaya in honor of Raghunatha-Nayaka of Tanjore, a great patron of learning and an author of many Sanskrit works, who ruled over Tanjore in the early part of the 17th century A.D. In the court of this king had also flourished the illustrious poetess Madhuravani, who is known to have composed many Sanskrit poems and written a mahakavya rendering the Andhra Ramayana of her patron into Sanskrit. From this work we further learn that there were several other ladies along with her who were eminent in poetry and other fine arts.[^6], pp. 106-111") We can thus see that there have been several female poets shining now and then, in the realm of Sanskrit Literature; but we have been able till now to come across only a very few of their works.
 
-[^1]: "We find mention of the following names of authoresses in Sanskrit literatur eviz,, Indulekha, Kuntidevi, Gaurika, Prakasa-datta, Phalguhastini, Muktapida,Marngmala, Maurika, Prabhudevi and others."
+[^1]: # "We find mention of the following names of authoresses in Sanskrit literatur eviz,, Indulekha, Kuntidevi, Gaurika, Prakasa-datta, Phalguhastini, Muktapida,Marngmala, Maurika, Prabhudevi and others."
 
-[^2]: "Vide pp. 23, 46 and 57, Gaikwad Oriental Series No. I (1917
+[^2]: # "Vide pp. 23, 46 and 57, Gaikwad Oriental Series No. I (1917
 
-[^3]: "Ibid, p. 57,"
+[^3]: # "Ibid, p. 57,"
 
-[^4]: " This we learnt from Mr. T.S.Kuppusvami Sastriar of Tanjore. Compare also No. 9 of the Madras Epigraphical collection for 1904.-Epig, Annl. Rept. for 1904. p 36"
+[^4]: # " This we learnt from Mr. T. S. Kuppusvami Sastriar of Tanjore. Compare also No. 9 of the Madras Epigraphical collection for 1904.-Epig, Annl. Rept. for 1904. p 36"
 
-[^5]: " Vide, the ‘Indian Review,' Madras, Vol, XI (1908
+[^5]: # "vide pp. 23, 46 and 57, gaikwad orieutal series No, i (1917
+
+[^6]: # " Vide, the ‘Indian Review,' Madras, Vol, XI (1908
 
   Among the productions of the post-Vedic pootesses known to us at present, the Madhuravijaya appears to be the earliest. The historical value of this work is ably discussed in the introduction to this work; and we shall write here a few words regarding its poetical merit. The authoress instead of drawing the subject matter from the well-known Itihasas, as is usual with the generality of Sanskrit poets, has chosen the biography of her royal consort as a fit theme to exhibit her remarkable poetical talents. The work is in the form of a classical kavya conforming to the rules laid down in the treatises on poetics and contains the usual lengthy description of the seasons, the twilight, the rising of the moon and other necessary topics. The authoress writes in the Vaidarbhi style and her thoughts which flow with ease and simplicity are clothed in diction at once beautiful and charming. Her similes are grand and drawn direct from nature, with none of the conventional pedantry of grammar or rhetoric, which so largely spoils the productions of later day poets.  
  In paying a tribute to Kalidasa, the authoress observes,
@@ -75,30 +80,34 @@ G. HARIHARA SASTRI
 V SRINIAVASA SASTRI  
 (Smritivisarada)
 
-**———————**  
+**——————— **  
 SECOND EDITION  
 **————**
 
- The work was first brought out as a pure labour of love and little had I thought that there would be any necessity forthe work to go through the press agair. However, with the favourable reception it has received at the hands of the Sanskritists and on account of its having been prescribed by the University of Madras as a text-book for the B.A. Degree Examination-Group VI, the few hundred copies of the first edition have now been sold out, and I have been urged by friends to issue a second edition.  
+ The work was first brought out as a pure labour of love and little had I thought that there would be any necessity for the work to go through the press agair. However, with the favourable reception it has received at the hands of the Sanskritists and on account of its having been prescribed by the University of Madras as a text-book for the B.A. Degree Examination-Group VI, the few hundred copies of the first edition have now been sold out, and I have been urged by friends to issue a second edition.  
  Mr.R.Sewell, the author of “A Long Forgotten Empire” thinks that Kampana starting with a large army from his capital could not have reached Mulvay (Kantakanana-pattana) in five or six days’ march as stated in the work (vide. page 21-sloka 47) and that this apparently incorrect statement detracts from the historical accuracy of the work. As the distance between the Vijayanagara capital and Mulvay (N. Arcot) is likely to be only about 150 miles, it is not impossible that the army intent on a sudden manoeuvre which was calculated to take Sumbuvaraya by surprise could have, by forced marches at the rate of 30 miles a day, covered the distance in five or six days, and that there may not have been any necessity for the kavya to exaggerate its hero's achieve ment at the cost of historical veracity.
 
  Some Pandits are loath to admit that such a fine composition as the Kamparayacharita could have been the production of a woman, and they would have us believe that it may have been the work of a court poet, which had been motheredon the queen Gangadevi. This scepticism on the part of Pandits which implies an unwarranted denial of poetic geniusin women may well be convincingly answered by what has already been said above, that Sanskrit Literature can boast of quite a fair percentage of women as distinguished votaries of the poetic muse.
 
  That this work was popular among the literati is evident from the fact that it appears to have served as a model for the Raghavendravijaya, a kavya composed by Narayana Kavi in honor of the Madhvacharya, Raghavendra Svamin, the ponti- fical head of the Sumatindra-math in the 17th century A. D; for the tell-tale similarity in several ideas and expressions in both the poems could not have been the result of mere chance. A few parallels are cited below for purposes of comparison:
 
-**  Madharavijaya,           Raghavendravijaya.  
-चेतसोऽस्तु प्रसादाय            सुधीन्द्रयोगिनं वन्दे  
-सतां प्राचेतसो मुनिः।           साधुसत्कृतसम्पदम्।  
-पृथिव्यां पद्यनिर्माण-           सगद्यपद्यनिर्माण-  
-विद्यायाः प्रथमं पदम्॥( I-5 )     विद्यायाः प्रथमं पदम्॥(1-10)**
+**Madharavijaya, Raghavendravijaya.  
+चेतसोऽस्तु प्रसादाय सुधीन्द्रयोगिनं वन्दे  
+सतां प्राचेतसो मुनिः। साधुसत्कृतसम्पदम्।  
+पृथिव्यां पद्यनिर्माण- सगद्यपद्यनिर्माण-  
+विद्यायाः प्रथमं पदम्॥( I-5 ) विद्यायाः प्रथमं पदम्॥(1-10)**
+
+
 
 [TABLE]
 
- It is much to be regretted that it has not been possible to secure a complete manuscript of the work, and consequentlythis edition differs very little from the former except that a few textual corrections, the result of further study and careful revision, have been inserted.
+ It is much to be regretted that it has not been possible to secure a complete manuscript of the work, and consequently this edition differs very little from the former except that a few textual corrections, the result of further study and careful revision, have been inserted.
 
  Pandit Mr. V. Srinivasa Sastri who had participated in the pleasure of bringing out the first edition of this small work and who would, with his untiring patience, perhaps have succeeded in procuring a more perfect manuscript is now no more, and in his untimely death Sanskrit research has lost a persevering and conscientious worker. My best thanks are due to Pandit Mr. R. Harihara Sastriar, Head Pandit, Sanskrit Publication Department, Trivandrum, who read the text in proof and gave me a few welcome suggestions.
 
 **G.HARIHARA SASTRI .**
+
+
 
 **INTRODUCTION  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -111,23 +120,23 @@ SECOND EDITION
 
  Devayi, the queen of the king of Kuntala, gave birth first to a prince named Kampana; and after him were born Kampana (?) and Sangama. These three sons of Bukka by Devayi resem bled in their lustre the three eyes of Siva. While pregnant with the elder Kampana, the queen-mother Devayi had desired a sacred plunge in the holy waters of the Tamraparni. (The author by mentioning this fact implies that the desire of the mother to bathe in the Tamraparni so aftected the unborn child that when the child grew up to manhood, his inclination Was to extend his conquests as far south as the Tamraparni and rouch its bank.) When the pance was porn, he was named Kampana because he made his eles quake with fear at the Very mention of his name. The youbalut Kampana (wherever this name occurs in subsequent portious, it is used to denote only the elder of the two sons of Bukko, woo are said to have borne the same name) was well-versed in all the kalas (branches of learning) and was equally well trained in the use of arms. While Kampana was yet young, his father Bakkasummoned him to his presence, discoursed to him on the evils that befall young princes by their indulgence in women, gambling, hunting, drinking spirit- uous liquors, and so on, and strongly advised him to avoid even the thought of them from entering bis mind. He then pointed out to his son the necessity of conducting himself so well that even the fickle Lakshmi should become pleased to abide with him for ever. Finally, he told the prince that a large number of the powerful generals (samanta-rajas) of the kingdom would, through his own influence, show subordination and good will to him (Kampana) and be ever ready to serve him faithfully. Well furnished as he was with elephants, horses and men, his father directed him to give full scope to his pro- wess and also showed him the direction in which the prince could exhibit his own vast skill in arms, the power of his army and the loyalty of his generals. The Dravida chief, named Champaraya, ruling over the Tundira-mandala (the Tondaimandala) was first recommended to receive the warlike attention of the ambitious prince and after subduing that chief, Kampana was to make Kanchipura bis head-quarters, till a propitious time should come, when he could be able to attack and conquer the Vanyarajas further south and the Turushkarajas reigning at Madhura. The prince Kampana very much appreciated the valuable advice given him by his father and, resolving at once to carry it out faithfully, he declared his intention to all the generals under him and ordered them to make themselves ready to start out the very next day. He then embarked on his expedition for the conquest of the south.
 
- When the next day dawned, Kampana, having attended to the usual ablutions of the morning, directed the commander of his forces to march the armies towards the south. No sooner was the order given than the battle drums began to resound everywhere. Thousands of elephants with carpets on their backs, horses fully caparisoned and men protected in their mailed coats, gathered together. The infantry consisted of men of various countries and carried the different weapons named the kripana, the karpana, the prasa, the kunta, and the kodanda; the generals of the army, men high birth and rank, adorned with all such ornaments as are worn on the occasion of going out for the conquest of enemies, gathered in the gateway of the palace, awaiting the arrival of Prince Kampana. Flags were unfurled and umbrellas n le of white silk were held up just before the prince came out. The brahmans recited the Atharvanamantra and blessed him to become victorious. The cry of “jaya” rang out everywhere. Kampana approached the gate of his palace, where was held ready his favourite horse and mounted on it; the generals and other distinguished personages waiting outside for his arrival wished him success by holding both their hands in the anjali pose over their bowed heads, The poem states that the Chola, the Kerala and the Pandya kings, baton in hand, proceeded forward on foot to make way for Kampana´s horse. The womenfolk of the town threw fried rice on the person of Kampana, in benediction, voicing forth their prayer that he should obtain success in his expedition. In the course of five or six days Kampana crossed the borders of the Karnata country and reached the town called Kantakanana,[^6]where he pitched his camp for some time, awaiting a fair opportunity to attack king Champa. He marched his armies to Virinchipuram on the bank of the Palar, and making it his base of operations, he entered the country of Champa; and in the fierce battle that took place between the contending armies of Kampana and the Dramida king, the latter, leing beaten, ran away in the direction of his capital. But Kampana did not leave Champa alone, but pursued him, took his capital and made it his camp, from there to attack the strong fortress on the bill Rajagambhira, in which he had taken refuge. In the siege that was laid to this billfortress, the army of Kampana did much damage to that of Champa by arrows, while a large number of soldiers belonging to the army of Kampana died by the stones which were shot from the catapults ses up in the fort above. After a hard siege of several days, the Karnata soldiers succeeded in scaling the hill with ladders and attacked the garrison inside the fort. Unable to bear any longer the charge of the Karrata army, Champaraja sallied forth to offer personal resistance to the assailants. However much the gene- rals desired to fight with him in single combat, Kampana would not permit them to do so, reserving such an honour forसhimself. Champa and Kampana met each other in single combat, swords in band, and Champa was killed. Then prince Kampana proceeded victoriously to Kanchi, settled down there and began to rule the Tundiramandala with due observance of the dharmas appropriate to the varnas.
+ When the next day dawned, Kampana, having attended to the usual ablutions of the morning, directed the commander of his forces to march the armies towards the south. No sooner was the order given than the battle drums began to resound everywhere. Thousands of elephants with carpets on their backs, horses fully caparisoned and men protected in their mailed coats, gathered together. The infantry consisted of men of various countries and carried the different weapons named the kripana, the karpana, the prasa, the kunta, and the kodanda; the generals of the army, men high birth and rank, adorned with all such ornaments as are worn on the occasion of going out for the conquest of enemies, gathered in the gateway of the palace, awaiting the arrival of Prince Kampana. Flags were unfurled and umbrellas n le of white silk were held up just before the prince came out. The brahmans recited the Atharvanamantra and blessed him to become victorious. The cry of “jaya” rang out everywhere. Kampana approached the gate of his palace, where was held ready his favourite horse and mounted on it; the generals and other distinguished personages waiting outside for his arrival wished him success by holding both their hands in the anjali pose over their bowed heads, The poem states that the Chola, the Kerala and the Pandya kings, baton in hand, proceeded forward on foot to make way for Kampana´s horse. The womenfolk of the town threw fried rice on the person of Kampana, in benediction, voicing forth their prayer that he should obtain success in his expedition. In the course of five or six days Kampana crossed the borders of the Karnata country and reached the town called Kantakanana,[^7] where he pitched his camp for some time, awaiting a fair opportunity to attack king Champa. He marched his armies to Virinchipuram on the bank of the Palar, and making it his base of operations, he entered the country of Champa; and in the fierce battle that took place between the contending armies of Kampana and the Dramida king, the latter, leing beaten, ran away in the direction of his capital. But Kampana did not leave Champa alone, but pursued him, took his capital and made it his camp, from there to attack the strong fortress on the bill Rajagambhira, in which he had taken refuge. In the siege that was laid to this billfortress, the army of Kampana did much damage to that of Champa by arrows, while a large number of soldiers belonging to the army of Kampana died by the stones which were shot from the catapults ses up in the fort above. After a hard siege of several days, the Karnata soldiers succeeded in scaling the hill with ladders and attacked the garrison inside the fort. Unable to bear any longer the charge of the Karrata army, Champaraja sallied forth to offer personal resistance to the assailants. However much the gene- rals desired to fight with him in single combat, Kampana would not permit them to do so, reserving such an honour forसhimself. Champa and Kampana met each other in single combat, swords in band, and Champa was killed. Then prince Kampana proceeded victoriously to Kanchi, settled down there and began to rule the Tundiramandala with due observance of the dharmas appropriate to the varnas.
 
-[^6]: "* The name Kantakananapattana is an exact, but meaningless, rendering into Banskrit of the vernacular name Mul-vay-pattanam,"
+[^7]: # " * The name Kantakananapattana is an exact, but meaningless, rendering into Banskrit of the vernacular name Mul-vay-pattanam,"
 
  Making the large city of Marakata the seat of government of the newly acquird province, Kampana, to please the people of the country, first reduced all taxes and ruled sagaciously so as to be loved by all. The kings of the Magadha, Malava, Sevuna, Simhala, Dramila, Kerala and Gaula countries waited at his gate to have an audience in his court. At home in his palace, prince Kampana sometimes spent his time in the enlightened company of poets and scholars, and sometimes with the ladies of the zenana, enjoying the pleasures appropriate to the six ritus and the recreations proper to the various seasons, such as jalakrida and gathering flowers in gardens.
 
  It is in this context that we learn that Gangadevi, the authoress, was the Queen of Kampana, for at the request of her royal consort, she revels in some beautiful descriptions of the rising moon etc. \[It is however unfortunate that in this parti cular part of the poem we find a large number of lacunae, which can be filled up only when more copies of the work are available ; and for this it is imperative that active search should be made by all true lovers of the history of India for a better manuscript. In spite of the gaps, we are still able to pursue the thread of the narrative.\]
 
- One day, a strange woman appeared before king Kampana and complained in the following strain about the occupation of the south by Tarushkas, and. its evil effects. “O King! The place known as Vyaghrapuri (Chidambaram, Perumparra. puliyur) has become truly so, for tigers inhabit it now wheremen dowit once; the viamana (dome of the central shrine) of Srirangam is so dilapidated that now it is the hood of Adisesha alone that is protecting the image of Ranganatha from the falling debris. The lord of Gajaranya (Tiruvanaikka, Jambu. kesvaram near Srirangam), who once killed an elephant to obtain its skin for his garment, has now again been reduced to the same condition, because he has been stripped bare of all clo. thing; while the garbhagriha (central shrine) of many an other temple is crumbling, its mandapas overgrown with vegetation and its ponderous wooden doors eaten up by white ants, In the temples which once resounded with the joyous music of the mridanga (a kind of drum), there is heard at present only the howl of the jackals that have made them their abode.The river Kaveri, that was curbed by proper dams and flowed in regular channels, has begun to breach in all directions. In the agraharas where the smoke was seen to curl up from the fire offerings (yagadhuma), we have now the
-offensive-smelling smoke issuing from the roasting of flesh by the Muhammadans, and the sonorous chant of the Vedas has been replaced by the harsh voice of these ruffians. The beautiful cocoanut tre s which once graced the gardens surrounding the city os Madura, have been cut down by these intruders, and in place of these, we have gruesome substitutes in the form of iron sula. which are adorned with garlands of decapitated human heads strung together. The water of the river Tamraparni, which used to be rendered white by the sandal paste rubbed away from the breasts of youthful maidens at their bath, is now flowing red with the blood of cows slaughtered by these great sinners” Thus did the strange lady describe to Kampana, the fate that had overtaken the fair south, and drawing out from her girdle a resplendent sword, addressed the king once again as follows: “O Sovereign! Once upon a time the divine Visvakarma, gathering the splinters from the weapons of all the Devas and smelting them together, shaped this strange sword and presented it to Paramesvara for gaining victory over the daityas. By performing a severe penance, one of the Paadya kings obtained it from God Pa    With the help of this divine weapon the descendants of this race con. tinued to rule the kingdom prosperously for a very long period; but by a misfortune the princes of the Pandya dynasty lost the virility of their sires. Agastya, having secured this remarkable sword, presents this now to you. By wielding this sword, you will attain unabating vigour and the weapons of the enemy will become powerless against you. Just as Krishna slew Kamsa in Mathura in olden times, O King 1 do you also proceed now to the Southern Madhura and slaughter. the Mussalman king, the enemy of the world,and set up several pillars of victory on the bridge of Rama (between the mainland and the island of Ramesvaram). During your administration of the south, you should also build a strong dam across the Kaveri, and make her flow in a manner useful to the agricultural population......”(Because thore are blanks at the beginning and the end of this portion, it is impossible to ascertain who the strange lady was, who had pleaded so pathetically before Kampana, how she happened to obtain the divine sword and who had sent her on her mission. We should perhaps presume that she was herself a divine being, one of the guardian deities (nagara-devatas) of Madura, who, not being able to bear the sinful acts of the Mussalmans, had repaired to the asrama of Agastya, the family priest of the Pandya kings and consequently perhaps the legitimate custodian of their heirlooms, and had obtained the sword from him for ridding the Madhurarajya of the Muhammadans.)  
- Lastly, the poem describes vividly the encounter between the armies of Kampana and the Sultan of the south. Finding that his army was getting routed, the Yavana king (the Muhammadan chief) of Madura came out to offer single combat to prince Kampana, which was readily accepted. After several attacks on each other, the crow-banner of the Muhammadan chief was firet out down and next the string of the bow held by him. Then, with swords in their hands, they came to close quarters, and after a few moments' engagement Kampana despatched his opponent with a blow from his divine sword. Thehead of the despoiler of the kingdom of the Ballalas and the subverter of those of the Cholas and the Pandyas thus fell atlast on the ground and licked the dust, and the Devas showered celestial flowers from above on the victor. So much about the contents of the poem.
+ One day, a strange woman appeared before king Kampana and complained in the following strain about the occupation of the south by Tarushkas, and. its evil effects. “O King! The place known as Vyaghrapuri (Chidambaram, Perumparra. puliyur) has become truly so, for tigers inhabit it now where men dowit once; the viamana (dome of the central shrine) of Srirangam is so dilapidated that now it is the hood of Adisesha alone that is protecting the image of Ranganatha from the falling debris. The lord of Gajaranya (Tiruvanaikka, Jambu. kesvaram near Srirangam), who once killed an elephant to obtain its skin for his garment, has now again been reduced to the same condition, because he has been stripped bare of all clo. thing; while the garbhagriha (central shrine) of many an other temple is crumbling, its mandapas overgrown with vegetation and its ponderous wooden doors eaten up by white ants, In the temples which once resounded with the joyous music of the mridanga (a kind of drum), there is heard at present only the howl of the jackals that have made them their abode.The river Kaveri, that was curbed by proper dams and flowed in regular channels, has begun to breach in all directions. In the agraharas where the smoke was seen to curl up from the fire offerings (yagadhuma), we have now the
+offensive-smelling smoke issuing from the roasting of flesh by the Muhammadans, and the sonorous chant of the Vedas has been replaced by the harsh voice of these ruffians. The beautiful cocoanut tre s which once graced the gardens surrounding the city os Madura, have been cut down by these intruders, and in place of these, we have gruesome substitutes in the form of iron sula. which are adorned with garlands of decapitated human heads strung together. The water of the river Tamraparni, which used to be rendered white by the sandal paste rubbed away from the breasts of youthful maidens at their bath, is now flowing red with the blood of cows slaughtered by these great sinners” Thus did the strange lady describe to Kampana, the fate that had overtaken the fair south, and drawing out from her girdle a resplendent sword, addressed the king once again as follows: “O Sovereign! Once upon a time the divine Visvakarma, gathering the splinters from the weapons of all the Devas and smelting them together, shaped this strange sword and presented it to Paramesvara for gaining victory over the daityas. By performing a severe penance, one of the Paadya kings obtained it from God Pa With the help of this divine weapon the descendants of this race con. tinued to rule the kingdom prosperously for a very long period; but by a misfortune the princes of the Pandya dynasty lost the virility of their sires. Agastya, having secured this remarkable sword, presents this now to you. By wielding this sword, you will attain unabating vigour and the weapons of the enemy will become powerless against you. Just as Krishna slew Kamsa in Mathura in olden times, O King 1 do you also proceed now to the Southern Madhura and slaughter. the Mussalman king, the enemy of the world,and set up several pillars of victory on the bridge of Rama (between the mainland and the island of Ramesvaram). During your administration of the south, you should also build a strong dam across the Kaveri, and make her flow in a manner useful to the agricultural population......”(Because thore are blanks at the beginning and the end of this portion, it is impossible to ascertain who the strange lady was, who had pleaded so pathetically before Kampana, how she happened to obtain the divine sword and who had sent her on her mission. We should perhaps presume that she was herself a divine being, one of the guardian deities (nagara-devatas) of Madura, who, not being able to bear the sinful acts of the Mussalmans, had repaired to the asrama of Agastya, the family priest of the Pandya kings and consequently perhaps the legitimate custodian of their heirlooms, and had obtained the sword from him for ridding the Madhurarajya of the Muhammadans.)  
+ Lastly, the poem describes vividly the encounter between the armies of Kampana and the Sultan of the south. Finding that his army was getting routed, the Yavana king (the Muhammadan chief) of Madura came out to offer single combat to prince Kampana, which was readily accepted. After several attacks on each other, the crow-banner of the Muhammadan chief was firet out down and next the string of the bow held by him. Then, with swords in their hands, they came to close quarters, and after a few moments' engagement Kampana despatched his opponent with a blow from his divine sword. The head of the despoiler of the kingdom of the Ballalas and the subverter of those of the Cholas and the Pandyas thus fell atlast on the ground and licked the dust, and the Devas showered celestial flowers from above on the victor. So much about the contents of the poem.
 
  **HISTORICAL ALUE.** Let us now proceed to examine critically the contents of the poem and show their great value for the construction of the history of the Vijayanagara kingdom for a short time after its foundation.
 
  Be it noted that the invocations at the commencement of the work are addressed to Ganesa, then to Parvati and Paramesvara and then to the guru Kriyasakti. Kriyasakti was a famous Saiva teacher and a Kulaguru of the kings of the first Vijayanagara dynasty. He was held in very high esteem and veneration by them, as is evident from the way in which he is referred to in the inscriptions of Harihara II,
 
-**“विरूपाक्षःसाक्षात् कुलपरमदैवं कुलगुरुः  
+**“विरूपाक्षः साक्षात् कुलपरमदैवं कुलगुरुः  
 क्रियाशक्त्याचार्यः कलिकलभकण्ठीरवयशाः’  
 “श्रीक्रियाशक्ति देवदिव्यश्रीपादपद्माराधकः श्रीवीरहरिहरमहाराजः”**
 
@@ -135,85 +144,90 @@ Prominent among his di ciples stood the great Madhava Mantrin or Madhavamatya wh
 
  Madhava-Mantria, the son of Chaunda-Bhatta of the Angirasa-gotra, was a minister of Bukka I and Harihara II, and he appears to have done much for the consolidation of the Vijayanagara Empire. Hims.If a great warrier, he waged war with the Turusukas in the province bordering on the western ocean and conquered them and was made Governor of the province by Bukka I. He was also a renowned scholar, wrote the commentary called Tatparyadipika on the Sutasamhita, set in order the deranged Upanishadic lore, and was consequently known as the **उपनिषन्मार्गप्रतिष्ठागुरुः ।**
 
- It has to be noted that Madhava-Mantri was a different person from Madhavacharya, the encyclopedic author and commentator. Madhavacharya was the son of Maysna of the Bharadvaja-gotra and was also the kilaguru and minister of Bukka I, and when he entered the ascetic order of life, he came to be known as Vidyaranya. His two brothers were Sayana and Bhoganatha, of whom the former distinguished himself like Madhava-Mantrin as a wielder of the pen, the sceptre, and the sword. Sayana who wrote the famous commentaries on the four Vedas in conjunction with his illustrious brother Madhavacharya, was the minister of Bukka I, Kampana, Sangama II and Harihara II, and he appears also to have taken part in angama's campaign against Champa.[^7], pp. 1-6, 17-24.")
+ It has to be noted that Madhava-Mantri was a different person from Madhavacharya, the encyclopedic author and commentator. Madhavacharya was the son of Maysna of the Bharadvaja-gotra and was also the kilaguru and minister of Bukka I, and when he entered the ascetic order of life, he came to be known as Vidyaranya. His two brothers were Sayana and Bhoganatha, of whom the former distinguished himself like Madhava-Mantrin as a wielder of the pen, the sceptre, and the sword. Sayana who wrote the famous commentaries on the four Vedas in conjunction with his illustrious brother Madhavacharya, was the minister of Bukka I, Kampana, Sangama II and Harihara II, and he appears also to have taken part in angama's campaign against Champa.[^8], pp. 1-6, 17-24.")
 
-[^7]: "* See Indian Antiquary, Vol. XLV (1916
+[^8]: # "* See Indian Antiquary, Vol. XLV (1916
 
- Harihara I lived, according to the latest inscription of his reign hitherto discovered, till S1265, which is also the initial date of the reign of his broi her Bukkadeva I[^8].Bukka advised his son Kampana to conquer the south only after his accession to the throne, that is, some time after 8’1268. Kampana and his general Goppana seem to have lived, till about S' 1275, not far from the capital.[^9]It is from the year 8’1282 thas Kampana figures as the governor of the Mulvagilurajya[^10]and in the course of one year his conquest extended over the Tondai-mandalam. An inscription dated S 1283 is actually found engraved in the Siva temple at Achcharavakkam,[^11]The conquest of the Tondai–mandalam should therefore have occurred between S1282 to 1283.
+ Harihara I lived, according to the latest inscription of his reign hitherto discovered, till S 1265, which is also the initial date of the reign of his broi her Bukkadeva I[^9].Bukka advised his son Kampana to conquer the south only after his accession to the throne, that is, some time after 8’1268. Kampana and his general Goppana seem to have lived, till about S' 1275, not far from the capital.[^10] It is from the year 8’1282 thas Kampana figures as the governor of the Mulvagilurajya[^11] and in the course of one year his conquest extended over the Tondai-mandalam. An inscription dated S 1283 is actually found engraved in the Siva temple at Achcharavakkam,[^12] The conquest of the Tondai–mandalam should therefore have occurred between S 1282 to 1283.
 
-[^8]: " Ep. Carn., Shimoga Dt., Tl. No. 154-Margasirsha Vyaya, S' 1269."
+[^9]: # " Ep. Carn., Shimoga Dt., Tl. No. 154-Margasirsha Vyaya, S' 1269."
 
-[^9]: "§ See No. 523 of 1906 of Madras Epig. Colln."
+[^10]: # "§ See No. 523 of 1906 of Madras Epig. Colln."
 
-[^10]: "Ep. Carn., Kolar Dt., Bp. No. 31."
+[^11]: # "Ep. Carn., Kolar Dt., Bp. No. 31."
 
-[^11]: "No. 250 of 1901, Ep. An. Rept. su. 2"
+[^12]: # "No. 250 of 1901, Ep. An. Rept. su. 2"
 
  Let us now turn our attention to the account of the subjugation of the Tondai-mandalam, as graphically narrated in the poem. It is stated that Kampana with a large army commanded by eminent generals first moved on to the bank of the river Palar (Dugdha-sarit) and encamped in the town of Virinchipuram.
 
  It should be noted here that at the time of this event, as it is even now, the high road between the country on the east of the plateau of Mysore and the low-lying western taluks of the North Aroot district bordering on the Mysore State, lay through the Mugli and the Sinigunta passes in the Eastern Ghats. The former of these is in the Chittur taluk and the rise The of the ghat is gradual, admitting of wheeled traffic. Sinigunta pass, on the other hand, leads from Gudiyattam to Palmaner and the road through it joins the road from the Mugli pass. The ascent up this pass is steep and an army consisting of a large number of elephants, horses and infantry, and carrying with it a long train of supply wagons, would naturally have chosen the easier route, namely, that through the Mugli pass.  
  The immediate object of the move was to attack and subjugate the powerful chief of the region bordering on the Palaru—the Champaraya, Samparaya or Sambuvaraya of the poem and the inscriptions. He appears to have ruled over a larg tract of country with Padavidu as his stronghold and perhaps Conjeevaram as his capital. As soon as the army of Kampana was sighted at Virinchipuram, Sambuvaraya opposed its fording the river and gave battle to it near Virinchipuram. After some fighting, his army had to suffer defeat at the hands of the powerful forces of the Vijayanagara king and it fled in the direction of Padavida, with the enemy in hot pursuit. Sambuvaraya with a select portion of his army, however, took refuge in the strong fortress on the hill called the Rajagambhira hill near Padavidu, and defended it with all the strength that he could muster,
 
- This Rajagambhira hill might be identified with either Padavidudrug or Karnatikghar. Padavidudrag is situated very near the village of Padavidu, whereas Karnatikghar is at a distance of seven or eight miles south. The latter was strongly fortified, and has even now the fort in a fairly good condition; so it was better fitted to offer an effective resistance to the attacks of a powerful army such as that of Kampana rather than Padavidudurgam. But the identification of Karnatikghar with the Rajagambhiramalai is negatived by one of the inscriptions found in Padavidu itself, which fixes the position of Rajagambhira hill near Murugamangalappattu; and as this village is in the Arni Division a little to the east of the fort of the Padavidudurgam, it is certain that only Padavid udurgam has to be equated with the Rajagambhira hill. This hill received its nime from one Rajagambhira Sambuvarayan, an ancestor of the Champaraya of the time of Kampana. Rajagambhira Sambuva. raya lived in the reign of Rajaraja III as a subordinate of that Chola king and flourished about the Saka year 1180[^12]
+ This Rajagambhira hill might be identified with either Padavidudrug or Karnatikghar. Padavidudrag is situated very near the village of Padavidu, whereas Karnatikghar is at a distance of seven or eight miles south. The latter was strongly fortified, and has even now the fort in a fairly good condition; so it was better fitted to offer an effective resistance to the attacks of a powerful army such as that of Kampana rather than Padavidudurgam. But the identification of Karnatikghar with the Rajagambhiramalai is negatived by one of the inscriptions found in Padavidu itself, which fixes the position of Rajagambhira hill near Murugamangalappattu; and as this village is in the Arni Division a little to the east of the fort of the Padavidudurgam, it is certain that only Padavid udurgam has to be equated with the Rajagambhira hill. This hill received its nime from one Rajagambhira Sambuvarayan, an ancestor of the Champaraya of the time of Kampana. Rajagambhira Sambuva. raya lived in the reign of Rajaraja III as a subordinate of that Chola king and flourished about the Saka year 1180[^13]
 
-[^12]: "S. I. Ins., Vol. 1, p. 111."
+[^13]: # "S. I. Ins., Vol. 1, p. 111."
 
  In his Annual Report on Epigraphy for 1899 Mr.V.Venkayya has incorrectly identified the Rajagambhirarajya with the Pandya country, relying on the Tiruppuvanam grant which mentions Rajagambhira as a title of Jatavar man Kulasekhara; but in view of the data now available, this rajya connotes the country surrounding Padavidu and Pada vidudurgam, which belonged to Rajagambhira Sambuvaraya. The inscription of Kampana dated in S 1287, found in Tiruppukkuli near Conjesvaram which records that Kampana Udaiyar son of Bukkana Udaiyar became permanent on the throne after taking possession of Rajagam bhirarajya no doubt refers to this heroic aohievement panegy-rised by his queen in the present kavya.
 
  The Madhuravijaya is alone in stating that the Champsraya who opposed Kampana in the Rajagambhirarajya was killed by the latter. The Sanskrit Ramabhyudaya and the Saluvabhyudaya and the Telugu Jaimini Bharatam and the Varahapurana all agree in asserting that he was either defeated and reinstated in his original place or terrorised into obedience and vassalage, but never as having met with his end. We do not know if the authoress of the Madhuravijaya bas represented the opponent of her hero as having been killed, either through an inadvertance or as a conscious artifice intended to heighten the poetic effect of the narrativo. If Rajanarayana Sambuvaraya, the contemporary of Kampans, were really killed and dead, the Champuraya who is said to have accompanied and helped Jini Gundayadeva against the Sultan of the South should have been the son of the deceased Sambuvarayar; but it appears probable that Rajanarayana Sambuvarayar did not suffer death on the occasion of his vanquishment by Kampara.
 
- Having conquered the Dravida king Sambuvarayar and reduced him to the position of a tributary, it was easy for Kampana to make Conjeevaram his residence. The occupation of Conjeevaram by Kampana should have taken place in the year S' 1283. It was while he was sojourning at Marakata- nagara as his capital that he is said to have been visited by a mysterious lady who presented him with the divine sword. The town of Marakatanagarat has not yet been identified. It continued to be the seat of a Governor of the Vijayanagara Empire who was generally chosen from the members of the royal family. Virupaksha or Viruppanna was ruling here and after him, Srigiribhupala, brother of Pratapa Devaraya II[^13]
+ Having conquered the Dravida king Sambuvarayar and reduced him to the position of a tributary, it was easy for Kampana to make Conjeevaram his residence. The occupation of Conjeevaram by Kampana should have taken place in the year S' 1283. It was while he was sojourning at Marakata- nagara as his capital that he is said to have been visited by a mysterious lady who presented him with the divine sword. The town of Marakatanagarat has not yet been identified. It continued to be the seat of a Governor of the Vijayanagara Empire who was generally chosen from the members of the royal family. Virupaksha or Viruppanna was ruling here and after him, Srigiribhupala, brother of Pratapa Devaraya II[^14]
 
-[^13]: " Ep. Ind., Vol. VIII., pp. 308-312. Can this be Virinchipuram itself? G. H."
+[^14]: # " Ep. Ind., Vol. VIII., pp. 308-312. Can this be Virinchipuram itself? G. H."
 
  After receiving the divine sword from the unknown lady Kampana had to wait patiently for a long time to strike a well-timed blow at the Turushkas holding Srirangam and Madura. The Srirangam-Koyilolugu gives an account of the events that took place since the occupation of Kanchi by the representative of the Vijayanagara Empire.
 
  From this quasihistorical temple chronicle we learn that Goppanarya, the Brahmana general of Kampana, was placed by his master in charge of the province of Senji (Gingi).He was a Srivaishnava by persuasion, and belonged to the Bharadvaja gotra and the Apastamba-sutra. On one occasion when he hadgone to Tirupati on a pilgrimage, he found in the central shrine of the temple of Venkatesa an additional bronze image, and learnt on enquiry that it was the image of god Ranga. natha of Srirangam, which, after having been taken away from that temple shortly before the Turushkas entered it, to Tiru naravanapuram (Melkote) by way of Jyotishkudi, Tirumaliruncholai (Alagarkoyil), Kolikkodu (Calicut), and Punganur, had been kept there for some time and had been finally brought to Tirupati (Tirumala). On hearing this account from the priests, Gonnanna induced them to permit him to remove the image to his capital and keep it in puja there, until such time as the Mussalmans could he? riven out of Srirangam. With the consent of the priests he took it, and housed it temporarily with puja in the beautiful rock-out shrine on the hill at Singavaram, a suburb of Senji.
 
- The chief of the Mussalman garrison that had been left behind at Srirangam, stayed for some time in the temple of Ranganatha, but finding his health suffering by his stay in the island, he removed his quarters to Samayavaram (Kannanur), situated at a distance of six miles to the north, which he fortified with the stones obtained by demolishing one of the outer enclosures of Srirangam. At this time, Singappiran, a Kaniyala Brahmana of an adjoining village secured a post in the service of the Muhammadan chief, through the influence. of a Hindu dancing-girl of Srirangam, who had entered into intimacy with that Mussalman solely with the object of saving the temple from destruction, and. was continuing to discharge his duties apparently faithfully to his new master. As soon as the news of the establishment of. a powerful kingdom at Anegundi (Vijayanagara), the conquest of the Tondai-mandalam by the representative of that kingdom, and the esablishment of a gubernatorial seat at Senji presided over by a Vaishnava Brahmana, reached the people of Srirangam, Tirumanattun-nambi, the son of Singappiran, despatched Uttama-nambi, one of the sthalattar to Senji toinform Goppanarya that he would be communicating to the Governor news of the affairs of the Mussalmans from time to time, and that he should be prepared to start out with his army to crush the Muhammadans when the proper opportunity was intimated to him. Thus, then, was communication established between Senji and Samayavaram. Finally in S' 1298, just 10 years after Kampana occupied Conjeevaram, an invitation was sent to him by Tirumanattun-Nambi to march against the Muhammadans in Samayavaram and Srirangam, who had been degenerated by drink and debauchery and had become thoroughly powerless to resist an attack. Goppanarya proceeded against Srirangam, crushed the Mussalmans and re-set up the image of Ranganatha with great eclat.[^14]On this occasion, old Vedanta-Desika raturned also to Srirangam from his retreat at Satyamangalam and praised Goppanarya in two Sanskrit verses which were got engraved on the eastern wall of the first prakara of the Ranganatha temple.[^15] Such is the account found in the Koyilolugu.But we find at Tiruppullani very near Ramnad an inscription of Kampana in the same year, 8' 1498, clearly evidencing the fact that it was not only Srirangam that was wrested from the Mussal mans in S'1293, but also the tract round Madura ruled over by them.[^16]
+ The chief of the Mussalman garrison that had been left behind at Srirangam, stayed for some time in the temple of Ranganatha, but finding his health suffering by his stay in the island, he removed his quarters to Samayavaram (Kannanur), situated at a distance of six miles to the north, which he fortified with the stones obtained by demolishing one of the outer enclosures of Srirangam. At this time, Singappiran, a Kaniyala Brahmana of an adjoining village secured a post in the service of the Muhammadan chief, through the influence. of a Hindu dancing-girl of Srirangam, who had entered into intimacy with that Mussalman solely with the object of saving the temple from destruction, and. was continuing to discharge his duties apparently faithfully to his new master. As soon as the news of the establishment of. a powerful kingdom at Anegundi (Vijayanagara), the conquest of the Tondai-mandalam by the representative of that kingdom, and the esablishment of a gubernatorial seat at Senji presided over by a Vaishnava Brahmana, reached the people of Srirangam, Tirumanattun-nambi, the son of Singappiran, despatched Uttama-nambi, one of the sthalattar to Senji toinform Goppanarya that he would be communicating to the Governor news of the affairs of the Mussalmans from time to time, and that he should be prepared to start out with his army to crush the Muhammadans when the proper opportunity was intimated to him. Thus, then, was communication established between Senji and Samayavaram. Finally in S' 1298, just 10 years after Kampana occupied Conjeevaram, an invitation was sent to him by Tirumanattun-Nambi to march against the Muhammadans in Samayavaram and Srirangam, who had been degenerated by drink and debauchery and had become thoroughly powerless to resist an attack. Goppanarya proceeded against Srirangam, crushed the Mussalmans and re-set up the image of Ranganatha with great eclat.[^15] On this occasion, old Vedanta-Desika raturned also to Srirangam from his retreat at Satyamangalam and praised Goppanarya in two Sanskrit verses which were got engraved on the eastern wall of the first prakara of the Ranganatha temple.[^16] Such is the account found in the Koyilolugu. But we find at Tiruppullani very near Ramnad an inscription of Kampana in the same year, 8' 1498, clearly evidencing the fact that it was not only Srirangam that was wrested from the Mussal mans in S'1293, but also the tract round Madura ruled over by them.[^17]
 
-[^14]: "Srirangam Koyilolugn, old edition, pp. 53. 54. Ep"
+[^15]: # " Srirangam Koyilolugn, old edition, pp. 53. 54. Ep"
 
-[^15]: "Ep Ind., Vol. VI, pp. 322-331."
+[^16]: # "Ep Ind., Vol. VI, pp. 322-331."
 
-[^16]: "+ Tufnell's Hints to Coin Collector's, pp. 26-27; also Ep. Ind. Vol. VI, p. 824."
+[^17]: # "+ Tufnell's Hints to Coin Collector's, pp. 26-27; also Ep. Ind. Vol. VI, p. 824."
 
- There is no denying the fact that there was a Muhammadan principality established at Madura which issued coins of its One of these coins bears on its obverse the words “Ahsan Shah 73S” (of Hijra, i,e.,A.D., 1337-8) and the reverse “Al Hussiniyyu” One of the Sultans therefore seems to have been named Ahsan Shah, and since he lived in S' 1359, the person that should have suffered defeat and death at the hands of Kampana must be one of the successors of Absan Shah[^17]It took for Kampana ten years after his conquest of Champaraya to attack and defeat the Sultan of the South. Ever since this signal victory, the whole of the peninsula, south of the Tungabhadra became practically the possession of the Vijayanagara Empire. The barrier in the shape of the Empire of Vijayanagara, which was raised by the hand of Providence to protect the virgin south from that ravishment her sister Northern India had suffered at the merciless and vandalistic hands of the Muhammadans, continued in tact for over two centuries until the fateful year A.D.1565, when the magnificent Empire was sbattered at the battle-field of Talikota by the confederacy of the Sultans of Bijapur, Golconda, etc., and the south became once again a prey to anarchy and disorder. Providence, at this jucture, ushered on the stage the British nation, who have once again restored order and peace over the whole of India.
+ There is no denying the fact that there was a Muhammadan principality established at Madura which issued coins of its One of these coins bears on its obverse the words “Ahsan Shah 73S” (of Hijra, i,e.,A.D., 1337-8) and the reverse “Al Hussiniyyu” One of the Sultans therefore seems to have been named Ahsan Shah, and since he lived in S' 1359, the person that should have suffered defeat and death at the hands of Kampana must be one of the successors of Absan Shah[^18] It took for Kampana ten years after his conquest of Champaraya to attack and defeat the Sultan of the South. Ever since this signal victory, the whole of the peninsula, south of the Tungabhadra became practically the possession of the Vijayanagara Empire. The barrier in the shape of the Empire of Vijayanagara, which was raised by the hand of Providence to protect the virgin south from that ravishment her sister Northern India had suffered at the merciless and vandalistic hands of the Muhammadans, continued in tact for over two centuries until the fateful year A.D.1565, when the magnificent Empire was sbattered at the battle-field of Talikota by the confederacy of the Sultans of Bijapur, Golconda, etc., and the south became once again a prey to anarchy and disorder. Providence, at this jucture, ushered on the stage the British nation, who have once again restored order and peace over the whole of India.
 
-[^17]: " † Ep. An Rp, for 1903, Nos. 106 & 111."
+[^18]: # " † Ep. An Rp, for 1903, Nos. 106 & 111."
 
  One other fact worth noticing here is the mention of two sons of Bukka, both having the same name, Kampana. Inscriptions of Hiriya (or the elder)-Kampana and Chikka (or the younger)-Kampana are met with in the Madras Presidency and in the Mysore State.It has been the custom of the Epigraphists of the Madras Government to assign to the elder Kampana, son of Bukka, all the inscriptions which call the prince by the names Chikka-Kampsna, Kumara- Kampana, Vira-Bukkaraya Kumara-Kampana; similarly, all those which used the prefix Hiriya, etc., before the name of Kampana were assigned to his paternal uncle Kampana.
 
  Below is appended a table for easily understanding the relationships subsisting between the members of the first Vijayanagara dynasty, who are referred to in the course of this article:—
 
-**Sangama।**
+**Sangama ।**
 
-**Harlhara। Kampa।  Bakka।  Muddapa Marappa.**
+**Harlhara । Kampa । Bakka । Muddapa Marappa.**
 
-**Sangama॥ Hiriya Kampans Chikka Kampana Sangama…**
+**Sangama ॥ Hiriya Kampans Chikka Kampana Sangama …**
 
  The introduction in the *Madhuaravijaya*, of another Kampana in the already confused state of the genealogy of the first Vijayanagara dynasty produces still greater confusion and difficulty in the way of a proper understanding of the value of the stone and the copper-plate documents that are unearthed from time to time. Confusion or no confusion, it is the duty of the historian to face the situation boldly and offer a scientific, explanation of the facts brought to his notice. We know as a fact that Kampa, the brother of Harihara I, held the government of the province of Udayagirirajya, under the title and design- ation of the “Lord of the Eastern and the Western Oceans,” and he seems to have died sometime before S' 1268-9, the date of the death of Harihara i, and of the accession of Bukka J. If he had not died before that year, it is difficult to understand how Bukka, the third son of Sangama, could have ascended the throne even when his second son Kampa was alive. The grant said to have been made by Sangama II, the son of Kampa I, on the annual ceremony of his father (the Bitragunta Plates, Ep. Ind. Vol, III), in the year S' 1278, should have been made on the tenth anniversary or so of his father, and not the first. In this connection, attention has to be drawn to the wording employed in the document, namely, that the occasion of the granting of the village recorded in the Bitragunta plates was the pralyabda-kala, meaning the day onwhich the annual ceremony fell, and therefore it need not necessarily imply the first of such occasions only. If now it is granted that Kampa I was dead long ago, any inscription dated after S' 1268, the presumed date of death of this prince, and having the name Hiriya Kampana in it, should necessarily be ascribed to the elder son of that name of Bukka I, and those giving the name of the prince as Chikka-Kampana.should be allotted to the reiga of the younger son. Anyhow, it has become now imperative to bear in mind the existence of one more Kampa, a younger brother of Kampana, the vanquisher of the Sultan of the South.
 
  Then again, the name Devayi, the queen of Bukka I, is also a new one; and as no inscription mentions a name such as this among the queens of Bukka I, the kavya by giving out the name of the mother of Kampana has added one more fact to the stock of our knowledge of the Souta Indian History.
 
- The inscriptions belonging to the time of Kampana are found in many parts of the southern districts of the Madras Presidency and in Mysore, covering a period ending. with S'1296, Ananda. He was alive, at least, till the first tithi of the bright fortnight of the Karttika month in the year Ananda; on that day he had done something which is not clear in the inscription, while yet he was ruling theearth[^18]A month after, Kampana seems to have died in Margasirsha, for his son Jammana-Udaiyar is found ruling over the Maratakanagara province. a fact which distinctly enables us to infer that Kampana was dead and Jammana ascended the gubernatorial seat of his father. There is also direct proof for this surmise in inscriptions; for two records found in Tiruvannamalai and Lyil and dated in the year S' 1296[^19]clearly mention that Jammana made certain gifts for the merit of his deceased father. The demise of Kampana some time before his father Bukka accounts for the accession of his younger brother, Harihara II, to the throne; if he were alive, he would have contributed to the shedding of a greater quantity of blood in the disputes of succession, which followed soon after the death of Bukka. (See Ep. Ind. Vol. XII, p. 162 about these disputes). Bukka died on a Sunday, the first tithi in the dark fort night of the month Phalguna, in the year Nala corresponding to S'1298, that is, about two years after Kampana.[^20]The strenuous life of Kampana has thus contributed to the expansion of the dominions of the Vijayanagara Empire and to the governing of the subjugated provinces with wisdom and justice; he lived in the Tamil country for nearly thirteen years from S'1283 to 1296.
+ The inscriptions belonging to the time of Kampana are found in many parts of the southern districts of the Madras Presidency and in Mysore, covering a period ending. with S'1296, Ananda. He was alive, at least, till the first tithi of the bright fortnight of the Karttika month in the year Ananda; on that day he had done something which is not clear in the inscription, while yet he was ruling theearth[^19] A month after, Kampana seems to have died in Margasirsha, for his son Jammana-Udaiyar is found ruling over the Maratakanagara province. a fact which distinctly enables us to infer that Kampana was dead and Jammana ascended the gubernatorial seat of his father. There is also direct proof for this surmise in inscriptions; for two records found in Tiruvannamalai and Lyil and dated in the year S' 1296[^20] clearly mention that Jammana made certain gifts for the merit of his deceased father. The demise of Kampana some time before his father Bukka accounts for the accession of his younger brother, Harihara II, to the throne; if he were alive, he would have contributed to the shedding of a greater quantity of blood in the disputes of succession, which followed soon after the death of Bukka. (See Ep. Ind. Vol. XII, p. 162 about these disputes). Bukka died on a Sunday, the first tithi in the dark fort night of the month Phalguna, in the year Nala corresponding to S'1298, that is, about two years after Kampana.[^21] The strenuous life of Kampana has thus contributed to the expansion of the dominions of the Vijayanagara Empire and to the governing of the subjugated provinces with wisdom and justice; he lived in the Tamil country for nearly thirteen years from S'1283 to 1296.
 
-[^18]: " * S. L. Ins, Vol. I, p. 103, No. 72-"
+[^19]: # " * S. L. Ins, Vol. I, p. 103, No. 72-"
 
-[^19]: "† Ep. An. Rep. No. 573/02-224/06."
+[^20]: # " † Ep. An. Rep. No. 573/02-224/06."
 
-[^20]: " Ep. Carn. Mysore Dt. Yd. No. 46."
+[^21]: # " Ep. Carn. Mysore Dt. Yd. No. 46."
 
-**  VASSALS OF KAMPANA**.—This account of the life and the achievements of Kampana will not be complete, if we do not mention a few words regarding those faithful vassals who helped him throughout his career of stunning success in war and beneficent administration of the country. We have seen how the brahmana general Goppanna, the Governor of Senji, was rendering his services of a general and statesman. an officer under Kampana even so early as S' 1275. Theminister of Kampana was Somappa-Udaiyar (Aramane Mahapradhani). Saluva Mangi was, according to the Saluvabhyudaya and the Ramabhyudaya, one of the officers who accompanied Kampana in his campaigns against Fambuvaraya and the Sultan of the South; and for the meritorious services he rendered to his liegelord,he was styled Samburaya-sthapanachirga and for his munificent gifts to the brahmanas of Sriranga, Srirangasthapanacharya. Then two persons are mentioned in inscriptions as the Mahasamantadhipatis, that is, field-marshals of Kampana; they are Ramayyadeva and Mallappanavaru, and they were with him in S'1283-4. The name of the palace manager (Aramanaikku Sarvanirvahakar) was one Duggana and Adappattu Ilakkappar was his betel-bearer. Pradhani Somappadandanayakar and Annar-Goppannar are also mentioned in the Srirangam-Koyilologu,
+** VASSALS OF KAMPANA**.—This account of the life and the achievements of Kampana will not be complete, if we do not mention a few words regarding those faithful vassals who helped him throughout his career of stunning success in war and beneficent administration of the country. We have seen how the brahmana general Goppanna, the Governor of Senji, was rendering his services of a general and statesman. an officer under Kampana even so early as S' 1275. Theminister of Kampana was Somappa-Udaiyar (Aramane Mahapradhani). Saluva Mangi was, according to the Saluvabhyudaya and the Ramabhyudaya, one of the officers who accompanied Kampana in his campaigns against Fambuvaraya and the Sultan of the South; and for the meritorious services he rendered to his liegelord,he was styled Samburaya-sthapanachirga and for his munificent gifts to the brahmanas of Sriranga, Srirangasthapanacharya. Then two persons are mentioned in inscriptions as the Mahasamantadhipatis, that is, field-marshals of Kampana; they are Ramayyadeva and Mallappanavaru, and they were with him in S'1283-4. The name of the palace manager (Aramanaikku Sarvanirvahakar) was one Duggana and Adappattu Ilakkappar was his betel-bearer. Pradhani Somappadandanayakar and Annar-Goppannar are also mentioned in the Srirangam-Koyilologu,
 
  From what has been discussed above, it would become evident how very valuable this manuscript happens to be for the intelligent construction of the history of the early period of the Vijayanagara Empire.  
 
+
 **T. A. GOPINATHA RAO,** **M. A.**,  
 Superintendent of Archaeology,  
-Travancore State,  
+Travancore State,
 
 **TRIVANDRUM,  
 21st August 1916,}**
+
+**—————————**
+
+
 
 दासतां **कालिदासस्य** कवयः के न बिभ्रति।  
 इदानीमपि तर्स्याथानुपजीवन्त्यमी यतः॥७॥
@@ -224,7 +238,7 @@ Travancore State,
 विमर्दव्यक्तसौरभ्या भारती भारवेः कवेः।  
 धत्ते वकुलमालेव विदधानां चमत्क्रियाम्॥९॥
 
-**आचार्यदण्डिनो **वाचामाचान्तामृतसंपदाम्।  
+**आचार्यदण्डिनो** वाचामाचान्तामृतसम्पदाम्।  
 विकासो वेधसः पत्न्या विलासमणिदर्पणः॥१०॥
 
 सा कापि सुरभिः शङ्के **भवभूतेः** सरस्वती।  
@@ -236,17 +250,17 @@ Travancore State,
 तिक्कयस्य कवेः सूक्तिः कौमुदीव कलानिधेः।  
 सतृष्णैः कविभिः स्वैरं चकोरैरिव सेव्यते॥१३॥
 
-चतुस्सप्ततिकाव्योक्तिव्यक्तवैदुष्यसंपदे।  
+चतुस्सप्ततिकाव्योक्तिव्यक्तवैदुष्यसम्पदे।  
 अगस्त्याय जगत्यस्मिन् स्पृहयेत् को न कोविदः॥१४॥
 
-स्तुमस्तमपरं व्यासं गङ्गाधरमहाकविम्  
+स्तुमस्तमपरं व्यासं गङ्गाधरमहाकविं  
 नाटकच्छद्मना दृष्टां यश्चक्रे भारतीं कथाम्॥१५॥
 
 चिरं स विजयीभूयाद् **विश्वनाथः** कवीश्वरः।  
 यस्य प्रसादात् सार्वज्ञ्यं समिन्धे मादृशेष्वपि॥१६॥
 
 क्वचिदर्थः क्वचिच्छन्दः क्वचिद् भावः क्वचिद् रसः।  
-यत्रैते सन्तिसर्वेऽपि स निबन्धो न लभ्यते॥१७॥
+यत्रैते सन्ति सर्वेऽपि स निबन्धो न लभ्यते॥१७॥
 
 प्रबन्धमीषन्मात्रोऽपि दोषो नयति दूष्यताम्।  
 कालारुद्रवभरं शुक्तिक्षारकणो यथा॥१८॥
@@ -308,7 +322,7 @@ Travancore State,
 **कलिकालमहाघर्मप्लुष्टो धर्ममहीरुहः।  
 यस्य दानाम्बुसेकेन पुनरङ्कुरितोऽभवत्॥३७॥**
 
-**यस्याङ्घ्रिपीठसंघर्षरेखालाञ्छितमौलयः।  
+**यस्याङ्घ्रिपीठसङ्घर्षरेखालाञ्छितमौलयः।  
 आशास्वरिनृपा एव जयस्तम्भतया स्थिताः॥३८॥**
 
 **यत्प्रतापानलज्वालामालाकबलिता इव।  
@@ -320,20 +334,20 @@ Travancore State,
 **यस्य सेनातुरङ्गाणां खुरैरुत्थापितं रजः।  
 अकाण्डे राहुसन्देहं मार्ताण्डस्योदपादयत्॥४१॥**
 
-**यष्टिभूतिस्तुतौ स्वल्पालक्ष्मीर्यक्षामरेशयोः।  
-दूरे दुर्योधनादीनां संपत्सादृश्यकल्पना॥४२॥**
+**यष्टिभूतिस्तुतौ स्वल्पा लक्ष्मीर्यक्षामरेशयोः।  
+दूरे दुर्योधनादीनां सम्पत्सादृश्यकल्पना॥४२॥**
 
-**तस्यासीद् विजया नाम विजयार्जित संपदः।  
+**तस्यासीद् विजया नाम विजयार्जित सम्पदः।  
 राजधानी बुधैः श्लाध्या शक्रस्थेवामरावती॥४३॥**
 
-**सुरलोकान्तसंक्रान्तस्वर्णदीमत्सरादिव।  
+**सुरलोकान्तसङ्क्रान्तस्वर्णदीमत्सरादिव।  
 परिखाकारतां यान्त्या परीक्षा तुङ्गभद्रया॥४४॥**
 
 **लक्ष्मीलतालवालेन क्ष्मावधूनाभिशोभिना।  
 चक्राचलप्रकारेण प्राकारेण परिष्कृता॥४५॥**
 
 **स्फुरन्मणिप्रमाहूतपुरुहूतशरासनैः।  
-सुमेरुशृङ्ग संकाशैर्गो पुरैरुपशोभिता॥४६॥**
+सुमेरुशृङ्ग सङ्काशैर्गो पुरैरुपशोभिता॥४६॥**
 
 **उत्फुल्लचम्पकाशोकनागकेसरकेसरैः।  
 वसन्तबासभवनैराराभैरभितो वृता॥४७॥**
@@ -345,7 +359,7 @@ Travancore State,
 क्रीडासरोभिः सहिता मणिसोपानमञ्जुलैः॥४९॥**
 
 **यशस्स्तोमैरिवाशेषनगरीविजयार्जितैः।  
-सौंधैः प्रकाशितोत्सेधा शरदम्भोदपाण्डरैः॥५०॥**
+सौन्धैः प्रकाशितोत्सेधा शरदम्भोदपाण्डरैः॥५०॥**
 
 **विकसद्वनितावल्लीविलासवनवाटिका।  
 दक्षिणाशासरोजाक्षीफाललीलाललाटिका॥५१॥**
@@ -354,15 +368,16 @@ Travancore State,
 गन्धर्वगणसान्निध्यनव्यदिव्यवरूथिनी॥५२॥**
 
 **भुजङ्गसङ्घसंवासभूतेशमुकुटस्थली।  
-सुमनस्स्तोमसंचारसुवर्णगिरिमेखला॥५३॥**
+सुमनस्स्तोमसञ्चारसुवर्णगिरिमेखला॥५३॥**
 
 **लीलेव दिष्टिवृद्धीनां शालेय सकलश्रियाम्।  
 मालेव सर्वरत्नानां वेलेय सुकृताम्बुधेः॥५४॥**
 
 **( द्वादशभिः कुलकम्। )**  
 
+
 **यस्यां प्रासादशृङ्गेषु लग्नं मार्ताण्डमण्डलम्।  
-संघत्ते वीक्षमाणानां सौवर्णकलशभ्रमम्॥५५॥**
+सङ्घत्ते वीक्षमाणानां सौवर्णकलशभ्रमम्॥५५॥**
 
 **यत्सौधचन्द्रशालासु विहरन्त्यो मृगेक्षणाः।  
 शशाङ्कमवलम्बन्ते मुक्ताकन्दुकशङ्कया॥५६॥**
@@ -383,7 +398,7 @@ Travancore State,
 कलङ्कच्छद्मना चन्द्रो व्यनक्ति हृदयव्यथाम्॥६१॥**
 
 **यत्र स्त्रीणां कटाक्षेषु यूनां हृदयहारिषु।  
-पुष्पास्त्रसंचये वाञ्छां मुञ्चते पञ्चसायकः॥६२॥**
+पुष्पास्त्रसञ्चये वाञ्छां मुञ्चते पञ्चसायकः॥६२॥**
 
 **मरालैर्मञ्जुमञ्जीरशिञ्जिताकृष्टमानसैः।  
 लीलागतिमिव प्राप्तुं सेव्यन्ते यत्र योषितः॥६३॥**
@@ -412,7 +427,7 @@ Travancore State,
 **आ विन्ध्यादा च मलयादास्ताद्रेरा च रोहणात्।  
 प्रकम्पिताहितप्राणं प्राणंसिपुरमुं नृपाः॥७१॥**
 
-**कुलक्रमानु \[संप्राप्तक्षोणीरक्षणजा \] गरः।  
+**कुलक्रमानु \[सम्प्राप्तक्षोणीरक्षणजा \] गरः।  
 अमुङ्क्त विपुलान् भोगानचासक्तमनाः प्रभुः॥७२॥**
 
 **देवायी नाम तस्यासीद् देवी वसुमतीपतेः।  
@@ -422,16 +437,16 @@ Travancore State,
 वह्वमंस्त निशानाथो नक्षत्रेष्विव रोहिणीम्॥७४॥**
 
 **कर्णाटलोकनयनोत्सवपूर्णचन्द्रः  
-साकं तया हृदयसंमतया नरेन्द्रः।  
+साकं तया हृदयसम्मतया नरेन्द्रः।  
 कालोचितान्यनुभवन् क्रमशः सुखानि  
 वीरश्चिराय विजयापुरमध्यवात्सीत्॥७५॥**
 
-**इति श्रीगङ्गादेव्या विरचिते मधुराविजय**  
-**नाम्नि वीरकम्पराय चरिते**
+**इति श्रीगङ्गादेव्या विरचिते मधुराविजय नाम्नि वीरकम्पराय चरिते**
 
 **प्रथमः सर्गः।  
-————  
-मीनाक्ष्यै नमः।**  
+————**
+
+**मीनाक्ष्यै नमः।**  
 **————**
 
 **अथ द्वितीयः सर्गः।**
@@ -448,7 +463,7 @@ Travancore State,
 **अनन्यसामान्यभुजापदानमुत्पत्स्यमानं तनयं नृपस्य।  
 अनारतं वीररसानुबन्धं न्यवेदयद् दौहृदमेव देव्याः॥४॥**
 
-**सा तुङ्गभद्रां सविधे वहन्तीं सुभ्रूरनादृत्यसुखावगाहाम्।  
+**सा तुङ्गभद्रां सविधे वहन्तीं सुभ्रूरनादृत्य सुखावगाहाम्।  
 विहर्तुमैच्छन्निजसैन्यनागैस्तरङ्गिते वारिणि ताम्रपर्ण्याः॥५॥**
 
 **अपारयन्ती चरितैणशावं क्रीडाचलोपान्तमपि प्रयातुम्।  
@@ -467,7 +482,7 @@ Travancore State,
 तेजोनिधिं गर्भतले निगूढं कालोरगी रक्षितुमागतेव॥१०॥**
 
 **श्यामायमानच्छविना मुखेन स्तनद्वयं तामरसेक्षणायाः।  
-संदष्टनीलोत्पलयोरभिक्ष्यां रथाङ्गनाम्नोरघरीचकार॥११॥**
+सन्दष्टनीलोत्पलयोरभिक्ष्यां रथाङ्गनाम्नोरघरीचकार॥११॥**
 
 **ताम्बुगर्भामिव मेघमालां बेलामिवाभ्यन्तरलीनचन्द्राम्।  
 अन्तस्स्थरत्नामिव शुक्तिरेखामापन्नसत्त्वां प्रभुरभ्यनन्दत्॥१२॥**
@@ -475,14 +490,14 @@ Travancore State,
 **ततः परं तापहरः प्रजानां पुरोहितोक्त्या पुरुहूतकल्पः।  
 व्यधत काले विभवानुरूपं पुंसां वरः पुंसवनक्रियां सः॥१३॥**
 
-**अथ प्रशस्ते दिवसे समस्तैमौहूर्तिकैःसाधितपुण्यलग्ने।  
+**अथ प्रशस्ते दिवसे समस्तैमौहूर्तिकैः साधितपुण्यलग्ने।  
 असूत सूनुं नरनाथपत्ती देवी महासेनमिषेन्दुमौलेः॥१४॥**
 
 **महौजसस्तस्य निजैर्यशोभिरुद्वेलदुग्धोदधिपूरगौरैः।  
 प्रक्षालितानीव तदा बभूवुर्धृतप्रसादानि दिशां मुखानि॥१५॥**
 
 **ज्ञात्वा वशे तस्य भुवं भवित्रीं भयादिवास्पृष्टपरागलेशः।  
-आकृष्टकल्पद्रुमपुष्पगन्धो मरुद् ववौमन्दममन्दशैत्यः॥१६॥**
+आकृष्टकल्पद्रुमपुष्पगन्धो मरुद् ववौ मन्दममन्दशैत्यः॥१६॥**
 
 **आगामिनीमध्वरहव्यसिद्धिं निश्चित्य देशेष्वपि दक्षिणेषु।  
 प्रदक्षिणीभूतशिखाकलापो ननर्त हर्षादिव हव्यवाहः॥१७॥**
@@ -515,7 +530,7 @@ Travancore State,
 निवार्यमाणं (?) मुहुरुज्जिहानैररिष्टगेहं महसां प्ररोहैः॥२६॥**
 
 **मुहुर्मुहुः पल्लवपाटलेन मुष्टीकृतेन द्वितयेन पाण्योः।  
-अरातिलक्ष्मीकचसंचयानामाकर्षशिक्षामिव शीलयन्तम्॥२७॥**
+अरातिलक्ष्मीकचसञ्चयानामाकर्षशिक्षामिव शीलयन्तम्॥२७॥**
 
 **आलक्ष्यरेखामयशङ्खचक्रच्छत्रारविन्दध्वजमीनचिह्वौ।  
 प्रवालताम्राङ्गुलिदर्शनीयौ सुजातपाष्णीं चरणौ वहन्तम्॥२८॥**
@@ -528,6 +543,7 @@ Travancore State,
 
 **(षङ्भिः कुलकम्।)**  
 
+
 **अव्याजसौन्दर्यगुणाभिरामं कुमारमालोकयतश्चिराय।  
 नृपस्य निष्पन्ददृशो मुहूर्तमानन्दबाष्पोऽभवदन्तरायः॥३१॥**
 
@@ -537,14 +553,14 @@ Travancore State,
 **ततः प्रतीतेऽह्नि पुरोहितेन नरेन्द्रसूनुः कृतजातकर्मा।  
 समिद्धतेजाः समतामयासीन्मन्त्रप्रणीतेन मखानलेन॥३३॥**
 
-**आकम्पयिष्यत्ययमेकवीरः संग्रामरङ्गे सकलानरातीन्।  
+**आकम्पयिष्यत्ययमेकवीरः सङ्ग्रामरङ्गे सकलानरातीन्।  
 इत्येव निश्चित्य स दीर्घदर्शी नाम्ना सुतं कम्पन इत्यकार्षीत्॥३४॥**
 
 **धात्रीभिराप्ताभिरमुं कुमारमवर्वयद् भूपतिरादरेण।  
 यज्वा यथाज्याहुतिभिर्हुताशं सस्यं यथा वृष्टिभिरम्बुवाहः॥३५॥**
 
 **क्रमेण धात्रीजनशिक्षितानि वचांसि यातानि च मन्थराणि।  
-स्खलत्पदान्यस्य धराधिनाथोनिशम्य दृष्ट्वाच स निर्वृतोऽभूत्॥३६॥**
+स्खलत्पदान्यस्य धराधिनाथो निशम्य दृष्ट्वा च स निर्वृतोऽभूत्॥३६॥**
 
 **तदाननं तस्य सुगन्धि जिघ्रन्नालक्ष्यदन्ताङ्कुरदर्शनीयम्।  
 न तृप्तिमासादयति स्म राजा नवोदयं हंस इवारविन्दम्॥३७॥**
@@ -562,13 +578,14 @@ Travancore State,
 शशीव सानन्दमुदीक्ष्यमाणः प्रजाभिरालोकसमुत्सुकाभिः॥४१॥\]**
 
 **पशुपतिरिव नेत्रैः सोमसूर्याग्मिरूपैर्नय इव निरपायैः प्राभवोत्साहमन्त्रैः।  
-भव इव पुरुषार्थैर्धर्मकामार्थसंज्ञेस्त्रिभिरपि नरपालस्तैस्तनूजैरभासीत्॥४२॥**
+भव इव पुरुषार्थैर्धर्मकामार्थसञ्ज्ञेस्त्रिभिरपि नरपालस्तैस्तनूजैरभासीत्॥४२॥**
 
-**इति श्रीगङ्गादेव्या विरचिते मधुराविजय-  
-नाम्नि \[वीर \] कम्परायचरिते**
+**इति श्रीगङ्गादेव्या विरचिते मधुराविजयनाम्नि \[वीर \] कम्परायचरिते**
 
 **द्वितीयः सर्गः  
 —————**
+
+
 
 **अथ तृतीयः सर्गः।  
 —————**
@@ -579,8 +596,8 @@ Travancore State,
 **स तीर्थब्धायुधशस्त्रसंविदा गुणाभिरामो गुरुणैव शिक्षितः।  
 शरासनासिप्रमुखेषु शातवीरगच्छदस्त्रेष्वखिलेषु पाटवम्॥२॥**
 
-**स सत्यवाग्भूरिवलो धनुर्धरस्तुरङ्गमारोहणकर्ममर्मवित्।  
-कृपाणविद्यानिपुणः पृथाभुवामदर्शि संङ्घात इवैकतां गतः॥३॥**
+**स सत्यवाग् भूरिवलो धनुर्धरस्तुरङ्गमारोहणकर्ममर्मवित्।  
+कृपाणविद्यानिपुणः पृथाभुवामदर्शि सङ्ङ्घात इवैकतां गतः॥३॥**
 
 **स पञ्चबाणद्विपकेलिदीर्घिकां धरानुरागद्रुमपुष्पमञ्जरीम् (?)।  
 नितम्बिनीनेत्रचकोरचन्द्रिकामवापदास्कन्दितशैशवां दशाम्॥४॥**
@@ -622,7 +639,7 @@ Travancore State,
 गुणैः परीणाहममुष्य कन्धरा स्वरेण गाम्भीर्यमगच्छदाशयः॥१६॥**
 
 **अथैनमासादितयौवनोदयं नरेन्द्रकन्याभिरयोजयन्नृपः।  
-घनागमः संभृतरत्नसंपदं वरापगाभिर्निधिमम्भसामिव॥१७॥**
+घनागमः सम्भृतरत्नसम्पदं वरापगाभिर्निधिमम्भसामिव॥१७॥**
 
 **शचीव शक्रस्य रमेव शार्ङ्गिणः सतीव शम्भो........................।  
 ..................................................................................॥ १८॥**
@@ -633,10 +650,10 @@ Travancore State,
 **अरातिवर्गोन्मथनेन विश्रुतं विधातुमत्यन्तविनीतमप्यमुम्।**  
 **कदाचिदर्थोल्लसितेन भूपतिः स वाङ्मयेनैवमुपादिशत् सुतम्॥२०॥**
 
-**धियः प्रकाशादुपदेशसंभृतात् तमो हि तारुण्यविजृम्भितं जनाः।  
+**धियः प्रकाशादुपदेशसम्भृतात् तमो हि तारुण्यविजृम्भितं जनाः।  
 समुज्झितुं तात! भवन्ति पारितास्तदे\] तदाकर्णयितुं त्वमर्हसि॥२१॥**
 
-**गुरूपदेशः किल कथ्यते बुधैरकर्कशं किंचन रत्नकुण्डलम्।  
+**गुरूपदेशः किल कथ्यते बुधैरकर्कशं किञ्चन रत्नकुण्डलम्।  
 अमेचकं नूतनमञ्जनं सतामजातगात्रक्षयमद्भुतं तपः॥२२॥**
 
 **मुहुः प्रसर्पन्मदमीलितेक्षणाः क्षणाधिरोहद्रजसो मलीमसाः।  
@@ -645,7 +662,7 @@ Travancore State,
 **मदान्धकारो हि महानिशीथिनी प्रबोधचन्द्रप्रतिरोधकालिका।  
 मनोजमत्तद्विपवैजयन्तिका शरीरिणां शश्वदलङ्घिनी दशा॥२४॥**
 
-**भवत्यहंकारमहीरुहाङ्कुरे दयापयश्शोषणदारुणोष्मणि।**  
+**भवत्यहङ्कारमहीरुहाङ्कुरे दयापयश्शोषणदारुणोष्मणि।**  
 **तमः प्रदोषे तरुणिम्नि कस्य वा समञ्जसं पश्यति दृष्टिरञ्जसा॥२५॥**
 
 **युवानमज्ञातनयागमक्रमं स्वतन्त्रमैश्वर्यमदोद्धतं नृपम्।  
@@ -654,19 +671,19 @@ Travancore State,
 **अशेषदोषाङ्कुरकुञ्जभूमयो मदान्धचेतो मृगबन्धवागुराः।  
 कथं नु विश्वासपदं मनीषिणां मनोजमायाभटशस्त्रिकाः स्त्रियः॥२७॥**
 
-**फलोत्तरा भूमिरनत्ययं बलं महार्हरत्नाभरणं च संपदः।  
+**फलोत्तरा भूमिरनत्ययं बलं महार्हरत्नाभरणं च सम्पदः।  
 किमन्यदात्मा च कलत्रपुत्रकैः परार्थमेव ध्रुवमक्षदेविनः॥२८॥**
 
 **विना फलं जीवितसंशयप्रदां विनोदबुद्ध्या मृगयां भजेत कः।  
 प्रमाद्यतां पार्थिवगन्धहस्तिनामियं हि वारी कथिता विचक्षणैः॥२९॥**
 
-**समग्रतारुण्यमदस्य संपदा स्खलद्वतेर्थन्मदिरानिषेवणम्।  
+**समग्रतारुण्यमदस्य सम्पदा स्खलद्वतेर्थन्मदिरानिषेवणम्।  
 स एष दोषत्रयजे महाज्वरे ग्रहाभिभूतस्य भुजङ्गनिग्रहः॥३०॥**
 
 **हितानि कुर्वन्नपि नानुरक्तये जनस्य जल्पन् परुषं रुषा नृपः।  
 पयांसि वर्षन्नपि किं न भीषणः कठोरविस्फूर्जथुगर्जितो घनः॥३१॥**
 
-**दुनोति दण्डेन दुरुत्सहेन यः प्रसह्य राष्ट्रं पदमात्मसंपदाम्।  
+**दुनोति दण्डेन दुरुत्सहेन यः प्रसह्य राष्ट्रं पदमात्मसम्पदाम्।  
 स वृक्षमारुह्य कुठारपातनं करोति मूलोद्दलनाय दुर्मतिः॥३२॥**
 
 **मदादपात्रेषु ददाति मन्दधीर्धनानि धर्मादिकसाधनानि यः।  
@@ -675,7 +692,7 @@ Travancore State,
 **अथैभिरैश्वर्यशरीरयक्ष्मभिर्हताखिलाङ्गैर्व्यसनैरुपद्रुताः।  
 तमः पराभूतनिजौजसो नृपाः प्रयान्ति कालाद् द्विषतामुपेक्ष्यताम्॥३४॥**
 
-**उपेयुषीं पुण्यवशेन संपदं गुणानुरोधादुपभोक्तुमक्षमाः।  
+**उपेयुषीं पुण्यवशेन सम्पदं गुणानुरोधादुपभोक्तुमक्षमाः।  
 स्वचापलेन श्लथयन्ति दुर्धियो वलीमुखाः पुष्पमयीमिव स्रजम्॥३५॥**
 
 **भवादृशास्तु स्वत एव शुद्धया गुरूपदेशैर्गुणितप्रकाशया।  
@@ -716,12 +733,12 @@ Travancore State,
 विमतविजयव्यग्रोत्साहान् विहाय गृहाय ता-  
 नरमत सुखी शय्यागेहे सरोजमुखीसखः॥४७॥**
 
-**इति \[ श्रीगङ्गादेव्या विरचिते मधुराविजय**
-
-**नाम्नि वीरकम्परायचरिते \]**
+**इति \[ श्रीगङ्गादेव्या विरचिते मधुराविजयनाम्नि वीरकम्परायचरिते \]**
 
 **तृतीयः सर्गः।**  
 **—————**
+
+
 
 **अथ चतुर्थः सर्गः।  
 —————**
@@ -732,7 +749,7 @@ Travancore State,
 **विहाय निद्रां विधिवन्निर्मिताहर्मुखक्रियः।  
 आदिक्षत् पृतनाध्यक्षान् सेनासन्नहनाय सः॥२॥**
 
-**अथ मन्दरसंघट्टक्षोभिताम्भोधिमण्डलः।  
+**अथ मन्दरसङ्घट्टक्षोभिताम्भोधिमण्डलः।  
 रराग कोणाभिहतो रणनिर्याणदुन्दुभिः॥३॥**
 
 **कल्पान्तोद्भ्रान्तचण्डीशडमरुध्वानडामरः।  
@@ -751,7 +768,7 @@ Travancore State,
 परश्शतं जघटिरे विकटाः करिणां घटाः॥८॥**
 
 **समीरणरयोदग्रा वल्गन्तः फेनिलैर्मुखैः।  
-तुरङ्गाः सैन्यजल स्तरङ्गाइव रेजिरे॥९॥**
+तुरङ्गाः सैन्यजल स्तरङ्गा इव रेजिरे॥९॥**
 
 **कृपाणकर्पणप्रासकुन्तकोदण्डपाणयः।  
 समगच्छन्त सहसा नैकदेश्याः पदातयः॥१०॥**
@@ -768,7 +785,7 @@ Travancore State,
 **नृपमौलिमणिच्छायामञ्जरी पुञ्जरञ्जिताः।  
 अत्याक्षुरौरसीं रक्तिं न जातु रविरश्मयः॥१४॥**
 
-**उत्तुङ्गैर्ध्वजसंघातैर्निरुद्धे गगनाध्वनि।  
+**उत्तुङ्गैर्ध्वजसङ्घातैर्निरुद्धे गगनाध्वनि।  
 निनाय कृच्छ्रात् पातङ्गं शताङ्गं गरुडाग्रजः॥१५॥**
 
 **पोषितो हयहेषाभिर्बृंहितो गजबृंहितैः।  
@@ -781,19 +798,19 @@ Travancore State,
 स्फुरितैर्भाविवीरश्रीपरिरम्भमहोत्सवम्॥१८॥**
 
 **अथर्ववेदिनो विप्रास्तं विशेषैर्जयाशिषाम्।  
-अवर्धयन् मन्त्रपूतैर्हविर्भिरिव पावकम्॥१९॥**
+अवर्धयन् मन्त्रपूतैर्हविर्भिरिव पावकम्॥१९ ॥**
 
 **अथ निर्गत्य भवनादवैक्ष्यत महीक्षिता।  
 धारितस्तोरणाभ्यर्णे तुङ्गस्तुरगपुङ्गवः॥२०॥**
 
 **सपक्ष इव तार्क्ष्यस्य सजातिरिव चेतसः।  
-सखेव गन्धवाहस्य संघात इव रंहसः॥२१॥**
+सखेव गन्धवाहस्य सङ्घात इव रंहसः॥२१॥**
 
 **अपर्याप्तामतिक्रान्तचेतोवृत्तेः स्वरंहसः।  
 विस्तारयन्निव महीं चटुलैः खुरघट्टनैः॥२२॥**
 
 **जवाधरितजम्भारितुरङ्गभ्रमकारिणम्।  
-मणिकुट्टिमसंक्रान्तमाक्रामन् बिम्बमात्मनः॥२३॥**
+मणिकुट्टिमसङ्क्रान्तमाक्रामन् बिम्बमात्मनः॥२३॥**
 
 **लवणोदन्वदेकान्तलङ्घनामात्रगर्वितम्।  
 हसन्निव हनूमन्तं हेषितैः फेनपाण्डरैः॥२४॥**
@@ -808,14 +825,15 @@ Travancore State,
 नमस्कुर्वन्ति पुरोवर्तिनीं विजयश्रियम्॥२७॥**
 
 **खुरधूतधराधूलिस्थलीकृतनमस्स्थलः।  
-वारयन्निव रथ्यानां रवेःखेचरतामदम्॥२८॥**
+वारयन्निव रथ्यानां रवेः खेचरतामदम्॥२८॥**
 
 **(नवभिः कुलकम्।)**  
+
 
 **देहब (न्ध?द्ध) मिवोत्साहं तमारुह्य महीपतिः।  
 अमंस्त पृथिवीं सर्वामात्मनो हस्तवर्तिनीम्॥२९॥**
 
-**स तत्र तत्र संभूतैः सैन्यैः सङ्ख्यातिलङ्घिभिः।  
+**स तत्र तत्र सम्भूतैः सैन्यैः सङ्ख्यातिलङ्घिभिः।  
 अन्तर्हिततदाभोगमत्यगाद् गृहगोपुरम्॥३०॥**
 
 **तमञ्जलिभिरानम्रकिरीटतलकीलितैः।  
@@ -845,11 +863,11 @@ Travancore State,
 **पांसुस्थगनलक्षेण पलायत रविः क्वचित्।  
 भावियुद्धामरीभूतवीरोद्दलनशङ्कितः॥३९॥**
 
-**प्रायः स्वनाशमुत्प्रेक्ष्य भाविनं रेणुसंचयः।  
+**प्रायः स्वनाशमुत्प्रेक्ष्य भाविनं रेणुसञ्चयः।  
 रुरोध सिन्धुरेन्द्राणां मदमारासिरामुखम्॥४०॥**
 
 **धर्माशुकिरणग्रासात् परितप्त इवाधिकम्।  
-अगाहत महाम्भोधीनवनीक्षोरसंचयः॥४१॥**
+अगाहत महाम्भोधीनवनीक्षोरसञ्चयः॥४१॥**
 
 **वितेनिरे करेणूनां करशीकररणेवः।  
 घनस्य सेनारजसः करकाकारचातुरीम्॥४२॥**
@@ -857,11 +875,11 @@ Travancore State,
 **ततः सेनागजेन्द्राणां कर्णतालानिलोद्धता \।  
 अवार्गत रजोराजिः करशीकरदुर्दिनैः॥४३॥**
 
-**अथ कल्पान्तसंमित्रसप्ताम्भोनिविसन्निभम्।  
+**अथ कल्पान्तसम्मित्रसप्ताम्भोनिविसन्निभम्।  
 क्रनात् प्रयातुमारेमे स्फारकोलाहलं बलम्॥४४॥**
 
 **तुरङ्गखुरकुद्दालदलितादपि भूतलात्।  
-न पुनः पांमुरुत्तस्थौ महेसन दृष्टिभिः॥४५॥**
+न पुनः पाम्मुरुत्तस्थौ महेसन दृष्टिभिः॥४५॥**
 
 **तं तुङ्गभद्राकल्लोलशीकरासङ्गशीतलः।**  
 **आनुकूल्येन यात्रार्थमः कर्षेव मारुतः॥४६॥**
@@ -869,7 +887,7 @@ Travancore State,
 **अथ लङ्घितकर्णाटः पञ्चपैरेन वासरैः।  
 प्रापत् कम्पमहीपालः कण्टकाननपट्टणम्॥४७॥**
 
-**स तत्र दिवसान् कांक्षिदतिवाह्य महाबलः।  
+**स तत्र दिवसान् काङ्क्षिदतिवाह्य महाबलः।  
 अभिषणयितुं चम्पमुपाक्रमत कालवित्॥४८॥**
 
 **प्रसृतैस्तच्च मृधूलिस्तोमैः क्षीरतरङ्गिणी।  
@@ -882,7 +900,7 @@ Travancore State,
 घनीकृतहिमानीको हेमन्त इव भास्करम्॥५१॥**
 
 **संवर्तमारुताक्षिप्तसमुद्रद्वयसन्निभौ।  
-व्यूहौ द्रमिडकर्णाटनाथयोः संनिपेततुः॥५२॥**
+व्यूहौ द्रमिडकर्णाटनाथयोः सन्निपेततुः॥५२॥**
 
 **पादातप्राप्तपादातं हास्तिकाक्रान्तहास्तिकम्।  
 आश्वीयमिलिताश्वीयमासीदायोधनं तयोः॥५३॥**
@@ -890,10 +908,10 @@ Travancore State,
 **असह्यैस्तत्र वीराणां सिंहनादविजृम्भणैः।  
 दिगन्तदन्तिनो मुक्तफीट्कारं मुमुहुर्मुहुः॥५४॥**
 
-**रजस्तमसि वीरास्त्रसङ्घसंघट्टनोत्थितैः।  
-बभ्रे स्फुलिङ्गसंघातैः स्वद्योतनिवहद्युतिः॥५५॥**
+**रजस्तमसि वीरास्त्रसङ्घसङ्घट्टनोत्थितैः।  
+बभ्रे स्फुलिङ्गसङ्घातैः स्वद्योतनिवहद्युतिः॥५५॥**
 
-**संग्रामदेवतापाङ्गविभ्रमभ्रान्तिदायिनः।  
+**सङ्ग्रामदेवतापाङ्गविभ्रमभ्रान्तिदायिनः।  
 मिथो धनुर्धरैर्मुक्ताः पेतुः शातमुखाः शराः॥५६॥**
 
 **क्षतजार्द्राः प्रवीराणां प्रेङ्खन्त्यः खड़्गलेखिकाः।  
@@ -906,7 +924,7 @@ Travancore State,
 भुजङ्गशङ्किनो गृध्रा जगृहुर्भूभुजां भुजान्॥५९॥**
 
 **वेतण्डशुण्डाहर्म्याग्रामास्थिताः सचमत्कियम्।  
-आद्रियन्त कबन्धानां (न?र) क्तं नक्तंचरस्त्रियः॥६०॥**
+आद्रियन्त कबन्धानां (न?र) क्तं नक्तञ्चरस्त्रियः॥६०॥**
 
 **वीराः कुञ्जरकुम्भेषु शायिनः शत्रुसायकैः।  
 प्राबुध्यन्त सुरस्त्रीणां कुचकुम्भेषु तत्क्षणात्॥६१॥**
@@ -915,7 +933,7 @@ Travancore State,
 पलायत पराभूता द्रमिडेन्द्रवरूथिनी॥६२॥**
 
 **उल्लङ्घ्योल्लङ्घय धावद्भिर्भीत्या भ्रंशितमायुधम्।  
-प्रायः प्रथनसंन्यासे शपथः कैश्विदादधे॥६३॥**
+प्रायः प्रथनसन्न्यासे शपथः कैश्विदादधे॥६३॥**
 
 **हतानुकारिणः केचित् क्षितौ निपतितास्ततः।**  
 **क्रोष्टुर्भयेन धावन्तः कर्णाटान् पर्यहासयन्॥६४॥**
@@ -942,7 +960,7 @@ Travancore State,
 रणश्रीकन्दुकान्तिर्विदधे वीरमूर्धभिः॥७१॥**
 
 **अग्रे निपेतुर्नृपतेर्ग्रावाणो यन्त्रविच्युताः।  
-दुर्गेणातरदानार्थं दूताः संप्रेषिता इव॥७२॥**
+दुर्गेणातरदानार्थं दूताः सम्प्रेषिता इव॥७२॥**
 
 **धानुष्कमुक्तबाणाग्निज्वलितोर्ध्वगृहावलिः।  
 विजयारात्रिकं तस्य मूर्ध्नेवाद्रिरधारयत्॥७३॥**
@@ -956,15 +974,16 @@ Travancore State,
 **............................................................।**  
 **अलब्धनिर्गमं दुर्गमासीदेवमुपद्रुतम्॥७६॥**  
 
+
 **(युग्मकम्1)**
 
 **निर्जगाम निजागाराच्चम्पक्ष्मापोऽपि कोपनः।  
 कृपाणपाणिर्वल्मीकाजिह्वाल इत्र जिह्मगः॥७७॥**
 
-**अहंपूर्विकया वीरेष्वभितो सुद्धकाङ्क्षिषु।  
+**अहम्पूर्विकया वीरेष्वभितो सुद्धकाङ्क्षिषु।  
 प्रत्यग्रहीन्महीपालश्चम्पं सिंह इव द्विपम्॥७८॥**
 
-**तौ निकुञ्चितपूर्वाङ्गौ निश्चलाक्षौकृपाणिनौ।  
+**तौ निकुञ्चितपूर्वाङ्गौ निश्चलाक्षौ कृपाणिनौ।  
 उचितस्थानकावास्तां चित्रन्यस्ताविक क्षणम्॥७९॥**
 
 **कक्ष्याविभक्तवपुषोश्चारीनिश्चरतोस्तयोः।  
@@ -973,18 +992,20 @@ Travancore State,
 **अन्तर्बिम्बितचम्पेन्द्रा कम्पेन्द्रस्यासिपुत्रिका \।  
 अप्सरोभ्यः पतिं दातुमन्तर्वत्नी किलाभवत्॥८१॥**
 
-**अथ वश्चित\[तत्\] खड्गप्रहारः कम्पभूपतिः।  
+**अथ वश्चित \[तत्\] खड्गप्रहारः कम्पभूपतिः।  
 अकरोदसिना चम्पममरेन्द्रपुरातिथिम्॥८२॥**
 
 **इत्थं सङ्गरमूर्ध्नि चम्पनृपतिं नीत्वा कथाशेषतां  
-श्रीमान् कम्पनृपेश्वरो जनयितुः संप्राप्तवाञ्छासनम्।  
-काञ्चीन्यस्तजयप्रशस्तिरमिथस्संकीर्णवर्णाश्रमं  
+श्रीमान् कम्पनृपेश्वरो जनयितुः सम्प्राप्तवाञ्छासनम्।  
+काञ्चीन्यस्तजयप्रशस्तिरमिथस्सङ्कीर्णवर्णाश्रमं  
 नीत्या नित्यनिरत्ययर्द्धिरशिक्त् तुण्डीरभूमण्डलम्॥८३॥**
 
 **इति \[श्रीगङ्गादेव्या विरचिते मधुराविजयनानि नाम्नि वीर \] कम्परायचरिते**
 
 **चतुर्थः सर्गः।**  
 **———**
+
+
 
 **अथ पञ्चमः सर्गः।**  
 **———**
@@ -996,7 +1017,7 @@ Travancore State,
 वसुमतीमवतीर्णमिवापरं हरिममंसत तं सततं प्रजाः॥२॥**
 
 **प्रथितशक्तिरवाप्तफलोदयः प्रगुणयन् पणबन्धमुखान् गुणान्।  
-निपुणधीर्निरपायमुपायवित् प्रभुरभुक्त नवां नयसंपदम्॥३॥**
+निपुणधीर्निरपायमुपायवित् प्रभुरभुक्त नवां नयसम्पदम्॥३॥**
 
 **असुहृदां सुहृदामिव मण्डलेष्वजनि तेन न किश्चिदलक्षितम्।  
 प्रहितचारगणेन विवस्वता प्रसृतदीधितिना भुवनेष्विव॥४॥**
@@ -1034,7 +1055,7 @@ Travancore State,
 **अथ सुगन्धिहिमान् व्यजनानिलान् मृगदृशः कृतचन्दनचर्चिकाः।  
 शशिमतीश्च निशाः प्रियतां नयन् नरपतेरुदभूद् ऋतुरूष्मलः \।\। १५ \।**
 
-**विकचपाटलंगन्धिसमीरणैः सलिलकेलिपरायणयौवतैः।  
+**विकचपाटलङ्गन्धिसमीरणैः सलिलकेलिपरायणयौवतैः।  
 रजनिदैर्ध्यहरैरधिकोल्लसद्रविमहोभिरहोभिरभूयत॥१६॥**
 
 **नियतिनिर्मितदक्षिणदिग्वधूविरहतापनिवारणवाञ्छया।  
@@ -1052,7 +1073,7 @@ Travancore State,
 नवशिरीषवतंसमनोहरैः सुवदना वदनैस्तममोदयन्॥ २१॥**
 
 **दिनविरामविकस्वरमल्लिकाकुसुमसौरभहारिषु सुभ्रुवाम् ।  
-कचभरेषु निवेशयतो मुखंनरपतेर्न वितृष्णमभून्मनः॥ २२॥**
+कचभरेषु निवेशयतो मुखं नरपतेर्न वितृष्णमभून्मनः॥ २२॥**
 
 **हिमगृहेषु निरन्तरशीकरप्रकरदर्शिततारकपङ्क्तिषु।  
 दिवसतापमहापयदायतं वरवधूसहितो वसुधाधिपः॥ २३॥ .**
@@ -1085,7 +1106,7 @@ Travancore State,
 मुदितचातकमुन्मुखबर्हिणं कतिचिदास दिनानि वनान्तरम्॥३२॥**
 
 **करतलैरिव गन्धवहैर्घनाः प्रहितकैतकपांसुविभूतयः।  
-स्तनितहुंकृतिभिर्निरकासयन् नृपतियौवतमानमहाग्रहम्॥३३॥**
+स्तनितहुङ्कृतिभिर्निरकासयन् नृपतियौवतमानमहाग्रहम्॥३३॥**
 
 **चलितबर्हिणचन्द्रकचित्रितैः सुरभिगन्धिशिलामदशालिभिः।  
 विकचनीपवनैर्नृपतेर्मनो मुहुरहारि विहारमहीधरैः॥३४॥**
@@ -1163,7 +1184,7 @@ Travancore State,
 मृगमदद्रवचारुविशेषकैर्मृगदृशो नृपतेरहरन् मनः॥५८॥**
 
 **अपदिशञ्छिशिरानिलमङ्गकैः पुलकितैर्नृपतेः सविधं गतः।  
-मदनसंभृतघर्मपयःकणैर्भृशमलज्जत मुग्धबधूजनः॥५९॥**
+मदनसम्भृतघर्मपयःकणैर्भृशमलज्जत मुग्धबधूजनः॥५९॥**
 
 **द्विगुणयन्नधरव्रणवेदनां कृतकचग्रहणैः परिचुम्बनैः।  
 कपटरोषकषायितलोचनं निभृतहासमवैक्ष्यत यौवतैः॥६०॥**
@@ -1184,7 +1205,7 @@ Travancore State,
 प्रकटितेव हिमापसमश्रिया स्मरमहोत्सवदीपपरम्परा॥६५॥**
 
 **मधुनि मुग्धदृशां मुखसंस्तवात् तद्नुषङ्गितया बकुलेषु च।  
-मरुति चैतदनुक्षण \[सौहृ\] दात् समुचितोऽजनि सौरभसङ्क्रमः॥६६॥**
+मरुति चैतदनुक्षण \[सौहृ \] दात् समुचितोऽजनि सौरभसङ्क्रमः॥६६॥**
 
 **क्वणितनूपुरकुन्तलकामिनीचरणपङ्कजसङ्गवशादिव।  
 मुखरभृङ्गमशोकमहीरुहैस्तदनुरूपमधार्यत पल्लवम्॥६७॥**
@@ -1195,7 +1216,7 @@ Travancore State,
 **पथिक \[सार्थ\]पराक्रमप्णोत्सुकप्रसवकार्मुककाहलनिस्वनः।  
 मधुरपञ्चमरागरसाश्चितो जगदरञ्जयदन्यभृतध्वनिः॥६९॥**
 
-**अधिगताभिनवार्तवसम्पदः स्तबकसंजनितस्तनविभ्रमाः।  
+**अधिगताभिनवार्तवसम्पदः स्तबकसञ्जनितस्तनविभ्रमाः।  
 भ्रमरकामुकसंवननक्षमा वनलता ललितां दधिरे दशाम्॥७०॥**
 
 **सुतनवः फलकेषु मधूत्सवे रतिपतिं परिलेखितुमुद्यताः।  
@@ -1216,14 +1237,17 @@ Travancore State,
 **इति समुपचिताभिश्चातुरीभिर्विशेषान्  
 ऋतुषु समुपलभ्यान् निर्विशन् निर्विशङ्कम्।  
 सुतनुभिरवियोगोत्कण्ठिताभिस्तृतीयं  
-व्यतनुत पुरुषार्थंकम्पराजः कृतार्थम्॥७६॥**
+व्यतनुत पुरुषार्थं कम्पराजः कृतार्थम्॥७६॥**
 
-**इति \[श्रीगङ्गादेव्या विरचिते मधुराविजयनाम्नि वीर \] कम्पराय चरिते**  
+**इति \[श्रीगङ्गादेव्या विरचिते मधुराविजय नाम्नि वीर \] कम्पराय चरिते**  
 ————————
 
+
+
 **पञ्चमः सर्गः।**  
-**—————  
-अथ षष्ठः सर्गः।**  
+**—————**
+
+**अथ षष्ठः सर्गः।**  
 **—————**
 
 **अथ वरतनुभिः समं कदाचिद् विरचयितुं कसुमापचायलीलाम्।  
@@ -1263,9 +1287,9 @@ Travancore State,
 न किमलमपराङ्गमेव तावद् दयिततनस्य मृगीदृशां मनांसि॥१२॥**
 
 **स्तनजघनभरं तवालि! जाने तदपि गतिस्त्वरया त्वया विधेया।  
-न कलयसि निरन्तरं निषेव्या युवति जनैर्बहु.[^21].......................१३**
+न कलयसि निरन्तरं निषेव्या युवति जनैर्बहु.[^22].......................१३**
 
-[^21]: "*तालपत्रादर्श इत ऊर्ध्व ४१ लोका न दृश्यन्ते।"
+[^22]: # "*तालपत्रादर्श इत ऊर्ध्व ४१ लोका न दृश्यन्ते।"
 
 **.......................................................................पतन्ति।**  
 **मदनसुभटवारणास्त्रशङ्कां मनसि चकार चकोरलोचनानाम्॥५५॥**
@@ -1298,7 +1322,7 @@ Travancore State,
 नहि जडिमसमन्वितोऽपि कोऽपि श्रुतिविषयात् पतितैः करोति मैत्रीम्॥**
 
 **अपि दयिततमेन वारिताभिगृहसरसो विजहे न वारि ताभिः।  
-परिलुलितललामंचर्चिकाभिविवृतिरसान्महिलामचर्चिकाभिः॥६५॥**
+परिलुलितललामञ्चर्चिकाभिविवृतिरसान्महिलामचर्चिकाभिः॥६५॥**
 
 **अथ विहरणस्वेदमन्थराभिः सह निरगात् सरसो नृपः प्रियाभिः।  
 कलशजलनिधेरिवाप्सरोभिर्विबुधतरुर्मथनश्रमालसाभिः॥६६॥**
@@ -1315,11 +1339,12 @@ Travancore State,
 **त्रयीगीतं तेजस्त्रिपुरहरमाराध्य विधिवद्  
 यथार्हैर्व्यापारैर्नरपतिरहश्शेषमनयत्॥३९॥**
 
-**इति\[श्रीगङ्गादेव्या विरचिते मधुराविजय  
-नाम्नि वीर\]कम्परायचरिते**
+**इति\[श्रीगङ्गादेव्या विरचिते मधुराविजय नाम्नि वीर\]कम्परायचरिते**
 
 **षष्ठः सर्गः।**  
 **————**
+
+
 
 **अथ सप्तमः सर्गः।  
 ————————**
@@ -1330,13 +1355,13 @@ Travancore State,
 **परिचूषितदीप्तिरम्बुजैः पुनरूष्माणमिवाप्तुमौर्वतः।  
 रयवल्गितवाहनो रविः पयसां राशिमवाप पश्चिमम्॥२॥**
 
-**अपसर्पणसंभ्रमच्युतं दिनलक्ष्म्यास्तपनीयकुण्डलम्।  
+**अपसर्पणसम्भ्रमच्युतं दिनलक्ष्म्यास्तपनीयकुण्डलम्।  
 रविमण्डलमाशशङ्किरे वरुणान्तःपुरवामलोचनाः \।\। ३ \।\।**
 
 **तरणेररुणीकृताः करैर्वरुणस्त्रैणकपोलभित्तयः।  
-मदलोहिनिकामुपावहन् मंदिरास्वादनमन्तराप्यहो॥४॥**
+मदलोहिनिकामुपावहन् मन्दिरास्वादनमन्तराप्यहो॥४॥**
 
-**कमलोदरसंभृतं करैर्मधु पीत्वा रविरुज्झिताम्बरः।  
+**कमलोदरसम्भृतं करैर्मधु पीत्वा रविरुज्झिताम्बरः।  
 स्पृशति स्म दिशं प्रचेतसो न मदः कस्य विकारकारणम्॥५॥**
 
 **प्रथमां हरितं प्रभाकरो विरहय्यात्मनि तापमाप यम्।  
@@ -1360,7 +1385,7 @@ Travancore State,
 **पतयालुपतङ्गमण्डलक्षरदंशूत्कररञ्जिताकृतिः।  
 मधुकैटभरक्तलोहितामुदधिः प्राप पुरातनीं दशाम्॥१२॥**
 
-**गतदीप्ति गभस्तिमालिनो विलुठ \[द्वीचिषु बिम्ब \]प्रम्बुधेः।  
+**गतदीप्ति गभस्तिमालिनो विलुठ \[द् वीचिषु बिम्ब \]प्रम्बुधेः।  
 शफराः फलखण्डशङ्कया रसनाभिर्लिलिहुर्मुहुर्मुहुः॥१३॥**
 
 **स्खलितात गलेशमायतैर्निटपिच्छायशतैर्वृतं जगत्।  
@@ -1390,7 +1415,7 @@ Travancore State,
 **नवपल्लवकोमलच्छविर्दिवि सान्ध्यो ददृशे महोभरः।  
 (विनि?रवि)पातरयात् समुत्थितश्चरमान्धेरिव विद्रुमोत्करः॥२२॥**
 
-**उदियाय ततो दिगङ्गनाश्रवणाकल्पतंमालपल्लवः।  
+**उदियाय ततो दिगङ्गनाश्रवणाकल्पतम्मालपल्लवः।  
 रजनीमुखपत्रलेखिकारचनारङ्कुमदस्तमोङ्कुरः॥२३॥**
 
 **किमु धूमभरः प्रशाम्यतो घुमणिग्रावगतस्य तेजसः।  
@@ -1477,14 +1502,14 @@ Travancore State,
 **मघवन्मणिभङ्गमेचकः शशिनि श्यामलिमा चकास्ति यः।  
 जनयत्ययमङ्कपालिकाप्रणयालीननिशीथिनीधियम्॥५१॥**
 
-**कलयामि कलङ्ककैतवान्नियतं धारयते ..............।[^22]**
+**कलयामि कलङ्ककैतवान्नियतं धारयते ..............।[^23]**
 
-[^22]: "*इतः परमुपत्रिंशपद्यनिवेशपर्यातं पत्रं तालपत्रादर्थे न लिखितस्'व्याघ्रपुरी' स्थादीनां हृतभेददर्शनाद्मसर्गान्तर्भावः संभाव्यते।"
+[^23]: # " *इतः परमुपत्रिंशपद्यनिवेशपर्यातं पत्रं तालपत्रादर्थे न लिखितस्'व्याघ्रपुरी' स्थादीनां हृतभेददर्शनाद्मसर्गान्तर्भावः सम्भाव्यते।"
 
-**\[इति श्रीगङ्गादेव्या विरचिते मधुराविजय नाम्नि वीरकम्परायचरिते**
-
-**सप्तमः सर्गः।\]**  
+**\[इति श्रीगङ्गादेव्या विरचिते मधुराविजय नाम्नि वीरकम्परायचरिते सप्तमः सर्गः।\]**  
 **————**
+
+
 
 **अथाष्टमः सर्गः।  
 —————**
@@ -1496,14 +1521,14 @@ Travancore State,
 **अधिरङ्गमवाप्तयोगनिद्रं हरिमुद्वेजयतीति जातभीतिः।  
 पतितं मुहुरिष्टकानिकायं फणचक्रेण निवारयत्यहीन्द्रः॥**
 
-**........नुघूर्णदूर्णनाभं वनवेतण्डविमर्दिनीमवस्थाम्।**  
+**........ नुघूर्णदूर्णनाभं वनवेतण्डविमर्दिनीमवस्थाम्।**  
 **विरतान्यपरिच्छदप्रपञ्चो भजते हन्त! गजप्रमाथिनाथः॥**
 
 **घुणजग्धकदासम्पुटानि स्फुटदूर्वाङ्कुरसन्धिमण्डपानि।  
 श्लथगर्भगृहाणि वीक्ष्य दूये भृशमन्यान्यपि देवताकुलानि**
 
 **मुखराणि पुरा मृदङ्गघोषैरभितो देवकुलानि यान्यभूवन्।  
-तुमुलानि भवन्ति फेरवाणां निनदैस्तांनि भयङ्करैरिदानीम्॥**
+तुमुलानि भवन्ति फेरवाणां निनदैस्तान्नि भयङ्करैरिदानीम्॥**
 
 **अतिलङ्घ्य चिरन्तनीं स्वसीमामपदेष्वर्पितजीवनप्रवृत्तिः।  
 मुहुरुत्पथगामिनी तुलुष्कानधुना हानुकरोति सह्यकन्या॥**
@@ -1556,7 +1581,7 @@ Travancore State,
 **(कलापकम्।)**
 
 **प्रणयागतचोलपाण्ड्यलक्ष्मीश्रवणेन्दीवरमालिकायमानम्।  
-विरचय्य पुरः कृपाणभेषा पुनरप्याह पुरन्दराभमेनंम्।\।**
+विरचय्य पुरः कृपाणभेषा पुनरप्याह पुरन्दराभमेनम्म्।\।**
 
 **नरनाथ ! पुरा कृपाणमेनं विरचय्याखिलदेवतायुधांशैः।  
 उपदीकृतवान् पिनाकपाणेर्दनुजानां विजयाय विश्वकर्मा॥**
@@ -1579,7 +1604,7 @@ Travancore State,
 **अमुनाशु विशस्य दक्षिणस्यां मधुरायां पुरि कंसवन्नृशंसम्।  
 यवनाधिपतिं बलोत्तरस्त्वं विदधीथाः स्फुटमच्युतावतारम्॥**
 
-**अनिदंप्रथमो हि धार्यतेऽसौ भवतान्यैर्मनसाप्यधारणीयः।  
+**अनिदम्प्रथमो हि धार्यतेऽसौ भवतान्यैर्मनसाप्यधारणीयः।  
 भुवनत्रयरक्षणैकदीक्षा विधिशंसी कटकः (पदा?करा ) म्बुजेन॥**
 
 **चलवेणिभिरुल्बणारुणाक्षैर्विपुलश्मश्रुभिरात्तसिंहनादैः।  
@@ -1598,21 +1623,23 @@ Travancore State,
 प्रतिरोपय रामसेतुमध्ये विजयस्तम्भशतानि बाहुशालिन् ॥**
 
 **त्वयि नाथ! नियन्तृतां प्रपन्ने धृतवेगा स्थिरसेतुबन्धनेन।  
-प्रथयत्वनुकूलयानलीलामचिरेणैव कवेरजाकरेणुः॥[^23]**
+प्रथयत्वनुकूलयानलीलामचिरेणैव कवेरजाकरेणुः॥[^24]**
 
-[^23]: " * इतः परं दश पत्राणि तालपत्रादर्शाद् विभ्रष्टानि।"
+[^24]: # " * इतः परं दश पत्राणि तालपत्रादर्शाद् विभ्रष्टानि।"
 
 **\[इति श्रीगङ्गादेव्या विरचिते मधुराविजय नाम्नि वीरकम्परायचरिते**
 
 ———————————
 
-**अष्टमः सर्गः।\]**  
-**———————**
 
-**.................फलकेन[^24] केचित् प्रत्यर्थिनां वञ्चितबाणवर्षाः।  
+
+**अष्टमः सर्गः।\]**  
+**——————— **
+
+**.................फलकेन[^25] केचित् प्रत्यर्थिनां वञ्चितबाणवर्षाः।  
 अलक्ष्यपातं युगपत् कृपाणैः कृत्ताखिलाङ्घ्रींस्तुरगा....म्॥**
 
-[^24]: " *इतः पूर्वं शताधिक श्लोकविच्छेदसंभावनया सर्गसङ्ख्या न निश्चेतुं शक्या"
+[^25]: # " *इतः पूर्वं शताधिक श्लोकविच्छेदसम्भावनया सर्गसङ्ख्या न निश्चेतुं शक्या "
 
 **आसञ्जिताः कङ्कमुखैर्विमुच्य...............भुवनेषु पङ्क्तिः।**  
 **आराच्चरन्त्या विरराज मृत्योरुत्तम्भिता तोरणमालिकेव \।\।**
@@ -1664,7 +1691,7 @@ Travancore State,
 **कुम्भेषु भिन्दन् नृपतिर्द्विपेन्द्रान् मुक्ताफलैः शर्करिलान्तराभिः।  
 प्रावर्तयद् रक्ततरङ्गिणीभिः परश्शताः संयति ताम्रपर्णीः॥**
 
-**तेन द्विपास्तोमरिणा विभिन्नाः कुंभस्थलैरुज्झितमौक्तिकौघैः।  
+**तेन द्विपास्तोमरिणा विभिन्नाः कुम्भस्थलैरुज्झितमौक्तिकौघैः।  
 क्रौञ्चस्य जहुर्गुहशक्तिघातप्रकीर्णहंसप्रकरस्य शोभाम्॥**
 
 **रंहस्विनः स्वाभिमुखान् क्षितीन्द्रो मृगान् नखाग्रेण यथा तरक्षुः।  
@@ -1683,7 +1710,7 @@ Travancore State,
 **कम्पक्षितीन्द्रं यवनाधिराजः प्रत्यग्रहीत् वृत्र इवामरेन्द्रम् ॥**
 
 **तं वीरपाणाधिकपाटलाक्षं ललाटलक्ष्यभ्रुकुटीकरालम्।  
-मदस्य रोषस्य च देहबन्धं संभेदमाशङ्कत वीरवर्गः॥**
+मदस्य रोषस्य च देहबन्धं सम्भेदमाशङ्कत वीरवर्गः॥**
 
 **निरायता तस्य तुरङ्गवेगा वेणिर्मणिश्रेणिमती चकाशे।  
 अमर्षवह्नेर्ज्वलनोन्मुखस्य धूमच्छटेव स्फुरितस्फुलिङ्गा॥**
@@ -1706,13 +1733,13 @@ Travancore State,
 **क्षतानि यान्यस्य शरैः शरीरे चकार वीरस्य तुलुष्कवीरः।  
 वितेनिरे तानि नखाङ्कशङ्कां जयश्रियो भोगसमुत्सुकायाः॥**
 
-**उदग्रमग्रे यवनाधिभर्तुः साक्षात्कलेर्मौलिमिवाशुगेनं।  
+**उदग्रमग्रे यवनाधिभर्तुः साक्षात्कलेर्मौलिमिवाशुगेनम्।  
 स मङ्क्षु सार्धं जयकाङ्क्षितेन ध्वाङ्क्षध्वजं ध्वंसयति स्म धन्वी॥**
 
 **अमर्षितस्याथ पृषत्कवर्षं विमुञ्चतो विद्विषतः शरेण।  
 स कार्मुकज्यामलुनात् तुलुष्कराज्यश्रियो मङ्गलसूत्रकल्पाम्॥**
 
-**विहाय शार्ङ्गं धनुरिद्धरोषस्तुलुष्क \[वीरस्त\]रवारिमुग्रम् ।  
+**विहाय शार्ङ्गं धनुरिद्धरोषस्तुलुष्क \[वीरस्त \]रवारिमुग्रम् ।  
 तुरङ्गपर्याणनिबद्धवर्ध्राविलम्बि (भिः?नं) सत्वरमुज्जहार ॥**
 
 **अथाग्रहीत् कम्पनृपस्तमेव कौक्षेयकं काल \[करालरूपम्।  
@@ -1729,23 +1756,23 @@ Travancore State,
 **च्युतेऽपि शीर्षे चलिताश्ववल्गा नियन्त्रणव्यापृतवा मपाणिम्।  
 प्रतिप्रहारप्रसृतान्यहस्तं वीरः कबन्धं द्विषतोऽभ्यनन्दीत्॥**
 
-**मानोन्नतेकम्पनृपस्य मौलौ पपात दिव्यद्रुमपुष्पवृष्टिः।  
+**मानोन्नते कम्पनृपस्य मौलौ पपात दिव्यद्रुमपुष्पवृष्टिः।  
 स्वयंवराभ्युत्सुकराजलक्ष्मी विमुक्तमुक्ताक्षतजालकल्पा॥**
 
 **प्रशान्तदावेव वनान्तलक्ष्मीर्गतोपरागा गगनस्थलीव।  
 कलिन्दजा मर्दितकालियेव दिग् दक्षिणासीत् क्षतपारसीका॥**
 
-**हृतावशिष्टानथ वैरियोधान् संरक्ष्य पादप्रण[^25].................।  
+**हृतावशिष्टानथ वैरियोधान् संरक्ष्य पादप्रण[^27] .................।  
 .............................................................................॥**
 
-[^25]: " * इयानेन तालपत्रादर्शः समुपलब्धः ।"
+[^27]: # " * इयानेन तालपत्रादर्शः समुपलब्धः ।"
 
-**\[इति श्रीगङ्गादेन्या विरचितं मधुराविजयं नाम वीरकम्परायचरितं**
-
-**समाप्तम्\]**
+**\[इति श्रीगङ्गादेन्या विरचितं मधुराविजयं नाम वीरकम्परायचरितं समाप्तम्\]**
 
 **शिवं भूयात्।**  
 ————————
+
+
 
 **EXTRACTS FROM SELECT OPINIONS.**
 
@@ -1762,13 +1789,15 @@ The book thus throws a flood of light upon the history of that time in the Decca
 
 VIDHUSEKHARA BHATTACHARYA,  
 
+
 ————:0:————
 
  **The United India & Native States** (11th June-1917):—“This charming poem published from Travancore gives the go by to the old charge that Sanskrit has not produced Women poets. The discovery of the work is important not only as a reminder of female achievement in Sanskrit literature, but as a source of fresh first hand light on the early history of the Vijayanagara Empire.”
 
 ———————  
 
- **The Hindu Madras** (1st May 1917):—“A most valuable and pleasing work of a Hindu poetess whose talents have been surpassed but by few of our poets.”
+
+ ** The Hindu Madras** (1st May 1917):—“A most valuable and pleasing work of a Hindu poetess whose talents have been surpassed but by few of our poets.”
 
 ———————
 
@@ -1778,6 +1807,6 @@ VIDHUSEKHARA BHATTACHARYA,
 
  இக்காவியத்தினால் தேவியா டைய கல்வித்திறமை பர்த்ருவாத் ஸல்யம் ஞ ன சீலம் முதலிய பல குணங்களும் விளங்குவனவுமன்றிச் சரி த்திரவாராய்ச்சி செய்பவர்கள் அறியவேண்டிய பல விஷயங்கள் வெளியா கின்றன. தேவியார் பேதையர் என்னும் பெண்மக்களுள் ஒருவராயிருப் பினும் அவர் தாமடைந்த வைதுஷ்யத்தை அவம் போக்காது விநியோக ஞ்செய்திருப்பதைச் சற்று யோசித்துப் பார்த்தால் சாதாரணமாக பெண்கல்வியின் அருமையையும் அதை உபயோகிக்கும் முறையையும் அதனாலா கும் பயன்களையும் எல்லோருமறிந் கொள்வதற்கேற்றதொரு மைப்புப்போல் விளங்கும் படி குலமகட்குத் தெய்வம் கொழுனன் என்ற கொள்கையுடையராய் வீரப்ரதாபாதி குணவிசேஷங்களை விஷயமாக க்கொண்டு பர்த்ருகீர்த்தனம் பண்ணித் தம் பர்த்தாவுக்கு இம்மையில் ன்பமும் புகழும் உண்டாக்கி "ய்புலவர்பாடும் புகழுடையோர் விசும்பின் ட்டிய வனேவாவான வூர்தியெய்துப என்றபடி மறுமையிலுத்தமலோகங்ர ப்தியுண்டாகச்செய்துகொண்ட புத்திசாதுர்யம் நன்கு புலப்படத்தக்கது.
 
-————————
+———— ————
 
 \]

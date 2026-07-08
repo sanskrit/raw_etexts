@@ -4,10 +4,9 @@ author = "आचार्यः दिङ्नागः"
 domain = "दर्शनानि"
 sub-domain = "बौद्धदर्शनम्"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-3637"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4ODg2MzMzODMxOTQz&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[आलम्बनपरीक्षा	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NDE4ODg2MzMzODMxOTQz&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -48,7 +47,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4ODg2MzMzODM
 
 सा चाविरुद्धा विज्ञप्तेरेवं विषयरूपकम् ।  
 प्रवर्ततेऽनादिकालं शक्तिश्चान्योन्यहेतुके ॥ ८ ॥
-
 
 
 **इत्याचार्यदिङ्नागकृता आलम्बनपरीक्षाप्रकरणकारिका समाप्ता ॥**

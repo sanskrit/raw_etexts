@@ -3,10 +3,9 @@ title = "निरालम्बोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4305"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzYyMzE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[निरालम्बोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzYyMzE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -18,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 
 
 
-निरालम्बोपनिषत् ।
+**निरालम्बोपनिषत् ।**
 
 
 
@@ -38,7 +37,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 
 निरालम्बं समाश्रित्य सालम्बं विजहाति यः ।
 
-स संन्यासी च योगी च कैवल्यं पदमश्नुते ।
+स सन्न्यासी च योगी च कैवल्यं पदमश्नुते ।
 
 एषमज्ञानजन्तूनां समस्तारिष्टशान्तये ।
 
@@ -64,7 +63,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 
 किमासुरम् । किं तपः । किं परमं पदम् ।
 
-किं ग्राह्यम् । किमग्राह्यम् । कः संन्यासीत्याहशङ्क्याह
+किं ग्राह्यम् । किमग्राह्यम् । कः सन्न्यासीत्याहशङ्क्याह
 
 ब्रह्मेति । स होवाच महदहङ्कारपृथिव्यप्तेजोवाय्वाकाशत्वेन
 
@@ -160,7 +159,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 
 तपोदानविधिविधानज्ञानसम्भवो बन्धः । केवलमोक्षा
 
-पेक्षासङ्कल्पो बन्धः । सङ्कल्पमात्रसंभवो बन्धः ।
+पेक्षासङ्कल्पो बन्धः । सङ्कल्पमात्रसम्भवो बन्धः ।
 
 मोक्ष इति च नित्यानित्यवस्तुविचारादनित्यसंसारसुख
 
@@ -200,7 +199,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 
 बुद्धीन्द्रियगोचरजगत्सत्यत्वचिन्तनमग्राह्यम् ।
 
-संन्यासीति च सर्वधर्मान्परित्यज्य निर्ममो
+सन्न्यासीति च सर्वधर्मान्परित्यज्य निर्ममो
 
 निरहङ्कारो भूत्वा ब्रह्मेष्टं शरणमुपगम्य
 
@@ -210,7 +209,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 
 नुभवज्ञानाद्ब्रह्मैवाहमस्मीति निश्चित्य
 
-निर्विकल्पसमाधिना स्वतन्त्रो यतिश्चरति स संन्यासी
+निर्विकल्पसमाधिना स्वतन्त्रो यतिश्चरति स सन्न्यासी
 
 स मुक्तः स पूज्यः स योगी स परमहंसः सोऽवधूतः
 
@@ -228,9 +227,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
-इति निरालम्बोपनिषत्समाप्ता ॥
+**इति निरालम्बोपनिषत्समाप्ता ॥**
 
---------------------------
+** --------------------------**
 
 
 

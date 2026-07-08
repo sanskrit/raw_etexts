@@ -3,10 +3,9 @@ title = "एकाक्षरोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4273"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyOTY4MzQ5MTkxMDE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[एकाक्षरोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjAyOTY4MzQ5MTkxMDE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyOTY4MzQ5MTk
 
 
 
-एकाक्षरोपनिषत् ।
+**एकाक्षरोपनिषत् ।**
 
 
 
@@ -132,7 +131,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyOTY4MzQ5MTk
 
 त्वं भूर्भुवः स्वस्त्वं हि
 
- स्वयंभूरथ विश्वतोमुखः ।
+ स्वयम्भूरथ विश्वतोमुखः ।
 
 य एवं नित्यं वेदयते गुहाशयं
 
@@ -150,9 +149,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyOTY4MzQ5MTk
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
-इत्येकाक्शरोपनिषत्समाप्ता ॥
+**इत्येकाक्शरोपनिषत्समाप्ता ॥**
 
--------------------------
+** -------------------------**
 
 
 

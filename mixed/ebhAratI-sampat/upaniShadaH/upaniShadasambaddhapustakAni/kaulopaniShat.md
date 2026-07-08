@@ -3,16 +3,13 @@ title = "कौलोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4289"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU5NzQ3Mzg4NzI3MTE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[कौलोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU5NzQ3Mzg4NzI3MTE0&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
-
-
 
 
 
@@ -152,9 +149,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU5NzQ3Mzg4NzI
 
 ॐ शान्तिः शान्तिः शान्तिः ।
 
-॥ कौलोपनिषत्समाप्ता ॥
+**॥ कौलोपनिषत्समाप्ता ॥**
 
--------------------------
+** -------------------------**
 
 
 

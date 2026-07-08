@@ -3,10 +3,9 @@ title = "आत्मबोधोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4255"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NTA1MTEwNDY0ODA0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[आत्मबोधोपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NTA1MTEwNDY0ODA0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -16,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NTA1MTEwNDY
 
 
 
-॥ आत्मबोधोपनिषत् ॥
+**॥ आत्मबोधोपनिषत् ॥**
 
 
 
@@ -26,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NTA1MTEwNDY
 
 ॐ वाङ्मे मनसीति शान्तिः ॥
 
-ॐ प्रत्यगानन्दं ब्रह्मपुरुषं प्रणवस्वरूपं अकार उकार
+ॐ प्रत्यगानन्दं ब्रह्मपुरुषं प्रणवस्वरूपम् अकार उकार
 
 मकार इति त्र्यक्षरं प्रणवं तदेतदोमिति । यमुक्त्वा मुच्यते
 
@@ -128,7 +127,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NTA1MTEwNDY
 
 विषयानन्दवाञ्छा मे मा भूदानन्दरूपतः ॥ १५॥
 
-दारिद्र्याशा यथा नास्ति संपन्नस्य तथा मम ।
+दारिद्र्याशा यथा नास्ति सम्पन्नस्य तथा मम ।
 
 ब्रह्मानन्दे निमग्नस्य विषयाशा न तद्भवेत् ॥ १६॥
 
@@ -196,9 +195,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NTA1MTEwNDY
 
 ॐ वाङ्मे मनसीति शान्तिः ॥
 
-इति आत्मबोधोपनिषत्समाप्ता ॥
+**इति आत्मबोधोपनिषत्समाप्ता ॥**
 
------------- ------------
+** ------------ ------------**
 
 
 

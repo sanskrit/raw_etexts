@@ -5,9 +5,11 @@ domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 pages = "16"
 language = "संस्कृतम्"
+editor = "चि.कुञ्जन् राजा"
+"books contributor" = "संस्कृतभारती बेङ्गलूरु"
+printer = "अड्यार्-लाइब्रेरी"
 "serial no." = "Ebharati-8239"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NDEzMTQwMzE5MDk3&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[भारतप्रशस्तिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NDEzMTQwMzE5MDk3&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -19,7 +21,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NDEzMTQwMzE
 
 
 
-**PREFATORY NOTE**
+
+
+**PREFATORY NOTE  
+——————**
 
 THE Inauguration and Proclamation of the Indian Republic on the 26th January 1950 is an event that is unique in the whole history of India. India was ruled by a foreign power from a foreign country for the first time during the ninteenth century and the first half of this century; till then India had entertained foreigners and some foreigners ruled parts of India also. But they ruled the country from within the country and as citizens of the country. The termination of this foreign rule, marked by the proclamation of the Republic is unique in so far as this is the first time when the whole of India was brought under a single administration. I have written this Ode to celebrate the occasion.
 
@@ -27,44 +32,45 @@ THE Inauguration and Proclamation of the Indian Republic on the 26th January 195
 
  It was Sardar K. M. Panikkar who suggested to me that I may write some verses in honour of this important occasion. I composed the verses and showed them to him; he approved. Dr. G. Srinivasa Murti, the Hon. Director of the Adyar Library, also gave his mark of approval. This is sufficient to make me bold to publish the Ode.
 
-C. KUNHAN RAJA
+**C. KUNHAN RAJA**
 
-
+**——————————**
 
 [TABLE]
 
 
 
-I. भारतभूमिः
+**I. भारतभूमिः**  
+**——————————**
 
-एषा भारतभूमिरद्य सुदिने निर्मुच्यमाना विदे-  
-शीयानां परमाधिकारनिगलात् पादे प्रसह्यार्पितात्।  
+**एषा भारतभूमिरद्य सुदिने निर्मुच्यमाना विदे-  
+शीयानां परमाधिकारनिगळात् पादे प्रसह्यार्पितात्।  
 सार्धे वर्षशतेऽनुभूय विविधं दैन्यं पुनः स्वोचिता-  
-मारूढा जनराज्यमान्यपदवीं सर्वैश्च संभाविता॥१॥
+मारूढा जनराज्यमान्यपदवीं सर्वैश्च सम्भाविता॥१॥**
 
-ईजिप्तादिपुराणसंस्कृतिसमुत्पत्तौ स्वयं ज्यायसी  
+**ईजिप्तादिपुराणसंस्कृतिसमुत्पत्तौ स्वयं ज्यायसी  
 या प्रावर्धत ग्रीक्क-रोम-मुख साम्राज्याभिपुष्टिक्षये।  
 वार्धक्यं पुनराङ्गलादिनवराज्येषु प्रपन्नेषु सा  
-धन्या भारतमेदिनी विजयते तारुण्यपूर्णा सदा॥२॥
+धन्या भारतमेदिनी विजयते तारुण्यपूर्णा सदा॥२॥**
 
-लोके केवलभौतिकार्थनिरतान् धर्मातिसक्तानपि  
+**लोके केवलभौतिकार्थनिरतान् धर्मातिसक्तानपि  
 व्यामोहेन पराङ्मुखान् बुधजनानाध्यात्मिकाच्छ्रेयसः।  
 नौभङ्गादुदधेस्तरङ्गनिवहे विक्षिप्यमाणानिव  
-त्रातुं भारतभूमिरेव भवति प्रज्ञाप्लवेन क्षमा॥३॥
+त्रातुं भारतभूमिरेव भवति प्रज्ञाप्लवेन क्षमा॥३॥**
 
-उत्पत्तिर्जिनबुद्धमुख्यबहुधर्माचार्यपुण्यात्मनां  
+**उत्पत्तिर्जिनबुद्धमुख्यबहुधर्माचार्यपुण्यात्मनां  
 विद्यानां प्रभवश्च, तद्विसरणे मूलं च लोकेऽखिले।  
 शश्वत्स्वैरनिवासभूमि-रिसलां-क्रिस्तु-ज्यहोवामत-  
-स्थानां, पार्सिमतानुयाय्यभयदं राष्ट्रं चिरं राजतु॥४॥
+स्थानां, पार्सिमतानुयाय्यभयदं राष्ट्रं चिरं राजतु॥४॥**
 
-इन्द्रप्रस्थमिति प्रशस्तविभवा यासीत् पुरी भारते  
+**इन्द्रप्रस्थमिति प्रशस्तविभवा यासीत् पुरी भारते  
 सेयं भारतदेशमूलनगरी दिल्ली नवा भूतले।  
 आरामैः सुमनोहरैर्विपणिभिर्दीपावलीभिर्महा-  
-रथ्याभिश्च जलाशयैर्विलसति स्तम्भैश्चहम्यैंर्युता॥५॥
+रथ्याभिश्च जलाशयैर्विलसति स्तम्भैश्च हम्यैंर्युता॥५॥**
 
 
 
-I. INDIA
+**I. INDIA**
 
  On this auspicious day, this India, freed from the chain of the supreme authority of foreigners cast on her legs by force, having suffered various humiliations for a century and a half, now has once more ascended to the honoured position of a Republic, worthy of herself, revered by all.
 
@@ -78,34 +84,32 @@ I. INDIA
 
 
 
-II\. राष्ट्रपतिः
+**II. राष्ट्रपतिः**
 
 **आद्यो राष्ट्रपतिर्जनैः प्रतिनिधिद्वारा यथेच्छं वृतो  
 “राजन्-बाबु” रिति प्रथापरिवृतः सौजन्यपाथोनिधिः।  
 राजेन्द्रोचितसर्वसद्गुणयुतो “राजेन्द्र” नामा “प्रसा-  
-दो” पाह्वःप्रसरत्प्रसादसुमुखो दिल्लीपुरे राजति॥६॥**
+दो” पाह्वः प्रसरत्प्रसादसुमुखो दिल्लीपुरे राजति॥६॥**
 
 **बीहाराभिधनीवृति प्रववृते भूकम्पबाधा पुरा  
 यस्यां नष्टधनान् विभग्नभवनान् सर्वाननाथानपि।  
 त्रातुं सञ्चितवान् धनं बहुतरं, रक्षां च तेभ्यो व्यधा-  
-देष; श्लाघ्यकथेयमत्र शिशुभिश्चाद्यापि संगीयते॥७॥**
+देष; श्लाघ्यकथेयमत्र शिशुभिश्चाद्यापि सङ्गीयते॥७॥**
 
 **आरूढोऽखिलराष्ट्रनेतृपदवीं स्वीयानुभावोचितां  
 पश्चाद्भारतसंविधानसमितावध्यक्षभूतः स्वयम्।  
 राजेन्द्रो जनराज्यमेष कृतवान् पौरैकतन्त्रात्मकं  
-संपूर्णप्रभुतायुतं च सुकृती न्यायेन राष्ट्रं निजम्॥८॥**
+सम्पूर्णप्रभुतायुतं च सुकृती न्यायेन राष्ट्रं निजम्॥८॥**
 
 **पाण्डित्यं किल राजनीतिनिवहे साहित्यसाराप्लुतं  
 यस्मिन् सत्यपरिग्रहे दृढमतिः स्वार्थाप्तिसंवर्जिता।  
-शुद्धा प्राक्तनसंप्रदायविततेः श्रद्धा प्रतिष्ठापने;  
+शुद्धा प्राक्तनसम्प्रदायविततेः श्रद्धा प्रतिष्ठापने;  
 साक्षाद्भारतधर्म एव नु भवेत् सोऽयं शरीरं वहन्॥९॥**
 
 **राज्येऽस्मिन्नतिदीर्घकालवितते सत्याग्रहाख्ये निज-  
 स्वातन्त्र्याप्तिनिमित्तघोरसमरे लब्ध्वा पुरोगामिताम्।  
 देहास्वास्थ्यमनेकबन्धुविरहं दैन्यं च कारागृहे  
 सेहे; भारतमुख्यपौरपदवीं काले फलं चाप्तवान्॥१०॥**
-
-
 
 **II. THE PRESIDENT**
 
@@ -115,42 +119,42 @@ II\. राष्ट्रपतिः
 
  This Rajendra, having risen to the position of being the leader of the whole country which was befitting of his grandeur, and later becoming himself the President of the Constituent Assembly of India, made his own country a Sovereign, Democratic Republic through a Law, the performer of good deeds.
 
- His scholarship in the multitude of political science is, indeed, saturated with the essence of literary accomplishments; in him the steady determination to stick to Truth is completely free from all motives for the attainment of personal ends; his attachment to the maintenance of the chains of ancient traditions is pure; it looks as if he is the Dharma ofIndia itself, bearing a body.
+ His scholarship in the multitude of political science is, indeed, saturated with the essence of literary accomplishments; in him the steady determination to stick to Truth is completely free from all motives for the attainment of personal ends; his attachment to the maintenance of the chains of ancient traditions is pure; it looks as if he is the Dharma of India itself, bearing a body.
 
  He, having taken his place in the forefront in the great battle called Satyagraha that lasted for a very long period in this country, for the purpose of winning freedom for their own (land), he suffered ill-health, separation from a large number of relatives and friends, and humiliation in prison. In course of time, he attained the fruit in the form of becoming the First Citizen of India.
 
 
 
-III\. मुख्यमन्त्री
+**III. मुख्यमन्त्री**
 
-मुख्यो मन्त्रिवरोऽस्ति शान्तहृदयो गाम्भीर्यमात्राज्जग-  
+**मुख्यो मन्त्रिवरोऽस्ति शान्तहृदयो गाम्भीर्यमात्राज्जग-  
 त्पीडोद्युक्तनृणां सदा जवहरो बाल्यं श्रितान् लालयन्।  
 “नेह्रू”पाह्वयमण्डितां “जवहरे”त्याख्यां च “लालो”त्तरा-  
-मन्वर्थो किल यस्य चारु विदधे भूतार्थवेदी पिता॥११॥
+मन्वर्थो किल यस्य चारु विदधे भूतार्थवेदी पिता॥११॥**
 
-बाल्ये सम्यगुपार्जिता बहुतरा विद्या पुनर्यौवने  
+**बाल्ये सम्यगुपार्जिता बहुतरा विद्या पुनर्यौवने  
 धर्म्येणैव पथा सदा विचरता चार्थो महान् सञ्चितः।  
 वार्धक्येऽपि च “मोतिलाल”मुनिना येनाखिलं स्वं धनं  
-दत्तं भारतभूतये, स जनको “नेह्रू”पनामास्य हि॥१२॥
+दत्तं भारतभूतये, स जनको “नेह्रू”पनामास्य हि॥१२॥**
 
-ग्रन्थानां रचनैर्विशिष्टविषयैर्लोकप्रशस्तैस्तथा  
+**ग्रन्थानां रचनैर्विशिष्टविषयैर्लोकप्रशस्तैस्तथा  
 सद्गोष्ठीष्वभिभाषणैर्बहुविधोपन्यासलेखैरयम्।  
 साहित्ये निजपाटवं प्रकटयन् नीत्वापि कालं बहुं  
-धत्ते भारतभूप्रशासनधुरां गुर्वीमनन्याश्रितः॥१३॥
+धत्ते भारतभूप्रशासनधुरां गुर्वीमनन्याश्रितः॥१३॥**
 
-प्रासादे विभवैर्युते बहुविधैः कारागृहे वा वसं-  
+**प्रासादे विभवैर्युते बहुविधैः कारागृहे वा वसं-  
 स्त्रैलोक्येऽप्यभिसंस्तुतः कुमतिभिः सर्वत्र वा निन्दितः।  
 आकृष्टो विषयैरपायततिभिर्ग्रस्तोऽथवा विश्वतो  
-धीरो नैव विकारमेष भजते क्वापि स्वकीये हृदि॥१४॥
+धीरो नैव विकारमेष भजते क्वापि स्वकीये हृदि॥१४॥**
 
-नैपुण्यं नयवर्त्मसु प्रसृमरा कीर्तिश्च लोकोत्तरा  
-दाक्षिण्यं स्वजनेषु सोदरसमो भावश्चदीनेष्वपि।  
+**नैपुण्यं नयवर्त्मसु प्रसृमरा कीर्तिश्च लोकोत्तरा  
+दाक्षिण्यं स्वजनेषु सोदरसमो भावश्च दीनेष्वपि।  
 राज्यस्याभ्युदयोन्मुखे च विषये बोधोऽपि कालोचितः  
-सन्त्यस्मिन्निति राष्ट्रनायकगुणाः सर्वेऽप्यनन्याश्रयाः॥१५॥
+सन्त्यस्मिन्निति राष्ट्रनायकगुणाः सर्वेऽप्यनन्याश्रयाः॥१५॥**
 
 
 
-III\. THE PRIME MINISTER
+**III. THE PRIME MINISTER**
 
  Here is the great Prime Minister, with a serene heart, who through his share grandeur, destroys the impetuosity (Jawa-hara) of persons who are engaged in bringing misery to the country, who entertains (Lalayan) those who are in childhood; to him, his father, who could know the real truth, gave the charming name of Jawahara followed by Lal, which is literally true, adorned with the by-name of Nehru.
 
@@ -164,12 +168,12 @@ III\. THE PRIME MINISTER
 
 
 
-IV\. उपमुख्यमन्त्री
+**IV. उपमुख्यमन्त्री**
 
 **अभ्युद्यद्रिपुमत्तहस्तिदमने भीमाकृतिः केसरी  
 साधुद्रोहजुषामकुण्ठितफलो मन्त्रश्च यो भोगिनाम्।  
-भ्रष्टानां पृथिवीभुजां नयपथात् संपेषणे भार्गवो  
-वीरोऽसावुपमुख्यमन्त्रिपदमध्यास्तेऽद्य “पट्टै”लिह॥१६॥**
+भ्रष्टानां पृथिवीभुजां नयपथात् सम्पेषणे भार्गवो  
+वीरोऽसावुपमुख्यमन्त्रिपदमध्यास्तेऽद्य “पट्टै” लिह॥१६॥**
 
 **गाम्भीर्यं पुनरस्य तादृशमसौ यस्मादधृष्यः परै-  
 स्तादृक् तस्य पराक्रमोऽपि च यतः सर्वं जगद्वेपते।  
@@ -184,7 +188,7 @@ IV\. उपमुख्यमन्त्री
 **संरम्भेष्वखिलेषु तस्य विविधा विघ्ना द्रवन्त्यञ्जसा  
 तद्भीत्या स्वयमेव भास्वदुदये प्रातस्तुषारा इव।  
 एतावत्प्रभुशक्तिसंयुतमहाभागस्य सेवारता-  
-स्तत्पादेनिपतन्ति निर्वृतधियः सर्वाः सदा सिद्धयः॥१९॥**
+स्तत्पादे निपतन्ति निर्वृतधियः सर्वाः सदा सिद्धयः॥१९॥**
 
 **नाम्ना नैव हि केवलं, सुजनतायोगाच्च यो “वल्लभो”  
 लोकानां, स्वकुलक्रमागतमहा “सर्दा” र्पदस्थोऽपि यः।  
@@ -193,7 +197,7 @@ IV\. उपमुख्यमन्त्री
 
 
 
-IV\. DEPUTY PRIME MINISTER
+**IV. DEPUTY PRIME MINISTER**
 
  In taming the enemies who rush forward like a maddened elephant, a lion of terrible looks, to those who revel in pleasures (or serpents) after exploiting the good people, a magic spell that never fails in its effect, in crushing the rulers of the country who have dropped down from the paths of justice, a Parasurama: such a hero, Patel, now occupies the position of Deputy Prime Minister, here.
 
@@ -207,9 +211,9 @@ IV\. DEPUTY PRIME MINISTER
 
 
 
-**v. उद्घोषणदिनम्**
+**v. उद्घोषणदिनं**
 
- कलियुगे ५०५० तमवर्षे (१८४४८४२ कलिदिने) २००६ तमे विक्रमसंवत्सरे, १८७१ तमे शकवर्षे विरोधिनामसंवत्सरे मकरे सौरमासे १३ दिने माघेचान्द्रमासे शुक्लाष्टम्यां १९५० क्रिस्तुवर्षे जनवरिमासे २६ दिने भारतजनराज्यमुद्घोषितम्।
+ कलियुगे ५०५० तमवर्षे (१८४४८४२ कलिदिने) २००६ तमे विक्रमसंवत्सरे, १८७१ तमे शकवर्षे विरोधिनामसंवत्सरे मकरे सौरमासे १३ दिने माघे चान्द्रमासे शुक्लाष्टम्यां १९५० क्रिस्तुवर्षे जनवरिमासे २६ दिने भारतजनराज्यमुद्घोषितम्।
 
  अस्मिन् दिने करणं विष्टिः; साध्यनामा नित्ययोगश्च।
 
@@ -231,29 +235,18 @@ IV\. DEPUTY PRIME MINISTER
 [TABLE]
 
 
-
-
-
-***Note—**These calculations are based on the system current in South India. The first two columns represent the Rasis and the Degrees that have already been covered.*
-
-
+** ** *** Note—**These calculations are based on the system current in South India. The first two columns represent the Rasis and the Degrees that have already been covered.*
 
 **VI. शुभाशंसा**
 
-**एतादृक्प्रभुमन्त्रशक्तिधिषणा-  
-सत्कीर्तिजुष्टैर्महा-  
-वीरैः शश्वदवेक्षिता धनलस-  
-द्विद्याकलामण्डिता।  
-योगक्षेमकरी समस्तभुवने  
-मैत्रीं परां तन्वती  
-स्वस्थाने जनराज्यभारतमही  
-जागर्तु लोके सदा॥**
+**एतादृक्प्रभुमन्त्रशक्तिधिषणासत्कीर्तिजुष्टैर्महावीरैः शश्वदवेक्षिता धनलसद्विद्याकलामण्डिता।  
+योगक्षेमकरी समस्तभुवने मैत्रीं परां तन्वती स्वस्थाने जनराज्यभारतमही जागर्तु लोके सदा॥**
 
 **VI. GREETINGS**
 
  Ever looked after by great heroes of such sovereign power and power for deliberations and with such talents and great glory, adorned with wisdom and art resplendent with wealth, producing prosperity and welfare, bestowing full friendliness on all the countries, may the land of India as a Republic continue vigilant in her own position.
 
-
+**——————————**
 
 
 \]

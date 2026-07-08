@@ -3,10 +3,9 @@ title = "भैरवस्तवः"
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2879"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM5MjM5MTgxMzczNjcy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[भैरवस्तवः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODM5MjM5MTgxMzczNjcy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -58,7 +57,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM5MjM5MTgxMzc
 
 ------------------------------------------------------------------------
 
-\\\\Z  
+\\Z  
 
 
 

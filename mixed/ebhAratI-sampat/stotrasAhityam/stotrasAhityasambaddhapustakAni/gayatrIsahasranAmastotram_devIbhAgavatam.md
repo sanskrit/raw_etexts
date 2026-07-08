@@ -3,10 +3,9 @@ title = "गयत्रीसहस्रनामस्तोत्रम् (
 domain = "स्तोत्रसाहित्यम्"
 sub-domain = "स्तोत्रसाहित्यसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-2951"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzNzgzMTE5NDgyMzgy&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गयत्रीसहस्रनामस्तोत्रम् (देवीभागवतम्)	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjIzNzgzMTE5NDgyMzgy&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -344,7 +343,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzNzgzMTE5NDg
 यद्गृहे लिखितं शास्त्रं भयं तस्य न कस्यचित् ।  
 चञ्चलापिस्थिरा भूत्वा कमला तत्र तिष्ठति ॥ १६०॥  
 इदं रहस्यं परमं गुह्याद्गुह्यतरं महत् ।  
-पुण्यप्रदं मनुष्याणां दरिद्राणांनिधिप्रदम् ॥ १६१॥  
+पुण्यप्रदं मनुष्याणां दरिद्राणान्निधिप्रदम् ॥ १६१॥  
 मोक्षप्रदं मुमुक्षूणां कामिनां सर्वकामदम् ।  
 रोगाद्वै मुच्यते रोगी बद्धो मुच्येत बन्धनात् ॥ १६२॥  
 ब्रह्महत्या सुरापानं सुवर्णस्तेयिनो नराः ।  

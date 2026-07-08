@@ -1,24 +1,26 @@
 +++
-title = "बृहज्जाबालोपनिषत्"
+title = "Download Text\n\t\t\t\tबृहज्जाबालोपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4262"
 source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5NTMxOTA0"
-
 +++
-[[बृहज्जाबालोपनिषत्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5NTMxOTA0)]]
+[[
+
+ Download Text
+				बृहज्जाबालोपनिषत्	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5NTMxOTA0)]]
 
 \[
 
 
 
-बृहज्जाबालोपनिषत् ।
+** बृहज्जाबालोपनिषत् ।**
 
 
 
-अथ प्रथमं ब्राह्मणम् ।
+** अथ प्रथमं ब्राह्मणम् ।**
 
 
 
@@ -30,15 +32,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5
 
 पश्येमाक्षभिर्यजत्राः ।
 
-स्थिरैरङ्गैस्तुष्टुवा
-
-{\\\\
-
-म्+
-
-}
-
-सस्तनूभिः । व्यशेम देवहितं
+स्थिरैरङ्गैस्तुष्टुवा{\\म्+}सस्तनूभिः । व्यशेम देवहितं
 
 यदायुः ॥
 
@@ -124,15 +118,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5
 
 अद्रक्षेति ॥
 
-प्रथमं ब्राह्मणम् ॥ १॥
+**प्रथमं ब्राह्मणम् ॥ १॥**
 
---------- ---------
-
-
+** --------- ---------**
 
 
 
-अथ द्वितीयं ब्राह्मणम् ।
+
+
+**अथ द्वितीयं ब्राह्मणम् ।**
 
 
 
@@ -172,7 +166,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5
 
 ऊर्ध्वशक्तिमयं सोम अधोशक्तिमयोऽनलः ।
 
-ताभ्यां संपुटितस्तस्माच्च्हश्वद्विश्वमिदं जगत् ॥ ५॥
+ताभ्यां सम्पुटितस्तस्माच्च्हश्वद्विश्वमिदं जगत् ॥ ५॥
 
 अग्नेरूर्ध्वं भवत्येषा यावत्सौम्यं परामृतम् ।
 
@@ -188,7 +182,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5
 
 शिवश्चोर्ध्वमयः शक्तिरूर्ध्वशक्तिमयः शिवः ।
 
-तदित्थं शिवशक्तिभ्यां नाव्याप्तमिह किंचन ॥ ९॥
+तदित्थं शिवशक्तिभ्यां नाव्याप्तमिह किञ्चन ॥ ९॥
 
 असकृच्चाग्निना दग्धं जगत्तद्भस्मसात्कृतम् ।
 
@@ -220,8 +214,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5
 
 इति ॥ १६॥
 
-द्वितीयं ब्राह्मणम् ॥ २॥
+**द्वितीयं ब्राह्मणम् ॥ २॥**
 
----------- -----------
+** ---------- -----------**
 
 \]

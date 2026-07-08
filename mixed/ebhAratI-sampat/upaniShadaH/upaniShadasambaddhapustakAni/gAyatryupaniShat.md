@@ -3,10 +3,9 @@ title = "गायत्र्युपनिषत्"
 domain = "उपनिषदः"
 sub-domain = "उपनिषदसम्बद्धपुस्तकानि"
 language = "संस्कृतम्"
-"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः, तिरुपतिः"
+"books contributor" = "राष्ट्रियसंस्कृतविश्वविद्यालयः-तिरुपतिः"
 "serial no." = "Ebharati-4278"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMTgwNTI5MTc2MDE0&pageno=MjI0MjQyNjk5NTk="
-
 +++
 [[गायत्र्युपनिषत्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMTgwNTI5MTc2MDE0&pageno=MjI0MjQyNjk5NTk=)]]
 
@@ -18,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMTgwNTI5MTc
 
 
 
-गायत्र्युपनिषत् ।
+**गायत्र्युपनिषत् ।**
 
 
 
@@ -136,9 +135,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMTgwNTI5MTc
 
 
 
-इति गायत्र्युपनिषत् समाप्ता ॥
+**इति गायत्र्युपनिषत् समाप्ता ॥ **
 
-------------------------
+** ------------------------**
 
 
 
