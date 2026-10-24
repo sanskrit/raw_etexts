@@ -265,3 +265,7 @@
 [submodule "kAvyam/gadyam/adhyeta-data"]
 	path = kAvyam/gadyam/adhyeta-data
 	url = https://github.com/s-i-e-v-e/adhyeta-data.git
+[submodule "mixed/setutila/sarvamula"]
+	path = mixed/setutila/sarvamula
+	url = https://github.com/Setutila/Sarvamula
+	branch = main
