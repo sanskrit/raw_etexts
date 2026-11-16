@@ -274,3 +274,43 @@
 	url = https://github.com/eadaradhiraj/skt-kavyas.git
 	update = merge
 	branch = main
+[submodule "kAvyam/eadaradhiraj/o_henry_in_skt"]
+	path = kAvyam/eadaradhiraj/o_henry_in_skt
+	url = https://github.com/eadaradhiraj/o_henry_in_skt.git
+	update = merge
+	branch = main
+[submodule "kAvyam/eadaradhiraj/james-bond-skt"]
+	path = kAvyam/eadaradhiraj/james-bond-skt
+	url = https://github.com/eadaradhiraj/james-bond-skt.git
+	update = merge
+	branch = main
+[submodule "kAvyam/eadaradhiraj/Sherlock-Holmes-Sanskrit"]
+	path = kAvyam/eadaradhiraj/Sherlock-Holmes-Sanskrit
+	url = https://github.com/eadaradhiraj/Sherlock-Holmes-Sanskrit.git
+	update = merge
+	branch = main
+[submodule "kAvyam/eadaradhiraj/anton_chekhov_in_skt"]
+	path = kAvyam/eadaradhiraj/anton_chekhov_in_skt
+	url = https://github.com/eadaradhiraj/anton_chekhov_in_skt.git
+	update = merge
+	branch = main
+[submodule "kAvyam/eadaradhiraj/plato-in-skt"]
+	path = kAvyam/eadaradhiraj/plato-in-skt
+	url = https://github.com/eadaradhiraj/plato-in-skt.git
+	update = merge
+	branch = main
+[submodule "kAvyam/eadaradhiraj/clausewitz-sanskrit"]
+	path = kAvyam/eadaradhiraj/clausewitz-sanskrit
+	url = https://github.com/eadaradhiraj/clausewitz-sanskrit.git
+	update = merge
+	branch = master
+[submodule "kAvyam/eadaradhiraj/the_prince_in_sanskrit"]
+	path = kAvyam/eadaradhiraj/the_prince_in_sanskrit
+	url = https://github.com/eadaradhiraj/the_prince_in_sanskrit.git
+	update = merge
+	branch = main
+[submodule "kAvyam/eadaradhiraj/latin-grammar-in-skt"]
+	path = kAvyam/eadaradhiraj/latin-grammar-in-skt
+	url = https://github.com/eadaradhiraj/latin-grammar-in-skt.git
+	update = merge
+	branch = main
