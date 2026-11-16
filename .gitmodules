@@ -269,3 +269,8 @@
 	path = mixed/setutila/sarvamula
 	url = https://github.com/Setutila/Sarvamula
 	branch = main
+[submodule "kAvyam/eadaradhiraj/skt-kavyas"]
+	path = kAvyam/eadaradhiraj/skt-kavyas
+	url = https://github.com/eadaradhiraj/skt-kavyas.git
+	update = merge
+	branch = main
