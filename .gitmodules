@@ -314,3 +314,8 @@
 	url = https://github.com/eadaradhiraj/latin-grammar-in-skt.git
 	update = merge
 	branch = main
+[submodule "kAvyam/adhyeta-org-in/adhyeta-data"]
+	path = kAvyam/adhyeta-org-in/adhyeta-data
+	url = https://github.com/adhyeta-org-in/adhyeta-data.git
+	update = merge
+	branch = master
